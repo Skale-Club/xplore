@@ -6,6 +6,10 @@ import { GameHero } from "@/components/game-hero";
 import { HltbStats } from "@/components/hltb-stats";
 import { TrophyList } from "@/components/trophy-list";
 import { Walkthrough } from "@/components/walkthrough";
+import {
+  WalkthroughProgressProvider,
+  WalkthroughSummary,
+} from "@/components/walkthrough-progress";
 import { Button } from "@/components/ui/button";
 import { PageContainer } from "@/components/page-container";
 import { Tabs, TabsList, TabsTrigger, TabsContent } from "@/components/ui/tabs";
@@ -151,10 +155,15 @@ export default async function GameDetailPage({
 
   return (
     <PageContainer>
+      {/* Shares live completion between the header ring and the checklist. */}
+      <WalkthroughProgressProvider sections={categoriesWithItems} lastCompletedId={lastCompletedId}>
       <GameHero
         title={title}
         platform={game.platform}
         coverUrl={game.cover_url}
+        progress={
+          categoriesWithItems.length > 0 ? <WalkthroughSummary labels={d} /> : undefined
+        }
         stats={
           <HltbStats
             title={d.hltb.title}
@@ -218,7 +227,6 @@ export default async function GameDetailPage({
             <Walkthrough
               sections={categoriesWithItems}
               initialSectionId={initialSectionId}
-              lastCompletedId={lastCompletedId}
               resumeOnMount={!requestedSectionId}
               labels={d}
               toggleAction={toggleItemCompletionAction}
@@ -250,6 +258,7 @@ export default async function GameDetailPage({
           </TabsContent>
         )}
       </Tabs>
+      </WalkthroughProgressProvider>
     </PageContainer>
   );
 }

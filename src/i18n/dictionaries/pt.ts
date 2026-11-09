@@ -104,6 +104,8 @@ export const pt: Dictionary = {
       advancingTo: "A seguir: {chapter}",
       goNow: "Ir agora",
       stayHere: "Ficar aqui",
+      viewImage: "Ver imagem",
+      watchVideo: "Assistir vídeo",
       allHidden: "Todos os passos deste capítulo estão concluídos.",
       previous: "Capítulo anterior",
       next: "Próximo capítulo",

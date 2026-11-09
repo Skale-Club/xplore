@@ -100,6 +100,8 @@ export const en = {
       advancingTo: "Next: {chapter}",
       goNow: "Go now",
       stayHere: "Stay here",
+      viewImage: "View image",
+      watchVideo: "Watch video",
       allHidden: "Every step in this chapter is done.",
       previous: "Previous chapter",
       next: "Next chapter",

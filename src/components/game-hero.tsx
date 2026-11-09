@@ -9,12 +9,15 @@ export function GameHero({
   platform,
   coverUrl,
   stats,
+  progress,
   actions,
 }: {
   title: string;
   platform: string;
   coverUrl: string | null;
   stats?: React.ReactNode;
+  /** Shown on the same line as the title on wider screens, below it on phones. */
+  progress?: React.ReactNode;
   actions?: React.ReactNode;
 }) {
   return (
@@ -32,7 +35,8 @@ export function GameHero({
         </div>
       )}
 
-      <div className="relative flex items-center gap-3 p-3.5 sm:gap-5 sm:p-5">
+      <div className="relative flex flex-col gap-3 p-3.5 sm:flex-row sm:items-center sm:gap-5 sm:p-5">
+      <div className="flex min-w-0 flex-1 items-center gap-3 sm:gap-5">
         {coverUrl && (
           <Image
             src={coverUrl}
@@ -54,7 +58,13 @@ export function GameHero({
           {stats}
         </div>
 
-        {actions && <div className="shrink-0 self-start">{actions}</div>}
+        {actions && <div className="shrink-0 self-start sm:self-center">{actions}</div>}
+      </div>
+      {progress && (
+        <div className="border-t border-border/60 pt-3 sm:border-t-0 sm:border-l sm:pt-0 sm:pl-5">
+          {progress}
+        </div>
+      )}
       </div>
     </section>
   );

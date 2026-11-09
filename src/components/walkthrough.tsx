@@ -1,6 +1,5 @@
 "use client";
 
-import Image from "next/image";
 import {
   useCallback,
   useEffect,
@@ -22,9 +21,10 @@ import {
   Search,
   X,
 } from "lucide-react";
-import { ProgressRing } from "@/components/progress-ring";
 import { computeCompletionPercent } from "@/lib/progress";
 import { findNextStep } from "@/lib/walkthrough";
+import { useWalkthroughProgress } from "@/components/walkthrough-progress";
+import { StepMediaThumb } from "@/components/step-media";
 import { t } from "@/i18n/format";
 import type { Dictionary } from "@/i18n/dictionaries/en";
 import { cn } from "@/lib/utils";
@@ -93,7 +93,6 @@ const ADVANCE_DELAY_MS = 2200;
 export function Walkthrough({
   sections,
   initialSectionId,
-  lastCompletedId,
   resumeOnMount,
   labels,
   toggleAction,
@@ -101,8 +100,6 @@ export function Walkthrough({
 }: {
   sections: WalkthroughChapter[];
   initialSectionId: string;
-  /** Step the player ticked most recently (anchor for "where you left off"). */
-  lastCompletedId: string | null;
   /** True when the page opened without an explicit chapter — flash the next step. */
   resumeOnMount: boolean;
   labels: Labels;
@@ -113,24 +110,16 @@ export function Walkthrough({
   const pathname = usePathname();
   const w = labels.walkthrough;
 
-  // Completion lives here (not in each row) so every counter on the page —
-  // ring, sidebar, chapter bar, "next up" — updates the instant a step is
-  // ticked, before the server round trip finishes.
-  const [done, setDone] = useState<Set<string>>(
-    () =>
-      new Set(
-        sections.flatMap((section) =>
-          section.items.filter((item) => item.completed).map((item) => item.id)
-        )
-      )
-  );
+  // Completion lives in the shared provider (not in each row) so every counter
+  // on the page — header ring, sidebar, chapter bar, "next up" — updates the
+  // instant a step is ticked, before the server round trip finishes.
+  const { done, setDone, lastDoneId, setLastDoneId } = useWalkthroughProgress();
   const [activeId, setActiveId] = useState(initialSectionId);
-  const [lastDoneId, setLastDoneId] = useState(lastCompletedId);
   const [query, setQuery] = useState("");
   const [error, setError] = useState<string | null>(null);
   // On a fresh visit (no ?c=), land on the step they left off at.
   const [highlightId, setHighlightId] = useState<string | null>(() =>
-    resumeOnMount ? (findNextStep(sections, done, lastCompletedId)?.item.id ?? null) : null
+    resumeOnMount ? (findNextStep(sections, done, lastDoneId)?.item.id ?? null) : null
   );
   // Pending "chapter finished → move to the next one" hop; cancellable.
   const [advance, setAdvance] = useState<{ chapterId: string; stepId: string } | null>(
@@ -162,13 +151,6 @@ export function Walkthrough({
       })),
     [sections, done]
   );
-  const totalSteps = chapterStats.reduce((n, s) => n + s.total, 0);
-  const doneSteps = chapterStats.reduce((n, s) => n + s.done, 0);
-  const percent = computeCompletionPercent(totalSteps, doneSteps);
-  const chaptersDone = chapterStats.filter((s) => s.total > 0 && s.done === s.total).length;
-
-  const nextStep = findNextStep(sections, done, lastDoneId);
-
   const trimmedQuery = query.trim();
   const searchGroups = useMemo(() => {
     if (!trimmedQuery) return null;
@@ -340,12 +322,41 @@ export function Walkthrough({
     );
   }
 
+  const nextStep = findNextStep(sections, done, lastDoneId);
+
   function jumpToNext() {
     if (!nextStep) return;
     setQuery("");
     if (nextStep.section.id !== active.id) select(nextStep.section.id);
     setHighlightId(nextStep.item.id);
   }
+
+  // "Next up" card: top of the chapter index on desktop, above the chapter
+  // strip on phones.
+  const nextUpCard = nextStep ? (
+    <button
+      type="button"
+      onClick={jumpToNext}
+      className="group flex w-full items-center gap-3 rounded-xl border border-primary/30 bg-primary/10 px-3 py-2.5 text-left outline-none transition-colors hover:bg-primary/15 focus-visible:ring-3 focus-visible:ring-ring/50"
+    >
+      <span className="flex min-w-0 flex-1 flex-col">
+        <span className="text-[10px] font-semibold tracking-wider text-primary uppercase">
+          {w.nextUp}
+        </span>
+        <span className="truncate text-sm font-medium">{nextStep.item.title}</span>
+        <span className="truncate text-xs text-muted-foreground">{nextStep.section.title}</span>
+      </span>
+      <ArrowRight
+        className="size-4 shrink-0 text-primary transition-transform group-hover:translate-x-0.5"
+        aria-hidden
+      />
+    </button>
+  ) : (
+    <p className="flex items-center gap-2 rounded-xl border border-success/30 bg-success/10 px-3 py-2.5 text-sm font-medium text-success animate-in fade-in zoom-in-95">
+      <PartyPopper className="size-4 shrink-0" aria-hidden />
+      {w.allDone}
+    </p>
+  );
 
   // Picking a chapter while scrolled deep into a long one brings its top back
   // into view; otherwise the page stays put.
@@ -376,6 +387,7 @@ export function Walkthrough({
       checked={done.has(item.id)}
       highlighted={highlightId === item.id}
       onToggle={(next) => setSteps([item.id], next)}
+      mediaLabels={w}
     />
   );
 
@@ -384,58 +396,6 @@ export function Walkthrough({
 
   return (
     <div className="flex flex-col gap-5">
-      {/* Summary: overall ring + "next up" */}
-      <div className="flex flex-col gap-3 rounded-2xl border bg-card p-3 sm:flex-row sm:items-center sm:gap-4 sm:p-4">
-        <div className="flex items-center gap-3">
-          <ProgressRing percent={percent} size={60} stroke={6}>
-            <span className="font-heading text-base font-bold tabular-nums">
-              {percent}
-              <span className="text-[10px] font-semibold text-muted-foreground">%</span>
-            </span>
-          </ProgressRing>
-          <div className="flex min-w-0 flex-col">
-            <p className="text-[11px] font-semibold tracking-wider text-muted-foreground uppercase">
-              {labels.overallProgress}
-            </p>
-            <p className="text-base font-semibold">
-              {t(labels.itemsComplete, { done: doneSteps, total: totalSteps })}
-            </p>
-            <p className="text-sm text-muted-foreground">
-              {t(labels.chaptersComplete, { done: chaptersDone, total: sections.length })}
-            </p>
-          </div>
-        </div>
-
-        <div className="sm:ml-auto sm:w-72">
-          {nextStep ? (
-            <button
-              type="button"
-              onClick={jumpToNext}
-              className="group flex w-full items-center gap-3 rounded-xl border border-primary/30 bg-primary/10 px-3.5 py-2.5 text-left outline-none transition-colors hover:bg-primary/15 focus-visible:ring-3 focus-visible:ring-ring/50"
-            >
-              <span className="flex min-w-0 flex-1 flex-col">
-                <span className="text-[11px] font-semibold tracking-wider text-primary uppercase">
-                  {w.nextUp}
-                </span>
-                <span className="truncate text-[15px] font-medium">{nextStep.item.title}</span>
-                <span className="truncate text-xs text-muted-foreground">
-                  {nextStep.section.title}
-                </span>
-              </span>
-              <ArrowRight
-                className="size-5 shrink-0 text-primary transition-transform group-hover:translate-x-0.5"
-                aria-hidden
-              />
-            </button>
-          ) : (
-            <p className="flex items-center gap-3 rounded-xl border border-success/30 bg-success/10 px-4 py-3 font-medium text-success animate-in fade-in zoom-in-95">
-              <PartyPopper className="size-5 shrink-0" aria-hidden />
-              {w.allDone}
-            </p>
-          )}
-        </div>
-      </div>
-
       {/* Toolbar: search + hide completed */}
       <div className="flex items-center gap-2 sm:gap-3">
         <div className="relative min-w-0 flex-1">
@@ -554,10 +514,13 @@ export function Walkthrough({
             {/* Desktop: chapter index */}
             {/* The aside itself is sticky: its parent row is as tall as the
                 chapter, so it has room to stay pinned while the page scrolls. */}
-            <aside className="hidden md:sticky md:top-20 md:block md:w-72 md:shrink-0 md:self-start">
+            <aside className="hidden md:sticky md:top-20 md:flex md:w-72 md:shrink-0 md:flex-col md:gap-2 md:self-start">
+              {nextUpCard}
+              {/* Height leaves room for the "Next up" card while staying shorter
+                  than the chapter card, so the whole aside can stay pinned. */}
               <nav
                 aria-label={labels.chapters}
-                className="flex max-h-[calc(100dvh-10rem)] flex-col gap-1 overflow-y-auto overscroll-contain pr-1 pb-2 [scrollbar-color:var(--border)_transparent] [scrollbar-width:thin]"
+                className="flex max-h-[calc(100dvh-15rem)] flex-col gap-1 overflow-y-auto overscroll-contain pr-1 pb-6 [mask-image:linear-gradient(to_bottom,black_calc(100%-48px),transparent)] [scrollbar-color:var(--border)_transparent] [scrollbar-width:thin]"
               >
                 {sections.map((section, index) => {
                   const stats = chapterStats[index];
@@ -597,8 +560,10 @@ export function Walkthrough({
               </nav>
             </aside>
 
+            <div className="md:hidden">{nextUpCard}</div>
+
             {/* Mobile: horizontal chapter strip */}
-            <div className="-mx-4 flex gap-2 overflow-x-auto px-4 pb-1 md:hidden [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
+            <div className="-mx-4 flex gap-2 overflow-x-auto px-4 pb-1 [mask-image:linear-gradient(to_right,transparent,black_16px,black_calc(100%-40px),transparent)] md:hidden [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
               {sections.map((section, index) => {
                 const stats = chapterStats[index];
                 const complete = stats.total > 0 && stats.done === stats.total;
@@ -794,11 +759,13 @@ function StepRow({
   checked,
   highlighted,
   onToggle,
+  mediaLabels,
 }: {
   item: WalkthroughStep;
   checked: boolean;
   highlighted: boolean;
   onToggle: (next: boolean) => void;
+  mediaLabels: { viewImage: string; watchVideo: string };
 }) {
   const checkId = `step-check-${item.id}`;
   const titleId = `step-title-${item.id}`;
@@ -855,23 +822,10 @@ function StepRow({
             </span>
           )}
         </label>
+        {item.imageUrl && (
+          <StepMediaThumb url={item.imageUrl} title={item.title} labels={mediaLabels} />
+        )}
       </div>
-      {item.imageUrl && (
-        <a
-          href={item.imageUrl}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="relative mt-3 ml-11 block aspect-video max-w-lg overflow-hidden rounded-xl border bg-muted"
-        >
-          <Image
-            src={item.imageUrl}
-            alt={item.title}
-            fill
-            sizes="(max-width: 768px) 100vw, 512px"
-            className="object-contain"
-          />
-        </a>
-      )}
     </li>
   );
 }
