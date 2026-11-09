@@ -1,6 +1,7 @@
+import { Fragment } from "react";
 import { Clock } from "lucide-react";
 
-/** HowLongToBeat completion times as compact chips (renders nothing if none). */
+/** HowLongToBeat times as one quiet line of text (renders nothing if none). */
 export function HltbStats({
   title,
   mainStoryLabel,
@@ -27,17 +28,25 @@ export function HltbStats({
   if (stats.length === 0) return null;
 
   return (
-    <ul className="flex flex-wrap gap-2" aria-label={title} title={title}>
-      {stats.map((stat) => (
-        <li
-          key={stat.label}
-          className="inline-flex items-center gap-2 rounded-full border border-border bg-background/60 px-3 py-1.5 text-sm backdrop-blur-sm"
-        >
-          <Clock className="size-4 text-muted-foreground" aria-hidden />
-          <span className="text-muted-foreground">{stat.label}</span>
-          <span className="font-semibold tabular-nums">{stat.hours}h</span>
-        </li>
+    <p
+      className="flex flex-wrap items-center gap-x-2 gap-y-0.5 text-xs text-muted-foreground"
+      title={title}
+    >
+      <Clock className="size-3.5 shrink-0" aria-hidden />
+      <span className="sr-only">{title}:</span>
+      {stats.map((stat, i) => (
+        <Fragment key={stat.label}>
+          {i > 0 && (
+            <span aria-hidden className="opacity-40">
+              ·
+            </span>
+          )}
+          <span className="whitespace-nowrap">
+            <span className="font-semibold text-foreground tabular-nums">{stat.hours}h</span>{" "}
+            {stat.label}
+          </span>
+        </Fragment>
       ))}
-    </ul>
+    </p>
   );
 }
