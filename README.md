@@ -4,7 +4,7 @@ A bilingual game‑completion **checklist** tracker. Browse a shared catalog of 
 add them to your library, and tick off everything worth doing — grouped into
 chapters/phases with optional per‑item tips (e.g. boss strategies, item locations).
 
-Live: **https://xplore-delta.vercel.app**
+Live: **https://xplore-neon.vercel.app**
 
 ## Tech stack
 
