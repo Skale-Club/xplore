@@ -1,0 +1,2373 @@
+{
+  "slug": "the-legend-of-zelda-ocarina-of-time-remake",
+  "title": "The Legend of Zelda: Ocarina of Time Remake",
+  "title_i18n": {
+    "en": "The Legend of Zelda: Ocarina of Time Remake",
+    "pt": "The Legend of Zelda: Ocarina of Time Remake"
+  },
+  "platform": "Nintendo Switch 2",
+  "cover_url": "/covers/the-legend-of-zelda-ocarina-of-time-remake.png",
+  "created_by": "dd5c4bf0-85ea-4986-9c04-b37e8c986150",
+  "categories": [
+    {
+      "key": "kokiri-forest",
+      "title": "Kokiri Forest",
+      "title_i18n": {
+        "en": "Kokiri Forest",
+        "pt": "Floresta Kokiri"
+      },
+      "items": [
+        {
+          "key": "wake-up-and-meet-navi",
+          "title": "Wake up and meet Navi",
+          "title_i18n": {
+            "en": "Wake up and meet Navi",
+            "pt": "Acordar e conhecer a Navi"
+          },
+          "description": "The fairy Navi arrives with a summons from the Great Deku Tree.",
+          "description_i18n": {
+            "en": "The fairy Navi arrives with a summons from the Great Deku Tree.",
+            "pt": "A fada Navi chega com um chamado da Grande Árvore Deku."
+          }
+        },
+        {
+          "key": "practice-the-new-jump-and-sprint-moves",
+          "title": "Practice the new jump and sprint moves",
+          "title_i18n": {
+            "en": "Practice the new jump and sprint moves",
+            "pt": "Praticar os novos movimentos de pulo e corrida"
+          },
+          "description": "The remake drops auto-jump: Link has a jump button, and holding the roll button makes him sprint.",
+          "description_i18n": {
+            "en": "The remake drops auto-jump: Link has a jump button, and holding the roll button makes him sprint.",
+            "pt": "O remake removeu o pulo automático: Link tem um botão de pulo, e segurar o botão de rolar faz ele correr."
+          }
+        },
+        {
+          "key": "buy-the-deku-shield-at-the-kokiri-shop",
+          "title": "Buy the Deku Shield at the Kokiri Shop",
+          "title_i18n": {
+            "en": "Buy the Deku Shield at the Kokiri Shop",
+            "pt": "Comprar o Escudo Deku na Loja Kokiri"
+          },
+          "description": "Collect rupees around the village first so you can afford it.",
+          "description_i18n": {
+            "en": "Collect rupees around the village first so you can afford it.",
+            "pt": "Junte rupis pela vila antes para conseguir pagar."
+          }
+        },
+        {
+          "key": "get-the-kokiri-sword",
+          "title": "Get the Kokiri Sword",
+          "title_i18n": {
+            "en": "Get the Kokiri Sword",
+            "pt": "Pegar a Espada Kokiri"
+          },
+          "description": "In the remake the chest sits on an isolated platform in the training area — time your jumps to reach it.",
+          "description_i18n": {
+            "en": "In the remake the chest sits on an isolated platform in the training area — time your jumps to reach it.",
+            "pt": "No remake o baú fica numa plataforma isolada na área de treino — acerte o tempo dos pulos para alcançá-lo."
+          }
+        },
+        {
+          "key": "equip-the-sword-and-shield-and-get-past-mido",
+          "title": "Equip the sword and shield and get past Mido",
+          "title_i18n": {
+            "en": "Equip the sword and shield and get past Mido",
+            "pt": "Equipar espada e escudo e passar pelo Mido"
+          },
+          "description": "Mido only lets you through to the Great Deku Tree once you carry both.",
+          "description_i18n": {
+            "en": "Mido only lets you through to the Great Deku Tree once you carry both.",
+            "pt": "Mido só deixa você passar até a Grande Árvore Deku quando estiver com os dois."
+          }
+        },
+        {
+          "key": "talk-to-the-great-deku-tree-and-enter",
+          "title": "Talk to the Great Deku Tree and enter",
+          "title_i18n": {
+            "en": "Talk to the Great Deku Tree and enter",
+            "pt": "Falar com a Grande Árvore Deku e entrar"
+          },
+          "description": "He explains the curse inside him and opens his mouth for you.",
+          "description_i18n": {
+            "en": "He explains the curse inside him and opens his mouth for you.",
+            "pt": "Ela explica a maldição dentro dela e abre a boca para você entrar."
+          }
+        }
+      ]
+    },
+    {
+      "key": "inside-the-great-deku-tree",
+      "title": "Inside the Great Deku Tree",
+      "title_i18n": {
+        "en": "Inside the Great Deku Tree",
+        "pt": "Dentro da Grande Árvore Deku"
+      },
+      "items": [
+        {
+          "key": "find-the-dungeon-map-and-the-compass",
+          "title": "Find the Dungeon Map and the Compass",
+          "title_i18n": {
+            "en": "Find the Dungeon Map and the Compass",
+            "pt": "Encontrar o Mapa e a Bússola da masmorra"
+          },
+          "description": "Both help you track rooms, chests and the boss room on the new, clearer map screen.",
+          "description_i18n": {
+            "en": "Both help you track rooms, chests and the boss room on the new, clearer map screen.",
+            "pt": "Os dois ajudam a acompanhar salas, baús e a sala do chefe na nova tela de mapa, mais clara."
+          }
+        },
+        {
+          "key": "get-the-fairy-slingshot",
+          "title": "Get the Fairy Slingshot",
+          "title_i18n": {
+            "en": "Get the Fairy Slingshot",
+            "pt": "Pegar o Estilingue de Fada"
+          },
+          "description": "Use it on distant switches, ladders and Skulltulas.",
+          "description_i18n": {
+            "en": "Use it on distant switches, ladders and Skulltulas.",
+            "pt": "Use em interruptores distantes, escadas e Skulltulas."
+          }
+        },
+        {
+          "key": "burn-the-webs-with-a-lit-deku-stick",
+          "title": "Burn the webs with a lit Deku Stick",
+          "title_i18n": {
+            "en": "Burn the webs with a lit Deku Stick",
+            "pt": "Queimar as teias com um Galho Deku aceso"
+          },
+          "description": "Carry fire from a torch to clear webs that block the way.",
+          "description_i18n": {
+            "en": "Carry fire from a torch to clear webs that block the way.",
+            "pt": "Leve o fogo de uma tocha para limpar as teias que bloqueiam o caminho."
+          }
+        },
+        {
+          "key": "break-through-to-the-basement",
+          "title": "Break through to the basement",
+          "title_i18n": {
+            "en": "Break through to the basement",
+            "pt": "Abrir caminho até o subsolo"
+          },
+          "description": "Drop through the web covering the central pit to reach the lower floors.",
+          "description_i18n": {
+            "en": "Drop through the web covering the central pit to reach the lower floors.",
+            "pt": "Caia pela teia que cobre o poço central para chegar aos andares de baixo."
+          }
+        },
+        {
+          "key": "defeat-queen-gohma",
+          "title": "Defeat Queen Gohma",
+          "title_i18n": {
+            "en": "Defeat Queen Gohma",
+            "pt": "Derrotar a Rainha Gohma"
+          },
+          "description": "Stun her eye with the Slingshot when it glows red, then strike while she's down.",
+          "description_i18n": {
+            "en": "Stun her eye with the Slingshot when it glows red, then strike while she's down.",
+            "pt": "Atordoe o olho dela com o Estilingue quando ficar vermelho e ataque enquanto ela estiver caída."
+          }
+        },
+        {
+          "key": "claim-the-heart-container",
+          "title": "Claim the Heart Container",
+          "title_i18n": {
+            "en": "Claim the Heart Container",
+            "pt": "Pegar o Container de Coração"
+          },
+          "description": "Dropped by the boss — it adds a full heart to your life meter.",
+          "description_i18n": {
+            "en": "Dropped by the boss — it adds a full heart to your life meter.",
+            "pt": "Deixado pelo chefe — adiciona um coração inteiro à sua vida."
+          }
+        },
+        {
+          "key": "receive-the-kokiri-s-emerald",
+          "title": "Receive the Kokiri's Emerald",
+          "title_i18n": {
+            "en": "Receive the Kokiri's Emerald",
+            "pt": "Receber a Esmeralda Kokiri"
+          },
+          "description": "The Great Deku Tree hands over the Spiritual Stone of the Forest and sends you to find the princess.",
+          "description_i18n": {
+            "en": "The Great Deku Tree hands over the Spiritual Stone of the Forest and sends you to find the princess.",
+            "pt": "A Grande Árvore Deku entrega a Pedra Espiritual da Floresta e manda você procurar a princesa."
+          }
+        },
+        {
+          "key": "get-the-fairy-ocarina-from-saria",
+          "title": "Get the Fairy Ocarina from Saria",
+          "title_i18n": {
+            "en": "Get the Fairy Ocarina from Saria",
+            "pt": "Ganhar a Ocarina de Fada da Saria"
+          },
+          "description": "She's waiting on the bridge out of the forest to say goodbye.",
+          "description_i18n": {
+            "en": "She's waiting on the bridge out of the forest to say goodbye.",
+            "pt": "Ela espera na ponte de saída da floresta para se despedir."
+          }
+        }
+      ]
+    },
+    {
+      "key": "the-princess-of-hyrule",
+      "title": "The Princess of Hyrule",
+      "title_i18n": {
+        "en": "The Princess of Hyrule",
+        "pt": "A Princesa de Hyrule"
+      },
+      "items": [
+        {
+          "key": "cross-hyrule-field-and-meet-kaepora-gaebora",
+          "title": "Cross Hyrule Field and meet Kaepora Gaebora",
+          "title_i18n": {
+            "en": "Cross Hyrule Field and meet Kaepora Gaebora",
+            "pt": "Atravessar o Campo de Hyrule e encontrar Kaepora Gaebora"
+          },
+          "description": "The owl points you toward the castle.",
+          "description_i18n": {
+            "en": "The owl points you toward the castle.",
+            "pt": "A coruja indica o caminho até o castelo."
+          }
+        },
+        {
+          "key": "explore-hyrule-castle-town",
+          "title": "Explore Hyrule Castle Town",
+          "title_i18n": {
+            "en": "Explore Hyrule Castle Town",
+            "pt": "Explorar a Cidade do Castelo de Hyrule"
+          },
+          "description": "The entrance, market, back alleys, shops and the Temple of Time are now one connected area, and the drawbridge stays open at night.",
+          "description_i18n": {
+            "en": "The entrance, market, back alleys, shops and the Temple of Time are now one connected area, and the drawbridge stays open at night.",
+            "pt": "A entrada, o mercado, os becos, as lojas e o Templo do Tempo agora são uma área só, e a ponte levadiça fica aberta à noite."
+          }
+        },
+        {
+          "key": "help-out-at-the-potion-shop-for-a-new-empty-bott",
+          "title": "Help out at the Potion Shop for a new Empty Bottle",
+          "title_i18n": {
+            "en": "Help out at the Potion Shop for a new Empty Bottle",
+            "pt": "Ajudar na Loja de Poções e ganhar uma nova Garrafa Vazia"
+          },
+          "description": "New in the remake: a short side quest here rewards the extra (fifth) bottle, now the first one you can get.",
+          "description_i18n": {
+            "en": "New in the remake: a short side quest here rewards the extra (fifth) bottle, now the first one you can get.",
+            "pt": "Novidade do remake: uma missão curta aqui dá a garrafa extra (a quinta), agora a primeira que dá para pegar."
+          }
+        },
+        {
+          "key": "meet-malon-and-receive-the-weird-egg",
+          "title": "Meet Malon and receive the Weird Egg",
+          "title_i18n": {
+            "en": "Meet Malon and receive the Weird Egg",
+            "pt": "Conhecer a Malon e receber o Ovo Estranho"
+          },
+          "description": "She's waiting for her father Talon, who went to the castle and never came back.",
+          "description_i18n": {
+            "en": "She's waiting for her father Talon, who went to the castle and never came back.",
+            "pt": "Ela espera o pai, Talon, que foi ao castelo e não voltou."
+          }
+        },
+        {
+          "key": "hatch-the-cucco-and-wake-talon",
+          "title": "Hatch the Cucco and wake Talon",
+          "title_i18n": {
+            "en": "Hatch the Cucco and wake Talon",
+            "pt": "Chocar o Cucco e acordar o Talon"
+          },
+          "description": "The egg hatches at dawn; use the Cucco on Talon, asleep near the castle.",
+          "description_i18n": {
+            "en": "The egg hatches at dawn; use the Cucco on Talon, asleep near the castle.",
+            "pt": "O ovo choca ao amanhecer; use o Cucco no Talon, que dorme perto do castelo."
+          }
+        },
+        {
+          "key": "sneak-into-the-hyrule-castle-courtyard",
+          "title": "Sneak into the Hyrule Castle courtyard",
+          "title_i18n": {
+            "en": "Sneak into the Hyrule Castle courtyard",
+            "pt": "Entrar escondido no pátio do Castelo de Hyrule"
+          },
+          "description": "Avoid the guards; the remake's courtyard has fewer rooms and guards than the original.",
+          "description_i18n": {
+            "en": "Avoid the guards; the remake's courtyard has fewer rooms and guards than the original.",
+            "pt": "Evite os guardas; o pátio do remake tem menos salas e guardas que o original."
+          }
+        },
+        {
+          "key": "meet-princess-zelda-and-receive-zelda-s-letter",
+          "title": "Meet Princess Zelda and receive Zelda's Letter",
+          "title_i18n": {
+            "en": "Meet Princess Zelda and receive Zelda's Letter",
+            "pt": "Conhecer a Princesa Zelda e receber a Carta da Zelda"
+          },
+          "description": "She tells you about Ganondorf and asks you to gather the Spiritual Stones.",
+          "description_i18n": {
+            "en": "She tells you about Ganondorf and asks you to gather the Spiritual Stones.",
+            "pt": "Ela conta sobre o Ganondorf e pede que você reúna as Pedras Espirituais."
+          }
+        },
+        {
+          "key": "learn-zelda-s-lullaby-from-impa",
+          "title": "Learn Zelda's Lullaby from Impa",
+          "title_i18n": {
+            "en": "Learn Zelda's Lullaby from Impa",
+            "pt": "Aprender a Canção de Ninar da Zelda com a Impa"
+          },
+          "description": "Impa escorts you out of the castle and teaches the royal family's song.",
+          "description_i18n": {
+            "en": "Impa escorts you out of the castle and teaches the royal family's song.",
+            "pt": "Impa leva você para fora do castelo e ensina a música da família real."
+          }
+        }
+      ]
+    },
+    {
+      "key": "kakariko-village-lon-lon-ranch",
+      "title": "Kakariko Village & Lon Lon Ranch",
+      "title_i18n": {
+        "en": "Kakariko Village & Lon Lon Ranch",
+        "pt": "Vila Kakariko e Rancho Lon Lon"
+      },
+      "items": [
+        {
+          "key": "learn-epona-s-song-from-malon",
+          "title": "Learn Epona's Song from Malon",
+          "title_i18n": {
+            "en": "Learn Epona's Song from Malon",
+            "pt": "Aprender a Canção de Epona com a Malon"
+          },
+          "description": "Lon Lon Ranch now sits inside Hyrule Field; talk to Malon next to the young horse.",
+          "description_i18n": {
+            "en": "Lon Lon Ranch now sits inside Hyrule Field; talk to Malon next to the young horse.",
+            "pt": "O Rancho Lon Lon agora fica dentro do Campo de Hyrule; fale com a Malon ao lado da potrinha."
+          }
+        },
+        {
+          "key": "reach-kakariko-village",
+          "title": "Reach Kakariko Village",
+          "title_i18n": {
+            "en": "Reach Kakariko Village",
+            "pt": "Chegar à Vila Kakariko"
+          },
+          "description": "Time keeps moving in villages now, and NPCs follow their own day and night routines.",
+          "description_i18n": {
+            "en": "Time keeps moving in villages now, and NPCs follow their own day and night routines.",
+            "pt": "Agora o tempo passa nas vilas, e os NPCs seguem suas rotinas de dia e de noite."
+          }
+        },
+        {
+          "key": "return-the-runaway-cuccos-to-their-pen",
+          "title": "Return the runaway Cuccos to their pen",
+          "title_i18n": {
+            "en": "Return the runaway Cuccos to their pen",
+            "pt": "Devolver os Cuccos fugidos ao cercado"
+          },
+          "description": "The Cucco Lady rewards you with an Empty Bottle.",
+          "description_i18n": {
+            "en": "The Cucco Lady rewards you with an Empty Bottle.",
+            "pt": "A moça dos Cuccos dá uma Garrafa Vazia como recompensa."
+          }
+        },
+        {
+          "key": "show-zelda-s-letter-to-the-death-mountain-gate-g",
+          "title": "Show Zelda's Letter to the Death Mountain gate guard",
+          "title_i18n": {
+            "en": "Show Zelda's Letter to the Death Mountain gate guard",
+            "pt": "Mostrar a Carta da Zelda ao guarda do portão da Montanha da Morte"
+          },
+          "description": "The guard steps aside and opens Death Mountain Trail.",
+          "description_i18n": {
+            "en": "The guard steps aside and opens Death Mountain Trail.",
+            "pt": "O guarda sai da frente e libera a Trilha da Montanha da Morte."
+          }
+        },
+        {
+          "key": "climb-death-mountain-trail-to-goron-city",
+          "title": "Climb Death Mountain Trail to Goron City",
+          "title_i18n": {
+            "en": "Climb Death Mountain Trail to Goron City",
+            "pt": "Subir a Trilha da Montanha da Morte até a Cidade Goron"
+          },
+          "description": "Watch out for Tektites and falling rocks on the way up.",
+          "description_i18n": {
+            "en": "Watch out for Tektites and falling rocks on the way up.",
+            "pt": "Cuidado com os Tektites e as pedras que caem na subida."
+          }
+        }
+      ]
+    },
+    {
+      "key": "goron-city-the-lost-woods",
+      "title": "Goron City & the Lost Woods",
+      "title_i18n": {
+        "en": "Goron City & the Lost Woods",
+        "pt": "Cidade Goron e a Floresta Perdida"
+      },
+      "items": [
+        {
+          "key": "find-out-why-the-gorons-are-starving",
+          "title": "Find out why the Gorons are starving",
+          "title_i18n": {
+            "en": "Find out why the Gorons are starving",
+            "pt": "Descobrir por que os Gorons estão passando fome"
+          },
+          "description": "Dodongos have overrun the cavern where the Gorons dig their favorite rocks.",
+          "description_i18n": {
+            "en": "Dodongos have overrun the cavern where the Gorons dig their favorite rocks.",
+            "pt": "Os Dodongos tomaram a caverna onde os Gorons cavam suas pedras favoritas."
+          }
+        },
+        {
+          "key": "play-zelda-s-lullaby-at-darunia-s-door",
+          "title": "Play Zelda's Lullaby at Darunia's door",
+          "title_i18n": {
+            "en": "Play Zelda's Lullaby at Darunia's door",
+            "pt": "Tocar a Canção de Ninar da Zelda na porta do Darunia"
+          },
+          "description": "The Goron leader won't help until something lifts his mood.",
+          "description_i18n": {
+            "en": "The Goron leader won't help until something lifts his mood.",
+            "pt": "O líder Goron só ajuda depois que alguma coisa melhorar o humor dele."
+          }
+        },
+        {
+          "key": "find-your-way-through-the-lost-woods-to-the-sacr",
+          "title": "Find your way through the Lost Woods to the Sacred Forest Meadow",
+          "title_i18n": {
+            "en": "Find your way through the Lost Woods to the Sacred Forest Meadow",
+            "pt": "Atravessar a Floresta Perdida até o Prado Sagrado da Floresta"
+          },
+          "description": "Follow the music to choose the right path, then get past the meadow's maze.",
+          "description_i18n": {
+            "en": "Follow the music to choose the right path, then get past the meadow's maze.",
+            "pt": "Siga a música para escolher o caminho certo e depois passe pelo labirinto do prado."
+          }
+        },
+        {
+          "key": "learn-saria-s-song-from-saria",
+          "title": "Learn Saria's Song from Saria",
+          "title_i18n": {
+            "en": "Learn Saria's Song from Saria",
+            "pt": "Aprender a Canção da Saria com a Saria"
+          },
+          "description": "She's sitting on the stump at the far end of the meadow.",
+          "description_i18n": {
+            "en": "She's sitting on the stump at the far end of the meadow.",
+            "pt": "Ela está sentada no toco no fim do prado."
+          }
+        },
+        {
+          "key": "play-saria-s-song-for-darunia",
+          "title": "Play Saria's Song for Darunia",
+          "title_i18n": {
+            "en": "Play Saria's Song for Darunia",
+            "pt": "Tocar a Canção da Saria para o Darunia"
+          },
+          "description": "His dance earns you the Goron's Bracelet, which lets you pick up Bomb Flowers.",
+          "description_i18n": {
+            "en": "His dance earns you the Goron's Bracelet, which lets you pick up Bomb Flowers.",
+            "pt": "A dança dele rende o Bracelete Goron, que permite pegar as Flores-Bomba."
+          }
+        },
+        {
+          "key": "blast-open-the-entrance-to-dodongo-s-cavern",
+          "title": "Blast open the entrance to Dodongo's Cavern",
+          "title_i18n": {
+            "en": "Blast open the entrance to Dodongo's Cavern",
+            "pt": "Explodir a entrada da Caverna dos Dodongos"
+          },
+          "description": "Use a Bomb Flower on the boulder blocking the cave on Death Mountain Trail.",
+          "description_i18n": {
+            "en": "Use a Bomb Flower on the boulder blocking the cave on Death Mountain Trail.",
+            "pt": "Use uma Flor-Bomba na pedra que bloqueia a caverna na Trilha da Montanha da Morte."
+          }
+        }
+      ]
+    },
+    {
+      "key": "dodongo-s-cavern",
+      "title": "Dodongo's Cavern",
+      "title_i18n": {
+        "en": "Dodongo's Cavern",
+        "pt": "Caverna dos Dodongos"
+      },
+      "items": [
+        {
+          "key": "find-the-dungeon-map-and-the-compass",
+          "title": "Find the Dungeon Map and the Compass",
+          "title_i18n": {
+            "en": "Find the Dungeon Map and the Compass",
+            "pt": "Encontrar o Mapa e a Bússola da masmorra"
+          },
+          "description": "Both help you track rooms, chests and the boss room on the new, clearer map screen.",
+          "description_i18n": {
+            "en": "Both help you track rooms, chests and the boss room on the new, clearer map screen.",
+            "pt": "Os dois ajudam a acompanhar salas, baús e a sala do chefe na nova tela de mapa, mais clara."
+          }
+        },
+        {
+          "key": "defeat-the-lizalfos",
+          "title": "Defeat the Lizalfos",
+          "title_i18n": {
+            "en": "Defeat the Lizalfos",
+            "pt": "Derrotar os Lizalfos"
+          },
+          "description": "The dungeon's mini-boss: guard against their quick lunges and counter.",
+          "description_i18n": {
+            "en": "The dungeon's mini-boss: guard against their quick lunges and counter.",
+            "pt": "O mini-chefe da masmorra: defenda os botes rápidos e contra-ataque."
+          }
+        },
+        {
+          "key": "get-the-bomb-bag",
+          "title": "Get the Bomb Bag",
+          "title_i18n": {
+            "en": "Get the Bomb Bag",
+            "pt": "Pegar a Bolsa de Bombas"
+          },
+          "description": "Now you carry your own bombs instead of relying on Bomb Flowers.",
+          "description_i18n": {
+            "en": "Now you carry your own bombs instead of relying on Bomb Flowers.",
+            "pt": "Agora você carrega suas próprias bombas em vez de depender das Flores-Bomba."
+          }
+        },
+        {
+          "key": "defeat-king-dodongo",
+          "title": "Defeat King Dodongo",
+          "title_i18n": {
+            "en": "Defeat King Dodongo",
+            "pt": "Derrotar o Rei Dodongo"
+          },
+          "description": "Throw a bomb into his mouth while he inhales, then strike while he's stunned.",
+          "description_i18n": {
+            "en": "Throw a bomb into his mouth while he inhales, then strike while he's stunned.",
+            "pt": "Jogue uma bomba na boca dele enquanto ele inspira e ataque enquanto estiver atordoado."
+          }
+        },
+        {
+          "key": "claim-the-heart-container",
+          "title": "Claim the Heart Container",
+          "title_i18n": {
+            "en": "Claim the Heart Container",
+            "pt": "Pegar o Container de Coração"
+          },
+          "description": "Dropped by the boss — it adds a full heart to your life meter.",
+          "description_i18n": {
+            "en": "Dropped by the boss — it adds a full heart to your life meter.",
+            "pt": "Deixado pelo chefe — adiciona um coração inteiro à sua vida."
+          }
+        },
+        {
+          "key": "receive-the-goron-s-ruby-from-darunia",
+          "title": "Receive the Goron's Ruby from Darunia",
+          "title_i18n": {
+            "en": "Receive the Goron's Ruby from Darunia",
+            "pt": "Receber o Rubi Goron do Darunia"
+          },
+          "description": "Darunia names Link his sworn brother.",
+          "description_i18n": {
+            "en": "Darunia names Link his sworn brother.",
+            "pt": "Darunia faz do Link seu irmão de juramento."
+          }
+        }
+      ]
+    },
+    {
+      "key": "zora-s-domain-lake-hylia",
+      "title": "Zora's Domain & Lake Hylia",
+      "title_i18n": {
+        "en": "Zora's Domain & Lake Hylia",
+        "pt": "Domínio Zora e Lago Hylia"
+      },
+      "items": [
+        {
+          "key": "travel-up-zora-s-river",
+          "title": "Travel up Zora's River",
+          "title_i18n": {
+            "en": "Travel up Zora's River",
+            "pt": "Subir o Rio Zora"
+          },
+          "description": "Hop across the rocks and keep an eye on the frogs — they matter later.",
+          "description_i18n": {
+            "en": "Hop across the rocks and keep an eye on the frogs — they matter later.",
+            "pt": "Pule pelas pedras e repare nos sapos — eles serão importantes depois."
+          }
+        },
+        {
+          "key": "open-the-way-to-zora-s-domain-with-zelda-s-lulla",
+          "title": "Open the way to Zora's Domain with Zelda's Lullaby",
+          "title_i18n": {
+            "en": "Open the way to Zora's Domain with Zelda's Lullaby",
+            "pt": "Abrir o caminho para o Domínio Zora com a Canção de Ninar da Zelda"
+          },
+          "description": "Play it on the platform in front of the waterfall.",
+          "description_i18n": {
+            "en": "Play it on the platform in front of the waterfall.",
+            "pt": "Toque na plataforma em frente à cachoeira."
+          }
+        },
+        {
+          "key": "win-the-diving-game-for-the-silver-scale",
+          "title": "Win the diving game for the Silver Scale",
+          "title_i18n": {
+            "en": "Win the diving game for the Silver Scale",
+            "pt": "Vencer o jogo de mergulho e ganhar a Escama de Prata"
+          },
+          "description": "Grab the rupees tossed into the water before time runs out.",
+          "description_i18n": {
+            "en": "Grab the rupees tossed into the water before time runs out.",
+            "pt": "Pegue as rupis jogadas na água antes de o tempo acabar."
+          }
+        },
+        {
+          "key": "find-ruto-s-letter-in-a-bottle-at-lake-hylia",
+          "title": "Find Ruto's Letter in a bottle at Lake Hylia",
+          "title_i18n": {
+            "en": "Find Ruto's Letter in a bottle at Lake Hylia",
+            "pt": "Encontrar a Carta da Ruto numa garrafa no Lago Hylia"
+          },
+          "description": "Lake Hylia now connects straight to Hyrule Field; dive for the bottle — you keep it after reading the letter.",
+          "description_i18n": {
+            "en": "Lake Hylia now connects straight to Hyrule Field; dive for the bottle — you keep it after reading the letter.",
+            "pt": "O Lago Hylia agora se liga direto ao Campo de Hyrule; mergulhe atrás da garrafa — ela fica com você depois de ler a carta."
+          }
+        },
+        {
+          "key": "deliver-the-letter-to-king-zora",
+          "title": "Deliver the letter to King Zora",
+          "title_i18n": {
+            "en": "Deliver the letter to King Zora",
+            "pt": "Entregar a carta ao Rei Zora"
+          },
+          "description": "He shuffles aside and opens the path to Zora's Fountain.",
+          "description_i18n": {
+            "en": "He shuffles aside and opens the path to Zora's Fountain.",
+            "pt": "Ele se arrasta para o lado e libera o caminho até a Fonte Zora."
+          }
+        },
+        {
+          "key": "catch-a-fish-in-a-bottle",
+          "title": "Catch a fish in a bottle",
+          "title_i18n": {
+            "en": "Catch a fish in a bottle",
+            "pt": "Pegar um peixe numa garrafa"
+          },
+          "description": "Lord Jabu-Jabu needs a snack before he'll open up.",
+          "description_i18n": {
+            "en": "Lord Jabu-Jabu needs a snack before he'll open up.",
+            "pt": "O Lorde Jabu-Jabu precisa de um lanche antes de abrir a boca."
+          }
+        },
+        {
+          "key": "feed-lord-jabu-jabu-and-go-inside",
+          "title": "Feed Lord Jabu-Jabu and go inside",
+          "title_i18n": {
+            "en": "Feed Lord Jabu-Jabu and go inside",
+            "pt": "Alimentar o Lorde Jabu-Jabu e entrar"
+          },
+          "description": "Release the fish in front of him and he swallows you along with it.",
+          "description_i18n": {
+            "en": "Release the fish in front of him and he swallows you along with it.",
+            "pt": "Solte o peixe na frente dele e ele engole você junto."
+          }
+        }
+      ]
+    },
+    {
+      "key": "inside-lord-jabu-jabu-s-belly",
+      "title": "Inside Lord Jabu-Jabu's Belly",
+      "title_i18n": {
+        "en": "Inside Lord Jabu-Jabu's Belly",
+        "pt": "Na Barriga do Lorde Jabu-Jabu"
+      },
+      "items": [
+        {
+          "key": "find-princess-ruto-and-carry-her-along",
+          "title": "Find Princess Ruto and carry her along",
+          "title_i18n": {
+            "en": "Find Princess Ruto and carry her along",
+            "pt": "Encontrar a Princesa Ruto e carregá-la"
+          },
+          "description": "In the remake she waits wherever you set her down instead of vanishing — even if you leave the dungeon.",
+          "description_i18n": {
+            "en": "In the remake she waits wherever you set her down instead of vanishing — even if you leave the dungeon.",
+            "pt": "No remake ela espera onde você a deixar em vez de sumir — mesmo se você sair da masmorra."
+          }
+        },
+        {
+          "key": "find-the-dungeon-map-and-the-compass",
+          "title": "Find the Dungeon Map and the Compass",
+          "title_i18n": {
+            "en": "Find the Dungeon Map and the Compass",
+            "pt": "Encontrar o Mapa e a Bússola da masmorra"
+          },
+          "description": "Both help you track rooms, chests and the boss room on the new, clearer map screen.",
+          "description_i18n": {
+            "en": "Both help you track rooms, chests and the boss room on the new, clearer map screen.",
+            "pt": "Os dois ajudam a acompanhar salas, baús e a sala do chefe na nova tela de mapa, mais clara."
+          }
+        },
+        {
+          "key": "get-the-boomerang",
+          "title": "Get the Boomerang",
+          "title_i18n": {
+            "en": "Get the Boomerang",
+            "pt": "Pegar o Bumerangue"
+          },
+          "description": "Use it to stun enemies and hit switches out of reach.",
+          "description_i18n": {
+            "en": "Use it to stun enemies and hit switches out of reach.",
+            "pt": "Use para atordoar inimigos e acertar interruptores fora de alcance."
+          }
+        },
+        {
+          "key": "defeat-big-octo",
+          "title": "Defeat Big Octo",
+          "title_i18n": {
+            "en": "Defeat Big Octo",
+            "pt": "Derrotar o Big Octo"
+          },
+          "description": "The mini-boss circling the room; hit it from behind.",
+          "description_i18n": {
+            "en": "The mini-boss circling the room; hit it from behind.",
+            "pt": "O mini-chefe que circula pela sala; acerte por trás."
+          }
+        },
+        {
+          "key": "defeat-barinade",
+          "title": "Defeat Barinade",
+          "title_i18n": {
+            "en": "Defeat Barinade",
+            "pt": "Derrotar o Barinade"
+          },
+          "description": "Boomerang the tentacles holding it to the ceiling, then clear the jellyfish and strike the body.",
+          "description_i18n": {
+            "en": "Boomerang the tentacles holding it to the ceiling, then clear the jellyfish and strike the body.",
+            "pt": "Acerte com o Bumerangue os tentáculos que o prendem ao teto, depois elimine as águas-vivas e ataque o corpo."
+          }
+        },
+        {
+          "key": "claim-the-heart-container",
+          "title": "Claim the Heart Container",
+          "title_i18n": {
+            "en": "Claim the Heart Container",
+            "pt": "Pegar o Container de Coração"
+          },
+          "description": "Dropped by the boss — it adds a full heart to your life meter.",
+          "description_i18n": {
+            "en": "Dropped by the boss — it adds a full heart to your life meter.",
+            "pt": "Deixado pelo chefe — adiciona um coração inteiro à sua vida."
+          }
+        },
+        {
+          "key": "receive-the-zora-s-sapphire-from-ruto",
+          "title": "Receive the Zora's Sapphire from Ruto",
+          "title_i18n": {
+            "en": "Receive the Zora's Sapphire from Ruto",
+            "pt": "Receber a Safira Zora da Ruto"
+          },
+          "description": "She gives it to Link as an engagement gift.",
+          "description_i18n": {
+            "en": "She gives it to Link as an engagement gift.",
+            "pt": "Ela entrega ao Link como presente de noivado."
+          }
+        }
+      ]
+    },
+    {
+      "key": "the-door-of-time",
+      "title": "The Door of Time",
+      "title_i18n": {
+        "en": "The Door of Time",
+        "pt": "A Porta do Tempo"
+      },
+      "items": [
+        {
+          "key": "watch-zelda-flee-from-ganondorf",
+          "title": "Watch Zelda flee from Ganondorf",
+          "title_i18n": {
+            "en": "Watch Zelda flee from Ganondorf",
+            "pt": "Ver a Zelda fugir do Ganondorf"
+          },
+          "description": "Back at the castle gate, Zelda and Impa race past on horseback with Ganondorf in pursuit.",
+          "description_i18n": {
+            "en": "Back at the castle gate, Zelda and Impa race past on horseback with Ganondorf in pursuit.",
+            "pt": "No portão do castelo, Zelda e Impa passam a cavalo com o Ganondorf atrás."
+          }
+        },
+        {
+          "key": "recover-the-ocarina-of-time-from-the-moat",
+          "title": "Recover the Ocarina of Time from the moat",
+          "title_i18n": {
+            "en": "Recover the Ocarina of Time from the moat",
+            "pt": "Recuperar a Ocarina do Tempo do fosso"
+          },
+          "description": "Zelda throws it into the water as she escapes.",
+          "description_i18n": {
+            "en": "Zelda throws it into the water as she escapes.",
+            "pt": "Zelda joga a ocarina na água enquanto foge."
+          }
+        },
+        {
+          "key": "learn-the-song-of-time",
+          "title": "Learn the Song of Time",
+          "title_i18n": {
+            "en": "Learn the Song of Time",
+            "pt": "Aprender a Canção do Tempo"
+          },
+          "description": "Zelda's farewell message teaches it to you.",
+          "description_i18n": {
+            "en": "Zelda's farewell message teaches it to you.",
+            "pt": "A mensagem de despedida da Zelda ensina a música."
+          }
+        },
+        {
+          "key": "open-the-door-of-time",
+          "title": "Open the Door of Time",
+          "title_i18n": {
+            "en": "Open the Door of Time",
+            "pt": "Abrir a Porta do Tempo"
+          },
+          "description": "Place the three Spiritual Stones on the altar in the Temple of Time and play the Song of Time.",
+          "description_i18n": {
+            "en": "Place the three Spiritual Stones on the altar in the Temple of Time and play the Song of Time.",
+            "pt": "Coloque as três Pedras Espirituais no altar do Templo do Tempo e toque a Canção do Tempo."
+          }
+        },
+        {
+          "key": "draw-the-master-sword",
+          "title": "Draw the Master Sword",
+          "title_i18n": {
+            "en": "Draw the Master Sword",
+            "pt": "Puxar a Espada Mestra"
+          },
+          "description": "Ganondorf slips into the Sacred Realm behind you.",
+          "description_i18n": {
+            "en": "Ganondorf slips into the Sacred Realm behind you.",
+            "pt": "Ganondorf entra no Reino Sagrado logo atrás de você."
+          }
+        },
+        {
+          "key": "wake-up-seven-years-later-in-the-chamber-of-sage",
+          "title": "Wake up seven years later in the Chamber of Sages",
+          "title_i18n": {
+            "en": "Wake up seven years later in the Chamber of Sages",
+            "pt": "Acordar sete anos depois na Câmara dos Sábios"
+          },
+          "description": "Rauru explains what happened and gives you the Light Medallion.",
+          "description_i18n": {
+            "en": "Rauru explains what happened and gives you the Light Medallion.",
+            "pt": "Rauru explica o que aconteceu e entrega o Medalhão da Luz."
+          }
+        },
+        {
+          "key": "meet-sheik-in-the-temple-of-time",
+          "title": "Meet Sheik in the Temple of Time",
+          "title_i18n": {
+            "en": "Meet Sheik in the Temple of Time",
+            "pt": "Conhecer o Sheik no Templo do Tempo"
+          },
+          "description": "Sheik tells you about the five temples you must cleanse.",
+          "description_i18n": {
+            "en": "Sheik tells you about the five temples you must cleanse.",
+            "pt": "Sheik fala dos cinco templos que você precisa purificar."
+          }
+        }
+      ]
+    },
+    {
+      "key": "graveyard-sacred-forest-meadow",
+      "title": "Graveyard & Sacred Forest Meadow",
+      "title_i18n": {
+        "en": "Graveyard & Sacred Forest Meadow",
+        "pt": "Cemitério e Prado Sagrado da Floresta"
+      },
+      "items": [
+        {
+          "key": "race-dampe-s-ghost-for-the-hookshot",
+          "title": "Race Dampé's ghost for the Hookshot",
+          "title_i18n": {
+            "en": "Race Dampé's ghost for the Hookshot",
+            "pt": "Correr atrás do fantasma do Dampé para ganhar o Gancho"
+          },
+          "description": "Open his grave in the Kakariko graveyard and keep up with him through the tunnels.",
+          "description_i18n": {
+            "en": "Open his grave in the Kakariko graveyard and keep up with him through the tunnels.",
+            "pt": "Abra o túmulo dele no cemitério de Kakariko e acompanhe o fantasma pelos túneis."
+          }
+        },
+        {
+          "key": "cross-the-sacred-forest-meadow-maze-as-an-adult",
+          "title": "Cross the Sacred Forest Meadow maze as an adult",
+          "title_i18n": {
+            "en": "Cross the Sacred Forest Meadow maze as an adult",
+            "pt": "Atravessar o labirinto do Prado Sagrado da Floresta adulto"
+          },
+          "description": "Moblins now patrol the corridors — move between their charges.",
+          "description_i18n": {
+            "en": "Moblins now patrol the corridors — move between their charges.",
+            "pt": "Agora os Moblins patrulham os corredores — passe entre as investidas deles."
+          }
+        },
+        {
+          "key": "learn-the-minuet-of-forest-from-sheik",
+          "title": "Learn the Minuet of Forest from Sheik",
+          "title_i18n": {
+            "en": "Learn the Minuet of Forest from Sheik",
+            "pt": "Aprender o Minueto da Floresta com o Sheik"
+          },
+          "description": "It warps you straight back to the meadow later.",
+          "description_i18n": {
+            "en": "It warps you straight back to the meadow later.",
+            "pt": "Ele leva você direto de volta ao prado depois."
+          }
+        },
+        {
+          "key": "hookshot-up-to-the-forest-temple-entrance",
+          "title": "Hookshot up to the Forest Temple entrance",
+          "title_i18n": {
+            "en": "Hookshot up to the Forest Temple entrance",
+            "pt": "Usar o Gancho para chegar à entrada do Templo da Floresta"
+          },
+          "description": "The stairs are broken; latch onto the tree branch above them.",
+          "description_i18n": {
+            "en": "The stairs are broken; latch onto the tree branch above them.",
+            "pt": "A escada está quebrada; prenda o gancho no galho da árvore acima dela."
+          }
+        }
+      ]
+    },
+    {
+      "key": "forest-temple",
+      "title": "Forest Temple",
+      "title_i18n": {
+        "en": "Forest Temple",
+        "pt": "Templo da Floresta"
+      },
+      "items": [
+        {
+          "key": "find-the-key-that-opens-the-first-door",
+          "title": "Find the key that opens the first door",
+          "title_i18n": {
+            "en": "Find the key that opens the first door",
+            "pt": "Encontrar a chave que abre a primeira porta"
+          },
+          "description": "New in the remake: the entrance door is locked, so search the area around the entrance for its key.",
+          "description_i18n": {
+            "en": "New in the remake: the entrance door is locked, so search the area around the entrance for its key.",
+            "pt": "Novidade do remake: a porta da entrada está trancada, então procure a chave em volta da entrada."
+          }
+        },
+        {
+          "key": "find-the-dungeon-map-and-the-compass",
+          "title": "Find the Dungeon Map and the Compass",
+          "title_i18n": {
+            "en": "Find the Dungeon Map and the Compass",
+            "pt": "Encontrar o Mapa e a Bússola da masmorra"
+          },
+          "description": "Both help you track rooms, chests and the boss room on the new, clearer map screen.",
+          "description_i18n": {
+            "en": "Both help you track rooms, chests and the boss room on the new, clearer map screen.",
+            "pt": "Os dois ajudam a acompanhar salas, baús e a sala do chefe na nova tela de mapa, mais clara."
+          }
+        },
+        {
+          "key": "get-the-fairy-bow",
+          "title": "Get the Fairy Bow",
+          "title_i18n": {
+            "en": "Get the Fairy Bow",
+            "pt": "Pegar o Arco de Fada"
+          },
+          "description": "You'll need it to shoot the Poe Sisters' paintings and the eye switches.",
+          "description_i18n": {
+            "en": "You'll need it to shoot the Poe Sisters' paintings and the eye switches.",
+            "pt": "Você vai precisar dele para acertar os quadros das Irmãs Poe e os interruptores de olho."
+          }
+        },
+        {
+          "key": "defeat-the-four-poe-sisters",
+          "title": "Defeat the four Poe Sisters",
+          "title_i18n": {
+            "en": "Defeat the four Poe Sisters",
+            "pt": "Derrotar as quatro Irmãs Poe"
+          },
+          "description": "Joelle, Beth, Amy and Meg each guard a flame that brings back the central elevator.",
+          "description_i18n": {
+            "en": "Joelle, Beth, Amy and Meg each guard a flame that brings back the central elevator.",
+            "pt": "Joelle, Beth, Amy e Meg guardam cada uma uma chama que faz o elevador central voltar."
+          }
+        },
+        {
+          "key": "defeat-phantom-ganon",
+          "title": "Defeat Phantom Ganon",
+          "title_i18n": {
+            "en": "Defeat Phantom Ganon",
+            "pt": "Derrotar o Phantom Ganon"
+          },
+          "description": "Shoot him as he rides out of the right painting, then bat his energy balls back with your sword.",
+          "description_i18n": {
+            "en": "Shoot him as he rides out of the right painting, then bat his energy balls back with your sword.",
+            "pt": "Acerte quando ele sair do quadro certo e depois rebata as bolas de energia com a espada."
+          }
+        },
+        {
+          "key": "claim-the-heart-container",
+          "title": "Claim the Heart Container",
+          "title_i18n": {
+            "en": "Claim the Heart Container",
+            "pt": "Pegar o Container de Coração"
+          },
+          "description": "Dropped by the boss — it adds a full heart to your life meter.",
+          "description_i18n": {
+            "en": "Dropped by the boss — it adds a full heart to your life meter.",
+            "pt": "Deixado pelo chefe — adiciona um coração inteiro à sua vida."
+          }
+        },
+        {
+          "key": "receive-the-forest-medallion",
+          "title": "Receive the Forest Medallion",
+          "title_i18n": {
+            "en": "Receive the Forest Medallion",
+            "pt": "Receber o Medalhão da Floresta"
+          },
+          "description": "Saria awakens as the Sage of Forest.",
+          "description_i18n": {
+            "en": "Saria awakens as the Sage of Forest.",
+            "pt": "Saria desperta como a Sábia da Floresta."
+          }
+        },
+        {
+          "key": "learn-the-prelude-of-light-from-sheik",
+          "title": "Learn the Prelude of Light from Sheik",
+          "title_i18n": {
+            "en": "Learn the Prelude of Light from Sheik",
+            "pt": "Aprender o Prelúdio da Luz com o Sheik"
+          },
+          "description": "Return to the Temple of Time after clearing the Forest Temple.",
+          "description_i18n": {
+            "en": "Return to the Temple of Time after clearing the Forest Temple.",
+            "pt": "Volte ao Templo do Tempo depois de terminar o Templo da Floresta."
+          }
+        }
+      ]
+    },
+    {
+      "key": "disaster-in-goron-city",
+      "title": "Disaster in Goron City",
+      "title_i18n": {
+        "en": "Disaster in Goron City",
+        "pt": "Desastre na Cidade Goron"
+      },
+      "items": [
+        {
+          "key": "stop-the-rolling-goron-in-the-empty-city",
+          "title": "Stop the rolling Goron in the empty city",
+          "title_i18n": {
+            "en": "Stop the rolling Goron in the empty city",
+            "pt": "Parar o Goron que rola pela cidade vazia"
+          },
+          "description": "Drop a bomb in his path; he turns out to be Darunia's son and gives you the Goron Tunic.",
+          "description_i18n": {
+            "en": "Drop a bomb in his path; he turns out to be Darunia's son and gives you the Goron Tunic.",
+            "pt": "Coloque uma bomba no caminho dele; ele é o filho do Darunia e dá a Túnica Goron."
+          }
+        },
+        {
+          "key": "open-the-shortcut-in-darunia-s-room-to-the-crate",
+          "title": "Open the shortcut in Darunia's room to the crater",
+          "title_i18n": {
+            "en": "Open the shortcut in Darunia's room to the crater",
+            "pt": "Abrir o atalho na sala do Darunia até a cratera"
+          },
+          "description": "Move the statue in the empty throne room.",
+          "description_i18n": {
+            "en": "Move the statue in the empty throne room.",
+            "pt": "Mova a estátua na sala do trono vazia."
+          }
+        },
+        {
+          "key": "survive-death-mountain-crater-in-the-goron-tunic",
+          "title": "Survive Death Mountain Crater in the Goron Tunic",
+          "title_i18n": {
+            "en": "Survive Death Mountain Crater in the Goron Tunic",
+            "pt": "Sobreviver à Cratera da Montanha da Morte com a Túnica Goron"
+          },
+          "description": "Without it, Link's tunic catches fire after a few seconds and he starts losing hearts; healing resets the timer.",
+          "description_i18n": {
+            "en": "Without it, Link's tunic catches fire after a few seconds and he starts losing hearts; healing resets the timer.",
+            "pt": "Sem ela, a túnica do Link pega fogo depois de alguns segundos e ele começa a perder corações; se curar, o tempo reinicia."
+          }
+        },
+        {
+          "key": "learn-the-bolero-of-fire-from-sheik",
+          "title": "Learn the Bolero of Fire from Sheik",
+          "title_i18n": {
+            "en": "Learn the Bolero of Fire from Sheik",
+            "pt": "Aprender o Bolero do Fogo com o Sheik"
+          },
+          "description": "Sheik is waiting near the crater's entrance.",
+          "description_i18n": {
+            "en": "Sheik is waiting near the crater's entrance.",
+            "pt": "Sheik espera perto da entrada da cratera."
+          }
+        }
+      ]
+    },
+    {
+      "key": "fire-temple",
+      "title": "Fire Temple",
+      "title_i18n": {
+        "en": "Fire Temple",
+        "pt": "Templo do Fogo"
+      },
+      "items": [
+        {
+          "key": "free-the-imprisoned-gorons",
+          "title": "Free the imprisoned Gorons",
+          "title_i18n": {
+            "en": "Free the imprisoned Gorons",
+            "pt": "Libertar os Gorons aprisionados"
+          },
+          "description": "Each cell holds a captured Goron, and many hold a Small Key too.",
+          "description_i18n": {
+            "en": "Each cell holds a captured Goron, and many hold a Small Key too.",
+            "pt": "Cada cela guarda um Goron preso, e muitas também guardam uma Chave Pequena."
+          }
+        },
+        {
+          "key": "find-the-dungeon-map-and-the-compass",
+          "title": "Find the Dungeon Map and the Compass",
+          "title_i18n": {
+            "en": "Find the Dungeon Map and the Compass",
+            "pt": "Encontrar o Mapa e a Bússola da masmorra"
+          },
+          "description": "Both help you track rooms, chests and the boss room on the new, clearer map screen.",
+          "description_i18n": {
+            "en": "Both help you track rooms, chests and the boss room on the new, clearer map screen.",
+            "pt": "Os dois ajudam a acompanhar salas, baús e a sala do chefe na nova tela de mapa, mais clara."
+          }
+        },
+        {
+          "key": "defeat-the-flare-dancer",
+          "title": "Defeat the Flare Dancer",
+          "title_i18n": {
+            "en": "Defeat the Flare Dancer",
+            "pt": "Derrotar o Flare Dancer"
+          },
+          "description": "Pull it out of its flames with the Hookshot, then attack the core.",
+          "description_i18n": {
+            "en": "Pull it out of its flames with the Hookshot, then attack the core.",
+            "pt": "Puxe ele para fora das chamas com o Gancho e ataque o núcleo."
+          }
+        },
+        {
+          "key": "get-the-megaton-hammer",
+          "title": "Get the Megaton Hammer",
+          "title_i18n": {
+            "en": "Get the Megaton Hammer",
+            "pt": "Pegar o Martelo Megaton"
+          },
+          "description": "Smash rusted switches and stone blocks blocking the way.",
+          "description_i18n": {
+            "en": "Smash rusted switches and stone blocks blocking the way.",
+            "pt": "Esmague interruptores enferrujados e blocos de pedra que bloqueiam o caminho."
+          }
+        },
+        {
+          "key": "defeat-volvagia",
+          "title": "Defeat Volvagia",
+          "title_i18n": {
+            "en": "Defeat Volvagia",
+            "pt": "Derrotar o Volvagia"
+          },
+          "description": "Hit its head with the Megaton Hammer when it pops out of a lava pit.",
+          "description_i18n": {
+            "en": "Hit its head with the Megaton Hammer when it pops out of a lava pit.",
+            "pt": "Acerte a cabeça dele com o Martelo Megaton quando ele sair de um buraco de lava."
+          }
+        },
+        {
+          "key": "claim-the-heart-container",
+          "title": "Claim the Heart Container",
+          "title_i18n": {
+            "en": "Claim the Heart Container",
+            "pt": "Pegar o Container de Coração"
+          },
+          "description": "Dropped by the boss — it adds a full heart to your life meter.",
+          "description_i18n": {
+            "en": "Dropped by the boss — it adds a full heart to your life meter.",
+            "pt": "Deixado pelo chefe — adiciona um coração inteiro à sua vida."
+          }
+        },
+        {
+          "key": "receive-the-fire-medallion",
+          "title": "Receive the Fire Medallion",
+          "title_i18n": {
+            "en": "Receive the Fire Medallion",
+            "pt": "Receber o Medalhão do Fogo"
+          },
+          "description": "Darunia awakens as the Sage of Fire.",
+          "description_i18n": {
+            "en": "Darunia awakens as the Sage of Fire.",
+            "pt": "Darunia desperta como o Sábio do Fogo."
+          }
+        }
+      ]
+    },
+    {
+      "key": "frozen-zora-s-domain-the-ice-cavern",
+      "title": "Frozen Zora's Domain & the Ice Cavern",
+      "title_i18n": {
+        "en": "Frozen Zora's Domain & the Ice Cavern",
+        "pt": "Domínio Zora Congelado e a Caverna de Gelo"
+      },
+      "items": [
+        {
+          "key": "cross-the-frozen-zora-s-fountain-to-the-ice-cave",
+          "title": "Cross the frozen Zora's Fountain to the Ice Cavern",
+          "title_i18n": {
+            "en": "Cross the frozen Zora's Fountain to the Ice Cavern",
+            "pt": "Atravessar a Fonte Zora congelada até a Caverna de Gelo"
+          },
+          "description": "Hop across the ice floes to the cavern entrance.",
+          "description_i18n": {
+            "en": "Hop across the ice floes to the cavern entrance.",
+            "pt": "Pule pelos blocos de gelo até a entrada da caverna."
+          }
+        },
+        {
+          "key": "find-the-dungeon-map-and-the-compass",
+          "title": "Find the Dungeon Map and the Compass",
+          "title_i18n": {
+            "en": "Find the Dungeon Map and the Compass",
+            "pt": "Encontrar o Mapa e a Bússola da masmorra"
+          },
+          "description": "Both help you track rooms, chests and the boss room on the new, clearer map screen.",
+          "description_i18n": {
+            "en": "Both help you track rooms, chests and the boss room on the new, clearer map screen.",
+            "pt": "Os dois ajudam a acompanhar salas, baús e a sala do chefe na nova tela de mapa, mais clara."
+          }
+        },
+        {
+          "key": "collect-blue-fire-in-a-bottle",
+          "title": "Collect Blue Fire in a bottle",
+          "title_i18n": {
+            "en": "Collect Blue Fire in a bottle",
+            "pt": "Coletar Fogo Azul numa garrafa"
+          },
+          "description": "It melts red ice; in the remake shops only sell it after you've bottled some yourself and cleared the Ice Cavern.",
+          "description_i18n": {
+            "en": "It melts red ice; in the remake shops only sell it after you've bottled some yourself and cleared the Ice Cavern.",
+            "pt": "Ele derrete o gelo vermelho; no remake as lojas só vendem depois que você pegar o seu e terminar a Caverna de Gelo."
+          }
+        },
+        {
+          "key": "learn-the-serenade-of-water-from-sheik",
+          "title": "Learn the Serenade of Water from Sheik",
+          "title_i18n": {
+            "en": "Learn the Serenade of Water from Sheik",
+            "pt": "Aprender a Serenata da Água com o Sheik"
+          },
+          "description": "Sheik appears deep in the cavern.",
+          "description_i18n": {
+            "en": "Sheik appears deep in the cavern.",
+            "pt": "Sheik aparece no fundo da caverna."
+          }
+        },
+        {
+          "key": "get-the-iron-boots",
+          "title": "Get the Iron Boots",
+          "title_i18n": {
+            "en": "Get the Iron Boots",
+            "pt": "Pegar as Botas de Ferro"
+          },
+          "description": "Beat the White Wolfos guarding them; they let you walk along the bottom of deep water.",
+          "description_i18n": {
+            "en": "Beat the White Wolfos guarding them; they let you walk along the bottom of deep water.",
+            "pt": "Vença o Wolfos Branco que as guarda; elas deixam você andar no fundo de águas profundas."
+          }
+        },
+        {
+          "key": "thaw-king-zora-with-blue-fire",
+          "title": "Thaw King Zora with Blue Fire",
+          "title_i18n": {
+            "en": "Thaw King Zora with Blue Fire",
+            "pt": "Descongelar o Rei Zora com Fogo Azul"
+          },
+          "description": "He thanks you with the Zora Tunic, which keeps you from drowning underwater.",
+          "description_i18n": {
+            "en": "He thanks you with the Zora Tunic, which keeps you from drowning underwater.",
+            "pt": "Ele agradece com a Túnica Zora, que impede você de se afogar debaixo d'água."
+          }
+        }
+      ]
+    },
+    {
+      "key": "water-temple",
+      "title": "Water Temple",
+      "title_i18n": {
+        "en": "Water Temple",
+        "pt": "Templo da Água"
+      },
+      "items": [
+        {
+          "key": "sink-to-the-temple-entrance-at-the-bottom-of-lak",
+          "title": "Sink to the temple entrance at the bottom of Lake Hylia",
+          "title_i18n": {
+            "en": "Sink to the temple entrance at the bottom of Lake Hylia",
+            "pt": "Afundar até a entrada do templo no fundo do Lago Hylia"
+          },
+          "description": "Wear the Iron Boots and Zora Tunic, then hookshot the target above the door.",
+          "description_i18n": {
+            "en": "Wear the Iron Boots and Zora Tunic, then hookshot the target above the door.",
+            "pt": "Use as Botas de Ferro e a Túnica Zora e prenda o Gancho no alvo acima da porta."
+          }
+        },
+        {
+          "key": "meet-ruto-inside-the-temple",
+          "title": "Meet Ruto inside the temple",
+          "title_i18n": {
+            "en": "Meet Ruto inside the temple",
+            "pt": "Encontrar a Ruto dentro do templo"
+          },
+          "description": "She points you toward the controls that change the water level.",
+          "description_i18n": {
+            "en": "She points you toward the controls that change the water level.",
+            "pt": "Ela indica os controles que mudam o nível da água."
+          }
+        },
+        {
+          "key": "change-the-water-level-with-zelda-s-lullaby",
+          "title": "Change the water level with Zelda's Lullaby",
+          "title_i18n": {
+            "en": "Change the water level with Zelda's Lullaby",
+            "pt": "Mudar o nível da água com a Canção de Ninar da Zelda"
+          },
+          "description": "Play it at the Triforce symbols to switch between the three water heights.",
+          "description_i18n": {
+            "en": "Play it at the Triforce symbols to switch between the three water heights.",
+            "pt": "Toque nos símbolos da Triforce para alternar entre as três alturas de água."
+          }
+        },
+        {
+          "key": "find-the-dungeon-map-and-the-compass",
+          "title": "Find the Dungeon Map and the Compass",
+          "title_i18n": {
+            "en": "Find the Dungeon Map and the Compass",
+            "pt": "Encontrar o Mapa e a Bússola da masmorra"
+          },
+          "description": "Both help you track rooms, chests and the boss room on the new, clearer map screen.",
+          "description_i18n": {
+            "en": "Both help you track rooms, chests and the boss room on the new, clearer map screen.",
+            "pt": "Os dois ajudam a acompanhar salas, baús e a sala do chefe na nova tela de mapa, mais clara."
+          }
+        },
+        {
+          "key": "defeat-dark-link",
+          "title": "Defeat Dark Link",
+          "title_i18n": {
+            "en": "Defeat Dark Link",
+            "pt": "Derrotar o Dark Link"
+          },
+          "description": "Your shadow copies every move — mix up your attacks and use other items.",
+          "description_i18n": {
+            "en": "Your shadow copies every move — mix up your attacks and use other items.",
+            "pt": "Sua sombra copia cada movimento — varie os ataques e use outros itens."
+          }
+        },
+        {
+          "key": "get-the-longshot",
+          "title": "Get the Longshot",
+          "title_i18n": {
+            "en": "Get the Longshot",
+            "pt": "Pegar o Longshot"
+          },
+          "description": "The upgraded Hookshot reaches twice as far.",
+          "description_i18n": {
+            "en": "The upgraded Hookshot reaches twice as far.",
+            "pt": "O Gancho melhorado alcança o dobro da distância."
+          }
+        },
+        {
+          "key": "defeat-morpha",
+          "title": "Defeat Morpha",
+          "title_i18n": {
+            "en": "Defeat Morpha",
+            "pt": "Derrotar o Morpha"
+          },
+          "description": "Pull its nucleus out of the water with the Longshot and slash it.",
+          "description_i18n": {
+            "en": "Pull its nucleus out of the water with the Longshot and slash it.",
+            "pt": "Puxe o núcleo para fora da água com o Longshot e golpeie."
+          }
+        },
+        {
+          "key": "claim-the-heart-container",
+          "title": "Claim the Heart Container",
+          "title_i18n": {
+            "en": "Claim the Heart Container",
+            "pt": "Pegar o Container de Coração"
+          },
+          "description": "Dropped by the boss — it adds a full heart to your life meter.",
+          "description_i18n": {
+            "en": "Dropped by the boss — it adds a full heart to your life meter.",
+            "pt": "Deixado pelo chefe — adiciona um coração inteiro à sua vida."
+          }
+        },
+        {
+          "key": "receive-the-water-medallion",
+          "title": "Receive the Water Medallion",
+          "title_i18n": {
+            "en": "Receive the Water Medallion",
+            "pt": "Receber o Medalhão da Água"
+          },
+          "description": "Ruto awakens as the Sage of Water and Lake Hylia fills back up.",
+          "description_i18n": {
+            "en": "Ruto awakens as the Sage of Water and Lake Hylia fills back up.",
+            "pt": "Ruto desperta como a Sábia da Água e o Lago Hylia volta a encher."
+          }
+        }
+      ]
+    },
+    {
+      "key": "bottom-of-the-well",
+      "title": "Bottom of the Well",
+      "title_i18n": {
+        "en": "Bottom of the Well",
+        "pt": "Fundo do Poço"
+      },
+      "items": [
+        {
+          "key": "find-kakariko-village-in-flames",
+          "title": "Find Kakariko Village in flames",
+          "title_i18n": {
+            "en": "Find Kakariko Village in flames",
+            "pt": "Encontrar a Vila Kakariko em chamas"
+          },
+          "description": "A dark creature bursts out of the well as you arrive.",
+          "description_i18n": {
+            "en": "A dark creature bursts out of the well as you arrive.",
+            "pt": "Uma criatura sombria escapa do poço assim que você chega."
+          }
+        },
+        {
+          "key": "learn-the-nocturne-of-shadow-from-sheik",
+          "title": "Learn the Nocturne of Shadow from Sheik",
+          "title_i18n": {
+            "en": "Learn the Nocturne of Shadow from Sheik",
+            "pt": "Aprender o Noturno da Sombra com o Sheik"
+          },
+          "description": "Sheik teaches it right after the attack on the village.",
+          "description_i18n": {
+            "en": "Sheik teaches it right after the attack on the village.",
+            "pt": "Sheik ensina logo depois do ataque à vila."
+          }
+        },
+        {
+          "key": "learn-the-song-of-storms-in-the-windmill",
+          "title": "Learn the Song of Storms in the windmill",
+          "title_i18n": {
+            "en": "Learn the Song of Storms in the windmill",
+            "pt": "Aprender a Canção das Tempestades no moinho"
+          },
+          "description": "As an adult, hear it from the man in the Kakariko windmill.",
+          "description_i18n": {
+            "en": "As an adult, hear it from the man in the Kakariko windmill.",
+            "pt": "Adulto, ouça a música com o homem do moinho de Kakariko."
+          }
+        },
+        {
+          "key": "drain-the-well-as-young-link",
+          "title": "Drain the well as young Link",
+          "title_i18n": {
+            "en": "Drain the well as young Link",
+            "pt": "Esvaziar o poço como Link criança"
+          },
+          "description": "Go back in time and play the Song of Storms inside the windmill.",
+          "description_i18n": {
+            "en": "Go back in time and play the Song of Storms inside the windmill.",
+            "pt": "Volte no tempo e toque a Canção das Tempestades dentro do moinho."
+          }
+        },
+        {
+          "key": "defeat-dead-hand",
+          "title": "Defeat Dead Hand",
+          "title_i18n": {
+            "en": "Defeat Dead Hand",
+            "pt": "Derrotar o Dead Hand"
+          },
+          "description": "Let one of its hands grab you to lure it out, then strike its head.",
+          "description_i18n": {
+            "en": "Let one of its hands grab you to lure it out, then strike its head.",
+            "pt": "Deixe uma das mãos agarrar você para atraí-lo e ataque a cabeça."
+          }
+        },
+        {
+          "key": "get-the-lenses-of-truth",
+          "title": "Get the Lenses of Truth",
+          "title_i18n": {
+            "en": "Get the Lenses of Truth",
+            "pt": "Pegar as Lentes da Verdade"
+          },
+          "description": "The remake turns the Lens of Truth into goggles on Link's head, used from the D-Pad.",
+          "description_i18n": {
+            "en": "The remake turns the Lens of Truth into goggles on Link's head, used from the D-Pad.",
+            "pt": "O remake transformou a Lente da Verdade em óculos na cabeça do Link, usados pelo direcional."
+          }
+        }
+      ]
+    },
+    {
+      "key": "shadow-temple",
+      "title": "Shadow Temple",
+      "title_i18n": {
+        "en": "Shadow Temple",
+        "pt": "Templo das Sombras"
+      },
+      "items": [
+        {
+          "key": "light-the-entrance-torches-with-din-s-fire",
+          "title": "Light the entrance torches with Din's Fire",
+          "title_i18n": {
+            "en": "Light the entrance torches with Din's Fire",
+            "pt": "Acender as tochas da entrada com o Fogo de Din"
+          },
+          "description": "Get Din's Fire from the Great Fairy near Hyrule Castle beforehand.",
+          "description_i18n": {
+            "en": "Get Din's Fire from the Great Fairy near Hyrule Castle beforehand.",
+            "pt": "Pegue o Fogo de Din com a Grande Fada perto do Castelo de Hyrule antes."
+          }
+        },
+        {
+          "key": "find-the-dungeon-map-and-the-compass",
+          "title": "Find the Dungeon Map and the Compass",
+          "title_i18n": {
+            "en": "Find the Dungeon Map and the Compass",
+            "pt": "Encontrar o Mapa e a Bússola da masmorra"
+          },
+          "description": "Both help you track rooms, chests and the boss room on the new, clearer map screen.",
+          "description_i18n": {
+            "en": "Both help you track rooms, chests and the boss room on the new, clearer map screen.",
+            "pt": "Os dois ajudam a acompanhar salas, baús e a sala do chefe na nova tela de mapa, mais clara."
+          }
+        },
+        {
+          "key": "get-the-hover-boots",
+          "title": "Get the Hover Boots",
+          "title_i18n": {
+            "en": "Get the Hover Boots",
+            "pt": "Pegar as Botas Flutuantes"
+          },
+          "description": "They let you glide briefly over gaps with no floor.",
+          "description_i18n": {
+            "en": "They let you glide briefly over gaps with no floor.",
+            "pt": "Elas deixam você deslizar por pouco tempo sobre buracos sem chão."
+          }
+        },
+        {
+          "key": "ride-the-ferry-across-the-river",
+          "title": "Ride the ferry across the river",
+          "title_i18n": {
+            "en": "Ride the ferry across the river",
+            "pt": "Atravessar o rio na balsa"
+          },
+          "description": "Play Zelda's Lullaby on the Triforce symbol to set the boat moving.",
+          "description_i18n": {
+            "en": "Play Zelda's Lullaby on the Triforce symbol to set the boat moving.",
+            "pt": "Toque a Canção de Ninar da Zelda no símbolo da Triforce para a balsa andar."
+          }
+        },
+        {
+          "key": "defeat-bongo-bongo",
+          "title": "Defeat Bongo Bongo",
+          "title_i18n": {
+            "en": "Defeat Bongo Bongo",
+            "pt": "Derrotar o Bongo Bongo"
+          },
+          "description": "Wear the Lenses of Truth to see it, stun both hands, then hit the eye.",
+          "description_i18n": {
+            "en": "Wear the Lenses of Truth to see it, stun both hands, then hit the eye.",
+            "pt": "Use as Lentes da Verdade para enxergá-lo, atordoe as duas mãos e acerte o olho."
+          }
+        },
+        {
+          "key": "claim-the-heart-container",
+          "title": "Claim the Heart Container",
+          "title_i18n": {
+            "en": "Claim the Heart Container",
+            "pt": "Pegar o Container de Coração"
+          },
+          "description": "Dropped by the boss — it adds a full heart to your life meter.",
+          "description_i18n": {
+            "en": "Dropped by the boss — it adds a full heart to your life meter.",
+            "pt": "Deixado pelo chefe — adiciona um coração inteiro à sua vida."
+          }
+        },
+        {
+          "key": "receive-the-shadow-medallion",
+          "title": "Receive the Shadow Medallion",
+          "title_i18n": {
+            "en": "Receive the Shadow Medallion",
+            "pt": "Receber o Medalhão das Sombras"
+          },
+          "description": "Impa awakens as the Sage of Shadow.",
+          "description_i18n": {
+            "en": "Impa awakens as the Sage of Shadow.",
+            "pt": "Impa desperta como a Sábia das Sombras."
+          }
+        }
+      ]
+    },
+    {
+      "key": "gerudo-fortress-the-haunted-wasteland",
+      "title": "Gerudo Fortress & the Haunted Wasteland",
+      "title_i18n": {
+        "en": "Gerudo Fortress & the Haunted Wasteland",
+        "pt": "Fortaleza Gerudo e o Deserto Assombrado"
+      },
+      "items": [
+        {
+          "key": "cross-the-broken-bridge-in-gerudo-valley",
+          "title": "Cross the broken bridge in Gerudo Valley",
+          "title_i18n": {
+            "en": "Cross the broken bridge in Gerudo Valley",
+            "pt": "Atravessar a ponte quebrada do Vale Gerudo"
+          },
+          "description": "Jump the gap on Epona or Longshot across.",
+          "description_i18n": {
+            "en": "Jump the gap on Epona or Longshot across.",
+            "pt": "Pule o vão com a Epona ou atravesse com o Longshot."
+          }
+        },
+        {
+          "key": "rescue-the-four-captured-carpenters",
+          "title": "Rescue the four captured carpenters",
+          "title_i18n": {
+            "en": "Rescue the four captured carpenters",
+            "pt": "Resgatar os quatro carpinteiros capturados"
+          },
+          "description": "Sneak through Gerudo Fortress and defeat the guards holding the cell keys.",
+          "description_i18n": {
+            "en": "Sneak through Gerudo Fortress and defeat the guards holding the cell keys.",
+            "pt": "Entre escondido na Fortaleza Gerudo e vença as guardas que têm as chaves das celas."
+          }
+        },
+        {
+          "key": "receive-the-gerudo-membership-card",
+          "title": "Receive the Gerudo Membership Card",
+          "title_i18n": {
+            "en": "Receive the Gerudo Membership Card",
+            "pt": "Receber o Cartão de Membro Gerudo"
+          },
+          "description": "The Gerudo let you come and go freely from then on.",
+          "description_i18n": {
+            "en": "The Gerudo let you come and go freely from then on.",
+            "pt": "A partir daí as Gerudo deixam você entrar e sair à vontade."
+          }
+        },
+        {
+          "key": "cross-the-haunted-wasteland",
+          "title": "Cross the Haunted Wasteland",
+          "title_i18n": {
+            "en": "Cross the Haunted Wasteland",
+            "pt": "Atravessar o Deserto Assombrado"
+          },
+          "description": "Follow the flags through the sandstorm, then use the Lenses of Truth to follow the guiding Poe.",
+          "description_i18n": {
+            "en": "Follow the flags through the sandstorm, then use the Lenses of Truth to follow the guiding Poe.",
+            "pt": "Siga as bandeiras pela tempestade de areia e depois use as Lentes da Verdade para seguir o Poe guia."
+          }
+        },
+        {
+          "key": "learn-the-requiem-of-spirit-from-sheik-at-the-de",
+          "title": "Learn the Requiem of Spirit from Sheik at the Desert Colossus",
+          "title_i18n": {
+            "en": "Learn the Requiem of Spirit from Sheik at the Desert Colossus",
+            "pt": "Aprender o Réquiem do Espírito com o Sheik no Colosso do Deserto"
+          },
+          "description": "The song also lets young Link warp to the Spirit Temple.",
+          "description_i18n": {
+            "en": "The song also lets young Link warp to the Spirit Temple.",
+            "pt": "A música também deixa o Link criança se teletransportar até o Templo do Espírito."
+          }
+        }
+      ]
+    },
+    {
+      "key": "spirit-temple",
+      "title": "Spirit Temple",
+      "title_i18n": {
+        "en": "Spirit Temple",
+        "pt": "Templo do Espírito"
+      },
+      "items": [
+        {
+          "key": "meet-nabooru-as-young-link",
+          "title": "Meet Nabooru as young Link",
+          "title_i18n": {
+            "en": "Meet Nabooru as young Link",
+            "pt": "Conhecer a Nabooru como Link criança"
+          },
+          "description": "She asks you to fetch the Silver Gauntlets from inside the temple.",
+          "description_i18n": {
+            "en": "She asks you to fetch the Silver Gauntlets from inside the temple.",
+            "pt": "Ela pede que você pegue as Manoplas de Prata dentro do templo."
+          }
+        },
+        {
+          "key": "get-the-silver-gauntlets",
+          "title": "Get the Silver Gauntlets",
+          "title_i18n": {
+            "en": "Get the Silver Gauntlets",
+            "pt": "Pegar as Manoplas de Prata"
+          },
+          "description": "Right after, Twinrova carries Nabooru away.",
+          "description_i18n": {
+            "en": "Right after, Twinrova carries Nabooru away.",
+            "pt": "Logo depois, a Twinrova leva a Nabooru embora."
+          }
+        },
+        {
+          "key": "find-the-dungeon-map-and-the-compass",
+          "title": "Find the Dungeon Map and the Compass",
+          "title_i18n": {
+            "en": "Find the Dungeon Map and the Compass",
+            "pt": "Encontrar o Mapa e a Bússola da masmorra"
+          },
+          "description": "Both help you track rooms, chests and the boss room on the new, clearer map screen.",
+          "description_i18n": {
+            "en": "Both help you track rooms, chests and the boss room on the new, clearer map screen.",
+            "pt": "Os dois ajudam a acompanhar salas, baús e a sala do chefe na nova tela de mapa, mais clara."
+          }
+        },
+        {
+          "key": "get-the-mirror-shield",
+          "title": "Get the Mirror Shield",
+          "title_i18n": {
+            "en": "Get the Mirror Shield",
+            "pt": "Pegar o Escudo Espelhado"
+          },
+          "description": "Reflect sunlight onto the sun symbols to solve the temple's light puzzles.",
+          "description_i18n": {
+            "en": "Reflect sunlight onto the sun symbols to solve the temple's light puzzles.",
+            "pt": "Reflita a luz do sol nos símbolos do sol para resolver os enigmas de luz do templo."
+          }
+        },
+        {
+          "key": "defeat-the-iron-knuckle",
+          "title": "Defeat the Iron Knuckle",
+          "title_i18n": {
+            "en": "Defeat the Iron Knuckle",
+            "pt": "Derrotar o Iron Knuckle"
+          },
+          "description": "Under the armor is Nabooru, brainwashed by Twinrova.",
+          "description_i18n": {
+            "en": "Under the armor is Nabooru, brainwashed by Twinrova.",
+            "pt": "Debaixo da armadura está a Nabooru, controlada pela Twinrova."
+          }
+        },
+        {
+          "key": "defeat-twinrova",
+          "title": "Defeat Twinrova",
+          "title_i18n": {
+            "en": "Defeat Twinrova",
+            "pt": "Derrotar a Twinrova"
+          },
+          "description": "Absorb one sister's blast with the Mirror Shield and fire it back at the other, then strike the merged witch.",
+          "description_i18n": {
+            "en": "Absorb one sister's blast with the Mirror Shield and fire it back at the other, then strike the merged witch.",
+            "pt": "Absorva o ataque de uma irmã com o Escudo Espelhado e devolva na outra; depois ataque a bruxa fundida."
+          }
+        },
+        {
+          "key": "claim-the-heart-container",
+          "title": "Claim the Heart Container",
+          "title_i18n": {
+            "en": "Claim the Heart Container",
+            "pt": "Pegar o Container de Coração"
+          },
+          "description": "Dropped by the boss — it adds a full heart to your life meter.",
+          "description_i18n": {
+            "en": "Dropped by the boss — it adds a full heart to your life meter.",
+            "pt": "Deixado pelo chefe — adiciona um coração inteiro à sua vida."
+          }
+        },
+        {
+          "key": "receive-the-spirit-medallion",
+          "title": "Receive the Spirit Medallion",
+          "title_i18n": {
+            "en": "Receive the Spirit Medallion",
+            "pt": "Receber o Medalhão do Espírito"
+          },
+          "description": "Nabooru awakens as the Sage of Spirit.",
+          "description_i18n": {
+            "en": "Nabooru awakens as the Sage of Spirit.",
+            "pt": "Nabooru desperta como a Sábia do Espírito."
+          }
+        }
+      ]
+    },
+    {
+      "key": "ganon-s-castle",
+      "title": "Ganon's Castle",
+      "title_i18n": {
+        "en": "Ganon's Castle",
+        "pt": "Castelo de Ganon"
+      },
+      "items": [
+        {
+          "key": "learn-sheik-s-true-identity-and-get-the-light-ar",
+          "title": "Learn Sheik's true identity and get the Light Arrows",
+          "title_i18n": {
+            "en": "Learn Sheik's true identity and get the Light Arrows",
+            "pt": "Descobrir a verdadeira identidade do Sheik e ganhar as Flechas de Luz"
+          },
+          "description": "Return to the Temple of Time with all six medallions.",
+          "description_i18n": {
+            "en": "Return to the Temple of Time with all six medallions.",
+            "pt": "Volte ao Templo do Tempo com os seis medalhões."
+          }
+        },
+        {
+          "key": "cross-the-rainbow-bridge-into-ganon-s-castle",
+          "title": "Cross the rainbow bridge into Ganon's Castle",
+          "title_i18n": {
+            "en": "Cross the rainbow bridge into Ganon's Castle",
+            "pt": "Atravessar a ponte de arco-íris até o Castelo de Ganon"
+          },
+          "description": "The sages build it for you over the lava.",
+          "description_i18n": {
+            "en": "The sages build it for you over the lava.",
+            "pt": "Os sábios constroem a ponte para você sobre a lava."
+          }
+        },
+        {
+          "key": "clear-the-six-trials-and-dispel-the-barrier",
+          "title": "Clear the six trials and dispel the barrier",
+          "title_i18n": {
+            "en": "Clear the six trials and dispel the barrier",
+            "pt": "Concluir as seis provas e desfazer a barreira"
+          },
+          "description": "Forest, Fire, Water, Shadow, Spirit and Light — each one removes part of the barrier around the tower.",
+          "description_i18n": {
+            "en": "Forest, Fire, Water, Shadow, Spirit and Light — each one removes part of the barrier around the tower.",
+            "pt": "Floresta, Fogo, Água, Sombra, Espírito e Luz — cada uma desfaz parte da barreira em volta da torre."
+          }
+        },
+        {
+          "key": "climb-ganon-s-tower",
+          "title": "Climb Ganon's Tower",
+          "title_i18n": {
+            "en": "Climb Ganon's Tower",
+            "pt": "Subir a Torre de Ganon"
+          },
+          "description": "Fight through the tower's guards on the way to the top.",
+          "description_i18n": {
+            "en": "Fight through the tower's guards on the way to the top.",
+            "pt": "Enfrente os guardas da torre no caminho até o topo."
+          }
+        },
+        {
+          "key": "defeat-ganondorf",
+          "title": "Defeat Ganondorf",
+          "title_i18n": {
+            "en": "Defeat Ganondorf",
+            "pt": "Derrotar o Ganondorf"
+          },
+          "description": "Bat his energy balls back, stun him with a Light Arrow and strike with the Master Sword.",
+          "description_i18n": {
+            "en": "Bat his energy balls back, stun him with a Light Arrow and strike with the Master Sword.",
+            "pt": "Rebata as bolas de energia, atordoe com uma Flecha de Luz e ataque com a Espada Mestra."
+          }
+        },
+        {
+          "key": "escape-the-collapsing-castle-with-zelda",
+          "title": "Escape the collapsing castle with Zelda",
+          "title_i18n": {
+            "en": "Escape the collapsing castle with Zelda",
+            "pt": "Fugir do castelo desmoronando com a Zelda"
+          },
+          "description": "Clear the path for her before the tower comes down.",
+          "description_i18n": {
+            "en": "Clear the path for her before the tower comes down.",
+            "pt": "Abra caminho para ela antes que a torre desabe."
+          }
+        },
+        {
+          "key": "defeat-ganon",
+          "title": "Defeat Ganon",
+          "title_i18n": {
+            "en": "Defeat Ganon",
+            "pt": "Derrotar o Ganon"
+          },
+          "description": "Aim for his tail until you recover the Master Sword, then finish him while Zelda holds him in place.",
+          "description_i18n": {
+            "en": "Aim for his tail until you recover the Master Sword, then finish him while Zelda holds him in place.",
+            "pt": "Mire no rabo até recuperar a Espada Mestra e termine a luta enquanto a Zelda o segura."
+          }
+        },
+        {
+          "key": "watch-the-sages-seal-ganon-away",
+          "title": "Watch the sages seal Ganon away",
+          "title_i18n": {
+            "en": "Watch the sages seal Ganon away",
+            "pt": "Ver os sábios selarem o Ganon"
+          },
+          "description": "The adventure ends — and the Trial of the Hero of Time unlocks.",
+          "description_i18n": {
+            "en": "The adventure ends — and the Trial of the Hero of Time unlocks.",
+            "pt": "A aventura termina — e a Prova do Herói do Tempo é liberada."
+          }
+        }
+      ]
+    },
+    {
+      "key": "side-quests",
+      "title": "Side Quests",
+      "title_i18n": {
+        "en": "Side Quests",
+        "pt": "Missões Secundárias"
+      },
+      "items": [
+        {
+          "key": "win-epona-back-from-ingo",
+          "title": "Win Epona back from Ingo",
+          "title_i18n": {
+            "en": "Win Epona back from Ingo",
+            "pt": "Recuperar a Epona do Ingo"
+          },
+          "description": "As an adult, race Ingo at Lon Lon Ranch, then leap the fence on Epona.",
+          "description_i18n": {
+            "en": "As an adult, race Ingo at Lon Lon Ranch, then leap the fence on Epona.",
+            "pt": "Adulto, aposte corrida com o Ingo no Rancho Lon Lon e pule a cerca com a Epona."
+          }
+        },
+        {
+          "key": "learn-the-sun-s-song-in-the-royal-family-s-tomb",
+          "title": "Learn the Sun's Song in the Royal Family's Tomb",
+          "title_i18n": {
+            "en": "Learn the Sun's Song in the Royal Family's Tomb",
+            "pt": "Aprender a Canção do Sol no Túmulo da Família Real"
+          },
+          "description": "Open the tomb in the Kakariko graveyard with Zelda's Lullaby as young Link.",
+          "description_i18n": {
+            "en": "Open the tomb in the Kakariko graveyard with Zelda's Lullaby as young Link.",
+            "pt": "Abra o túmulo no cemitério de Kakariko com a Canção de Ninar da Zelda, como Link criança."
+          }
+        },
+        {
+          "key": "sell-every-mask-for-the-happy-mask-shop",
+          "title": "Sell every mask for the Happy Mask Shop",
+          "title_i18n": {
+            "en": "Sell every mask for the Happy Mask Shop",
+            "pt": "Vender todas as máscaras para a Loja de Máscaras"
+          },
+          "description": "Borrow, sell and pay back each mask to unlock the Mask of Truth.",
+          "description_i18n": {
+            "en": "Borrow, sell and pay back each mask to unlock the Mask of Truth.",
+            "pt": "Pegue emprestado, venda e pague cada máscara para liberar a Máscara da Verdade."
+          }
+        },
+        {
+          "key": "teach-the-scarecrow-a-song",
+          "title": "Teach the scarecrow a song",
+          "title_i18n": {
+            "en": "Teach the scarecrow a song",
+            "pt": "Ensinar uma música ao espantalho"
+          },
+          "description": "Compose an eight-note tune at Lake Hylia as a child, then play it as an adult to summon the scarecrow.",
+          "description_i18n": {
+            "en": "Compose an eight-note tune at Lake Hylia as a child, then play it as an adult to summon the scarecrow.",
+            "pt": "Componha uma música de oito notas no Lago Hylia criança e toque adulto para chamar o espantalho."
+          }
+        },
+        {
+          "key": "get-the-biggoron-sword-through-the-trading-seque",
+          "title": "Get the Biggoron Sword through the trading sequence",
+          "title_i18n": {
+            "en": "Get the Biggoron Sword through the trading sequence",
+            "pt": "Ganhar a Espada Biggoron pela sequência de trocas"
+          },
+          "description": "It starts with the Pocket Egg from the Kakariko Cucco Lady.",
+          "description_i18n": {
+            "en": "It starts with the Pocket Egg from the Kakariko Cucco Lady.",
+            "pt": "Começa com o Ovo de Bolso da moça dos Cuccos de Kakariko."
+          }
+        },
+        {
+          "key": "get-the-fire-arrows",
+          "title": "Get the Fire Arrows",
+          "title_i18n": {
+            "en": "Get the Fire Arrows",
+            "pt": "Pegar as Flechas de Fogo"
+          },
+          "description": "After the Water Temple, shoot an arrow at the rising sun from Lake Hylia.",
+          "description_i18n": {
+            "en": "After the Water Temple, shoot an arrow at the rising sun from Lake Hylia.",
+            "pt": "Depois do Templo da Água, atire uma flecha no sol nascente no Lago Hylia."
+          }
+        },
+        {
+          "key": "get-the-ice-arrows",
+          "title": "Get the Ice Arrows",
+          "title_i18n": {
+            "en": "Get the Ice Arrows",
+            "pt": "Pegar as Flechas de Gelo"
+          },
+          "description": "The prize at the end of the Gerudo Training Ground.",
+          "description_i18n": {
+            "en": "The prize at the end of the Gerudo Training Ground.",
+            "pt": "O prêmio no fim do Campo de Treino Gerudo."
+          }
+        },
+        {
+          "key": "catch-the-hyrule-loach",
+          "title": "Catch the Hyrule Loach",
+          "title_i18n": {
+            "en": "Catch the Hyrule Loach",
+            "pt": "Pescar o Loach de Hyrule"
+          },
+          "description": "The rare fish hiding in the Lake Hylia fishing pond.",
+          "description_i18n": {
+            "en": "The rare fish hiding in the Lake Hylia fishing pond.",
+            "pt": "O peixe raro escondido no lago de pesca do Lago Hylia."
+          }
+        }
+      ]
+    },
+    {
+      "key": "great-fairies",
+      "title": "Great Fairies",
+      "title_i18n": {
+        "en": "Great Fairies",
+        "pt": "Grandes Fadas"
+      },
+      "items": [
+        {
+          "key": "bring-a-rupee-offering-to-each-great-fairy",
+          "title": "Bring a rupee offering to each Great Fairy",
+          "title_i18n": {
+            "en": "Bring a rupee offering to each Great Fairy",
+            "pt": "Levar uma oferta de rupis para cada Grande Fada"
+          },
+          "description": "New in the remake: every Great Fairy asks for a donation on your first visit.",
+          "description_i18n": {
+            "en": "New in the remake: every Great Fairy asks for a donation on your first visit.",
+            "pt": "Novidade do remake: cada Grande Fada pede uma doação na primeira visita."
+          }
+        },
+        {
+          "key": "get-din-s-fire",
+          "title": "Get Din's Fire",
+          "title_i18n": {
+            "en": "Get Din's Fire",
+            "pt": "Ganhar o Fogo de Din"
+          },
+          "description": "Great Fairy fountain near Hyrule Castle.",
+          "description_i18n": {
+            "en": "Great Fairy fountain near Hyrule Castle.",
+            "pt": "Fonte da Grande Fada perto do Castelo de Hyrule."
+          }
+        },
+        {
+          "key": "get-farore-s-wind",
+          "title": "Get Farore's Wind",
+          "title_i18n": {
+            "en": "Get Farore's Wind",
+            "pt": "Ganhar o Vento de Farore"
+          },
+          "description": "Great Fairy fountain at Zora's Fountain.",
+          "description_i18n": {
+            "en": "Great Fairy fountain at Zora's Fountain.",
+            "pt": "Fonte da Grande Fada na Fonte Zora."
+          }
+        },
+        {
+          "key": "get-nayru-s-love",
+          "title": "Get Nayru's Love",
+          "title_i18n": {
+            "en": "Get Nayru's Love",
+            "pt": "Ganhar o Amor de Nayru"
+          },
+          "description": "Great Fairy fountain at the Desert Colossus.",
+          "description_i18n": {
+            "en": "Great Fairy fountain at the Desert Colossus.",
+            "pt": "Fonte da Grande Fada no Colosso do Deserto."
+          }
+        },
+        {
+          "key": "receive-the-gift-of-improved-spin",
+          "title": "Receive the Gift of Improved Spin",
+          "title_i18n": {
+            "en": "Receive the Gift of Improved Spin",
+            "pt": "Receber o Presente do Giro Aprimorado"
+          },
+          "description": "Spin Attacks no longer cost magic in the remake; this gift makes them stronger.",
+          "description_i18n": {
+            "en": "Spin Attacks no longer cost magic in the remake; this gift makes them stronger.",
+            "pt": "No remake o Ataque Giratório não gasta magia; este presente deixa ele mais forte."
+          }
+        },
+        {
+          "key": "receive-the-gift-of-doubled-magic",
+          "title": "Receive the Gift of Doubled Magic",
+          "title_i18n": {
+            "en": "Receive the Gift of Doubled Magic",
+            "pt": "Receber o Presente da Magia Dobrada"
+          },
+          "description": "Doubles the size of your magic meter.",
+          "description_i18n": {
+            "en": "Doubles the size of your magic meter.",
+            "pt": "Dobra o tamanho da sua barra de magia."
+          }
+        },
+        {
+          "key": "receive-the-gift-of-halved-damage",
+          "title": "Receive the Gift of Halved Damage",
+          "title_i18n": {
+            "en": "Receive the Gift of Halved Damage",
+            "pt": "Receber o Presente do Dano Reduzido"
+          },
+          "description": "Enemies deal half damage to you from then on.",
+          "description_i18n": {
+            "en": "Enemies deal half damage to you from then on.",
+            "pt": "A partir daí os inimigos causam metade do dano."
+          }
+        }
+      ]
+    },
+    {
+      "key": "collectibles-upgrades",
+      "title": "Collectibles & Upgrades",
+      "title_i18n": {
+        "en": "Collectibles & Upgrades",
+        "pt": "Colecionáveis e Melhorias"
+      },
+      "items": [
+        {
+          "key": "learn-every-ocarina-song",
+          "title": "Learn every Ocarina song",
+          "title_i18n": {
+            "en": "Learn every Ocarina song",
+            "pt": "Aprender todas as músicas da Ocarina"
+          },
+          "description": "Six story songs plus six warp songs from Sheik.",
+          "description_i18n": {
+            "en": "Six story songs plus six warp songs from Sheik.",
+            "pt": "Seis músicas da história e mais seis de teletransporte com o Sheik."
+          }
+        },
+        {
+          "key": "find-all-five-empty-bottles",
+          "title": "Find all five Empty Bottles",
+          "title_i18n": {
+            "en": "Find all five Empty Bottles",
+            "pt": "Encontrar as cinco Garrafas Vazias"
+          },
+          "description": "The remake adds a fifth one, from the Castle Town Potion Shop.",
+          "description_i18n": {
+            "en": "The remake adds a fifth one, from the Castle Town Potion Shop.",
+            "pt": "O remake adiciona uma quinta, da Loja de Poções da Cidade do Castelo."
+          }
+        },
+        {
+          "key": "collect-every-piece-of-heart",
+          "title": "Collect every Piece of Heart",
+          "title_i18n": {
+            "en": "Collect every Piece of Heart",
+            "pt": "Coletar todos os Pedaços de Coração"
+          },
+          "description": "The map now shows how many you've found in each area.",
+          "description_i18n": {
+            "en": "The map now shows how many you've found in each area.",
+            "pt": "O mapa agora mostra quantos você já achou em cada área."
+          }
+        },
+        {
+          "key": "collect-every-gold-skulltula-token",
+          "title": "Collect every Gold Skulltula token",
+          "title_i18n": {
+            "en": "Collect every Gold Skulltula token",
+            "pt": "Coletar todos os tokens de Skulltula Dourada"
+          },
+          "description": "Equip the new Echo Gem to get an alert when one is nearby.",
+          "description_i18n": {
+            "en": "Equip the new Echo Gem to get an alert when one is nearby.",
+            "pt": "Equipe a nova Gema do Eco para receber um alerta quando houver uma por perto."
+          }
+        },
+        {
+          "key": "claim-the-house-of-skulltula-rewards",
+          "title": "Claim the House of Skulltula rewards",
+          "title_i18n": {
+            "en": "Claim the House of Skulltula rewards",
+            "pt": "Pegar as recompensas da Casa das Skulltulas"
+          },
+          "description": "The cursed family in Kakariko rewards you as your token count grows.",
+          "description_i18n": {
+            "en": "The cursed family in Kakariko rewards you as your token count grows.",
+            "pt": "A família amaldiçoada de Kakariko dá recompensas conforme você junta tokens."
+          }
+        },
+        {
+          "key": "upgrade-to-the-giant-s-wallet",
+          "title": "Upgrade to the Giant's Wallet",
+          "title_i18n": {
+            "en": "Upgrade to the Giant's Wallet",
+            "pt": "Conseguir a Carteira do Gigante"
+          },
+          "description": "Wallets hold 200, 500 and finally 1,000 rupees in the remake.",
+          "description_i18n": {
+            "en": "Wallets hold 200, 500 and finally 1,000 rupees in the remake.",
+            "pt": "No remake as carteiras guardam 200, 500 e por fim 1.000 rupis."
+          }
+        },
+        {
+          "key": "max-out-the-bomb-bag",
+          "title": "Max out the Bomb Bag",
+          "title_i18n": {
+            "en": "Max out the Bomb Bag",
+            "pt": "Maximizar a Bolsa de Bombas"
+          },
+          "description": null,
+          "description_i18n": {}
+        },
+        {
+          "key": "max-out-the-quiver",
+          "title": "Max out the Quiver",
+          "title_i18n": {
+            "en": "Max out the Quiver",
+            "pt": "Maximizar a Aljava"
+          },
+          "description": null,
+          "description_i18n": {}
+        },
+        {
+          "key": "max-out-the-deku-seed-bag",
+          "title": "Max out the Deku Seed Bag",
+          "title_i18n": {
+            "en": "Max out the Deku Seed Bag",
+            "pt": "Maximizar a Bolsa de Sementes Deku"
+          },
+          "description": null,
+          "description_i18n": {}
+        },
+        {
+          "key": "max-out-your-deku-stick-and-deku-nut-capacity",
+          "title": "Max out your Deku Stick and Deku Nut capacity",
+          "title_i18n": {
+            "en": "Max out your Deku Stick and Deku Nut capacity",
+            "pt": "Maximizar a capacidade de Galhos e Nozes Deku"
+          },
+          "description": null,
+          "description_i18n": {}
+        },
+        {
+          "key": "find-every-fairy-thought",
+          "title": "Find every Fairy Thought",
+          "title_i18n": {
+            "en": "Find every Fairy Thought",
+            "pt": "Encontrar todos os Pensamentos de Fada"
+          },
+          "description": "New in the remake: glowing squiggles on walls; play the right song in front of one to fully heal, and some lead to Pieces of Heart.",
+          "description_i18n": {
+            "en": "New in the remake: glowing squiggles on walls; play the right song in front of one to fully heal, and some lead to Pieces of Heart.",
+            "pt": "Novidade do remake: rabiscos brilhantes nas paredes; toque a música certa na frente deles para curar tudo, e alguns levam a Pedaços de Coração."
+          }
+        },
+        {
+          "key": "use-a-business-scrub-seed",
+          "title": "Use a Business Scrub Seed",
+          "title_i18n": {
+            "en": "Use a Business Scrub Seed",
+            "pt": "Usar uma Semente de Business Scrub"
+          },
+          "description": "New item: it summons a Deku merchant anywhere — handy when you run out of supplies in a dungeon.",
+          "description_i18n": {
+            "en": "New item: it summons a Deku merchant anywhere — handy when you run out of supplies in a dungeon.",
+            "pt": "Item novo: chama um mercador Deku em qualquer lugar — útil quando os suprimentos acabam numa masmorra."
+          }
+        }
+      ]
+    },
+    {
+      "key": "hall-of-fallen-foes",
+      "title": "Hall of Fallen Foes",
+      "title_i18n": {
+        "en": "Hall of Fallen Foes",
+        "pt": "Salão dos Inimigos Derrotados"
+      },
+      "items": [
+        {
+          "key": "visit-the-hall-of-fallen-foes",
+          "title": "Visit the Hall of Fallen Foes",
+          "title_i18n": {
+            "en": "Visit the Hall of Fallen Foes",
+            "pt": "Visitar o Salão dos Inimigos Derrotados"
+          },
+          "description": "New in the remake: browse the enemies you've met and rematch any boss or mini-boss, with best times tracked.",
+          "description_i18n": {
+            "en": "New in the remake: browse the enemies you've met and rematch any boss or mini-boss, with best times tracked.",
+            "pt": "Novidade do remake: veja os inimigos que encontrou e enfrente de novo qualquer chefe ou mini-chefe, com recordes de tempo."
+          }
+        },
+        {
+          "key": "clear-the-young-link-boss-rush",
+          "title": "Clear the young Link boss rush",
+          "title_i18n": {
+            "en": "Clear the young Link boss rush",
+            "pt": "Vencer o boss rush do Link criança"
+          },
+          "description": "All three of young Link's dungeon bosses back to back.",
+          "description_i18n": {
+            "en": "All three of young Link's dungeon bosses back to back.",
+            "pt": "Os três chefes das masmorras do Link criança em sequência."
+          }
+        },
+        {
+          "key": "clear-the-adult-link-boss-rush",
+          "title": "Clear the adult Link boss rush",
+          "title_i18n": {
+            "en": "Clear the adult Link boss rush",
+            "pt": "Vencer o boss rush do Link adulto"
+          },
+          "description": "Every adult dungeon boss back to back.",
+          "description_i18n": {
+            "en": "Every adult dungeon boss back to back.",
+            "pt": "Todos os chefes das masmorras do Link adulto em sequência."
+          }
+        },
+        {
+          "key": "clear-the-trial-of-the-hero-of-time",
+          "title": "Clear the Trial of the Hero of Time",
+          "title_i18n": {
+            "en": "Clear the Trial of the Hero of Time",
+            "pt": "Vencer a Prova do Herói do Tempo"
+          },
+          "description": "Unlocked after the credits: every dungeon boss in order, starting with 6 hearts and buying gear with the rupees you earn.",
+          "description_i18n": {
+            "en": "Unlocked after the credits: every dungeon boss in order, starting with 6 hearts and buying gear with the rupees you earn.",
+            "pt": "Liberada depois dos créditos: todos os chefes em ordem, começando com 6 corações e comprando equipamentos com as rupis que ganhar."
+          }
+        },
+        {
+          "key": "collect-all-the-owl-statue-trophies",
+          "title": "Collect all the owl statue trophies",
+          "title_i18n": {
+            "en": "Collect all the owl statue trophies",
+            "pt": "Juntar todos os troféus de estátua de coruja"
+          },
+          "description": "Each boss rush you clear adds an owl statue to Link's house in Kokiri Forest.",
+          "description_i18n": {
+            "en": "Each boss rush you clear adds an owl statue to Link's house in Kokiri Forest.",
+            "pt": "Cada boss rush vencido adiciona uma estátua de coruja na casa do Link na Floresta Kokiri."
+          }
+        }
+      ]
+    }
+  ]
+}
