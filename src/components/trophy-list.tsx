@@ -307,7 +307,9 @@ function TrophyRow({
 
   return (
     <li className={cn("px-4 py-3.5 transition-colors sm:px-5", earned ? "bg-muted/20" : "hover:bg-muted/30")}>
-      <div className="flex items-start gap-3 sm:gap-4">
+      {/* Checkbox and trophy sit on the vertical centre of the whole row
+          (title + description), not pinned to the top. */}
+      <div className="flex items-center gap-3 sm:gap-4">
         <button
           id={checkId}
           type="button"
@@ -316,7 +318,7 @@ function TrophyRow({
           aria-labelledby={titleId}
           onClick={() => onToggle(!earned)}
           className={cn(
-            "mt-1 flex size-7 shrink-0 items-center justify-center rounded-lg border-2 outline-none transition-all duration-200 focus-visible:ring-3 focus-visible:ring-ring/50 active:scale-90",
+            "flex size-7 shrink-0 items-center justify-center rounded-lg border-2 outline-none transition-all duration-200 focus-visible:ring-3 focus-visible:ring-ring/50 active:scale-90",
             earned
               ? "border-primary bg-primary text-primary-foreground"
               : "border-input bg-background/40 hover:border-primary/70"
@@ -338,12 +340,7 @@ function TrophyRow({
           <Trophy className={cn("size-[18px]", style.icon)} />
         </span>
 
-        {/* pt lines the title's first line up with the centre of the
-            checkbox and trophy circle (both centred at 1.125rem). */}
-        <label
-          htmlFor={checkId}
-          className="flex min-w-0 flex-1 cursor-pointer flex-col gap-0.5 pt-[0.42rem]"
-        >
+        <label htmlFor={checkId} className="flex min-w-0 flex-1 cursor-pointer flex-col gap-0.5">
           <span className="flex flex-wrap items-center gap-x-2 gap-y-0.5">
             <span
               id={titleId}
