@@ -9,9 +9,10 @@ This version has breaking changes — APIs, conventions, and file structure may 
 Xplore is a bilingual game‑completion checklist tracker (Next.js 16 + Supabase). See
 `README.md` for the full overview. When working in this repo:
 
-- **Middleware is `proxy.ts`** at the repo root (Next 16 rename). Auth gating lives in
-  `src/lib/supabase/proxy.ts`. Keep `/api`, `sw.js`, and `manifest.webmanifest` out of the
-  login‑redirect path.
+- **Middleware is `src/proxy.ts`** (Next 16 rename). It must sit next to `app/`, which here
+  is `src/app` — Next silently ignores a `proxy.ts` at the repo root when `src/` is used,
+  leaving every route ungated. Auth gating lives in `src/lib/supabase/proxy.ts`. Keep `/api`,
+  `sw.js`, `manifest.webmanifest`, and `offline.html` out of the login‑redirect path.
 - **Supabase clients**: `src/lib/supabase/server.ts` (Server Components/actions, RLS),
   `client.ts` (browser), and `admin.ts` (`SUPABASE_SECRET_KEY`, **server‑only**, bypasses
   RLS — never import into a client component). The auth cookies are **HttpOnly**
