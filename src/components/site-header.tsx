@@ -50,7 +50,7 @@ export async function SiteHeader() {
         </div>
 
         <div className="flex items-center gap-1">
-          <LocaleToggle locale={locale} />
+          <LocaleToggle locale={locale} label={dict.common.language} />
           <ThemeToggle label={dict.common.toggleTheme} />
           <Link
             href="/account"
