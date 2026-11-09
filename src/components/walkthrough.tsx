@@ -105,6 +105,7 @@ export function Walkthrough({
   labels,
   toggleAction,
   bulkAction,
+  toolbarLeading,
 }: {
   sections: WalkthroughChapter[];
   initialSectionId: string;
@@ -113,6 +114,8 @@ export function Walkthrough({
   labels: Labels;
   toggleAction: (itemId: string, completed: boolean) => Promise<void>;
   bulkAction: (itemIds: string[], completed: boolean) => Promise<void>;
+  /** Rendered at the start of the search row (the Walkthrough/Trophies switch). */
+  toolbarLeading?: React.ReactNode;
 }) {
   const router = useRouter();
   const pathname = usePathname();
@@ -422,8 +425,13 @@ export function Walkthrough({
 
   return (
     <div className="flex flex-col gap-5">
-      {/* Toolbar: search + hide completed */}
-      <div className="flex items-center gap-2 sm:gap-3">
+      {/* Toolbar: tab switch + search + hide completed (one row from md up) */}
+      <div className="flex flex-wrap items-center gap-2 sm:gap-3">
+        {toolbarLeading && (
+          <div className="w-full md:w-auto [&>[role=tablist]]:w-full md:[&>[role=tablist]]:w-auto">
+            {toolbarLeading}
+          </div>
+        )}
         <div className="relative min-w-0 flex-1">
           <Search
             className="pointer-events-none absolute top-1/2 left-3.5 size-5 -translate-y-1/2 text-muted-foreground"

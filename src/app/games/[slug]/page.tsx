@@ -12,7 +12,7 @@ import {
 } from "@/components/walkthrough-progress";
 import { Button } from "@/components/ui/button";
 import { PageContainer } from "@/components/page-container";
-import { Tabs, TabsList, TabsTrigger, TabsContent } from "@/components/ui/tabs";
+import { GameTabPanel, GameTabSwitch, GameTabs } from "@/components/game-tabs";
 import { getLocale } from "@/i18n/get-locale";
 import { getDictionary } from "@/i18n/get-dictionary";
 import { pick } from "@/i18n/pick";
@@ -153,6 +153,11 @@ export default async function GameDetailPage({
   }));
 
   const showTrophiesTab = trophiesWithProgress.length > 0 || isOwner;
+  // A single "Walkthrough" tab is just noise — only show the switch when
+  // there is a second tab. It sits in each panel's own toolbar row.
+  const tabSwitch = showTrophiesTab ? (
+    <GameTabSwitch labels={{ detonado: td.detonadoTabLabel, trophies: td.tabLabel }} />
+  ) : null;
 
   return (
     <PageContainer>
@@ -192,22 +197,11 @@ export default async function GameDetailPage({
         }
       />
 
-      <Tabs defaultValue="detonado" className="gap-5">
-        {/* A single "Walkthrough" tab is just noise — only show the bar when
-            there's a second tab to switch to. */}
-        {showTrophiesTab && (
-          <TabsList className="p-1 group-data-horizontal/tabs:h-11">
-            <TabsTrigger value="detonado" className="px-5 text-base">
-              {td.detonadoTabLabel}
-            </TabsTrigger>
-            <TabsTrigger value="trophies" className="px-5 text-base">
-              {td.tabLabel}
-            </TabsTrigger>
-          </TabsList>
-        )}
-
-        <TabsContent value="detonado" className="text-base">
+      <GameTabs>
+        <GameTabPanel value="detonado">
           {categoriesWithItems.length === 0 ? (
+            <div className="flex flex-col gap-4">
+            {tabSwitch}
             <p className="text-muted-foreground">
               {d.noChecklistOwner}{" "}
               {isOwner ? (
@@ -224,6 +218,7 @@ export default async function GameDetailPage({
                 d.noChecklistOther
               )}
             </p>
+            </div>
           ) : (
             <Walkthrough
               sections={categoriesWithItems}
@@ -232,13 +227,16 @@ export default async function GameDetailPage({
               labels={d}
               toggleAction={toggleItemCompletionAction}
               bulkAction={setItemsCompletionAction}
+              toolbarLeading={tabSwitch}
             />
           )}
-        </TabsContent>
+        </GameTabPanel>
 
         {showTrophiesTab && (
-          <TabsContent value="trophies" className="text-base">
+          <GameTabPanel value="trophies">
             {trophiesWithProgress.length === 0 ? (
+              <div className="flex flex-col gap-4">
+              {tabSwitch}
               <p className="text-muted-foreground">
                 {td.empty}{" "}
                 <Link
@@ -249,16 +247,18 @@ export default async function GameDetailPage({
                 </Link>{" "}
                 {d.toGetStarted}
               </p>
+              </div>
             ) : (
               <TrophyList
                 trophies={trophiesWithProgress}
                 toggleAction={toggleTrophyCompletionAction}
                 labels={td}
+                toolbarLeading={tabSwitch}
               />
             )}
-          </TabsContent>
+          </GameTabPanel>
         )}
-      </Tabs>
+      </GameTabs>
       </WalkthroughProgressProvider>
     </PageContainer>
   );

@@ -42,7 +42,7 @@ export function GameCard({
               alt={title}
               width={56}
               height={56}
-              className="size-14 shrink-0 rounded-md object-cover shadow-sm ring-1 ring-border"
+              className="size-14 shrink-0 rounded object-cover shadow-sm ring-1 ring-border"
             />
           )}
           <div className="flex min-w-0 flex-col gap-1">

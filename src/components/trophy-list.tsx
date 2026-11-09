@@ -41,10 +41,13 @@ export function TrophyList({
   trophies,
   toggleAction,
   labels,
+  toolbarLeading,
 }: {
   trophies: TrophyItem[];
   toggleAction: (trophyId: string, completed: boolean) => Promise<void>;
   labels: Dictionary["trophies"];
+  /** Rendered at the start of the search row (the Walkthrough/Trophies switch). */
+  toolbarLeading?: React.ReactNode;
 }) {
   // Earned state lives here so every count updates the instant you tick.
   const [earned, setEarned] = useState<Set<string>>(
@@ -186,8 +189,13 @@ export function TrophyList({
         </div>
       </section>
 
-      {/* Toolbar: search + hide earned */}
-      <div className="flex items-center gap-2 sm:gap-3">
+      {/* Toolbar: tab switch + search + hide earned (one row from md up) */}
+      <div className="flex flex-wrap items-center gap-2 sm:gap-3">
+        {toolbarLeading && (
+          <div className="w-full md:w-auto [&>[role=tablist]]:w-full md:[&>[role=tablist]]:w-auto">
+            {toolbarLeading}
+          </div>
+        )}
         <div className="relative min-w-0 flex-1">
           <Search
             className="pointer-events-none absolute top-1/2 left-3.5 size-5 -translate-y-1/2 text-muted-foreground"
