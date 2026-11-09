@@ -1,4 +1,5 @@
 import Image from "next/image";
+import { PlatformLogo } from "@/components/platform-logo";
 
 /**
  * Compact game header (mobile first): small cover beside the title over a
@@ -49,7 +50,8 @@ export function GameHero({
         )}
 
         <div className="flex min-w-0 flex-1 flex-col gap-1.5">
-          <span className="w-fit text-[11px] font-semibold tracking-wider text-muted-foreground uppercase">
+          <span className="inline-flex w-fit items-center gap-1.5 text-[11px] font-semibold tracking-wider text-muted-foreground uppercase">
+            <PlatformLogo platform={platform} />
             {platform}
           </span>
           <h1 className="font-heading text-base leading-snug font-bold tracking-tight text-balance sm:text-2xl sm:leading-tight">

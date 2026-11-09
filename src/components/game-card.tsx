@@ -9,6 +9,7 @@ import {
   CardFooter,
 } from "@/components/ui/card";
 import { ProgressBar } from "@/components/progress-bar";
+import { PlatformLogo } from "@/components/platform-logo";
 
 export function GameCard({
   title,
@@ -54,7 +55,8 @@ export function GameCard({
               </Link>
             </CardTitle>
             <CardDescription className="flex items-center gap-2">
-              <span className="inline-flex items-center rounded-md bg-muted px-1.5 py-0.5 text-xs font-medium text-muted-foreground">
+              <span className="inline-flex items-center gap-1 rounded-md bg-muted px-1.5 py-0.5 text-xs font-medium text-muted-foreground">
+                <PlatformLogo platform={platform} />
                 {platform}
               </span>
               {completionistBadge && (
