@@ -70,7 +70,7 @@ The same variables are configured in Vercel (Production + Development). Never ex
 | `/games/[slug]`, `/games/[slug]/edit` | Game detail (checklist) + owner‑only editor |
 | `/account` | Profile + danger zone (delete account) |
 | `/api/cron/keepalive` | `GET`, Bearer‑authed; runs daily via `vercel.json` cron |
-| `proxy.ts` (root) | Auth gating (Next 16's renamed middleware) |
+| `src/proxy.ts` | Auth gating (Next 16's renamed middleware; must sit next to `src/app`) |
 
 ## Data model
 
