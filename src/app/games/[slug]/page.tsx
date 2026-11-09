@@ -252,7 +252,7 @@ export default async function GameDetailPage({
               <TrophyList
                 trophies={trophiesWithProgress}
                 toggleAction={toggleTrophyCompletionAction}
-                progressLabel={td.progress}
+                labels={td}
               />
             )}
           </TabsContent>
