@@ -1,5 +1,7 @@
 "use server";
 
+import { getSession } from "@/lib/auth/session";
+
 import { revalidatePath } from "next/cache";
 import { redirect } from "next/navigation";
 import { createClient } from "@/lib/supabase/server";
@@ -9,8 +11,8 @@ import { getDictionary } from "@/i18n/get-dictionary";
 
 export async function addGameToLibraryAction(gameId: string) {
   const supabase = await createClient();
-  const { data } = await supabase.auth.getClaims();
-  const userId = data?.claims?.sub;
+  const claims = await getSession();
+  const userId = claims?.sub;
   if (!userId) redirect("/login");
 
   // Idempotent: adding a game already in the library is a no-op, not an error.
@@ -43,8 +45,8 @@ export async function createGameAction(
   }
 
   const supabase = await createClient();
-  const { data: claimsData } = await supabase.auth.getClaims();
-  const userId = claimsData?.claims?.sub;
+  const claims = await getSession();
+  const userId = claims?.sub;
   if (!userId) redirect("/login");
 
   const slug = slugify(title);

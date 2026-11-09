@@ -1,3 +1,4 @@
+import { getSession } from "@/lib/auth/session";
 import Link from "next/link";
 import { notFound, redirect } from "next/navigation";
 import { ChevronLeft } from "lucide-react";
@@ -37,8 +38,8 @@ export default async function EditGamePage({
 
   if (!game) notFound();
 
-  const { data: claimsData } = await supabase.auth.getClaims();
-  const userId = claimsData?.claims?.sub;
+  const claims = await getSession();
+  const userId = claims?.sub;
   if (game.created_by !== userId) redirect(`/games/${slug}`);
 
   const gameTitle = pick(game.title_i18n, locale, game.title);

@@ -1,3 +1,4 @@
+import { getSession } from "@/lib/auth/session";
 import Link from "next/link";
 import { Check, Plus, Gamepad2 } from "lucide-react";
 import { createClient } from "@/lib/supabase/server";
@@ -11,8 +12,8 @@ import { addGameToLibraryAction } from "./actions";
 
 export default async function GamesPage() {
   const supabase = await createClient();
-  const { data: claimsData } = await supabase.auth.getClaims();
-  const userId = claimsData?.claims?.sub;
+  const claims = await getSession();
+  const userId = claims?.sub;
   const locale = await getLocale();
   const dict = getDictionary(locale);
   const d = dict.games;

@@ -10,7 +10,7 @@ Live: **https://xplore-neon.vercel.app**
 
 - **Next.js 16** (App Router, Turbopack) + **React 19** + **TypeScript**
 - **Tailwind CSS v4** + **shadcn** (Base UI variant), **lucide-react** icons, **Geist** font
-- **Supabase** — Postgres + Auth, SSR cookie sessions via `@supabase/ssr`
+- **Supabase** — Postgres and Row Level Security (RLS); Google Identity handles sign-in
 - **PWA** — web app manifest + service worker
 - Hosted on **Vercel** (auto‑deploy on push to `main`)
 
@@ -20,9 +20,10 @@ Live: **https://xplore-neon.vercel.app**
 
 ## Features
 
-- **Auth**: email/password sign‑up (email confirmation), login/logout, password
-  recovery, and self‑service account deletion.
-- **Profiles**: auto‑created on sign‑up; editable display name + avatar on `/account`.
+- **Auth**: Google sign-in, server-owned sessions, and self-service account deletion.
+  The development-first migration preserves existing application UUIDs and progress;
+  see [Google Identity and session migration](docs/GOOGLE-IDENTITY.md).
+- **Profiles**: auto‑created on first sign-in; editable display name + avatar on `/account`.
 - **Catalog & library**: all authenticated users see the shared catalog; each user adds
   games to their own library and tracks their own progress.
 - **Checklists**: game → categories (chapters) → items (title + optional description).
@@ -43,7 +44,7 @@ npm install
 npm run dev        # http://localhost:3000
 ```
 
-Scripts: `dev`, `build`, `start`, `lint`.
+Scripts: `dev`, `build`, `start`, `lint`, `test:auth` (Node 22.18+ / 24).
 
 ### Environment variables (`.env.local`)
 
@@ -51,20 +52,28 @@ Scripts: `dev`, `build`, `start`, `lint`.
 | --- | --- | --- |
 | `NEXT_PUBLIC_SUPABASE_URL` | public | Supabase project URL |
 | `NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY` | public | Supabase anon/publishable key |
-| `SUPABASE_SECRET_KEY` | **server only** | Service‑role key (admin client) |
+| `SUPABASE_SECRET_KEY` | **server only** | Service-role key for server-side session/account operations |
+| `SUPABASE_JWT_SECRET` | **server only** | Active Supabase HS256 signing secret used for short-lived authenticated database requests |
 | `SUPABASE_DB_PASSWORD` | server only | DB password for CLI migrations |
 | `SUPABASE_PROJECT_REF` | server only | Supabase project ref |
+| `APP_ORIGIN` | **server only** | Exact application origin accepted by the identity endpoint, e.g. `https://xplore.example` |
+| `NEXT_PUBLIC_FIREBASE_API_KEY` | public | Firebase client SDK configuration |
+| `NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN` | public | Firebase client SDK configuration |
+| `NEXT_PUBLIC_FIREBASE_PROJECT_ID` | public | Firebase project whose Google ID tokens the server verifies |
 | `CRON_SECRET` | **server only** | Bearer token that guards `/api/cron/keepalive` |
 
-The same variables are configured in Vercel (Production + Development). Never expose
-`SUPABASE_SECRET_KEY` or `CRON_SECRET` to the client.
+Configure the required values for the matching environment in Vercel. Firebase's three
+`NEXT_PUBLIC_` values are client configuration, not private credentials. Never expose
+`SUPABASE_SECRET_KEY`, `SUPABASE_JWT_SECRET`, or `CRON_SECRET` to the browser.
 
 ## Routes
 
 | Path | Notes |
 | --- | --- |
-| `/login`, `/signup`, `/forgot-password`, `/reset-password` | Auth (public) |
-| `/auth/confirm`, `/auth/callback` | Email‑link handlers (set session cookies) |
+| `/login` | Google sign-in (public) |
+| `/signup`, `/forgot-password`, `/reset-password` | Retired password routes redirect to login |
+| `/auth/confirm`, `/auth/callback` | Retired email handlers redirect to login |
+| `/api/auth/identity` | Same-origin Firebase ID-token exchange for an application session |
 | `/dashboard` | The signed‑in user's library |
 | `/games`, `/games/new` | Catalog + create a game |
 | `/games/[slug]`, `/games/[slug]/edit` | Game detail (checklist) + owner‑only editor |
@@ -75,14 +84,17 @@ The same variables are configured in Vercel (Production + Development). Never ex
 ## Data model
 
 Migrations live in `supabase/migrations/` (applied with the Supabase CLI:
-`supabase db push --linked`).
+`supabase db push --linked`). The Google Identity migration is not applied automatically;
+follow the development and production sequence in [docs/GOOGLE-IDENTITY.md](docs/GOOGLE-IDENTITY.md).
 
 - `games` — `id, slug, title, title_i18n, platform, cover_url, created_by`
 - `checklist_categories` — `id, game_id, title, title_i18n, order_index`
 - `checklist_items` — `id, category_id, title, title_i18n, description, description_i18n, order_index`
 - `user_game_progress` — `(user_id, game_id)` = a game in a user's library
 - `user_item_progress` — `(user_id, item_id, completed, completed_at)`
-- `profiles` — `id, display_name, avatar_url` (auto‑created by an `auth.users` insert trigger)
+- `app_users` — canonical UUID, email, verified Google project/subject binding; legacy UUIDs survive migration
+- `app_sessions` — hashed opaque session token, app user ID, expiry; server-only access
+- `profiles` — `id, display_name, avatar_url` (created on the first Google identity binding)
 
 **RLS**: the catalog (`games`, `checklist_categories`, `checklist_items`) is readable by any
 authenticated user but writable only by a game's `created_by`; `user_*_progress` and

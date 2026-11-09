@@ -9,6 +9,18 @@ export type Json =
 export interface Database {
   public: {
     Tables: {
+      app_users: {
+        Row: { id: string; email: string | null; legacy_email_verified: boolean; google_project_id: string | null; google_subject: string | null; created_at: string }
+        Insert: { id?: string; email?: string | null; legacy_email_verified?: boolean; google_project_id?: string | null; google_subject?: string | null; created_at?: string }
+        Update: { id?: string; email?: string | null; legacy_email_verified?: boolean; google_project_id?: string | null; google_subject?: string | null; created_at?: string }
+        Relationships: []
+      }
+      app_sessions: {
+        Row: { token_hash: string; user_id: string; expires_at: string; created_at: string }
+        Insert: { token_hash: string; user_id: string; expires_at: string; created_at?: string }
+        Update: { token_hash?: string; user_id?: string; expires_at?: string; created_at?: string }
+        Relationships: [{ foreignKeyName: "app_sessions_user_id_fkey"; columns: ["user_id"]; referencedRelation: "app_users"; referencedColumns: ["id"] }]
+      }
       games: {
         Row: {
           id: string
@@ -302,7 +314,16 @@ export interface Database {
       }
     }
     Views: Record<string, never>
-    Functions: Record<string, never>
+    Functions: {
+      delete_app_account: {
+        Args: { p_user_id: string }
+        Returns: undefined
+      }
+      resolve_google_identity: {
+        Args: { p_project_id: string; p_subject: string; p_email: string; p_name: string; p_can_link_legacy?: boolean }
+        Returns: string
+      }
+    }
     Enums: Record<string, never>
     CompositeTypes: Record<string, never>
   }

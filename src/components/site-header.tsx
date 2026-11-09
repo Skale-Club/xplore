@@ -1,3 +1,4 @@
+import { getSession } from "@/lib/auth/session";
 import Image from "next/image";
 import Link from "next/link";
 import { LogOut } from "lucide-react";
@@ -12,8 +13,7 @@ import { getDictionary } from "@/i18n/get-dictionary";
 
 export async function SiteHeader() {
   const supabase = await createClient();
-  const { data } = await supabase.auth.getClaims();
-  const claims = data?.claims;
+  const claims = await getSession();
 
   if (!claims) return null;
 

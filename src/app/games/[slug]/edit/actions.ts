@@ -1,5 +1,7 @@
 "use server";
 
+import { getSession } from "@/lib/auth/session";
+
 import { revalidatePath } from "next/cache";
 import { createClient } from "@/lib/supabase/server";
 import { getLocale } from "@/i18n/get-locale";
@@ -43,7 +45,7 @@ const ITEM_IMAGES_BUCKET = "checklist-images";
 
 // Mint a one-time signed upload URL for a checklist item's image.
 //
-// The auth cookies are HttpOnly (see cookie-options.ts), so the browser
+// The application session cookie is HttpOnly, so the browser
 // Supabase client has no session and can't upload under the storage RLS
 // policy itself. Instead the server, which can read the session, checks that
 // the caller owns the item's game and signs a path under their uid folder
@@ -59,8 +61,8 @@ export async function createItemImageUploadAction(
   if (!contentType.startsWith("image/")) throw new Error("Not an image");
 
   const supabase = await createClient();
-  const { data: claimsData } = await supabase.auth.getClaims();
-  const userId = claimsData?.claims?.sub;
+  const claims = await getSession();
+  const userId = claims?.sub;
   if (!userId) throw new Error("Unauthorized");
 
   const { data: item } = await supabase

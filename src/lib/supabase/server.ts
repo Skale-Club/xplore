@@ -1,31 +1,21 @@
-import { createServerClient } from "@supabase/ssr";
-import { cookies } from "next/headers";
+import "server-only";
+import { createClient as createSupabaseClient } from "@supabase/supabase-js";
 import type { Database } from "@/types/supabase";
-import { AUTH_COOKIE_OPTIONS } from "./cookie-options";
+import { getSession } from "@/lib/auth/session";
+import { createDatabaseToken } from "@/lib/auth/tokens";
 
 export async function createClient() {
-  const cookieStore = await cookies();
-
-  return createServerClient<Database>(
+  const user = await getSession();
+  return createSupabaseClient<Database>(
     process.env.NEXT_PUBLIC_SUPABASE_URL!,
     process.env.NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY!,
     {
-      cookieOptions: AUTH_COOKIE_OPTIONS,
-      cookies: {
-        getAll() {
-          return cookieStore.getAll();
-        },
-        setAll(cookiesToSet) {
-          try {
-            cookiesToSet.forEach(({ name, value, options }) =>
-              cookieStore.set(name, value, options)
-            );
-          } catch {
-            // Called from a Server Component — safe to ignore since
-            // proxy.ts refreshes the session on every request.
-          }
-        },
-      },
-    }
+      auth: { autoRefreshToken: false, persistSession: false, detectSessionInUrl: false },
+      global: { fetch: (input, init) => fetch(input, { ...init, cache: "no-store" }) },
+      // Use the authenticated role, never the service role, for application data.
+      accessToken: user
+        ? () => createDatabaseToken(user.sub, process.env.SUPABASE_JWT_SECRET ?? "")
+        : undefined,
+    },
   );
 }

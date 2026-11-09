@@ -1,3 +1,4 @@
+import { getSession } from "@/lib/auth/session";
 import { redirect } from "next/navigation";
 import { createClient } from "@/lib/supabase/server";
 import { ProfileForm } from "@/components/profile-form";
@@ -9,8 +10,7 @@ import { updateProfileAction, deleteAccountAction } from "./actions";
 
 export default async function AccountPage() {
   const supabase = await createClient();
-  const { data: claimsData } = await supabase.auth.getClaims();
-  const claims = claimsData?.claims;
+  const claims = await getSession();
   if (!claims) redirect("/login");
 
   const dict = getDictionary(await getLocale());

@@ -20,5 +20,10 @@ export async function GET(request: NextRequest) {
     );
   }
 
+  const { error: cleanupError } = await supabase.from("app_sessions")
+    .delete().lt("expires_at", new Date().toISOString());
+  if (cleanupError) {
+    return NextResponse.json({ ok: false, error: "Session cleanup failed" }, { status: 502 });
+  }
   return NextResponse.json({ ok: true, pingedAt: new Date().toISOString() });
 }

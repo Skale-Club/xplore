@@ -13,11 +13,15 @@ Xplore is a bilingual game‑completion checklist tracker (Next.js 16 + Supabase
   is `src/app` — Next silently ignores a `proxy.ts` at the repo root when `src/` is used,
   leaving every route ungated. Auth gating lives in `src/lib/supabase/proxy.ts`. Keep `/api`,
   `sw.js`, `manifest.webmanifest`, and `offline.html` out of the login‑redirect path.
-- **Supabase clients**: `src/lib/supabase/server.ts` (Server Components/actions, RLS),
-  `client.ts` (browser), and `admin.ts` (`SUPABASE_SECRET_KEY`, **server‑only**, bypasses
-  RLS — never import into a client component). The auth cookies are **HttpOnly**
-  (`cookie-options.ts`), so the browser client never has a session and runs as anon: anything
-  that needs the user's identity must go through the server.
+- **Auth and Supabase clients**: Google sign-in exchanges a Firebase ID token at
+  `/api/auth/identity`; verified identities map to canonical `app_users` UUIDs. The server
+  stores only a SHA-256 hash of each opaque 30-day `xplore_session` cookie in `app_sessions`.
+  `getSession()` resolves the user server-side. `src/lib/supabase/server.ts` signs a
+  short-lived, server-only HS256 JWT with `SUPABASE_JWT_SECRET` so PostgREST/Storage can keep
+  enforcing existing RLS with that UUID. The signing key and `SUPABASE_SECRET_KEY` stay
+  server-only. The browser Supabase client is anonymous; image uploads use a scoped signed
+  upload token minted by a server action. Do not use Firebase UIDs as application IDs or
+  return either server key to client code. See `docs/GOOGLE-IDENTITY.md` for cutover status.
 - **i18n is mandatory for user‑facing text.** UI strings go in `src/i18n/dictionaries/{en,pt}.ts`
   (`en.ts` is the type source of truth). Server pages call `getLocale()` + `getDictionary()`
   and pass strings to client components as props. Localizable **content** is stored in JSONB

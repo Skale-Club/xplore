@@ -1,5 +1,7 @@
 "use server";
 
+import { destroySession, getSession } from "@/lib/auth/session";
+
 import { revalidatePath } from "next/cache";
 import { redirect } from "next/navigation";
 import { createClient } from "@/lib/supabase/server";
@@ -17,8 +19,8 @@ export async function updateProfileAction(
   const avatarUrl = ((formData.get("avatar_url") as string) ?? "").trim();
 
   const supabase = await createClient();
-  const { data: claimsData } = await supabase.auth.getClaims();
-  const userId = claimsData?.claims?.sub;
+  const claims = await getSession();
+  const userId = claims?.sub;
   if (!userId) redirect("/login");
 
   const { error } = await supabase.from("profiles").upsert(
@@ -49,18 +51,17 @@ export async function deleteAccountAction(
   _prevState: DeleteAccountState,
   _formData: FormData
 ): Promise<DeleteAccountState> {
-  const supabase = await createClient();
-  const { data: claimsData } = await supabase.auth.getClaims();
-  const userId = claimsData?.claims?.sub;
+  const claims = await getSession();
+  const userId = claims?.sub;
   if (!userId) redirect("/login");
 
   const admin = createAdminClient();
-  const { error } = await admin.auth.admin.deleteUser(userId);
+  const { error } = await admin.rpc("delete_app_account", { p_user_id: userId });
 
   if (error) {
     return { error: error.message };
   }
 
-  await supabase.auth.signOut();
+  await destroySession();
   redirect("/login");
 }

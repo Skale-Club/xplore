@@ -1,60 +1,20 @@
-import { createServerClient } from "@supabase/ssr";
 import { NextResponse, type NextRequest } from "next/server";
-import type { Database } from "@/types/supabase";
-import { AUTH_COOKIE_OPTIONS } from "./cookie-options";
+import { readSession } from "@/lib/auth/session";
+import { SESSION_COOKIE } from "@/lib/auth/tokens";
 
 export async function updateSession(request: NextRequest) {
-  let supabaseResponse = NextResponse.next({ request });
-
-  const supabase = createServerClient<Database>(
-    process.env.NEXT_PUBLIC_SUPABASE_URL!,
-    process.env.NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY!,
-    {
-      cookieOptions: AUTH_COOKIE_OPTIONS,
-      cookies: {
-        getAll() {
-          return request.cookies.getAll();
-        },
-        setAll(cookiesToSet, headers) {
-          cookiesToSet.forEach(({ name, value }) =>
-            request.cookies.set(name, value)
-          );
-          supabaseResponse = NextResponse.next({ request });
-          cookiesToSet.forEach(({ name, value, options }) =>
-            supabaseResponse.cookies.set(name, value, options)
-          );
-          Object.entries(headers).forEach(([key, value]) =>
-            supabaseResponse.headers.set(key, value)
-          );
-        },
-      },
-    }
-  );
-
-  // Do not run code between createServerClient and getClaims().
-  const { data } = await supabase.auth.getClaims();
-  const user = data?.claims;
-
   const path = request.nextUrl.pathname;
-  const isAuthRoute =
-    path.startsWith("/api") ||
-    path.startsWith("/login") ||
-    path.startsWith("/signup") ||
-    path.startsWith("/auth") ||
-    path.startsWith("/forgot-password") ||
-    path.startsWith("/reset-password");
-
-  if (!user && !isAuthRoute) {
-    const url = request.nextUrl.clone();
-    url.pathname = "/login";
-    return NextResponse.redirect(url);
+  // API handlers authorize themselves; retired auth URLs stay reachable.
+  if (path === "/api" || path.startsWith("/api/") || path === "/auth" || path.startsWith("/auth/") ||
+      ["/signup", "/forgot-password", "/reset-password"].includes(path)) {
+    return NextResponse.next();
   }
-
-  if (user && (path.startsWith("/login") || path.startsWith("/signup"))) {
-    const url = request.nextUrl.clone();
-    url.pathname = "/dashboard";
-    return NextResponse.redirect(url);
-  }
-
-  return supabaseResponse;
+  const user = await readSession(request.cookies.get(SESSION_COOKIE)?.value);
+  const response = !user && path !== "/login"
+    ? NextResponse.redirect(new URL("/login", request.url))
+    : user && path === "/login"
+      ? NextResponse.redirect(new URL("/dashboard", request.url))
+      : NextResponse.next();
+  response.headers.set("Cache-Control", "private, no-store");
+  return response;
 }

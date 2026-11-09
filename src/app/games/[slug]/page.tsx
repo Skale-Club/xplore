@@ -1,3 +1,4 @@
+import { getSession } from "@/lib/auth/session";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Pencil } from "lucide-react";
@@ -66,8 +67,8 @@ export default async function GameDetailPage({
         .order("order_index")
     : { data: [] };
 
-  const { data: claimsData } = await supabase.auth.getClaims();
-  const userId = claimsData?.claims?.sub;
+  const claims = await getSession();
+  const userId = claims?.sub;
   const itemIds = (items ?? []).map((item) => item.id);
 
   const { data: progressRows } = itemIds.length

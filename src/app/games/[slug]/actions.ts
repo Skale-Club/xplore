@@ -1,5 +1,7 @@
 "use server";
 
+import { getSession } from "@/lib/auth/session";
+
 import { revalidatePath } from "next/cache";
 import { redirect } from "next/navigation";
 import { createClient } from "@/lib/supabase/server";
@@ -9,8 +11,8 @@ export async function toggleItemCompletionAction(
   completed: boolean
 ) {
   const supabase = await createClient();
-  const { data } = await supabase.auth.getClaims();
-  const userId = data?.claims?.sub;
+  const claims = await getSession();
+  const userId = claims?.sub;
   if (!userId) redirect("/login");
 
   const { error } = await supabase.from("user_item_progress").upsert(
@@ -49,8 +51,8 @@ export async function setItemsCompletionAction(
   }
 
   const supabase = await createClient();
-  const { data } = await supabase.auth.getClaims();
-  const userId = data?.claims?.sub;
+  const claims = await getSession();
+  const userId = claims?.sub;
   if (!userId) redirect("/login");
 
   const completedAt = completed ? new Date().toISOString() : null;
@@ -77,8 +79,8 @@ export async function toggleTrophyCompletionAction(
   completed: boolean
 ) {
   const supabase = await createClient();
-  const { data } = await supabase.auth.getClaims();
-  const userId = data?.claims?.sub;
+  const claims = await getSession();
+  const userId = claims?.sub;
   if (!userId) redirect("/login");
 
   const { error } = await supabase.from("user_trophy_progress").upsert(
