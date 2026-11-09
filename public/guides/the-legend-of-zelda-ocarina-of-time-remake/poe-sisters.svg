@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360">
+<rect width="640" height="360" rx="20" fill="#11171d"/>
+
+  <rect x="40" y="40" width="560" height="280" rx="18" fill="#18212a" stroke="#2a3541"/>
+  <rect x="266" y="158" width="108" height="64" rx="10" fill="#26303b" stroke="#3ec6cc" stroke-width="2"/>
+  <path d="M290 196 h60 M320 176 v40" stroke="#3ec6cc" stroke-width="2" opacity=".5"/>
+  
+  <g>
+    <path d="M140 74 Q158 98 150 116 Q140 126 130 116 Q122 98 140 74 Z" fill="#ef5a5a"/>
+    <path d="M140 92 Q148 106 144 114 Q140 118 136 114 Q132 106 140 92 Z" fill="#fff" opacity=".55"/>
+    <text x="140" y="144" font-family="Geist, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="600" fill="#e8eef2" text-anchor="middle">Joelle</text>
+    <path d="M180 104 L258 172" stroke="#ef5a5a" stroke-width="2.5" stroke-dasharray="3 7" stroke-linecap="round"/>
+  </g>
+  <g>
+    <path d="M500 74 Q518 98 510 116 Q500 126 490 116 Q482 98 500 74 Z" fill="#5b9cf5"/>
+    <path d="M500 92 Q508 106 504 114 Q500 118 496 114 Q492 106 500 92 Z" fill="#fff" opacity=".55"/>
+    <text x="500" y="144" font-family="Geist, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="600" fill="#e8eef2" text-anchor="middle">Beth</text>
+    <path d="M460 104 L382 172" stroke="#5b9cf5" stroke-width="2.5" stroke-dasharray="3 7" stroke-linecap="round"/>
+  </g>
+  <g>
+    <path d="M140 242 Q158 266 150 284 Q140 294 130 284 Q122 266 140 242 Z" fill="#48c78e"/>
+    <path d="M140 260 Q148 274 144 282 Q140 286 136 282 Q132 274 140 260 Z" fill="#fff" opacity=".55"/>
+    <text x="140" y="312" font-family="Geist, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="600" fill="#e8eef2" text-anchor="middle">Amy</text>
+    <path d="M180 272 L258 208" stroke="#48c78e" stroke-width="2.5" stroke-dasharray="3 7" stroke-linecap="round"/>
+  </g>
+  <g>
+    <path d="M500 242 Q518 266 510 284 Q500 294 490 284 Q482 266 500 242 Z" fill="#a77bf3"/>
+    <path d="M500 260 Q508 274 504 282 Q500 286 496 282 Q492 274 500 260 Z" fill="#fff" opacity=".55"/>
+    <text x="500" y="312" font-family="Geist, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="600" fill="#e8eef2" text-anchor="middle">Meg</text>
+    <path d="M460 272 L382 208" stroke="#a77bf3" stroke-width="2.5" stroke-dasharray="3 7" stroke-linecap="round"/>
+  </g>
+  
+<g opacity=".55" transform="translate(548 334)">
+  <path d="M0 10 L8 2 L11 5 L3 13 L0 13 Z" fill="#8d9ba8"/>
+  <text x="17" y="12" font-family="Geist, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#8d9ba8" letter-spacing=".5">Xplore</text>
+</g>
+</svg>

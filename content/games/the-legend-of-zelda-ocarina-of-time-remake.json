@@ -168,7 +168,8 @@
           "description_i18n": {
             "en": "Stun her eye with the Slingshot when it glows red, then strike while she's down.",
             "pt": "Atordoe o olho dela com o Estilingue quando ficar vermelho e ataque enquanto ela estiver caída."
-          }
+          },
+          "image_url": "/guides/the-legend-of-zelda-ocarina-of-time-remake/queen-gohma.svg"
         },
         {
           "key": "claim-the-heart-container",
@@ -546,7 +547,8 @@
           "description_i18n": {
             "en": "Throw a bomb into his mouth while he inhales, then strike while he's stunned.",
             "pt": "Jogue uma bomba na boca dele enquanto ele inspira e ataque enquanto estiver atordoado."
-          }
+          },
+          "image_url": "/guides/the-legend-of-zelda-ocarina-of-time-remake/king-dodongo.svg"
         },
         {
           "key": "claim-the-heart-container",
@@ -748,7 +750,8 @@
           "description_i18n": {
             "en": "Boomerang the tentacles holding it to the ceiling, then clear the jellyfish and strike the body.",
             "pt": "Acerte com o Bumerangue os tentáculos que o prendem ao teto, depois elimine as águas-vivas e ataque o corpo."
-          }
+          },
+          "image_url": "/guides/the-legend-of-zelda-ocarina-of-time-remake/barinade.svg"
         },
         {
           "key": "claim-the-heart-container",
@@ -999,7 +1002,8 @@
           "description_i18n": {
             "en": "Joelle, Beth, Amy and Meg each guard a flame that brings back the central elevator.",
             "pt": "Joelle, Beth, Amy e Meg guardam cada uma uma chama que faz o elevador central voltar."
-          }
+          },
+          "image_url": "/guides/the-legend-of-zelda-ocarina-of-time-remake/poe-sisters.svg"
         },
         {
           "key": "defeat-phantom-ganon",
@@ -1188,7 +1192,8 @@
           "description_i18n": {
             "en": "Hit its head with the Megaton Hammer when it pops out of a lava pit.",
             "pt": "Acerte a cabeça dele com o Martelo Megaton quando ele sair de um buraco de lava."
-          }
+          },
+          "image_url": "/guides/the-legend-of-zelda-ocarina-of-time-remake/volvagia.svg"
         },
         {
           "key": "claim-the-heart-container",
@@ -1351,7 +1356,8 @@
           "description_i18n": {
             "en": "Play it at the Triforce symbols to switch between the three water heights.",
             "pt": "Toque nos símbolos da Triforce para alternar entre as três alturas de água."
-          }
+          },
+          "image_url": "/guides/the-legend-of-zelda-ocarina-of-time-remake/water-temple-levels.svg"
         },
         {
           "key": "find-the-dungeon-map-and-the-compass",
@@ -1403,7 +1409,8 @@
           "description_i18n": {
             "en": "Pull its nucleus out of the water with the Longshot and slash it.",
             "pt": "Puxe o núcleo para fora da água com o Longshot e golpeie."
-          }
+          },
+          "image_url": "/guides/the-legend-of-zelda-ocarina-of-time-remake/morpha.svg"
         },
         {
           "key": "claim-the-heart-container",
@@ -1592,7 +1599,8 @@
           "description_i18n": {
             "en": "Wear the Lenses of Truth to see it, stun both hands, then hit the eye.",
             "pt": "Use as Lentes da Verdade para enxergá-lo, atordoe as duas mãos e acerte o olho."
-          }
+          },
+          "image_url": "/guides/the-legend-of-zelda-ocarina-of-time-remake/bongo-bongo.svg"
         },
         {
           "key": "claim-the-heart-container",
@@ -1781,7 +1789,8 @@
           "description_i18n": {
             "en": "Absorb one sister's blast with the Mirror Shield and fire it back at the other, then strike the merged witch.",
             "pt": "Absorva o ataque de uma irmã com o Escudo Espelhado e devolva na outra; depois ataque a bruxa fundida."
-          }
+          },
+          "image_url": "/guides/the-legend-of-zelda-ocarina-of-time-remake/twinrova.svg"
         },
         {
           "key": "claim-the-heart-container",

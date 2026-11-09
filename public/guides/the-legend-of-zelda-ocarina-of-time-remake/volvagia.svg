@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360">
+<rect width="640" height="360" rx="20" fill="#11171d"/>
+<g>
+  <rect x="20" y="46" width="180" height="250" rx="16" fill="#18212a" stroke="#2a3541"/>
+  <circle cx="44" cy="70" r="13" fill="#3ec6cc"/>
+  <text x="44" y="75" font-family="Geist, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="700" fill="#11171d" text-anchor="middle">1</text>
+  <g transform="translate(20 46)">
+        <ellipse cx="50" cy="150" rx="28" ry="10" fill="#f29545"/><ellipse cx="50" cy="150" rx="18" ry="5" fill="#f5c84b"/><ellipse cx="130" cy="150" rx="28" ry="10" fill="#f29545"/><ellipse cx="130" cy="150" rx="18" ry="5" fill="#f5c84b"/><ellipse cx="90" cy="200" rx="28" ry="10" fill="#f29545"/><ellipse cx="90" cy="200" rx="18" ry="5" fill="#f5c84b"/></g>
+</g><path d="M207 171 h16 m-6 -6 l6 6 l-6 6" stroke="#3ec6cc" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<g>
+  <rect x="230" y="46" width="180" height="250" rx="16" fill="#18212a" stroke="#2a3541"/>
+  <circle cx="254" cy="70" r="13" fill="#3ec6cc"/>
+  <text x="254" y="75" font-family="Geist, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="700" fill="#11171d" text-anchor="middle">2</text>
+  <g transform="translate(230 46)">
+        <ellipse cx="50" cy="150" rx="28" ry="10" fill="#f29545"/><ellipse cx="90" cy="200" rx="28" ry="10" fill="#f29545"/>
+        <ellipse cx="130" cy="150" rx="28" ry="10" fill="#f29545"/>
+        <path d="M112 150 Q114 106 136 100 Q156 100 152 124 L148 150 Z" fill="#b8402f"/>
+        <circle cx="140" cy="112" r="4" fill="#f5c84b"/></g>
+</g><path d="M417 171 h16 m-6 -6 l6 6 l-6 6" stroke="#3ec6cc" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<g>
+  <rect x="440" y="46" width="180" height="250" rx="16" fill="#18212a" stroke="#2a3541"/>
+  <circle cx="464" cy="70" r="13" fill="#3ec6cc"/>
+  <text x="464" y="75" font-family="Geist, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="700" fill="#11171d" text-anchor="middle">3</text>
+  <g transform="translate(440 46)">
+        <ellipse cx="90" cy="190" rx="28" ry="10" fill="#f29545"/>
+        <path d="M72 190 Q74 150 96 146 Q116 146 112 170 L108 190 Z" fill="#b8402f"/>
+        <g transform="translate(94 140)" stroke="#f5c84b" stroke-width="3" stroke-linecap="round">
+  <line x1="8.0" y1="0.0" x2="16.0" y2="0.0"/><line x1="5.7" y1="5.7" x2="11.3" y2="11.3"/><line x1="0.0" y1="8.0" x2="0.0" y2="16.0"/><line x1="-5.7" y1="5.7" x2="-11.3" y2="11.3"/><line x1="-8.0" y1="0.0" x2="-16.0" y2="0.0"/><line x1="-5.7" y1="-5.7" x2="-11.3" y2="-11.3"/><line x1="-0.0" y1="-8.0" x2="-0.0" y2="-16.0"/><line x1="5.7" y1="-5.7" x2="11.3" y2="-11.3"/>
+</g>
+        <g transform="translate(120 100) rotate(-35)">
+  <rect x="-3.5" y="-6" width="7" height="50" rx="2" fill="#6b4b2e"/>
+  <rect x="-20" y="-24" width="40" height="22" rx="4" fill="#8d9ba8"/>
+  <rect x="-20" y="-24" width="8" height="22" rx="2" fill="#b7c3cd"/>
+</g></g>
+</g>
+<g opacity=".55" transform="translate(548 334)">
+  <path d="M0 10 L8 2 L11 5 L3 13 L0 13 Z" fill="#8d9ba8"/>
+  <text x="17" y="12" font-family="Geist, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#8d9ba8" letter-spacing=".5">Xplore</text>
+</g>
+</svg>
