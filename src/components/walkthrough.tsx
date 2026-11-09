@@ -15,14 +15,21 @@ import {
   ArrowRight,
   Check,
   CheckCheck,
+  Compass,
   EyeOff,
+  Gem,
   PartyPopper,
   RotateCcw,
   Search,
   X,
 } from "lucide-react";
 import { computeCompletionPercent } from "@/lib/progress";
-import { findNextStep } from "@/lib/walkthrough";
+import {
+  CHAPTER_KINDS,
+  findNextStep,
+  storyChapters,
+  type ChapterKind,
+} from "@/lib/walkthrough";
 import { useWalkthroughProgress } from "@/components/walkthrough-progress";
 import { StepMediaThumb } from "@/components/step-media";
 import { t } from "@/i18n/format";
@@ -39,6 +46,7 @@ export type WalkthroughStep = {
 
 export type WalkthroughChapter = {
   id: string;
+  kind: ChapterKind;
   title: string;
   items: WalkthroughStep[];
 };
@@ -119,7 +127,9 @@ export function Walkthrough({
   const [error, setError] = useState<string | null>(null);
   // On a fresh visit (no ?c=), land on the step they left off at.
   const [highlightId, setHighlightId] = useState<string | null>(() =>
-    resumeOnMount ? (findNextStep(sections, done, lastDoneId)?.item.id ?? null) : null
+    resumeOnMount
+      ? (findNextStep(storyChapters(sections), done, lastDoneId)?.item.id ?? null)
+      : null
   );
   // Pending "chapter finished → move to the next one" hop; cancellable.
   const [advance, setAdvance] = useState<{ chapterId: string; stepId: string } | null>(
@@ -269,7 +279,12 @@ export function Walkthrough({
     const wasComplete = active.items.every((item) => done.has(item.id));
     const nowComplete = active.items.every((item) => nextDone.has(item.id));
     if (completed && !wasComplete && nowComplete && !trimmedQuery) {
-      const target = findNextStep(sections, nextDone, nextLastDone);
+      // Only story chapters hop onward; finishing a side quest or
+      // collectibles page never yanks the player somewhere else.
+      const target =
+        active.kind === "story"
+          ? findNextStep(storyChapters(sections), nextDone, nextLastDone)
+          : null;
       setAdvance(
         target && target.section.id !== active.id
           ? { chapterId: target.section.id, stepId: target.item.id }
@@ -322,7 +337,18 @@ export function Walkthrough({
     );
   }
 
-  const nextStep = findNextStep(sections, done, lastDoneId);
+  const nextStep = findNextStep(storyChapters(sections), done, lastDoneId);
+
+  // Story chapters are numbered 1..N; side quests and collectibles get an icon.
+  const storyIndex = new Map(
+    sections.filter((section) => section.kind === "story").map((section, i) => [section.id, i])
+  );
+  const storyCount = storyIndex.size;
+  // Only label the groups when a game actually mixes kinds.
+  const hasKinds = storyCount < sections.length;
+  const firstKind = CHAPTER_KINDS.find((kind) => sections.some((s) => s.kind === kind));
+  const chapterNumber = (section: WalkthroughChapter, index: number) =>
+    (storyIndex.get(section.id) ?? index) + 1;
 
   function jumpToNext() {
     if (!nextStep) return;
@@ -522,7 +548,24 @@ export function Walkthrough({
                 aria-label={labels.chapters}
                 className="flex max-h-[calc(100dvh-15rem)] flex-col gap-1 overflow-y-auto overscroll-contain pr-1 pb-6 [mask-image:linear-gradient(to_bottom,black_calc(100%-48px),transparent)] [scrollbar-color:var(--border)_transparent] [scrollbar-width:thin]"
               >
-                {sections.map((section, index) => {
+                {CHAPTER_KINDS.map((kind) => {
+                  const group = sections
+                    .map((section, index) => ({ section, index }))
+                    .filter(({ section }) => section.kind === kind);
+                  if (group.length === 0) return null;
+                  return (
+                    <div key={kind} className="flex flex-col gap-1">
+                      {hasKinds && (
+                        <p
+                          className={cn(
+                            "px-3 pb-1 text-[11px] font-semibold tracking-wider text-muted-foreground uppercase",
+                            kind !== firstKind && "pt-4"
+                          )}
+                        >
+                          {w.kinds[kind]}
+                        </p>
+                      )}
+                      {group.map(({ section, index }) => {
                   const stats = chapterStats[index];
                   const complete = stats.total > 0 && stats.done === stats.total;
                   const isActive = index === activeIndex;
@@ -539,7 +582,12 @@ export function Walkthrough({
                           : "text-muted-foreground hover:bg-muted/60 hover:text-foreground"
                       )}
                     >
-                      <ChapterBadge index={index} complete={complete} active={isActive} />
+                      <ChapterBadge
+                        kind={section.kind}
+                        number={chapterNumber(section, index)}
+                        complete={complete}
+                        active={isActive}
+                      />
                       <span className="flex min-w-0 flex-1 flex-col gap-1.5">
                         <span className="text-[15px] leading-snug font-medium">
                           {section.title}
@@ -555,6 +603,9 @@ export function Walkthrough({
                         </span>
                       </span>
                     </button>
+                  );
+                      })}
+                    </div>
                   );
                 })}
               </nav>
@@ -585,7 +636,12 @@ export function Walkthrough({
                         : "border-border text-muted-foreground"
                     )}
                   >
-                    <ChapterBadge index={index} complete={complete} active={isActive} />
+                    <ChapterBadge
+                        kind={section.kind}
+                        number={chapterNumber(section, index)}
+                        complete={complete}
+                        active={isActive}
+                      />
                     {section.title}
                     <span className="text-xs tabular-nums opacity-70">
                       {stats.done}/{stats.total}
@@ -607,7 +663,14 @@ export function Walkthrough({
                 <div className="flex items-start justify-between gap-3">
                   <div className="min-w-0 flex-1">
                     <p className="text-xs font-semibold tracking-wider text-muted-foreground uppercase">
-                      {t(w.chapterOf, { n: activeIndex + 1, total: sections.length })}
+                      {active.kind === "story"
+                        ? t(w.chapterOf, {
+                            n: chapterNumber(active, activeIndex),
+                            total: storyCount || sections.length,
+                          })
+                        : active.kind === "side"
+                          ? w.sideQuest
+                          : w.collectibleChapter}
                     </p>
                     <h2
                       id="active-chapter-title"
@@ -831,11 +894,13 @@ function StepRow({
 }
 
 function ChapterBadge({
-  index,
+  kind,
+  number,
   complete,
   active,
 }: {
-  index: number;
+  kind: ChapterKind;
+  number: number;
   complete: boolean;
   active: boolean;
 }) {
@@ -850,7 +915,15 @@ function ChapterBadge({
             : "bg-muted text-muted-foreground"
       )}
     >
-      {complete ? <Check className="size-4" strokeWidth={3} aria-hidden /> : index + 1}
+      {complete ? (
+        <Check className="size-4" strokeWidth={3} aria-hidden />
+      ) : kind === "side" ? (
+        <Compass className="size-4" aria-hidden />
+      ) : kind === "collectible" ? (
+        <Gem className="size-4" aria-hidden />
+      ) : (
+        number
+      )}
     </span>
   );
 }

@@ -10,10 +10,11 @@ import {
 } from "react";
 import { ProgressRing } from "@/components/progress-ring";
 import { computeCompletionPercent } from "@/lib/progress";
+import { storyChapters, type ChapterKind } from "@/lib/walkthrough";
 import { t } from "@/i18n/format";
 import type { Dictionary } from "@/i18n/dictionaries/en";
 
-type Chapter = { id: string; items: { id: string; completed: boolean }[] };
+type Chapter = { id: string; kind?: ChapterKind; items: { id: string; completed: boolean }[] };
 
 type WalkthroughProgressValue = {
   sections: Chapter[];
@@ -69,17 +70,29 @@ export function useWalkthroughProgress() {
 /** Overall ring + counts, sized to sit beside the title in the game header. */
 export function WalkthroughSummary({ labels }: { labels: Dictionary["gameDetail"] }) {
   const { sections, done } = useWalkthroughProgress();
+  const w = labels.walkthrough;
 
-  let totalSteps = 0;
-  let doneSteps = 0;
-  let chaptersDone = 0;
-  for (const section of sections) {
-    const sectionDone = section.items.filter((item) => done.has(item.id)).length;
-    totalSteps += section.items.length;
-    doneSteps += sectionDone;
-    if (section.items.length > 0 && sectionDone === section.items.length) chaptersDone++;
-  }
-  const percent = computeCompletionPercent(totalSteps, doneSteps);
+  const tally = (list: Chapter[]) => {
+    let total = 0;
+    let doneCount = 0;
+    let chaptersDone = 0;
+    for (const section of list) {
+      const sectionDone = section.items.filter((item) => done.has(item.id)).length;
+      total += section.items.length;
+      doneCount += sectionDone;
+      if (section.items.length > 0 && sectionDone === section.items.length) chaptersDone++;
+    }
+    return { total, done: doneCount, chaptersDone, chapters: list.length };
+  };
+
+  const all = tally(sections);
+  const story = storyChapters(sections);
+  // Games with side quests / collectibles get two numbers: the story (the
+  // ring) and the 100% total. Story-only games keep a single figure.
+  const split = story.length < sections.length;
+  const main = split ? tally(story) : all;
+  const percent = computeCompletionPercent(main.total, main.done);
+  const totalPercent = computeCompletionPercent(all.total, all.done);
 
   return (
     <div className="flex shrink-0 items-center gap-3" aria-label={labels.overallProgress}>
@@ -91,10 +104,14 @@ export function WalkthroughSummary({ labels }: { labels: Dictionary["gameDetail"
       </ProgressRing>
       <div className="flex min-w-0 flex-col">
         <p className="text-sm font-semibold whitespace-nowrap">
-          {t(labels.itemsComplete, { done: doneSteps, total: totalSteps })}
+          {split
+            ? t(w.storyStepsComplete, { done: main.done, total: main.total })
+            : t(labels.itemsComplete, { done: main.done, total: main.total })}
         </p>
         <p className="text-xs whitespace-nowrap text-muted-foreground">
-          {t(labels.chaptersComplete, { done: chaptersDone, total: sections.length })}
+          {split
+            ? t(w.completionTotal, { percent: totalPercent })
+            : t(labels.chaptersComplete, { done: main.chaptersDone, total: main.chapters })}
         </p>
       </div>
     </div>

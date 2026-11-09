@@ -3,6 +3,25 @@
 
 type ChapterLike = { id: string; items: { id: string }[] };
 
+/** checklist_categories.kind */
+export type ChapterKind = "story" | "side" | "collectible";
+
+export const CHAPTER_KINDS: ChapterKind[] = ["story", "side", "collectible"];
+
+export function asChapterKind(value: string | null | undefined): ChapterKind {
+  return value === "side" || value === "collectible" ? value : "story";
+}
+
+/**
+ * The chapters that drive "Next up", resuming and auto-advance: the story
+ * ones. Side quests and collectibles never pull the player off the main path.
+ * A game with no story chapters falls back to everything.
+ */
+export function storyChapters<C extends ChapterLike & { kind?: ChapterKind }>(sections: C[]): C[] {
+  const story = sections.filter((section) => (section.kind ?? "story") === "story");
+  return story.length > 0 ? story : sections;
+}
+
 /**
  * The step the player should do next: the first unfinished step *after* the
  * one they completed most recently, wrapping around to the start. Anchoring on

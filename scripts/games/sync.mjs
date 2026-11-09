@@ -87,6 +87,10 @@ function uniqueKey(base, taken) {
   return key;
 }
 
+// checklist_categories.kind: main story, side quest, or collectibles. Omitted
+// in a content file means "story".
+const CATEGORY_KINDS = ["story", "side", "collectible"];
+
 const eng = (i18n, fallback) =>
   (i18n && typeof i18n === "object" && i18n.en) || fallback || "";
 
@@ -113,7 +117,7 @@ async function exportGame(slug) {
   // content file is authoritative — edit it, don't re-export.
   const { data: cats, error: cErr } = await db
     .from("checklist_categories")
-    .select("id, title, title_i18n, order_index")
+    .select("id, kind, title, title_i18n, order_index")
     .eq("game_id", game.id)
     .order("order_index");
   if (cErr) fail(cErr.message);
@@ -163,6 +167,8 @@ async function exportGame(slug) {
       }));
     return {
       key: uniqueKey(toKey(eng(c.title_i18n, c.title)), catKeys),
+      // Only emit non-default kinds, so story-only games stay clean.
+      ...(c.kind && c.kind !== "story" ? { kind: c.kind } : {}),
       title: c.title,
       title_i18n: c.title_i18n ?? {},
       items: catItems,
@@ -323,8 +329,13 @@ async function importGames(slug, { dryRun, prune, skipHltb, refreshHltb }) {
       const cat = doc.categories[ci];
       if (!cat.key) fail(`Category #${ci} in ${doc.slug} is missing "key".`);
       const match = matchRow(dbCats, cat, usedCat);
+      const kind = cat.kind ?? "story";
+      if (!CATEGORY_KINDS.includes(kind)) {
+        fail(`Category "${cat.key}" has kind "${kind}"; expected ${CATEGORY_KINDS.join(" / ")}.`);
+      }
       const fields = {
         key: cat.key,
+        kind,
         title: cat.title,
         title_i18n: cat.title_i18n ?? {},
         order_index: ci,

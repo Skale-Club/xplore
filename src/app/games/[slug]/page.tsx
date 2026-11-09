@@ -16,7 +16,7 @@ import { Tabs, TabsList, TabsTrigger, TabsContent } from "@/components/ui/tabs";
 import { getLocale } from "@/i18n/get-locale";
 import { getDictionary } from "@/i18n/get-dictionary";
 import { pick } from "@/i18n/pick";
-import { findNextStep } from "@/lib/walkthrough";
+import { asChapterKind, findNextStep, storyChapters } from "@/lib/walkthrough";
 import {
   setItemsCompletionAction,
   toggleItemCompletionAction,
@@ -50,7 +50,7 @@ export default async function GameDetailPage({
 
   const { data: categories } = await supabase
     .from("checklist_categories")
-    .select("id, title, title_i18n, order_index")
+    .select("id, kind, title, title_i18n, order_index")
     .eq("game_id", game.id)
     .order("order_index");
 
@@ -92,6 +92,7 @@ export default async function GameDetailPage({
 
   const categoriesWithItems = (categories ?? []).map((category) => ({
     id: category.id,
+    kind: asChapterKind(category.kind),
     title: pick(category.title_i18n, locale, category.title),
     items: (items ?? [])
       .filter((item) => item.category_id === category.id)
@@ -112,7 +113,7 @@ export default async function GameDetailPage({
   // An explicit ?c= (a refresh while browsing) always wins. Otherwise resume
   // where the player left off: the chapter holding their next step.
   const requestedSectionId = categoriesWithItems.find((section) => section.id === c)?.id;
-  const resumeSectionId = findNextStep(categoriesWithItems, completedIds, lastCompletedId)
+  const resumeSectionId = findNextStep(storyChapters(categoriesWithItems), completedIds, lastCompletedId)
     ?.section.id;
   const initialSectionId =
     requestedSectionId ?? resumeSectionId ?? categoriesWithItems[0]?.id ?? "";

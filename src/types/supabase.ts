@@ -83,6 +83,7 @@ export interface Database {
           id: string
           game_id: string
           key: string | null
+          kind: string
           title: string
           title_i18n: Json
           order_index: number
@@ -92,6 +93,7 @@ export interface Database {
           id?: string
           game_id: string
           key?: string | null
+          kind?: string
           title: string
           title_i18n?: Json
           order_index?: number
@@ -101,6 +103,7 @@ export interface Database {
           id?: string
           game_id?: string
           key?: string | null
+          kind?: string
           title?: string
           title_i18n?: Json
           order_index?: number

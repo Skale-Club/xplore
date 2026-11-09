@@ -1946,6 +1946,7 @@
     },
     {
       "key": "side-quests",
+      "kind": "side",
       "title": "Side Quests",
       "title_i18n": {
         "en": "Side Quests",
@@ -2064,6 +2065,7 @@
     },
     {
       "key": "great-fairies",
+      "kind": "side",
       "title": "Great Fairies",
       "title_i18n": {
         "en": "Great Fairies",
@@ -2166,6 +2168,7 @@
     },
     {
       "key": "collectibles-upgrades",
+      "kind": "collectible",
       "title": "Collectibles & Upgrades",
       "title_i18n": {
         "en": "Collectibles & Upgrades",
@@ -2320,6 +2323,7 @@
     },
     {
       "key": "hall-of-fallen-foes",
+      "kind": "side",
       "title": "Hall of Fallen Foes",
       "title_i18n": {
         "en": "Hall of Fallen Foes",

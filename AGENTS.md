@@ -33,6 +33,15 @@ Xplore is a bilingual game‑completion checklist tracker (Next.js 16 + Supabase
   `user_*_progress`) survive re‑imports. `key` is **frozen** once assigned: edit titles
   freely, never edit keys. Always `games:import -- <slug> --dry-run` first; `--prune` deletes
   DB rows absent from the file (destructive — removes their user progress).
+- **Category kinds**: `checklist_categories.kind` is `story` (default), `side` or
+  `collectible`; in a content file set `"kind": "side"` on a category (omit for story). The
+  walkthrough groups the chapter index by kind (headings only when a game mixes kinds),
+  numbers only story chapters, shows story progress in the header ring with the 100% total
+  beside it, and keeps "Next up", resume-where-you-left-off and the chapter auto-advance on
+  story chapters (`storyChapters()` in `src/lib/walkthrough.ts`).
+- **Step media**: `checklist_items.image_url` may be an image or a YouTube link; YouTube links
+  render the video's own thumbnail and play in the no-cookie embed (`step-media.tsx`). Never
+  copy screenshots from other sites into the project.
 - **HowLongToBeat completion times**: `games.hltb_id` / `hltb_main_hours` /
   `hltb_main_extra_hours` / `hltb_completionist_hours` are looked up once by the importer
   (`scripts/games/hltb.mjs`, via the unofficial `hltb-client` package) and cached back into
