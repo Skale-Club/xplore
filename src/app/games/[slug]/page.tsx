@@ -1,19 +1,22 @@
-import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import { Pencil } from "lucide-react";
 import { createClient } from "@/lib/supabase/server";
-import { ChecklistNavigator } from "@/components/checklist-navigator";
+import { GameHero } from "@/components/game-hero";
 import { HltbStats } from "@/components/hltb-stats";
-import { ProgressBar } from "@/components/progress-bar";
 import { TrophyList } from "@/components/trophy-list";
+import { Walkthrough } from "@/components/walkthrough";
 import { Button } from "@/components/ui/button";
 import { PageContainer } from "@/components/page-container";
 import { Tabs, TabsList, TabsTrigger, TabsContent } from "@/components/ui/tabs";
-import { computeCompletionPercent } from "@/lib/progress";
 import { getLocale } from "@/i18n/get-locale";
-import { getDictionary, t } from "@/i18n/get-dictionary";
+import { getDictionary } from "@/i18n/get-dictionary";
 import { pick } from "@/i18n/pick";
-import { toggleItemCompletionAction, toggleTrophyCompletionAction } from "./actions";
+import {
+  setItemsCompletionAction,
+  toggleItemCompletionAction,
+  toggleTrophyCompletionAction,
+} from "./actions";
 
 export default async function GameDetailPage({
   params,
@@ -90,12 +93,8 @@ export default async function GameDetailPage({
       })),
   }));
 
-  const overallPercent = computeCompletionPercent(
-    itemIds.length,
-    completedIds.size
-  );
-
   const isOwner = game.created_by === userId;
+  const title = pick(game.title_i18n, locale, game.title);
 
   // Restore the section from the URL (?c=id) on refresh; default to the first.
   const initialSectionId =
@@ -141,80 +140,54 @@ export default async function GameDetailPage({
 
   return (
     <PageContainer>
-      <div className="flex items-start justify-between gap-4">
-        <div className="flex items-start gap-4">
-          {game.cover_url && (
-            <Image
-              src={game.cover_url}
-              alt={pick(game.title_i18n, locale, game.title)}
-              width={96}
-              height={96}
-              className="size-20 shrink-0 rounded-lg object-cover shadow-md ring-1 ring-border sm:size-24"
-            />
-          )}
-          <div className="flex flex-col gap-1">
-            <span className="inline-flex w-fit items-center rounded-md bg-muted px-1.5 py-0.5 text-xs font-medium text-muted-foreground">
-              {game.platform}
-            </span>
-            <h1 className="font-heading text-2xl font-semibold tracking-tight">
-              {pick(game.title_i18n, locale, game.title)}
-            </h1>
-          </div>
-        </div>
-        {isOwner && (
-          <Button
-            render={<Link href={`/games/${slug}/edit`} />}
-            nativeButton={false}
-            variant="outline"
-            size="sm"
-          >
-            {d.editChecklist}
-          </Button>
-        )}
-      </div>
-
-      <HltbStats
-        title={d.hltb.title}
-        mainStoryLabel={d.hltb.mainStory}
-        mainExtraLabel={d.hltb.mainExtra}
-        completionistLabel={d.hltb.completionist}
-        mainHours={game.hltb_main_hours}
-        mainExtraHours={game.hltb_main_extra_hours}
-        completionistHours={game.hltb_completionist_hours}
+      <GameHero
+        title={title}
+        platform={game.platform}
+        coverUrl={game.cover_url}
+        stats={
+          <HltbStats
+            title={d.hltb.title}
+            mainStoryLabel={d.hltb.mainStory}
+            mainExtraLabel={d.hltb.mainExtra}
+            completionistLabel={d.hltb.completionist}
+            mainHours={game.hltb_main_hours}
+            mainExtraHours={game.hltb_main_extra_hours}
+            completionistHours={game.hltb_completionist_hours}
+          />
+        }
+        actions={
+          isOwner ? (
+            <Button
+              render={<Link href={`/games/${slug}/edit`} />}
+              nativeButton={false}
+              variant="outline"
+              size="lg"
+              className="h-10 bg-background/60 px-4 backdrop-blur-sm"
+            >
+              <Pencil />
+              {d.editChecklist}
+            </Button>
+          ) : undefined
+        }
       />
 
-      <Tabs defaultValue="detonado">
-        <TabsList>
-          <TabsTrigger value="detonado">{td.detonadoTabLabel}</TabsTrigger>
-          {showTrophiesTab && (
-            <TabsTrigger value="trophies">{td.tabLabel}</TabsTrigger>
-          )}
-        </TabsList>
+      <Tabs defaultValue="detonado" className="gap-5">
+        {/* A single "Walkthrough" tab is just noise — only show the bar when
+            there's a second tab to switch to. */}
+        {showTrophiesTab && (
+          <TabsList className="p-1 group-data-horizontal/tabs:h-11">
+            <TabsTrigger value="detonado" className="px-5 text-base">
+              {td.detonadoTabLabel}
+            </TabsTrigger>
+            <TabsTrigger value="trophies" className="px-5 text-base">
+              {td.tabLabel}
+            </TabsTrigger>
+          </TabsList>
+        )}
 
-        <TabsContent value="detonado" className="flex flex-col gap-4">
-          <div className="rounded-xl border bg-card p-4">
-            <div className="mb-2 flex items-baseline justify-between">
-              <span className="text-sm font-medium text-muted-foreground">
-                {d.overallProgress}
-              </span>
-              <span className="font-heading text-2xl font-semibold tabular-nums">
-                {overallPercent}
-                <span className="text-base text-muted-foreground">%</span>
-              </span>
-            </div>
-            <ProgressBar percent={overallPercent} />
-            {itemIds.length > 0 && (
-              <p className="mt-2 text-xs text-muted-foreground">
-                {t(d.itemsComplete, {
-                  done: completedIds.size,
-                  total: itemIds.length,
-                })}
-              </p>
-            )}
-          </div>
-
+        <TabsContent value="detonado" className="text-base">
           {categoriesWithItems.length === 0 ? (
-            <p className="text-sm text-muted-foreground">
+            <p className="text-muted-foreground">
               {d.noChecklistOwner}{" "}
               {isOwner ? (
                 <>
@@ -231,19 +204,20 @@ export default async function GameDetailPage({
               )}
             </p>
           ) : (
-            <ChecklistNavigator
+            <Walkthrough
               sections={categoriesWithItems}
               initialSectionId={initialSectionId}
-              chaptersLabel={d.chapters}
+              labels={d}
               toggleAction={toggleItemCompletionAction}
+              bulkAction={setItemsCompletionAction}
             />
           )}
         </TabsContent>
 
         {showTrophiesTab && (
-          <TabsContent value="trophies">
+          <TabsContent value="trophies" className="text-base">
             {trophiesWithProgress.length === 0 ? (
-              <p className="text-sm text-muted-foreground">
+              <p className="text-muted-foreground">
                 {td.empty}{" "}
                 <Link
                   href={`/games/${slug}/edit`}

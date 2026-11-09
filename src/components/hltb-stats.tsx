@@ -1,3 +1,6 @@
+import { Clock } from "lucide-react";
+
+/** HowLongToBeat completion times as compact chips (renders nothing if none). */
 export function HltbStats({
   title,
   mainStoryLabel,
@@ -24,19 +27,17 @@ export function HltbStats({
   if (stats.length === 0) return null;
 
   return (
-    <div className="rounded-xl border bg-card p-4">
-      <p className="mb-3 text-sm font-medium text-muted-foreground">{title}</p>
-      <div className="flex flex-wrap gap-6">
-        {stats.map((stat) => (
-          <div key={stat.label} className="flex flex-col gap-0.5">
-            <span className="font-heading text-xl font-semibold tabular-nums">
-              {stat.hours}
-              <span className="text-sm text-muted-foreground">h</span>
-            </span>
-            <span className="text-xs text-muted-foreground">{stat.label}</span>
-          </div>
-        ))}
-      </div>
-    </div>
+    <ul className="flex flex-wrap gap-2" aria-label={title} title={title}>
+      {stats.map((stat) => (
+        <li
+          key={stat.label}
+          className="inline-flex items-center gap-2 rounded-full border border-border bg-background/60 px-3 py-1.5 text-sm backdrop-blur-sm"
+        >
+          <Clock className="size-4 text-muted-foreground" aria-hidden />
+          <span className="text-muted-foreground">{stat.label}</span>
+          <span className="font-semibold tabular-nums">{stat.hours}h</span>
+        </li>
+      ))}
+    </ul>
   );
 }

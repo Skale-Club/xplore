@@ -23,17 +23,19 @@ export function TrophyList({
   const percent = computeCompletionPercent(trophies.length, done);
 
   return (
-    <section className="overflow-hidden rounded-xl border bg-card">
-      <div className="flex flex-col gap-2 border-b bg-muted/30 px-4 py-3">
+    <section className="overflow-hidden rounded-2xl border bg-card">
+      <div className="flex flex-col gap-3 border-b bg-muted/30 px-5 py-4 sm:px-6 sm:py-5">
         <div className="flex items-center justify-between gap-4">
-          <h2 className="font-heading text-base font-semibold">{progressLabel}</h2>
-          <span className="shrink-0 rounded-md bg-muted px-1.5 py-0.5 text-xs font-medium tabular-nums text-muted-foreground">
+          <h2 className="font-heading text-xl font-semibold tracking-tight sm:text-2xl">
+            {progressLabel}
+          </h2>
+          <span className="shrink-0 rounded-md bg-muted px-2 py-1 text-sm font-medium tabular-nums text-muted-foreground">
             {done}/{trophies.length}
           </span>
         </div>
         <ProgressBar percent={percent} />
       </div>
-      <div className="flex flex-col divide-y px-4">
+      <div className="flex flex-col divide-y px-5 sm:px-6">
         {trophies.map((trophy) => (
           <TrophyRow
             key={trophy.id}
