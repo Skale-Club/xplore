@@ -14,6 +14,7 @@ import {
   addCategoryAction,
   addItemAction,
   addTrophyAction,
+  createItemImageUploadAction,
   setItemImageAction,
 } from "./actions";
 
@@ -133,10 +134,9 @@ export default async function EditGamePage({
                         <div className="pl-3">
                           <ItemImage
                             itemId={item.id}
-                            gameId={game.id}
-                            userId={userId!}
                             imageUrl={item.image_url}
                             labels={imageLabels}
+                            onRequestUpload={createItemImageUploadAction}
                             onPersist={setItemImageAction}
                           />
                         </div>

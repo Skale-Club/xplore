@@ -16,22 +16,31 @@ export type ItemImageLabels = {
   error: string;
 };
 
+export type ItemImageUpload = { path: string; token: string; publicUrl: string };
+
 // Per-item image control for the edit screen. Uploads client-side straight to
 // Supabase Storage (Server Actions cap request bodies at ~1MB, too small for
 // images), then persists the resulting public URL via the onPersist action.
+//
+// The auth cookies are HttpOnly, so the browser Supabase client has no session
+// of its own: onRequestUpload (a Server Action) checks ownership and returns a
+// signed upload URL token, and the browser client only uses it to send the
+// file with uploadToSignedUrl, which needs no session.
 export function ItemImage({
   itemId,
-  gameId,
-  userId,
   imageUrl,
   labels,
+  onRequestUpload,
   onPersist,
 }: {
   itemId: string;
-  gameId: string;
-  userId: string;
   imageUrl: string | null;
   labels: ItemImageLabels;
+  onRequestUpload: (
+    itemId: string,
+    fileName: string,
+    contentType: string
+  ) => Promise<ItemImageUpload>;
   onPersist: (itemId: string, imageUrl: string | null) => Promise<void>;
 }) {
   const inputRef = useRef<HTMLInputElement>(null);
@@ -50,19 +59,19 @@ export function ItemImage({
     }
     setUploading(true);
     try {
-      const supabase = createClient();
-      const ext =
-        (file.name.split(".").pop() || "").toLowerCase().replace(/[^a-z0-9]/g, "") ||
-        "png";
-      // Path must start with the user's uid to satisfy the storage RLS policy.
-      const path = `${userId}/${gameId}/${itemId}/${crypto.randomUUID()}.${ext}`;
-      const { error: upErr } = await supabase.storage
-        .from(BUCKET)
-        .upload(path, file, { cacheControl: "3600", contentType: file.type });
+      // The server picks the {uid}/{gameId}/{itemId}/… path and signs it.
+      const { path, token, publicUrl } = await onRequestUpload(
+        itemId,
+        file.name,
+        file.type
+      );
+      const { error: upErr } = await createClient()
+        .storage.from(BUCKET)
+        .uploadToSignedUrl(path, token, file, {
+          cacheControl: "3600",
+          contentType: file.type,
+        });
       if (upErr) throw upErr;
-      const {
-        data: { publicUrl },
-      } = supabase.storage.from(BUCKET).getPublicUrl(path);
       await onPersist(itemId, publicUrl);
       setUrl(publicUrl);
     } catch {
