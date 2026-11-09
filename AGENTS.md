@@ -14,7 +14,9 @@ Xplore is a bilingual game‑completion checklist tracker (Next.js 16 + Supabase
   login‑redirect path.
 - **Supabase clients**: `src/lib/supabase/server.ts` (Server Components/actions, RLS),
   `client.ts` (browser), and `admin.ts` (`SUPABASE_SECRET_KEY`, **server‑only**, bypasses
-  RLS — never import into a client component).
+  RLS — never import into a client component). The auth cookies are **HttpOnly**
+  (`cookie-options.ts`), so the browser client never has a session and runs as anon: anything
+  that needs the user's identity must go through the server.
 - **i18n is mandatory for user‑facing text.** UI strings go in `src/i18n/dictionaries/{en,pt}.ts`
   (`en.ts` is the type source of truth). Server pages call `getLocale()` + `getDictionary()`
   and pass strings to client components as props. Localizable **content** is stored in JSONB
@@ -50,7 +52,11 @@ Xplore is a bilingual game‑completion checklist tracker (Next.js 16 + Supabase
 - **Per‑step images**: `checklist_items.image_url` (nullable) holds an optional image for a
   step. Files live in the public Storage bucket `checklist-images` under
   `{uid}/{gameId}/{itemId}/…` (storage RLS restricts writes to the owner's uid folder).
-  Upload is **client‑side** via the browser client (`item-image.tsx`) because Server Actions
-  cap bodies at ~1MB; the resulting public URL is persisted by `setItemImageAction`. The
+  The bytes go **client‑side** (`item-image.tsx`) because Server Actions cap bodies at
+  ~1MB, but since the browser client has no session (HttpOnly cookies) it can't upload under
+  RLS itself: `createItemImageUploadAction` checks the caller owns the item's game, picks the
+  path and returns a signed upload token (`createSignedUploadUrl`), and the browser sends the
+  file with `uploadToSignedUrl`. The resulting public URL is persisted by
+  `setItemImageAction`. The
   importer only touches `image_url` when a content file explicitly includes the field, so
   UI‑uploaded images survive `games:import`.
