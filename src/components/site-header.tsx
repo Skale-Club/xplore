@@ -32,10 +32,10 @@ export async function SiteHeader() {
   return (
     <header className="sticky top-0 z-40 border-b border-border/60 bg-background/80 backdrop-blur-md">
       <div className="mx-auto flex h-14 w-full max-w-5xl items-center justify-between gap-2 px-4">
-        <div className="flex items-center gap-4">
+        <div className="flex min-w-0 items-center gap-2 sm:gap-4">
           <Link
             href="/dashboard"
-            className="flex items-center gap-2 font-heading text-lg font-semibold tracking-tight"
+            className="flex shrink-0 items-center gap-2 font-heading text-lg font-semibold tracking-tight"
           >
             <Image
               src="/icon-512.png"
@@ -44,7 +44,8 @@ export async function SiteHeader() {
               height={30}
               priority
             />
-            <span>Xplore</span>
+            {/* Logo only on phones: the wordmark collided with the nav icons. */}
+            <span className="hidden sm:inline">Xplore</span>
           </Link>
           <HeaderNav labels={dict.nav} />
         </div>

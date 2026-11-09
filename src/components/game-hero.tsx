@@ -1,8 +1,8 @@
 import Image from "next/image";
 
 /**
- * Game page header: large cover art over a blurred, tinted copy of itself,
- * with the platform, title and any extra slots (HLTB chips, owner actions).
+ * Compact game header (mobile first): small cover beside the title over a
+ * blurred, tinted copy of the cover, plus optional stats and owner actions.
  */
 export function GameHero({
   title,
@@ -26,35 +26,35 @@ export function GameHero({
             alt=""
             fill
             sizes="(max-width: 1024px) 100vw, 1024px"
-            className="scale-125 object-cover opacity-30 blur-3xl saturate-150"
+            className="scale-125 object-cover opacity-25 blur-3xl saturate-150"
           />
-          <div className="absolute inset-0 bg-linear-to-b from-card/30 via-card/70 to-card" />
+          <div className="absolute inset-0 bg-linear-to-r from-card/40 via-card/80 to-card" />
         </div>
       )}
 
-      <div className="relative flex flex-col gap-5 p-5 sm:flex-row sm:items-end sm:gap-7 sm:p-7">
+      <div className="relative flex items-center gap-3 p-3.5 sm:gap-5 sm:p-5">
         {coverUrl && (
           <Image
             src={coverUrl}
             alt={title}
-            width={176}
-            height={176}
+            width={80}
+            height={80}
             priority
-            className="size-32 shrink-0 rounded-2xl object-cover shadow-2xl ring-1 ring-white/10 sm:size-44"
+            className="size-14 shrink-0 rounded-xl object-cover shadow-lg ring-1 ring-white/10 sm:size-20"
           />
         )}
 
-        <div className="flex min-w-0 flex-1 flex-col gap-3">
-          <span className="inline-flex w-fit items-center rounded-full border border-border bg-background/60 px-3 py-1 text-xs font-semibold uppercase tracking-wider text-muted-foreground backdrop-blur-sm">
+        <div className="flex min-w-0 flex-1 flex-col gap-1.5">
+          <span className="w-fit text-[11px] font-semibold tracking-wider text-muted-foreground uppercase">
             {platform}
           </span>
-          <h1 className="font-heading text-3xl font-bold tracking-tight text-balance sm:text-4xl">
+          <h1 className="font-heading text-base leading-snug font-bold tracking-tight text-balance sm:text-2xl sm:leading-tight">
             {title}
           </h1>
           {stats}
         </div>
 
-        {actions && <div className="shrink-0 sm:self-start">{actions}</div>}
+        {actions && <div className="shrink-0 self-start">{actions}</div>}
       </div>
     </section>
   );

@@ -12,6 +12,7 @@ import { Tabs, TabsList, TabsTrigger, TabsContent } from "@/components/ui/tabs";
 import { getLocale } from "@/i18n/get-locale";
 import { getDictionary } from "@/i18n/get-dictionary";
 import { pick } from "@/i18n/pick";
+import { findNextStep } from "@/lib/walkthrough";
 import {
   setItemsCompletionAction,
   toggleItemCompletionAction,
@@ -68,10 +69,18 @@ export default async function GameDetailPage({
   const { data: progressRows } = itemIds.length
     ? await supabase
         .from("user_item_progress")
-        .select("item_id, completed")
+        .select("item_id, completed, completed_at")
         .eq("user_id", userId ?? "")
         .in("item_id", itemIds)
     : { data: [] };
+
+  // The step the player ticked most recently — the anchor for "where they
+  // left off" (see findNextStep).
+  const lastCompletedId =
+    (progressRows ?? [])
+      .filter((row) => row.completed && row.completed_at)
+      .sort((a, b) => (b.completed_at ?? "").localeCompare(a.completed_at ?? ""))[0]
+      ?.item_id ?? null;
 
   const completedIds = new Set(
     (progressRows ?? []).filter((row) => row.completed).map((row) => row.item_id)
@@ -96,11 +105,13 @@ export default async function GameDetailPage({
   const isOwner = game.created_by === userId;
   const title = pick(game.title_i18n, locale, game.title);
 
-  // Restore the section from the URL (?c=id) on refresh; default to the first.
+  // An explicit ?c= (a refresh while browsing) always wins. Otherwise resume
+  // where the player left off: the chapter holding their next step.
+  const requestedSectionId = categoriesWithItems.find((section) => section.id === c)?.id;
+  const resumeSectionId = findNextStep(categoriesWithItems, completedIds, lastCompletedId)
+    ?.section.id;
   const initialSectionId =
-    categoriesWithItems.find((section) => section.id === c)?.id ??
-    categoriesWithItems[0]?.id ??
-    "";
+    requestedSectionId ?? resumeSectionId ?? categoriesWithItems[0]?.id ?? "";
 
   // Trophies are a separate system from the checklist above — their own
   // table and their own progress, fetched independently and never mixed in.
@@ -207,6 +218,8 @@ export default async function GameDetailPage({
             <Walkthrough
               sections={categoriesWithItems}
               initialSectionId={initialSectionId}
+              lastCompletedId={lastCompletedId}
+              resumeOnMount={!requestedSectionId}
               labels={d}
               toggleAction={toggleItemCompletionAction}
               bulkAction={setItemsCompletionAction}
