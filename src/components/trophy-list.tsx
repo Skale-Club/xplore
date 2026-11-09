@@ -338,7 +338,12 @@ function TrophyRow({
           <Trophy className={cn("size-[18px]", style.icon)} />
         </span>
 
-        <label htmlFor={checkId} className="flex min-w-0 flex-1 cursor-pointer flex-col gap-0.5">
+        {/* pt lines the title's first line up with the centre of the
+            checkbox and trophy circle (both centred at 1.125rem). */}
+        <label
+          htmlFor={checkId}
+          className="flex min-w-0 flex-1 cursor-pointer flex-col gap-0.5 pt-[0.42rem]"
+        >
           <span className="flex flex-wrap items-center gap-x-2 gap-y-0.5">
             <span
               id={titleId}
