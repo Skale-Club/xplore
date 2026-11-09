@@ -6,9 +6,17 @@ const OFFLINE_URL = "/offline.html";
 // included because offline.html references it.
 const PRECACHE_URLS = [OFFLINE_URL, "/icon-192.png"];
 
+// On a local dev host (`next dev`) chunk names are NOT content-hashed, so
+// caching them would keep serving stale code after every edit. Never cache
+// there — this also heals browsers that registered an older worker in dev.
+const IS_LOCAL_HOST = ["localhost", "127.0.0.1", "[::1]"].includes(
+  self.location.hostname
+);
+
 // Only static, build-hashed assets are cached — page and data requests always
 // hit the network so authenticated/per-user content is never served stale.
 function isCacheableRequest(request) {
+  if (IS_LOCAL_HOST) return false;
   if (request.method !== "GET") return false;
   const url = new URL(request.url);
   if (url.origin !== self.location.origin) return false;
@@ -35,7 +43,9 @@ self.addEventListener("activate", (event) => {
       .then((keys) =>
         Promise.all(
           keys
-            .filter((key) => key !== CACHE_NAME)
+            // Locally, drop everything (including stale dev chunks in the
+            // current cache); in production keep only the current cache.
+            .filter((key) => IS_LOCAL_HOST || key !== CACHE_NAME)
             .map((key) => caches.delete(key))
         )
       )
