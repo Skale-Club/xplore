@@ -42,38 +42,58 @@ export default async function GameDetailPage({
   const d = dict.gameDetail;
   const td = dict.trophies;
 
-  const { data: game } = await supabase
-    .from("games")
-    .select(
-      "id, slug, title, title_i18n, platform, cover_url, created_by, hltb_main_hours, hltb_main_extra_hours, hltb_completionist_hours, walkthrough_routes, guides"
-    )
-    .eq("slug", slug)
-    .maybeSingle();
+  const [{ data: game }, { data: claimsData }] = await Promise.all([
+    supabase
+      .from("games")
+      .select(
+        "id, slug, title, title_i18n, platform, cover_url, created_by, hltb_main_hours, hltb_main_extra_hours, hltb_completionist_hours, walkthrough_routes, guides"
+      )
+      .eq("slug", slug)
+      .maybeSingle(),
+    supabase.auth.getClaims(),
+  ]);
 
   if (!game) notFound();
+  const userId = claimsData?.claims?.sub;
 
-  const { data: categories } = await supabase
-    .from("checklist_categories")
-    .select("id, key, kind, title, title_i18n, order_index")
-    .eq("game_id", game.id)
-    .order("order_index");
+  // These requests share the game ID but do not depend on each other's rows.
+  const [{ data: categories }, { data: library }, { data: trophies }] = await Promise.all([
+    supabase
+      .from("checklist_categories")
+      .select("id, key, kind, title, title_i18n, order_index")
+      .eq("game_id", game.id)
+      .order("order_index"),
+    supabase.from("user_game_progress")
+      .select("selected_route_key").eq("user_id", userId ?? "").eq("game_id", game.id).maybeSingle(),
+    supabase
+      .from("trophies")
+      .select("id, title, title_i18n, description, description_i18n, tier, order_index")
+      .eq("game_id", game.id)
+      .order("order_index"),
+  ]);
 
   const categoryIds = (categories ?? []).map((category) => category.id);
+  const trophyIds = (trophies ?? []).map((trophy) => trophy.id);
 
-  const { data: items } = categoryIds.length
-    ? await supabase
-        .from("checklist_items")
-        .select(
-          "id, key, category_id, title, title_i18n, description, description_i18n, details, details_i18n, image_url, order_index"
-        )
-        .in("category_id", categoryIds)
-        .order("order_index")
-    : { data: [] };
+  const [{ data: items }, { data: trophyProgressRows }] = await Promise.all([
+    categoryIds.length
+      ? supabase
+          .from("checklist_items")
+          .select(
+            "id, key, category_id, title, title_i18n, description, description_i18n, details, details_i18n, image_url, order_index"
+          )
+          .in("category_id", categoryIds)
+          .order("order_index")
+      : { data: [] },
+    trophyIds.length
+      ? supabase
+          .from("user_trophy_progress")
+          .select("trophy_id, completed")
+          .eq("user_id", userId ?? "")
+          .in("trophy_id", trophyIds)
+      : { data: [] },
+  ]);
 
-  const { data: claimsData } = await supabase.auth.getClaims();
-  const userId = claimsData?.claims?.sub;
-  const { data: library } = await supabase.from("user_game_progress")
-    .select("selected_route_key").eq("user_id", userId ?? "").eq("game_id", game.id).maybeSingle();
   const itemIds = (items ?? []).map((item) => item.id);
 
   const { data: progressRows } = itemIds.length
@@ -133,24 +153,7 @@ export default async function GameDetailPage({
   const initialSectionId =
     requestedSectionId ?? resumeSectionId ?? applicableSections[0]?.id ?? "";
 
-  // Trophies are a separate system from the checklist above — their own
-  // table and their own progress, fetched independently and never mixed in.
-  const { data: trophies } = await supabase
-    .from("trophies")
-    .select("id, title, title_i18n, description, description_i18n, tier, order_index")
-    .eq("game_id", game.id)
-    .order("order_index");
-
-  const trophyIds = (trophies ?? []).map((trophy) => trophy.id);
-
-  const { data: trophyProgressRows } = trophyIds.length
-    ? await supabase
-        .from("user_trophy_progress")
-        .select("trophy_id, completed")
-        .eq("user_id", userId ?? "")
-        .in("trophy_id", trophyIds)
-    : { data: [] };
-
+  // Trophy completion remains independent from walkthrough completion.
   const completedTrophyIds = new Set(
     (trophyProgressRows ?? [])
       .filter((row) => row.completed)
