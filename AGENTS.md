@@ -6,6 +6,25 @@ This version has breaking changes — APIs, conventions, and file structure may 
 
 # Project conventions (Xplore)
 
+## Production deployment target
+
+The live `xplore-neon.vercel.app` domain belongs to `skaleclub/xplore`, team
+`team_xLdtbxES9XJokLmO2yFZCutX`, project `prj_BVbEKvK5Tl2UhoWUdBHWanUtHrlK`.
+Verify the ignored `.vercel/project.json` matches those IDs before deployment.
+The obsolete `vanildodesouzajr/xplore` Vercel project can still report GitHub
+deployment success without updating this domain. GitHub success alone is not
+public acceptance. The live project currently requires an authenticated CLI
+deployment; Git connection was unavailable at the November 10, 2026 check.
+Run the remote build with `vercel deploy --prod --scope skaleclub --yes` after
+the owner's release authorization, then verify the production alias and covers.
+Never upload `.worktrees`, local dependencies or environment files.
+
+The live project's public Supabase URL matched `.env.local` on November 10, 2026.
+Treat this checkout's linked database as shared with production, not an isolated
+fake-data environment, until database separation is explicitly completed. Do not
+duplicate/import production data into a supposed development copy or create a
+new Supabase project. Deployment verification must check the actual live target.
+
 <!-- journal-protocol:v1 -->
 ## App Journal and backlog
 

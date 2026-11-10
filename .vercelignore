@@ -1,0 +1,9 @@
+.git
+.worktrees
+.vercel
+node_modules
+.next
+.env*
+ACCESS.md
+*.pem
+*.tsbuildinfo

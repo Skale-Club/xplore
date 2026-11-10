@@ -24,7 +24,8 @@ unimplemented and require a separate scope decision.
 - **Tailwind CSS v4** + **shadcn** (Base UI variant), **lucide-react** icons, **Geist** font
 - **Supabase** — Postgres + Auth, SSR cookie sessions via `@supabase/ssr`
 - **PWA** — web app manifest + service worker
-- Hosted on **Vercel** (auto‑deploy on push to `main`)
+- Hosted on **Vercel**, project **skaleclub/xplore**. See the production target in
+  `AGENTS.md`: the old account's Git deployment does not update the live domain.
 
 > ⚠️ This repo pins a modified Next.js 16 where "middleware" is renamed **`proxy.ts`** and
 > other conventions differ from older Next.js. See `AGENTS.md` — read the guides in
@@ -181,6 +182,8 @@ existing DB row. See `AGENTS.md` for the full contract (flags, orphan handling, 
 
 ## Deployment
 
-Pushing to `main` triggers a Vercel production deploy. The `dev` branch is kept in sync
+Release `main` to **skaleclub/xplore** with the authenticated Vercel CLI until its Git
+connection is configured. Verify `xplore-neon.vercel.app`, not only GitHub's status
+from the obsolete account's project. The `dev` branch is kept in sync
 and produces preview deploys. Database migrations are applied separately via the Supabase
 CLI against the linked project.
