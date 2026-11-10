@@ -1,0 +1,56 @@
+# Hollow Knight: Silksong — native PS5 catalog
+
+## Edition, artwork and completion times
+
+The canonical `hollow-knight-silksong` entry is **Hollow Knight: Silksong**, native **PlayStation 5**, released September 4, 2025. The [PlayStation game page](https://www.playstation.com/en-us/games/hollow-knight-silksong/) and [official product](https://store.playstation.com/en-us/product/EP1805-PPSA12544_00-HKSILKSONGPS5000/) identify the release and platform. This registration covers the released base campaign. Sea of Sorrow is excluded: no official expansion release was verified during this registration.
+
+The inspected [official square master](https://image.api.playstation.com/vulcan/ap/rnd/202508/2503/a560ebf6368c109fb1d883bb2231f5ca2597e9aec435d742.png) is retained at `public/covers/hollow-knight-silksong.png`, 1024×1024. The source uses an immutable SHA-addressed public Storage copy in the existing checklist-images bucket, under the curator's UUID/catalog-covers namespace. Public bytes match SHA256 `8e3487609cef135bd99d3c0259d40befc8c58039915fe2a610178c1d6e540a59`. Both public artwork and the live Next image optimizer return an image successfully. No application deployment is needed to make this cover available. The standard contain frame preserves the full original aspect ratio.
+
+The official importer found an exact title/platform match for [HLTB #65945](https://howlongtobeat.com/game?id=65945), with PlayStation 5 explicitly listed: **28h main / 47h main + extra / 66h completionist**. Cached community totals are whole-game estimates, not personal remaining time or a platinum promise. This mapping needs no curator alias or automatic-matcher change.
+
+## Curated scope
+
+Twenty-four categories contain **164 bilingual tasks: 113 story, 45 side and six aggregate collections**. Thirty-nine extended task explanations remain hidden until explicit Details activation. Seventeen separate reference articles explain navigation, combat, Silk/Bind, tools, crests, Needle upgrades, travel, wishes, journal scope, fleas, completion, irreversible transitions, endings, speed goals and Steel Soul. Articles do not toggle progress.
+
+This is a practical campaign outline and selected optional content. Aggregate tasks do not claim every collectible coordinate, and the speed guidance is preparation advice rather than a minute-by-minute optimized timed route. Steel Soul is an optional challenge; it is not a native PS5 trophy.
+
+## Eleven compatible planning profiles
+
+There are **four main endings**, plus an optional post-credits epilogue. Neutral app labels avoid naming outcomes before the player opens their explanations.
+
+| Profile | Required method and scope |
+| --- | --- |
+| Ending A | Defeat Grand Mother Silk uncursed and choose Bind: Weaver Queen |
+| Ending B | Accept Rite of Rebirth; defeat Grand Mother Silk while wearing the forced Cursed Crest: Twisted Child |
+| Ending C | Complete Silk and Soul, assemble Soul Snare, then play Needolin after Grand Mother Silk: Snared Silk; this plan stops at the Act III transition |
+| Ending D / Hearts A–D | Continue through Act III, consume the selected three Old Hearts, obtain Everbloom and defeat Lost Lace uncursed: Sister of the Void |
+| Ending E / Hearts A–D | Complete Passing of the Age before the final descent, then defeat Lost Lace and watch the additional post-credits scene |
+
+The four heart combinations choose exactly three of Pollen, Hunter's, Encrusted and Conjoined Hearts. Thus A, B and C plus four D and four E combinations produce **11 plans**, not 11 distinct ending cinematics. Plans including Conjoined Heart explicitly guide Green Prince's Act III conversations, Lost Verdania and at least twelve memory orbs. Simple Key rescue remains possible in Act III.
+
+Selected ending goals, curse decisions, Act III gates and heart collection are filtered by profile. A never forces the curse, Soul Snare or Act III. B never requires the permanent cure. C includes a conditional curse-status check: an already uncursed character satisfies that preparation without pretending to have completed Infestation Operation. D/E deliberately acquire and cure the curse so the Witch Crest needed by their completion plan remains obtainable. Their late cleanup includes counted upgrades, full journal/flea objectives and the 100% endpoint; these are optional side goals rather than prerequisites for the cinematic itself.
+
+Loading after A/B returns before the Act II final encounter. Loading after Snared Silk commits the save to Act III permanently and removes access to earlier Grand Mother Silk outcomes. Loading after Sister of the Void returns to the late Abyss bench. A safe multi-ending order is A, then B, permanent cure, C and D, followed by the Herald epilogue. App route selection and shared checkmarks record guide coverage across attempts; they cannot rewind a console save, remove an irreversible upgrade, replace consumed hearts or prove that an ending was replayed.
+
+## Important prerequisite details
+
+- **Curse:** Twisted Bud comes from the hidden Bilewater route entered through eastern Whispering Vaults; Greyroot's Rite of Rebirth forces the Cursed Crest, caps Silk at three and prevents Bind, tools, Silk Skills and crest changes. Prepare first. Yarnaby's Infestation Operation in the locked Greymoor Bellhome cures permanently and grants Witch Crest. Steel Spines are sold by Crull/Benjin in Act II and can be collected from their remains in Act III. Do not cure before the desired Twisted Child clear.
+- **Silk and Soul:** six fixed wishes, their predecessor chains, Faydown Cloak, Bellhome access, the caravan at Fleatopia and Lace's Cradle clear are separate gates. The plan also supplies a concrete pool of seventeen eligible one-point tasks, including Rite of the Pollip and the second Needle upgrade/Pinmaster's Oil credit. Arbitrary wishes are not interchangeable with qualifying points. First deliveries count half a point; repeats do not provide unlimited credit. Four components come from the Chapel Maid, Bell Hermit, Snail Shaman and Snare Setter before Caretaker assembles Soul Snare.
+- **Fleas:** five move the caravan to Greymoor; twelve plus Last Judge allow Blasted Steps; twenty-two plus the Pale Lake visit unlock Fleatopia. Thirty are required for the final collection reward, not for the initial move to Fleatopia. The collection includes Kratt, Vog and the Huge Flea.
+- **Old Hearts:** choose the trio before the ritual. Conjoined is a valid alternative to the other three, not a mandatory fourth heart. The profile exposes only its selected three claims.
+- **Herald:** after Act III and Silk Soar, read the hidden Putrified Ducts riddle above/right of Pale Lake. Follow seven ordered meetings: Moss Grotto, Bone Bottom, Far Fields, Greymoor, Slab, Mount Fay and Border Caves. Finish the dialogue and required Needolin interactions. Lost Lace must be cleared afterward; an earlier checked ending does not retroactively add the cutscene.
+- **100%:** Act II reaches at most 93%; the final seven percent require Act III. Counted systems include 51 tools, six Silk Skills, four Crafting Kit upgrades, four Tool Pouch upgrades, three Silk Hearts, six additional permanent crests, seven counted abilities, five full mask upgrades, nine Silk upgrades, four Needle upgrades and Everbloom. Sylphsong counts; Faydown Cloak does not add percentage but is a quest gate. Use the in-game counter and clear an ending after reaching 100%.
+- **Sylphsong:** Eva counts unlocked non-Hunter slots including defaults; 32 qualify. Good Memory Locket allocation can reach this with twelve of twenty lockets; spending on Hunter slots may raise that to fifteen. The guide does not require every locket or slot. The character must be uncursed and unplasmified for the binding.
+- **Timed goals:** Speedrunner requires an ending under five hours; Speed Completion requires 100% and an ending under thirty hours. Ending cutscenes count toward the clock. Use a separately planned run and platform-supported save preparation. App checkmarks do not measure either limit.
+
+Sources independently inspected during curation: [endings](https://hollowknight.wiki/w/Endings_%28Silksong%29), [Silk and Soul](https://hollowknight.wiki/w/Silk_and_Soul), [completion](https://hollowknight.wiki/w/Completion_%28Silksong%29), [Twisted Bud](https://hollowknight.wiki/w/Twisted_Bud), [Witch Crest](https://hollowknight.wiki/w/Witch_Crest), [Yarnaby](https://hollowknight.wiki/w/Yarnaby), [Old Hearts](https://hollowknight.wiki/w/Old_Hearts), [Green Prince](https://hollowknight.wiki/w/Green_Prince), [Passing of the Age](https://hollowknight.wiki/w/Passing_of_the_Age_%28Wish%29), [fleas](https://hollowknight.wiki/w/Flea), [Eva](https://hollowknight.wiki/w/Eva) and [Fatal Resolve](https://hollowknight.wiki/w/Fatal_Resolve).
+
+## Native trophies and verification
+
+The independently inspected [PS5 NPWR34666_00 list](https://platpursuit.com/games/NPWR34666_00/) contains **34 trophies: 16 bronze, 12 silver, five gold and one platinum**. Every English title/tier pair was compared, including native curly apostrophes. The source does not substitute the Steam list or invent a Steel Soul/Fatal Resolve trophy. Different heart trios do not create additional trophies.
+
+PASS: fifteen focused tests validate every profile, irreversible curse/act gates, exact three-heart alternatives, chronological finale/Herald ordering, the concrete wish pool, separate timed goals and bilingual neutral planning guidance. The final focused run took 0.28s. Static UTF-8/stable-key/EN-PT/Details/native-tier/PNG checks pass. Official dry-run and non-pruning import succeed. Paginated seven-table readback verifies every source field and preserves all 48 preceding games, 799 categories, 5,813 tasks, 1,118 trophies and 89 progress records (four game, 84 item, one trophy). Separate comparisons confirm all seventeen full article bodies and eleven complete route definitions. Official export preserves keys, ordering, native tiers, guides, routes and HLTB cache; the original source is restored afterward.
+
+After this registration the live catalog contains **49 games, 823 categories, 5,977 tasks, 1,152 trophies, 851 task Details, 65 route guidance entries and 81 articles**. All 49 source configurations validate. HLTB coverage is **46/49**, with the three existing Definitive Edition exceptions unchanged. No application code, schema, Git push or app deployment changed. Requested catalog data and immutable artwork are live; source, docs and targeted tests remain local on `feat/hollow-knight-catalog` pending an authorized Git release.
+
+Hollow Knight registration began at 09:36 America/New_York on November 10, 2026 and completed by 09:58. Silksong followed sequentially; import, preservation readback and export passed by 10:29. One gpt-6.1-sol worker drafted source quests/trophies/articles. The orchestrator independently researched and audited the draft, authored profiles and additional prerequisite help, inspected/published artwork, and performed the production-target import and verification. Combined initial estimate: 10:50, approximately 75 minutes; data verification completed in approximately 53 minutes, followed by documentation and Journal closure.
