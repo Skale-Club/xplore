@@ -62,6 +62,8 @@ Retrieved on 2026-11-09–2026-11-10. Rounded community whole-game estimates in 
 | Grand Theft Auto: Vice City – The Definitive Edition — PlayStation 5 | No confirmed edition match | — | — | — |
 | Grand Theft Auto: Vice City — PlayStation 2 | [4075](https://howlongtobeat.com/game?id=4075) | 17 | 24 | 37 |
 | Grand Theft Auto — PC | [4058](https://howlongtobeat.com/game?id=4058) | 13 | 14 | 18 |
+| Hollow Knight: Silksong — PlayStation 5 | [65945](https://howlongtobeat.com/game?id=65945) | 28 | 47 | 66 |
+| Hollow Knight: Voidheart Edition — PlayStation 5 | [26286](https://howlongtobeat.com/game?id=26286) | 27 | 42 | 66 |
 | Mafia: Definitive Edition — PlayStation 5 | [78135](https://howlongtobeat.com/game?id=78135) | 11 | 13 | 25 |
 | Metal Gear Rising: Revengeance — PlayStation 3 | [5905](https://howlongtobeat.com/game?id=5905) | 7 | 12 | 41 |
 | Metal Gear Solid 2: Sons of Liberty — PlayStation 2 | [5910](https://howlongtobeat.com/game?id=5910) | 13 | 15 | 29 |
@@ -87,7 +89,7 @@ Retrieved on 2026-11-09–2026-11-10. Rounded community whole-game estimates in 
 | The Legend of Zelda: Twilight Princess HD — Wii U | [33835](https://howlongtobeat.com/game?id=33835) | 30 | 39 | 44 |
 | The Witcher 3: Wild Hunt - Remastered — PlayStation 5 | [40171](https://howlongtobeat.com/game?id=40171) | 57 | 124 | 189 |
 
-Current verified-cache coverage: 44/47 catalog entries. Preserve explicit exceptions rather than borrowing another edition.
+Current verified-cache coverage: 46/49 catalog entries. Preserve explicit exceptions rather than borrowing another edition.
 
 ### Explicit edition exceptions and ongoing content
 
