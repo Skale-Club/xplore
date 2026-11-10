@@ -42,17 +42,18 @@ export default async function DashboardPage() {
     );
   }
 
-  const { data: games } = await supabase
-    .from("games")
-    .select(
-      "id, slug, title, title_i18n, platform, cover_url, hltb_completionist_hours, walkthrough_routes"
-    )
-    .in("id", gameIds);
-
-  const { data: categories } = await supabase
-    .from("checklist_categories")
-    .select("id, key, game_id")
-    .in("game_id", gameIds);
+  const [{ data: games }, { data: categories }] = await Promise.all([
+    supabase
+      .from("games")
+      .select(
+        "id, slug, title, title_i18n, platform, cover_url, hltb_completionist_hours, walkthrough_routes"
+      )
+      .in("id", gameIds),
+    supabase
+      .from("checklist_categories")
+      .select("id, key, game_id")
+      .in("game_id", gameIds),
+  ]);
 
   const categoryToGame = new Map(
     (categories ?? []).map((category) => [category.id, category.game_id])
@@ -136,6 +137,7 @@ export default async function DashboardPage() {
           const percent = computeCompletionPercent(total, completed);
           return (
             <GameCard
+              loadingLabel={dict.common.loading}
               key={game.id}
               title={pick(game.title_i18n, locale, game.title)}
               platform={game.platform}

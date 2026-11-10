@@ -67,6 +67,7 @@ export default async function GamesPage() {
             const isTracked = trackedIds.has(game.id);
             return (
               <GameCard
+                loadingLabel={dict.common.loading}
                 key={game.id}
                 title={pick(game.title_i18n, locale, game.title)}
                 platform={game.platform}

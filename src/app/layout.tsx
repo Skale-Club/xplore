@@ -1,4 +1,5 @@
 import type { Metadata, Viewport } from "next";
+import { Suspense } from "react";
 import Script from "next/script";
 import { Geist, Geist_Mono } from "next/font/google";
 import { SiteHeader } from "@/components/site-header";
@@ -62,7 +63,9 @@ export default async function RootLayout({
           {themeScript}
         </Script>
         <ServiceWorkerRegister />
-        <SiteHeader />
+        <Suspense fallback={<div aria-hidden className="h-14 shrink-0 border-b border-border/60" />}>
+          <SiteHeader />
+        </Suspense>
         <div className="flex flex-1 flex-col">{children}</div>
       </body>
     </html>

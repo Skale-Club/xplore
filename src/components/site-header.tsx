@@ -9,6 +9,7 @@ import { ThemeToggle } from "@/components/theme-toggle";
 import { LocaleToggle } from "@/components/locale-toggle";
 import { getLocale } from "@/i18n/get-locale";
 import { getDictionary } from "@/i18n/get-dictionary";
+import { NavigationPending } from "@/components/navigation-pending";
 
 export async function SiteHeader() {
   const supabase = await createClient();
@@ -35,7 +36,7 @@ export async function SiteHeader() {
         <div className="flex min-w-0 items-center gap-2 sm:gap-4">
           <Link
             href="/dashboard"
-            className="flex shrink-0 items-center gap-2 font-heading text-lg font-semibold tracking-tight"
+            className="relative flex shrink-0 items-center gap-2 font-heading text-lg font-semibold tracking-tight"
           >
             <Image
               src="/icon-512.png"
@@ -46,8 +47,9 @@ export async function SiteHeader() {
             />
             {/* Logo only on phones: the wordmark collided with the nav icons. */}
             <span className="hidden sm:inline">Xplore</span>
+            <NavigationPending label={dict.common.loading} className="absolute -right-1 -top-1 sm:static" />
           </Link>
-          <HeaderNav labels={dict.nav} />
+          <HeaderNav labels={dict.nav} loadingLabel={dict.common.loading} />
         </div>
 
         <div className="flex items-center gap-1">
@@ -56,7 +58,8 @@ export async function SiteHeader() {
           <Link
             href="/account"
             title={name}
-            className="flex size-8 items-center justify-center overflow-hidden rounded-full bg-primary/15 text-sm font-semibold text-primary ring-1 ring-border transition-transform hover:scale-105"
+            aria-label={dict.nav.account}
+            className="relative flex size-8 items-center justify-center overflow-hidden rounded-full bg-primary/15 text-sm font-semibold text-primary ring-1 ring-border transition-transform hover:scale-105"
           >
             {profile?.avatar_url ? (
               // eslint-disable-next-line @next/next/no-img-element
@@ -68,6 +71,7 @@ export async function SiteHeader() {
             ) : (
               initial
             )}
+            <NavigationPending label={dict.common.loading} className="absolute bottom-0 right-0" />
           </Link>
           <form action={signOutAction}>
             <Button
