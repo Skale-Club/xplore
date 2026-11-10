@@ -1,0 +1,2091 @@
+{
+  "slug": "the-legend-of-zelda-links-awakening-2019",
+  "title": "The Legend of Zelda: Link's Awakening",
+  "title_i18n": {
+    "en": "The Legend of Zelda: Link's Awakening",
+    "pt": "The Legend of Zelda: Link's Awakening"
+  },
+  "platform": "Nintendo Switch",
+  "cover_url": "/covers/the-legend-of-zelda-links-awakening-2019.png",
+  "created_by": "dd5c4bf0-85ea-4986-9c04-b37e8c986150",
+  "categories": [
+    {
+      "key": "mabe-and-mysterious-forest",
+      "title": "Mabe Village and the Mysterious Forest",
+      "title_i18n": {
+        "en": "Mabe Village and the Mysterious Forest",
+        "pt": "Mabe Village e Mysterious Forest"
+      },
+      "items": [
+        {
+          "key": "begin-switch-remake",
+          "title": "Begin the 2019 Switch adventure",
+          "title_i18n": {
+            "en": "Begin the 2019 Switch adventure",
+            "pt": "Começar a aventura de Switch de 2019"
+          },
+          "description": "This route covers the Switch remake, with its expanded collections and dedicated sword and shield controls.",
+          "description_i18n": {
+            "en": "This route covers the Switch remake, with its expanded collections and dedicated sword and shield controls.",
+            "pt": "Esta rota cobre o remake de Switch, com coleções ampliadas e comandos dedicados para espada e escudo."
+          }
+        },
+        {
+          "key": "recover-shield",
+          "title": "Recover your shield",
+          "title_i18n": {
+            "en": "Recover your shield",
+            "pt": "Recuperar o escudo"
+          },
+          "description": "Speak with Tarin and Marin, then inspect the village before heading to the beach.",
+          "description_i18n": {
+            "en": "Speak with Tarin and Marin, then inspect the village before heading to the beach.",
+            "pt": "Fale com Tarin e Marin e examine a vila antes de ir à praia."
+          }
+        },
+        {
+          "key": "recover-sword-on-beach",
+          "title": "Recover the sword on the beach",
+          "title_i18n": {
+            "en": "Recover the sword on the beach",
+            "pt": "Recuperar a espada na praia"
+          },
+          "description": "Use the shield to approach the shoreline obstacle and collect your sword.",
+          "description_i18n": {
+            "en": "Use the shield to approach the shoreline obstacle and collect your sword.",
+            "pt": "Use o escudo para se aproximar do obstáculo na praia e recolha a espada."
+          }
+        },
+        {
+          "key": "enter-mysterious-forest",
+          "title": "Enter the Mysterious Forest",
+          "title_i18n": {
+            "en": "Enter the Mysterious Forest",
+            "pt": "Entrar na Mysterious Forest"
+          },
+          "description": "Follow the owl's guidance and inspect paths through the forest.",
+          "description_i18n": {
+            "en": "Follow the owl's guidance and inspect paths through the forest.",
+            "pt": "Siga a orientação da coruja e examine os caminhos da floresta."
+          }
+        },
+        {
+          "key": "find-toadstool",
+          "title": "Find the Toadstool",
+          "title_i18n": {
+            "en": "Find the Toadstool",
+            "pt": "Encontrar o Toadstool"
+          },
+          "description": "Explore the forest cave route and collect the unusual ingredient beyond it.",
+          "description_i18n": {
+            "en": "Explore the forest cave route and collect the unusual ingredient beyond it.",
+            "pt": "Explore a rota da caverna na floresta e recolha o ingrediente incomum."
+          }
+        },
+        {
+          "key": "obtain-magic-powder",
+          "title": "Obtain Magic Powder",
+          "title_i18n": {
+            "en": "Obtain Magic Powder",
+            "pt": "Obter Magic Powder"
+          },
+          "description": "Bring the ingredient to the witch and test the resulting tool on the forest obstruction.",
+          "description_i18n": {
+            "en": "Bring the ingredient to the witch and test the resulting tool on the forest obstruction.",
+            "pt": "Leve o ingrediente à bruxa e teste a ferramenta resultante no obstáculo da floresta."
+          }
+        },
+        {
+          "key": "claim-tail-key",
+          "title": "Claim the Tail Key",
+          "title_i18n": {
+            "en": "Claim the Tail Key",
+            "pt": "Obter a Tail Key"
+          },
+          "description": "Complete the forest's changed route and take the key to the southern dungeon entrance.",
+          "description_i18n": {
+            "en": "Complete the forest's changed route and take the key to the southern dungeon entrance.",
+            "pt": "Conclua a rota alterada da floresta e leve a chave à entrada da masmorra ao sul."
+          }
+        }
+      ]
+    },
+    {
+      "key": "tail-cave",
+      "title": "Tail Cave",
+      "title_i18n": {
+        "en": "Tail Cave",
+        "pt": "Tail Cave"
+      },
+      "items": [
+        {
+          "key": "enter-tail-cave",
+          "title": "Enter Tail Cave",
+          "title_i18n": {
+            "en": "Enter Tail Cave",
+            "pt": "Entrar na Tail Cave"
+          },
+          "description": "Use the key outside and inspect the dungeon map as routes open.",
+          "description_i18n": {
+            "en": "Use the key outside and inspect the dungeon map as routes open.",
+            "pt": "Use a chave do lado de fora e confira o mapa conforme as rotas abrirem."
+          }
+        },
+        {
+          "key": "learn-tail-enemy-puzzles",
+          "title": "Resolve the early enemy puzzles",
+          "title_i18n": {
+            "en": "Resolve the early enemy puzzles",
+            "pt": "Resolver os primeiros desafios de inimigos"
+          },
+          "description": "Observe how the room's enemies react to your sword and shield before repeating attacks.",
+          "description_i18n": {
+            "en": "Observe how the room's enemies react to your sword and shield before repeating attacks.",
+            "pt": "Observe como os inimigos reagem à espada e ao escudo antes de repetir ataques."
+          }
+        },
+        {
+          "key": "obtain-rocs-feather",
+          "title": "Obtain Roc's Feather",
+          "title_i18n": {
+            "en": "Obtain Roc's Feather",
+            "pt": "Obter a Roc's Feather"
+          },
+          "description": "Reach the dungeon treasure and practice jumping across a safe gap.",
+          "description_i18n": {
+            "en": "Reach the dungeon treasure and practice jumping across a safe gap.",
+            "pt": "Alcance o tesouro e pratique saltar por um vão seguro."
+          }
+        },
+        {
+          "key": "complete-tail-mini-boss",
+          "title": "Complete the Rolling Bones encounter",
+          "title_i18n": {
+            "en": "Complete the Rolling Bones encounter",
+            "pt": "Vencer o confronto com Rolling Bones"
+          },
+          "description": "Use the new movement tool and clear the route beyond the mini-boss.",
+          "description_i18n": {
+            "en": "Use the new movement tool and clear the route beyond the mini-boss.",
+            "pt": "Use a nova ferramenta de movimento e libere o caminho após o minichefe."
+          }
+        },
+        {
+          "key": "defeat-moldorm",
+          "title": "Defeat Moldorm",
+          "title_i18n": {
+            "en": "Defeat Moldorm",
+            "pt": "Derrotar Moldorm"
+          },
+          "description": "Watch the vulnerable target and stay away from the arena's unprotected edges.",
+          "description_i18n": {
+            "en": "Watch the vulnerable target and stay away from the arena's unprotected edges.",
+            "pt": "Observe o alvo vulnerável e evite as bordas desprotegidas da arena."
+          }
+        },
+        {
+          "key": "claim-full-moon-cello",
+          "title": "Claim the Full Moon Cello",
+          "title_i18n": {
+            "en": "Claim the Full Moon Cello",
+            "pt": "Obter o Full Moon Cello"
+          },
+          "description": "Take the Heart Container and collect the first instrument before leaving.",
+          "description_i18n": {
+            "en": "Take the Heart Container and collect the first instrument before leaving.",
+            "pt": "Recolha o Heart Container e obtenha o primeiro instrumento antes de sair."
+          }
+        }
+      ]
+    },
+    {
+      "key": "bowwow-and-bottle-grotto",
+      "title": "BowWow and Bottle Grotto",
+      "title_i18n": {
+        "en": "BowWow and Bottle Grotto",
+        "pt": "BowWow e Bottle Grotto"
+      },
+      "items": [
+        {
+          "key": "investigate-bowwow-kidnapping",
+          "title": "Investigate BowWow's kidnapping",
+          "title_i18n": {
+            "en": "Investigate BowWow's kidnapping",
+            "pt": "Investigar o sequestro de BowWow"
+          },
+          "description": "Return to Mabe and follow the villagers' lead toward the Moblin hideout.",
+          "description_i18n": {
+            "en": "Return to Mabe and follow the villagers' lead toward the Moblin hideout.",
+            "pt": "Volte a Mabe e siga a pista dos moradores até o esconderijo Moblin."
+          }
+        },
+        {
+          "key": "rescue-bowwow",
+          "title": "Rescue BowWow",
+          "title_i18n": {
+            "en": "Rescue BowWow",
+            "pt": "Resgatar BowWow"
+          },
+          "description": "Clear the hideout encounters and release the captive companion.",
+          "description_i18n": {
+            "en": "Clear the hideout encounters and release the captive companion.",
+            "pt": "Vença os confrontos do esconderijo e liberte o companheiro preso."
+          }
+        },
+        {
+          "key": "cross-goponga-swamp",
+          "title": "Cross Goponga Swamp",
+          "title_i18n": {
+            "en": "Cross Goponga Swamp",
+            "pt": "Atravessar Goponga Swamp"
+          },
+          "description": "Bring BowWow along the swamp route and reach the dungeon entrance.",
+          "description_i18n": {
+            "en": "Bring BowWow along the swamp route and reach the dungeon entrance.",
+            "pt": "Leve BowWow pela rota do pântano e alcance a entrada da masmorra."
+          }
+        },
+        {
+          "key": "explore-bottle-grotto",
+          "title": "Explore Bottle Grotto",
+          "title_i18n": {
+            "en": "Explore Bottle Grotto",
+            "pt": "Explorar Bottle Grotto"
+          },
+          "description": "Inspect the torch, crystal-switch and enemy-room mechanisms as you collect keys.",
+          "description_i18n": {
+            "en": "Inspect the torch, crystal-switch and enemy-room mechanisms as you collect keys.",
+            "pt": "Examine tochas, cristais e desafios de inimigos enquanto recolhe chaves."
+          }
+        },
+        {
+          "key": "obtain-power-bracelet",
+          "title": "Obtain the Power Bracelet",
+          "title_i18n": {
+            "en": "Obtain the Power Bracelet",
+            "pt": "Obter o Power Bracelet"
+          },
+          "description": "Complete the ghostly mini-boss encounter and collect the lifting upgrade.",
+          "description_i18n": {
+            "en": "Complete the ghostly mini-boss encounter and collect the lifting upgrade.",
+            "pt": "Vença o confronto com o minichefe fantasmagórico e obtenha a melhoria de força."
+          }
+        },
+        {
+          "key": "solve-bottle-big-key-room",
+          "title": "Resolve the final key-room puzzle",
+          "title_i18n": {
+            "en": "Resolve the final key-room puzzle",
+            "pt": "Resolver o desafio da sala da chave final"
+          },
+          "description": "Read the clue and observe the enemy types before opening the final route.",
+          "description_i18n": {
+            "en": "Read the clue and observe the enemy types before opening the final route.",
+            "pt": "Leia a pista e observe os tipos de inimigo antes de abrir a rota final."
+          },
+          "details": "The room's enemies must be defeated in a particular order: first the rabbit-like Pols Voice, then the Keese bat, and finally the skeletal Stalfos. Throw a pot at Pols Voice instead of trying to cut through it with the sword. Keep the other enemies alive until their turn, then collect the Nightmare Key from the chest that appears. If you have already defeated them out of order, leave and reset the room before trying again rather than searching elsewhere for a missing key.",
+          "details_i18n": {
+            "en": "The room's enemies must be defeated in a particular order: first the rabbit-like Pols Voice, then the Keese bat, and finally the skeletal Stalfos. Throw a pot at Pols Voice instead of trying to cut through it with the sword. Keep the other enemies alive until their turn, then collect the Nightmare Key from the chest that appears. If you have already defeated them out of order, leave and reset the room before trying again rather than searching elsewhere for a missing key.",
+            "pt": "Os inimigos da sala precisam ser derrotados nesta ordem: primeiro Pols Voice, parecido com um coelho; depois o morcego Keese; por último o esqueleto Stalfos. Arremesse um vaso em Pols Voice em vez de tentar cortá-lo com a espada. Preserve os demais até a vez deles e recolha a Nightmare Key no baú que aparece. Se já os derrotou fora de ordem, saia e reinicie a sala antes de tentar novamente, em vez de procurar outra chave pela masmorra."
+          }
+        },
+        {
+          "key": "claim-conch-horn",
+          "title": "Defeat Genie and claim the Conch Horn",
+          "title_i18n": {
+            "en": "Defeat Genie and claim the Conch Horn",
+            "pt": "Derrotar Genie e obter o Conch Horn"
+          },
+          "description": "Use your new tool during the boss's changing phases and collect the second instrument.",
+          "description_i18n": {
+            "en": "Use your new tool during the boss's changing phases and collect the second instrument.",
+            "pt": "Use a nova ferramenta nas fases do chefe e recolha o segundo instrumento."
+          }
+        }
+      ]
+    },
+    {
+      "key": "richard-and-kanalet-castle",
+      "title": "Richard and Kanalet Castle",
+      "title_i18n": {
+        "en": "Richard and Kanalet Castle",
+        "pt": "Richard e Kanalet Castle"
+      },
+      "items": [
+        {
+          "key": "return-bowwow-to-mabe",
+          "title": "Return BowWow to Mabe",
+          "title_i18n": {
+            "en": "Return BowWow to Mabe",
+            "pt": "Devolver BowWow a Mabe"
+          },
+          "description": "Finish the rescue conversation before taking the route through Ukuku Prairie.",
+          "description_i18n": {
+            "en": "Finish the rescue conversation before taking the route through Ukuku Prairie.",
+            "pt": "Conclua a conversa do resgate antes de seguir por Ukuku Prairie."
+          }
+        },
+        {
+          "key": "buy-shovel-for-field",
+          "title": "Buy a Shovel",
+          "title_i18n": {
+            "en": "Buy a Shovel",
+            "pt": "Comprar uma Shovel"
+          },
+          "description": "Visit Mabe's shop and obtain the digging tool before searching for the Slime Key.",
+          "description_i18n": {
+            "en": "Visit Mabe's shop and obtain the digging tool before searching for the Slime Key.",
+            "pt": "Visite a loja de Mabe e obtenha a ferramenta de escavação antes de procurar a Slime Key."
+          }
+        },
+        {
+          "key": "visit-richards-villa",
+          "title": "Visit Richard's Villa",
+          "title_i18n": {
+            "en": "Visit Richard's Villa",
+            "pt": "Visitar a casa de Richard"
+          },
+          "description": "Hear the request concerning Kanalet Castle and inspect the blocked onward route.",
+          "description_i18n": {
+            "en": "Hear the request concerning Kanalet Castle and inspect the blocked onward route.",
+            "pt": "Ouça o pedido sobre Kanalet Castle e examine a passagem bloqueada."
+          }
+        },
+        {
+          "key": "win-yoshi-doll",
+          "title": "Win the Yoshi Doll",
+          "title_i18n": {
+            "en": "Win the Yoshi Doll",
+            "pt": "Obter o Yoshi Doll"
+          },
+          "description": "Use the Trendy Game and begin the village trading sequence with the doll.",
+          "description_i18n": {
+            "en": "Use the Trendy Game and begin the village trading sequence with the doll.",
+            "pt": "Jogue o Trendy Game e inicie as trocas da vila com o boneco."
+          }
+        },
+        {
+          "key": "trade-ribbon-dog-food-bananas",
+          "title": "Trade for the Bananas",
+          "title_i18n": {
+            "en": "Trade for the Bananas",
+            "pt": "Trocar itens até obter Bananas"
+          },
+          "description": "Follow the Ribbon and Dog Food exchanges in Mabe, then visit Sale on the shore.",
+          "description_i18n": {
+            "en": "Follow the Ribbon and Dog Food exchanges in Mabe, then visit Sale on the shore.",
+            "pt": "Siga as trocas de Ribbon e Dog Food em Mabe e visite Sale na praia."
+          }
+        },
+        {
+          "key": "help-kiki-cross-castle",
+          "title": "Help Kiki and cross to the castle",
+          "title_i18n": {
+            "en": "Help Kiki and cross to the castle",
+            "pt": "Ajudar Kiki e atravessar até o castelo"
+          },
+          "description": "Bring the requested food, collect the leftover trade item and use the new bridge.",
+          "description_i18n": {
+            "en": "Bring the requested food, collect the leftover trade item and use the new bridge.",
+            "pt": "Leve a comida pedida, recolha o item de troca deixado e use a nova ponte."
+          }
+        },
+        {
+          "key": "collect-five-golden-leaves",
+          "title": "Collect the five Golden Leaves",
+          "title_i18n": {
+            "en": "Collect the five Golden Leaves",
+            "pt": "Coletar as cinco Golden Leaves"
+          },
+          "description": "Explore the castle grounds and rooms, then return the complete set to Richard.",
+          "description_i18n": {
+            "en": "Explore the castle grounds and rooms, then return the complete set to Richard.",
+            "pt": "Explore os arredores e as salas do castelo e leve o conjunto completo a Richard."
+          }
+        },
+        {
+          "key": "claim-slime-key",
+          "title": "Claim the Slime Key",
+          "title_i18n": {
+            "en": "Claim the Slime Key",
+            "pt": "Obter a Slime Key"
+          },
+          "description": "Follow Richard's opened passage and inspect Pothole Field with a shovel available.",
+          "description_i18n": {
+            "en": "Follow Richard's opened passage and inspect Pothole Field with a shovel available.",
+            "pt": "Siga a passagem aberta por Richard e examine Pothole Field com uma pá disponível."
+          }
+        }
+      ]
+    },
+    {
+      "key": "key-cavern",
+      "title": "Key Cavern",
+      "title_i18n": {
+        "en": "Key Cavern",
+        "pt": "Key Cavern"
+      },
+      "items": [
+        {
+          "key": "open-key-cavern-route",
+          "title": "Open the Key Cavern route",
+          "title_i18n": {
+            "en": "Open the Key Cavern route",
+            "pt": "Abrir a rota da Key Cavern"
+          },
+          "description": "Use the Slime Key and follow the approach around the water to the entrance.",
+          "description_i18n": {
+            "en": "Use the Slime Key and follow the approach around the water to the entrance.",
+            "pt": "Use a Slime Key e siga o acesso ao redor da água até a entrada."
+          }
+        },
+        {
+          "key": "collect-key-cavern-keys",
+          "title": "Collect the cavern's small keys",
+          "title_i18n": {
+            "en": "Collect the cavern's small keys",
+            "pt": "Coletar as chaves pequenas da caverna"
+          },
+          "description": "Check enemy rooms and marked branches before spending keys on repeated corridors.",
+          "description_i18n": {
+            "en": "Check enemy rooms and marked branches before spending keys on repeated corridors.",
+            "pt": "Confira as salas de inimigos e as alas marcadas antes de gastar chaves."
+          }
+        },
+        {
+          "key": "complete-dodongo-snake-encounter",
+          "title": "Complete the Dodongo Snake encounter",
+          "title_i18n": {
+            "en": "Complete the Dodongo Snake encounter",
+            "pt": "Vencer o confronto com Dodongo Snakes"
+          },
+          "description": "Read their movement and use a suitable consumable rather than ordinary sword attacks.",
+          "description_i18n": {
+            "en": "Read their movement and use a suitable consumable rather than ordinary sword attacks.",
+            "pt": "Observe o movimento deles e use um consumível adequado em vez de ataques comuns de espada."
+          }
+        },
+        {
+          "key": "obtain-pegasus-boots",
+          "title": "Obtain the Pegasus Boots",
+          "title_i18n": {
+            "en": "Obtain the Pegasus Boots",
+            "pt": "Obter as Pegasus Boots"
+          },
+          "description": "Claim the dungeon tool and practice the dedicated dash control in a safe room.",
+          "description_i18n": {
+            "en": "Claim the dungeon tool and practice the dedicated dash control in a safe room.",
+            "pt": "Obtenha a ferramenta e pratique o comando dedicado de corrida em uma sala segura."
+          }
+        },
+        {
+          "key": "solve-key-cavern-dash-routes",
+          "title": "Resolve the dash and jump routes",
+          "title_i18n": {
+            "en": "Resolve the dash and jump routes",
+            "pt": "Resolver as rotas de corrida e salto"
+          },
+          "description": "Revisit obstacles with the boots and combine movement tools where a normal jump falls short.",
+          "description_i18n": {
+            "en": "Revisit obstacles with the boots and combine movement tools where a normal jump falls short.",
+            "pt": "Revisite os obstáculos com as botas e combine ferramentas onde um salto comum não bastar."
+          }
+        },
+        {
+          "key": "claim-sea-lilys-bell",
+          "title": "Defeat Slime Eye and claim the Sea Lily's Bell",
+          "title_i18n": {
+            "en": "Defeat Slime Eye and claim the Sea Lily's Bell",
+            "pt": "Derrotar Slime Eye e obter o Sea Lily's Bell"
+          },
+          "description": "Resolve the boss's changing form and collect the third instrument.",
+          "description_i18n": {
+            "en": "Resolve the boss's changing form and collect the third instrument.",
+            "pt": "Vença as formas do chefe e recolha o terceiro instrumento."
+          },
+          "details": "Dash into the wall to dislodge Slime Eye from the ceiling. Strike the eye until its body stretches into two halves, then use a Pegasus Boots dash through the thin connection to split them fully. Fight the separated eyes while watching their jumps. Jump with Roc's Feather as an eye lands to avoid being stunned by the impact, then close in for a short sword attack. Running around without completing the split will not advance the encounter.",
+          "details_i18n": {
+            "en": "Dash into the wall to dislodge Slime Eye from the ceiling. Strike the eye until its body stretches into two halves, then use a Pegasus Boots dash through the thin connection to split them fully. Fight the separated eyes while watching their jumps. Jump with Roc's Feather as an eye lands to avoid being stunned by the impact, then close in for a short sword attack. Running around without completing the split will not advance the encounter.",
+            "pt": "Corra contra a parede para derrubar Slime Eye do teto. Golpeie o olho até o corpo se alongar em duas metades e use uma corrida com as Pegasus Boots na ligação fina para separá-las. Enfrente os olhos separados observando seus saltos. Salte com Roc's Feather quando um olho aterrissar para evitar o atordoamento e aproxime-se para um ataque breve. Apenas correr pela sala sem concluir a separação não faz o confronto avançar."
+          }
+        }
+      ]
+    },
+    {
+      "key": "marin-and-angler-key",
+      "title": "Marin, the walrus and Angler Key",
+      "title_i18n": {
+        "en": "Marin, the walrus and Angler Key",
+        "pt": "Marin, a morsa e Angler Key"
+      },
+      "items": [
+        {
+          "key": "obtain-dream-shrine-ocarina",
+          "title": "Obtain the Ocarina",
+          "title_i18n": {
+            "en": "Obtain the Ocarina",
+            "pt": "Obter a Ocarina"
+          },
+          "description": "Revisit the Dream Shrine in Mabe with your improved movement tools.",
+          "description_i18n": {
+            "en": "Revisit the Dream Shrine in Mabe with your improved movement tools.",
+            "pt": "Revisite o Dream Shrine em Mabe com as ferramentas de movimento melhoradas."
+          }
+        },
+        {
+          "key": "learn-marin-ballad",
+          "title": "Learn Marin's Ballad",
+          "title_i18n": {
+            "en": "Learn Marin's Ballad",
+            "pt": "Aprender a balada de Marin"
+          },
+          "description": "Speak with Marin when she is available and learn the song used later in the adventure.",
+          "description_i18n": {
+            "en": "Speak with Marin when she is available and learn the song used later in the adventure.",
+            "pt": "Fale com Marin quando estiver disponível e aprenda a canção usada mais adiante."
+          }
+        },
+        {
+          "key": "reach-animal-village",
+          "title": "Reach Animal Village",
+          "title_i18n": {
+            "en": "Reach Animal Village",
+            "pt": "Alcançar Animal Village"
+          },
+          "description": "Find the route across the prairie and investigate the village's desert problem.",
+          "description_i18n": {
+            "en": "Find the route across the prairie and investigate the village's desert problem.",
+            "pt": "Encontre a rota pela pradaria e investigue o problema do deserto na vila."
+          }
+        },
+        {
+          "key": "find-marin-at-shore",
+          "title": "Find Marin at the shore",
+          "title_i18n": {
+            "en": "Find Marin at the shore",
+            "pt": "Encontrar Marin na praia"
+          },
+          "description": "Follow the villagers' clue and complete the beach conversation before escorting her.",
+          "description_i18n": {
+            "en": "Follow the villagers' clue and complete the beach conversation before escorting her.",
+            "pt": "Siga a pista dos moradores e conclua a conversa na praia antes de acompanhá-la."
+          }
+        },
+        {
+          "key": "bring-marin-to-walrus",
+          "title": "Bring Marin to the walrus",
+          "title_i18n": {
+            "en": "Bring Marin to the walrus",
+            "pt": "Levar Marin à morsa"
+          },
+          "description": "Travel together to the blocked desert approach and let the scene finish.",
+          "description_i18n": {
+            "en": "Travel together to the blocked desert approach and let the scene finish.",
+            "pt": "Viajem até o acesso bloqueado ao deserto e espere o fim da cena."
+          },
+          "details": "Speak with Chef Bear in Animal Village to establish the singing lead, then return to Toronbo Shores and find Marin on the beach. Finish the conversation so she follows Link. Bring her back through the village to the sleeping walrus and let her singing scene complete. If you have not learned the Ballad with your Ocarina yet, speak with her while she is available in Mabe or singing in Animal Village afterward. Defeat Lanmola in Yarna Desert and recover the Angler Key; if it falls into the pit, check the cave below.",
+          "details_i18n": {
+            "en": "Speak with Chef Bear in Animal Village to establish the singing lead, then return to Toronbo Shores and find Marin on the beach. Finish the conversation so she follows Link. Bring her back through the village to the sleeping walrus and let her singing scene complete. If you have not learned the Ballad with your Ocarina yet, speak with her while she is available in Mabe or singing in Animal Village afterward. Defeat Lanmola in Yarna Desert and recover the Angler Key; if it falls into the pit, check the cave below.",
+            "pt": "Fale com Chef Bear em Animal Village para conhecer a pista da música e encontre Marin na praia de Toronbo Shores. Conclua a conversa para ela acompanhar Link. Volte pela vila até a morsa e espere o fim da cena de canto. Se ainda não aprendeu a balada com a Ocarina, fale com Marin quando estiver disponível em Mabe ou cantando em Animal Village depois. Derrote Lanmola em Yarna Desert e recupere a Angler Key; se ela cair no buraco, examine a caverna abaixo."
+          }
+        },
+        {
+          "key": "claim-angler-key",
+          "title": "Claim the Angler Key",
+          "title_i18n": {
+            "en": "Claim the Angler Key",
+            "pt": "Obter a Angler Key"
+          },
+          "description": "Explore Yarna Desert, resolve its combat encounter and recover the key safely.",
+          "description_i18n": {
+            "en": "Explore Yarna Desert, resolve its combat encounter and recover the key safely.",
+            "pt": "Explore Yarna Desert, vença o confronto e recupere a chave com segurança."
+          }
+        },
+        {
+          "key": "open-angler-waterfall",
+          "title": "Open the Angler's Tunnel route",
+          "title_i18n": {
+            "en": "Open the Angler's Tunnel route",
+            "pt": "Abrir a rota de Angler's Tunnel"
+          },
+          "description": "Use the key at the waterfall mechanism and follow the mountain approach to the exposed entrance.",
+          "description_i18n": {
+            "en": "Use the key at the waterfall mechanism and follow the mountain approach to the exposed entrance.",
+            "pt": "Use a chave no mecanismo da cachoeira e siga pelo acesso da montanha até a entrada revelada."
+          }
+        }
+      ]
+    },
+    {
+      "key": "anglers-tunnel",
+      "title": "Angler’s Tunnel",
+      "title_i18n": {
+        "en": "Angler’s Tunnel",
+        "pt": "Angler’s Tunnel"
+      },
+      "items": [
+        {
+          "key": "enter-anglers-tunnel",
+          "title": "Enter Angler's Tunnel",
+          "title_i18n": {
+            "en": "Enter Angler's Tunnel",
+            "pt": "Entrar em Angler's Tunnel"
+          },
+          "description": "Explore the accessible branches and note which passages need deeper water access.",
+          "description_i18n": {
+            "en": "Explore the accessible branches and note which passages need deeper water access.",
+            "pt": "Explore as alas acessíveis e observe quais passagens exigem acesso à água profunda."
+          }
+        },
+        {
+          "key": "resolve-tunnel-crystal-routes",
+          "title": "Resolve the tunnel's switches and keys",
+          "title_i18n": {
+            "en": "Resolve the tunnel's switches and keys",
+            "pt": "Resolver os interruptores e as chaves do túnel"
+          },
+          "description": "Track the crystal barriers and inspect the rooms below before leaving each branch.",
+          "description_i18n": {
+            "en": "Track the crystal barriers and inspect the rooms below before leaving each branch.",
+            "pt": "Acompanhe as barreiras de cristal e examine as salas inferiores antes de sair de cada ala."
+          }
+        },
+        {
+          "key": "complete-cue-ball-encounter",
+          "title": "Complete the Cue Ball encounter",
+          "title_i18n": {
+            "en": "Complete the Cue Ball encounter",
+            "pt": "Vencer o confronto com Cue Ball"
+          },
+          "description": "Use the arena's layout to reach the mini-boss's vulnerable side.",
+          "description_i18n": {
+            "en": "Use the arena's layout to reach the mini-boss's vulnerable side.",
+            "pt": "Use o cenário para alcançar o lado vulnerável do minichefe."
+          }
+        },
+        {
+          "key": "obtain-flippers",
+          "title": "Obtain the Flippers",
+          "title_i18n": {
+            "en": "Obtain the Flippers",
+            "pt": "Obter as Flippers"
+          },
+          "description": "Collect the swimming upgrade and revisit submerged routes.",
+          "description_i18n": {
+            "en": "Collect the swimming upgrade and revisit submerged routes.",
+            "pt": "Recolha a melhoria de natação e revisite as rotas submersas."
+          }
+        },
+        {
+          "key": "solve-angler-tile-sequence",
+          "title": "Resolve the tile-sequence puzzle",
+          "title_i18n": {
+            "en": "Resolve the tile-sequence puzzle",
+            "pt": "Resolver o desafio da sequência de pisos"
+          },
+          "description": "Observe the clue pattern and repeat it in the matching puzzle room.",
+          "description_i18n": {
+            "en": "Observe the clue pattern and repeat it in the matching puzzle room.",
+            "pt": "Observe o padrão da pista e repita-o na sala correspondente."
+          }
+        },
+        {
+          "key": "claim-surf-harp",
+          "title": "Defeat Angler Fish and claim the Surf Harp",
+          "title_i18n": {
+            "en": "Defeat Angler Fish and claim the Surf Harp",
+            "pt": "Derrotar Angler Fish e obter o Surf Harp"
+          },
+          "description": "Complete the underwater boss encounter and collect the fourth instrument.",
+          "description_i18n": {
+            "en": "Complete the underwater boss encounter and collect the fourth instrument.",
+            "pt": "Vença o chefe subaquático e recolha o quarto instrumento."
+          }
+        }
+      ]
+    },
+    {
+      "key": "ghost-and-marthas-bay",
+      "title": "The wandering ghost and Martha’s Bay",
+      "title_i18n": {
+        "en": "The wandering ghost and Martha’s Bay",
+        "pt": "O fantasma errante e Martha’s Bay"
+      },
+      "items": [
+        {
+          "key": "notice-wandering-ghost",
+          "title": "Listen to the wandering ghost",
+          "title_i18n": {
+            "en": "Listen to the wandering ghost",
+            "pt": "Ouvir o fantasma errante"
+          },
+          "description": "After the water dungeon, follow the companion's request instead of heading straight to another dungeon.",
+          "description_i18n": {
+            "en": "After the water dungeon, follow the companion's request instead of heading straight to another dungeon.",
+            "pt": "Após a masmorra aquática, siga o pedido do companheiro em vez de ir direto à próxima masmorra."
+          }
+        },
+        {
+          "key": "escort-ghost-home",
+          "title": "Escort the ghost home",
+          "title_i18n": {
+            "en": "Escort the ghost home",
+            "pt": "Acompanhar o fantasma até sua casa"
+          },
+          "description": "Visit the abandoned house near the bay and let the conversation finish.",
+          "description_i18n": {
+            "en": "Visit the abandoned house near the bay and let the conversation finish.",
+            "pt": "Visite a casa abandonada perto da baía e espere o fim da conversa."
+          }
+        },
+        {
+          "key": "escort-ghost-to-grave",
+          "title": "Escort the ghost to its grave",
+          "title_i18n": {
+            "en": "Escort the ghost to its grave",
+            "pt": "Acompanhar o fantasma até sua sepultura"
+          },
+          "description": "Follow the new request toward the grave near the forest and collect the reward.",
+          "description_i18n": {
+            "en": "Follow the new request toward the grave near the forest and collect the reward.",
+            "pt": "Siga o novo pedido até a sepultura perto da floresta e recolha a recompensa."
+          },
+          "details": "The ghost must visit its house before the grave. Enter the abandoned House by the Bay near Martha's Bay and finish its memory sequence, then travel toward the isolated grave west of the witch's hut. Approach the correct grave and let the farewell complete. In the Switch remake this grants a Fairy Bottle; the old Game Boy reward description is not the complete reward for this edition. If it still follows you, recheck the house conversation before wandering through every cemetery tomb.",
+          "details_i18n": {
+            "en": "The ghost must visit its house before the grave. Enter the abandoned House by the Bay near Martha's Bay and finish its memory sequence, then travel toward the isolated grave west of the witch's hut. Approach the correct grave and let the farewell complete. In the Switch remake this grants a Fairy Bottle; the old Game Boy reward description is not the complete reward for this edition. If it still follows you, recheck the house conversation before wandering through every cemetery tomb.",
+            "pt": "O fantasma precisa visitar a casa antes da sepultura. Entre na House by the Bay perto de Martha's Bay, conclua a lembrança e siga à sepultura isolada a oeste da cabana da bruxa. Aproxime-se da sepultura correta e espere a despedida. No remake de Switch isso concede uma Fairy Bottle; a descrição da recompensa de Game Boy não representa toda a recompensa desta edição. Se ele continuar seguindo você, confira a conversa da casa antes de procurar em todas as tumbas do cemitério."
+          }
+        },
+        {
+          "key": "learn-manbos-mambo",
+          "title": "Learn Manbo's Mambo",
+          "title_i18n": {
+            "en": "Learn Manbo's Mambo",
+            "pt": "Aprender Manbo's Mambo"
+          },
+          "description": "Use swimming to visit Manbo near the waterfall and learn the travel song.",
+          "description_i18n": {
+            "en": "Use swimming to visit Manbo near the waterfall and learn the travel song.",
+            "pt": "Use a natação para visitar Manbo perto da cachoeira e aprender a canção de viagem."
+          }
+        },
+        {
+          "key": "explore-marthas-bay",
+          "title": "Explore Martha's Bay",
+          "title_i18n": {
+            "en": "Explore Martha's Bay",
+            "pt": "Explorar Martha's Bay"
+          },
+          "description": "Inspect the bay's passages and mark targets that still need a later tool.",
+          "description_i18n": {
+            "en": "Inspect the bay's passages and mark targets that still need a later tool.",
+            "pt": "Examine as passagens da baía e marque alvos que ainda exigem outra ferramenta."
+          }
+        },
+        {
+          "key": "prepare-bay-dungeon-entry",
+          "title": "Prepare the bay dungeon entry",
+          "title_i18n": {
+            "en": "Prepare the bay dungeon entry",
+            "pt": "Preparar a entrada da masmorra da baía"
+          },
+          "description": "Check swimming access and the underwater approach around the central rocks.",
+          "description_i18n": {
+            "en": "Check swimming access and the underwater approach around the central rocks.",
+            "pt": "Confira o acesso por natação e a aproximação subaquática ao redor das rochas centrais."
+          }
+        },
+        {
+          "key": "enter-catfishs-maw",
+          "title": "Enter Catfish's Maw",
+          "title_i18n": {
+            "en": "Enter Catfish's Maw",
+            "pt": "Entrar em Catfish's Maw"
+          },
+          "description": "Follow the underwater route into the fifth instrument dungeon.",
+          "description_i18n": {
+            "en": "Follow the underwater route into the fifth instrument dungeon.",
+            "pt": "Siga pela rota subaquática até a masmorra do quinto instrumento."
+          }
+        }
+      ]
+    },
+    {
+      "key": "catfishs-maw",
+      "title": "Catfish’s Maw",
+      "title_i18n": {
+        "en": "Catfish’s Maw",
+        "pt": "Catfish’s Maw"
+      },
+      "items": [
+        {
+          "key": "explore-catfish-routes",
+          "title": "Explore Catfish's Maw",
+          "title_i18n": {
+            "en": "Explore Catfish's Maw",
+            "pt": "Explorar Catfish's Maw"
+          },
+          "description": "Inspect the central passages and track the rooms connected by stairs.",
+          "description_i18n": {
+            "en": "Inspect the central passages and track the rooms connected by stairs.",
+            "pt": "Examine as passagens centrais e acompanhe as salas conectadas por escadas."
+          }
+        },
+        {
+          "key": "follow-master-stalfos-trail",
+          "title": "Follow Master Stalfos's trail",
+          "title_i18n": {
+            "en": "Follow Master Stalfos's trail",
+            "pt": "Seguir a trilha de Master Stalfos"
+          },
+          "description": "Complete the repeated encounters and investigate the clues left behind.",
+          "description_i18n": {
+            "en": "Complete the repeated encounters and investigate the clues left behind.",
+            "pt": "Conclua os confrontos repetidos e investigue as pistas deixadas."
+          },
+          "details": "Jump or maneuver behind Master Stalfos to strike past the shield. When he collapses into a pile of bones, place a Bomb beside the pile before he rebuilds. Sword hits alone only repeat the collapse. He retreats through four marked encounter rooms, and the Hookshot is awarded after the intended final encounter. Read the note in the empty treasure chest and continue the trail rather than assuming the dungeon item vanished. Carry enough bombs to resolve every stage of the pursuit.",
+          "details_i18n": {
+            "en": "Jump or maneuver behind Master Stalfos to strike past the shield. When he collapses into a pile of bones, place a Bomb beside the pile before he rebuilds. Sword hits alone only repeat the collapse. He retreats through four marked encounter rooms, and the Hookshot is awarded after the intended final encounter. Read the note in the empty treasure chest and continue the trail rather than assuming the dungeon item vanished. Carry enough bombs to resolve every stage of the pursuit.",
+            "pt": "Salte ou contorne Master Stalfos para atacar além do escudo. Quando ele virar um monte de ossos, coloque uma Bomb ao lado antes que se recomponha. Golpes de espada sozinhos apenas repetem a queda. Ele recua por quatro salas marcadas, e o Hookshot vem após o último confronto da sequência. Leia o bilhete no baú vazio e continue a perseguição em vez de presumir que o item desapareceu. Leve bombas suficientes para resolver todas as etapas."
+          }
+        },
+        {
+          "key": "obtain-hookshot",
+          "title": "Obtain the Hookshot",
+          "title_i18n": {
+            "en": "Obtain the Hookshot",
+            "pt": "Obter o Hookshot"
+          },
+          "description": "Finish the mini-boss sequence and claim the extended traversal tool.",
+          "description_i18n": {
+            "en": "Finish the mini-boss sequence and claim the extended traversal tool.",
+            "pt": "Conclua a sequência do minichefe e obtenha a ferramenta de travessia ampliada."
+          }
+        },
+        {
+          "key": "revisit-hookshot-gaps",
+          "title": "Revisit the long gaps",
+          "title_i18n": {
+            "en": "Revisit the long gaps",
+            "pt": "Revisitar os vãos longos"
+          },
+          "description": "Use the new tool on reachable anchors and inspect passages previously separated by water.",
+          "description_i18n": {
+            "en": "Use the new tool on reachable anchors and inspect passages previously separated by water.",
+            "pt": "Use a nova ferramenta em apoios alcançáveis e examine passagens antes separadas pela água."
+          }
+        },
+        {
+          "key": "recover-catfish-nightmare-key",
+          "title": "Recover the Nightmare Key",
+          "title_i18n": {
+            "en": "Recover the Nightmare Key",
+            "pt": "Recuperar a Nightmare Key"
+          },
+          "description": "Complete the remaining switches and underwater branches before the boss door.",
+          "description_i18n": {
+            "en": "Complete the remaining switches and underwater branches before the boss door.",
+            "pt": "Resolva os interruptores e as alas subaquáticas restantes antes da porta do chefe."
+          }
+        },
+        {
+          "key": "claim-wind-marimba",
+          "title": "Defeat Slime Eel and claim the Wind Marimba",
+          "title_i18n": {
+            "en": "Defeat Slime Eel and claim the Wind Marimba",
+            "pt": "Derrotar Slime Eel e obter o Wind Marimba"
+          },
+          "description": "Read the boss's openings and collect the fifth instrument.",
+          "description_i18n": {
+            "en": "Read the boss's openings and collect the fifth instrument.",
+            "pt": "Observe as aberturas do chefe e recolha o quinto instrumento."
+          }
+        }
+      ]
+    },
+    {
+      "key": "southern-face-shrine",
+      "title": "The Southern Face Shrine",
+      "title_i18n": {
+        "en": "The Southern Face Shrine",
+        "pt": "Southern Face Shrine"
+      },
+      "items": [
+        {
+          "key": "reach-ancient-ruins",
+          "title": "Reach the ancient ruins",
+          "title_i18n": {
+            "en": "Reach the ancient ruins",
+            "pt": "Alcançar as ruínas antigas"
+          },
+          "description": "Explore the route northeast of the bay and inspect the statue-filled approach.",
+          "description_i18n": {
+            "en": "Explore the route northeast of the bay and inspect the statue-filled approach.",
+            "pt": "Explore a rota a nordeste da baía e examine o acesso repleto de estátuas."
+          }
+        },
+        {
+          "key": "navigate-armos-statues",
+          "title": "Navigate the Armos statues",
+          "title_i18n": {
+            "en": "Navigate the Armos statues",
+            "pt": "Passar pelas estátuas Armos"
+          },
+          "description": "Observe which statues move and use the gaps they uncover.",
+          "description_i18n": {
+            "en": "Observe which statues move and use the gaps they uncover.",
+            "pt": "Observe quais estátuas se movem e use as passagens reveladas."
+          }
+        },
+        {
+          "key": "defeat-armos-knight",
+          "title": "Defeat the Armos Knight",
+          "title_i18n": {
+            "en": "Defeat the Armos Knight",
+            "pt": "Derrotar o Armos Knight"
+          },
+          "description": "Read the armored opponent's openings and collect the key reward.",
+          "description_i18n": {
+            "en": "Read the armored opponent's openings and collect the key reward.",
+            "pt": "Observe as aberturas do adversário protegido e recolha a chave."
+          }
+        },
+        {
+          "key": "read-southern-shrine-mural",
+          "title": "Read the shrine's mural",
+          "title_i18n": {
+            "en": "Read the shrine's mural",
+            "pt": "Ler o mural do santuário"
+          },
+          "description": "Inspect the chamber beyond the fight and follow the owl's new guidance.",
+          "description_i18n": {
+            "en": "Inspect the chamber beyond the fight and follow the owl's new guidance.",
+            "pt": "Examine a câmara após a luta e siga a nova orientação da coruja."
+          }
+        },
+        {
+          "key": "open-face-shrine",
+          "title": "Open the Face Shrine",
+          "title_i18n": {
+            "en": "Open the Face Shrine",
+            "pt": "Abrir a Face Shrine"
+          },
+          "description": "Take the Face Key to the northern dungeon approach and use the available transport route.",
+          "description_i18n": {
+            "en": "Take the Face Key to the northern dungeon approach and use the available transport route.",
+            "pt": "Leve a Face Key ao acesso da masmorra ao norte e use a rota disponível."
+          }
+        }
+      ]
+    },
+    {
+      "key": "face-shrine",
+      "title": "Face Shrine",
+      "title_i18n": {
+        "en": "Face Shrine",
+        "pt": "Face Shrine"
+      },
+      "items": [
+        {
+          "key": "enter-face-shrine",
+          "title": "Enter Face Shrine",
+          "title_i18n": {
+            "en": "Enter Face Shrine",
+            "pt": "Entrar na Face Shrine"
+          },
+          "description": "Inspect the crystal barriers and the first branching rooms.",
+          "description_i18n": {
+            "en": "Inspect the crystal barriers and the first branching rooms.",
+            "pt": "Examine as barreiras de cristal e as primeiras salas laterais."
+          }
+        },
+        {
+          "key": "resolve-face-enemy-rooms",
+          "title": "Resolve the enemy and switch rooms",
+          "title_i18n": {
+            "en": "Resolve the enemy and switch rooms",
+            "pt": "Resolver as salas de inimigos e interruptores"
+          },
+          "description": "Use the room clues and check how lifted objects interact with the layout.",
+          "description_i18n": {
+            "en": "Use the room clues and check how lifted objects interact with the layout.",
+            "pt": "Use as pistas e observe como objetos levantados interagem com o cenário."
+          }
+        },
+        {
+          "key": "obtain-powerful-bracelet",
+          "title": "Obtain the stronger Power Bracelet",
+          "title_i18n": {
+            "en": "Obtain the stronger Power Bracelet",
+            "pt": "Obter o Power Bracelet mais forte"
+          },
+          "description": "Complete the special encounter and claim the upgrade for heavier obstacles.",
+          "description_i18n": {
+            "en": "Complete the special encounter and claim the upgrade for heavier obstacles.",
+            "pt": "Vença o confronto especial e obtenha a melhoria para obstáculos mais pesados."
+          }
+        },
+        {
+          "key": "use-elephant-statue-routes",
+          "title": "Open the heavy-statue routes",
+          "title_i18n": {
+            "en": "Open the heavy-statue routes",
+            "pt": "Abrir as rotas das estátuas pesadas"
+          },
+          "description": "Revisit large obstacles and inspect what is hidden beneath or beyond them.",
+          "description_i18n": {
+            "en": "Revisit large obstacles and inspect what is hidden beneath or beyond them.",
+            "pt": "Revisite os grandes obstáculos e examine o que escondem embaixo ou além deles."
+          }
+        },
+        {
+          "key": "solve-face-chess-knights",
+          "title": "Resolve the chess-knight puzzles",
+          "title_i18n": {
+            "en": "Resolve the chess-knight puzzles",
+            "pt": "Resolver os desafios dos cavalos de xadrez"
+          },
+          "description": "Observe how each thrown piece lands and plan its path to the marked tile.",
+          "description_i18n": {
+            "en": "Observe how each thrown piece lands and plan its path to the marked tile.",
+            "pt": "Observe a aterrissagem de cada peça e planeje seu caminho até o piso marcado."
+          },
+          "details": "In the Switch version, the knight pieces must finish their throw on the marked floor tiles, not merely stand upright somewhere in the room. Test one throw from a clear tile and observe the extra knight-shaped bounce after the initial landing. Adjust Link's starting position so that final bounce reaches the target; the piece's orientation matters as well. Leave a correctly placed piece alone while solving the other one. This differs from simply tossing both pieces until they happen to stand upright in older-version instructions.",
+          "details_i18n": {
+            "en": "In the Switch version, the knight pieces must finish their throw on the marked floor tiles, not merely stand upright somewhere in the room. Test one throw from a clear tile and observe the extra knight-shaped bounce after the initial landing. Adjust Link's starting position so that final bounce reaches the target; the piece's orientation matters as well. Leave a correctly placed piece alone while solving the other one. This differs from simply tossing both pieces until they happen to stand upright in older-version instructions.",
+            "pt": "No Switch, os cavalos precisam terminar o arremesso nos pisos marcados, não apenas ficar em pé em qualquer lugar. Teste um lançamento de um piso livre e observe o salto adicional em formato de cavalo de xadrez após a aterrissagem inicial. Ajuste a posição de Link para esse salto final alcançar o alvo; a orientação da peça também importa. Preserve a peça colocada corretamente enquanto resolve a outra. Isso difere das instruções antigas de apenas arremessar as duas até ficarem em pé."
+          }
+        },
+        {
+          "key": "collect-face-nightmare-key",
+          "title": "Collect the Face Shrine Nightmare Key",
+          "title_i18n": {
+            "en": "Collect the Face Shrine Nightmare Key",
+            "pt": "Obter a Nightmare Key da Face Shrine"
+          },
+          "description": "Finish the remaining upper rooms before returning to the boss route.",
+          "description_i18n": {
+            "en": "Finish the remaining upper rooms before returning to the boss route.",
+            "pt": "Conclua as salas superiores restantes antes de voltar à rota do chefe."
+          }
+        },
+        {
+          "key": "claim-coral-triangle",
+          "title": "Defeat Facade and claim the Coral Triangle",
+          "title_i18n": {
+            "en": "Defeat Facade and claim the Coral Triangle",
+            "pt": "Derrotar Facade e obter o Coral Triangle"
+          },
+          "description": "Avoid the arena hazards, exploit the opening and collect the sixth instrument.",
+          "description_i18n": {
+            "en": "Avoid the arena hazards, exploit the opening and collect the sixth instrument.",
+            "pt": "Evite os perigos da arena, aproveite a abertura e recolha o sexto instrumento."
+          },
+          "details": "Clear loose pots and tiles when they threaten your movement, then avoid the floor holes that appear around the room. Facade's face on the floor is the bomb target: place a Bomb near it and move away before the blast. Repeated sword swings do not replace the explosive damage. Keep enough open space for a safe escape when new holes appear, and avoid trying to cross a disappearing tile just to place another bomb faster.",
+          "details_i18n": {
+            "en": "Clear loose pots and tiles when they threaten your movement, then avoid the floor holes that appear around the room. Facade's face on the floor is the bomb target: place a Bomb near it and move away before the blast. Repeated sword swings do not replace the explosive damage. Keep enough open space for a safe escape when new holes appear, and avoid trying to cross a disappearing tile just to place another bomb faster.",
+            "pt": "Remova vasos e pisos soltos quando ameaçarem sua movimentação e evite os buracos que surgem na sala. O rosto de Facade no chão é o alvo das bombas: coloque uma Bomb perto dele e afaste-se antes da explosão. Golpes repetidos de espada não substituem o dano explosivo. Preserve espaço para escapar quando novos buracos aparecerem e evite atravessar um piso que desaparece apenas para colocar outra bomba mais rápido."
+          }
+        }
+      ]
+    },
+    {
+      "key": "rooster-and-bird-key",
+      "title": "The rooster and Bird Key",
+      "title_i18n": {
+        "en": "The rooster and Bird Key",
+        "pt": "O galo e a Bird Key"
+      },
+      "items": [
+        {
+          "key": "visit-signpost-maze",
+          "title": "Visit the Signpost Maze",
+          "title_i18n": {
+            "en": "Visit the Signpost Maze",
+            "pt": "Visitar o Signpost Maze"
+          },
+          "description": "Use your expanded movement tools to reach the sign puzzle south of the prairie.",
+          "description_i18n": {
+            "en": "Use your expanded movement tools to reach the sign puzzle south of the prairie.",
+            "pt": "Use as ferramentas ampliadas para chegar ao desafio das placas ao sul da pradaria."
+          }
+        },
+        {
+          "key": "learn-frogs-song-soul",
+          "title": "Learn the Frog's Song of Soul",
+          "title_i18n": {
+            "en": "Learn the Frog's Song of Soul",
+            "pt": "Aprender a Frog's Song of Soul"
+          },
+          "description": "Complete the sign sequence and bring enough rupees for the musical lesson.",
+          "description_i18n": {
+            "en": "Complete the sign sequence and bring enough rupees for the musical lesson.",
+            "pt": "Conclua a sequência das placas e leve rupias suficientes para a lição musical."
+          }
+        },
+        {
+          "key": "open-rooster-resting-place",
+          "title": "Open the rooster's resting place",
+          "title_i18n": {
+            "en": "Open the rooster's resting place",
+            "pt": "Abrir o local de descanso do galo"
+          },
+          "description": "Return to Mabe and inspect the village monument with the stronger bracelet.",
+          "description_i18n": {
+            "en": "Return to Mabe and inspect the village monument with the stronger bracelet.",
+            "pt": "Volte a Mabe e examine o monumento da vila com o bracelete mais forte."
+          }
+        },
+        {
+          "key": "revive-flying-rooster",
+          "title": "Revive the Flying Rooster",
+          "title_i18n": {
+            "en": "Revive the Flying Rooster",
+            "pt": "Reviver o Flying Rooster"
+          },
+          "description": "Use the new song at the resting place and test the companion's movement ability.",
+          "description_i18n": {
+            "en": "Use the new song at the resting place and test the companion's movement ability.",
+            "pt": "Use a nova canção no local e teste a habilidade de movimento do companheiro."
+          },
+          "details": "Complete the Signpost Maze by following each sign from the place where you read it, then pay Mamu for the Frog's Song of Soul. With the stronger bracelet from Face Shrine, push the village weathercock monument to reveal the rooster's resting place. Play the new song beside the remains. Carry the revived rooster to float across long pits, especially the mountain cave leading to the Bird Key. A normal Roc's Feather jump does not cover that cave's large gap.",
+          "details_i18n": {
+            "en": "Complete the Signpost Maze by following each sign from the place where you read it, then pay Mamu for the Frog's Song of Soul. With the stronger bracelet from Face Shrine, push the village weathercock monument to reveal the rooster's resting place. Play the new song beside the remains. Carry the revived rooster to float across long pits, especially the mountain cave leading to the Bird Key. A normal Roc's Feather jump does not cover that cave's large gap.",
+            "pt": "Conclua o Signpost Maze seguindo cada placa a partir do local onde a leu e pague Mamu pela Frog's Song of Soul. Com o bracelete mais forte da Face Shrine, empurre o monumento do cata-vento da vila para revelar o descanso do galo. Toque a nova canção junto aos restos. Carregue o galo revivido para flutuar sobre grandes abismos, especialmente na caverna da Bird Key. Um salto comum com Roc's Feather não cobre o grande vão dessa caverna."
+          }
+        },
+        {
+          "key": "climb-eastern-tal-tal",
+          "title": "Climb the eastern Tal Tal Mountains",
+          "title_i18n": {
+            "en": "Climb the eastern Tal Tal Mountains",
+            "pt": "Subir as montanhas Tal Tal orientais"
+          },
+          "description": "Follow the high mountain route and inspect caves opened by your latest tools.",
+          "description_i18n": {
+            "en": "Follow the high mountain route and inspect caves opened by your latest tools.",
+            "pt": "Siga pela rota elevada e examine as cavernas abertas pelas novas ferramentas."
+          }
+        },
+        {
+          "key": "recover-bird-key",
+          "title": "Recover the Bird Key",
+          "title_i18n": {
+            "en": "Recover the Bird Key",
+            "pt": "Recuperar a Bird Key"
+          },
+          "description": "Explore the mountain cave with the rooster and secure the dungeon key.",
+          "description_i18n": {
+            "en": "Explore the mountain cave with the rooster and secure the dungeon key.",
+            "pt": "Explore a caverna com o galo e obtenha a chave da masmorra."
+          }
+        },
+        {
+          "key": "open-eagles-tower",
+          "title": "Open Eagle's Tower",
+          "title_i18n": {
+            "en": "Open Eagle's Tower",
+            "pt": "Abrir Eagle's Tower"
+          },
+          "description": "Bring the Bird Key to the tower approach and enter the seventh dungeon.",
+          "description_i18n": {
+            "en": "Bring the Bird Key to the tower approach and enter the seventh dungeon.",
+            "pt": "Leve a Bird Key ao acesso da torre e entre na sétima masmorra."
+          }
+        }
+      ]
+    },
+    {
+      "key": "eagles-tower",
+      "title": "Eagle’s Tower",
+      "title_i18n": {
+        "en": "Eagle’s Tower",
+        "pt": "Eagle’s Tower"
+      },
+      "items": [
+        {
+          "key": "inspect-tower-floors",
+          "title": "Inspect the tower's floors",
+          "title_i18n": {
+            "en": "Inspect the tower's floors",
+            "pt": "Examinar os andares da torre"
+          },
+          "description": "Read the map carefully and track how stairs and floor holes connect the levels.",
+          "description_i18n": {
+            "en": "Read the map carefully and track how stairs and floor holes connect the levels.",
+            "pt": "Leia o mapa com atenção e acompanhe as conexões entre escadas e buracos."
+          }
+        },
+        {
+          "key": "obtain-tower-ball",
+          "title": "Obtain the tower's heavy ball",
+          "title_i18n": {
+            "en": "Obtain the tower's heavy ball",
+            "pt": "Obter a esfera pesada da torre"
+          },
+          "description": "Find the carryable object and inspect its relationship with the large support pillars.",
+          "description_i18n": {
+            "en": "Find the carryable object and inspect its relationship with the large support pillars.",
+            "pt": "Encontre o objeto carregável e examine sua relação com os grandes pilares."
+          }
+        },
+        {
+          "key": "break-four-tower-pillars",
+          "title": "Break the four support pillars",
+          "title_i18n": {
+            "en": "Break the four support pillars",
+            "pt": "Destruir os quatro pilares de sustentação"
+          },
+          "description": "Plan a route that keeps the ball accessible while reaching each support.",
+          "description_i18n": {
+            "en": "Plan a route that keeps the ball accessible while reaching each support.",
+            "pt": "Planeje uma rota que mantenha a esfera acessível ao alcançar cada pilar."
+          },
+          "details": "Use the heavy ball to strike each of the four support pillars. Before throwing it across a gap or barrier, plan how Link will reach the landing side: some routes need a chest created first so the Hookshot has an anchor. Throw the ball across, then take the alternate route yourself and retrieve it. Keep track of where you left it rather than searching every floor after a stair change. Once all four pillars fall, the upper structure drops and opens the route through the rearranged tower.",
+          "details_i18n": {
+            "en": "Use the heavy ball to strike each of the four support pillars. Before throwing it across a gap or barrier, plan how Link will reach the landing side: some routes need a chest created first so the Hookshot has an anchor. Throw the ball across, then take the alternate route yourself and retrieve it. Keep track of where you left it rather than searching every floor after a stair change. Once all four pillars fall, the upper structure drops and opens the route through the rearranged tower.",
+            "pt": "Use a esfera pesada contra os quatro pilares. Antes de jogá-la sobre um vão ou barreira, planeje como Link chegará ao outro lado: certas rotas exigem criar um baú antes para servir de apoio ao Hookshot. Arremesse a esfera, siga pela rota alternativa e recupere-a. Lembre onde a deixou em vez de procurar por todos os andares após mudar de escada. Quando os quatro pilares caírem, a estrutura superior desce e abre a passagem pela torre reorganizada."
+          }
+        },
+        {
+          "key": "obtain-mirror-shield",
+          "title": "Obtain the Mirror Shield",
+          "title_i18n": {
+            "en": "Obtain the Mirror Shield",
+            "pt": "Obter o Mirror Shield"
+          },
+          "description": "Collect the defensive upgrade and test it against the dungeon's stronger hazards.",
+          "description_i18n": {
+            "en": "Collect the defensive upgrade and test it against the dungeon's stronger hazards.",
+            "pt": "Recolha a melhoria defensiva e teste-a contra os perigos mais fortes da masmorra."
+          }
+        },
+        {
+          "key": "resolve-tower-upper-encounters",
+          "title": "Resolve the upper-floor encounters",
+          "title_i18n": {
+            "en": "Resolve the upper-floor encounters",
+            "pt": "Vencer os confrontos superiores da torre"
+          },
+          "description": "Complete the required enemy puzzles and collect the key for the rooftop route.",
+          "description_i18n": {
+            "en": "Complete the required enemy puzzles and collect the key for the rooftop route.",
+            "pt": "Conclua os desafios de inimigos e recolha a chave da rota para o telhado."
+          }
+        },
+        {
+          "key": "defeat-evil-eagle",
+          "title": "Defeat Evil Eagle",
+          "title_i18n": {
+            "en": "Defeat Evil Eagle",
+            "pt": "Derrotar Evil Eagle"
+          },
+          "description": "Control your footing on the narrow arena and react to the wind attack.",
+          "description_i18n": {
+            "en": "Control your footing on the narrow arena and react to the wind attack.",
+            "pt": "Mantenha os pés na arena estreita e reaja ao ataque de vento."
+          },
+          "details": "Stay near the middle of the platform so a gust does not immediately push Link off the edge. Face the incoming feathers with the shield raised and walk against the wind when necessary. Strike when the eagle passes within reach, using the sword or an appropriate ranged tool. Falling from the platform interrupts the attempt and can undo the progress you just made in the fight, so prioritize footing over one extra hit near the edge. Reposition before the next gust instead of chasing a retreating target.",
+          "details_i18n": {
+            "en": "Stay near the middle of the platform so a gust does not immediately push Link off the edge. Face the incoming feathers with the shield raised and walk against the wind when necessary. Strike when the eagle passes within reach, using the sword or an appropriate ranged tool. Falling from the platform interrupts the attempt and can undo the progress you just made in the fight, so prioritize footing over one extra hit near the edge. Reposition before the next gust instead of chasing a retreating target.",
+            "pt": "Fique perto do centro para uma rajada não empurrar Link imediatamente para fora. Encare as penas com o escudo levantado e caminhe contra o vento quando necessário. Ataque quando a águia passar ao alcance, usando espada ou uma ferramenta de longo alcance adequada. Cair interrompe a tentativa e pode desfazer o progresso recente na luta; priorize o apoio em vez de um golpe extra na borda. Reposicione-se antes da próxima rajada em vez de perseguir o alvo que recua."
+          }
+        },
+        {
+          "key": "claim-organ-evening-calm",
+          "title": "Claim the Organ of Evening Calm",
+          "title_i18n": {
+            "en": "Claim the Organ of Evening Calm",
+            "pt": "Obter o Organ of Evening Calm"
+          },
+          "description": "Collect the Heart Container and the seventh instrument before leaving the tower.",
+          "description_i18n": {
+            "en": "Collect the Heart Container and the seventh instrument before leaving the tower.",
+            "pt": "Recolha o Heart Container e o sétimo instrumento antes de sair da torre."
+          }
+        }
+      ]
+    },
+    {
+      "key": "western-mountains-and-turtle",
+      "title": "Western mountains and Turtle Rock",
+      "title_i18n": {
+        "en": "Western mountains and Turtle Rock",
+        "pt": "Montanhas ocidentais e Turtle Rock"
+      },
+      "items": [
+        {
+          "key": "cross-western-tal-tal",
+          "title": "Cross the western Tal Tal Mountains",
+          "title_i18n": {
+            "en": "Cross the western Tal Tal Mountains",
+            "pt": "Atravessar as montanhas Tal Tal ocidentais"
+          },
+          "description": "Return through the mountain connections and follow the route toward the final instrument dungeon.",
+          "description_i18n": {
+            "en": "Return through the mountain connections and follow the route toward the final instrument dungeon.",
+            "pt": "Volte pelas conexões da montanha e siga até a última masmorra de instrumento."
+          }
+        },
+        {
+          "key": "rescue-marin-on-bridge",
+          "title": "Rescue Marin on the bridge",
+          "title_i18n": {
+            "en": "Rescue Marin on the bridge",
+            "pt": "Resgatar Marin na ponte"
+          },
+          "description": "Inspect the broken crossing and use the suitable traversal tool to reach her.",
+          "description_i18n": {
+            "en": "Inspect the broken crossing and use the suitable traversal tool to reach her.",
+            "pt": "Examine a travessia quebrada e use a ferramenta adequada para alcançá-la."
+          }
+        },
+        {
+          "key": "pass-flame-cave",
+          "title": "Pass the flame-filled cave",
+          "title_i18n": {
+            "en": "Pass the flame-filled cave",
+            "pt": "Atravessar a caverna de fogo"
+          },
+          "description": "Check the Mirror Shield's protection and maintain the correct facing through the hazard.",
+          "description_i18n": {
+            "en": "Check the Mirror Shield's protection and maintain the correct facing through the hazard.",
+            "pt": "Confira a proteção do Mirror Shield e mantenha a direção correta durante o perigo."
+          }
+        },
+        {
+          "key": "reach-turtle-head",
+          "title": "Reach the stone turtle",
+          "title_i18n": {
+            "en": "Reach the stone turtle",
+            "pt": "Alcançar a tartaruga de pedra"
+          },
+          "description": "Inspect the unusual mountain entrance and prepare the song connected to dormant life.",
+          "description_i18n": {
+            "en": "Inspect the unusual mountain entrance and prepare the song connected to dormant life.",
+            "pt": "Examine a entrada incomum e prepare a canção ligada à vida adormecida."
+          }
+        },
+        {
+          "key": "awaken-defeat-turtle",
+          "title": "Awaken and defeat the entrance guardian",
+          "title_i18n": {
+            "en": "Awaken and defeat the entrance guardian",
+            "pt": "Despertar e vencer o guardião da entrada"
+          },
+          "description": "Use the appropriate song and read the guardian's attack pattern before entering.",
+          "description_i18n": {
+            "en": "Use the appropriate song and read the guardian's attack pattern before entering.",
+            "pt": "Use a canção adequada e observe o padrão do guardião antes de entrar."
+          }
+        },
+        {
+          "key": "enter-turtle-rock",
+          "title": "Enter Turtle Rock",
+          "title_i18n": {
+            "en": "Enter Turtle Rock",
+            "pt": "Entrar em Turtle Rock"
+          },
+          "description": "Activate the dungeon route and inspect the first lava-room mechanisms.",
+          "description_i18n": {
+            "en": "Activate the dungeon route and inspect the first lava-room mechanisms.",
+            "pt": "Entre na masmorra e examine os primeiros mecanismos das salas de lava."
+          }
+        }
+      ]
+    },
+    {
+      "key": "turtle-rock",
+      "title": "Turtle Rock",
+      "title_i18n": {
+        "en": "Turtle Rock",
+        "pt": "Turtle Rock"
+      },
+      "items": [
+        {
+          "key": "map-turtle-rock-branches",
+          "title": "Map Turtle Rock's branches",
+          "title_i18n": {
+            "en": "Map Turtle Rock's branches",
+            "pt": "Mapear as alas de Turtle Rock"
+          },
+          "description": "Track the side passages, stair connections and routes leading outside the dungeon.",
+          "description_i18n": {
+            "en": "Track the side passages, stair connections and routes leading outside the dungeon.",
+            "pt": "Acompanhe passagens laterais, escadas e rotas que levam para fora da masmorra."
+          }
+        },
+        {
+          "key": "solve-lava-platform-blocks",
+          "title": "Resolve the lava-platform blocks",
+          "title_i18n": {
+            "en": "Resolve the lava-platform blocks",
+            "pt": "Resolver os blocos de plataformas de lava"
+          },
+          "description": "Observe the controllable block's movement and cover the required gaps without trapping its route.",
+          "description_i18n": {
+            "en": "Observe the controllable block's movement and cover the required gaps without trapping its route.",
+            "pt": "Observe o bloco controlável e cubra os vãos exigidos sem bloquear sua rota."
+          }
+        },
+        {
+          "key": "clear-turtle-mini-bosses",
+          "title": "Clear the mini-boss encounters",
+          "title_i18n": {
+            "en": "Clear the mini-boss encounters",
+            "pt": "Vencer os confrontos com minichefes"
+          },
+          "description": "Use earlier dungeon tools and preserve recovery resources across the repeated encounters.",
+          "description_i18n": {
+            "en": "Use earlier dungeon tools and preserve recovery resources across the repeated encounters.",
+            "pt": "Use as ferramentas anteriores e preserve recursos de recuperação nos confrontos sucessivos."
+          }
+        },
+        {
+          "key": "obtain-magic-rod",
+          "title": "Obtain the Magic Rod",
+          "title_i18n": {
+            "en": "Obtain the Magic Rod",
+            "pt": "Obter o Magic Rod"
+          },
+          "description": "Complete the boxing mini-boss encounter and claim the dungeon's fire tool.",
+          "description_i18n": {
+            "en": "Complete the boxing mini-boss encounter and claim the dungeon's fire tool.",
+            "pt": "Vença o confronto com o minichefe boxeador e obtenha a ferramenta de fogo."
+          }
+        },
+        {
+          "key": "solve-turtle-ice-passages",
+          "title": "Resolve the ice passages",
+          "title_i18n": {
+            "en": "Resolve the ice passages",
+            "pt": "Resolver as passagens de gelo"
+          },
+          "description": "Use the new tool carefully so necessary footholds remain available.",
+          "description_i18n": {
+            "en": "Use the new tool carefully so necessary footholds remain available.",
+            "pt": "Use a nova ferramenta com cuidado para preservar os apoios necessários."
+          },
+          "details": "The controllable floor-making blocks keep moving until their route is blocked, so plan a path that fills every required gap without cutting off a remaining pocket. Reset the room if the route becomes unusable. After obtaining the Magic Rod, melt only the ice blocks that block the intended jump or ladder route. Some side-view puzzles need a lower block preserved as a step; destroying every block can remove your foothold. Leave and re-enter to restore a failed ice layout, then take a more selective firing angle.",
+          "details_i18n": {
+            "en": "The controllable floor-making blocks keep moving until their route is blocked, so plan a path that fills every required gap without cutting off a remaining pocket. Reset the room if the route becomes unusable. After obtaining the Magic Rod, melt only the ice blocks that block the intended jump or ladder route. Some side-view puzzles need a lower block preserved as a step; destroying every block can remove your foothold. Leave and re-enter to restore a failed ice layout, then take a more selective firing angle.",
+            "pt": "Os blocos que criam piso continuam avançando até a rota ser bloqueada; planeje um trajeto que preencha todos os vãos exigidos sem isolar uma parte restante. Reinicie a sala se a rota ficar inviável. Após obter o Magic Rod, derreta apenas o gelo que bloqueia o salto ou a escada pretendida. Alguns desafios laterais precisam preservar um bloco inferior como degrau; destruir tudo pode eliminar o apoio. Saia e entre para restaurar o gelo e use um ângulo de tiro mais seletivo."
+          }
+        },
+        {
+          "key": "reach-hot-head",
+          "title": "Reach Hot Head",
+          "title_i18n": {
+            "en": "Reach Hot Head",
+            "pt": "Alcançar Hot Head"
+          },
+          "description": "Collect the Nightmare Key and finish the remaining route to the final arena.",
+          "description_i18n": {
+            "en": "Collect the Nightmare Key and finish the remaining route to the final arena.",
+            "pt": "Recolha a Nightmare Key e conclua a rota até a arena final."
+          }
+        },
+        {
+          "key": "claim-thunder-drum",
+          "title": "Defeat Hot Head and claim the Thunder Drum",
+          "title_i18n": {
+            "en": "Defeat Hot Head and claim the Thunder Drum",
+            "pt": "Derrotar Hot Head e obter o Thunder Drum"
+          },
+          "description": "Use the dungeon tool during the boss encounter and collect the eighth instrument.",
+          "description_i18n": {
+            "en": "Use the dungeon tool during the boss encounter and collect the eighth instrument.",
+            "pt": "Use a ferramenta da masmorra no confronto e recolha o oitavo instrumento."
+          }
+        }
+      ]
+    },
+    {
+      "key": "complete-koholint-trading",
+      "title": "Complete the Koholint trading chain",
+      "title_i18n": {
+        "en": "Complete the Koholint trading chain",
+        "pt": "Concluir as trocas de Koholint"
+      },
+      "items": [
+        {
+          "key": "trade-stick-for-honeycomb",
+          "title": "Trade the Stick for Honeycomb",
+          "title_i18n": {
+            "en": "Trade the Stick for Honeycomb",
+            "pt": "Trocar o Stick por Honeycomb"
+          },
+          "description": "Find Tarin near the prairie tree and follow the exchange to its end.",
+          "description_i18n": {
+            "en": "Find Tarin near the prairie tree and follow the exchange to its end.",
+            "pt": "Encontre Tarin perto da árvore na pradaria e acompanhe a troca até o final."
+          }
+        },
+        {
+          "key": "trade-honeycomb-pineapple",
+          "title": "Trade Honeycomb for a Pineapple",
+          "title_i18n": {
+            "en": "Trade Honeycomb for a Pineapple",
+            "pt": "Trocar Honeycomb por Pineapple"
+          },
+          "description": "Visit the Animal Village chef and continue the food exchange.",
+          "description_i18n": {
+            "en": "Visit the Animal Village chef and continue the food exchange.",
+            "pt": "Visite o chef de Animal Village e continue a troca de alimentos."
+          }
+        },
+        {
+          "key": "trade-pineapple-hibiscus",
+          "title": "Help Papahl in the mountains",
+          "title_i18n": {
+            "en": "Help Papahl in the mountains",
+            "pt": "Ajudar Papahl nas montanhas"
+          },
+          "description": "Bring the food to the stranded traveler and collect the next trade item.",
+          "description_i18n": {
+            "en": "Bring the food to the stranded traveler and collect the next trade item.",
+            "pt": "Leve a comida ao viajante isolado e recolha o próximo item."
+          }
+        },
+        {
+          "key": "trade-hibiscus-letter",
+          "title": "Trade the Hibiscus for a Letter",
+          "title_i18n": {
+            "en": "Trade the Hibiscus for a Letter",
+            "pt": "Trocar Hibiscus por Letter"
+          },
+          "description": "Visit Christine in Animal Village and accept the delivery request.",
+          "description_i18n": {
+            "en": "Visit Christine in Animal Village and accept the delivery request.",
+            "pt": "Visite Christine em Animal Village e aceite o pedido de entrega."
+          }
+        },
+        {
+          "key": "deliver-letter-get-broom",
+          "title": "Deliver the Letter to Mr. Write",
+          "title_i18n": {
+            "en": "Deliver the Letter to Mr. Write",
+            "pt": "Entregar a Letter a Mr. Write"
+          },
+          "description": "Find the recipient near the forest and collect the Broom in return.",
+          "description_i18n": {
+            "en": "Find the recipient near the forest and collect the Broom in return.",
+            "pt": "Encontre o destinatário perto da floresta e receba a Broom."
+          }
+        },
+        {
+          "key": "trade-broom-fishing-hook",
+          "title": "Trade the Broom for a Fishing Hook",
+          "title_i18n": {
+            "en": "Trade the Broom for a Fishing Hook",
+            "pt": "Trocar Broom por Fishing Hook"
+          },
+          "description": "Locate Grandma Yahoo and finish the cleaning-tool exchange.",
+          "description_i18n": {
+            "en": "Locate Grandma Yahoo and finish the cleaning-tool exchange.",
+            "pt": "Localize Grandma Yahoo e conclua a troca da ferramenta de limpeza."
+          }
+        },
+        {
+          "key": "recover-necklace-mermaid-scale",
+          "title": "Recover the Necklace and Mermaid's Scale",
+          "title_i18n": {
+            "en": "Recover the Necklace and Mermaid's Scale",
+            "pt": "Recuperar Necklace e Mermaid's Scale"
+          },
+          "description": "Help the fisherman beneath the bay bridge, then return the recovered item to its owner.",
+          "description_i18n": {
+            "en": "Help the fisherman beneath the bay bridge, then return the recovered item to its owner.",
+            "pt": "Ajude o pescador sob a ponte da baía e devolva o item recuperado à dona."
+          }
+        },
+        {
+          "key": "claim-magnifying-lens",
+          "title": "Claim the Magnifying Lens",
+          "title_i18n": {
+            "en": "Claim the Magnifying Lens",
+            "pt": "Obter a Magnifying Lens"
+          },
+          "description": "Inspect the mermaid statue with the trade reward and retrieve the hidden tool.",
+          "description_i18n": {
+            "en": "Inspect the mermaid statue with the trade reward and retrieve the hidden tool.",
+            "pt": "Examine a estátua da sereia com a recompensa da troca e obtenha a ferramenta escondida."
+          }
+        }
+      ]
+    },
+    {
+      "key": "wind-fish-egg-and-finale",
+      "title": "The Wind Fish’s Egg and finale",
+      "title_i18n": {
+        "en": "The Wind Fish’s Egg and finale",
+        "pt": "Ovo do Wind Fish e final"
+      },
+      "items": [
+        {
+          "key": "read-egg-maze-book",
+          "title": "Read the library's maze book",
+          "title_i18n": {
+            "en": "Read the library's maze book",
+            "pt": "Ler o livro do labirinto na biblioteca"
+          },
+          "description": "Use the Magnifying Lens to read the special book and record the directions from your own file.",
+          "description_i18n": {
+            "en": "Use the Magnifying Lens to read the special book and record the directions from your own file.",
+            "pt": "Use a Magnifying Lens para ler o livro especial e anote as direções do seu próprio arquivo."
+          },
+          "details": "Finish the trading chain to obtain the Magnifying Lens, then inspect the dark book at the lower-right of Mabe's library. Copy its arrow sequence exactly. In the Switch remake the maze directions are randomized, so another player's fixed route is unreliable. After opening the Egg and dropping into its interior, enter the maze and follow the directions one room at a time until the final pit appears. If you return to the entrance, compare the next attempt with your own written sequence rather than guessing an internet pattern.",
+          "details_i18n": {
+            "en": "Finish the trading chain to obtain the Magnifying Lens, then inspect the dark book at the lower-right of Mabe's library. Copy its arrow sequence exactly. In the Switch remake the maze directions are randomized, so another player's fixed route is unreliable. After opening the Egg and dropping into its interior, enter the maze and follow the directions one room at a time until the final pit appears. If you return to the entrance, compare the next attempt with your own written sequence rather than guessing an internet pattern.",
+            "pt": "Conclua as trocas para obter a Magnifying Lens e examine o livro escuro no canto inferior direito da biblioteca de Mabe. Copie exatamente a sequência de setas. No remake de Switch, as direções são aleatórias; a rota fixa de outra pessoa não é confiável. Depois de abrir o ovo e descer ao interior, entre no labirinto e siga uma direção por sala até surgir o buraco final. Se voltar à entrada, compare a nova tentativa à sequência anotada em vez de adivinhar um padrão da internet."
+          }
+        },
+        {
+          "key": "prepare-final-supplies",
+          "title": "Prepare final supplies",
+          "title_i18n": {
+            "en": "Prepare final supplies",
+            "pt": "Preparar os recursos finais"
+          },
+          "description": "Check Magic Powder, arrows and recovery resources before the final ascent.",
+          "description_i18n": {
+            "en": "Check Magic Powder, arrows and recovery resources before the final ascent.",
+            "pt": "Confira Magic Powder, flechas e recursos de recuperação antes da subida final."
+          },
+          "details": "Fairy Bottles and Secret Medicine serve different purposes in this remake. Fill the three optional bottles with fairies and release a bottled fairy manually when you need healing; do not rely on it to revive Link automatically after defeat. Secret Medicine is a separate emergency recovery item. Bring Magic Powder for the opening Nightmare form and a Bow with arrows or the optional Boomerang for the final eye. Restock before entering the Egg so a missing consumable does not force a full retreat during the multi-form encounter.",
+          "details_i18n": {
+            "en": "Fairy Bottles and Secret Medicine serve different purposes in this remake. Fill the three optional bottles with fairies and release a bottled fairy manually when you need healing; do not rely on it to revive Link automatically after defeat. Secret Medicine is a separate emergency recovery item. Bring Magic Powder for the opening Nightmare form and a Bow with arrows or the optional Boomerang for the final eye. Restock before entering the Egg so a missing consumable does not force a full retreat during the multi-form encounter.",
+            "pt": "Fairy Bottles e Secret Medicine têm funções diferentes neste remake. Encha as três garrafas opcionais com fadas e libere uma manualmente quando precisar de cura; não espere que ela reviva Link automaticamente após a derrota. Secret Medicine é um recurso de recuperação emergencial separado. Leve Magic Powder para a primeira forma do Nightmare e Bow com flechas ou o Boomerang opcional para o olho final. Reabasteça antes de entrar no ovo para evitar recuar durante o confronto por falta de consumíveis."
+          }
+        },
+        {
+          "key": "return-wind-fish-egg",
+          "title": "Return to the Wind Fish's Egg",
+          "title_i18n": {
+            "en": "Return to the Wind Fish's Egg",
+            "pt": "Voltar ao ovo do Wind Fish"
+          },
+          "description": "Climb the mountain route with all eight instruments and the learned Ballad.",
+          "description_i18n": {
+            "en": "Climb the mountain route with all eight instruments and the learned Ballad.",
+            "pt": "Suba pela montanha com os oito instrumentos e a balada aprendida."
+          }
+        },
+        {
+          "key": "open-wind-fish-egg",
+          "title": "Open the Egg",
+          "title_i18n": {
+            "en": "Open the Egg",
+            "pt": "Abrir o ovo"
+          },
+          "description": "Play the Ballad of the Wind Fish at the entrance and follow the opening sequence.",
+          "description_i18n": {
+            "en": "Play the Ballad of the Wind Fish at the entrance and follow the opening sequence.",
+            "pt": "Toque a Ballad of the Wind Fish na entrada e acompanhe a abertura."
+          }
+        },
+        {
+          "key": "navigate-personal-maze-route",
+          "title": "Navigate your file's maze route",
+          "title_i18n": {
+            "en": "Navigate your file's maze route",
+            "pt": "Seguir a rota do labirinto do seu arquivo"
+          },
+          "description": "Follow the book's recorded directions rather than a fixed route from another playthrough.",
+          "description_i18n": {
+            "en": "Follow the book's recorded directions rather than a fixed route from another playthrough.",
+            "pt": "Siga as direções anotadas no livro em vez de uma rota fixa de outra partida."
+          }
+        },
+        {
+          "key": "defeat-nightmare-early-forms",
+          "title": "Defeat the Nightmare's early forms",
+          "title_i18n": {
+            "en": "Defeat the Nightmare's early forms",
+            "pt": "Vencer as primeiras formas do Nightmare"
+          },
+          "description": "Match your tools to each changing form and preserve resources for the complete encounter.",
+          "description_i18n": {
+            "en": "Match your tools to each changing form and preserve resources for the complete encounter.",
+            "pt": "Use ferramentas adequadas a cada forma e preserve recursos para o confronto completo."
+          },
+          "details": "Use Magic Powder on the first blob form. Against the spellcasting form, return the solid energy projectile with the sword while avoiding the attack that breaks apart. Strike the Moldorm form's tail, then use charged sword attacks or Pegasus dashes against the Ganon-like form when the weapon pattern leaves an opening. The charging worm form can be hit with the Magic Rod. For the final eye, jump the rotating arms with Roc's Feather and fire arrows or the optional Boomerang only when the eye opens; the Switch version does not grant the old one-hit Boomerang finish.",
+          "details_i18n": {
+            "en": "Use Magic Powder on the first blob form. Against the spellcasting form, return the solid energy projectile with the sword while avoiding the attack that breaks apart. Strike the Moldorm form's tail, then use charged sword attacks or Pegasus dashes against the Ganon-like form when the weapon pattern leaves an opening. The charging worm form can be hit with the Magic Rod. For the final eye, jump the rotating arms with Roc's Feather and fire arrows or the optional Boomerang only when the eye opens; the Switch version does not grant the old one-hit Boomerang finish.",
+            "pt": "Use Magic Powder na primeira forma de gosma. Contra a forma de feiticeiro, devolva o projétil sólido com a espada e evite o ataque que se fragmenta. Acerte a cauda da forma Moldorm e use golpes carregados ou corridas Pegasus na forma semelhante a Ganon quando surgir abertura. A forma de verme pode ser atingida com Magic Rod. No olho final, salte os braços com Roc's Feather e use flechas ou o Boomerang opcional quando o olho abrir; o Switch não mantém a finalização antiga com um único Boomerang."
+          }
+        },
+        {
+          "key": "defeat-nightmare-final-form",
+          "title": "Defeat the Nightmare's final form",
+          "title_i18n": {
+            "en": "Defeat the Nightmare's final form",
+            "pt": "Vencer a forma final do Nightmare"
+          },
+          "description": "Read the final target's openings while avoiding its rotating attacks.",
+          "description_i18n": {
+            "en": "Read the final target's openings while avoiding its rotating attacks.",
+            "pt": "Observe as aberturas do alvo final enquanto evita os ataques giratórios."
+          }
+        },
+        {
+          "key": "finish-wind-fish-ending",
+          "title": "Finish the Wind Fish ending",
+          "title_i18n": {
+            "en": "Finish the Wind Fish ending",
+            "pt": "Concluir o encerramento do Wind Fish"
+          },
+          "description": "Follow the final conversation and watch the ending and credits.",
+          "description_i18n": {
+            "en": "Follow the final conversation and watch the ending and credits.",
+            "pt": "Acompanhe a conversa final, o encerramento e os créditos."
+          }
+        }
+      ]
+    },
+    {
+      "key": "optional-color-dungeon",
+      "title": "Optional: Color Dungeon",
+      "title_i18n": {
+        "en": "Optional: Color Dungeon",
+        "pt": "Opcional: Color Dungeon"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "find-color-dungeon-clue",
+          "title": "Find the Color Dungeon clue",
+          "title_i18n": {
+            "en": "Find the Color Dungeon clue",
+            "pt": "Encontrar a pista da Color Dungeon"
+          },
+          "description": "Revisit Mabe's library with the Pegasus Boots and investigate the book above the shelf.",
+          "description_i18n": {
+            "en": "Revisit Mabe's library with the Pegasus Boots and investigate the book above the shelf.",
+            "pt": "Revisite a biblioteca de Mabe com as Pegasus Boots e investigue o livro sobre a estante."
+          }
+        },
+        {
+          "key": "enter-color-dungeon",
+          "title": "Enter the Color Dungeon",
+          "title_i18n": {
+            "en": "Enter the Color Dungeon",
+            "pt": "Entrar na Color Dungeon"
+          },
+          "description": "Use the graveyard clue and explore the optional dungeon's color-based mechanisms.",
+          "description_i18n": {
+            "en": "Use the graveyard clue and explore the optional dungeon's color-based mechanisms.",
+            "pt": "Use a pista do cemitério e explore os mecanismos de cores da masmorra opcional."
+          }
+        },
+        {
+          "key": "claim-color-tunic-reward",
+          "title": "Claim the Color Dungeon tunic reward",
+          "title_i18n": {
+            "en": "Claim the Color Dungeon tunic reward",
+            "pt": "Obter a túnica da Color Dungeon"
+          },
+          "description": "Finish the boss encounter and choose the optional combat benefit you prefer.",
+          "description_i18n": {
+            "en": "Finish the boss encounter and choose the optional combat benefit you prefer.",
+            "pt": "Vença o chefe e escolha a vantagem de combate opcional que preferir."
+          }
+        }
+      ]
+    },
+    {
+      "key": "optional-dampe-chambers",
+      "title": "Optional: Dampé’s Chamber Dungeons",
+      "title_i18n": {
+        "en": "Optional: Dampé’s Chamber Dungeons",
+        "pt": "Opcional: Chamber Dungeons de Dampé"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "meet-dampe-shack",
+          "title": "Meet Dampé at his shack",
+          "title_i18n": {
+            "en": "Meet Dampé at his shack",
+            "pt": "Encontrar Dampé em sua cabana"
+          },
+          "description": "Visit the shack near the graveyard and learn how completed dungeons provide chambers.",
+          "description_i18n": {
+            "en": "Visit the shack near the graveyard and learn how completed dungeons provide chambers.",
+            "pt": "Visite a cabana perto do cemitério e aprenda como as masmorras concluídas fornecem salas."
+          }
+        },
+        {
+          "key": "complete-first-chamber-challenges",
+          "title": "Complete introductory chamber challenges",
+          "title_i18n": {
+            "en": "Complete introductory chamber challenges",
+            "pt": "Concluir os desafios iniciais de salas"
+          },
+          "description": "Arrange valid routes, test the result and claim rewards for completed challenges.",
+          "description_i18n": {
+            "en": "Arrange valid routes, test the result and claim rewards for completed challenges.",
+            "pt": "Organize rotas válidas, teste o resultado e recolha as recompensas dos desafios."
+          }
+        },
+        {
+          "key": "complete-dampe-reward-challenges",
+          "title": "Complete the collection-reward challenges",
+          "title_i18n": {
+            "en": "Complete the collection-reward challenges",
+            "pt": "Concluir os desafios de recompensas de coleta"
+          },
+          "description": "Return as the campaign opens more chambers and pursue the heart-piece, bottle and full-container rewards.",
+          "description_i18n": {
+            "en": "Return as the campaign opens more chambers and pursue the heart-piece, bottle and full-container rewards.",
+            "pt": "Volte conforme a campanha liberar mais salas e busque as recompensas de pedaço de coração, garrafa e recipiente completo."
+          },
+          "details": "A valid Chamber Dungeon needs connected entrances and exits, reachable required rooms and a workable key route. Use simple rooms to reduce risk when a challenge restricts health or time, then actually clear the finished layout to earn its reward. Fill Up Your Hearts awards a Piece of Heart; Heart Shortage awards the third Fairy Bottle. After Turtle Rock and the earlier required challenges, Ticking Clock awards a separate full Heart Container. That container is not one of the thirty-two Pieces of Heart, and amiibo-exclusive rooms are unnecessary for these rewards.",
+          "details_i18n": {
+            "en": "A valid Chamber Dungeon needs connected entrances and exits, reachable required rooms and a workable key route. Use simple rooms to reduce risk when a challenge restricts health or time, then actually clear the finished layout to earn its reward. Fill Up Your Hearts awards a Piece of Heart; Heart Shortage awards the third Fairy Bottle. After Turtle Rock and the earlier required challenges, Ticking Clock awards a separate full Heart Container. That container is not one of the thirty-two Pieces of Heart, and amiibo-exclusive rooms are unnecessary for these rewards.",
+            "pt": "Uma Chamber Dungeon válida exige entradas e saídas conectadas, salas obrigatórias alcançáveis e uma rota funcional de chaves. Use salas simples quando houver restrição de vida ou tempo e conclua a organização montada para receber a recompensa. Fill Up Your Hearts concede um Piece of Heart; Heart Shortage concede a terceira Fairy Bottle. Após Turtle Rock e os desafios anteriores exigidos, Ticking Clock concede um Heart Container completo separado. Ele não é um dos trinta e dois Pieces of Heart, e essas recompensas não exigem salas exclusivas de amiibo."
+          }
+        },
+        {
+          "key": "try-custom-chamber-layout",
+          "title": "Try a custom chamber layout",
+          "title_i18n": {
+            "en": "Try a custom chamber layout",
+            "pt": "Testar uma organização própria de salas"
+          },
+          "description": "Build and clear an optional layout using available rooms; amiibo-only chambers are not required by this checklist.",
+          "description_i18n": {
+            "en": "Build and clear an optional layout using available rooms; amiibo-only chambers are not required by this checklist.",
+            "pt": "Monte e conclua uma organização opcional com salas disponíveis; esta lista não exige salas exclusivas de amiibo."
+          }
+        }
+      ]
+    },
+    {
+      "key": "optional-tools-and-upgrades",
+      "title": "Optional tools and upgrades",
+      "title_i18n": {
+        "en": "Optional tools and upgrades",
+        "pt": "Ferramentas e melhorias opcionais"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "obtain-boomerang-trade",
+          "title": "Obtain the optional Boomerang",
+          "title_i18n": {
+            "en": "Obtain the optional Boomerang",
+            "pt": "Obter o Boomerang opcional"
+          },
+          "description": "After the trading chain, investigate the hidden shore contact and review the exchange terms.",
+          "description_i18n": {
+            "en": "After the trading chain, investigate the hidden shore contact and review the exchange terms.",
+            "pt": "Após concluir as trocas, investigue o contato escondido na praia e confira os termos da troca."
+          },
+          "details": "The Magnifying Lens reveals the hidden Goriya contact inside the bomb-opened cave on Toronbo Shores. He exchanges the Boomerang for an eligible equipped inventory item, so choose deliberately and retain enough rupees to recover it. In the Switch remake, you can buy the traded item back from the same contact for 300 rupees and keep the Boomerang as well. This is an optional bonus after the main trading chain, not a replacement for the Lens or a required ninth instrument.",
+          "details_i18n": {
+            "en": "The Magnifying Lens reveals the hidden Goriya contact inside the bomb-opened cave on Toronbo Shores. He exchanges the Boomerang for an eligible equipped inventory item, so choose deliberately and retain enough rupees to recover it. In the Switch remake, you can buy the traded item back from the same contact for 300 rupees and keep the Boomerang as well. This is an optional bonus after the main trading chain, not a replacement for the Lens or a required ninth instrument.",
+            "pt": "A Magnifying Lens revela o contato Goriya na caverna aberta com bomba em Toronbo Shores. Ele troca o Boomerang por um item elegível equipado; escolha com cuidado e reserve rupias para recuperá-lo. No remake de Switch, você pode recomprar o item com o mesmo contato por 300 rupias e manter também o Boomerang. É um bônus opcional após a sequência principal de trocas, não substitui a lente nem corresponde a um nono instrumento obrigatório."
+          }
+        },
+        {
+          "key": "claim-seashell-mansion-upgrades",
+          "title": "Claim Seashell Mansion upgrades",
+          "title_i18n": {
+            "en": "Claim Seashell Mansion upgrades",
+            "pt": "Obter as melhorias da Seashell Mansion"
+          },
+          "description": "Return as shell milestones accumulate and collect the sensor and stronger sword rewards.",
+          "description_i18n": {
+            "en": "Return as shell milestones accumulate and collect the sensor and stronger sword rewards.",
+            "pt": "Volte conforme alcançar marcos de conchas e obtenha o sensor e a espada mais forte."
+          }
+        },
+        {
+          "key": "buy-bow-and-recovery-supplies",
+          "title": "Buy useful combat supplies",
+          "title_i18n": {
+            "en": "Buy useful combat supplies",
+            "pt": "Comprar recursos úteis de combate"
+          },
+          "description": "Review the shop's Bow and ammunition stock and distinguish Fairy Bottles from Secret Medicine.",
+          "description_i18n": {
+            "en": "Review the shop's Bow and ammunition stock and distinguish Fairy Bottles from Secret Medicine.",
+            "pt": "Confira o Bow e a munição na loja e diferencie Fairy Bottles de Secret Medicine."
+          }
+        },
+        {
+          "key": "visit-mad-batter-wells",
+          "title": "Visit the Mad Batter's upgrade wells",
+          "title_i18n": {
+            "en": "Visit the Mad Batter's upgrade wells",
+            "pt": "Visitar os poços de melhorias do Mad Batter"
+          },
+          "description": "Explore hidden underground wells and use Magic Powder to investigate their capacity rewards.",
+          "description_i18n": {
+            "en": "Explore hidden underground wells and use Magic Powder to investigate their capacity rewards.",
+            "pt": "Explore os poços subterrâneos e use Magic Powder para investigar as melhorias de capacidade."
+          }
+        }
+      ]
+    },
+    {
+      "key": "optional-koholint-minigames",
+      "title": "Optional Koholint minigames",
+      "title_i18n": {
+        "en": "Optional Koholint minigames",
+        "pt": "Minijogos opcionais de Koholint"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "revisit-trendy-game",
+          "title": "Revisit the Trendy Game",
+          "title_i18n": {
+            "en": "Revisit the Trendy Game",
+            "pt": "Revisitar o Trendy Game"
+          },
+          "description": "Check newly available prizes and place won figurines in their matching village displays.",
+          "description_i18n": {
+            "en": "Check newly available prizes and place won figurines in their matching village displays.",
+            "pt": "Confira os novos prêmios e coloque as miniaturas nos expositores correspondentes da vila."
+          }
+        },
+        {
+          "key": "try-fishing-rewards",
+          "title": "Try the fishing rewards",
+          "title_i18n": {
+            "en": "Try the fishing rewards",
+            "pt": "Tentar as recompensas da pescaria"
+          },
+          "description": "Learn the lure and line controls and investigate prizes beyond ordinary fish.",
+          "description_i18n": {
+            "en": "Learn the lure and line controls and investigate prizes beyond ordinary fish.",
+            "pt": "Aprenda os controles de isca e linha e investigue prêmios além dos peixes comuns."
+          }
+        },
+        {
+          "key": "complete-rapids-ride",
+          "title": "Complete Rapids Ride collection goals",
+          "title_i18n": {
+            "en": "Complete Rapids Ride collection goals",
+            "pt": "Cumprir as metas de coleta de Rapids Ride"
+          },
+          "description": "Use a deliberate raft route for the course's exploration rewards instead of rushing to the exit.",
+          "description_i18n": {
+            "en": "Use a deliberate raft route for the course's exploration rewards instead of rushing to the exit.",
+            "pt": "Planeje a rota da jangada para obter as recompensas de exploração em vez de correr à saída."
+          }
+        },
+        {
+          "key": "complete-rapids-race",
+          "title": "Improve the Rapids Race time",
+          "title_i18n": {
+            "en": "Improve the Rapids Race time",
+            "pt": "Melhorar o tempo em Rapids Race"
+          },
+          "description": "Learn the course first, then compare your finish time with each reward threshold.",
+          "description_i18n": {
+            "en": "Learn the course first, then compare your finish time with each reward threshold.",
+            "pt": "Aprenda o percurso e compare seu tempo aos limites de cada recompensa."
+          }
+        }
+      ]
+    },
+    {
+      "key": "aggregate-switch-collections",
+      "title": "Aggregate Switch collection goals",
+      "title_i18n": {
+        "en": "Aggregate Switch collection goals",
+        "pt": "Metas agregadas de coleta no Switch"
+      },
+      "kind": "collectible",
+      "items": [
+        {
+          "key": "collect-50-secret-seashells",
+          "title": "Collect all 50 Secret Seashells",
+          "title_i18n": {
+            "en": "Collect all 50 Secret Seashells",
+            "pt": "Coletar as 50 Secret Seashells"
+          },
+          "description": "Audit the expanded Switch collection by region; this goal does not enumerate every shell location.",
+          "description_i18n": {
+            "en": "Audit the expanded Switch collection by region; this goal does not enumerate every shell location.",
+            "pt": "Confira a coleção ampliada do Switch por região; esta meta não enumera cada localização."
+          }
+        },
+        {
+          "key": "collect-32-heart-pieces",
+          "title": "Collect all 32 Pieces of Heart",
+          "title_i18n": {
+            "en": "Collect all 32 Pieces of Heart",
+            "pt": "Coletar os 32 Pieces of Heart"
+          },
+          "description": "Combine overworld, minigame and Chamber Dungeon rewards for the complete piece collection.",
+          "description_i18n": {
+            "en": "Combine overworld, minigame and Chamber Dungeon rewards for the complete piece collection.",
+            "pt": "Combine recompensas do mundo, dos minijogos e das Chamber Dungeons para completar a coleção."
+          }
+        },
+        {
+          "key": "claim-dampe-full-heart-container",
+          "title": "Claim Dampé's separate Heart Container",
+          "title_i18n": {
+            "en": "Claim Dampé's separate Heart Container",
+            "pt": "Obter o Heart Container separado de Dampé"
+          },
+          "description": "Complete the appropriate late chamber challenge; this full container is separate from the thirty-two heart pieces.",
+          "description_i18n": {
+            "en": "Complete the appropriate late chamber challenge; this full container is separate from the thirty-two heart pieces.",
+            "pt": "Conclua o desafio tardio correspondente; esse recipiente completo é separado dos trinta e dois pedaços de coração."
+          }
+        },
+        {
+          "key": "collect-three-fairy-bottles",
+          "title": "Collect all three Fairy Bottles",
+          "title_i18n": {
+            "en": "Collect all three Fairy Bottles",
+            "pt": "Coletar as três Fairy Bottles"
+          },
+          "description": "Audit the fishing, wandering-ghost and Chamber Dungeon rewards.",
+          "description_i18n": {
+            "en": "Audit the fishing, wandering-ghost and Chamber Dungeon rewards.",
+            "pt": "Confira as recompensas da pescaria, do fantasma errante e das Chamber Dungeons."
+          }
+        },
+        {
+          "key": "audit-songs-and-optional-gear",
+          "title": "Audit songs and optional gear",
+          "title_i18n": {
+            "en": "Audit songs and optional gear",
+            "pt": "Conferir canções e equipamento opcional"
+          },
+          "description": "Review the three Ocarina songs, tunic and capacity upgrades separately from the story instruments.",
+          "description_i18n": {
+            "en": "Review the three Ocarina songs, tunic and capacity upgrades separately from the story instruments.",
+            "pt": "Confira as três canções da Ocarina, a túnica e as melhorias de capacidade separadamente dos instrumentos da história."
+          }
+        },
+        {
+          "key": "audit-chambers-figures-map",
+          "title": "Audit chambers, figurines and map discoveries",
+          "title_i18n": {
+            "en": "Audit chambers, figurines and map discoveries",
+            "pt": "Conferir salas, miniaturas e descobertas no mapa"
+          },
+          "description": "Use the Switch remake's records to identify optional gaps; Nintendo-native trophies are not part of this edition.",
+          "description_i18n": {
+            "en": "Use the Switch remake's records to identify optional gaps; Nintendo-native trophies are not part of this edition.",
+            "pt": "Use os registros do remake de Switch para identificar metas opcionais ausentes; esta edição não tem troféus nativos da Nintendo."
+          }
+        }
+      ]
+    }
+  ],
+  "trophies": [],
+  "hltb_id": "66255",
+  "hltb_main_hours": 14,
+  "hltb_main_extra_hours": 16,
+  "hltb_completionist_hours": 21
+}

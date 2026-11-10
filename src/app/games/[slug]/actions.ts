@@ -3,6 +3,27 @@
 import { revalidatePath } from "next/cache";
 import { redirect } from "next/navigation";
 import { createClient } from "@/lib/supabase/server";
+import { parseRouteDefinitions } from "@/lib/walkthrough-routes";
+
+/** Saves only this user's preference; never changes task/trophy completion. */
+export async function selectWalkthroughRouteAction(gameId: string, routeKey: string | null) {
+  if (typeof gameId !== "string" || (routeKey !== null && typeof routeKey !== "string")) throw new Error("Invalid request");
+  const supabase = await createClient();
+  const { data } = await supabase.auth.getClaims();
+  const userId = data?.claims?.sub;
+  if (!userId) redirect("/login");
+  const { data: game, error: gameError } = await supabase.from("games")
+    .select("id, walkthrough_routes").eq("id", gameId).maybeSingle();
+  if (gameError || !game) throw new Error("Game unavailable");
+  const routes = parseRouteDefinitions(game.walkthrough_routes);
+  if (routeKey !== null && !routes.some((route) => route.key === routeKey)) throw new Error("Unknown route");
+  const { error } = await supabase.from("user_game_progress").upsert({
+    user_id: userId, game_id: gameId, selected_route_key: routeKey,
+  }, { onConflict: "user_id,game_id" });
+  if (error) throw error;
+  revalidatePath("/games/[slug]", "page");
+  revalidatePath("/dashboard");
+}
 
 export async function toggleItemCompletionAction(
   itemId: string,

@@ -1,0 +1,1434 @@
+{
+  "slug": "the-legend-of-zelda-breath-of-the-wild",
+  "title": "The Legend of Zelda: Breath of the Wild",
+  "title_i18n": {
+    "en": "The Legend of Zelda: Breath of the Wild",
+    "pt": "The Legend of Zelda: Breath of the Wild"
+  },
+  "platform": "Nintendo Switch",
+  "cover_url": "/covers/the-legend-of-zelda-breath-of-the-wild.png",
+  "created_by": "dd5c4bf0-85ea-4986-9c04-b37e8c986150",
+  "categories": [
+    {
+      "key": "great-plateau",
+      "title": "The Great Plateau",
+      "title_i18n": {
+        "en": "The Great Plateau",
+        "pt": "O Grande Platô"
+      },
+      "items": [
+        {
+          "key": "wake-and-equip",
+          "title": "Leave the Shrine of Resurrection",
+          "title_i18n": {
+            "en": "Leave the Shrine of Resurrection",
+            "pt": "Sair do Santuário da Ressurreição"
+          },
+          "description": "Take the Slate and clothes, then gather food and a weapon outside.",
+          "description_i18n": {
+            "en": "Take the Slate and clothes, then gather food and a weapon outside.",
+            "pt": "Pegue a Slate e as roupas; depois junte comida e uma arma do lado de fora."
+          }
+        },
+        {
+          "key": "activate-plateau-tower",
+          "title": "Activate the Great Plateau Tower",
+          "title_i18n": {
+            "en": "Activate the Great Plateau Tower",
+            "pt": "Ativar a Torre do Grande Platô"
+          },
+          "description": "Follow the objective marker and use the pedestal to reveal the region.",
+          "description_i18n": {
+            "en": "Follow the objective marker and use the pedestal to reveal the region.",
+            "pt": "Siga o marcador e use o pedestal para revelar a região."
+          }
+        },
+        {
+          "key": "learn-magnesis",
+          "title": "Clear Oman Au Shrine",
+          "title_i18n": {
+            "en": "Clear Oman Au Shrine",
+            "pt": "Concluir o Santuário Oman Au"
+          },
+          "description": "Use Magnesis to move metal objects and reach the monk.",
+          "description_i18n": {
+            "en": "Use Magnesis to move metal objects and reach the monk.",
+            "pt": "Use Magnesis para mover objetos metálicos e alcançar o monge."
+          }
+        },
+        {
+          "key": "learn-remote-bombs",
+          "title": "Clear Ja Baij Shrine",
+          "title_i18n": {
+            "en": "Clear Ja Baij Shrine",
+            "pt": "Concluir o Santuário Ja Baij"
+          },
+          "description": "Use round and square Remote Bombs to clear obstacles; stay outside the blast.",
+          "description_i18n": {
+            "en": "Use round and square Remote Bombs to clear obstacles; stay outside the blast.",
+            "pt": "Use Bombas Remotas redondas e quadradas para remover obstáculos; fique longe da explosão."
+          }
+        },
+        {
+          "key": "learn-stasis",
+          "title": "Clear Owa Daim Shrine",
+          "title_i18n": {
+            "en": "Clear Owa Daim Shrine",
+            "pt": "Concluir o Santuário Owa Daim"
+          },
+          "description": "Freeze moving obstacles with Stasis and strike the blocked boulder to launch it away.",
+          "description_i18n": {
+            "en": "Freeze moving obstacles with Stasis and strike the blocked boulder to launch it away.",
+            "pt": "Pare obstáculos móveis com Stasis e golpeie a rocha que bloqueia o caminho para lançá-la."
+          }
+        },
+        {
+          "key": "learn-cryonis",
+          "title": "Clear Keh Namut Shrine",
+          "title_i18n": {
+            "en": "Clear Keh Namut Shrine",
+            "pt": "Concluir o Santuário Keh Namut"
+          },
+          "description": "Cook Spicy Peppers for the cold approach; use Cryonis pillars to cross the shrine's water and lift its gate.",
+          "description_i18n": {
+            "en": "Cook Spicy Peppers for the cold approach; use Cryonis pillars to cross the shrine's water and lift its gate.",
+            "pt": "Cozinhe Pimentas Picantes para enfrentar o frio; use pilares de Cryonis para cruzar a água do santuário e erguer sua grade."
+          }
+        },
+        {
+          "key": "receive-paraglider",
+          "title": "Exchange the orbs and receive the paraglider",
+          "title_i18n": {
+            "en": "Exchange the orbs and receive the paraglider",
+            "pt": "Trocar os orbes e receber o paraglider"
+          },
+          "description": "Trade four Spirit Orbs at the Temple of Time statue, then meet the old man above the temple.",
+          "description_i18n": {
+            "en": "Trade four Spirit Orbs at the Temple of Time statue, then meet the old man above the temple.",
+            "pt": "Troque quatro Orbes Espirituais na estátua do Templo do Tempo e encontre o ancião no alto do templo."
+          }
+        }
+      ]
+    },
+    {
+      "key": "road-to-kakariko",
+      "title": "The road to Kakariko",
+      "title_i18n": {
+        "en": "The road to Kakariko",
+        "pt": "O caminho para Kakariko"
+      },
+      "items": [
+        {
+          "key": "leave-plateau-safely",
+          "title": "Glide safely beyond the plateau",
+          "title_i18n": {
+            "en": "Glide safely beyond the plateau",
+            "pt": "Planar em segurança para fora do platô"
+          },
+          "description": "Keep stamina for landing and head east toward the roads, avoiding central Hyrule's Guardians.",
+          "description_i18n": {
+            "en": "Keep stamina for landing and head east toward the roads, avoiding central Hyrule's Guardians.",
+            "pt": "Guarde vigor para pousar e siga a leste rumo às estradas, evitando os Guardiões de Hyrule Central."
+          }
+        },
+        {
+          "key": "follow-dueling-peaks-road",
+          "title": "Travel through Dueling Peaks",
+          "title_i18n": {
+            "en": "Travel through Dueling Peaks",
+            "pt": "Viajar pelos Picos Gêmeos"
+          },
+          "description": "Follow the road and river east; activate nearby shrines as return points.",
+          "description_i18n": {
+            "en": "Follow the road and river east; activate nearby shrines as return points.",
+            "pt": "Siga a estrada e o rio para leste; ative santuários próximos como pontos de retorno."
+          }
+        },
+        {
+          "key": "visit-dueling-peaks-stable",
+          "title": "Rest at Dueling Peaks Stable",
+          "title_i18n": {
+            "en": "Rest at Dueling Peaks Stable",
+            "pt": "Descansar no Estábulo dos Picos Gêmeos"
+          },
+          "description": "Cook healing meals and speak to travelers; registering a horse is useful but optional.",
+          "description_i18n": {
+            "en": "Cook healing meals and speak to travelers; registering a horse is useful but optional.",
+            "pt": "Cozinhe refeições de cura e fale com os viajantes; registrar um cavalo ajuda, mas é opcional."
+          }
+        },
+        {
+          "key": "help-hestu",
+          "title": "Recover Hestu's maracas",
+          "title_i18n": {
+            "en": "Recover Hestu's maracas",
+            "pt": "Recuperar as maracas de Hestu"
+          },
+          "description": "On the Kakariko road, clear the camp he points out and return his maracas.",
+          "description_i18n": {
+            "en": "On the Kakariko road, clear the camp he points out and return his maracas.",
+            "pt": "Na estrada de Kakariko, derrote o acampamento indicado por ele e devolva as maracas."
+          }
+        },
+        {
+          "key": "enter-kakariko",
+          "title": "Reach Kakariko Village",
+          "title_i18n": {
+            "en": "Reach Kakariko Village",
+            "pt": "Chegar à Vila Kakariko"
+          },
+          "description": "Follow the northeast road from the stable and activate Ta'loh Naeg Shrine above the village.",
+          "description_i18n": {
+            "en": "Follow the northeast road from the stable and activate Ta'loh Naeg Shrine above the village.",
+            "pt": "Siga a estrada a nordeste do estábulo e ative o Santuário Ta'loh Naeg, acima da vila."
+          }
+        },
+        {
+          "key": "meet-impa",
+          "title": "Speak with Impa",
+          "title_i18n": {
+            "en": "Speak with Impa",
+            "pt": "Conversar com Impa"
+          },
+          "description": "Visit the large house and accept her guidance about the Divine Beasts and Hateno's lab.",
+          "description_i18n": {
+            "en": "Visit the large house and accept her guidance about the Divine Beasts and Hateno's lab.",
+            "pt": "Visite a casa grande e ouça as orientações sobre as Bestas Divinas e o laboratório de Hateno."
+          }
+        },
+        {
+          "key": "practice-defensive-combat",
+          "title": "Practice defensive combat",
+          "title_i18n": {
+            "en": "Practice defensive combat",
+            "pt": "Praticar a defesa em combate"
+          },
+          "description": "Use Ta'loh Naeg's trial to practice dodges, flurry rushes and shield parries.",
+          "description_i18n": {
+            "en": "Use Ta'loh Naeg's trial to practice dodges, flurry rushes and shield parries.",
+            "pt": "Use o teste de Ta'loh Naeg para praticar esquivas, ataques em sequência e aparos de escudo."
+          }
+        }
+      ]
+    },
+    {
+      "key": "hateno-and-the-camera",
+      "title": "Hateno and the Sheikah Slate",
+      "title_i18n": {
+        "en": "Hateno and the Sheikah Slate",
+        "pt": "Hateno e a Sheikah Slate"
+      },
+      "items": [
+        {
+          "key": "travel-to-hateno",
+          "title": "Follow the road to Hateno",
+          "title_i18n": {
+            "en": "Follow the road to Hateno",
+            "pt": "Seguir pela estrada até Hateno"
+          },
+          "description": "Take Kakariko's southern exit, pass Fort Hateno and continue east.",
+          "description_i18n": {
+            "en": "Take Kakariko's southern exit, pass Fort Hateno and continue east.",
+            "pt": "Saia de Kakariko pelo sul, passe pelo Forte Hateno e continue para leste."
+          }
+        },
+        {
+          "key": "activate-hateno-shrine",
+          "title": "Activate a Hateno return point",
+          "title_i18n": {
+            "en": "Activate a Hateno return point",
+            "pt": "Ativar um ponto de retorno em Hateno"
+          },
+          "description": "Activate Myahm Agana Shrine near the village to simplify supply trips.",
+          "description_i18n": {
+            "en": "Activate Myahm Agana Shrine near the village to simplify supply trips.",
+            "pt": "Ative o Santuário Myahm Agana perto da vila para facilitar as visitas às lojas."
+          }
+        },
+        {
+          "key": "visit-purah",
+          "title": "Meet Purah at the ancient lab",
+          "title_i18n": {
+            "en": "Meet Purah at the ancient lab",
+            "pt": "Conhecer Purah no laboratório antigo"
+          },
+          "description": "Climb the hill east of the village and ask the researchers to repair the Slate.",
+          "description_i18n": {
+            "en": "Climb the hill east of the village and ask the researchers to repair the Slate.",
+            "pt": "Suba a colina a leste da vila e peça aos pesquisadores que consertem a Slate."
+          }
+        },
+        {
+          "key": "carry-blue-flame",
+          "title": "Carry the blue flame to the lab",
+          "title_i18n": {
+            "en": "Carry the blue flame to the lab",
+            "pt": "Levar a chama azul ao laboratório"
+          },
+          "description": "Use a torch from the village furnace, lighting lanterns along the route; wait for rain to stop.",
+          "description_i18n": {
+            "en": "Use a torch from the village furnace, lighting lanterns along the route; wait for rain to stop.",
+            "pt": "Use uma tocha na fornalha da vila e acenda lanternas pelo caminho; espere a chuva parar."
+          },
+          "details": "Use a wooden torch rather than a weapon you need for combat. Light it at the ancient furnace in Hateno, then walk toward the lab, lighting the blue-flame lanterns along the road. These become recovery points if the torch goes out.\n\nAvoid sprinting, climbing or putting the torch away while carrying the flame. Rain extinguishes it, so wait for dry weather before restarting from the last lit lantern. At the lab, light the furnace outside, then speak to Purah; merely arriving with a burning torch does not restore the Camera.",
+          "details_i18n": {
+            "en": "Use a wooden torch rather than a weapon you need for combat. Light it at the ancient furnace in Hateno, then walk toward the lab, lighting the blue-flame lanterns along the road. These become recovery points if the torch goes out.\n\nAvoid sprinting, climbing or putting the torch away while carrying the flame. Rain extinguishes it, so wait for dry weather before restarting from the last lit lantern. At the lab, light the furnace outside, then speak to Purah; merely arriving with a burning torch does not restore the Camera.",
+            "pt": "Use uma tocha de madeira em vez de uma arma importante para combate. Acenda-a na fornalha antiga de Hateno e caminhe até o laboratório, acendendo as lanternas de chama azul pelo caminho. Elas servem como pontos de recuperação se a tocha apagar.\n\nEvite correr, escalar ou guardar a tocha durante o transporte. A chuva apaga a chama; espere o tempo secar e recomece pela última lanterna acesa. No laboratório, acenda a fornalha externa e fale com Purah; apenas chegar com a tocha acesa não restaura a Câmera."
+          }
+        },
+        {
+          "key": "restore-camera",
+          "title": "Restore the Camera rune",
+          "title_i18n": {
+            "en": "Restore the Camera rune",
+            "pt": "Restaurar a runa da Câmera"
+          },
+          "description": "Light the lab furnace, return to Purah and complete her photo demonstration.",
+          "description_i18n": {
+            "en": "Light the lab furnace, return to Purah and complete her photo demonstration.",
+            "pt": "Acenda a fornalha do laboratório, volte a Purah e faça a demonstração de fotografia."
+          }
+        },
+        {
+          "key": "start-captured-memories",
+          "title": "Show the restored album to Impa",
+          "title_i18n": {
+            "en": "Show the restored album to Impa",
+            "pt": "Mostrar o álbum restaurado a Impa"
+          },
+          "description": "Return to Kakariko to begin Captured Memories; look for its locations as you travel.",
+          "description_i18n": {
+            "en": "Return to Kakariko to begin Captured Memories; look for its locations as you travel.",
+            "pt": "Volte a Kakariko para iniciar Captured Memories; procure suas localizações ao longo da viagem."
+          }
+        },
+        {
+          "key": "choose-beast-route",
+          "title": "Choose your Divine Beast route",
+          "title_i18n": {
+            "en": "Choose your Divine Beast route",
+            "pt": "Escolher a rota das Bestas Divinas"
+          },
+          "description": "This route suggests Ruta, Medoh, Rudania, then Naboris. Their order is free, and none is required to fight Ganon.",
+          "description_i18n": {
+            "en": "This route suggests Ruta, Medoh, Rudania, then Naboris. Their order is free, and none is required to fight Ganon.",
+            "pt": "A rota sugere Ruta, Medoh, Rudania e Naboris. A ordem é livre, e nenhuma é obrigatória para enfrentar Ganon."
+          }
+        }
+      ]
+    },
+    {
+      "key": "zoras-domain",
+      "title": "Zora's Domain and the shock arrows",
+      "title_i18n": {
+        "en": "Zora's Domain and the shock arrows",
+        "pt": "Domínio Zora e as flechas elétricas"
+      },
+      "items": [
+        {
+          "key": "reach-lanayru",
+          "title": "Reach the Lanayru region",
+          "title_i18n": {
+            "en": "Reach the Lanayru region",
+            "pt": "Chegar à região de Lanayru"
+          },
+          "description": "Head northeast from Kakariko toward the Zora objective; activate Lanayru Tower when safely reachable.",
+          "description_i18n": {
+            "en": "Head northeast from Kakariko toward the Zora objective; activate Lanayru Tower when safely reachable.",
+            "pt": "Siga a nordeste de Kakariko rumo ao objetivo Zora; ative a Torre de Lanayru quando puder alcançá-la em segurança."
+          }
+        },
+        {
+          "key": "meet-sidon",
+          "title": "Meet Sidon at Inogo Bridge",
+          "title_i18n": {
+            "en": "Meet Sidon at Inogo Bridge",
+            "pt": "Encontrar Sidon na Ponte Inogo"
+          },
+          "description": "Speak to Sidon and take the winding river road instead of climbing wet cliffs.",
+          "description_i18n": {
+            "en": "Speak to Sidon and take the winding river road instead of climbing wet cliffs.",
+            "pt": "Converse com Sidon e siga a estrada sinuosa junto ao rio em vez de escalar os penhascos molhados."
+          }
+        },
+        {
+          "key": "follow-zora-road",
+          "title": "Follow the river to Zora's Domain",
+          "title_i18n": {
+            "en": "Follow the river to Zora's Domain",
+            "pt": "Seguir o rio até o Domínio Zora"
+          },
+          "description": "Use cover against electric arrows and avoid standing in water during electric attacks.",
+          "description_i18n": {
+            "en": "Use cover against electric arrows and avoid standing in water during electric attacks.",
+            "pt": "Use cobertura contra flechas elétricas e evite ficar na água durante ataques elétricos."
+          }
+        },
+        {
+          "key": "receive-zora-armor",
+          "title": "Receive the Zora Armor",
+          "title_i18n": {
+            "en": "Receive the Zora Armor",
+            "pt": "Receber a Armadura Zora"
+          },
+          "description": "Speak with King Dorephan and equip the armor to swim up waterfalls.",
+          "description_i18n": {
+            "en": "Speak with King Dorephan and equip the armor to swim up waterfalls.",
+            "pt": "Converse com o Rei Dorephan e equipe a armadura para subir cachoeiras nadando."
+          }
+        },
+        {
+          "key": "convince-muzu",
+          "title": "Settle Muzu's doubts",
+          "title_i18n": {
+            "en": "Settle Muzu's doubts",
+            "pt": "Convencer Muzu"
+          },
+          "description": "Follow the conversations with Sidon and Muzu near Mipha's statue to learn about the shock arrows.",
+          "description_i18n": {
+            "en": "Follow the conversations with Sidon and Muzu near Mipha's statue to learn about the shock arrows.",
+            "pt": "Converse com Sidon e Muzu perto da estátua de Mipha para saber das flechas elétricas."
+          }
+        },
+        {
+          "key": "collect-twenty-shock-arrows",
+          "title": "Gather at least 20 Shock Arrows",
+          "title_i18n": {
+            "en": "Gather at least 20 Shock Arrows",
+            "pt": "Juntar pelo menos 20 Flechas Elétricas"
+          },
+          "description": "Collect them around Ploymus Mountain or bring purchased arrows. Sneak past the Lynel; killing it is unnecessary.",
+          "description_i18n": {
+            "en": "Collect them around Ploymus Mountain or bring purchased arrows. Sneak past the Lynel; killing it is unnecessary.",
+            "pt": "Recolha-as no Monte Ploymus ou traga flechas compradas. Passe escondido pelo Lynel; não é preciso derrotá-lo."
+          },
+          "details": "Check your inventory before climbing Ploymus Mountain: Shock Arrows you already own count toward the requested supply. Near the Lynel, stay out of its sight and collect arrows lodged in trees and the ground. You can also bring purchased arrows.\n\nDefeating the Lynel is optional. If it notices you, retreat rather than spending your weapons on a fight that is unnecessary for boarding Vah Ruta. Return to Sidon once you have at least 20 arrows and the Zora Armor.",
+          "details_i18n": {
+            "en": "Check your inventory before climbing Ploymus Mountain: Shock Arrows you already own count toward the requested supply. Near the Lynel, stay out of its sight and collect arrows lodged in trees and the ground. You can also bring purchased arrows.\n\nDefeating the Lynel is optional. If it notices you, retreat rather than spending your weapons on a fight that is unnecessary for boarding Vah Ruta. Return to Sidon once you have at least 20 arrows and the Zora Armor.",
+            "pt": "Confira o inventário antes de subir o Monte Ploymus: as Flechas Elétricas que você já tem contam para o pedido. Perto do Lynel, fique fora de sua visão e recolha flechas presas nas árvores e no chão. Você também pode trazer flechas compradas.\n\nDerrotar o Lynel é opcional. Se ele notar sua presença, recue em vez de gastar armas numa luta desnecessária para entrar em Vah Ruta. Volte a Sidon com pelo menos 20 flechas e a Armadura Zora."
+          }
+        },
+        {
+          "key": "meet-sidon-reservoir",
+          "title": "Meet Sidon at East Reservoir Lake",
+          "title_i18n": {
+            "en": "Meet Sidon at East Reservoir Lake",
+            "pt": "Encontrar Sidon no Lago do Reservatório Leste"
+          },
+          "description": "Wear the Zora Armor, check your arrow supply and speak to Sidon at the dock.",
+          "description_i18n": {
+            "en": "Wear the Zora Armor, check your arrow supply and speak to Sidon at the dock.",
+            "pt": "Vista a Armadura Zora, confira suas flechas e fale com Sidon no cais."
+          }
+        }
+      ]
+    },
+    {
+      "key": "vah-ruta",
+      "title": "Divine Beast Vah Ruta",
+      "title_i18n": {
+        "en": "Divine Beast Vah Ruta",
+        "pt": "Besta Divina Vah Ruta"
+      },
+      "items": [
+        {
+          "key": "board-ruta",
+          "title": "Disable Ruta's outer devices",
+          "title_i18n": {
+            "en": "Disable Ruta's outer devices",
+            "pt": "Desativar os dispositivos externos de Ruta"
+          },
+          "description": "Break incoming ice with Cryonis; ride the waterfalls and shoot Shock Arrows at the four glowing targets.",
+          "description_i18n": {
+            "en": "Break incoming ice with Cryonis; ride the waterfalls and shoot Shock Arrows at the four glowing targets.",
+            "pt": "Quebre o gelo lançado com Cryonis; suba as cachoeiras e atire Flechas Elétricas nos quatro alvos luminosos."
+          }
+        },
+        {
+          "key": "ruta-map",
+          "title": "Get Ruta's dungeon map",
+          "title_i18n": {
+            "en": "Get Ruta's dungeon map",
+            "pt": "Obter o mapa de Ruta"
+          },
+          "description": "Clear Malice eyes and reach the guidance stone to unlock the trunk controls.",
+          "description_i18n": {
+            "en": "Clear Malice eyes and reach the guidance stone to unlock the trunk controls.",
+            "pt": "Elimine olhos de Malícia e alcance a pedra de orientação para liberar os controles da tromba."
+          }
+        },
+        {
+          "key": "ruta-entrance-terminals",
+          "title": "Solve the entrance mechanisms",
+          "title_i18n": {
+            "en": "Solve the entrance mechanisms",
+            "pt": "Resolver os mecanismos da entrada"
+          },
+          "description": "Raise the submerged gate with Cryonis and turn the crank with Magnesis to access terminals.",
+          "description_i18n": {
+            "en": "Raise the submerged gate with Cryonis and turn the crank with Magnesis to access terminals.",
+            "pt": "Erga a grade submersa com Cryonis e gire a manivela com Magnesis para acessar terminais."
+          }
+        },
+        {
+          "key": "ruta-waterwheels",
+          "title": "Solve the waterwheel rooms",
+          "title_i18n": {
+            "en": "Solve the waterwheel rooms",
+            "pt": "Resolver as salas das rodas-d'água"
+          },
+          "description": "Change the trunk's water flow and use Stasis on mechanisms to reach the wheel terminals.",
+          "description_i18n": {
+            "en": "Change the trunk's water flow and use Stasis on mechanisms to reach the wheel terminals.",
+            "pt": "Mude o fluxo de água da tromba e use Stasis nos mecanismos para alcançar os terminais das rodas."
+          },
+          "details": "For the smaller wheel, watch the terminal rotate until it is accessible near the bottom. Create a Cryonis pillar at the water outlet to interrupt the stream and stop the wheel in a useful position. Remove the pillar when you need the wheel moving again.\n\nFor the larger wheel, adjust Ruta's trunk from the dungeon map so water reaches its mechanism. Use the turning wheel to reach higher platforms instead of trying to climb the smooth structure. Inspect each newly exposed opening before changing the water flow again; reversing an adjustment can move the terminal out of reach.",
+          "details_i18n": {
+            "en": "For the smaller wheel, watch the terminal rotate until it is accessible near the bottom. Create a Cryonis pillar at the water outlet to interrupt the stream and stop the wheel in a useful position. Remove the pillar when you need the wheel moving again.\n\nFor the larger wheel, adjust Ruta's trunk from the dungeon map so water reaches its mechanism. Use the turning wheel to reach higher platforms instead of trying to climb the smooth structure. Inspect each newly exposed opening before changing the water flow again; reversing an adjustment can move the terminal out of reach.",
+            "pt": "Na roda menor, observe o terminal girar até ficar acessível perto da parte inferior. Crie um pilar de Cryonis na saída de água para interromper o fluxo e parar a roda numa posição útil. Remova o pilar quando precisar que a roda volte a girar.\n\nNa roda maior, ajuste a tromba pelo mapa para a água alcançar o mecanismo. Use a roda em movimento para chegar às plataformas altas em vez de tentar escalar a estrutura lisa. Examine cada abertura exposta antes de mudar o fluxo novamente; desfazer o ajuste pode afastar o terminal."
+          }
+        },
+        {
+          "key": "ruta-upper-terminals",
+          "title": "Finish Ruta's five terminals",
+          "title_i18n": {
+            "en": "Finish Ruta's five terminals",
+            "pt": "Completar os cinco terminais de Ruta"
+          },
+          "description": "Ride the trunk to upper routes and redirect its water onto the flames; check the map for missed terminals.",
+          "description_i18n": {
+            "en": "Ride the trunk to upper routes and redirect its water onto the flames; check the map for missed terminals.",
+            "pt": "Use a tromba para chegar aos caminhos superiores e direcione sua água às chamas; procure terminais pendentes no mapa."
+          }
+        },
+        {
+          "key": "defeat-waterblight",
+          "title": "Defeat Waterblight Ganon",
+          "title_i18n": {
+            "en": "Defeat Waterblight Ganon",
+            "pt": "Derrotar Waterblight Ganon"
+          },
+          "description": "Dodge the spear, shoot the eye and attack when it falls. Break the second phase's ice projectiles with Cryonis.",
+          "description_i18n": {
+            "en": "Dodge the spear, shoot the eye and attack when it falls. Break the second phase's ice projectiles with Cryonis.",
+            "pt": "Desvie da lança, acerte o olho e ataque quando ele cair. Quebre os projéteis de gelo da segunda fase com Cryonis."
+          },
+          "details": "Keep enough distance to read the spear attack, then dodge sideways or use cover rather than trading hits. Aim arrows at the eye and move in for melee attacks when Waterblight falls. Conserve stamina so you can reposition after attacking.\n\nWhen the arena floods, move between the raised platforms and switch to Cryonis to break incoming ice blocks before they reach you. Return to the bow when the path is clear. If the boss appears on a distant platform, attack from range instead of swimming directly into its next spear strike.",
+          "details_i18n": {
+            "en": "Keep enough distance to read the spear attack, then dodge sideways or use cover rather than trading hits. Aim arrows at the eye and move in for melee attacks when Waterblight falls. Conserve stamina so you can reposition after attacking.\n\nWhen the arena floods, move between the raised platforms and switch to Cryonis to break incoming ice blocks before they reach you. Return to the bow when the path is clear. If the boss appears on a distant platform, attack from range instead of swimming directly into its next spear strike.",
+            "pt": "Mantenha distância suficiente para perceber o ataque da lança e desvie para o lado ou use cobertura, sem trocar golpes. Mire flechas no olho e aproxime-se para atacar quando Waterblight cair. Preserve vigor para mudar de posição depois dos ataques.\n\nQuando a arena alagar, mova-se entre as plataformas elevadas e use Cryonis para quebrar os blocos de gelo antes de atingirem você. Volte ao arco quando houver segurança. Se o chefe aparecer numa plataforma distante, ataque de longe em vez de nadar diretamente até o próximo golpe de lança."
+          }
+        },
+        {
+          "key": "finish-ruta",
+          "title": "Free Ruta and report to Dorephan",
+          "title_i18n": {
+            "en": "Free Ruta and report to Dorephan",
+            "pt": "Libertar Ruta e falar com Dorephan"
+          },
+          "description": "Take the Heart Container before activating the main unit, receive Mipha's Grace and finish the village conversation.",
+          "description_i18n": {
+            "en": "Take the Heart Container before activating the main unit, receive Mipha's Grace and finish the village conversation.",
+            "pt": "Pegue o Recipiente de Coração antes de ativar a unidade central, receba a Graça de Mipha e conclua a conversa no domínio."
+          }
+        }
+      ]
+    },
+    {
+      "key": "rito-and-vah-medoh",
+      "title": "Rito Village and Vah Medoh",
+      "title_i18n": {
+        "en": "Rito Village and Vah Medoh",
+        "pt": "Vila Rito e Vah Medoh"
+      },
+      "items": [
+        {
+          "key": "reach-rito-village",
+          "title": "Travel northwest to Rito Village",
+          "title_i18n": {
+            "en": "Travel northwest to Rito Village",
+            "pt": "Viajar para noroeste até a Vila Rito"
+          },
+          "description": "Approach through Tabantha, activating shrines and restocking at stables along the way.",
+          "description_i18n": {
+            "en": "Approach through Tabantha, activating shrines and restocking at stables along the way.",
+            "pt": "Siga por Tabantha, ativando santuários e repondo suprimentos nos estábulos pelo caminho."
+          }
+        },
+        {
+          "key": "prepare-rito-cold",
+          "title": "Prepare for strong cold",
+          "title_i18n": {
+            "en": "Prepare for strong cold",
+            "pt": "Preparar-se para o frio intenso"
+          },
+          "description": "Buy Snowquill armor or cook cold-resistant meals; check the temperature gauge at the Flight Range and in the sky.",
+          "description_i18n": {
+            "en": "Buy Snowquill armor or cook cold-resistant meals; check the temperature gauge at the Flight Range and in the sky.",
+            "pt": "Compre armadura Snowquill ou cozinhe refeições contra frio; confira a temperatura no Campo de Voo e no céu."
+          }
+        },
+        {
+          "key": "meet-kaneli",
+          "title": "Speak to Kaneli and find Teba",
+          "title_i18n": {
+            "en": "Speak to Kaneli and find Teba",
+            "pt": "Falar com Kaneli e encontrar Teba"
+          },
+          "description": "Visit the elder, ask Saki about her husband, then head northwest to the Flight Range.",
+          "description_i18n": {
+            "en": "Visit the elder, ask Saki about her husband, then head northwest to the Flight Range.",
+            "pt": "Visite o ancião, pergunte a Saki sobre o marido e siga a noroeste até o Campo de Voo."
+          }
+        },
+        {
+          "key": "pass-teba-training",
+          "title": "Pass Teba's archery test",
+          "title_i18n": {
+            "en": "Pass Teba's archery test",
+            "pt": "Passar no teste de arco de Teba"
+          },
+          "description": "Use updrafts to hit five targets within three minutes; land before your stamina runs out.",
+          "description_i18n": {
+            "en": "Use updrafts to hit five targets within three minutes; land before your stamina runs out.",
+            "pt": "Use correntes de ar para acertar cinco alvos em três minutos; pouse antes de acabar o vigor."
+          }
+        },
+        {
+          "key": "board-medoh",
+          "title": "Destroy Medoh's four cannons",
+          "title_i18n": {
+            "en": "Destroy Medoh's four cannons",
+            "pt": "Destruir os quatro canhões de Medoh"
+          },
+          "description": "Shoot the supplied Bomb Arrows from the air while avoiding the barrier and cannon fire.",
+          "description_i18n": {
+            "en": "Shoot the supplied Bomb Arrows from the air while avoiding the barrier and cannon fire.",
+            "pt": "Atire no ar as Flechas Bomba fornecidas enquanto evita a barreira e os disparos dos canhões."
+          }
+        },
+        {
+          "key": "medoh-map",
+          "title": "Unlock Medoh's tilt controls",
+          "title_i18n": {
+            "en": "Unlock Medoh's tilt controls",
+            "pt": "Liberar os controles de inclinação de Medoh"
+          },
+          "description": "Reach the guidance stone through the central room; the map lets you tilt the beast.",
+          "description_i18n": {
+            "en": "Reach the guidance stone through the central room; the map lets you tilt the beast.",
+            "pt": "Alcance a pedra de orientação pela sala central; o mapa permite inclinar a besta."
+          }
+        },
+        {
+          "key": "medoh-wing-terminals",
+          "title": "Explore Medoh's wings",
+          "title_i18n": {
+            "en": "Explore Medoh's wings",
+            "pt": "Explorar as asas de Medoh"
+          },
+          "description": "Tilt the beast to move carts and platforms; use wind switches, bombs and Magnesis to solve the wing mechanisms.",
+          "description_i18n": {
+            "en": "Tilt the beast to move carts and platforms; use wind switches, bombs and Magnesis to solve the wing mechanisms.",
+            "pt": "Incline a besta para mover carrinhos e plataformas; use interruptores de vento, bombas e Magnesis nos mecanismos das asas."
+          }
+        },
+        {
+          "key": "medoh-five-terminals",
+          "title": "Activate all five Medoh terminals",
+          "title_i18n": {
+            "en": "Activate all five Medoh terminals",
+            "pt": "Ativar os cinco terminais de Medoh"
+          },
+          "description": "Check for orange terminals on the map, then climb to the main control unit on the upper deck.",
+          "description_i18n": {
+            "en": "Check for orange terminals on the map, then climb to the main control unit on the upper deck.",
+            "pt": "Procure terminais laranja no mapa e suba à unidade central no convés superior."
+          }
+        },
+        {
+          "key": "defeat-windblight",
+          "title": "Defeat Windblight Ganon",
+          "title_i18n": {
+            "en": "Defeat Windblight Ganon",
+            "pt": "Derrotar Windblight Ganon"
+          },
+          "description": "Use updrafts to shoot the eye in slow motion, attack when it falls and stay clear of tornadoes.",
+          "description_i18n": {
+            "en": "Use updrafts to shoot the eye in slow motion, attack when it falls and stay clear of tornadoes.",
+            "pt": "Use correntes de ar para acertar o olho em câmera lenta, ataque quando ele cair e evite tornados."
+          }
+        },
+        {
+          "key": "finish-medoh",
+          "title": "Receive Revali's Gale",
+          "title_i18n": {
+            "en": "Receive Revali's Gale",
+            "pt": "Receber a Ventania de Revali"
+          },
+          "description": "Take the Heart Container, activate the main unit and report to Kaneli; practice the charged jump safely.",
+          "description_i18n": {
+            "en": "Take the Heart Container, activate the main unit and report to Kaneli; practice the charged jump safely.",
+            "pt": "Pegue o Recipiente de Coração, ative a unidade central e volte a Kaneli; pratique o salto carregado em segurança."
+          }
+        }
+      ]
+    },
+    {
+      "key": "goron-and-vah-rudania",
+      "title": "Goron City and Vah Rudania",
+      "title_i18n": {
+        "en": "Goron City and Vah Rudania",
+        "pt": "Cidade Goron e Vah Rudania"
+      },
+      "items": [
+        {
+          "key": "prepare-flame-guard",
+          "title": "Obtain Flame Guard before Death Mountain",
+          "title_i18n": {
+            "en": "Obtain Flame Guard before Death Mountain",
+            "pt": "Obter proteção contra chamas antes da Montanha da Morte"
+          },
+          "description": "Buy Fireproof Elixirs at Foothill Stable or obtain Flamebreaker armor. Desert heat resistance does not stop volcanic burning.",
+          "description_i18n": {
+            "en": "Buy Fireproof Elixirs at Foothill Stable or obtain Flamebreaker armor. Desert heat resistance does not stop volcanic burning.",
+            "pt": "Compre Elixires à Prova de Fogo no Estábulo do Sopé ou obtenha armadura Flamebreaker. Resistência ao calor do deserto não impede a combustão vulcânica."
+          }
+        },
+        {
+          "key": "reach-goron-city",
+          "title": "Follow the road to Goron City",
+          "title_i18n": {
+            "en": "Follow the road to Goron City",
+            "pt": "Seguir pela estrada até a Cidade Goron"
+          },
+          "description": "Keep Flame Guard active, avoid lava and put away wooden gear; Bomb Arrows explode in the volcanic heat.",
+          "description_i18n": {
+            "en": "Keep Flame Guard active, avoid lava and put away wooden gear; Bomb Arrows explode in the volcanic heat.",
+            "pt": "Mantenha a proteção contra chamas, evite lava e guarde itens de madeira; Flechas Bomba explodem no calor vulcânico."
+          }
+        },
+        {
+          "key": "meet-bludo",
+          "title": "Ask Bludo about Yunobo",
+          "title_i18n": {
+            "en": "Ask Bludo about Yunobo",
+            "pt": "Perguntar a Bludo sobre Yunobo"
+          },
+          "description": "Speak to the Goron boss to learn about the missing delivery and Yunobo's location.",
+          "description_i18n": {
+            "en": "Speak to the Goron boss to learn about the missing delivery and Yunobo's location.",
+            "pt": "Converse com o chefe Goron para saber da entrega atrasada e da localização de Yunobo."
+          }
+        },
+        {
+          "key": "rescue-yunobo",
+          "title": "Rescue Yunobo at the mine",
+          "title_i18n": {
+            "en": "Rescue Yunobo at the mine",
+            "pt": "Resgatar Yunobo na mina"
+          },
+          "description": "At the Abandoned North Mine, fire Remote Bombs from cannons to break the rocks trapping him.",
+          "description_i18n": {
+            "en": "At the Abandoned North Mine, fire Remote Bombs from cannons to break the rocks trapping him.",
+            "pt": "Na Mina do Norte Abandonada, dispare Bombas Remotas pelos canhões para quebrar as rochas que o prendem."
+          }
+        },
+        {
+          "key": "prepare-crater-climb",
+          "title": "Report back and prepare for the crater",
+          "title_i18n": {
+            "en": "Report back and prepare for the crater",
+            "pt": "Voltar e preparar-se para a cratera"
+          },
+          "description": "Return to Bludo and obtain stronger Flame Guard for the hotter climb, such as two Flamebreaker pieces.",
+          "description_i18n": {
+            "en": "Return to Bludo and obtain stronger Flame Guard for the hotter climb, such as two Flamebreaker pieces.",
+            "pt": "Volte a Bludo e consiga proteção maior contra chamas para a subida mais quente, como duas peças Flamebreaker."
+          }
+        },
+        {
+          "key": "lower-eldin-bridge",
+          "title": "Lower Eldin Bridge with Yunobo",
+          "title_i18n": {
+            "en": "Lower Eldin Bridge with Yunobo",
+            "pt": "Baixar a Ponte Eldin com Yunobo"
+          },
+          "description": "Meet him near the bridge, defeat the enemies and launch him from the cannon using a Remote Bomb.",
+          "description_i18n": {
+            "en": "Meet him near the bridge, defeat the enemies and launch him from the cannon using a Remote Bomb.",
+            "pt": "Encontre-o perto da ponte, derrote os inimigos e lance-o pelo canhão usando uma Bomba Remota."
+          }
+        },
+        {
+          "key": "escort-yunobo",
+          "title": "Escort Yunobo past the sentries",
+          "title_i18n": {
+            "en": "Escort Yunobo past the sentries",
+            "pt": "Escoltar Yunobo pelos sentinelas"
+          },
+          "description": "Whistle to make him follow or wait; scout ahead and use terrain or metal objects against the drones.",
+          "description_i18n": {
+            "en": "Whistle to make him follow or wait; scout ahead and use terrain or metal objects against the drones.",
+            "pt": "Assobie para fazê-lo seguir ou esperar; observe o caminho e use o terreno ou objetos metálicos contra os drones."
+          }
+        },
+        {
+          "key": "board-rudania",
+          "title": "Drive Rudania into the crater",
+          "title_i18n": {
+            "en": "Drive Rudania into the crater",
+            "pt": "Empurrar Rudania para a cratera"
+          },
+          "description": "Launch Yunobo from each cannon along the marked route until the boarding sequence starts.",
+          "description_i18n": {
+            "en": "Launch Yunobo from each cannon along the marked route until the boarding sequence starts.",
+            "pt": "Lance Yunobo por cada canhão da rota indicada até começar a sequência de embarque."
+          }
+        },
+        {
+          "key": "rudania-map-and-terminals",
+          "title": "Unlock Rudania's map and five terminals",
+          "title_i18n": {
+            "en": "Unlock Rudania's map and five terminals",
+            "pt": "Liberar o mapa e os cinco terminais de Rudania"
+          },
+          "description": "Use blue flame to reach the map, then rotate the beast to turn walls into floors; carry flame through openings and guide the ball to its switch.",
+          "description_i18n": {
+            "en": "Use blue flame to reach the map, then rotate the beast to turn walls into floors; carry flame through openings and guide the ball to its switch.",
+            "pt": "Use chama azul para alcançar o mapa e gire a besta para transformar paredes em pisos; leve chama pelas aberturas e guie a esfera ao interruptor."
+          }
+        },
+        {
+          "key": "defeat-fireblight",
+          "title": "Defeat Fireblight and free Rudania",
+          "title_i18n": {
+            "en": "Defeat Fireblight and free Rudania",
+            "pt": "Derrotar Fireblight e libertar Rudania"
+          },
+          "description": "Dodge sword attacks; when it inhales behind its shield, throw in a Remote Bomb and detonate it. Take the heart, activate the main unit and report to Bludo.",
+          "description_i18n": {
+            "en": "Dodge sword attacks; when it inhales behind its shield, throw in a Remote Bomb and detonate it. Take the heart, activate the main unit and report to Bludo.",
+            "pt": "Desvie da espada; quando ele sugar ar protegido pelo escudo, jogue uma Bomba Remota e detone-a. Pegue o coração, ative a unidade central e volte a Bludo."
+          },
+          "details": "Keep your volcanic protection active throughout the battle and stay clear of the large sword's reach. Move around its swings and attack after the sequence ends. Avoid using Bomb Arrows in this hot environment: they can explode before reaching the target.\n\nDuring the protected phase, wait until Fireblight begins drawing in air. Throw a Remote Bomb toward the suction, let it be pulled inside and detonate it to break the defense. Run in for a short attack while the boss is down, then prepare to dodge again. Collect the Heart Container before activating the main control unit.",
+          "details_i18n": {
+            "en": "Keep your volcanic protection active throughout the battle and stay clear of the large sword's reach. Move around its swings and attack after the sequence ends. Avoid using Bomb Arrows in this hot environment: they can explode before reaching the target.\n\nDuring the protected phase, wait until Fireblight begins drawing in air. Throw a Remote Bomb toward the suction, let it be pulled inside and detonate it to break the defense. Run in for a short attack while the boss is down, then prepare to dodge again. Collect the Heart Container before activating the main control unit.",
+            "pt": "Mantenha a proteção contra o calor vulcânico durante toda a batalha e fique fora do alcance da espada grande. Contorne os golpes e ataque quando a sequência terminar. Evite Flechas Bomba nesse ambiente quente: elas podem explodir antes de chegar ao alvo.\n\nNa fase protegida, espere Fireblight começar a sugar ar. Jogue uma Bomba Remota na direção da sucção, espere ser puxada e detone para quebrar a defesa. Aproxime-se para atacar brevemente enquanto o chefe estiver caído e prepare outra esquiva. Pegue o Recipiente de Coração antes de ativar a unidade central."
+          }
+        }
+      ]
+    },
+    {
+      "key": "gerudo-and-vah-naboris",
+      "title": "Gerudo Town and Vah Naboris",
+      "title_i18n": {
+        "en": "Gerudo Town and Vah Naboris",
+        "pt": "Cidade Gerudo e Vah Naboris"
+      },
+      "items": [
+        {
+          "key": "prepare-desert-travel",
+          "title": "Prepare for desert temperatures",
+          "title_i18n": {
+            "en": "Prepare for desert temperatures",
+            "pt": "Preparar-se para as temperaturas do deserto"
+          },
+          "description": "Bring heat resistance for daytime and cold resistance for night; Flame Guard is a different effect.",
+          "description_i18n": {
+            "en": "Bring heat resistance for daytime and cold resistance for night; Flame Guard is a different effect.",
+            "pt": "Leve resistência ao calor para o dia e ao frio para a noite; proteção contra chamas é outro efeito."
+          }
+        },
+        {
+          "key": "obtain-gerudo-disguise",
+          "title": "Find a way into Gerudo Town",
+          "title_i18n": {
+            "en": "Find a way into Gerudo Town",
+            "pt": "Encontrar uma forma de entrar na Cidade Gerudo"
+          },
+          "description": "Ask about entry near town, then buy the complete disguise from Vilia on Kara Kara Bazaar's inn roof for 600 rupees.",
+          "description_i18n": {
+            "en": "Ask about entry near town, then buy the complete disguise from Vilia on Kara Kara Bazaar's inn roof for 600 rupees.",
+            "pt": "Pergunte sobre a entrada perto da cidade e compre o disfarce completo de Vilia no telhado da hospedaria do Bazar Kara Kara por 600 rupis."
+          }
+        },
+        {
+          "key": "meet-riju",
+          "title": "Meet Riju and question the guards",
+          "title_i18n": {
+            "en": "Meet Riju and question the guards",
+            "pt": "Conhecer Riju e falar com os guardas"
+          },
+          "description": "Wear all three disguise pieces, visit the palace and ask the barracks guards about the stolen Thunder Helm.",
+          "description_i18n": {
+            "en": "Wear all three disguise pieces, visit the palace and ask the barracks guards about the stolen Thunder Helm.",
+            "pt": "Vista as três peças do disfarce, visite o palácio e pergunte aos guardas do quartel sobre o Elmo do Trovão roubado."
+          }
+        },
+        {
+          "key": "reach-yiga-hideout",
+          "title": "Find the Yiga Clan Hideout",
+          "title_i18n": {
+            "en": "Find the Yiga Clan Hideout",
+            "pt": "Encontrar o esconderijo do Clã Yiga"
+          },
+          "description": "Follow Karusa Valley north of town; bring Mighty Bananas to distract guards inside.",
+          "description_i18n": {
+            "en": "Follow Karusa Valley north of town; bring Mighty Bananas to distract guards inside.",
+            "pt": "Siga pelo Vale Karusa ao norte da cidade; leve Bananas Poderosas para distrair os guardas lá dentro."
+          }
+        },
+        {
+          "key": "sneak-through-yiga-hideout",
+          "title": "Sneak past the Yiga guards",
+          "title_i18n": {
+            "en": "Sneak past the Yiga guards",
+            "pt": "Passar escondido pelos guardas Yiga"
+          },
+          "description": "Watch patrols, use elevated paths and drop bananas away from your route; avoid fighting the Blademasters directly.",
+          "description_i18n": {
+            "en": "Watch patrols, use elevated paths and drop bananas away from your route; avoid fighting the Blademasters directly.",
+            "pt": "Observe as patrulhas, use caminhos elevados e solte bananas longe da rota; evite lutar de frente com os espadachins."
+          }
+        },
+        {
+          "key": "defeat-master-kohga",
+          "title": "Defeat Master Kohga and recover the helm",
+          "title_i18n": {
+            "en": "Defeat Master Kohga and recover the helm",
+            "pt": "Derrotar Mestre Kohga e recuperar o elmo"
+          },
+          "description": "Hit exposed openings with arrows and use Magnesis on his metal weapon in the final phase; open the reward chest.",
+          "description_i18n": {
+            "en": "Hit exposed openings with arrows and use Magnesis on his metal weapon in the final phase; open the reward chest.",
+            "pt": "Acerte as aberturas com flechas e use Magnesis na arma metálica da fase final; abra o baú de recompensa."
+          }
+        },
+        {
+          "key": "join-riju-assault",
+          "title": "Return the helm and join Riju",
+          "title_i18n": {
+            "en": "Return the helm and join Riju",
+            "pt": "Devolver o elmo e acompanhar Riju"
+          },
+          "description": "Report to the palace, then meet her at the southern lookout with a sand seal and Bomb Arrows.",
+          "description_i18n": {
+            "en": "Report to the palace, then meet her at the southern lookout with a sand seal and Bomb Arrows.",
+            "pt": "Volte ao palácio e depois encontre-a no posto ao sul com uma morsa-da-areia e Flechas Bomba."
+          }
+        },
+        {
+          "key": "board-naboris",
+          "title": "Disable Naboris's four feet",
+          "title_i18n": {
+            "en": "Disable Naboris's four feet",
+            "pt": "Desativar os quatro pés de Naboris"
+          },
+          "description": "Stay in Riju's protective circle when lightning charges and shoot Bomb Arrows at the feet.",
+          "description_i18n": {
+            "en": "Stay in Riju's protective circle when lightning charges and shoot Bomb Arrows at the feet.",
+            "pt": "Fique no círculo de proteção de Riju quando o raio carregar e atire Flechas Bomba nos pés."
+          }
+        },
+        {
+          "key": "naboris-map-and-terminals",
+          "title": "Complete Naboris's five terminals",
+          "title_i18n": {
+            "en": "Complete Naboris's five terminals",
+            "pt": "Completar os cinco terminais de Naboris"
+          },
+          "description": "Get the map, rotate the three body sections to align green conductors and use Magnesis, powered lifts and electrical spheres to reach terminals.",
+          "description_i18n": {
+            "en": "Get the map, rotate the three body sections to align green conductors and use Magnesis, powered lifts and electrical spheres to reach terminals.",
+            "pt": "Pegue o mapa, gire as três seções do corpo para alinhar condutores verdes e use Magnesis, elevadores e esferas elétricas para alcançar os terminais."
+          }
+        },
+        {
+          "key": "defeat-thunderblight",
+          "title": "Defeat Thunderblight and free Naboris",
+          "title_i18n": {
+            "en": "Defeat Thunderblight and free Naboris",
+            "pt": "Derrotar Thunderblight e libertar Naboris"
+          },
+          "description": "Block or dodge its dash and counterattack. Lift a metal pillar beside it with Magnesis during the lightning phase; afterward take the heart, activate the main unit and report to Riju.",
+          "description_i18n": {
+            "en": "Block or dodge its dash and counterattack. Lift a metal pillar beside it with Magnesis during the lightning phase; afterward take the heart, activate the main unit and report to Riju.",
+            "pt": "Bloqueie ou desvie da investida e contra-ataque. Erga um pilar ao lado dele com Magnesis na fase dos raios; depois pegue o coração, ative a unidade central e volte a Riju."
+          },
+          "details": "Keep a shield ready for the rapid approach, then counter after the attack sequence or after breaking its guard. Avoid committing to long weapon combinations that leave you exposed to the next dash. Prepare healing and shock resistance before starting if this timing is difficult.\n\nWhen metal pillars fall, leave their landing area and equip Magnesis. Grab a pillar and lift it beside Thunderblight, close enough that its lightning hits the pillar and the boss together. You do not need to throw the pillar. After the resulting stun, return to your weapon and resume short, controlled attacks.",
+          "details_i18n": {
+            "en": "Keep a shield ready for the rapid approach, then counter after the attack sequence or after breaking its guard. Avoid committing to long weapon combinations that leave you exposed to the next dash. Prepare healing and shock resistance before starting if this timing is difficult.\n\nWhen metal pillars fall, leave their landing area and equip Magnesis. Grab a pillar and lift it beside Thunderblight, close enough that its lightning hits the pillar and the boss together. You do not need to throw the pillar. After the resulting stun, return to your weapon and resume short, controlled attacks.",
+            "pt": "Mantenha um escudo pronto para a aproximação rápida e contra-ataque após a sequência ou ao quebrar a guarda. Evite combinações longas que deixem você exposto à próxima investida. Prepare cura e resistência elétrica antes da luta se o tempo dos golpes for difícil.\n\nQuando caírem pilares metálicos, saia da área de impacto e equipe Magnesis. Pegue um pilar e erga-o ao lado de Thunderblight, perto o suficiente para o raio atingir o pilar e o chefe juntos. Não é preciso arremessar o pilar. Após o atordoamento, volte à arma e retome ataques curtos e controlados."
+          }
+        }
+      ]
+    },
+    {
+      "key": "recovering-memories",
+      "title": "Recovering Zelda's memories",
+      "title_i18n": {
+        "en": "Recovering Zelda's memories",
+        "pt": "Recuperar as memórias de Zelda"
+      },
+      "items": [
+        {
+          "key": "recover-first-memory",
+          "title": "Recover a photograph memory",
+          "title_i18n": {
+            "en": "Recover a photograph memory",
+            "pt": "Recuperar uma memória das fotografias"
+          },
+          "description": "Compare an album photo with the landscape and examine its glowing spot; Pikango can offer location clues.",
+          "description_i18n": {
+            "en": "Compare an album photo with the landscape and examine its glowing spot; Pikango can offer location clues.",
+            "pt": "Compare uma foto do álbum com a paisagem e examine o ponto luminoso; Pikango pode dar pistas da localização."
+          }
+        },
+        {
+          "key": "claim-champions-tunic",
+          "title": "Show your first memory to Impa",
+          "title_i18n": {
+            "en": "Show your first memory to Impa",
+            "pt": "Contar a primeira memória a Impa"
+          },
+          "description": "Return after recovering at least one album memory to receive the Champion's Tunic.",
+          "description_i18n": {
+            "en": "Return after recovering at least one album memory to receive the Champion's Tunic.",
+            "pt": "Volte depois de recuperar pelo menos uma memória do álbum para receber a Túnica do Campeão."
+          }
+        },
+        {
+          "key": "recover-twelve-photos",
+          "title": "Recover all twelve album memories",
+          "title_i18n": {
+            "en": "Recover all twelve album memories",
+            "pt": "Recuperar as doze memórias do álbum"
+          },
+          "description": "Track the twelve photographs as a set, including the castle location; these differ from the Champion and sword memories.",
+          "description_i18n": {
+            "en": "Track the twelve photographs as a set, including the castle location; these differ from the Champion and sword memories.",
+            "pt": "Acompanhe o conjunto das doze fotografias, incluindo a do castelo; elas são diferentes das memórias dos Campeões e da espada."
+          }
+        },
+        {
+          "key": "find-final-memory",
+          "title": "Find Impa's final memory",
+          "title_i18n": {
+            "en": "Find Impa's final memory",
+            "pt": "Encontrar a última memória indicada por Impa"
+          },
+          "description": "After all twelve, return to Impa, inspect her painting and search the battlefield near Fort Hateno for the final spot.",
+          "description_i18n": {
+            "en": "After all twelve, return to Impa, inspect her painting and search the battlefield near Fort Hateno for the final spot.",
+            "pt": "Após as doze, volte a Impa, examine a pintura e procure o ponto final no campo de batalha perto do Forte Hateno."
+          }
+        },
+        {
+          "key": "finish-captured-memories",
+          "title": "Conclude Captured Memories",
+          "title_i18n": {
+            "en": "Conclude Captured Memories",
+            "pt": "Concluir Captured Memories"
+          },
+          "description": "Speak to Impa after the last recollection. This route includes the quest for the fuller ending, but it is not a gate to Ganon.",
+          "description_i18n": {
+            "en": "Speak to Impa after the last recollection. This route includes the quest for the fuller ending, but it is not a gate to Ganon.",
+            "pt": "Fale com Impa após a última lembrança. A rota inclui a missão para o final ampliado, mas ela não impede o acesso a Ganon."
+          }
+        }
+      ]
+    },
+    {
+      "key": "hyrule-castle-and-ganon",
+      "title": "Hyrule Castle and Ganon",
+      "title_i18n": {
+        "en": "Hyrule Castle and Ganon",
+        "pt": "Castelo de Hyrule e Ganon"
+      },
+      "items": [
+        {
+          "key": "prepare-final-battle",
+          "title": "Prepare for the final battle",
+          "title_i18n": {
+            "en": "Prepare for the final battle",
+            "pt": "Preparar-se para a batalha final"
+          },
+          "description": "Stock healing meals, arrows and spare weapons; upgrade useful armor and save before approaching the castle.",
+          "description_i18n": {
+            "en": "Stock healing meals, arrows and spare weapons; upgrade useful armor and save before approaching the castle.",
+            "pt": "Junte refeições de cura, flechas e armas reservas; melhore a armadura e salve antes de se aproximar do castelo."
+          }
+        },
+        {
+          "key": "choose-castle-entry",
+          "title": "Choose a castle approach",
+          "title_i18n": {
+            "en": "Choose a castle approach",
+            "pt": "Escolher uma entrada para o castelo"
+          },
+          "description": "Enter through the docks, climb the exterior or use the roads; avoid unnecessary Guardian and gatehouse fights.",
+          "description_i18n": {
+            "en": "Enter through the docks, climb the exterior or use the roads; avoid unnecessary Guardian and gatehouse fights.",
+            "pt": "Entre pelas docas, escale o exterior ou use as estradas; evite lutas desnecessárias com Guardiões e nas guaritas."
+          }
+        },
+        {
+          "key": "reach-sanctum",
+          "title": "Reach the Sanctum",
+          "title_i18n": {
+            "en": "Reach the Sanctum",
+            "pt": "Chegar ao Santuário Central"
+          },
+          "description": "Follow the castle map toward the highest central chamber; finish the castle photograph memory before entering.",
+          "description_i18n": {
+            "en": "Follow the castle map toward the highest central chamber; finish the castle photograph memory before entering.",
+            "pt": "Siga o mapa até a câmara central mais alta; conclua a memória da fotografia do castelo antes de entrar."
+          }
+        },
+        {
+          "key": "resolve-remaining-blights",
+          "title": "Face any uncleared Blight Ganons",
+          "title_i18n": {
+            "en": "Face any uncleared Blight Ganons",
+            "pt": "Enfrentar os Ganons das Bestas ainda não libertadas"
+          },
+          "description": "If you skipped Divine Beasts, their bosses appear before Calamity Ganon; freed Beasts instead help at the start of his battle.",
+          "description_i18n": {
+            "en": "If you skipped Divine Beasts, their bosses appear before Calamity Ganon; freed Beasts instead help at the start of his battle.",
+            "pt": "Se pulou Bestas Divinas, seus chefes aparecem antes de Calamity Ganon; as Bestas libertadas ajudam no início da luta contra ele."
+          }
+        },
+        {
+          "key": "defeat-calamity-ganon",
+          "title": "Defeat Calamity Ganon",
+          "title_i18n": {
+            "en": "Defeat Calamity Ganon",
+            "pt": "Derrotar Calamity Ganon"
+          },
+          "description": "Punish openings after attacks. During its glowing defense, use precise parries, flurry rushes or Champion powers to create an opening.",
+          "description_i18n": {
+            "en": "Punish openings after attacks. During its glowing defense, use precise parries, flurry rushes or Champion powers to create an opening.",
+            "pt": "Ataque nas aberturas após os golpes. Durante a defesa luminosa, use aparos precisos, esquivas perfeitas ou poderes dos Campeões para criar uma chance."
+          }
+        },
+        {
+          "key": "defeat-dark-beast",
+          "title": "Defeat Dark Beast Ganon",
+          "title_i18n": {
+            "en": "Defeat Dark Beast Ganon",
+            "pt": "Derrotar Dark Beast Ganon"
+          },
+          "description": "Equip the Bow of Light, hit Zelda's marked weak points and use an updraft to aim at the final exposed eye.",
+          "description_i18n": {
+            "en": "Equip the Bow of Light, hit Zelda's marked weak points and use an updraft to aim at the final exposed eye.",
+            "pt": "Equipe o Arco da Luz, acerte os pontos marcados por Zelda e use uma corrente de ar para mirar no último olho exposto."
+          }
+        },
+        {
+          "key": "confirm-star-save",
+          "title": "Watch the ending and confirm the star save",
+          "title_i18n": {
+            "en": "Watch the ending and confirm the star save",
+            "pt": "Ver o final e conferir a estrela no arquivo"
+          },
+          "description": "After the credits, load the starred save. It returns to before the final battle; there is no permanent post-Ganon world.",
+          "description_i18n": {
+            "en": "After the credits, load the starred save. It returns to before the final battle; there is no permanent post-Ganon world.",
+            "pt": "Após os créditos, carregue o arquivo com estrela. Ele retorna a antes da batalha final; não existe um mundo permanente depois de Ganon."
+          }
+        }
+      ]
+    },
+    {
+      "key": "lost-woods-and-master-sword",
+      "title": "Optional: Lost Woods and the Master Sword",
+      "title_i18n": {
+        "en": "Optional: Lost Woods and the Master Sword",
+        "pt": "Opcional: Floresta Perdida e Espada Mestra"
+      },
+      "items": [
+        {
+          "key": "reach-lost-woods",
+          "title": "Reach the Lost Woods entrance",
+          "title_i18n": {
+            "en": "Reach the Lost Woods entrance",
+            "pt": "Chegar à entrada da Floresta Perdida"
+          },
+          "description": "Approach the Great Hyrule Forest from the south using the road north of Woodland Stable.",
+          "description_i18n": {
+            "en": "Approach the Great Hyrule Forest from the south using the road north of Woodland Stable.",
+            "pt": "Chegue à Grande Floresta de Hyrule pelo sul, usando a estrada ao norte do Estábulo da Floresta."
+          }
+        },
+        {
+          "key": "follow-forest-wind",
+          "title": "Follow the wind through the fog",
+          "title_i18n": {
+            "en": "Follow the wind through the fog",
+            "pt": "Seguir o vento pela neblina"
+          },
+          "description": "Follow the lit braziers, then read the wind from a torch's drifting embers; retreat when fog thickens.",
+          "description_i18n": {
+            "en": "Follow the lit braziers, then read the wind from a torch's drifting embers; retreat when fog thickens.",
+            "pt": "Siga os braseiros acesos e observe as brasas de uma tocha para ler o vento; recue quando a neblina engrossar."
+          },
+          "details": "Follow the lit braziers through the first section and stop at the last clear landmark before wandering farther. Light a torch at the last braziers and observe the direction in which its embers drift. Walk in that direction, pausing periodically to read the wind again rather than following a single bearing across the whole forest.\n\nIf the fog thickens around Link, back away immediately toward the last safe ground. Running deeper usually triggers a reset. Once you reach Korok Forest, activate its shrine before exploring or attempting the sword, giving yourself a reliable return point outside the fog maze.",
+          "details_i18n": {
+            "en": "Follow the lit braziers through the first section and stop at the last clear landmark before wandering farther. Light a torch at the last braziers and observe the direction in which its embers drift. Walk in that direction, pausing periodically to read the wind again rather than following a single bearing across the whole forest.\n\nIf the fog thickens around Link, back away immediately toward the last safe ground. Running deeper usually triggers a reset. Once you reach Korok Forest, activate its shrine before exploring or attempting the sword, giving yourself a reliable return point outside the fog maze.",
+            "pt": "Siga os braseiros acesos na primeira parte e pare no último ponto claro antes de avançar. Acenda uma tocha nos últimos braseiros e observe para onde as brasas se deslocam. Caminhe nessa direção e pare periodicamente para ler o vento novamente, em vez de seguir uma direção fixa por toda a floresta.\n\nSe a neblina engrossar ao redor de Link, recue imediatamente até o último trecho seguro. Correr mais fundo costuma reiniciar o percurso. Ao chegar à Floresta Korok, ative o santuário antes de explorar ou tentar retirar a espada, garantindo um retorno confiável fora do labirinto de neblina."
+          }
+        },
+        {
+          "key": "unlock-forest-return-point",
+          "title": "Activate Keo Ruug Shrine",
+          "title_i18n": {
+            "en": "Activate Keo Ruug Shrine",
+            "pt": "Ativar o Santuário Keo Ruug"
+          },
+          "description": "Unlock this return point near the Great Deku Tree before exploring farther.",
+          "description_i18n": {
+            "en": "Unlock this return point near the Great Deku Tree before exploring farther.",
+            "pt": "Libere este ponto de retorno perto da Grande Árvore Deku antes de explorar mais longe."
+          }
+        },
+        {
+          "key": "prepare-thirteen-hearts",
+          "title": "Reach 13 permanent hearts",
+          "title_i18n": {
+            "en": "Reach 13 permanent hearts",
+            "pt": "Conseguir 13 corações permanentes"
+          },
+          "description": "Exchange Spirit Orbs or reassign upgrades at Hateno's Horned Statue; temporary yellow hearts do not count for drawing the sword.",
+          "description_i18n": {
+            "en": "Exchange Spirit Orbs or reassign upgrades at Hateno's Horned Statue; temporary yellow hearts do not count for drawing the sword.",
+            "pt": "Troque Orbes Espirituais ou redistribua melhorias na Estátua Chifruda de Hateno; corações amarelos temporários não contam para retirar a espada."
+          }
+        },
+        {
+          "key": "claim-master-sword",
+          "title": "Draw the Master Sword",
+          "title_i18n": {
+            "en": "Draw the Master Sword",
+            "pt": "Retirar a Espada Mestra"
+          },
+          "description": "With at least 13 permanent hearts and full health, hold the interaction at the pedestal until Link completes the pull.",
+          "description_i18n": {
+            "en": "With at least 13 permanent hearts and full health, hold the interaction at the pedestal until Link completes the pull.",
+            "pt": "Com pelo menos 13 corações permanentes e a vida cheia, mantenha a interação no pedestal até Link terminar de puxar."
+          }
+        },
+        {
+          "key": "learn-sword-recharge",
+          "title": "Plan around the sword's recharge",
+          "title_i18n": {
+            "en": "Plan around the sword's recharge",
+            "pt": "Planejar o uso e a recarga da espada"
+          },
+          "description": "Keep backup weapons while its energy recharges. The sword helps against Ganon but is never required to finish the game.",
+          "description_i18n": {
+            "en": "Keep backup weapons while its energy recharges. The sword helps against Ganon but is never required to finish the game.",
+            "pt": "Mantenha armas reservas enquanto a energia recarrega. A espada ajuda contra Ganon, mas nunca é obrigatória para terminar o jogo."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "selected-side-adventures",
+      "title": "Selected side adventures",
+      "title_i18n": {
+        "en": "Selected side adventures",
+        "pt": "Aventuras secundárias selecionadas"
+      },
+      "items": [
+        {
+          "key": "unlock-great-fairy",
+          "title": "Unlock Cotera's Great Fairy Fountain",
+          "title_i18n": {
+            "en": "Unlock Cotera's Great Fairy Fountain",
+            "pt": "Liberar a Fonte da Grande Fada Cotera"
+          },
+          "description": "Follow the path above Kakariko, pay the initial fee and upgrade at least one armor piece with the requested materials.",
+          "description_i18n": {
+            "en": "Follow the path above Kakariko, pay the initial fee and upgrade at least one armor piece with the requested materials.",
+            "pt": "Siga o caminho acima de Kakariko, pague a taxa inicial e melhore ao menos uma peça de armadura com os materiais pedidos."
+          }
+        },
+        {
+          "key": "expand-inventory",
+          "title": "Expand your weapon inventory",
+          "title_i18n": {
+            "en": "Expand your weapon inventory",
+            "pt": "Ampliar o inventário de armas"
+          },
+          "description": "Give Korok Seeds to Hestu after returning his maracas; purchase at least one extra weapon slot.",
+          "description_i18n": {
+            "en": "Give Korok Seeds to Hestu after returning his maracas; purchase at least one extra weapon slot.",
+            "pt": "Entregue Sementes Korok a Hestu após devolver as maracas; compre pelo menos um espaço extra para armas."
+          }
+        },
+        {
+          "key": "upgrade-stasis",
+          "title": "Upgrade Stasis at Hateno",
+          "title_i18n": {
+            "en": "Upgrade Stasis at Hateno",
+            "pt": "Melhorar Stasis em Hateno"
+          },
+          "description": "Bring Purah three Ancient Cores for Stasis+, allowing the rune to briefly freeze enemies.",
+          "description_i18n": {
+            "en": "Bring Purah three Ancient Cores for Stasis+, allowing the rune to briefly freeze enemies.",
+            "pt": "Leve três Núcleos Ancestrais a Purah para obter Stasis+, que permite congelar inimigos por pouco tempo."
+          }
+        },
+        {
+          "key": "complete-hylian-homeowner",
+          "title": "Complete Hylian Homeowner",
+          "title_i18n": {
+            "en": "Complete Hylian Homeowner",
+            "pt": "Concluir Hylian Homeowner"
+          },
+          "description": "Speak to Bolson in Hateno, buy the house and purchase its remaining furnishings and upgrades to finish the quest.",
+          "description_i18n": {
+            "en": "Speak to Bolson in Hateno, buy the house and purchase its remaining furnishings and upgrades to finish the quest.",
+            "pt": "Fale com Bolson em Hateno, compre a casa e adquira os móveis e melhorias restantes para concluir a missão."
+          }
+        },
+        {
+          "key": "complete-tarrey-town",
+          "title": "Complete From the Ground Up",
+          "title_i18n": {
+            "en": "Complete From the Ground Up",
+            "pt": "Concluir From the Ground Up"
+          },
+          "description": "After Hudson leaves Hateno, supply the wood and recruits he requests in Akkala until Tarrey Town's wedding concludes the quest.",
+          "description_i18n": {
+            "en": "After Hudson leaves Hateno, supply the wood and recruits he requests in Akkala until Tarrey Town's wedding concludes the quest.",
+            "pt": "Depois que Hudson sair de Hateno, forneça a madeira e os recrutas pedidos em Akkala até o casamento que conclui a missão em Tarrey Town."
+          }
+        },
+        {
+          "key": "complete-eventide",
+          "title": "Complete Eventide Island's trial",
+          "title_i18n": {
+            "en": "Complete Eventide Island's trial",
+            "pt": "Concluir o teste da Ilha Eventide"
+          },
+          "description": "Reach the island off the southeast coast, survive its temporary equipment restriction and place three orbs on their pedestals.",
+          "description_i18n": {
+            "en": "Reach the island off the southeast coast, survive its temporary equipment restriction and place three orbs on their pedestals.",
+            "pt": "Chegue à ilha na costa sudeste, sobreviva à restrição temporária de equipamentos e coloque três orbes nos pedestais."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "collectible-goals",
+      "title": "Optional collectible milestones",
+      "title_i18n": {
+        "en": "Optional collectible milestones",
+        "pt": "Metas opcionais de colecionáveis"
+      },
+      "items": [
+        {
+          "key": "reveal-all-regions",
+          "title": "Activate all 15 Sheikah Towers",
+          "title_i18n": {
+            "en": "Activate all 15 Sheikah Towers",
+            "pt": "Ativar as 15 Torres Sheikah"
+          },
+          "description": "Reveal every base-game region. This tower goal is separate from the game's map-completion percentage.",
+          "description_i18n": {
+            "en": "Reveal every base-game region. This tower goal is separate from the game's map-completion percentage.",
+            "pt": "Revele todas as regiões do jogo base. Esta meta de torres é diferente da porcentagem de conclusão do mapa."
+          }
+        },
+        {
+          "key": "complete-forty-shrines",
+          "title": "Complete 40 base-game shrines",
+          "title_i18n": {
+            "en": "Complete 40 base-game shrines",
+            "pt": "Concluir 40 santuários do jogo base"
+          },
+          "description": "Track the total on the loading screen and exchange earned Spirit Orbs for hearts or stamina.",
+          "description_i18n": {
+            "en": "Track the total on the loading screen and exchange earned Spirit Orbs for hearts or stamina.",
+            "pt": "Confira o total na tela de carregamento e troque os Orbes Espirituais por corações ou vigor."
+          }
+        },
+        {
+          "key": "complete-eighty-shrines",
+          "title": "Complete 80 base-game shrines",
+          "title_i18n": {
+            "en": "Complete 80 base-game shrines",
+            "pt": "Concluir 80 santuários do jogo base"
+          },
+          "description": "Revisit unfinished trials and track unresolved shrine quests by region.",
+          "description_i18n": {
+            "en": "Revisit unfinished trials and track unresolved shrine quests by region.",
+            "pt": "Volte aos testes incompletos e acompanhe as missões de santuário pendentes por região."
+          }
+        },
+        {
+          "key": "complete-all-base-shrines",
+          "title": "Complete all 120 base-game shrines",
+          "title_i18n": {
+            "en": "Complete all 120 base-game shrines",
+            "pt": "Concluir os 120 santuários do jogo base"
+          },
+          "description": "This aggregate goal includes shrine quests; individual shrine locations are not enumerated in this guide.",
+          "description_i18n": {
+            "en": "This aggregate goal includes shrine quests; individual shrine locations are not enumerated in this guide.",
+            "pt": "Esta meta conjunta inclui as missões de santuário; este guia não enumera a localização de cada um."
+          }
+        },
+        {
+          "key": "collect-one-hundred-koroks",
+          "title": "Find 100 Korok Seeds",
+          "title_i18n": {
+            "en": "Find 100 Korok Seeds",
+            "pt": "Encontrar 100 Sementes Korok"
+          },
+          "description": "Investigate unusual rocks, patterns, races and balloons along your route; spend seeds on useful inventory slots.",
+          "description_i18n": {
+            "en": "Investigate unusual rocks, patterns, races and balloons along your route; spend seeds on useful inventory slots.",
+            "pt": "Investigue rochas, padrões, corridas e balões incomuns no caminho; use sementes em espaços úteis do inventário."
+          }
+        },
+        {
+          "key": "collect-all-koroks",
+          "title": "Optional long-term goal: find all 900 seeds",
+          "title_i18n": {
+            "en": "Optional long-term goal: find all 900 seeds",
+            "pt": "Meta opcional de longo prazo: encontrar as 900 sementes"
+          },
+          "description": "Use a separate detailed map to track every Korok. This aggregate checkbox is not a location guide and is unnecessary for the story.",
+          "description_i18n": {
+            "en": "Use a separate detailed map to track every Korok. This aggregate checkbox is not a location guide and is unnecessary for the story.",
+            "pt": "Use um mapa detalhado à parte para acompanhar cada Korok. Esta marcação conjunta não é um guia de localizações e é desnecessária para a história."
+          }
+        },
+        {
+          "key": "complete-base-compendium",
+          "title": "Complete the base-game Hyrule Compendium",
+          "title_i18n": {
+            "en": "Complete the base-game Hyrule Compendium",
+            "pt": "Completar a Enciclopédia de Hyrule do jogo base"
+          },
+          "description": "Photograph missing creatures, monsters, materials, equipment and treasure; ask Symin at Hateno's lab about buying missing entries.",
+          "description_i18n": {
+            "en": "Photograph missing creatures, monsters, materials, equipment and treasure; ask Symin at Hateno's lab about buying missing entries.",
+            "pt": "Fotografe criaturas, monstros, materiais, equipamentos e tesouros que faltam; pergunte a Symin no laboratório de Hateno sobre comprar registros ausentes."
+          }
+        }
+      ],
+      "kind": "collectible"
+    }
+  ],
+  "trophies": [],
+  "hltb_id": "38019",
+  "hltb_main_hours": 50,
+  "hltb_main_extra_hours": 98,
+  "hltb_completionist_hours": 194
+}

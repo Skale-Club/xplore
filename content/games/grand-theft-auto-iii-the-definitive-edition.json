@@ -1,0 +1,2553 @@
+{
+  "slug": "grand-theft-auto-iii-the-definitive-edition",
+  "title": "Grand Theft Auto III – The Definitive Edition",
+  "title_i18n": {
+    "en": "Grand Theft Auto III – The Definitive Edition",
+    "pt": "Grand Theft Auto III – The Definitive Edition"
+  },
+  "platform": "PlayStation 5",
+  "cover_url": "/covers/grand-theft-auto-iii-the-definitive-edition.png",
+  "created_by": "dd5c4bf0-85ea-4986-9c04-b37e8c986150",
+  "categories": [
+    {
+      "key": "portland-opening-and-preparation",
+      "title": "Portland: opening and preparation",
+      "title_i18n": {
+        "en": "Portland: opening and preparation",
+        "pt": "Portland: início e preparação"
+      },
+      "items": [
+        {
+          "key": "select-original-ps2-campaign",
+          "title": "Begin the PS5 Definitive Edition campaign",
+          "title_i18n": {
+            "en": "Begin the PS5 Definitive Edition campaign",
+            "pt": "Inicie a campanha Definitive Edition do PS5"
+          },
+          "description": "Use the remaster’s controls and review the four Portland mission challenges before advancing.",
+          "description_i18n": {
+            "en": "Use the remaster’s controls and review the four Portland mission challenges before advancing.",
+            "pt": "Use os controles do remaster e confira os quatro desafios de missão de Portland antes de avançar."
+          },
+          "details": "The remaster adds modern targeting, a full map and mission retry after failure, but it does not provide a normal menu for replaying a successfully completed story mission. Keep separate manual saves before the four Portland trophy challenges and the later contact cutoffs. A retry prompt is not a replacement for a pre-mission recovery save. Play without cheats for trophies, and save side-activity progress manually rather than assuming autosave preserves every pickup or vehicle-service attempt.",
+          "details_i18n": {
+            "en": "The remaster adds modern targeting, a full map and mission retry after failure, but it does not provide a normal menu for replaying a successfully completed story mission. Keep separate manual saves before the four Portland trophy challenges and the later contact cutoffs. A retry prompt is not a replacement for a pre-mission recovery save. Play without cheats for trophies, and save side-activity progress manually rather than assuming autosave preserves every pickup or vehicle-service attempt.",
+            "pt": "O remaster acrescenta mira moderna, mapa completo e nova tentativa após falhar, mas não oferece um menu comum para repetir uma missão da história já concluída. Mantenha salvamentos manuais separados antes dos quatro desafios de troféu de Portland e dos bloqueios posteriores de contatos. Um comando de nova tentativa não substitui o salvamento anterior à missão. Jogue sem trapaças para obter troféus e salve manualmente o progresso secundário, sem presumir que o salvamento automático preserve cada coleta ou tentativa de serviço."
+          }
+        },
+        {
+          "key": "learn-ps2-driving-and-targeting",
+          "title": "Practice driving and targeting",
+          "title_i18n": {
+            "en": "Practice driving and targeting",
+            "pt": "Praticar direção e mira"
+          },
+          "description": "Review braking, handbrake, weapon selection and manual aiming before a difficult mission.",
+          "description_i18n": {
+            "en": "Review braking, handbrake, weapon selection and manual aiming before a difficult mission.",
+            "pt": "Confira freio, freio de mão, seleção de armas e mira manual antes de uma missão difícil."
+          }
+        },
+        {
+          "key": "protect-yourself-near-water",
+          "title": "Treat deep water as lethal",
+          "title_i18n": {
+            "en": "Treat deep water as lethal",
+            "pt": "Tratar águas profundas como letais"
+          },
+          "description": "Claude still cannot swim in this remaster; approach docks and boat transfers carefully.",
+          "description_i18n": {
+            "en": "Claude still cannot swim in this remaster; approach docks and boat transfers carefully.",
+            "pt": "Claude continua sem saber nadar neste remaster; aproxime-se de docas e transferências de barco com cuidado."
+          },
+          "details": "Claude still cannot swim in the Definitive Edition. Deep water is not an escape route from police, and a vehicle entering it can end an otherwise successful mission. Slow down near the docks and keep room to turn a car around. For boat transfers, bring the hull alongside a low landing before stepping out; do not jump toward a distant shore. Keep a recovery save before unfamiliar water missions.",
+          "details_i18n": {
+            "en": "Claude still cannot swim in the Definitive Edition. Deep water is not an escape route from police, and a vehicle entering it can end an otherwise successful mission. Slow down near the docks and keep room to turn a car around. For boat transfers, bring the hull alongside a low landing before stepping out; do not jump toward a distant shore. Keep a recovery save before unfamiliar water missions.",
+            "pt": "Claude continua sem saber nadar na Definitive Edition. Água profunda não é uma rota de fuga da polícia, e entrar nela com um veículo pode encerrar uma missão que estava indo bem. Reduza a velocidade perto das docas e deixe espaço para manobrar. Ao trocar o barco por terra firme, encoste o casco em um desembarque baixo antes de sair; não salte em direção a uma margem distante. Preserve um salvamento de recuperação antes de missões aquáticas desconhecidas."
+          }
+        },
+        {
+          "key": "plan-regular-safehouse-saves",
+          "title": "Use regular safehouse saves",
+          "title_i18n": {
+            "en": "Use regular safehouse saves",
+            "pt": "Usar salvamentos frequentes no esconderijo"
+          },
+          "description": "Save between missions and keep a separate recovery slot before major changes in the contact list.",
+          "description_i18n": {
+            "en": "Save between missions and keep a separate recovery slot before major changes in the contact list.",
+            "pt": "Salve entre missões e preserve um espaço separado de recuperação antes de grandes mudanças nos contatos."
+          }
+        },
+        {
+          "key": "read-completionist-route-warnings",
+          "title": "Review the optional 100% route warnings",
+          "title_i18n": {
+            "en": "Review the optional 100% route warnings",
+            "pt": "Conferir os avisos da rota opcional de 100%"
+          },
+          "description": "Check the side categories before advancing contact strands if full completion is your goal.",
+          "description_i18n": {
+            "en": "Check the side categories before advancing contact strands if full completion is your goal.",
+            "pt": "Confira as categorias extras antes de avançar nas sequências dos contatos se quiser a conclusão integral."
+          },
+          "details": "For a 100% run, use a separate save before the three major availability changes. Finish Luigi and Joey before Salvatore's Last Requests; following the full Toni strand first is also the safe Portland route. Finish all five Kenji assignments before Donald's Waka-Gashira Wipeout!, and finish Asuka's Two-Faced Tanner before Grand Theft Aero. The optional contact category lists these ten permanently missable jobs separately. A later safehouse save does not restore a lost contact; an earlier save is the straightforward recovery.",
+          "details_i18n": {
+            "en": "For a 100% run, use a separate save before the three major availability changes. Finish Luigi and Joey before Salvatore's Last Requests; following the full Toni strand first is also the safe Portland route. Finish all five Kenji assignments before Donald's Waka-Gashira Wipeout!, and finish Asuka's Two-Faced Tanner before Grand Theft Aero. The optional contact category lists these ten permanently missable jobs separately. A later safehouse save does not restore a lost contact; an earlier save is the straightforward recovery.",
+            "pt": "Para buscar 100%, mantenha um salvamento separado antes das três grandes mudanças de disponibilidade. Termine Luigi e Joey antes de Last Requests, de Salvatore; concluir primeiro a sequência de Toni também é a rota segura de Portland. Termine os cinco trabalhos de Kenji antes de Waka-Gashira Wipeout!, de Donald, e Two-Faced Tanner, de Asuka, antes de Grand Theft Aero. A categoria de contatos opcionais lista separadamente esses dez trabalhos perdíveis. Um salvamento posterior não restaura um contato perdido; recuperar um salvamento anterior é a solução direta."
+          }
+        },
+        {
+          "key": "give-me-liberty",
+          "title": "Complete Give Me Liberty",
+          "title_i18n": {
+            "en": "Complete Give Me Liberty",
+            "pt": "Concluir Give Me Liberty"
+          },
+          "description": "Reach the first hideout with 8-Ball and follow the opening directions.",
+          "description_i18n": {
+            "en": "Reach the first hideout with 8-Ball and follow the opening directions.",
+            "pt": "Alcance o primeiro esconderijo com 8-Ball e siga as instruções iniciais."
+          }
+        },
+        {
+          "key": "luigi-s-girls",
+          "title": "Complete Luigi's Girls",
+          "title_i18n": {
+            "en": "Complete Luigi's Girls",
+            "pt": "Concluir Luigi's Girls"
+          },
+          "description": "Meet Luigi and complete the first passenger delivery.",
+          "description_i18n": {
+            "en": "Meet Luigi and complete the first passenger delivery.",
+            "pt": "Encontre Luigi e conclua a primeira entrega de passageira."
+          }
+        }
+      ]
+    },
+    {
+      "key": "luigi-and-joey-early-work",
+      "title": "Portland: Luigi and Joey",
+      "title_i18n": {
+        "en": "Portland: Luigi and Joey",
+        "pt": "Portland: Luigi e Joey"
+      },
+      "items": [
+        {
+          "key": "don-t-spank-ma-bitch-up",
+          "title": "Complete Don't Spank Ma Bitch Up",
+          "title_i18n": {
+            "en": "Complete Don't Spank Ma Bitch Up",
+            "pt": "Concluir Don't Spank Ma Bitch Up"
+          },
+          "description": "Follow the marked target and return the requested car through the final handover.",
+          "description_i18n": {
+            "en": "Follow the marked target and return the requested car through the final handover.",
+            "pt": "Siga o alvo marcado e devolva o carro solicitado na entrega final."
+          }
+        },
+        {
+          "key": "drive-misty-for-me",
+          "title": "Complete Drive Misty For Me",
+          "title_i18n": {
+            "en": "Complete Drive Misty For Me",
+            "pt": "Concluir Drive Misty For Me"
+          },
+          "description": "Pick up Misty and bring her safely to the requested destination.",
+          "description_i18n": {
+            "en": "Pick up Misty and bring her safely to the requested destination.",
+            "pt": "Busque Misty e leve-a em segurança ao destino solicitado."
+          }
+        },
+        {
+          "key": "mike-lips-last-lunch",
+          "title": "Complete Mike Lips Last Lunch",
+          "title_i18n": {
+            "en": "Complete Mike Lips Last Lunch",
+            "pt": "Concluir Mike Lips Last Lunch"
+          },
+          "description": "Complete the vehicle preparation and return without attracting unnecessary attention.",
+          "description_i18n": {
+            "en": "Complete the vehicle preparation and return without attracting unnecessary attention.",
+            "pt": "Conclua a preparação do veículo e retorne sem chamar atenção desnecessária."
+          }
+        },
+        {
+          "key": "farewell-chunky-lee-chong",
+          "title": "Complete Farewell 'Chunky' Lee Chong",
+          "title_i18n": {
+            "en": "Complete Farewell 'Chunky' Lee Chong",
+            "pt": "Concluir Farewell 'Chunky' Lee Chong"
+          },
+          "description": "Approach the marked district prepared for resistance and a possible pursuit.",
+          "description_i18n": {
+            "en": "Approach the marked district prepared for resistance and a possible pursuit.",
+            "pt": "Aproxime-se do distrito marcado preparado para resistência e possível perseguição."
+          }
+        },
+        {
+          "key": "van-heist",
+          "title": "Complete Van Heist",
+          "title_i18n": {
+            "en": "Complete Van Heist",
+            "pt": "Concluir Van Heist"
+          },
+          "description": "Disable the target van without destroying the vehicle you must deliver.",
+          "description_i18n": {
+            "en": "Disable the target van without destroying the vehicle you must deliver.",
+            "pt": "Pare o furgão-alvo sem destruir o veículo que precisa entregar."
+          }
+        },
+        {
+          "key": "cipriani-s-chauffeur",
+          "title": "Complete Cipriani's Chauffeur",
+          "title_i18n": {
+            "en": "Complete Cipriani's Chauffeur",
+            "pt": "Concluir Cipriani's Chauffeur"
+          },
+          "description": "Drive Toni through the stops and remain ready for a hurried departure.",
+          "description_i18n": {
+            "en": "Drive Toni through the stops and remain ready for a hurried departure.",
+            "pt": "Leve Toni às paradas e prepare-se para uma saída apressada."
+          }
+        },
+        {
+          "key": "find-portland-ammunition-and-armor",
+          "title": "Identify useful supplies in Portland",
+          "title_i18n": {
+            "en": "Identify useful supplies in Portland",
+            "pt": "Identificar suprimentos úteis em Portland"
+          },
+          "description": "Locate weapon and armor sources you can revisit after a failed attempt.",
+          "description_i18n": {
+            "en": "Locate weapon and armor sources you can revisit after a failed attempt.",
+            "pt": "Localize fontes de armas e colete às quais possa voltar após uma tentativa malsucedida."
+          }
+        },
+        {
+          "key": "review-luigi-joey-side-branches",
+          "title": "Review Luigi and Joey's remaining branches",
+          "title_i18n": {
+            "en": "Review Luigi and Joey's remaining branches",
+            "pt": "Conferir os ramos restantes de Luigi e Joey"
+          },
+          "description": "Their optional remaining missions are listed separately and should be done before Last Requests for 100%.",
+          "description_i18n": {
+            "en": "Their optional remaining missions are listed separately and should be done before Last Requests for 100%.",
+            "pt": "As missões opcionais restantes estão separadas e devem ser feitas antes de Last Requests para 100%."
+          }
+        }
+      ]
+    },
+    {
+      "key": "toni-and-mafia-assignments",
+      "title": "Portland: Toni and the Mafia",
+      "title_i18n": {
+        "en": "Portland: Toni and the Mafia",
+        "pt": "Portland: Toni e a Máfia"
+      },
+      "items": [
+        {
+          "key": "taking-out-the-laundry",
+          "title": "Complete Taking Out The Laundry",
+          "title_i18n": {
+            "en": "Complete Taking Out The Laundry",
+            "pt": "Concluir Taking Out The Laundry"
+          },
+          "description": "Track the marked laundry vans and finish all requested targets.",
+          "description_i18n": {
+            "en": "Track the marked laundry vans and finish all requested targets.",
+            "pt": "Acompanhe os furgões de lavanderia marcados e conclua todos os alvos solicitados."
+          }
+        },
+        {
+          "key": "the-pick-up",
+          "title": "Complete The Pick-Up",
+          "title_i18n": {
+            "en": "Complete The Pick-Up",
+            "pt": "Concluir The Pick-Up"
+          },
+          "description": "Collect the payment and stay alert through the return journey.",
+          "description_i18n": {
+            "en": "Collect the payment and stay alert through the return journey.",
+            "pt": "Recolha o pagamento e fique atento durante o retorno."
+          }
+        },
+        {
+          "key": "salvatore-s-called-a-meeting",
+          "title": "Complete Salvatore's Called A Meeting",
+          "title_i18n": {
+            "en": "Complete Salvatore's Called A Meeting",
+            "pt": "Concluir Salvatore's Called A Meeting"
+          },
+          "description": "Collect the requested passengers and bring the group to the meeting.",
+          "description_i18n": {
+            "en": "Collect the requested passengers and bring the group to the meeting.",
+            "pt": "Busque os passageiros solicitados e leve o grupo ao encontro."
+          }
+        },
+        {
+          "key": "chaperone",
+          "title": "Complete Chaperone",
+          "title_i18n": {
+            "en": "Complete Chaperone",
+            "pt": "Concluir Chaperone"
+          },
+          "description": "Take Maria to the requested stops and complete the return safely.",
+          "description_i18n": {
+            "en": "Take Maria to the requested stops and complete the return safely.",
+            "pt": "Leve Maria às paradas solicitadas e conclua o retorno em segurança."
+          }
+        },
+        {
+          "key": "triads-and-tribulations",
+          "title": "Complete Triads And Tribulations",
+          "title_i18n": {
+            "en": "Complete Triads And Tribulations",
+            "pt": "Concluir Triads And Tribulations"
+          },
+          "description": "Follow the marked targets while protecting your available escape route.",
+          "description_i18n": {
+            "en": "Follow the marked targets while protecting your available escape route.",
+            "pt": "Siga os alvos marcados preservando sua rota de fuga."
+          }
+        },
+        {
+          "key": "blow-fish",
+          "title": "Complete Blow Fish",
+          "title_i18n": {
+            "en": "Complete Blow Fish",
+            "pt": "Concluir Blow Fish"
+          },
+          "description": "Handle the special vehicle carefully and follow the delivery instructions.",
+          "description_i18n": {
+            "en": "Handle the special vehicle carefully and follow the delivery instructions.",
+            "pt": "Conduza o veículo especial com cuidado e siga as instruções de entrega."
+          }
+        },
+        {
+          "key": "save-before-late-portland-work",
+          "title": "Save before the later Portland jobs",
+          "title_i18n": {
+            "en": "Save before the later Portland jobs",
+            "pt": "Salvar antes dos trabalhos finais de Portland"
+          },
+          "description": "Restock before returning to Salvatore and review any unfinished optional work.",
+          "description_i18n": {
+            "en": "Restock before returning to Salvatore and review any unfinished optional work.",
+            "pt": "Reabasteça antes de voltar a Salvatore e confira os trabalhos opcionais pendentes."
+          }
+        }
+      ]
+    },
+    {
+      "key": "salvatore-and-staunton-crossing",
+      "title": "Portland: Salvatore and the crossing",
+      "title_i18n": {
+        "en": "Portland: Salvatore and the crossing",
+        "pt": "Portland: Salvatore e a travessia"
+      },
+      "items": [
+        {
+          "key": "cutting-the-grass",
+          "title": "Complete Cutting The Grass",
+          "title_i18n": {
+            "en": "Complete Cutting The Grass",
+            "pt": "Concluir Cutting The Grass"
+          },
+          "description": "Follow the suspect while watching the suspicion indicator.",
+          "description_i18n": {
+            "en": "Follow the suspect while watching the suspicion indicator.",
+            "pt": "Siga o suspeito acompanhando o indicador de suspeita."
+          }
+        },
+        {
+          "key": "bomb-da-base-act-i",
+          "title": "Complete Bomb Da Base: Act I",
+          "title_i18n": {
+            "en": "Complete Bomb Da Base: Act I",
+            "pt": "Concluir Bomb Da Base: Act I"
+          },
+          "description": "Attend the briefing and prepare for the next stage with 8-Ball.",
+          "description_i18n": {
+            "en": "Attend the briefing and prepare for the next stage with 8-Ball.",
+            "pt": "Participe da reunião e prepare-se para a próxima etapa com 8-Ball."
+          }
+        },
+        {
+          "key": "prepare-bomb-da-base-funds",
+          "title": "Prepare the funds for 8-Ball",
+          "title_i18n": {
+            "en": "Prepare the funds for 8-Ball",
+            "pt": "Preparar o dinheiro para 8-Ball"
+          },
+          "description": "Have the requested $100,000 available before committing to the operation.",
+          "description_i18n": {
+            "en": "Have the requested $100,000 available before committing to the operation.",
+            "pt": "Tenha os $100.000 solicitados disponíveis antes de iniciar a operação."
+          }
+        },
+        {
+          "key": "reach-bomb-da-base-position",
+          "title": "Reach the support position",
+          "title_i18n": {
+            "en": "Reach the support position",
+            "pt": "Alcançar a posição de apoio"
+          },
+          "description": "Take 8-Ball to the marked area and inspect the support route before opening fire.",
+          "description_i18n": {
+            "en": "Take 8-Ball to the marked area and inspect the support route before opening fire.",
+            "pt": "Leve 8-Ball à área marcada e observe a rota de apoio antes de abrir fogo."
+          }
+        },
+        {
+          "key": "bomb-da-base-act-ii",
+          "title": "Complete Bomb Da Base: Act II",
+          "title_i18n": {
+            "en": "Complete Bomb Da Base: Act II",
+            "pt": "Concluir Bomb Da Base: Act II"
+          },
+          "description": "Protect 8-Ball and finish the harbor operation.",
+          "description_i18n": {
+            "en": "Protect 8-Ball and finish the harbor operation.",
+            "pt": "Proteja 8-Ball e conclua a operação no porto."
+          },
+          "details": "Bring the requested funds to 8-Ball, take him to the harbor and climb the warehouse roof facing the ship before firing. Your first shot starts his advance, so identify the guards before beginning. Clear the two guards near the boarding approach, then quickly work along the deck so nobody can shoot him as he moves forward. Prioritize enemies with a clear line to 8-Ball rather than distant targets. Keep the sniper view controlled and avoid explosions close to him. If he dies, the mission fails even if you survive.",
+          "details_i18n": {
+            "en": "Bring the requested funds to 8-Ball, take him to the harbor and climb the warehouse roof facing the ship before firing. Your first shot starts his advance, so identify the guards before beginning. Clear the two guards near the boarding approach, then quickly work along the deck so nobody can shoot him as he moves forward. Prioritize enemies with a clear line to 8-Ball rather than distant targets. Keep the sniper view controlled and avoid explosions close to him. If he dies, the mission fails even if you survive.",
+            "pt": "Leve o dinheiro solicitado a 8-Ball, acompanhe-o ao porto e suba ao teto do armazém de frente para o navio antes de disparar. Seu primeiro tiro inicia o avanço dele, portanto identifique os guardas antes de começar. Elimine os dois próximos do acesso ao navio e avance rapidamente pela tripulação no convés, impedindo que atirem nele. Priorize inimigos com visão direta de 8-Ball em vez de alvos distantes. Controle a mira do rifle e evite explosões perto dele. Se ele morrer, a missão falha mesmo que você sobreviva."
+          }
+        },
+        {
+          "key": "check-portland-before-last-requests",
+          "title": "Review Portland before Last Requests",
+          "title_i18n": {
+            "en": "Review Portland before Last Requests",
+            "pt": "Revisar Portland antes de Last Requests"
+          },
+          "description": "For 100%, finish Luigi and Joey's remaining jobs first; Toni's strand is also complete on this route.",
+          "description_i18n": {
+            "en": "For 100%, finish Luigi and Joey's remaining jobs first; Toni's strand is also complete on this route.",
+            "pt": "Para 100%, termine primeiro os trabalhos restantes de Luigi e Joey; a sequência de Toni também está concluída nesta rota."
+          }
+        },
+        {
+          "key": "last-requests",
+          "title": "Complete Last Requests",
+          "title_i18n": {
+            "en": "Complete Last Requests",
+            "pt": "Concluir Last Requests"
+          },
+          "description": "Read new messages carefully and follow the updated destination.",
+          "description_i18n": {
+            "en": "Read new messages carefully and follow the updated destination.",
+            "pt": "Leia as novas mensagens com atenção e siga o destino atualizado."
+          },
+          "details": "If pursuing 100%, finish the remaining Luigi and Joey jobs before starting this departure. Approach the indicated car area and pay attention to Maria's pager message: the original instruction is superseded. Do not enter the trapped vehicle. Follow the new meeting marker by the waterfront instead, then take the boat with Maria and Asuka to the indicated landing. Afterward establish a new save at the Staunton hideout. This transition opens the next island; it is not a reason to erase your earlier Portland recovery save.",
+          "details_i18n": {
+            "en": "If pursuing 100%, finish the remaining Luigi and Joey jobs before starting this departure. Approach the indicated car area and pay attention to Maria's pager message: the original instruction is superseded. Do not enter the trapped vehicle. Follow the new meeting marker by the waterfront instead, then take the boat with Maria and Asuka to the indicated landing. Afterward establish a new save at the Staunton hideout. This transition opens the next island; it is not a reason to erase your earlier Portland recovery save.",
+            "pt": "Se buscar 100%, termine os trabalhos restantes de Luigi e Joey antes de iniciar esta partida. Aproxime-se da área do carro indicado e preste atenção à mensagem de Maria no pager: ela substitui a instrução original. Não entre no veículo preparado como armadilha. Siga a nova marcação de encontro à beira da água e leve Maria e Asuka de barco ao desembarque indicado. Depois, faça um novo salvamento no esconderijo de Staunton. A transição abre a próxima ilha; isso não é motivo para apagar seu salvamento anterior de recuperação de Portland."
+          }
+        },
+        {
+          "key": "establish-staunton-hideout",
+          "title": "Establish the Staunton hideout",
+          "title_i18n": {
+            "en": "Establish the Staunton hideout",
+            "pt": "Estabelecer o esconderijo de Staunton"
+          },
+          "description": "Save after the crossing and learn the new island's main roads.",
+          "description_i18n": {
+            "en": "Save after the crossing and learn the new island's main roads.",
+            "pt": "Salve após a travessia e aprenda as vias principais da nova ilha."
+          }
+        }
+      ]
+    },
+    {
+      "key": "asuka-and-staunton-introduction",
+      "title": "Staunton: Asuka and new contacts",
+      "title_i18n": {
+        "en": "Staunton: Asuka and new contacts",
+        "pt": "Staunton: Asuka e novos contatos"
+      },
+      "items": [
+        {
+          "key": "review-portland-before-sayonara",
+          "title": "Review Portland extras before Sayonara Salvatore",
+          "title_i18n": {
+            "en": "Review Portland extras before Sayonara Salvatore",
+            "pt": "Conferir extras de Portland antes de Sayonara Salvatore"
+          },
+          "description": "Early service work and El Burro's jobs are easier before later hostility changes.",
+          "description_i18n": {
+            "en": "Early service work and El Burro's jobs are easier before later hostility changes.",
+            "pt": "Os serviços iniciais e os trabalhos de El Burro são mais fáceis antes das mudanças posteriores de hostilidade."
+          },
+          "details": "Completing Sayonara Salvatore makes the Mafia hostile and equips its street members with especially dangerous close-range firepower. Portland activities remain available, but an ambulance, race car or delivery van can be destroyed very quickly when passing Mafia territory. For an easier 100% route, finish Paramedic and El Burro's Portland jobs early, preferably before other gang hostility has escalated as well. This is a difficulty warning, distinct from Luigi and Joey's permanent Last Requests lockout.",
+          "details_i18n": {
+            "en": "Completing Sayonara Salvatore makes the Mafia hostile and equips its street members with especially dangerous close-range firepower. Portland activities remain available, but an ambulance, race car or delivery van can be destroyed very quickly when passing Mafia territory. For an easier 100% route, finish Paramedic and El Burro's Portland jobs early, preferably before other gang hostility has escalated as well. This is a difficulty warning, distinct from Luigi and Joey's permanent Last Requests lockout.",
+            "pt": "Concluir Sayonara Salvatore torna a Máfia hostil e dá aos integrantes nas ruas um poder de fogo especialmente perigoso de perto. As atividades de Portland continuam disponíveis, mas uma ambulância, carro de corrida ou furgão pode ser destruído rapidamente ao atravessar o território da Máfia. Para uma rota de 100% mais fácil, conclua Paramedic e os trabalhos de El Burro cedo, de preferência antes de aumentar também a hostilidade de outras gangues. Este é um aviso de dificuldade, diferente do bloqueio permanente de Luigi e Joey em Last Requests."
+          }
+        },
+        {
+          "key": "sayonara-salvatore",
+          "title": "Complete Sayonara Salvatore",
+          "title_i18n": {
+            "en": "Complete Sayonara Salvatore",
+            "pt": "Concluir Sayonara Salvatore"
+          },
+          "description": "Complete Asuka's first assignment and return safely.",
+          "description_i18n": {
+            "en": "Complete Asuka's first assignment and return safely.",
+            "pt": "Conclua o primeiro trabalho de Asuka e retorne em segurança."
+          }
+        },
+        {
+          "key": "under-surveillance",
+          "title": "Complete Under Surveillance",
+          "title_i18n": {
+            "en": "Complete Under Surveillance",
+            "pt": "Concluir Under Surveillance"
+          },
+          "description": "Resolve all marked surveillance positions before the time expires.",
+          "description_i18n": {
+            "en": "Resolve all marked surveillance positions before the time expires.",
+            "pt": "Resolva todas as posições de vigilância marcadas antes do tempo acabar."
+          },
+          "details": "The marked groups are not all at street level. Prepare a sniper rifle before starting so the higher targets are reachable. Clear the accessible groups, then use the Kenji casino building's stairs to gain a view of the surveillance team on the opposite rooftop. Do not waste the timer driving around the same ground-level marker looking for a doorway directly beneath the targets. Identify the full group before leaving each position and check the remaining markers.",
+          "details_i18n": {
+            "en": "The marked groups are not all at street level. Prepare a sniper rifle before starting so the higher targets are reachable. Clear the accessible groups, then use the Kenji casino building's stairs to gain a view of the surveillance team on the opposite rooftop. Do not waste the timer driving around the same ground-level marker looking for a doorway directly beneath the targets. Identify the full group before leaving each position and check the remaining markers.",
+            "pt": "Os grupos marcados não estão todos no nível da rua. Prepare um rifle de precisão antes de começar para alcançar os alvos mais altos. Resolva os grupos acessíveis e use as escadas do cassino de Kenji para obter visão da equipe de vigilância na cobertura oposta. Não desperdice o cronômetro circulando pela marcação no chão à procura de uma porta logo abaixo dos alvos. Identifique o grupo inteiro antes de sair de cada posição e confira as marcações restantes."
+          }
+        },
+        {
+          "key": "paparazzi-purge",
+          "title": "Complete Paparazzi Purge",
+          "title_i18n": {
+            "en": "Complete Paparazzi Purge",
+            "pt": "Concluir Paparazzi Purge"
+          },
+          "description": "Use the requested boat and complete the waterborne pursuit.",
+          "description_i18n": {
+            "en": "Use the requested boat and complete the waterborne pursuit.",
+            "pt": "Use o barco solicitado e conclua a perseguição na água."
+          }
+        },
+        {
+          "key": "payday-for-ray",
+          "title": "Complete Payday For Ray",
+          "title_i18n": {
+            "en": "Complete Payday For Ray",
+            "pt": "Concluir Payday For Ray"
+          },
+          "description": "Follow the successive phone instructions and finish the payment handover.",
+          "description_i18n": {
+            "en": "Follow the successive phone instructions and finish the payment handover.",
+            "pt": "Siga as instruções sucessivas dos telefones e conclua a entrega do pagamento."
+          }
+        },
+        {
+          "key": "locate-staunton-supplies",
+          "title": "Locate Staunton supplies",
+          "title_i18n": {
+            "en": "Locate Staunton supplies",
+            "pt": "Localizar suprimentos de Staunton"
+          },
+          "description": "Find armor, ammunition and repair access before attempting longer operations.",
+          "description_i18n": {
+            "en": "Find armor, ammunition and repair access before attempting longer operations.",
+            "pt": "Encontre colete, munição e acesso a reparos antes de tentar operações mais longas."
+          }
+        },
+        {
+          "key": "check-asuka-optional-tanner-branch",
+          "title": "Check the optional Two-Faced Tanner branch",
+          "title_i18n": {
+            "en": "Check the optional Two-Faced Tanner branch",
+            "pt": "Conferir o ramo opcional Two-Faced Tanner"
+          },
+          "description": "For 100%, complete Asuka's early strand before Grand Theft Aero changes her availability.",
+          "description_i18n": {
+            "en": "For 100%, complete Asuka's early strand before Grand Theft Aero changes her availability.",
+            "pt": "Para 100%, conclua a sequência inicial de Asuka antes que Grand Theft Aero altere sua disponibilidade."
+          }
+        }
+      ]
+    },
+    {
+      "key": "ray-machowski-assignments",
+      "title": "Staunton: Ray Machowski",
+      "title_i18n": {
+        "en": "Staunton: Ray Machowski",
+        "pt": "Staunton: Ray Machowski"
+      },
+      "items": [
+        {
+          "key": "silence-the-sneak",
+          "title": "Complete Silence The Sneak",
+          "title_i18n": {
+            "en": "Complete Silence The Sneak",
+            "pt": "Concluir Silence The Sneak"
+          },
+          "description": "Approach the marked hideout prepared for a moving follow-up.",
+          "description_i18n": {
+            "en": "Approach the marked hideout prepared for a moving follow-up.",
+            "pt": "Aproxime-se do esconderijo marcado preparado para uma etapa seguinte em movimento."
+          }
+        },
+        {
+          "key": "arms-shortage",
+          "title": "Complete Arms Shortage",
+          "title_i18n": {
+            "en": "Complete Arms Shortage",
+            "pt": "Concluir Arms Shortage"
+          },
+          "description": "Help defend the compound and keep your contact alive.",
+          "description_i18n": {
+            "en": "Help defend the compound and keep your contact alive.",
+            "pt": "Ajude a defender o pátio e mantenha seu contato vivo."
+          }
+        },
+        {
+          "key": "evidence-dash",
+          "title": "Complete Evidence Dash",
+          "title_i18n": {
+            "en": "Complete Evidence Dash",
+            "pt": "Concluir Evidence Dash"
+          },
+          "description": "Collect the required evidence while managing the pursuit.",
+          "description_i18n": {
+            "en": "Collect the required evidence while managing the pursuit.",
+            "pt": "Recolha as provas exigidas enquanto administra a perseguição."
+          }
+        },
+        {
+          "key": "gone-fishing",
+          "title": "Complete Gone Fishing",
+          "title_i18n": {
+            "en": "Complete Gone Fishing",
+            "pt": "Concluir Gone Fishing"
+          },
+          "description": "Prepare for the boat pursuit and watch the hazards left behind.",
+          "description_i18n": {
+            "en": "Prepare for the boat pursuit and watch the hazards left behind.",
+            "pt": "Prepare-se para a perseguição de barco e observe os perigos deixados para trás."
+          }
+        },
+        {
+          "key": "plaster-blaster",
+          "title": "Complete Plaster Blaster",
+          "title_i18n": {
+            "en": "Complete Plaster Blaster",
+            "pt": "Concluir Plaster Blaster"
+          },
+          "description": "Follow the marked emergency vehicle and the changing objective.",
+          "description_i18n": {
+            "en": "Follow the marked emergency vehicle and the changing objective.",
+            "pt": "Siga o veículo de emergência marcado e a mudança de objetivo."
+          }
+        }
+      ]
+    },
+    {
+      "key": "donald-love-and-island-unlock",
+      "title": "Donald Love and the final island",
+      "title_i18n": {
+        "en": "Donald Love and the final island",
+        "pt": "Donald Love e a última ilha"
+      },
+      "items": [
+        {
+          "key": "liberator",
+          "title": "Complete Liberator",
+          "title_i18n": {
+            "en": "Complete Liberator",
+            "pt": "Concluir Liberator"
+          },
+          "description": "Find suitable access to the guarded compound and complete the extraction.",
+          "description_i18n": {
+            "en": "Find suitable access to the guarded compound and complete the extraction.",
+            "pt": "Encontre um acesso adequado ao pátio vigiado e conclua o resgate."
+          }
+        },
+        {
+          "key": "check-kenji-before-waka-gashira",
+          "title": "Check Kenji's strand before Waka-Gashira Wipeout!",
+          "title_i18n": {
+            "en": "Check Kenji's strand before Waka-Gashira Wipeout!",
+            "pt": "Conferir a sequência de Kenji antes de Waka-Gashira Wipeout!"
+          },
+          "description": "For 100%, finish all five optional Kenji missions listed in the side category first.",
+          "description_i18n": {
+            "en": "For 100%, finish all five optional Kenji missions listed in the side category first.",
+            "pt": "Para 100%, conclua primeiro as cinco missões opcionais de Kenji listadas na categoria extra."
+          },
+          "details": "Waka-Gashira Wipeout! permanently removes Kenji's unfinished work. For 100%, first complete Kanbu Bust-Out, Grand Theft Auto, Deal Steal, Shima and Smack Down from his casino contact. Treat the warning as a stop in your completionist route, not a requirement to see the basic ending. Once you have confirmed all five, save separately before beginning Donald's assignment. If the casino contact is already gone, use an earlier save; merely returning to the building later will not restore those jobs.",
+          "details_i18n": {
+            "en": "Waka-Gashira Wipeout! permanently removes Kenji's unfinished work. For 100%, first complete Kanbu Bust-Out, Grand Theft Auto, Deal Steal, Shima and Smack Down from his casino contact. Treat the warning as a stop in your completionist route, not a requirement to see the basic ending. Once you have confirmed all five, save separately before beginning Donald's assignment. If the casino contact is already gone, use an earlier save; merely returning to the building later will not restore those jobs.",
+            "pt": "Waka-Gashira Wipeout! remove permanentemente os trabalhos pendentes de Kenji. Para 100%, conclua primeiro Kanbu Bust-Out, Grand Theft Auto, Deal Steal, Shima e Smack Down no contato do cassino. Trate o aviso como uma parada na rota de conclusão integral, não como exigência para ver o final básico. Depois de confirmar os cinco, salve separadamente antes de iniciar o trabalho de Donald. Se o contato do cassino já sumiu, recupere um salvamento anterior; apenas voltar ao prédio depois não restaura esses trabalhos."
+          }
+        },
+        {
+          "key": "waka-gashira-wipeout",
+          "title": "Complete Waka-Gashira Wipeout!",
+          "title_i18n": {
+            "en": "Complete Waka-Gashira Wipeout!",
+            "pt": "Concluir Waka-Gashira Wipeout!"
+          },
+          "description": "Follow the vehicle conditions and leave the marked area as instructed.",
+          "description_i18n": {
+            "en": "Follow the vehicle conditions and leave the marked area as instructed.",
+            "pt": "Siga as condições de veículo e saia da área marcada conforme as instruções."
+          }
+        },
+        {
+          "key": "a-drop-in-the-ocean",
+          "title": "Complete A Drop In The Ocean",
+          "title_i18n": {
+            "en": "Complete A Drop In The Ocean",
+            "pt": "Concluir A Drop In The Ocean"
+          },
+          "description": "Prepare the boat and collect the successive marked packages.",
+          "description_i18n": {
+            "en": "Prepare the boat and collect the successive marked packages.",
+            "pt": "Prepare o barco e recolha os pacotes marcados sucessivos."
+          }
+        },
+        {
+          "key": "learn-shoreside-roads-and-hideout",
+          "title": "Learn Shoreside Vale's roads and hideout",
+          "title_i18n": {
+            "en": "Learn Shoreside Vale's roads and hideout",
+            "pt": "Conhecer as vias e o esconderijo de Shoreside Vale"
+          },
+          "description": "Identify the airport access, tunnel connections and save point before more timed work.",
+          "description_i18n": {
+            "en": "Identify the airport access, tunnel connections and save point before more timed work.",
+            "pt": "Identifique o acesso ao aeroporto, as conexões dos túneis e o ponto de salvamento antes de outros trabalhos cronometrados."
+          }
+        },
+        {
+          "key": "prepare-ray-final-transfer",
+          "title": "Prepare for Ray's final transfer",
+          "title_i18n": {
+            "en": "Prepare for Ray's final transfer",
+            "pt": "Preparar a transferência final de Ray"
+          },
+          "description": "Learn the available route to the airport before starting the next timed journey.",
+          "description_i18n": {
+            "en": "Learn the available route to the airport before starting the next timed journey.",
+            "pt": "Aprenda a rota disponível ao aeroporto antes de iniciar o próximo trajeto cronometrado."
+          }
+        },
+        {
+          "key": "marked-man",
+          "title": "Complete Marked Man",
+          "title_i18n": {
+            "en": "Complete Marked Man",
+            "pt": "Concluir Marked Man"
+          },
+          "description": "Complete the airport transfer and collect the follow-up reward.",
+          "description_i18n": {
+            "en": "Complete the airport transfer and collect the follow-up reward.",
+            "pt": "Conclua a transferência ao aeroporto e recolha a recompensa seguinte."
+          },
+          "details": "This transfer becomes available after both Plaster Blaster and A Drop In The Ocean. The main bridge approach is watched by shooters, so use the Porter Tunnel connection to Shoreside Vale rather than following the most obvious road across. Keep a sound vehicle and head for the airport marker within the timer. After dropping Ray off, follow his message to the garage reward. Finish that follow-up before abandoning the chain; reaching the airport is not the only useful part of this assignment.",
+          "details_i18n": {
+            "en": "This transfer becomes available after both Plaster Blaster and A Drop In The Ocean. The main bridge approach is watched by shooters, so use the Porter Tunnel connection to Shoreside Vale rather than following the most obvious road across. Keep a sound vehicle and head for the airport marker within the timer. After dropping Ray off, follow his message to the garage reward. Finish that follow-up before abandoning the chain; reaching the airport is not the only useful part of this assignment.",
+            "pt": "Esta transferência fica disponível após Plaster Blaster e A Drop In The Ocean. O acesso pela ponte principal é vigiado por atiradores, então use a conexão do Porter Tunnel com Shoreside Vale em vez de seguir a travessia mais óbvia. Mantenha um veículo em bom estado e siga ao aeroporto dentro do prazo. Após deixar Ray, siga sua mensagem até a recompensa na garagem. Conclua essa etapa antes de abandonar a sequência; chegar ao aeroporto não é a única parte útil do trabalho."
+          }
+        },
+        {
+          "key": "check-asuka-before-grand-theft-aero",
+          "title": "Review Asuka before Grand Theft Aero",
+          "title_i18n": {
+            "en": "Review Asuka before Grand Theft Aero",
+            "pt": "Conferir Asuka antes de Grand Theft Aero"
+          },
+          "description": "Finish Two-Faced Tanner first if you want full mission completion.",
+          "description_i18n": {
+            "en": "Finish Two-Faced Tanner first if you want full mission completion.",
+            "pt": "Termine Two-Faced Tanner primeiro se quiser concluir todas as missões."
+          },
+          "details": "Complete Asuka's early condo strand through Two-Faced Tanner before finishing Donald's Grand Theft Aero. That later mission changes her location and makes the unfinished Tanner assignment unavailable. The relevant permanent missable is Two-Faced Tanner, not the later Bait, Espresso-2-Go! and S.A.M. strand. Check the optional contact list and keep a separate save before Grand Theft Aero. You do not need to postpone every Donald mission indefinitely: this warning concerns the specific availability transition.",
+          "details_i18n": {
+            "en": "Complete Asuka's early condo strand through Two-Faced Tanner before finishing Donald's Grand Theft Aero. That later mission changes her location and makes the unfinished Tanner assignment unavailable. The relevant permanent missable is Two-Faced Tanner, not the later Bait, Espresso-2-Go! and S.A.M. strand. Check the optional contact list and keep a separate save before Grand Theft Aero. You do not need to postpone every Donald mission indefinitely: this warning concerns the specific availability transition.",
+            "pt": "Conclua a sequência inicial de Asuka no condomínio até Two-Faced Tanner antes de terminar Grand Theft Aero, de Donald. Essa missão posterior muda o local dela e torna o trabalho pendente de Tanner indisponível. A missão perdível em questão é Two-Faced Tanner, não a sequência posterior Bait, Espresso-2-Go! e S.A.M. Confira a lista de contatos opcionais e mantenha um salvamento separado antes de Grand Theft Aero. Não é preciso adiar indefinidamente todos os trabalhos de Donald: o aviso trata dessa mudança específica de disponibilidade."
+          }
+        },
+        {
+          "key": "grand-theft-aero",
+          "title": "Complete Grand Theft Aero",
+          "title_i18n": {
+            "en": "Complete Grand Theft Aero",
+            "pt": "Concluir Grand Theft Aero"
+          },
+          "description": "Follow the recovery operation through all its changes of location.",
+          "description_i18n": {
+            "en": "Follow the recovery operation through all its changes of location.",
+            "pt": "Siga a operação de recuperação em todas as mudanças de local."
+          }
+        },
+        {
+          "key": "escort-service",
+          "title": "Complete Escort Service",
+          "title_i18n": {
+            "en": "Complete Escort Service",
+            "pt": "Concluir Escort Service"
+          },
+          "description": "Protect the escorted vehicle through the full journey.",
+          "description_i18n": {
+            "en": "Protect the escorted vehicle through the full journey.",
+            "pt": "Proteja o veículo escoltado durante todo o trajeto."
+          }
+        },
+        {
+          "key": "decoy",
+          "title": "Complete Decoy",
+          "title_i18n": {
+            "en": "Complete Decoy",
+            "pt": "Concluir Decoy"
+          },
+          "description": "Handle the pursuit and keep the required vehicle operational.",
+          "description_i18n": {
+            "en": "Handle the pursuit and keep the required vehicle operational.",
+            "pt": "Administre a perseguição e mantenha o veículo exigido em condições de uso."
+          }
+        },
+        {
+          "key": "love-s-disappearance",
+          "title": "Complete Love's Disappearance",
+          "title_i18n": {
+            "en": "Complete Love's Disappearance",
+            "pt": "Concluir Love's Disappearance"
+          },
+          "description": "Visit the contact point and follow the next available strand.",
+          "description_i18n": {
+            "en": "Visit the contact point and follow the next available strand.",
+            "pt": "Visite o ponto de contato e siga a próxima sequência disponível."
+          }
+        }
+      ]
+    },
+    {
+      "key": "asuka-final-operations",
+      "title": "Asuka: final operations",
+      "title_i18n": {
+        "en": "Asuka: final operations",
+        "pt": "Asuka: operações finais"
+      },
+      "items": [
+        {
+          "key": "bait",
+          "title": "Complete Bait",
+          "title_i18n": {
+            "en": "Complete Bait",
+            "pt": "Concluir Bait"
+          },
+          "description": "Lead the marked groups through the requested confrontation.",
+          "description_i18n": {
+            "en": "Lead the marked groups through the requested confrontation.",
+            "pt": "Conduza os grupos marcados ao confronto solicitado."
+          }
+        },
+        {
+          "key": "prepare-espresso-island-route",
+          "title": "Prepare an island-spanning route",
+          "title_i18n": {
+            "en": "Prepare an island-spanning route",
+            "pt": "Preparar uma rota entre as ilhas"
+          },
+          "description": "Check roads and possible supply stops before the next multi-target mission.",
+          "description_i18n": {
+            "en": "Check roads and possible supply stops before the next multi-target mission.",
+            "pt": "Confira as vias e possíveis paradas para suprimentos antes da próxima missão com vários alvos."
+          }
+        },
+        {
+          "key": "espresso-2-go",
+          "title": "Complete Espresso-2-Go!",
+          "title_i18n": {
+            "en": "Complete Espresso-2-Go!",
+            "pt": "Concluir Espresso-2-Go!"
+          },
+          "description": "Complete the citywide target sweep within its active time limit.",
+          "description_i18n": {
+            "en": "Complete the citywide target sweep within its active time limit.",
+            "pt": "Conclua a busca de alvos pela cidade dentro do limite de tempo ativo."
+          },
+          "details": "There are nine stalls: two in Portland, five in Staunton and two in Shoreside Vale. The eight-minute timer starts when you destroy the first stall, not when the mission begins. Before that first attack, drive near all nine so their markers stay on the radar, then choose a route that sweeps from one outer island through Staunton to the other. Avoid repeated bridge crossings. Use a durable, controllable car or suitable ranged attacks, and keep clear of Mafia streets where possible on the Portland leg.",
+          "details_i18n": {
+            "en": "There are nine stalls: two in Portland, five in Staunton and two in Shoreside Vale. The eight-minute timer starts when you destroy the first stall, not when the mission begins. Before that first attack, drive near all nine so their markers stay on the radar, then choose a route that sweeps from one outer island through Staunton to the other. Avoid repeated bridge crossings. Use a durable, controllable car or suitable ranged attacks, and keep clear of Mafia streets where possible on the Portland leg.",
+            "pt": "São nove barracas: duas em Portland, cinco em Staunton e duas em Shoreside Vale. O cronômetro de oito minutos começa quando você destrói a primeira, não no início da missão. Antes do primeiro ataque, passe perto das nove para manter suas marcações no radar e escolha uma rota que atravesse Staunton entre as duas ilhas externas. Evite cruzar as pontes repetidamente. Use um carro resistente e controlável ou ataques adequados à distância e evite as ruas da Máfia quando possível no trecho de Portland."
+          }
+        },
+        {
+          "key": "prepare-sam-equipment",
+          "title": "Prepare the next harbor operation",
+          "title_i18n": {
+            "en": "Prepare the next harbor operation",
+            "pt": "Preparar a próxima operação no porto"
+          },
+          "description": "Restock and learn the water approach before accepting the timed assignment.",
+          "description_i18n": {
+            "en": "Restock and learn the water approach before accepting the timed assignment.",
+            "pt": "Reabasteça e conheça a aproximação pela água antes de aceitar o trabalho cronometrado."
+          }
+        },
+        {
+          "key": "s-a-m",
+          "title": "Complete S.A.M.",
+          "title_i18n": {
+            "en": "Complete S.A.M.",
+            "pt": "Concluir S.A.M."
+          },
+          "description": "Complete the timed interception and recover the requested cargo.",
+          "description_i18n": {
+            "en": "Complete the timed interception and recover the requested cargo.",
+            "pt": "Conclua a interceptação cronometrada e recupere a carga solicitada."
+          },
+          "details": "Collect the supplied Rocket Launcher before taking the boat to the marked airport approach. Reach the interception point while the flight countdown is still running, then line up the plane as it approaches rather than chasing it after landing. Dock at the marked access ramp and move onto dry land before aiming the Rocket Launcher; falling into the water is lethal. After the hit, recover every marked package, including any that landed on the runway, and leave with the cargo. Return to the construction-site objective despite the wanted level; destroying the plane alone does not complete the mission.",
+          "details_i18n": {
+            "en": "Collect the supplied Rocket Launcher before taking the boat to the marked airport approach. Reach the interception point while the flight countdown is still running, then line up the plane as it approaches rather than chasing it after landing. Dock at the marked access ramp and move onto dry land before aiming the Rocket Launcher; falling into the water is lethal. After the hit, recover every marked package, including any that landed on the runway, and leave with the cargo. Return to the construction-site objective despite the wanted level; destroying the plane alone does not complete the mission.",
+            "pt": "Recolha o Rocket Launcher fornecido antes de levar o barco à aproximação marcada do aeroporto. Alcance o ponto de interceptação enquanto a contagem do voo ainda corre e alinhe a mira quando o avião se aproximar, em vez de persegui-lo após o pouso. Atraque na rampa de acesso marcada e vá para terra firme antes de mirar com o Rocket Launcher; cair na água é letal. Após acertá-lo, recupere todos os pacotes marcados, inclusive os que caírem na pista, e saia com a carga. Volte ao objetivo no canteiro apesar da perseguição; destruir o avião sozinho não conclui a missão."
+          }
+        },
+        {
+          "key": "ransom",
+          "title": "Watch Ransom",
+          "title_i18n": {
+            "en": "Watch Ransom",
+            "pt": "Assistir a Ransom"
+          },
+          "description": "Watch this story transition and read the new instruction; it is not an additional counted mission.",
+          "description_i18n": {
+            "en": "Watch this story transition and read the new instruction; it is not an additional counted mission.",
+            "pt": "Assista a esta transição da história e leia a nova instrução; ela não é uma missão adicional contada."
+          }
+        }
+      ]
+    },
+    {
+      "key": "the-exchange-and-story-finish",
+      "title": "The Exchange and campaign finish",
+      "title_i18n": {
+        "en": "The Exchange and campaign finish",
+        "pt": "The Exchange e conclusão da campanha"
+      },
+      "items": [
+        {
+          "key": "prepare-exchange-payment",
+          "title": "Prepare the final payment",
+          "title_i18n": {
+            "en": "Prepare the final payment",
+            "pt": "Preparar o pagamento final"
+          },
+          "description": "Have $500,000 available and save before approaching the final mission marker.",
+          "description_i18n": {
+            "en": "Have $500,000 available and save before approaching the final mission marker.",
+            "pt": "Tenha $500.000 disponíveis e salve antes de se aproximar da marcação da missão final."
+          }
+        },
+        {
+          "key": "prepare-exchange-recovery-save",
+          "title": "Keep a separate pre-finale save",
+          "title_i18n": {
+            "en": "Keep a separate pre-finale save",
+            "pt": "Preservar um salvamento separado antes do final"
+          },
+          "description": "Use a recovery slot before committing to the finale and optional cleanup afterward.",
+          "description_i18n": {
+            "en": "Use a recovery slot before committing to the finale and optional cleanup afterward.",
+            "pt": "Use um espaço de recuperação antes de iniciar o final e a conclusão opcional posterior."
+          }
+        },
+        {
+          "key": "the-exchange",
+          "title": "Complete The Exchange",
+          "title_i18n": {
+            "en": "Complete The Exchange",
+            "pt": "Concluir The Exchange"
+          },
+          "description": "Complete the final pursuit and confrontation.",
+          "description_i18n": {
+            "en": "Complete the final pursuit and confrontation.",
+            "pt": "Conclua a perseguição e o confronto finais."
+          },
+          "details": "Bring the required five hundred thousand and save before entering the mansion marker. Your carried weapons are taken during the opening, so immediately collect the available pistol and armor, then acquire better dropped weapons as you move. The seven-minute limit covers the escape and the dam confrontation. Use the road route to the dam rather than trying to follow the helicopter cross-country. Clear defenders from cover, watch the rushing truck and avoid shooting the hostage. At the final position, collect the Rocket Launcher and use a clear shot against the helicopter.",
+          "details_i18n": {
+            "en": "Bring the required five hundred thousand and save before entering the mansion marker. Your carried weapons are taken during the opening, so immediately collect the available pistol and armor, then acquire better dropped weapons as you move. The seven-minute limit covers the escape and the dam confrontation. Use the road route to the dam rather than trying to follow the helicopter cross-country. Clear defenders from cover, watch the rushing truck and avoid shooting the hostage. At the final position, collect the Rocket Launcher and use a clear shot against the helicopter.",
+            "pt": "Leve os quinhentos mil exigidos e salve antes de entrar na marcação da mansão. Suas armas são retiradas no início, então recolha imediatamente a pistola e o colete disponíveis e obtenha armas melhores deixadas pelos inimigos durante o avanço. O limite de sete minutos cobre a fuga e o confronto na represa. Use a estrada até a represa em vez de tentar seguir o helicóptero pelo terreno. Elimine defensores usando cobertura, observe o caminhão que avança e evite acertar a refém. Na posição final, recolha o Rocket Launcher e dispare com a linha de tiro livre contra o helicóptero."
+          }
+        },
+        {
+          "key": "review-credits-and-poststory-save",
+          "title": "Review the ending and save",
+          "title_i18n": {
+            "en": "Review the ending and save",
+            "pt": "Conferir o final e salvar"
+          },
+          "description": "After the ending, save and check any optional goals still available in your run.",
+          "description_i18n": {
+            "en": "After the ending, save and check any optional goals still available in your run.",
+            "pt": "Após o final, salve e confira quais metas opcionais continuam disponíveis nesta campanha."
+          }
+        }
+      ]
+    },
+    {
+      "key": "completionist-missable-contact-branches",
+      "title": "Optional contact branches for 100%",
+      "title_i18n": {
+        "en": "Optional contact branches for 100%",
+        "pt": "Ramos opcionais de contatos para 100%"
+      },
+      "items": [
+        {
+          "key": "pump-action-pimp",
+          "title": "Complete Pump-Action Pimp",
+          "title_i18n": {
+            "en": "Complete Pump-Action Pimp",
+            "pt": "Concluir Pump-Action Pimp"
+          },
+          "description": "Finish this Luigi job before Last Requests if pursuing 100%.",
+          "description_i18n": {
+            "en": "Finish this Luigi job before Last Requests if pursuing 100%.",
+            "pt": "Termine este trabalho de Luigi antes de Last Requests se buscar 100%."
+          }
+        },
+        {
+          "key": "the-fuzz-ball",
+          "title": "Complete The Fuzz Ball",
+          "title_i18n": {
+            "en": "Complete The Fuzz Ball",
+            "pt": "Concluir The Fuzz Ball"
+          },
+          "description": "Complete Luigi's remaining passenger assignment before Last Requests.",
+          "description_i18n": {
+            "en": "Complete Luigi's remaining passenger assignment before Last Requests.",
+            "pt": "Conclua o trabalho restante de passageiros de Luigi antes de Last Requests."
+          }
+        },
+        {
+          "key": "dead-skunk-in-the-trunk",
+          "title": "Complete Dead Skunk In The Trunk",
+          "title_i18n": {
+            "en": "Complete Dead Skunk In The Trunk",
+            "pt": "Concluir Dead Skunk In The Trunk"
+          },
+          "description": "Complete Joey's vehicle-disposal job before Last Requests.",
+          "description_i18n": {
+            "en": "Complete Joey's vehicle-disposal job before Last Requests.",
+            "pt": "Conclua o trabalho de descarte de veículo de Joey antes de Last Requests."
+          }
+        },
+        {
+          "key": "the-getaway",
+          "title": "Complete The Getaway",
+          "title_i18n": {
+            "en": "Complete The Getaway",
+            "pt": "Concluir The Getaway"
+          },
+          "description": "Finish Joey's remaining robbery assignment before Last Requests.",
+          "description_i18n": {
+            "en": "Finish Joey's remaining robbery assignment before Last Requests.",
+            "pt": "Termine o trabalho restante de roubo de Joey antes de Last Requests."
+          }
+        },
+        {
+          "key": "kanbu-bust-out",
+          "title": "Complete Kanbu Bust-Out",
+          "title_i18n": {
+            "en": "Complete Kanbu Bust-Out",
+            "pt": "Concluir Kanbu Bust-Out"
+          },
+          "description": "Begin Kenji's optional strand before Waka-Gashira Wipeout!.",
+          "description_i18n": {
+            "en": "Begin Kenji's optional strand before Waka-Gashira Wipeout!.",
+            "pt": "Inicie a sequência opcional de Kenji antes de Waka-Gashira Wipeout!."
+          }
+        },
+        {
+          "key": "grand-theft-auto",
+          "title": "Complete Grand Theft Auto",
+          "title_i18n": {
+            "en": "Complete Grand Theft Auto",
+            "pt": "Concluir Grand Theft Auto"
+          },
+          "description": "Complete Kenji's timed car deliveries before advancing Donald's lockout mission.",
+          "description_i18n": {
+            "en": "Complete Kenji's timed car deliveries before advancing Donald's lockout mission.",
+            "pt": "Conclua as entregas cronometradas de carros de Kenji antes de avançar na missão de bloqueio de Donald."
+          }
+        },
+        {
+          "key": "deal-steal",
+          "title": "Complete Deal Steal",
+          "title_i18n": {
+            "en": "Complete Deal Steal",
+            "pt": "Concluir Deal Steal"
+          },
+          "description": "Follow Kenji's vehicle and meeting conditions before the lockout.",
+          "description_i18n": {
+            "en": "Follow Kenji's vehicle and meeting conditions before the lockout.",
+            "pt": "Siga as condições de veículo e encontro de Kenji antes do bloqueio."
+          }
+        },
+        {
+          "key": "shima",
+          "title": "Complete Shima",
+          "title_i18n": {
+            "en": "Complete Shima",
+            "pt": "Concluir Shima"
+          },
+          "description": "Finish the successive collection objectives in Kenji's strand.",
+          "description_i18n": {
+            "en": "Finish the successive collection objectives in Kenji's strand.",
+            "pt": "Conclua os objetivos sucessivos de coleta na sequência de Kenji."
+          }
+        },
+        {
+          "key": "smack-down",
+          "title": "Complete Smack Down",
+          "title_i18n": {
+            "en": "Complete Smack Down",
+            "pt": "Concluir Smack Down"
+          },
+          "description": "Complete Kenji's final available targets before Waka-Gashira Wipeout!.",
+          "description_i18n": {
+            "en": "Complete Kenji's final available targets before Waka-Gashira Wipeout!.",
+            "pt": "Conclua os últimos alvos disponíveis de Kenji antes de Waka-Gashira Wipeout!."
+          }
+        },
+        {
+          "key": "two-faced-tanner",
+          "title": "Complete Two-Faced Tanner",
+          "title_i18n": {
+            "en": "Complete Two-Faced Tanner",
+            "pt": "Concluir Two-Faced Tanner"
+          },
+          "description": "Finish this early Asuka job before Grand Theft Aero; it is required for 100%, not the basic ending.",
+          "description_i18n": {
+            "en": "Finish this early Asuka job before Grand Theft Aero; it is required for 100%, not the basic ending.",
+            "pt": "Termine este trabalho inicial de Asuka antes de Grand Theft Aero; ele é exigido para 100%, não para o final básico."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "marty-chonks-hidden-phone",
+      "title": "Optional: Marty Chonks hidden phone",
+      "title_i18n": {
+        "en": "Optional: Marty Chonks hidden phone",
+        "pt": "Opcional: telefone oculto de Marty Chonks"
+      },
+      "items": [
+        {
+          "key": "find-marty-daytime-phone",
+          "title": "Find Marty's daytime phone",
+          "title_i18n": {
+            "en": "Find Marty's daytime phone",
+            "pt": "Encontrar o telefone diurno de Marty"
+          },
+          "description": "Look near the dog-food factory in Trenton during its operating window; no contact icon is provided.",
+          "description_i18n": {
+            "en": "Look near the dog-food factory in Trenton during its operating window; no contact icon is provided.",
+            "pt": "Procure perto da fábrica de ração em Trenton durante seu horário de funcionamento; não há ícone de contato."
+          },
+          "details": "Marty's four jobs unlock after Drive Misty For Me. Find the unmarked payphone near the Bitch'N' Dog Food factory, across from Joey's area in Trenton, between 09:00 and 19:00. If it is silent, return during that window rather than waiting for a map icon that never appears. The sequence is The Crook, The Thieves, The Wife and Her Lover. Use the factory car requested by the current job and follow the disposal instructions; damaging or losing it can fail the assignment. These jobs count toward 100% despite their hidden presentation.",
+          "details_i18n": {
+            "en": "Marty's four jobs unlock after Drive Misty For Me. Find the unmarked payphone near the Bitch'N' Dog Food factory, across from Joey's area in Trenton, between 09:00 and 19:00. If it is silent, return during that window rather than waiting for a map icon that never appears. The sequence is The Crook, The Thieves, The Wife and Her Lover. Use the factory car requested by the current job and follow the disposal instructions; damaging or losing it can fail the assignment. These jobs count toward 100% despite their hidden presentation.",
+            "pt": "Os quatro trabalhos de Marty são liberados após Drive Misty For Me. Encontre o telefone sem marcação perto da fábrica Bitch'N' Dog Food, em frente à região de Joey em Trenton, entre 09:00 e 19:00. Se ele estiver silencioso, volte nesse horário em vez de esperar um ícone no mapa que nunca aparece. A ordem é The Crook, The Thieves, The Wife e Her Lover. Use o carro da fábrica solicitado pelo trabalho atual e siga as instruções de descarte; danificá-lo ou perdê-lo pode causar falha. Esses trabalhos contam para 100% apesar de sua apresentação oculta."
+          }
+        },
+        {
+          "key": "the-crook",
+          "title": "Complete The Crook",
+          "title_i18n": {
+            "en": "Complete The Crook",
+            "pt": "Concluir The Crook"
+          },
+          "description": "Use Marty's requested car and complete the pickup and disposal chain.",
+          "description_i18n": {
+            "en": "Use Marty's requested car and complete the pickup and disposal chain.",
+            "pt": "Use o carro solicitado por Marty e conclua a sequência de busca e descarte."
+          }
+        },
+        {
+          "key": "the-thieves",
+          "title": "Complete The Thieves",
+          "title_i18n": {
+            "en": "Complete The Thieves",
+            "pt": "Concluir The Thieves"
+          },
+          "description": "Follow the passenger pickup and vehicle-return instructions.",
+          "description_i18n": {
+            "en": "Follow the passenger pickup and vehicle-return instructions.",
+            "pt": "Siga as instruções de busca de passageiros e devolução do veículo."
+          }
+        },
+        {
+          "key": "the-wife",
+          "title": "Complete The Wife",
+          "title_i18n": {
+            "en": "Complete The Wife",
+            "pt": "Concluir The Wife"
+          },
+          "description": "Complete the next pickup and return through the handover.",
+          "description_i18n": {
+            "en": "Complete the next pickup and return through the handover.",
+            "pt": "Conclua a próxima busca e o retorno até a entrega."
+          }
+        },
+        {
+          "key": "her-lover",
+          "title": "Complete Her Lover",
+          "title_i18n": {
+            "en": "Complete Her Lover",
+            "pt": "Concluir Her Lover"
+          },
+          "description": "Follow the final meeting and wait for the job's completion confirmation.",
+          "description_i18n": {
+            "en": "Follow the final meeting and wait for the job's completion confirmation.",
+            "pt": "Siga o encontro final e aguarde a confirmação de conclusão do trabalho."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "el-burro-portland-phone",
+      "title": "Optional: El Burro in Portland",
+      "title_i18n": {
+        "en": "Optional: El Burro in Portland",
+        "pt": "Opcional: El Burro em Portland"
+      },
+      "items": [
+        {
+          "key": "turismo",
+          "title": "Complete Turismo",
+          "title_i18n": {
+            "en": "Complete Turismo",
+            "pt": "Concluir Turismo"
+          },
+          "description": "Choose a manageable car and complete the checkpoint race.",
+          "description_i18n": {
+            "en": "Choose a manageable car and complete the checkpoint race.",
+            "pt": "Escolha um carro controlável e conclua a corrida de checkpoints."
+          }
+        },
+        {
+          "key": "i-scream-you-scream",
+          "title": "Complete I Scream, You Scream",
+          "title_i18n": {
+            "en": "Complete I Scream, You Scream",
+            "pt": "Concluir I Scream, You Scream"
+          },
+          "description": "Follow the special-vehicle setup and the meeting instructions.",
+          "description_i18n": {
+            "en": "Follow the special-vehicle setup and the meeting instructions.",
+            "pt": "Siga a preparação do veículo especial e as instruções do encontro."
+          }
+        },
+        {
+          "key": "trial-by-fire",
+          "title": "Complete Trial By Fire",
+          "title_i18n": {
+            "en": "Complete Trial By Fire",
+            "pt": "Concluir Trial By Fire"
+          },
+          "description": "Use the supplied equipment and follow the mission's target counter.",
+          "description_i18n": {
+            "en": "Use the supplied equipment and follow the mission's target counter.",
+            "pt": "Use o equipamento fornecido e acompanhe o contador de alvos da missão."
+          }
+        },
+        {
+          "key": "big-n-veiny",
+          "title": "Complete Big 'n' Veiny",
+          "title_i18n": {
+            "en": "Complete Big 'n' Veiny",
+            "pt": "Concluir Big 'n' Veiny"
+          },
+          "description": "Follow the pickup trail and finish the final delivery.",
+          "description_i18n": {
+            "en": "Follow the pickup trail and finish the final delivery.",
+            "pt": "Siga a trilha de coleta e conclua a entrega final."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "king-courtney-staunton-phone",
+      "title": "Optional: King Courtney in Staunton",
+      "title_i18n": {
+        "en": "Optional: King Courtney in Staunton",
+        "pt": "Opcional: King Courtney em Staunton"
+      },
+      "items": [
+        {
+          "key": "bling-bling-scramble",
+          "title": "Complete Bling-Bling Scramble",
+          "title_i18n": {
+            "en": "Complete Bling-Bling Scramble",
+            "pt": "Concluir Bling-Bling Scramble"
+          },
+          "description": "Collect checkpoints efficiently while tracking rival progress.",
+          "description_i18n": {
+            "en": "Collect checkpoints efficiently while tracking rival progress.",
+            "pt": "Recolha checkpoints com eficiência acompanhando o progresso dos rivais."
+          }
+        },
+        {
+          "key": "uzi-rider",
+          "title": "Complete Uzi Rider",
+          "title_i18n": {
+            "en": "Complete Uzi Rider",
+            "pt": "Concluir Uzi Rider"
+          },
+          "description": "Use the required vehicle and follow the specified target rules.",
+          "description_i18n": {
+            "en": "Use the required vehicle and follow the specified target rules.",
+            "pt": "Use o veículo exigido e siga as regras dos alvos especificados."
+          }
+        },
+        {
+          "key": "gangcar-round-up",
+          "title": "Complete Gangcar Round-Up",
+          "title_i18n": {
+            "en": "Complete Gangcar Round-Up",
+            "pt": "Concluir Gangcar Round-Up"
+          },
+          "description": "Deliver the requested gang cars and preserve them en route.",
+          "description_i18n": {
+            "en": "Deliver the requested gang cars and preserve them en route.",
+            "pt": "Entregue os carros solicitados das gangues e preserve-os durante o trajeto."
+          }
+        },
+        {
+          "key": "kingdom-come",
+          "title": "Complete Kingdom Come",
+          "title_i18n": {
+            "en": "Complete Kingdom Come",
+            "pt": "Concluir Kingdom Come"
+          },
+          "description": "Inspect the marked vehicle and respond quickly to the changed objective.",
+          "description_i18n": {
+            "en": "Inspect the marked vehicle and respond quickly to the changed objective.",
+            "pt": "Observe o veículo marcado e reaja rapidamente à mudança de objetivo."
+          },
+          "details": "The parked car is a trigger for an ambush, not a safe vehicle to drive away. As the new instruction appears, move out of the open center and use a position with cover and room to retreat. The attackers keep emerging from the marked vans; destroying those source vehicles is the route to ending the waves. Keep enough distance from the explosive attackers and wrecks, and do not let them reach your cover in a group. Finish the remaining attackers after the vans are gone and wait for the success message.",
+          "details_i18n": {
+            "en": "The parked car is a trigger for an ambush, not a safe vehicle to drive away. As the new instruction appears, move out of the open center and use a position with cover and room to retreat. The attackers keep emerging from the marked vans; destroying those source vehicles is the route to ending the waves. Keep enough distance from the explosive attackers and wrecks, and do not let them reach your cover in a group. Finish the remaining attackers after the vans are gone and wait for the success message.",
+            "pt": "O carro estacionado aciona uma emboscada, não é um veículo seguro para fugir. Quando surgir a nova instrução, saia do centro aberto e use uma posição com cobertura e espaço para recuar. Os atacantes continuam saindo dos furgões marcados; destruir esses veículos de origem é o caminho para encerrar as ondas. Mantenha distância dos atacantes explosivos e das carcaças e não deixe um grupo alcançar sua cobertura. Resolva os atacantes restantes após destruir os furgões e aguarde a mensagem de sucesso."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "d-ice-shoreside-phone",
+      "title": "Optional: D-Ice in Shoreside Vale",
+      "title_i18n": {
+        "en": "Optional: D-Ice in Shoreside Vale",
+        "pt": "Opcional: D-Ice em Shoreside Vale"
+      },
+      "items": [
+        {
+          "key": "uzi-money",
+          "title": "Complete Uzi Money",
+          "title_i18n": {
+            "en": "Complete Uzi Money",
+            "pt": "Concluir Uzi Money"
+          },
+          "description": "Follow the drive-by conditions and check which targets count.",
+          "description_i18n": {
+            "en": "Follow the drive-by conditions and check which targets count.",
+            "pt": "Siga as condições de disparos do veículo e confira quais alvos contam."
+          }
+        },
+        {
+          "key": "toyminator",
+          "title": "Complete Toyminator",
+          "title_i18n": {
+            "en": "Complete Toyminator",
+            "pt": "Concluir Toyminator"
+          },
+          "description": "Use the remote vehicles to complete every marked target.",
+          "description_i18n": {
+            "en": "Use the remote vehicles to complete every marked target.",
+            "pt": "Use os veículos remotos para concluir todos os alvos marcados."
+          }
+        },
+        {
+          "key": "rigged-to-blow",
+          "title": "Complete Rigged To Blow",
+          "title_i18n": {
+            "en": "Complete Rigged To Blow",
+            "pt": "Concluir Rigged To Blow"
+          },
+          "description": "Drive carefully through the required vehicle service and return.",
+          "description_i18n": {
+            "en": "Drive carefully through the required vehicle service and return.",
+            "pt": "Dirija com cuidado até o serviço exigido para o veículo e retorne."
+          },
+          "details": "Get the requested car to the bomb shop in Portland without adding needless collisions. The mission tracks the vehicle's condition, so a fast but uncontrolled shortcut is often worse than using wider roads and braking early. Do not assume an ordinary respray replaces the instructed bomb-shop visit. After the device has been removed, complete the requested return to Shoreside Vale and park where indicated. The first service stop is only the outward half of the job.",
+          "details_i18n": {
+            "en": "Get the requested car to the bomb shop in Portland without adding needless collisions. The mission tracks the vehicle's condition, so a fast but uncontrolled shortcut is often worse than using wider roads and braking early. Do not assume an ordinary respray replaces the instructed bomb-shop visit. After the device has been removed, complete the requested return to Shoreside Vale and park where indicated. The first service stop is only the outward half of the job.",
+            "pt": "Leve o carro solicitado à oficina de bombas em Portland sem colisões desnecessárias. A missão acompanha o estado do veículo, então um atalho rápido, mas descontrolado, costuma ser pior que usar vias largas e frear cedo. Não presuma que uma pintura comum substitui a visita exigida à oficina de bombas. Após remover o dispositivo, conclua o retorno solicitado a Shoreside Vale e estacione no local indicado. A primeira parada de serviço é apenas a metade inicial do trabalho."
+          }
+        },
+        {
+          "key": "bullion-run",
+          "title": "Complete Bullion Run",
+          "title_i18n": {
+            "en": "Complete Bullion Run",
+            "pt": "Concluir Bullion Run"
+          },
+          "description": "Manage the cargo pickups and repeated deliveries.",
+          "description_i18n": {
+            "en": "Manage the cargo pickups and repeated deliveries.",
+            "pt": "Administre a coleta de carga e as entregas repetidas."
+          }
+        },
+        {
+          "key": "rumble",
+          "title": "Complete Rumble",
+          "title_i18n": {
+            "en": "Complete Rumble",
+            "pt": "Concluir Rumble"
+          },
+          "description": "Follow the final confrontation's weapon conditions.",
+          "description_i18n": {
+            "en": "Follow the final confrontation's weapon conditions.",
+            "pt": "Siga as condições de arma do confronto final."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "optional-offroad-and-rc",
+      "title": "Optional off-road and RC missions",
+      "title_i18n": {
+        "en": "Optional off-road and RC missions",
+        "pt": "Missões opcionais de percurso e controle remoto"
+      },
+      "items": [
+        {
+          "key": "patriot-playground",
+          "title": "Complete Patriot Playground",
+          "title_i18n": {
+            "en": "Complete Patriot Playground",
+            "pt": "Concluir Patriot Playground"
+          },
+          "description": "Find the Portland Patriot and complete its checkpoint course.",
+          "description_i18n": {
+            "en": "Find the Portland Patriot and complete its checkpoint course.",
+            "pt": "Encontre o Patriot em Portland e conclua seu percurso de checkpoints."
+          }
+        },
+        {
+          "key": "a-ride-in-the-park",
+          "title": "Complete A Ride In The Park",
+          "title_i18n": {
+            "en": "Complete A Ride In The Park",
+            "pt": "Concluir A Ride In The Park"
+          },
+          "description": "Use the park Landstalker and complete all checkpoints.",
+          "description_i18n": {
+            "en": "Use the park Landstalker and complete all checkpoints.",
+            "pt": "Use o Landstalker do parque e complete todos os checkpoints."
+          }
+        },
+        {
+          "key": "multistorey-mayhem",
+          "title": "Complete Multistorey Mayhem",
+          "title_i18n": {
+            "en": "Complete Multistorey Mayhem",
+            "pt": "Concluir Multistorey Mayhem"
+          },
+          "description": "Activate the garage challenge and complete its timed course.",
+          "description_i18n": {
+            "en": "Activate the garage challenge and complete its timed course.",
+            "pt": "Ative o desafio da garagem e conclua o percurso cronometrado."
+          },
+          "details": "Bring a Stallion to the Newport car park entrance, get out and enter it again to trigger the challenge. Once active, collect the checkpoints through the parking levels, using controlled turns rather than excessive speed near an edge. Plan the ramp transitions and final rooftop jump before committing to them. Leaving or destroying the Stallion ends the attempt, so keep it upright and stay inside through the course.",
+          "details_i18n": {
+            "en": "Bring a Stallion to the Newport car park entrance, get out and enter it again to trigger the challenge. Once active, collect the checkpoints through the parking levels, using controlled turns rather than excessive speed near an edge. Plan the ramp transitions and final rooftop jump before committing to them. Leaving or destroying the Stallion ends the attempt, so keep it upright and stay inside through the course.",
+            "pt": "Leve um Stallion até a entrada do estacionamento de Newport, saia e entre nele novamente para iniciar o desafio. Quando começar, recolha os checkpoints pelos andares com curvas controladas, sem velocidade excessiva perto das bordas. Planeje as transições das rampas e o salto final no telhado antes de executá-los. Sair do Stallion ou destruí-lo encerra a tentativa; mantenha-o estável e permaneça dentro dele durante o percurso."
+          }
+        },
+        {
+          "key": "gripped",
+          "title": "Complete Gripped!",
+          "title_i18n": {
+            "en": "Complete Gripped!",
+            "pt": "Concluir Gripped!"
+          },
+          "description": "Find the Shoreside Patriot and complete its hill course.",
+          "description_i18n": {
+            "en": "Find the Shoreside Patriot and complete its hill course.",
+            "pt": "Encontre o Patriot em Shoreside e conclua seu percurso nas colinas."
+          }
+        },
+        {
+          "key": "mafia-massacre",
+          "title": "Complete Mafia Massacre",
+          "title_i18n": {
+            "en": "Complete Mafia Massacre",
+            "pt": "Concluir Mafia Massacre"
+          },
+          "description": "Find the Portland Toyz van and complete its remote-car objective.",
+          "description_i18n": {
+            "en": "Find the Portland Toyz van and complete its remote-car objective.",
+            "pt": "Encontre o furgão Toyz em Portland e conclua o objetivo do carrinho remoto."
+          }
+        },
+        {
+          "key": "diablo-destruction",
+          "title": "Complete Diablo Destruction",
+          "title_i18n": {
+            "en": "Complete Diablo Destruction",
+            "pt": "Concluir Diablo Destruction"
+          },
+          "description": "Complete the second Portland Toyz challenge.",
+          "description_i18n": {
+            "en": "Complete the second Portland Toyz challenge.",
+            "pt": "Conclua o segundo desafio Toyz de Portland."
+          }
+        },
+        {
+          "key": "casino-calamity",
+          "title": "Complete Casino Calamity",
+          "title_i18n": {
+            "en": "Complete Casino Calamity",
+            "pt": "Concluir Casino Calamity"
+          },
+          "description": "Complete the Staunton Toyz challenge.",
+          "description_i18n": {
+            "en": "Complete the Staunton Toyz challenge.",
+            "pt": "Conclua o desafio Toyz de Staunton."
+          }
+        },
+        {
+          "key": "rumpo-rampage",
+          "title": "Complete Rumpo Rampage",
+          "title_i18n": {
+            "en": "Complete Rumpo Rampage",
+            "pt": "Concluir Rumpo Rampage"
+          },
+          "description": "Complete the Shoreside Toyz challenge.",
+          "description_i18n": {
+            "en": "Complete the Shoreside Toyz challenge.",
+            "pt": "Conclua o desafio Toyz de Shoreside."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "optional-service-vehicle-goals",
+      "title": "Optional service-vehicle goals",
+      "title_i18n": {
+        "en": "Optional service-vehicle goals",
+        "pt": "Metas opcionais de veículos de serviço"
+      },
+      "items": [
+        {
+          "key": "plan-early-paramedic-attempt",
+          "title": "Plan an early Paramedic attempt",
+          "title_i18n": {
+            "en": "Plan an early Paramedic attempt",
+            "pt": "Planejar uma tentativa inicial de Paramedic"
+          },
+          "description": "Learn the hospital approaches before escalating Portland gang hostility.",
+          "description_i18n": {
+            "en": "Learn the hospital approaches before escalating Portland gang hostility.",
+            "pt": "Aprenda os acessos ao hospital antes de aumentar a hostilidade das gangues de Portland."
+          }
+        },
+        {
+          "key": "complete-paramedic-level-twelve",
+          "title": "Complete Paramedic level twelve",
+          "title_i18n": {
+            "en": "Complete Paramedic level twelve",
+            "pt": "Concluir o nível doze de Paramedic"
+          },
+          "description": "Finish levels one through twelve in one uninterrupted attempt.",
+          "description_i18n": {
+            "en": "Finish levels one through twelve in one uninterrupted attempt.",
+            "pt": "Conclua os níveis de um a doze em uma única tentativa sem interrupção."
+          },
+          "details": "Paramedic requires a single uninterrupted run from level one through twelve; separate shorter attempts do not combine into level twelve. The ambulance carries three patients at once, so group pickups into sensible trips back to the hospital. Brake early near patients and hospital doors: running over a patient ends the attempt, and collisions waste precious time. Protect the ambulance from rolling over and do not get out or switch vehicles. An early Portland attempt is usually simpler before surrounding gangs become hostile. Save before starting and after a successful finish.",
+          "details_i18n": {
+            "en": "Paramedic requires a single uninterrupted run from level one through twelve; separate shorter attempts do not combine into level twelve. The ambulance carries three patients at once, so group pickups into sensible trips back to the hospital. Brake early near patients and hospital doors: running over a patient ends the attempt, and collisions waste precious time. Protect the ambulance from rolling over and do not get out or switch vehicles. An early Portland attempt is usually simpler before surrounding gangs become hostile. Save before starting and after a successful finish.",
+            "pt": "Paramedic exige uma única tentativa contínua do nível um ao doze; tentativas curtas separadas não se somam para atingir o nível doze. A ambulância leva três pacientes por vez, então agrupe as buscas em viagens sensatas ao hospital. Freie cedo perto dos pacientes e das entradas: atropelar um paciente encerra a tentativa, e colisões desperdiçam tempo precioso. Evite capotar a ambulância e não desça nem troque de veículo. Uma tentativa inicial em Portland costuma ser mais simples antes da hostilidade das gangues próximas. Salve antes de começar e depois de concluir com sucesso."
+          }
+        },
+        {
+          "key": "complete-one-hundred-taxi-fares",
+          "title": "Complete one hundred taxi fares",
+          "title_i18n": {
+            "en": "Complete one hundred taxi fares",
+            "pt": "Concluir cem corridas de táxi"
+          },
+          "description": "The total is cumulative; you do not need one hundred in a single session.",
+          "description_i18n": {
+            "en": "The total is cumulative; you do not need one hundred in a single session.",
+            "pt": "O total é cumulativo; não é preciso fazer cem em uma única sessão."
+          }
+        },
+        {
+          "key": "portland-firefighter-twenty",
+          "title": "Extinguish twenty Portland fires",
+          "title_i18n": {
+            "en": "Extinguish twenty Portland fires",
+            "pt": "Apagar vinte incêndios em Portland"
+          },
+          "description": "Record this island's Firefighter total separately; consecutive completion is not required.",
+          "description_i18n": {
+            "en": "Record this island's Firefighter total separately; consecutive completion is not required.",
+            "pt": "Registre o total de Firefighter desta ilha separadamente; não é preciso concluir em sequência."
+          }
+        },
+        {
+          "key": "staunton-firefighter-twenty",
+          "title": "Extinguish twenty Staunton fires",
+          "title_i18n": {
+            "en": "Extinguish twenty Staunton fires",
+            "pt": "Apagar vinte incêndios em Staunton"
+          },
+          "description": "Complete the second island's own twenty-fire requirement.",
+          "description_i18n": {
+            "en": "Complete the second island's own twenty-fire requirement.",
+            "pt": "Complete a exigência de vinte incêndios da segunda ilha."
+          }
+        },
+        {
+          "key": "shoreside-firefighter-twenty",
+          "title": "Extinguish twenty Shoreside fires",
+          "title_i18n": {
+            "en": "Extinguish twenty Shoreside fires",
+            "pt": "Apagar vinte incêndios em Shoreside"
+          },
+          "description": "Complete the third island's total for sixty fires across Liberty City.",
+          "description_i18n": {
+            "en": "Complete the third island's total for sixty fires across Liberty City.",
+            "pt": "Complete o total da terceira ilha para somar sessenta incêndios em Liberty City."
+          }
+        },
+        {
+          "key": "portland-vigilante-twenty",
+          "title": "Complete twenty Portland Vigilante targets",
+          "title_i18n": {
+            "en": "Complete twenty Portland Vigilante targets",
+            "pt": "Concluir vinte alvos de Vigilante em Portland"
+          },
+          "description": "Track the island-specific total; these do not need one continuous attempt.",
+          "description_i18n": {
+            "en": "Track the island-specific total; these do not need one continuous attempt.",
+            "pt": "Registre o total específico da ilha; não é preciso uma tentativa contínua."
+          }
+        },
+        {
+          "key": "staunton-vigilante-twenty",
+          "title": "Complete twenty Staunton Vigilante targets",
+          "title_i18n": {
+            "en": "Complete twenty Staunton Vigilante targets",
+            "pt": "Concluir vinte alvos de Vigilante em Staunton"
+          },
+          "description": "Finish the second island's own target total.",
+          "description_i18n": {
+            "en": "Finish the second island's own target total.",
+            "pt": "Conclua o total próprio de alvos da segunda ilha."
+          }
+        },
+        {
+          "key": "shoreside-vigilante-twenty",
+          "title": "Complete twenty Shoreside Vigilante targets",
+          "title_i18n": {
+            "en": "Complete twenty Shoreside Vigilante targets",
+            "pt": "Concluir vinte alvos de Vigilante em Shoreside"
+          },
+          "description": "Finish the third island's total for sixty across the three islands.",
+          "description_i18n": {
+            "en": "Finish the third island's total for sixty across the three islands.",
+            "pt": "Conclua o total da terceira ilha para somar sessenta nas três ilhas."
+          }
+        },
+        {
+          "key": "review-service-records",
+          "title": "Review service-job records",
+          "title_i18n": {
+            "en": "Review service-job records",
+            "pt": "Conferir os registros dos serviços"
+          },
+          "description": "Compare your island ledger with the game's statistics before marking the aggregate goals complete.",
+          "description_i18n": {
+            "en": "Compare your island ledger with the game's statistics before marking the aggregate goals complete.",
+            "pt": "Compare seu registro por ilha às estatísticas do jogo antes de marcar as metas agregadas como concluídas."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "optional-import-export",
+      "title": "Optional Import/Export lists",
+      "title_i18n": {
+        "en": "Optional Import/Export lists",
+        "pt": "Listas opcionais de Import/Export"
+      },
+      "items": [
+        {
+          "key": "locate-portland-import-warehouse",
+          "title": "Locate the Portland import warehouse",
+          "title_i18n": {
+            "en": "Locate the Portland import warehouse",
+            "pt": "Localizar o armazém de importação de Portland"
+          },
+          "description": "Read the vehicle list at Portland Docks and record delivered models.",
+          "description_i18n": {
+            "en": "Read the vehicle list at Portland Docks and record delivered models.",
+            "pt": "Leia a lista de veículos em Portland Docks e registre os modelos entregues."
+          }
+        },
+        {
+          "key": "complete-portland-sixteen-vehicles",
+          "title": "Complete Portland's sixteen-vehicle list",
+          "title_i18n": {
+            "en": "Complete Portland's sixteen-vehicle list",
+            "pt": "Concluir a lista de dezesseis veículos de Portland"
+          },
+          "description": "Deliver every listed model; this is separate from the nearby emergency crane.",
+          "description_i18n": {
+            "en": "Deliver every listed model; this is separate from the nearby emergency crane.",
+            "pt": "Entregue todos os modelos listados; esta tarefa é separada do guindaste de emergência próximo."
+          }
+        },
+        {
+          "key": "complete-portland-emergency-crane",
+          "title": "Complete the seven emergency-crane deliveries",
+          "title_i18n": {
+            "en": "Complete the seven emergency-crane deliveries",
+            "pt": "Concluir as sete entregas ao guindaste de emergência"
+          },
+          "description": "Use the crane's delivery point and track its own vehicle list.",
+          "description_i18n": {
+            "en": "Use the crane's delivery point and track its own vehicle list.",
+            "pt": "Use o ponto de entrega do guindaste e registre sua lista própria de veículos."
+          }
+        },
+        {
+          "key": "locate-shoreside-import-garage",
+          "title": "Locate the Shoreside import garage",
+          "title_i18n": {
+            "en": "Locate the Shoreside import garage",
+            "pt": "Localizar a garagem de importação de Shoreside"
+          },
+          "description": "Read the second normal vehicle list in Pike Creek.",
+          "description_i18n": {
+            "en": "Read the second normal vehicle list in Pike Creek.",
+            "pt": "Leia a segunda lista comum de veículos em Pike Creek."
+          }
+        },
+        {
+          "key": "complete-shoreside-sixteen-vehicles",
+          "title": "Complete Shoreside's sixteen-vehicle list",
+          "title_i18n": {
+            "en": "Complete Shoreside's sixteen-vehicle list",
+            "pt": "Concluir a lista de dezesseis veículos de Shoreside"
+          },
+          "description": "Deliver every requested model to the correct garage.",
+          "description_i18n": {
+            "en": "Deliver every requested model to the correct garage.",
+            "pt": "Entregue todos os modelos solicitados na garagem correta."
+          }
+        },
+        {
+          "key": "review-three-import-lists",
+          "title": "Review all three import lists",
+          "title_i18n": {
+            "en": "Review all three import lists",
+            "pt": "Conferir as três listas de importação"
+          },
+          "description": "Confirm both normal lists and the emergency crane rather than treating one as the whole activity.",
+          "description_i18n": {
+            "en": "Confirm both normal lists and the emergency crane rather than treating one as the whole activity.",
+            "pt": "Confirme as duas listas comuns e o guindaste de emergência, sem tratar apenas uma como a atividade inteira."
+          },
+          "details": "There are two normal sixteen-model lists, at Portland Docks and the Shoreside garage, plus a separate seven-model emergency crane in Portland. The crane needs Police, Ambulance, Fire Truck, Barracks OL, FBI Car, Enforcer and Rhino. Read each normal list at its own door and use the crossed-off entries to track deliveries. Portland's normal list includes the Dodo, so an early visit cannot finish everything before the airport becomes accessible. The Rhino can be obtained after the finale at Phil's compound, avoiding a forced six-star theft. None of the lists requires online access.",
+          "details_i18n": {
+            "en": "There are two normal sixteen-model lists, at Portland Docks and the Shoreside garage, plus a separate seven-model emergency crane in Portland. The crane needs Police, Ambulance, Fire Truck, Barracks OL, FBI Car, Enforcer and Rhino. Read each normal list at its own door and use the crossed-off entries to track deliveries. Portland's normal list includes the Dodo, so an early visit cannot finish everything before the airport becomes accessible. The Rhino can be obtained after the finale at Phil's compound, avoiding a forced six-star theft. None of the lists requires online access.",
+            "pt": "Existem duas listas comuns de dezesseis modelos, em Portland Docks e na garagem de Shoreside, além de um guindaste separado de sete modelos de emergência em Portland. O guindaste exige Police, Ambulance, Fire Truck, Barracks OL, FBI Car, Enforcer e Rhino. Leia cada lista comum na própria porta e acompanhe os itens riscados para registrar entregas. A lista comum de Portland inclui o Dodo, portanto uma visita inicial não permite terminar tudo antes de acessar o aeroporto. O Rhino pode ser obtido após o final no pátio de Phil, evitando um roubo obrigatório com seis estrelas. Nenhuma lista exige acesso online."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "aggregate-collectibles-and-full-completion",
+      "title": "Aggregate collectibles and 100% review",
+      "title_i18n": {
+        "en": "Aggregate collectibles and 100% review",
+        "pt": "Colecionáveis agregados e revisão de 100%"
+      },
+      "items": [
+        {
+          "key": "collect-portland-hidden-packages",
+          "title": "Collect Portland's thirty-three packages",
+          "title_i18n": {
+            "en": "Collect Portland's thirty-three packages",
+            "pt": "Coletar os trinta e três pacotes de Portland"
+          },
+          "description": "Use a separate location checklist; this guide does not enumerate every package.",
+          "description_i18n": {
+            "en": "Use a separate location checklist; this guide does not enumerate every package.",
+            "pt": "Use uma lista separada de locais; este guia não enumera cada pacote."
+          }
+        },
+        {
+          "key": "collect-staunton-hidden-packages",
+          "title": "Collect Staunton's thirty-five packages",
+          "title_i18n": {
+            "en": "Collect Staunton's thirty-five packages",
+            "pt": "Coletar os trinta e cinco pacotes de Staunton"
+          },
+          "description": "Track rooftop and restricted-area pickups separately from Portland.",
+          "description_i18n": {
+            "en": "Track rooftop and restricted-area pickups separately from Portland.",
+            "pt": "Registre os itens em coberturas e áreas restritas separadamente de Portland."
+          }
+        },
+        {
+          "key": "collect-shoreside-hidden-packages",
+          "title": "Collect Shoreside's thirty-two packages",
+          "title_i18n": {
+            "en": "Collect Shoreside's thirty-two packages",
+            "pt": "Coletar os trinta e dois pacotes de Shoreside"
+          },
+          "description": "Finish the hundred hidden packages across all three islands.",
+          "description_i18n": {
+            "en": "Finish the hundred hidden packages across all three islands.",
+            "pt": "Conclua os cem pacotes escondidos distribuídos pelas três ilhas."
+          }
+        },
+        {
+          "key": "complete-twenty-rampages",
+          "title": "Complete all twenty Rampages",
+          "title_i18n": {
+            "en": "Complete all twenty Rampages",
+            "pt": "Concluir os vinte Rampages"
+          },
+          "description": "Follow the supplied weapon, targets and timer; use a separate location checklist.",
+          "description_i18n": {
+            "en": "Follow the supplied weapon, targets and timer; use a separate location checklist.",
+            "pt": "Siga a arma fornecida, os alvos e o cronômetro; use uma lista separada de locais."
+          }
+        },
+        {
+          "key": "complete-twenty-unique-jumps",
+          "title": "Complete all twenty Unique Stunt Jumps",
+          "title_i18n": {
+            "en": "Complete all twenty Unique Stunt Jumps",
+            "pt": "Concluir os vinte Unique Stunt Jumps"
+          },
+          "description": "Record confirmed successful jumps, not merely reaching each ramp.",
+          "description_i18n": {
+            "en": "Record confirmed successful jumps, not merely reaching each ramp.",
+            "pt": "Registre saltos com sucesso confirmado, não apenas a chegada a cada rampa."
+          }
+        },
+        {
+          "key": "review-all-payphone-jobs",
+          "title": "Review all seventeen payphone jobs",
+          "title_i18n": {
+            "en": "Review all seventeen payphone jobs",
+            "pt": "Conferir os dezessete trabalhos de telefone"
+          },
+          "description": "Check El Burro, Marty Chonks, King Courtney and D-Ice individually.",
+          "description_i18n": {
+            "en": "Check El Burro, Marty Chonks, King Courtney and D-Ice individually.",
+            "pt": "Confira El Burro, Marty Chonks, King Courtney e D-Ice individualmente."
+          }
+        },
+        {
+          "key": "review-offroad-and-rc-completion",
+          "title": "Review four off-road and four RC missions",
+          "title_i18n": {
+            "en": "Review four off-road and four RC missions",
+            "pt": "Conferir quatro missões de percurso e quatro de controle remoto"
+          },
+          "description": "Confirm all eight named activities in the optional category.",
+          "description_i18n": {
+            "en": "Confirm all eight named activities in the optional category.",
+            "pt": "Confirme as oito atividades nomeadas na categoria opcional."
+          }
+        },
+        {
+          "key": "review-mission-counter-convention",
+          "title": "Review the 73-mission completion counter",
+          "title_i18n": {
+            "en": "Review the 73-mission completion counter",
+            "pt": "Conferir a convenção do contador de 73 missões"
+          },
+          "description": "The 73 count combines 48 story/contact missions, seventeen phone jobs, four off-road and four RC tasks; preparation and cinematic checklist steps do not add counted missions.",
+          "description_i18n": {
+            "en": "The 73 count combines 48 story/contact missions, seventeen phone jobs, four off-road and four RC tasks; preparation and cinematic checklist steps do not add counted missions.",
+            "pt": "A contagem de 73 reúne 48 missões de história/contatos, dezessete trabalhos de telefone, quatro de percurso e quatro de controle remoto; etapas de preparação e cenas deste guia não acrescentam missões ao contador."
+          }
+        },
+        {
+          "key": "verify-in-game-one-hundred-percent",
+          "title": "Verify 100% in the game statistics",
+          "title_i18n": {
+            "en": "Verify 100% in the game statistics",
+            "pt": "Verificar 100% nas estatísticas do jogo"
+          },
+          "description": "Confirm every required mission branch, service, import list and collection in the remaster’s statistics.",
+          "description_i18n": {
+            "en": "Confirm every required mission branch, service, import list and collection in the remaster’s statistics.",
+            "pt": "Confira todas as missões de ramos exigidos, serviços, listas de importação e coleções nas estatísticas do remaster."
+          }
+        }
+      ],
+      "kind": "collectible"
+    },
+    {
+      "key": "definitive-trophy-challenges",
+      "title": "Definitive Edition: optional trophy challenges",
+      "title_i18n": {
+        "en": "Definitive Edition: optional trophy challenges",
+        "pt": "Definitive Edition: desafios opcionais de troféus"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "challenge-without-a-scratch",
+          "title": "Without a Scratch: Mike Lips Last Lunch",
+          "title_i18n": {
+            "en": "Without a Scratch: Mike Lips Last Lunch",
+            "pt": "Without a Scratch: Mike Lips Last Lunch"
+          },
+          "description": "Prepare for this missable mission challenge before starting Joey’s job.",
+          "description_i18n": {
+            "en": "Prepare for this missable mission challenge before starting Joey’s job.",
+            "pt": "Prepare este desafio de missão perdível antes de iniciar o trabalho de Joey."
+          },
+          "details": "Make a manual save before starting Mike Lips Last Lunch. Drive the target’s car carefully through the bomb fitting and return it without adding any damage. A repair after a collision is not the clean first-attempt route this trophy asks for. If damage occurs, reload the pre-mission save rather than finishing and expecting a successful-mission replay menu later. Check the trophy before overwriting the recovery slot.",
+          "details_i18n": {
+            "en": "Make a manual save before starting Mike Lips Last Lunch. Drive the target’s car carefully through the bomb fitting and return it without adding any damage. A repair after a collision is not the clean first-attempt route this trophy asks for. If damage occurs, reload the pre-mission save rather than finishing and expecting a successful-mission replay menu later. Check the trophy before overwriting the recovery slot.",
+            "pt": "Faça um salvamento manual antes de iniciar Mike Lips Last Lunch. Dirija o carro do alvo com cuidado ao instalar a bomba e devolva-o sem causar dano. Reparar após uma colisão não corresponde ao trajeto limpo de primeira tentativa pedido pelo troféu. Se houver dano, carregue o salvamento anterior em vez de concluir esperando um menu para repetir uma missão já vencida. Confira o troféu antes de sobrescrever o espaço de recuperação."
+          }
+        },
+        {
+          "key": "challenge-planned-ahead",
+          "title": "Planned Ahead: Farewell ’Chunky’ Lee Chong",
+          "title_i18n": {
+            "en": "Planned Ahead: Farewell ’Chunky’ Lee Chong",
+            "pt": "Planned Ahead: Farewell ’Chunky’ Lee Chong"
+          },
+          "description": "Prepare the optional trophy method before confronting the target.",
+          "description_i18n": {
+            "en": "Prepare the optional trophy method before confronting the target.",
+            "pt": "Prepare o método opcional do troféu antes de confrontar o alvo."
+          },
+          "details": "Before approaching Chong’s stall, take a nearby getaway car to 8-Ball’s Portland bomb shop. Return the rigged vehicle to its original escape position and arm it before leaving. Approach the target so his escape takes him toward that car, then stay clear when he enters and the bomb triggers. If he escapes in a different car, reload the pre-mission save; a normal gun kill completes the mission without satisfying this trophy.",
+          "details_i18n": {
+            "en": "Before approaching Chong’s stall, take a nearby getaway car to 8-Ball’s Portland bomb shop. Return the rigged vehicle to its original escape position and arm it before leaving. Approach the target so his escape takes him toward that car, then stay clear when he enters and the bomb triggers. If he escapes in a different car, reload the pre-mission save; a normal gun kill completes the mission without satisfying this trophy.",
+            "pt": "Antes de se aproximar da barraca de Chong, leve um carro de fuga próximo à oficina de bombas de 8-Ball em Portland. Devolva o veículo preparado à posição original de fuga e arme a bomba antes de sair. Aproxime-se do alvo de modo que ele fuja em direção a esse carro e afaste-se quando ele entrar e a bomba disparar. Se ele usar outro carro, carregue o salvamento anterior; derrotá-lo com tiros conclui a missão sem cumprir este troféu."
+          }
+        },
+        {
+          "key": "challenge-got-this-figured-out",
+          "title": "Got This Figured Out: The Fuzz Ball",
+          "title_i18n": {
+            "en": "Got This Figured Out: The Fuzz Ball",
+            "pt": "Got This Figured Out: The Fuzz Ball"
+          },
+          "description": "Prepare the required transport before completing this missable mission.",
+          "description_i18n": {
+            "en": "Prepare the required transport before completing this missable mission.",
+            "pt": "Prepare o transporte exigido antes de concluir esta missão perdível."
+          },
+          "details": "Keep a separate save before The Fuzz Ball. Use the actual Coach model, not an ordinary car or a different bus, and collect all eight marked passengers rather than ending after the basic mission minimum. Its capacity lets the group travel together, but the timer still makes a planned pickup loop useful. Avoid damaging passengers with the vehicle and finish the delivery before checking the trophy.",
+          "details_i18n": {
+            "en": "Keep a separate save before The Fuzz Ball. Use the actual Coach model, not an ordinary car or a different bus, and collect all eight marked passengers rather than ending after the basic mission minimum. Its capacity lets the group travel together, but the timer still makes a planned pickup loop useful. Avoid damaging passengers with the vehicle and finish the delivery before checking the trophy.",
+            "pt": "Preserve um salvamento separado antes de The Fuzz Ball. Use o modelo Coach de fato, não um carro comum nem outro ônibus, e busque as oito passageiras marcadas em vez de encerrar ao atingir o mínimo básico da missão. A capacidade permite transportar o grupo junto, mas o cronômetro ainda favorece uma rota planejada. Evite atropelar as passageiras e conclua a entrega antes de conferir o troféu."
+          }
+        },
+        {
+          "key": "challenge-mob-boss",
+          "title": "Mob Boss: Triads and Tribulations",
+          "title_i18n": {
+            "en": "Mob Boss: Triads and Tribulations",
+            "pt": "Mob Boss: Triads and Tribulations"
+          },
+          "description": "Finish the mission-specific companion challenge before leaving Portland.",
+          "description_i18n": {
+            "en": "Finish the mission-specific companion challenge before leaving Portland.",
+            "pt": "Conclua o desafio de companheiros desta missão antes de deixar Portland."
+          },
+          "details": "Save before Triads and Tribulations and keep track of both Mafia companions throughout the job. Limit their exposure by handling dangerous opponents from a vehicle or a safer firing position. Keep explosives away from the companions and make sure both survive when the mission succeeds. A normal completion with one casualty cannot be repaired by returning to Toni afterward; reload your recovery save if necessary.",
+          "details_i18n": {
+            "en": "Save before Triads and Tribulations and keep track of both Mafia companions throughout the job. Limit their exposure by handling dangerous opponents from a vehicle or a safer firing position. Keep explosives away from the companions and make sure both survive when the mission succeeds. A normal completion with one casualty cannot be repaired by returning to Toni afterward; reload your recovery save if necessary.",
+            "pt": "Salve antes de Triads and Tribulations e acompanhe os dois aliados da Mafia durante todo o trabalho. Reduza a exposição deles enfrentando os oponentes perigosos de um veículo ou de uma posição de tiro mais segura. Mantenha explosivos longe dos companheiros e garanta que ambos sobrevivam até o sucesso da missão. Uma conclusão comum com uma baixa não pode ser corrigida voltando a Toni depois; carregue o salvamento de recuperação se necessário."
+          }
+        },
+        {
+          "key": "challenge-by-a-mile",
+          "title": "By a Mile: Turismo under three minutes",
+          "title_i18n": {
+            "en": "By a Mile: Turismo under three minutes",
+            "pt": "By a Mile: Turismo em menos de três minutos"
+          },
+          "description": "Win the repeatable phone race within the trophy’s time requirement.",
+          "description_i18n": {
+            "en": "Win the repeatable phone race within the trophy’s time requirement.",
+            "pt": "Vença a corrida repetível do telefone dentro do tempo exigido pelo troféu."
+          }
+        },
+        {
+          "key": "challenge-firefighter-fifteen",
+          "title": "Splish Splash: fifteen fires in one attempt",
+          "title_i18n": {
+            "en": "Splish Splash: fifteen fires in one attempt",
+            "pt": "Splish Splash: quinze incêndios em uma tentativa"
+          },
+          "description": "Register fifteen Firefighter completions without ending the current service attempt.",
+          "description_i18n": {
+            "en": "Register fifteen Firefighter completions without ending the current service attempt.",
+            "pt": "Registre quinze atendimentos Firefighter sem encerrar a tentativa atual."
+          }
+        },
+        {
+          "key": "challenge-vigilante-fifteen",
+          "title": "Going Rogue: fifteen criminals in one attempt",
+          "title_i18n": {
+            "en": "Going Rogue: fifteen criminals in one attempt",
+            "pt": "Going Rogue: quinze criminosos em uma tentativa"
+          },
+          "description": "Register fifteen Vigilante targets without ending the current service attempt.",
+          "description_i18n": {
+            "en": "Register fifteen Vigilante targets without ending the current service attempt.",
+            "pt": "Registre quinze alvos Vigilante sem encerrar a tentativa atual."
+          }
+        },
+        {
+          "key": "challenge-police-bribes",
+          "title": "Escape Artist: twenty police bribes",
+          "title_i18n": {
+            "en": "Escape Artist: twenty police bribes",
+            "pt": "Escape Artist: vinte subornos policiais"
+          },
+          "description": "Use twenty wanted-level bribe pickups.",
+          "description_i18n": {
+            "en": "Use twenty wanted-level bribe pickups.",
+            "pt": "Use vinte itens de suborno que reduzem o nível de procurado."
+          }
+        },
+        {
+          "key": "challenge-melee-gang-members",
+          "title": "Come Out to Play-y-y-y: twenty-five melee defeats",
+          "title_i18n": {
+            "en": "Come Out to Play-y-y-y: twenty-five melee defeats",
+            "pt": "Come Out to Play-y-y-y: vinte e cinco derrotas corpo a corpo"
+          },
+          "description": "Defeat twenty-five gang members with fists or melee weapons.",
+          "description_i18n": {
+            "en": "Defeat twenty-five gang members with fists or melee weapons.",
+            "pt": "Derrote vinte e cinco membros de gangues com os punhos ou armas corpo a corpo."
+          }
+        },
+        {
+          "key": "challenge-full-artillery",
+          "title": "Full Artillery: use every weapon",
+          "title_i18n": {
+            "en": "Full Artillery: use every weapon",
+            "pt": "Full Artillery: use todas as armas"
+          },
+          "description": "Use each weapon type rather than merely possessing it.",
+          "description_i18n": {
+            "en": "Use each weapon type rather than merely possessing it.",
+            "pt": "Use cada tipo de arma em vez de apenas possuí-lo."
+          },
+          "details": "Actively use the weapon types rather than only collecting pickups: swing melee attacks, fire each firearm and use both thrown-explosive types. Check overlooked equipment such as the Flamethrower, Rocket Launcher and Sniper Rifle after the later islands open. Keep track as you go, since merely seeing a weapon in the inventory does not prove it has been used for this trophy.",
+          "details_i18n": {
+            "en": "Actively use the weapon types rather than only collecting pickups: swing melee attacks, fire each firearm and use both thrown-explosive types. Check overlooked equipment such as the Flamethrower, Rocket Launcher and Sniper Rifle after the later islands open. Keep track as you go, since merely seeing a weapon in the inventory does not prove it has been used for this trophy.",
+            "pt": "Use ativamente os tipos de arma em vez de apenas recolher itens: execute ataques corpo a corpo, dispare cada arma de fogo e use os dois tipos de explosivo arremessável. Confira equipamentos esquecidos, como Flamethrower, Rocket Launcher e Sniper Rifle, após liberar as ilhas posteriores. Anote o uso durante a partida, pois ver uma arma no inventário não comprova que ela foi usada para este troféu."
+          }
+        },
+        {
+          "key": "challenge-liberty-city-minute",
+          "title": "Liberty City Minute: survive the low-health interval",
+          "title_i18n": {
+            "en": "Liberty City Minute: survive the low-health interval",
+            "pt": "Liberty City Minute: sobreviva ao intervalo com pouca saúde"
+          },
+          "description": "Complete the trophy’s one-minute survival condition.",
+          "description_i18n": {
+            "en": "Complete the trophy’s one-minute survival condition.",
+            "pt": "Conclua a condição de sobrevivência de um minuto do troféu."
+          },
+          "details": "The condition is strictly below ten health, so aim for a remaining value from one to nine, then keep Claude alive for sixty seconds. Once the value is low enough, move out of traffic and away from hostile gangs or police. Do not collect health during the interval. This is a separate trophy condition and does not require an ongoing mission or a speedrun of the campaign.",
+          "details_i18n": {
+            "en": "The condition is strictly below ten health, so aim for a remaining value from one to nine, then keep Claude alive for sixty seconds. Once the value is low enough, move out of traffic and away from hostile gangs or police. Do not collect health during the interval. This is a separate trophy condition and does not require an ongoing mission or a speedrun of the campaign.",
+            "pt": "A condição exige saúde estritamente abaixo de dez; deixe um valor entre um e nove e mantenha Claude vivo por sessenta segundos. Quando a saúde estiver baixa o bastante, saia do trânsito e afaste-se de gangues hostis e da polícia. Não recolha saúde durante o intervalo. Esta é uma condição separada de troféu, sem exigir missão ativa nem terminar a campanha rapidamente."
+          }
+        },
+        {
+          "key": "challenge-perfect-insane-stunt",
+          "title": "Wreckless Driving: Perfect Insane Stunt",
+          "title_i18n": {
+            "en": "Wreckless Driving: Perfect Insane Stunt",
+            "pt": "Wreckless Driving: Perfect Insane Stunt"
+          },
+          "description": "Register the named stunt bonus, distinct from simply clearing a Unique Jump.",
+          "description_i18n": {
+            "en": "Register the named stunt bonus, distinct from simply clearing a Unique Jump.",
+            "pt": "Registre o bônus de acrobacia indicado, distinto de apenas concluir um Unique Jump."
+          }
+        },
+        {
+          "key": "challenge-dirty-money",
+          "title": "Dirty Money: hold one million dollars",
+          "title_i18n": {
+            "en": "Dirty Money: hold one million dollars",
+            "pt": "Dirty Money: tenha um milhão de dólares"
+          },
+          "description": "Reach the required cash balance before spending it.",
+          "description_i18n": {
+            "en": "Reach the required cash balance before spending it.",
+            "pt": "Alcance o saldo exigido antes de gastá-lo."
+          }
+        },
+        {
+          "key": "challenge-criminal-rating",
+          "title": "Right-hand Man: criminal rating 2,500",
+          "title_i18n": {
+            "en": "Right-hand Man: criminal rating 2,500",
+            "pt": "Right-hand Man: classificação criminal de 2.500"
+          },
+          "description": "Check the criminal-rating statistic and reach the required threshold.",
+          "description_i18n": {
+            "en": "Check the criminal-rating statistic and reach the required threshold.",
+            "pt": "Confira a estatística de classificação criminal e alcance o limite exigido."
+          }
+        }
+      ]
+    }
+  ],
+  "trophies": [
+    {
+      "key": "trophy-king-of-liberty-city",
+      "title": "King of Liberty City",
+      "title_i18n": {
+        "en": "King of Liberty City",
+        "pt": "King of Liberty City"
+      },
+      "description": "Earn all twenty-eight other native Definitive Edition trophies.",
+      "description_i18n": {
+        "en": "Earn all twenty-eight other native Definitive Edition trophies.",
+        "pt": "Obtenha os outros vinte e oito troféus nativos da Definitive Edition."
+      },
+      "tier": "platinum"
+    },
+    {
+      "key": "trophy-first-day-on-the-job",
+      "title": "First Day on the Job",
+      "title_i18n": {
+        "en": "First Day on the Job",
+        "pt": "First Day on the Job"
+      },
+      "description": "Finish Luigi’s Girls.",
+      "description_i18n": {
+        "en": "Finish Luigi’s Girls.",
+        "pt": "Conclua Luigi’s Girls."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-without-a-scratch",
+      "title": "Without a Scratch",
+      "title_i18n": {
+        "en": "Without a Scratch",
+        "pt": "Without a Scratch"
+      },
+      "description": "Complete Mike Lips Last Lunch with the borrowed car undamaged on the first attempt.",
+      "description_i18n": {
+        "en": "Complete Mike Lips Last Lunch with the borrowed car undamaged on the first attempt.",
+        "pt": "Conclua Mike Lips Last Lunch com o carro emprestado intacto na primeira tentativa."
+      },
+      "tier": "gold"
+    },
+    {
+      "key": "trophy-escape-artist",
+      "title": "Escape Artist",
+      "title_i18n": {
+        "en": "Escape Artist",
+        "pt": "Escape Artist"
+      },
+      "description": "Collect twenty police-bribe pickups while they reduce your wanted level.",
+      "description_i18n": {
+        "en": "Collect twenty police-bribe pickups while they reduce your wanted level.",
+        "pt": "Recolha vinte itens de suborno policial enquanto eles reduzem seu nível de procurado."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-disposing-of-the-evidence",
+      "title": "Disposing of the Evidence",
+      "title_i18n": {
+        "en": "Disposing of the Evidence",
+        "pt": "Disposing of the Evidence"
+      },
+      "description": "Send one vehicle through the junkyard crusher.",
+      "description_i18n": {
+        "en": "Send one vehicle through the junkyard crusher.",
+        "pt": "Passe um veículo pelo triturador do ferro-velho."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-mob-boss",
+      "title": "Mob Boss",
+      "title_i18n": {
+        "en": "Mob Boss",
+        "pt": "Mob Boss"
+      },
+      "description": "Finish Triads and Tribulations with both accompanying Mafia members alive.",
+      "description_i18n": {
+        "en": "Finish Triads and Tribulations with both accompanying Mafia members alive.",
+        "pt": "Conclua Triads and Tribulations mantendo vivos os dois membros da Mafia que acompanham Claude."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "trophy-street-sweeper",
+      "title": "Street Sweeper",
+      "title_i18n": {
+        "en": "Street Sweeper",
+        "pt": "Street Sweeper"
+      },
+      "description": "Defeat one hundred gang members.",
+      "description_i18n": {
+        "en": "Defeat one hundred gang members.",
+        "pt": "Derrote cem membros de gangues."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-planned-ahead",
+      "title": "Planned Ahead",
+      "title_i18n": {
+        "en": "Planned Ahead",
+        "pt": "Planned Ahead"
+      },
+      "description": "Defeat Chunky Lee Chong using a vehicle fitted with a car bomb.",
+      "description_i18n": {
+        "en": "Defeat Chunky Lee Chong using a vehicle fitted with a car bomb.",
+        "pt": "Derrote Chunky Lee Chong usando um veículo equipado com uma bomba."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "trophy-got-this-figured-out",
+      "title": "Got This Figured Out",
+      "title_i18n": {
+        "en": "Got This Figured Out",
+        "pt": "Got This Figured Out"
+      },
+      "description": "Use a Coach to collect all eight passengers during The Fuzz Ball.",
+      "description_i18n": {
+        "en": "Use a Coach to collect all eight passengers during The Fuzz Ball.",
+        "pt": "Use um Coach para buscar as oito passageiras durante The Fuzz Ball."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "trophy-by-a-mile",
+      "title": "By a Mile",
+      "title_i18n": {
+        "en": "By a Mile",
+        "pt": "By a Mile"
+      },
+      "description": "Win Turismo with a recorded time below three minutes.",
+      "description_i18n": {
+        "en": "Win Turismo with a recorded time below three minutes.",
+        "pt": "Vença Turismo com tempo registrado inferior a três minutos."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "trophy-wreckless-driving",
+      "title": "Wreckless Driving",
+      "title_i18n": {
+        "en": "Wreckless Driving",
+        "pt": "Wreckless Driving"
+      },
+      "description": "Register a Perfect Insane Stunt bonus.",
+      "description_i18n": {
+        "en": "Register a Perfect Insane Stunt bonus.",
+        "pt": "Registre um bônus Perfect Insane Stunt."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-wheels-up",
+      "title": "Wheels Up",
+      "title_i18n": {
+        "en": "Wheels Up",
+        "pt": "Wheels Up"
+      },
+      "description": "Register all twenty designated Unique Jumps.",
+      "description_i18n": {
+        "en": "Register all twenty designated Unique Jumps.",
+        "pt": "Registre os vinte Unique Jumps designados."
+      },
+      "tier": "gold"
+    },
+    {
+      "key": "trophy-come-out-to-play-y-y-y",
+      "title": "Come Out to Play-y-y-y",
+      "title_i18n": {
+        "en": "Come Out to Play-y-y-y",
+        "pt": "Come Out to Play-y-y-y"
+      },
+      "description": "Defeat twenty-five gang members using fists or melee weapons.",
+      "description_i18n": {
+        "en": "Defeat twenty-five gang members using fists or melee weapons.",
+        "pt": "Derrote vinte e cinco membros de gangues com os punhos ou armas corpo a corpo."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-where-to",
+      "title": "Where To?",
+      "title_i18n": {
+        "en": "Where To?",
+        "pt": "Where To?"
+      },
+      "description": "Complete one hundred taxi fares cumulatively.",
+      "description_i18n": {
+        "en": "Complete one hundred taxi fares cumulatively.",
+        "pt": "Conclua cem corridas de táxi de forma cumulativa."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "trophy-liberty-city-minute",
+      "title": "Liberty City Minute",
+      "title_i18n": {
+        "en": "Liberty City Minute",
+        "pt": "Liberty City Minute"
+      },
+      "description": "Stay alive for one full minute with health below ten.",
+      "description_i18n": {
+        "en": "Stay alive for one full minute with health below ten.",
+        "pt": "Permaneça vivo por um minuto completo com a saúde abaixo de dez."
+      },
+      "tier": "gold"
+    },
+    {
+      "key": "trophy-full-artillery",
+      "title": "Full Artillery",
+      "title_i18n": {
+        "en": "Full Artillery",
+        "pt": "Full Artillery"
+      },
+      "description": "Use every weapon type in the game at least once.",
+      "description_i18n": {
+        "en": "Use every weapon type in the game at least once.",
+        "pt": "Use cada tipo de arma do jogo pelo menos uma vez."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-a-marked-man",
+      "title": "A Marked Man",
+      "title_i18n": {
+        "en": "A Marked Man",
+        "pt": "A Marked Man"
+      },
+      "description": "Finish Last Requests.",
+      "description_i18n": {
+        "en": "Finish Last Requests.",
+        "pt": "Conclua Last Requests."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-offshore-delivery",
+      "title": "Offshore Delivery",
+      "title_i18n": {
+        "en": "Offshore Delivery",
+        "pt": "Offshore Delivery"
+      },
+      "description": "Finish A Drop in the Ocean.",
+      "description_i18n": {
+        "en": "Finish A Drop in the Ocean.",
+        "pt": "Conclua A Drop in the Ocean."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-not-so-fast",
+      "title": "Not So Fast",
+      "title_i18n": {
+        "en": "Not So Fast",
+        "pt": "Not So Fast"
+      },
+      "description": "Finish The Exchange.",
+      "description_i18n": {
+        "en": "Finish The Exchange.",
+        "pt": "Conclua The Exchange."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-a-gift-from-the-king",
+      "title": "A Gift from the King",
+      "title_i18n": {
+        "en": "A Gift from the King",
+        "pt": "A Gift from the King"
+      },
+      "description": "Finish King Courtney’s Kingdom Come.",
+      "description_i18n": {
+        "en": "Finish King Courtney’s Kingdom Come.",
+        "pt": "Conclua Kingdom Come de King Courtney."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "trophy-man-toyz",
+      "title": "Man Toyz",
+      "title_i18n": {
+        "en": "Man Toyz",
+        "pt": "Man Toyz"
+      },
+      "description": "Complete all four RC Toyz missions.",
+      "description_i18n": {
+        "en": "Complete all four RC Toyz missions.",
+        "pt": "Conclua as quatro missões RC Toyz."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "trophy-splish-splash",
+      "title": "Splish Splash",
+      "title_i18n": {
+        "en": "Splish Splash",
+        "pt": "Splish Splash"
+      },
+      "description": "Put out fifteen vehicle fires in one uninterrupted Firefighter attempt.",
+      "description_i18n": {
+        "en": "Put out fifteen vehicle fires in one uninterrupted Firefighter attempt.",
+        "pt": "Apague quinze incêndios em veículos em uma tentativa ininterrupta de Firefighter."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "trophy-playing-doctor",
+      "title": "Playing Doctor",
+      "title_i18n": {
+        "en": "Playing Doctor",
+        "pt": "Playing Doctor"
+      },
+      "description": "Complete Paramedic through level twelve in one attempt.",
+      "description_i18n": {
+        "en": "Complete Paramedic through level twelve in one attempt.",
+        "pt": "Conclua Paramedic até o nível doze em uma tentativa."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "trophy-going-rogue",
+      "title": "Going Rogue",
+      "title_i18n": {
+        "en": "Going Rogue",
+        "pt": "Going Rogue"
+      },
+      "description": "Defeat fifteen criminals in one uninterrupted Vigilante attempt.",
+      "description_i18n": {
+        "en": "Defeat fifteen criminals in one uninterrupted Vigilante attempt.",
+        "pt": "Derrote quinze criminosos em uma tentativa ininterrupta de Vigilante."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "trophy-dirty-money",
+      "title": "Dirty Money",
+      "title_i18n": {
+        "en": "Dirty Money",
+        "pt": "Dirty Money"
+      },
+      "description": "Hold at least one million dollars in cash.",
+      "description_i18n": {
+        "en": "Hold at least one million dollars in cash.",
+        "pt": "Tenha pelo menos um milhão de dólares em dinheiro."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "trophy-right-hand-man",
+      "title": "Right-hand Man",
+      "title_i18n": {
+        "en": "Right-hand Man",
+        "pt": "Right-hand Man"
+      },
+      "description": "Reach a criminal rating of at least two thousand five hundred.",
+      "description_i18n": {
+        "en": "Reach a criminal rating of at least two thousand five hundred.",
+        "pt": "Alcance uma classificação criminal de pelo menos dois mil e quinhentos."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-furious-first-responder",
+      "title": "Furious First Responder",
+      "title_i18n": {
+        "en": "Furious First Responder",
+        "pt": "Furious First Responder"
+      },
+      "description": "Complete Paramedic level twelve and the full Firefighter and Vigilante service totals.",
+      "description_i18n": {
+        "en": "Complete Paramedic level twelve and the full Firefighter and Vigilante service totals.",
+        "pt": "Conclua o nível doze de Paramedic e os totais completos de Firefighter e Vigilante."
+      },
+      "tier": "gold"
+    },
+    {
+      "key": "trophy-liberty-city-secrets",
+      "title": "Liberty City Secrets",
+      "title_i18n": {
+        "en": "Liberty City Secrets",
+        "pt": "Liberty City Secrets"
+      },
+      "description": "Collect all one hundred Hidden Packages.",
+      "description_i18n": {
+        "en": "Collect all one hundred Hidden Packages.",
+        "pt": "Recolha os cem Hidden Packages."
+      },
+      "tier": "gold"
+    },
+    {
+      "key": "trophy-is-that-all-you-ve-got",
+      "title": "Is That All You've Got?",
+      "title_i18n": {
+        "en": "Is That All You've Got?",
+        "pt": "Is That All You've Got?"
+      },
+      "description": "Reach one hundred percent in the game’s native completion statistic.",
+      "description_i18n": {
+        "en": "Reach one hundred percent in the game’s native completion statistic.",
+        "pt": "Alcance cem por cento na estatística nativa de conclusão do jogo."
+      },
+      "tier": "gold"
+    }
+  ]
+}

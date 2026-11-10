@@ -1,0 +1,1168 @@
+{
+  "slug": "grand-theft-auto-advance",
+  "title": "Grand Theft Auto Advance",
+  "title_i18n": {
+    "en": "Grand Theft Auto Advance",
+    "pt": "Grand Theft Auto Advance"
+  },
+  "platform": "Game Boy Advance",
+  "cover_url": "/covers/grand-theft-auto-advance.png",
+  "created_by": "dd5c4bf0-85ea-4986-9c04-b37e8c986150",
+  "categories": [
+    {
+      "key": "portland-vinnie",
+      "title": "Portland: Vinnie",
+      "title_i18n": {
+        "en": "Portland: Vinnie",
+        "pt": "Portland: Vinnie"
+      },
+      "items": [
+        {
+          "key": "practice-gba-controls",
+          "title": "Practice the original GBA controls",
+          "title_i18n": {
+            "en": "Practice the original GBA controls",
+            "pt": "Praticar os controles originais de GBA"
+          },
+          "description": "Review driving, handbrake, weapon selection and on-foot movement before a timed assignment.",
+          "description_i18n": {
+            "en": "Review driving, handbrake, weapon selection and on-foot movement before a timed assignment.",
+            "pt": "Confira direção, freio de mão, seleção de armas e movimento a pé antes de um trabalho cronometrado."
+          }
+        },
+        {
+          "key": "jump-start",
+          "title": "Complete Jump Start",
+          "title_i18n": {
+            "en": "Complete Jump Start",
+            "pt": "Concluir Jump Start"
+          },
+          "description": "Follow Vinnie's opening instructions and learn the first route.",
+          "description_i18n": {
+            "en": "Follow Vinnie's opening instructions and learn the first route.",
+            "pt": "Siga as instruções iniciais de Vinnie e aprenda a primeira rota."
+          }
+        },
+        {
+          "key": "establish-hideout-save",
+          "title": "Establish a hideout save",
+          "title_i18n": {
+            "en": "Establish a hideout save",
+            "pt": "Estabelecer um salvamento no esconderijo"
+          },
+          "description": "Learn the hideout saving routine and preserve progress between difficult missions.",
+          "description_i18n": {
+            "en": "Learn the hideout saving routine and preserve progress between difficult missions.",
+            "pt": "Aprenda o salvamento no esconderijo e preserve o progresso entre missões difíceis."
+          }
+        },
+        {
+          "key": "dirty-laundry",
+          "title": "Complete Dirty Laundry",
+          "title_i18n": {
+            "en": "Complete Dirty Laundry",
+            "pt": "Concluir Dirty Laundry"
+          },
+          "description": "Acquire the requested equipment and complete the marked target.",
+          "description_i18n": {
+            "en": "Acquire the requested equipment and complete the marked target.",
+            "pt": "Obtenha o equipamento solicitado e conclua o alvo marcado."
+          }
+        },
+        {
+          "key": "hot-wheels",
+          "title": "Complete Hot Wheels",
+          "title_i18n": {
+            "en": "Complete Hot Wheels",
+            "pt": "Concluir Hot Wheels"
+          },
+          "description": "Recover the requested car and bring it to the handover.",
+          "description_i18n": {
+            "en": "Recover the requested car and bring it to the handover.",
+            "pt": "Recupere o carro solicitado e leve-o à entrega."
+          }
+        },
+        {
+          "key": "ill-gotten",
+          "title": "Complete Ill-Gotten",
+          "title_i18n": {
+            "en": "Complete Ill-Gotten",
+            "pt": "Concluir Ill-Gotten"
+          },
+          "description": "Collect the marked payments while handling resistance.",
+          "description_i18n": {
+            "en": "Collect the marked payments while handling resistance.",
+            "pt": "Recolha os pagamentos marcados enfrentando a resistência."
+          }
+        },
+        {
+          "key": "payback",
+          "title": "Complete Payback",
+          "title_i18n": {
+            "en": "Complete Payback",
+            "pt": "Concluir Payback"
+          },
+          "description": "Resolve every marked gang target and return as instructed.",
+          "description_i18n": {
+            "en": "Resolve every marked gang target and return as instructed.",
+            "pt": "Resolva todos os alvos de gangue marcados e retorne conforme a instrução."
+          }
+        },
+        {
+          "key": "fake-ids",
+          "title": "Complete Fake IDs",
+          "title_i18n": {
+            "en": "Complete Fake IDs",
+            "pt": "Concluir Fake IDs"
+          },
+          "description": "Follow the meeting and clear the police attention before returning.",
+          "description_i18n": {
+            "en": "Follow the meeting and clear the police attention before returning.",
+            "pt": "Siga o encontro e despiste a polícia antes de voltar."
+          }
+        },
+        {
+          "key": "getaway",
+          "title": "Complete Getaway",
+          "title_i18n": {
+            "en": "Complete Getaway",
+            "pt": "Concluir Getaway"
+          },
+          "description": "Follow the changed meeting instructions and complete the escape.",
+          "description_i18n": {
+            "en": "Follow the changed meeting instructions and complete the escape.",
+            "pt": "Siga as instruções alteradas do encontro e conclua a fuga."
+          }
+        }
+      ]
+    },
+    {
+      "key": "portland-eight-ball",
+      "title": "Portland: 8-Ball",
+      "title_i18n": {
+        "en": "Portland: 8-Ball",
+        "pt": "Portland: 8-Ball"
+      },
+      "items": [
+        {
+          "key": "twisted-metal",
+          "title": "Complete Twisted Metal",
+          "title_i18n": {
+            "en": "Complete Twisted Metal",
+            "pt": "Concluir Twisted Metal"
+          },
+          "description": "Deliver the requested vehicle to the crusher and finish the handover.",
+          "description_i18n": {
+            "en": "Deliver the requested vehicle to the crusher and finish the handover.",
+            "pt": "Leve o veículo solicitado ao triturador e conclua a entrega."
+          }
+        },
+        {
+          "key": "ill-repute",
+          "title": "Complete Ill Repute",
+          "title_i18n": {
+            "en": "Complete Ill Repute",
+            "pt": "Concluir Ill Repute"
+          },
+          "description": "Complete all passenger pickups and deliveries within the limit.",
+          "description_i18n": {
+            "en": "Complete all passenger pickups and deliveries within the limit.",
+            "pt": "Conclua todas as buscas e entregas de passageiros dentro do prazo."
+          }
+        },
+        {
+          "key": "droppin-bombs",
+          "title": "Complete Droppin' Bombs",
+          "title_i18n": {
+            "en": "Complete Droppin' Bombs",
+            "pt": "Concluir Droppin' Bombs"
+          },
+          "description": "Handle the fragile cargo and follow the delivery instructions.",
+          "description_i18n": {
+            "en": "Handle the fragile cargo and follow the delivery instructions.",
+            "pt": "Conduza a carga frágil e siga as instruções de entrega."
+          },
+          "details": "Take the supplied cargo vehicle and watch its special damage meter, not only whether it is still moving. Brake early at junctions and use wider streets so a small navigation mistake does not become repeated collisions. Keep the required vehicle until the delivery confirms success. Follow any subsequent message before assuming the entire assignment is over. This is a vehicle-preservation problem; a fast traffic car cannot substitute for the cargo vehicle.",
+          "details_i18n": {
+            "en": "Take the supplied cargo vehicle and watch its special damage meter, not only whether it is still moving. Brake early at junctions and use wider streets so a small navigation mistake does not become repeated collisions. Keep the required vehicle until the delivery confirms success. Follow any subsequent message before assuming the entire assignment is over. This is a vehicle-preservation problem; a fast traffic car cannot substitute for the cargo vehicle.",
+            "pt": "Pegue o veículo de carga fornecido e acompanhe seu medidor especial de dano, não apenas se ele ainda anda. Freie cedo nos cruzamentos e use vias largas para evitar que um erro de navegação vire colisões repetidas. Preserve o veículo exigido até confirmar a entrega. Leia qualquer mensagem seguinte antes de presumir que o trabalho inteiro acabou. O desafio é preservar o veículo; um carro rápido do trânsito não substitui o transporte da carga."
+          }
+        },
+        {
+          "key": "scorelli",
+          "title": "Complete Scorelli",
+          "title_i18n": {
+            "en": "Complete Scorelli",
+            "pt": "Concluir Scorelli"
+          },
+          "description": "Prepare for resistance and recover the requested vehicle.",
+          "description_i18n": {
+            "en": "Prepare for resistance and recover the requested vehicle.",
+            "pt": "Prepare-se para a resistência e recupere o veículo solicitado."
+          }
+        },
+        {
+          "key": "love-boat",
+          "title": "Complete Love Boat",
+          "title_i18n": {
+            "en": "Complete Love Boat",
+            "pt": "Concluir Love Boat"
+          },
+          "description": "Follow the new contact and finish the associated operation.",
+          "description_i18n": {
+            "en": "Follow the new contact and finish the associated operation.",
+            "pt": "Siga o novo contato e conclua a operação correspondente."
+          }
+        }
+      ]
+    },
+    {
+      "key": "portland-jonnie",
+      "title": "Portland: Jonnie",
+      "title_i18n": {
+        "en": "Portland: Jonnie",
+        "pt": "Portland: Jonnie"
+      },
+      "items": [
+        {
+          "key": "time-s-up",
+          "title": "Complete Time's Up",
+          "title_i18n": {
+            "en": "Complete Time's Up",
+            "pt": "Concluir Time's Up"
+          },
+          "description": "Resolve every marked target before the active timer expires.",
+          "description_i18n": {
+            "en": "Resolve every marked target before the active timer expires.",
+            "pt": "Resolva todos os alvos marcados antes de o cronômetro terminar."
+          }
+        },
+        {
+          "key": "sober-driver",
+          "title": "Complete Sober Driver",
+          "title_i18n": {
+            "en": "Complete Sober Driver",
+            "pt": "Concluir Sober Driver"
+          },
+          "description": "Protect the passenger through the changing stops and return.",
+          "description_i18n": {
+            "en": "Protect the passenger through the changing stops and return.",
+            "pt": "Proteja a passageira nas mudanças de paradas e no retorno."
+          }
+        },
+        {
+          "key": "happy-hour",
+          "title": "Complete Happy Hour",
+          "title_i18n": {
+            "en": "Complete Happy Hour",
+            "pt": "Concluir Happy Hour"
+          },
+          "description": "Collect the marked supplies with Jonnie's vehicle and return.",
+          "description_i18n": {
+            "en": "Collect the marked supplies with Jonnie's vehicle and return.",
+            "pt": "Recolha os suprimentos marcados com o veículo de Jonnie e retorne."
+          }
+        },
+        {
+          "key": "grand-opening",
+          "title": "Complete Grand Opening",
+          "title_i18n": {
+            "en": "Complete Grand Opening",
+            "pt": "Concluir Grand Opening"
+          },
+          "description": "Complete the special-vehicle setup and the subsequent escape.",
+          "description_i18n": {
+            "en": "Complete the special-vehicle setup and the subsequent escape.",
+            "pt": "Conclua a preparação do veículo especial e a fuga seguinte."
+          },
+          "details": "Take Jonnie's car to the indicated bomb-shop contact, then drive to the marked parking area. Car bombs have two stages in this GBA game: select the bomb and arm it inside the car, then exit, move clear and use the detonator. Do not try to trigger it while still seated. After the explosion, clear the wanted level and return to Jonnie as instructed; destroying the target alone does not finish the operation.",
+          "details_i18n": {
+            "en": "Take Jonnie's car to the indicated bomb-shop contact, then drive to the marked parking area. Car bombs have two stages in this GBA game: select the bomb and arm it inside the car, then exit, move clear and use the detonator. Do not try to trigger it while still seated. After the explosion, clear the wanted level and return to Jonnie as instructed; destroying the target alone does not finish the operation.",
+            "pt": "Leve o carro de Jonnie ao contato indicado da oficina de bombas e depois à área marcada de estacionamento. As bombas de carro têm duas etapas neste jogo de GBA: selecione e arme a bomba dentro do carro; depois desça, afaste-se e use o detonador. Não tente acioná-la ainda sentado. Após a explosão, despiste a polícia e volte a Jonnie conforme a instrução; destruir o alvo sozinho não conclui a operação."
+          }
+        },
+        {
+          "key": "pocket-rocket",
+          "title": "Complete Pocket Rocket",
+          "title_i18n": {
+            "en": "Complete Pocket Rocket",
+            "pt": "Concluir Pocket Rocket"
+          },
+          "description": "Recover the requested weapons through the guarded operation.",
+          "description_i18n": {
+            "en": "Recover the requested weapons through the guarded operation.",
+            "pt": "Recupere as armas solicitadas durante a operação vigiada."
+          },
+          "details": "Recover the requested Rocket Launcher, then deal with the attackers using your other weapons or a vehicle. The launcher is the item you must preserve for delivery: firing it during this job causes mission failure. Defeat the marked attackers and return to Jonnie with the requested equipment intact. Do not mistake the newly collected weapon for permission to use it in the ambush.",
+          "details_i18n": {
+            "en": "Recover the requested Rocket Launcher, then deal with the attackers using your other weapons or a vehicle. The launcher is the item you must preserve for delivery: firing it during this job causes mission failure. Defeat the marked attackers and return to Jonnie with the requested equipment intact. Do not mistake the newly collected weapon for permission to use it in the ambush.",
+            "pt": "Recolha o Rocket Launcher solicitado e enfrente os atacantes com outras armas ou um veículo. O lançador é o item que precisa ser preservado para a entrega: dispará-lo durante esse trabalho causa falha. Derrote os atacantes marcados e volte a Jonnie com o equipamento intacto. Encontrar a nova arma não significa que você deva usá-la na emboscada."
+          }
+        },
+        {
+          "key": "political-will",
+          "title": "Complete Political Will",
+          "title_i18n": {
+            "en": "Complete Political Will",
+            "pt": "Concluir Political Will"
+          },
+          "description": "Find the marked subject and follow the changing instructions.",
+          "description_i18n": {
+            "en": "Find the marked subject and follow the changing instructions.",
+            "pt": "Encontre a pessoa marcada e siga as mudanças de instrução."
+          },
+          "details": "Reach the marked limousine before the timer expires and damage it until the politician gets out. Keep the target alive: use fists to pressure him, while dealing separately with guards and police. Shooting the politician fails the mission, so check your selected weapon before approaching him. After the conversation confirms success, lose the wanted level before returning to Jonnie. Returning while still wanted can fail the job even after the persuasion is complete.",
+          "details_i18n": {
+            "en": "Reach the marked limousine before the timer expires and damage it until the politician gets out. Keep the target alive: use fists to pressure him, while dealing separately with guards and police. Shooting the politician fails the mission, so check your selected weapon before approaching him. After the conversation confirms success, lose the wanted level before returning to Jonnie. Returning while still wanted can fail the job even after the persuasion is complete.",
+            "pt": "Alcance a limusine marcada antes de acabar o prazo e danifique-a até o político sair. Mantenha o alvo vivo: use os punhos para pressioná-lo e lide separadamente com os guardas e a polícia. Atirar no político causa falha; confira a arma selecionada antes de se aproximar. Depois que o diálogo confirmar o sucesso, elimine a perseguição antes de voltar a Jonnie. Retornar ainda procurado pode causar falha mesmo após a persuasão."
+          }
+        },
+        {
+          "key": "show-the-money",
+          "title": "Complete Show The Money",
+          "title_i18n": {
+            "en": "Complete Show The Money",
+            "pt": "Concluir Show The Money"
+          },
+          "description": "Complete the money-recovery chain and follow the next destination.",
+          "description_i18n": {
+            "en": "Complete the money-recovery chain and follow the next destination.",
+            "pt": "Conclua a sequência de recuperação do dinheiro e siga o próximo destino."
+          }
+        }
+      ]
+    },
+    {
+      "key": "staunton-courtney-and-cisco",
+      "title": "Staunton: King Courtney and Cisco",
+      "title_i18n": {
+        "en": "Staunton: King Courtney and Cisco",
+        "pt": "Staunton: King Courtney e Cisco"
+      },
+      "items": [
+        {
+          "key": "race-to-run",
+          "title": "Complete Race To Run",
+          "title_i18n": {
+            "en": "Complete Race To Run",
+            "pt": "Concluir Race To Run"
+          },
+          "description": "Complete the requested driving assignment and its final confirmation.",
+          "description_i18n": {
+            "en": "Complete the requested driving assignment and its final confirmation.",
+            "pt": "Conclua o trabalho de direção solicitado e sua confirmação final."
+          }
+        },
+        {
+          "key": "latin-coffee",
+          "title": "Complete Latin Coffee",
+          "title_i18n": {
+            "en": "Complete Latin Coffee",
+            "pt": "Concluir Latin Coffee"
+          },
+          "description": "Intercept the marked deliveries and recover the cargo.",
+          "description_i18n": {
+            "en": "Intercept the marked deliveries and recover the cargo.",
+            "pt": "Intercepte as entregas marcadas e recupere a carga."
+          }
+        },
+        {
+          "key": "the-big-score",
+          "title": "Complete The Big Score",
+          "title_i18n": {
+            "en": "Complete The Big Score",
+            "pt": "Concluir The Big Score"
+          },
+          "description": "Approach the guarded meeting and finish the marked targets.",
+          "description_i18n": {
+            "en": "Approach the guarded meeting and finish the marked targets.",
+            "pt": "Aproxime-se do encontro vigiado e conclua os alvos marcados."
+          }
+        },
+        {
+          "key": "fine-dining",
+          "title": "Complete Fine Dining",
+          "title_i18n": {
+            "en": "Complete Fine Dining",
+            "pt": "Concluir Fine Dining"
+          },
+          "description": "Follow the contact meeting and the new assignment.",
+          "description_i18n": {
+            "en": "Follow the contact meeting and the new assignment.",
+            "pt": "Siga o encontro com o contato e o novo trabalho."
+          }
+        },
+        {
+          "key": "flying-high",
+          "title": "Complete Flying High",
+          "title_i18n": {
+            "en": "Complete Flying High",
+            "pt": "Concluir Flying High"
+          },
+          "description": "Complete the successive contacts and the follow-up operation.",
+          "description_i18n": {
+            "en": "Complete the successive contacts and the follow-up operation.",
+            "pt": "Conclua os contatos sucessivos e a operação seguinte."
+          }
+        },
+        {
+          "key": "factory-wages",
+          "title": "Complete Factory Wages",
+          "title_i18n": {
+            "en": "Complete Factory Wages",
+            "pt": "Concluir Factory Wages"
+          },
+          "description": "Follow the access and demolition objectives through the escape.",
+          "description_i18n": {
+            "en": "Follow the access and demolition objectives through the escape.",
+            "pt": "Siga os objetivos de acesso e demolição até a fuga."
+          },
+          "details": "Intercept the marked vehicle and pressure its driver until the ID card drops, then collect it. Before approaching the factory, make sure a car bomb is available; visit the bomb shop if you have none. Take the prepared car into the marked position, arm the device, get out and move beyond the blast. Exit the compound afterward until the mission confirms success. Reaching the entrance with the card but no explosive is not enough to complete the demolition stage.",
+          "details_i18n": {
+            "en": "Intercept the marked vehicle and pressure its driver until the ID card drops, then collect it. Before approaching the factory, make sure a car bomb is available; visit the bomb shop if you have none. Take the prepared car into the marked position, arm the device, get out and move beyond the blast. Exit the compound afterward until the mission confirms success. Reaching the entrance with the card but no explosive is not enough to complete the demolition stage.",
+            "pt": "Intercepte o veículo marcado e pressione o motorista até ele soltar o cartão de identificação; recolha-o. Antes de se aproximar da fábrica, confirme que tem uma bomba de carro; visite a oficina de bombas se não tiver. Leve o carro preparado à posição marcada, arme o dispositivo, desça e saia do alcance da explosão. Depois deixe o pátio até a missão confirmar o sucesso. Chegar à entrada com o cartão, mas sem explosivo, não basta para concluir a demolição."
+          }
+        },
+        {
+          "key": "school-s-out",
+          "title": "Complete School's Out",
+          "title_i18n": {
+            "en": "Complete School's Out",
+            "pt": "Concluir School's Out"
+          },
+          "description": "Use the requested vehicle and complete the pickup operation.",
+          "description_i18n": {
+            "en": "Use the requested vehicle and complete the pickup operation.",
+            "pt": "Use o veículo solicitado e conclua a operação de busca."
+          }
+        }
+      ]
+    },
+    {
+      "key": "staunton-asuka",
+      "title": "Staunton: Asuka",
+      "title_i18n": {
+        "en": "Staunton: Asuka",
+        "pt": "Staunton: Asuka"
+      },
+      "items": [
+        {
+          "key": "kid-s-a-hero",
+          "title": "Complete Kid's A Hero",
+          "title_i18n": {
+            "en": "Complete Kid's A Hero",
+            "pt": "Concluir Kid's A Hero"
+          },
+          "description": "Complete the rescue and protect the return journey.",
+          "description_i18n": {
+            "en": "Complete the rescue and protect the return journey.",
+            "pt": "Conclua o resgate e proteja o trajeto de retorno."
+          },
+          "details": "Follow the information payment and then approach the locked rescue vehicle. The marked guards provide the missing key: defeat them until the key drops and collect it before returning to the vehicle. You do not need to continue fighting every unrelated guard after the access objective is satisfied. The escape vehicle is a bus, so slow down for tight corners and avoid tipping it over. Confirm the passenger is aboard and prioritize the marked return over chasing pursuing cars.",
+          "details_i18n": {
+            "en": "Follow the information payment and then approach the locked rescue vehicle. The marked guards provide the missing key: defeat them until the key drops and collect it before returning to the vehicle. You do not need to continue fighting every unrelated guard after the access objective is satisfied. The escape vehicle is a bus, so slow down for tight corners and avoid tipping it over. Confirm the passenger is aboard and prioritize the marked return over chasing pursuing cars.",
+            "pt": "Siga o pagamento pela informação e aproxime-se do veículo de resgate trancado. Os guardas marcados fornecem a chave que falta: enfrente-os até ela cair e recolha-a antes de voltar ao veículo. Não é preciso continuar combatendo todo guarda sem relação após cumprir o objetivo de acesso. O transporte de fuga é um ônibus; reduza nas curvas fechadas e evite capotá-lo. Confirme o embarque da passageira e priorize o retorno marcado, sem perseguir os carros inimigos."
+          }
+        },
+        {
+          "key": "ante-up",
+          "title": "Complete Ante Up",
+          "title_i18n": {
+            "en": "Complete Ante Up",
+            "pt": "Concluir Ante Up"
+          },
+          "description": "Resolve the casino assignment using the mission's offered approach.",
+          "description_i18n": {
+            "en": "Resolve the casino assignment using the mission's offered approach.",
+            "pt": "Resolva o trabalho do cassino usando a abordagem oferecida pela missão."
+          }
+        },
+        {
+          "key": "two-hand-toss",
+          "title": "Complete Two-Hand Toss",
+          "title_i18n": {
+            "en": "Complete Two-Hand Toss",
+            "pt": "Concluir Two-Hand Toss"
+          },
+          "description": "Follow the requested confrontation's equipment conditions.",
+          "description_i18n": {
+            "en": "Follow the requested confrontation's equipment conditions.",
+            "pt": "Siga as condições de equipamento do confronto solicitado."
+          }
+        },
+        {
+          "key": "scorned-lover",
+          "title": "Complete Scorned Lover",
+          "title_i18n": {
+            "en": "Complete Scorned Lover",
+            "pt": "Concluir Scorned Lover"
+          },
+          "description": "Resolve the guarded meeting and recover the requested item.",
+          "description_i18n": {
+            "en": "Resolve the guarded meeting and recover the requested item.",
+            "pt": "Resolva o encontro vigiado e recupere o item solicitado."
+          }
+        },
+        {
+          "key": "sue-me-sushi",
+          "title": "Complete Sue Me Sushi",
+          "title_i18n": {
+            "en": "Complete Sue Me Sushi",
+            "pt": "Concluir Sue Me Sushi"
+          },
+          "description": "Identify the required truck and complete its return.",
+          "description_i18n": {
+            "en": "Identify the required truck and complete its return.",
+            "pt": "Identifique o caminhão exigido e conclua seu retorno."
+          },
+          "details": "There are several marked trucks and a shared mission limit. Stop a truck, damage it enough to make the driver emerge and read the resulting conversation before moving on. Do not indiscriminately kill every driver: the mission's instructions require questioning and recovering the correct transport. When a driver yields, stop attacking and let the conversation complete. After identifying the right truck, board it with the required passenger and return to Asuka before the timer expires.",
+          "details_i18n": {
+            "en": "There are several marked trucks and a shared mission limit. Stop a truck, damage it enough to make the driver emerge and read the resulting conversation before moving on. Do not indiscriminately kill every driver: the mission's instructions require questioning and recovering the correct transport. When a driver yields, stop attacking and let the conversation complete. After identifying the right truck, board it with the required passenger and return to Asuka before the timer expires.",
+            "pt": "Há vários caminhões marcados e um prazo compartilhado da missão. Pare um caminhão, cause dano suficiente para o motorista sair e leia a conversa antes de seguir ao próximo. Não mate indiscriminadamente todos os motoristas: as instruções exigem interrogatório e recuperação do transporte correto. Quando um deles ceder, pare de atacar e deixe a conversa terminar. Após identificar o caminhão certo, entre com o passageiro exigido e volte a Asuka antes de o tempo acabar."
+          }
+        },
+        {
+          "key": "down-the-river",
+          "title": "Complete Down The River",
+          "title_i18n": {
+            "en": "Complete Down The River",
+            "pt": "Concluir Down The River"
+          },
+          "description": "Follow the recruitment operation and deliver the loaded transport.",
+          "description_i18n": {
+            "en": "Follow the recruitment operation and deliver the loaded transport.",
+            "pt": "Siga a operação de recrutamento e entregue o transporte carregado."
+          }
+        },
+        {
+          "key": "bad-pimpin",
+          "title": "Complete Bad Pimpin'",
+          "title_i18n": {
+            "en": "Complete Bad Pimpin'",
+            "pt": "Concluir Bad Pimpin'"
+          },
+          "description": "Complete the marked passenger operation and its follow-up.",
+          "description_i18n": {
+            "en": "Complete the marked passenger operation and its follow-up.",
+            "pt": "Conclua a operação marcada de passageiros e a etapa seguinte."
+          }
+        }
+      ]
+    },
+    {
+      "key": "shoreside-and-finale",
+      "title": "Shoreside Vale and the finale",
+      "title_i18n": {
+        "en": "Shoreside Vale and the finale",
+        "pt": "Shoreside Vale e o final"
+      },
+      "items": [
+        {
+          "key": "mystery-killer",
+          "title": "Complete Mystery Killer",
+          "title_i18n": {
+            "en": "Complete Mystery Killer",
+            "pt": "Concluir Mystery Killer"
+          },
+          "description": "Follow Cisco's next lead and complete the confrontation.",
+          "description_i18n": {
+            "en": "Follow Cisco's next lead and complete the confrontation.",
+            "pt": "Siga a próxima pista de Cisco e conclua o confronto."
+          }
+        },
+        {
+          "key": "decoy-disaster",
+          "title": "Complete Decoy Disaster",
+          "title_i18n": {
+            "en": "Complete Decoy Disaster",
+            "pt": "Concluir Decoy Disaster"
+          },
+          "description": "Complete the decoy operation and follow the changed objective.",
+          "description_i18n": {
+            "en": "Complete the decoy operation and follow the changed objective.",
+            "pt": "Conclua a operação de distração e siga o objetivo alterado."
+          }
+        },
+        {
+          "key": "truth-revealed",
+          "title": "Complete Truth Revealed",
+          "title_i18n": {
+            "en": "Complete Truth Revealed",
+            "pt": "Concluir Truth Revealed"
+          },
+          "description": "Follow the encounter through the moving confrontation.",
+          "description_i18n": {
+            "en": "Follow the encounter through the moving confrontation.",
+            "pt": "Acompanhe o encontro durante o confronto em movimento."
+          }
+        },
+        {
+          "key": "love-of-money",
+          "title": "Complete Love Of Money",
+          "title_i18n": {
+            "en": "Complete Love Of Money",
+            "pt": "Concluir Love Of Money"
+          },
+          "description": "Complete 8-Ball's urgent operation and leave safely.",
+          "description_i18n": {
+            "en": "Complete 8-Ball's urgent operation and leave safely.",
+            "pt": "Conclua a operação urgente de 8-Ball e saia em segurança."
+          }
+        },
+        {
+          "key": "taking-revenge",
+          "title": "Complete Taking Revenge",
+          "title_i18n": {
+            "en": "Complete Taking Revenge",
+            "pt": "Concluir Taking Revenge"
+          },
+          "description": "Follow the marked targets through the full retaliation assignment.",
+          "description_i18n": {
+            "en": "Follow the marked targets through the full retaliation assignment.",
+            "pt": "Siga os alvos marcados durante todo o trabalho de retaliação."
+          }
+        },
+        {
+          "key": "smackdown",
+          "title": "Complete Smackdown",
+          "title_i18n": {
+            "en": "Complete Smackdown",
+            "pt": "Concluir Smackdown"
+          },
+          "description": "Complete the moving targets and final handover.",
+          "description_i18n": {
+            "en": "Complete the moving targets and final handover.",
+            "pt": "Conclua os alvos em movimento e a entrega final."
+          }
+        },
+        {
+          "key": "assault-joint",
+          "title": "Complete Assault Joint",
+          "title_i18n": {
+            "en": "Complete Assault Joint",
+            "pt": "Concluir Assault Joint"
+          },
+          "description": "Prepare for the extended compound confrontation.",
+          "description_i18n": {
+            "en": "Prepare for the extended compound confrontation.",
+            "pt": "Prepare-se para o confronto prolongado no pátio."
+          },
+          "details": "Prepare weapons, armor and health before starting: the next escape mission begins automatically afterward. Clear the initial attackers and reach Asuka's marked position. At the short waiting prompt, allowing the countdown to finish brings supporting gunfire instead of forcing you to rush alone through the entrance. The boss confrontation continues through repeated stages, so keep cover and preserve ammunition for the final timed phase. Finish the marked boss and the required surrounding enemies rather than assuming the first depleted health bar ends the fight.",
+          "details_i18n": {
+            "en": "Prepare weapons, armor and health before starting: the next escape mission begins automatically afterward. Clear the initial attackers and reach Asuka's marked position. At the short waiting prompt, allowing the countdown to finish brings supporting gunfire instead of forcing you to rush alone through the entrance. The boss confrontation continues through repeated stages, so keep cover and preserve ammunition for the final timed phase. Finish the marked boss and the required surrounding enemies rather than assuming the first depleted health bar ends the fight.",
+            "pt": "Prepare armas, colete e saúde antes de começar: a missão de fuga seguinte começa automaticamente depois. Resolva os atacantes iniciais e alcance a posição marcada de Asuka. Na breve espera indicada, deixar a contagem terminar traz fogo de apoio em vez de obrigar você a avançar sozinho pela entrada. O confronto com o chefe passa por etapas repetidas; use cobertura e preserve munição para a fase final cronometrada. Resolva o chefe marcado e os inimigos próximos exigidos, sem presumir que esvaziar a primeira barra de saúde encerra a luta."
+          }
+        },
+        {
+          "key": "freedom-flies",
+          "title": "Complete Freedom Flies",
+          "title_i18n": {
+            "en": "Complete Freedom Flies",
+            "pt": "Concluir Freedom Flies"
+          },
+          "description": "Complete the final escape and preserve the finished save.",
+          "description_i18n": {
+            "en": "Complete the final escape and preserve the finished save.",
+            "pt": "Conclua a fuga final e preserve o salvamento concluído."
+          },
+          "details": "This finale starts automatically after Assault Joint. You have five minutes to reach the airport aircraft while under maximum police pressure. Use the available vehicle to leave the compound and focus on the marked destination rather than attempting to eliminate every pursuer. Plan broad turns and avoid trapping a damaged vehicle against roadblocks. Reaching the plane completes the story; use the offered save-game choice to preserve the completed state before choosing to quit into the credits.",
+          "details_i18n": {
+            "en": "This finale starts automatically after Assault Joint. You have five minutes to reach the airport aircraft while under maximum police pressure. Use the available vehicle to leave the compound and focus on the marked destination rather than attempting to eliminate every pursuer. Plan broad turns and avoid trapping a damaged vehicle against roadblocks. Reaching the plane completes the story; use the offered save-game choice to preserve the completed state before choosing to quit into the credits.",
+            "pt": "Este final começa automaticamente após Assault Joint. Você tem cinco minutos para alcançar o avião no aeroporto sob pressão policial máxima. Use o veículo disponível para sair do pátio e concentre-se no destino marcado, sem tentar eliminar todos os perseguidores. Planeje curvas amplas e evite prender um veículo danificado nos bloqueios. Alcançar o avião conclui a história; use a opção de salvar oferecida para preservar o estado concluído antes de escolher sair para os créditos."
+          }
+        }
+      ]
+    },
+    {
+      "key": "portland-street-races",
+      "title": "Portland: optional street races",
+      "title_i18n": {
+        "en": "Portland: optional street races",
+        "pt": "Portland: corridas de rua opcionais"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "portland-race-1",
+          "title": "Win Portland Race 1",
+          "title_i18n": {
+            "en": "Win Portland Race 1",
+            "pt": "Vencer a corrida 1 de Portland"
+          },
+          "description": "Complete this island course successfully; guide numbering also identifies it as Race 1 overall.",
+          "description_i18n": {
+            "en": "Complete this island course successfully; guide numbering also identifies it as Race 1 overall.",
+            "pt": "Conclua este percurso da ilha com sucesso; a numeração geral dos guias também o identifica como corrida 1."
+          },
+          "details": "Read each course's rules before accelerating. Advance races include both ordered checkpoint routes and courses that let you collect markers in a chosen order; some also add interfering vehicles. For ordered routes, brake before the turn so the marker is not missed. For open-order routes, choose a sweep that avoids crossing the island repeatedly. A controllable vehicle and a clean route are often more useful than raw top speed on the GBA's tight streets. Repeat the course until its success is recorded.",
+          "details_i18n": {
+            "en": "Read each course's rules before accelerating. Advance races include both ordered checkpoint routes and courses that let you collect markers in a chosen order; some also add interfering vehicles. For ordered routes, brake before the turn so the marker is not missed. For open-order routes, choose a sweep that avoids crossing the island repeatedly. A controllable vehicle and a clean route are often more useful than raw top speed on the GBA's tight streets. Repeat the course until its success is recorded.",
+            "pt": "Leia as regras de cada percurso antes de acelerar. As corridas de Advance incluem rotas de checkpoints ordenados e percursos que permitem escolher a ordem das marcações; algumas também têm veículos atrapalhando. Nas rotas ordenadas, freie antes da curva para não perder o ponto. Nas de ordem livre, escolha um trajeto que evite atravessar a ilha repetidamente. Um veículo controlável e uma rota limpa costumam ajudar mais que velocidade máxima nas ruas apertadas de GBA. Repita até registrar o sucesso."
+          }
+        },
+        {
+          "key": "portland-race-2",
+          "title": "Win Portland Race 2",
+          "title_i18n": {
+            "en": "Win Portland Race 2",
+            "pt": "Vencer a corrida 2 de Portland"
+          },
+          "description": "Complete this island course successfully; guide numbering also identifies it as Race 2 overall.",
+          "description_i18n": {
+            "en": "Complete this island course successfully; guide numbering also identifies it as Race 2 overall.",
+            "pt": "Conclua este percurso da ilha com sucesso; a numeração geral dos guias também o identifica como corrida 2."
+          }
+        },
+        {
+          "key": "portland-race-3",
+          "title": "Win Portland Race 3",
+          "title_i18n": {
+            "en": "Win Portland Race 3",
+            "pt": "Vencer a corrida 3 de Portland"
+          },
+          "description": "Complete this island course successfully; guide numbering also identifies it as Race 3 overall.",
+          "description_i18n": {
+            "en": "Complete this island course successfully; guide numbering also identifies it as Race 3 overall.",
+            "pt": "Conclua este percurso da ilha com sucesso; a numeração geral dos guias também o identifica como corrida 3."
+          }
+        },
+        {
+          "key": "portland-race-4",
+          "title": "Win Portland Race 4",
+          "title_i18n": {
+            "en": "Win Portland Race 4",
+            "pt": "Vencer a corrida 4 de Portland"
+          },
+          "description": "Complete this island course successfully; guide numbering also identifies it as Race 4 overall.",
+          "description_i18n": {
+            "en": "Complete this island course successfully; guide numbering also identifies it as Race 4 overall.",
+            "pt": "Conclua este percurso da ilha com sucesso; a numeração geral dos guias também o identifica como corrida 4."
+          }
+        },
+        {
+          "key": "portland-race-5",
+          "title": "Win Portland Race 5",
+          "title_i18n": {
+            "en": "Win Portland Race 5",
+            "pt": "Vencer a corrida 5 de Portland"
+          },
+          "description": "Complete this island course successfully; guide numbering also identifies it as Race 5 overall.",
+          "description_i18n": {
+            "en": "Complete this island course successfully; guide numbering also identifies it as Race 5 overall.",
+            "pt": "Conclua este percurso da ilha com sucesso; a numeração geral dos guias também o identifica como corrida 5."
+          }
+        },
+        {
+          "key": "portland-race-6",
+          "title": "Win Portland Race 6",
+          "title_i18n": {
+            "en": "Win Portland Race 6",
+            "pt": "Vencer a corrida 6 de Portland"
+          },
+          "description": "Complete this island course successfully; guide numbering also identifies it as Race 6 overall.",
+          "description_i18n": {
+            "en": "Complete this island course successfully; guide numbering also identifies it as Race 6 overall.",
+            "pt": "Conclua este percurso da ilha com sucesso; a numeração geral dos guias também o identifica como corrida 6."
+          }
+        }
+      ]
+    },
+    {
+      "key": "staunton-island-street-races",
+      "title": "Staunton Island: optional street races",
+      "title_i18n": {
+        "en": "Staunton Island: optional street races",
+        "pt": "Staunton Island: corridas de rua opcionais"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "staunton-island-race-1",
+          "title": "Win Staunton Island Race 1",
+          "title_i18n": {
+            "en": "Win Staunton Island Race 1",
+            "pt": "Vencer a corrida 1 de Staunton Island"
+          },
+          "description": "Complete this island course successfully; guide numbering also identifies it as Race 7 overall.",
+          "description_i18n": {
+            "en": "Complete this island course successfully; guide numbering also identifies it as Race 7 overall.",
+            "pt": "Conclua este percurso da ilha com sucesso; a numeração geral dos guias também o identifica como corrida 7."
+          }
+        },
+        {
+          "key": "staunton-island-race-2",
+          "title": "Win Staunton Island Race 2",
+          "title_i18n": {
+            "en": "Win Staunton Island Race 2",
+            "pt": "Vencer a corrida 2 de Staunton Island"
+          },
+          "description": "Complete this island course successfully; guide numbering also identifies it as Race 8 overall.",
+          "description_i18n": {
+            "en": "Complete this island course successfully; guide numbering also identifies it as Race 8 overall.",
+            "pt": "Conclua este percurso da ilha com sucesso; a numeração geral dos guias também o identifica como corrida 8."
+          }
+        },
+        {
+          "key": "staunton-island-race-3",
+          "title": "Win Staunton Island Race 3",
+          "title_i18n": {
+            "en": "Win Staunton Island Race 3",
+            "pt": "Vencer a corrida 3 de Staunton Island"
+          },
+          "description": "Complete this island course successfully; guide numbering also identifies it as Race 9 overall.",
+          "description_i18n": {
+            "en": "Complete this island course successfully; guide numbering also identifies it as Race 9 overall.",
+            "pt": "Conclua este percurso da ilha com sucesso; a numeração geral dos guias também o identifica como corrida 9."
+          }
+        },
+        {
+          "key": "staunton-island-race-4",
+          "title": "Win Staunton Island Race 4",
+          "title_i18n": {
+            "en": "Win Staunton Island Race 4",
+            "pt": "Vencer a corrida 4 de Staunton Island"
+          },
+          "description": "Complete this island course successfully; guide numbering also identifies it as Race 10 overall.",
+          "description_i18n": {
+            "en": "Complete this island course successfully; guide numbering also identifies it as Race 10 overall.",
+            "pt": "Conclua este percurso da ilha com sucesso; a numeração geral dos guias também o identifica como corrida 10."
+          }
+        },
+        {
+          "key": "staunton-island-race-5",
+          "title": "Win Staunton Island Race 5",
+          "title_i18n": {
+            "en": "Win Staunton Island Race 5",
+            "pt": "Vencer a corrida 5 de Staunton Island"
+          },
+          "description": "Complete this island course successfully; guide numbering also identifies it as Race 11 overall.",
+          "description_i18n": {
+            "en": "Complete this island course successfully; guide numbering also identifies it as Race 11 overall.",
+            "pt": "Conclua este percurso da ilha com sucesso; a numeração geral dos guias também o identifica como corrida 11."
+          }
+        },
+        {
+          "key": "staunton-island-race-6",
+          "title": "Win Staunton Island Race 6",
+          "title_i18n": {
+            "en": "Win Staunton Island Race 6",
+            "pt": "Vencer a corrida 6 de Staunton Island"
+          },
+          "description": "Complete this island course successfully; guide numbering also identifies it as Race 12 overall.",
+          "description_i18n": {
+            "en": "Complete this island course successfully; guide numbering also identifies it as Race 12 overall.",
+            "pt": "Conclua este percurso da ilha com sucesso; a numeração geral dos guias também o identifica como corrida 12."
+          }
+        }
+      ]
+    },
+    {
+      "key": "shoreside-vale-street-races",
+      "title": "Shoreside Vale: optional street races",
+      "title_i18n": {
+        "en": "Shoreside Vale: optional street races",
+        "pt": "Shoreside Vale: corridas de rua opcionais"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "shoreside-vale-race-1",
+          "title": "Win Shoreside Vale Race 1",
+          "title_i18n": {
+            "en": "Win Shoreside Vale Race 1",
+            "pt": "Vencer a corrida 1 de Shoreside Vale"
+          },
+          "description": "Complete this island course successfully; guide numbering also identifies it as Race 13 overall.",
+          "description_i18n": {
+            "en": "Complete this island course successfully; guide numbering also identifies it as Race 13 overall.",
+            "pt": "Conclua este percurso da ilha com sucesso; a numeração geral dos guias também o identifica como corrida 13."
+          }
+        },
+        {
+          "key": "shoreside-vale-race-2",
+          "title": "Win Shoreside Vale Race 2",
+          "title_i18n": {
+            "en": "Win Shoreside Vale Race 2",
+            "pt": "Vencer a corrida 2 de Shoreside Vale"
+          },
+          "description": "Complete this island course successfully; guide numbering also identifies it as Race 14 overall.",
+          "description_i18n": {
+            "en": "Complete this island course successfully; guide numbering also identifies it as Race 14 overall.",
+            "pt": "Conclua este percurso da ilha com sucesso; a numeração geral dos guias também o identifica como corrida 14."
+          }
+        },
+        {
+          "key": "shoreside-vale-race-3",
+          "title": "Win Shoreside Vale Race 3",
+          "title_i18n": {
+            "en": "Win Shoreside Vale Race 3",
+            "pt": "Vencer a corrida 3 de Shoreside Vale"
+          },
+          "description": "Complete this island course successfully; guide numbering also identifies it as Race 15 overall.",
+          "description_i18n": {
+            "en": "Complete this island course successfully; guide numbering also identifies it as Race 15 overall.",
+            "pt": "Conclua este percurso da ilha com sucesso; a numeração geral dos guias também o identifica como corrida 15."
+          }
+        },
+        {
+          "key": "shoreside-vale-race-4",
+          "title": "Win Shoreside Vale Race 4",
+          "title_i18n": {
+            "en": "Win Shoreside Vale Race 4",
+            "pt": "Vencer a corrida 4 de Shoreside Vale"
+          },
+          "description": "Complete this island course successfully; guide numbering also identifies it as Race 16 overall.",
+          "description_i18n": {
+            "en": "Complete this island course successfully; guide numbering also identifies it as Race 16 overall.",
+            "pt": "Conclua este percurso da ilha com sucesso; a numeração geral dos guias também o identifica como corrida 16."
+          }
+        },
+        {
+          "key": "shoreside-vale-race-5",
+          "title": "Win Shoreside Vale Race 5",
+          "title_i18n": {
+            "en": "Win Shoreside Vale Race 5",
+            "pt": "Vencer a corrida 5 de Shoreside Vale"
+          },
+          "description": "Complete this island course successfully; guide numbering also identifies it as Race 17 overall.",
+          "description_i18n": {
+            "en": "Complete this island course successfully; guide numbering also identifies it as Race 17 overall.",
+            "pt": "Conclua este percurso da ilha com sucesso; a numeração geral dos guias também o identifica como corrida 17."
+          }
+        },
+        {
+          "key": "shoreside-vale-race-6",
+          "title": "Win Shoreside Vale Race 6",
+          "title_i18n": {
+            "en": "Win Shoreside Vale Race 6",
+            "pt": "Vencer a corrida 6 de Shoreside Vale"
+          },
+          "description": "Complete this island course successfully; guide numbering also identifies it as Race 18 overall.",
+          "description_i18n": {
+            "en": "Complete this island course successfully; guide numbering also identifies it as Race 18 overall.",
+            "pt": "Conclua este percurso da ilha com sucesso; a numeração geral dos guias também o identifica como corrida 18."
+          }
+        }
+      ]
+    },
+    {
+      "key": "optional-services-and-demolition",
+      "title": "Optional services and Demolition Football",
+      "title_i18n": {
+        "en": "Optional services and Demolition Football",
+        "pt": "Serviços opcionais e Demolition Football"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "complete-one-hundred-taxi-fares",
+          "title": "Complete one hundred taxi fares",
+          "title_i18n": {
+            "en": "Complete one hundred taxi fares",
+            "pt": "Concluir cem corridas de táxi"
+          },
+          "description": "Reach the cumulative hundred-fare total; the fifty-fare reward is an intermediate milestone.",
+          "description_i18n": {
+            "en": "Reach the cumulative hundred-fare total; the fifty-fare reward is an intermediate milestone.",
+            "pt": "Alcance o total cumulativo de cem corridas; a recompensa de cinquenta é uma etapa intermediária."
+          }
+        },
+        {
+          "key": "complete-paramedic-level-twelve",
+          "title": "Complete Paramedic level twelve",
+          "title_i18n": {
+            "en": "Complete Paramedic level twelve",
+            "pt": "Concluir o nível doze de Paramedic"
+          },
+          "description": "Finish the GBA ambulance activity; cleared levels can be resumed rather than requiring one uninterrupted run.",
+          "description_i18n": {
+            "en": "Finish the GBA ambulance activity; cleared levels can be resumed rather than requiring one uninterrupted run.",
+            "pt": "Termine a atividade de ambulância de GBA; níveis concluídos podem ser retomados, sem exigir uma única tentativa contínua."
+          },
+          "details": "GBA Paramedic is not GTA III's three-patient system. Collect every patient spawned for the current level before returning to the hospital; the ambulance can carry the entire group. Cleared levels persist, so a later attempt resumes after the highest cleared level rather than forcing levels one through twelve in one sitting. Damage is not repaired automatically between levels, and the ambulance cannot use the respray. Start service work with L+R; press R first so L does not make you exit the vehicle by itself.",
+          "details_i18n": {
+            "en": "GBA Paramedic is not GTA III's three-patient system. Collect every patient spawned for the current level before returning to the hospital; the ambulance can carry the entire group. Cleared levels persist, so a later attempt resumes after the highest cleared level rather than forcing levels one through twelve in one sitting. Damage is not repaired automatically between levels, and the ambulance cannot use the respray. Start service work with L+R; press R first so L does not make you exit the vehicle by itself.",
+            "pt": "Paramedic de GBA não usa o sistema de três pacientes de GTA III. Recolha todos os pacientes gerados no nível atual antes de voltar ao hospital; a ambulância leva o grupo inteiro. Os níveis concluídos permanecem registrados, então uma tentativa posterior retoma após o maior nível concluído, sem exigir do um ao doze de uma vez. O dano não é reparado automaticamente entre níveis, e a ambulância não usa a oficina de pintura. Inicie o serviço com L+R; aperte R primeiro para L não fazer você sair sozinho do veículo."
+          }
+        },
+        {
+          "key": "portland-twenty-fires",
+          "title": "Extinguish twenty fires in Portland",
+          "title_i18n": {
+            "en": "Extinguish twenty fires in Portland",
+            "pt": "Apagar vinte incêndios em Portland"
+          },
+          "description": "Complete this island-specific Firefighter total; separate sessions can contribute.",
+          "description_i18n": {
+            "en": "Complete this island-specific Firefighter total; separate sessions can contribute.",
+            "pt": "Conclua o total de Firefighter específico desta ilha; sessões separadas podem contribuir."
+          }
+        },
+        {
+          "key": "portland-twenty-vigilante-targets",
+          "title": "Complete twenty Vigilante targets in Portland",
+          "title_i18n": {
+            "en": "Complete twenty Vigilante targets in Portland",
+            "pt": "Concluir vinte alvos de Vigilante em Portland"
+          },
+          "description": "Reach twenty on this island; ten is an intermediate reward, not the final goal.",
+          "description_i18n": {
+            "en": "Reach twenty on this island; ten is an intermediate reward, not the final goal.",
+            "pt": "Alcance vinte nesta ilha; dez é uma recompensa intermediária, não a meta final."
+          }
+        },
+        {
+          "key": "staunton-island-twenty-fires",
+          "title": "Extinguish twenty fires in Staunton Island",
+          "title_i18n": {
+            "en": "Extinguish twenty fires in Staunton Island",
+            "pt": "Apagar vinte incêndios em Staunton Island"
+          },
+          "description": "Complete this island-specific Firefighter total; separate sessions can contribute.",
+          "description_i18n": {
+            "en": "Complete this island-specific Firefighter total; separate sessions can contribute.",
+            "pt": "Conclua o total de Firefighter específico desta ilha; sessões separadas podem contribuir."
+          }
+        },
+        {
+          "key": "staunton-island-twenty-vigilante-targets",
+          "title": "Complete twenty Vigilante targets in Staunton Island",
+          "title_i18n": {
+            "en": "Complete twenty Vigilante targets in Staunton Island",
+            "pt": "Concluir vinte alvos de Vigilante em Staunton Island"
+          },
+          "description": "Reach twenty on this island; ten is an intermediate reward, not the final goal.",
+          "description_i18n": {
+            "en": "Reach twenty on this island; ten is an intermediate reward, not the final goal.",
+            "pt": "Alcance vinte nesta ilha; dez é uma recompensa intermediária, não a meta final."
+          }
+        },
+        {
+          "key": "shoreside-vale-twenty-fires",
+          "title": "Extinguish twenty fires in Shoreside Vale",
+          "title_i18n": {
+            "en": "Extinguish twenty fires in Shoreside Vale",
+            "pt": "Apagar vinte incêndios em Shoreside Vale"
+          },
+          "description": "Complete this island-specific Firefighter total; separate sessions can contribute.",
+          "description_i18n": {
+            "en": "Complete this island-specific Firefighter total; separate sessions can contribute.",
+            "pt": "Conclua o total de Firefighter específico desta ilha; sessões separadas podem contribuir."
+          }
+        },
+        {
+          "key": "shoreside-vale-twenty-vigilante-targets",
+          "title": "Complete twenty Vigilante targets in Shoreside Vale",
+          "title_i18n": {
+            "en": "Complete twenty Vigilante targets in Shoreside Vale",
+            "pt": "Concluir vinte alvos de Vigilante em Shoreside Vale"
+          },
+          "description": "Reach twenty on this island; ten is an intermediate reward, not the final goal.",
+          "description_i18n": {
+            "en": "Reach twenty on this island; ten is an intermediate reward, not the final goal.",
+            "pt": "Alcance vinte nesta ilha; dez é uma recompensa intermediária, não a meta final."
+          }
+        },
+        {
+          "key": "complete-demolition-football",
+          "title": "Complete Demolition Football",
+          "title_i18n": {
+            "en": "Complete Demolition Football",
+            "pt": "Concluir Demolition Football"
+          },
+          "description": "Unlock the Staunton stadium activity and pass all four stages.",
+          "description_i18n": {
+            "en": "Unlock the Staunton stadium activity and pass all four stages.",
+            "pt": "Libere a atividade do estádio de Staunton e passe nas quatro etapas."
+          },
+          "details": "Complete all six Staunton races to unlock the football-shaped activity marker in the island's northwest. The event uses Banshees and a ramp to meet four different landing-distance targets; it is not an ordinary football match. Adjust the run-up to the current requested distance rather than using maximum speed for every stage. A landed car catches fire whether the jump succeeds or fails, so exit and move away immediately. Complete the fourth successful stage for the required activity completion.",
+          "details_i18n": {
+            "en": "Complete all six Staunton races to unlock the football-shaped activity marker in the island's northwest. The event uses Banshees and a ramp to meet four different landing-distance targets; it is not an ordinary football match. Adjust the run-up to the current requested distance rather than using maximum speed for every stage. A landed car catches fire whether the jump succeeds or fails, so exit and move away immediately. Complete the fourth successful stage for the required activity completion.",
+            "pt": "Conclua as seis corridas de Staunton para liberar a marcação em forma de futebol americano no noroeste da ilha. O evento usa Banshees e uma rampa para atingir quatro distâncias diferentes de aterrissagem; não é uma partida comum de futebol. Ajuste a arrancada à distância pedida, sem usar velocidade máxima em toda etapa. O carro pega fogo ao pousar, com sucesso ou falha; desça e afaste-se imediatamente. Conclua a quarta etapa com sucesso para registrar a atividade exigida."
+          }
+        }
+      ]
+    },
+    {
+      "key": "aggregate-collections-and-completion",
+      "title": "Aggregate collections and completion",
+      "title_i18n": {
+        "en": "Aggregate collections and completion",
+        "pt": "Coleções agregadas e conclusão"
+      },
+      "kind": "collectible",
+      "items": [
+        {
+          "key": "collect-one-hundred-packages",
+          "title": "Collect all one hundred hidden packages",
+          "title_i18n": {
+            "en": "Collect all one hundred hidden packages",
+            "pt": "Coletar os cem pacotes ocultos"
+          },
+          "description": "Use a separate GBA location checklist; GTA III package coordinates are not interchangeable.",
+          "description_i18n": {
+            "en": "Use a separate GBA location checklist; GTA III package coordinates are not interchangeable.",
+            "pt": "Use uma lista separada de locais de GBA; as coordenadas dos pacotes de GTA III não são intercambiáveis."
+          }
+        },
+        {
+          "key": "portland-seven-rampages",
+          "title": "Complete the seven Portland Rampages",
+          "title_i18n": {
+            "en": "Complete the seven Portland Rampages",
+            "pt": "Concluir os sete Rampages de Portland"
+          },
+          "description": "Track all seven challenges on this island, for twenty-one across Liberty City.",
+          "description_i18n": {
+            "en": "Track all seven challenges on this island, for twenty-one across Liberty City.",
+            "pt": "Registre os sete desafios desta ilha, totalizando vinte e um em Liberty City."
+          }
+        },
+        {
+          "key": "staunton-island-seven-rampages",
+          "title": "Complete the seven Staunton Island Rampages",
+          "title_i18n": {
+            "en": "Complete the seven Staunton Island Rampages",
+            "pt": "Concluir os sete Rampages de Staunton Island"
+          },
+          "description": "Track all seven challenges on this island, for twenty-one across Liberty City.",
+          "description_i18n": {
+            "en": "Track all seven challenges on this island, for twenty-one across Liberty City.",
+            "pt": "Registre os sete desafios desta ilha, totalizando vinte e um em Liberty City."
+          }
+        },
+        {
+          "key": "shoreside-vale-seven-rampages",
+          "title": "Complete the seven Shoreside Vale Rampages",
+          "title_i18n": {
+            "en": "Complete the seven Shoreside Vale Rampages",
+            "pt": "Concluir os sete Rampages de Shoreside Vale"
+          },
+          "description": "Track all seven challenges on this island, for twenty-one across Liberty City.",
+          "description_i18n": {
+            "en": "Track all seven challenges on this island, for twenty-one across Liberty City.",
+            "pt": "Registre os sete desafios desta ilha, totalizando vinte e um em Liberty City."
+          }
+        },
+        {
+          "key": "verify-native-one-hundred-percent",
+          "title": "Verify native 100% completion",
+          "title_i18n": {
+            "en": "Verify native 100% completion",
+            "pt": "Verificar a conclusão nativa de 100%"
+          },
+          "description": "Confirm story missions, eighteen races, services, packages, Rampages and Demolition Football in the game records; no native GBA trophies exist.",
+          "description_i18n": {
+            "en": "Confirm story missions, eighteen races, services, packages, Rampages and Demolition Football in the game records; no native GBA trophies exist.",
+            "pt": "Confirme missões da história, dezoito corridas, serviços, pacotes, Rampages e Demolition Football nos registros do jogo; não existem troféus nativos de GBA."
+          }
+        }
+      ]
+    }
+  ],
+  "trophies": [],
+  "hltb_id": "4060",
+  "hltb_main_hours": 7,
+  "hltb_main_extra_hours": 12,
+  "hltb_completionist_hours": 18
+}

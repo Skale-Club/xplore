@@ -6,6 +6,7 @@ import { AddCategoryForm } from "@/components/add-category-form";
 import { AddItemForm } from "@/components/add-item-form";
 import { AddTrophyForm } from "@/components/add-trophy-form";
 import { ItemImage } from "@/components/item-image";
+import { ItemDetailsEditor } from "@/components/item-details-editor";
 import { PageContainer } from "@/components/page-container";
 import { getLocale } from "@/i18n/get-locale";
 import { getDictionary, t } from "@/i18n/get-dictionary";
@@ -16,6 +17,7 @@ import {
   addTrophyAction,
   createItemImageUploadAction,
   setItemImageAction,
+  saveItemDetailsAction,
 } from "./actions";
 
 export default async function EditGamePage({
@@ -55,7 +57,7 @@ export default async function EditGamePage({
     ? await supabase
         .from("checklist_items")
         .select(
-          "id, category_id, title, title_i18n, description, description_i18n, image_url, order_index"
+          "id, category_id, title, title_i18n, description, description_i18n, details, details_i18n, image_url, order_index"
         )
         .in("category_id", categoryIds)
         .order("order_index")
@@ -64,6 +66,8 @@ export default async function EditGamePage({
   const itemLabels = {
     titlePlaceholder: d.itemTitlePlaceholder,
     descPlaceholder: d.itemDescPlaceholder,
+    detailsLabel: d.itemDetailsLabel,
+    detailsPlaceholder: d.itemDetailsPlaceholder,
     add: d.addItem,
     adding: d.adding,
   };
@@ -82,6 +86,13 @@ export default async function EditGamePage({
     remove: d.itemImageRemove,
     uploading: d.itemImageUploading,
     error: d.itemImageError,
+  };
+  const detailsLabels = {
+    label: d.itemDetailsLabel,
+    placeholder: d.itemDetailsPlaceholder,
+    save: d.itemDetailsSave,
+    saving: d.itemDetailsSaving,
+    saved: d.itemDetailsSaved,
   };
 
   return (
@@ -119,6 +130,14 @@ export default async function EditGamePage({
                     const description = item.description
                       ? pick(item.description_i18n, locale, item.description)
                       : null;
+                    // Edit only this locale; do not accidentally save a displayed
+                    // fallback translation over another language.
+                    const detailsMap = item.details_i18n;
+                    const localizedDetails = detailsMap && typeof detailsMap === "object" &&
+                      !Array.isArray(detailsMap) && typeof detailsMap[locale] === "string"
+                      ? detailsMap[locale] as string
+                      : locale === "en" && (!detailsMap || typeof detailsMap !== "object" ||
+                          Object.keys(detailsMap).length === 0) ? item.details ?? "" : "";
                     return (
                       <li
                         key={item.id}
@@ -138,6 +157,13 @@ export default async function EditGamePage({
                             labels={imageLabels}
                             onRequestUpload={createItemImageUploadAction}
                             onPersist={setItemImageAction}
+                          />
+                          <ItemDetailsEditor
+                            key={`${item.id}:${locale}`}
+                            itemId={item.id}
+                            value={localizedDetails}
+                            labels={detailsLabels}
+                            action={saveItemDetailsAction}
                           />
                         </div>
                       </li>

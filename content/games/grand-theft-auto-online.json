@@ -1,0 +1,1792 @@
+{
+  "slug": "grand-theft-auto-online",
+  "title": "Grand Theft Auto Online",
+  "title_i18n": {
+    "en": "Grand Theft Auto Online",
+    "pt": "Grand Theft Auto Online"
+  },
+  "platform": "PlayStation 5",
+  "cover_url": "/covers/grand-theft-auto-online.png",
+  "created_by": "dd5c4bf0-85ea-4986-9c04-b37e8c986150",
+  "categories": [
+    {
+      "key": "starting-your-selected-route",
+      "title": "Getting started: a curated ongoing route",
+      "title_i18n": {
+        "en": "Getting started: a curated ongoing route",
+        "pt": "Primeiros passos: roteiro contínuo selecionado"
+      },
+      "items": [
+        {
+          "key": "establish-character",
+          "title": "Establish your PS5 character",
+          "title_i18n": {
+            "en": "Establish your PS5 character",
+            "pt": "Prepare seu personagem no PS5"
+          },
+          "description": "Finish the introduction or Career Builder offered to your character. This is a curated ongoing guide, not an exhaustive or finite 100% checklist.",
+          "description_i18n": {
+            "en": "Finish the introduction or Career Builder offered to your character. This is a curated ongoing guide, not an exhaustive or finite 100% checklist.",
+            "pt": "Conclua a introdução ou o Career Builder oferecido ao personagem. Este guia contínuo é uma seleção, sem afirmar cobertura exaustiva nem 100% finitos."
+          },
+          "details": "The story progress here measures only the selected narrative chains, not completion of GTA Online as a whole. Start with the introduction offered to this character; an existing or migrated character need not repeat a new-character path. Property gates below describe hosting your own content. Joining another player’s job often avoids owning the host’s property, but may not advance your personal chain. The shared PS5 trophies are cataloged under GTA V, so this entry intentionally has no duplicate trophy list.",
+          "details_i18n": {
+            "en": "The story progress here measures only the selected narrative chains, not completion of GTA Online as a whole. Start with the introduction offered to this character; an existing or migrated character need not repeat a new-character path. Property gates below describe hosting your own content. Joining another player’s job often avoids owning the host’s property, but may not advance your personal chain. The shared PS5 trophies are cataloged under GTA V, so this entry intentionally has no duplicate trophy list.",
+            "pt": "O progresso da história aqui mede apenas as sequências narrativas selecionadas, não a conclusão de GTA Online inteiro. Comece pela introdução oferecida ao personagem; um personagem existente ou migrado não precisa repetir o caminho de um personagem novo. Os requisitos de imóveis abaixo descrevem organizar seu próprio conteúdo. Entrar no trabalho de outro jogador costuma dispensar o imóvel do líder, mas pode não avançar sua sequência pessoal. Os troféus compartilhados do PS5 estão cadastrados em GTA V; esta entrada não duplica a lista."
+          }
+        },
+        {
+          "key": "first-contact-job",
+          "title": "Complete a first Contact Mission",
+          "title_i18n": {
+            "en": "Complete a first Contact Mission",
+            "pt": "Conclua uma primeira Contact Mission"
+          },
+          "description": "Finish one available contact job and confirm the completion result.",
+          "description_i18n": {
+            "en": "Finish one available contact job and confirm the completion result.",
+            "pt": "Conclua um trabalho de contato disponível e confira o resultado."
+          }
+        },
+        {
+          "key": "private-session",
+          "title": "Run a job from an Invite Only session",
+          "title_i18n": {
+            "en": "Run a job from an Invite Only session",
+            "pt": "Inicie um trabalho em sessão Invite Only"
+          },
+          "description": "Use a private session for a supported mission or business activity.",
+          "description_i18n": {
+            "en": "Use a private session for a supported mission or business activity.",
+            "pt": "Use uma sessão privada para uma missão ou atividade comercial compatível."
+          },
+          "details": "Use Pause > Online to find a new Invite Only session when you want to work without public-session interference. Business sourcing and sales can be launched in private sessions. This does not turn network play into an offline mode, nor remove the player minimum of instanced jobs: you still need teammates for a four-player apartment finale or a two-player Short Trip. Check the lobby before investing time in preparations.",
+          "details_i18n": {
+            "en": "Use Pause > Online to find a new Invite Only session when you want to work without public-session interference. Business sourcing and sales can be launched in private sessions. This does not turn network play into an offline mode, nor remove the player minimum of instanced jobs: you still need teammates for a four-player apartment finale or a two-player Short Trip. Check the lobby before investing time in preparations.",
+            "pt": "Use Pause > Online para encontrar uma nova sessão Invite Only quando quiser trabalhar sem interferência de uma sessão pública. A obtenção de mercadorias e as vendas comerciais podem começar em sessões privadas. Isso não transforma o jogo em modo offline nem elimina o mínimo de jogadores das missões: ainda são necessários companheiros para uma final de apartamento de quatro jogadores ou uma Short Trip de dois. Confira o lobby antes de investir tempo nos preparativos."
+          }
+        },
+        {
+          "key": "prepare-loadout",
+          "title": "Prepare a reliable mission loadout",
+          "title_i18n": {
+            "en": "Prepare a reliable mission loadout",
+            "pt": "Prepare um equipamento confiável para missões"
+          },
+          "description": "Restock available armor, snacks and ammunition before a selected chain.",
+          "description_i18n": {
+            "en": "Restock available armor, snacks and ammunition before a selected chain.",
+            "pt": "Reponha colete, lanches e munição disponíveis antes de uma sequência escolhida."
+          }
+        },
+        {
+          "key": "first-insured-vehicle",
+          "title": "Store an insured personal vehicle",
+          "title_i18n": {
+            "en": "Store an insured personal vehicle",
+            "pt": "Guarde um veículo pessoal segurado"
+          },
+          "description": "Confirm personal-vehicle storage and insurance for a vehicle you intend to use.",
+          "description_i18n": {
+            "en": "Confirm personal-vehicle storage and insurance for a vehicle you intend to use.",
+            "pt": "Confira o armazenamento e o seguro do veículo pessoal que pretende usar."
+          }
+        }
+      ]
+    },
+    {
+      "key": "casino-story",
+      "title": "Casino Story: Agatha Baker’s six missions",
+      "title_i18n": {
+        "en": "Casino Story: Agatha Baker’s six missions",
+        "pt": "Casino Story: seis missões de Agatha Baker"
+      },
+      "items": [
+        {
+          "key": "casino-loose-cheng",
+          "title": "Casino: Loose Cheng",
+          "title_i18n": {
+            "en": "Casino: Loose Cheng",
+            "pt": "Casino: Loose Cheng"
+          },
+          "description": "Complete the rescue assignment for Agatha Baker.",
+          "description_i18n": {
+            "en": "Complete the rescue assignment for Agatha Baker.",
+            "pt": "Conclua o trabalho de resgate para Agatha Baker."
+          },
+          "details": "A Casino Penthouse opens Agatha Baker’s Story Missions for an owner. Play the six missions in order as host if working on your own story progression. These missions now allow solo launch, with optional teammates; the old two-player minimum is obsolete. This Casino Story chain is separate from the Diamond Casino Heist, which uses an Arcade and still requires a multiplayer finale.",
+          "details_i18n": {
+            "en": "A Casino Penthouse opens Agatha Baker’s Story Missions for an owner. Play the six missions in order as host if working on your own story progression. These missions now allow solo launch, with optional teammates; the old two-player minimum is obsolete. This Casino Story chain is separate from the Diamond Casino Heist, which uses an Arcade and still requires a multiplayer finale.",
+            "pt": "Uma Casino Penthouse libera as Story Missions de Agatha Baker para seu proprietário. Jogue as seis em ordem como líder para avançar sua própria história. Essas missões agora permitem iniciar sozinho, com companheiros opcionais; o antigo mínimo de dois jogadores está ultrapassado. A sequência Casino Story é separada de Diamond Casino Heist, que usa um Arcade e continua exigindo uma final multiplayer."
+          }
+        },
+        {
+          "key": "casino-house-keeping",
+          "title": "Casino: House Keeping",
+          "title_i18n": {
+            "en": "Casino: House Keeping",
+            "pt": "Casino: House Keeping"
+          },
+          "description": "Resolve the casino security problem.",
+          "description_i18n": {
+            "en": "Resolve the casino security problem.",
+            "pt": "Resolva o problema de segurança do cassino."
+          }
+        },
+        {
+          "key": "casino-strong-arm-tactics",
+          "title": "Casino: Strong Arm Tactics",
+          "title_i18n": {
+            "en": "Casino: Strong Arm Tactics",
+            "pt": "Casino: Strong Arm Tactics"
+          },
+          "description": "Complete the meeting and its escape.",
+          "description_i18n": {
+            "en": "Complete the meeting and its escape.",
+            "pt": "Conclua o encontro e a fuga."
+          }
+        },
+        {
+          "key": "casino-play-to-win",
+          "title": "Casino: Play to Win",
+          "title_i18n": {
+            "en": "Casino: Play to Win",
+            "pt": "Casino: Play to Win"
+          },
+          "description": "Disrupt the rival operation for the casino.",
+          "description_i18n": {
+            "en": "Disrupt the rival operation for the casino.",
+            "pt": "Interrompa a operação rival para o cassino."
+          }
+        },
+        {
+          "key": "casino-bad-beat",
+          "title": "Casino: Bad Beat",
+          "title_i18n": {
+            "en": "Casino: Bad Beat",
+            "pt": "Casino: Bad Beat"
+          },
+          "description": "Defend the casino during the assault.",
+          "description_i18n": {
+            "en": "Defend the casino during the assault.",
+            "pt": "Defenda o cassino durante o ataque."
+          }
+        },
+        {
+          "key": "casino-cashing-out",
+          "title": "Casino: Cashing Out",
+          "title_i18n": {
+            "en": "Casino: Cashing Out",
+            "pt": "Casino: Cashing Out"
+          },
+          "description": "Finish the Casino Story chain.",
+          "description_i18n": {
+            "en": "Finish the Casino Story chain.",
+            "pt": "Conclua a sequência Casino Story."
+          }
+        }
+      ]
+    },
+    {
+      "key": "contract-dr-dre",
+      "title": "The Contract: Dr. Dre’s VIP story",
+      "title_i18n": {
+        "en": "The Contract: Dr. Dre’s VIP story",
+        "pt": "The Contract: história VIP de Dr. Dre"
+      },
+      "items": [
+        {
+          "key": "the-contract-on-course",
+          "title": "The Contract: On Course",
+          "title_i18n": {
+            "en": "The Contract: On Course",
+            "pt": "The Contract: On Course"
+          },
+          "description": "Meet Franklin’s client at the golf course.",
+          "description_i18n": {
+            "en": "Meet Franklin’s client at the golf course.",
+            "pt": "Encontre o cliente de Franklin no campo de golfe."
+          },
+          "details": "To host this story, establish an Agency and complete a Security Contract, then follow Franklin’s invitation to the golf meeting. Continue through Data Recovery and the three Data Leak strands. Each leak contains two investigations and a recovery mission before the closing Studio Time and Don’t Fuck With Dre stages. The VIP story can be played solo; check the current lobby limits when inviting partners rather than assuming every introductory job accepts four.",
+          "details_i18n": {
+            "en": "To host this story, establish an Agency and complete a Security Contract, then follow Franklin’s invitation to the golf meeting. Continue through Data Recovery and the three Data Leak strands. Each leak contains two investigations and a recovery mission before the closing Studio Time and Don’t Fuck With Dre stages. The VIP story can be played solo; check the current lobby limits when inviting partners rather than assuming every introductory job accepts four.",
+            "pt": "Para organizar esta história, estabeleça uma Agency, conclua um Security Contract e siga o convite de Franklin para o encontro no golfe. Continue por Data Recovery e pelas três sequências Data Leak. Cada vazamento contém duas investigações e uma missão de recuperação antes das etapas finais Studio Time e Don’t Fuck With Dre. A história VIP pode ser jogada sozinho; confira o limite do lobby ao convidar parceiros, sem presumir que toda missão introdutória aceita quatro."
+          }
+        },
+        {
+          "key": "the-contract-data-recovery",
+          "title": "The Contract: Data Recovery",
+          "title_i18n": {
+            "en": "The Contract: Data Recovery",
+            "pt": "The Contract: Data Recovery"
+          },
+          "description": "Complete the Agency’s data-recovery setup.",
+          "description_i18n": {
+            "en": "Complete the Agency’s data-recovery setup.",
+            "pt": "Conclua o preparativo de recuperação de dados da Agency."
+          }
+        },
+        {
+          "key": "the-contract-nightlife-leak-the-nightclub",
+          "title": "The Contract: Nightlife Leak - The Nightclub",
+          "title_i18n": {
+            "en": "The Contract: Nightlife Leak - The Nightclub",
+            "pt": "The Contract: Nightlife Leak - The Nightclub"
+          },
+          "description": "Investigate the first nightlife lead.",
+          "description_i18n": {
+            "en": "Investigate the first nightlife lead.",
+            "pt": "Investigue a primeira pista da vida noturna."
+          }
+        },
+        {
+          "key": "the-contract-nightlife-leak-the-marina",
+          "title": "The Contract: Nightlife Leak - The Marina",
+          "title_i18n": {
+            "en": "The Contract: Nightlife Leak - The Marina",
+            "pt": "The Contract: Nightlife Leak - The Marina"
+          },
+          "description": "Follow the marina lead for the same leak.",
+          "description_i18n": {
+            "en": "Follow the marina lead for the same leak.",
+            "pt": "Siga a pista da marina para o mesmo vazamento."
+          }
+        },
+        {
+          "key": "the-contract-nightlife-leak",
+          "title": "The Contract: Nightlife Leak",
+          "title_i18n": {
+            "en": "The Contract: Nightlife Leak",
+            "pt": "The Contract: Nightlife Leak"
+          },
+          "description": "Recover this copy of the stolen music.",
+          "description_i18n": {
+            "en": "Recover this copy of the stolen music.",
+            "pt": "Recupere esta cópia das músicas roubadas."
+          }
+        },
+        {
+          "key": "the-contract-high-society-leak-the-country-club",
+          "title": "The Contract: High Society Leak - The Country Club",
+          "title_i18n": {
+            "en": "The Contract: High Society Leak - The Country Club",
+            "pt": "The Contract: High Society Leak - The Country Club"
+          },
+          "description": "Investigate the country-club lead.",
+          "description_i18n": {
+            "en": "Investigate the country-club lead.",
+            "pt": "Investigue a pista do clube de campo."
+          }
+        },
+        {
+          "key": "the-contract-high-society-leak-guest-list",
+          "title": "The Contract: High Society Leak - Guest List",
+          "title_i18n": {
+            "en": "The Contract: High Society Leak - Guest List",
+            "pt": "The Contract: High Society Leak - Guest List"
+          },
+          "description": "Obtain the next lead for the high-society strand.",
+          "description_i18n": {
+            "en": "Obtain the next lead for the high-society strand.",
+            "pt": "Obtenha a próxima pista da sequência da alta sociedade."
+          }
+        },
+        {
+          "key": "the-contract-high-society-leak",
+          "title": "The Contract: High Society Leak",
+          "title_i18n": {
+            "en": "The Contract: High Society Leak",
+            "pt": "The Contract: High Society Leak"
+          },
+          "description": "Recover this leak’s stolen material.",
+          "description_i18n": {
+            "en": "Recover this leak’s stolen material.",
+            "pt": "Recupere o material roubado deste vazamento."
+          }
+        },
+        {
+          "key": "the-contract-south-central-leak-davis",
+          "title": "The Contract: South Central Leak - Davis",
+          "title_i18n": {
+            "en": "The Contract: South Central Leak - Davis",
+            "pt": "The Contract: South Central Leak - Davis"
+          },
+          "description": "Follow the Davis investigation.",
+          "description_i18n": {
+            "en": "Follow the Davis investigation.",
+            "pt": "Execute a investigação em Davis."
+          }
+        },
+        {
+          "key": "the-contract-south-central-leak-the-ballas",
+          "title": "The Contract: South Central Leak - The Ballas",
+          "title_i18n": {
+            "en": "The Contract: South Central Leak - The Ballas",
+            "pt": "The Contract: South Central Leak - The Ballas"
+          },
+          "description": "Complete the next investigation for the same leak.",
+          "description_i18n": {
+            "en": "Complete the next investigation for the same leak.",
+            "pt": "Conclua a próxima investigação do mesmo vazamento."
+          }
+        },
+        {
+          "key": "the-contract-south-central-leak",
+          "title": "The Contract: South Central Leak",
+          "title_i18n": {
+            "en": "The Contract: South Central Leak",
+            "pt": "The Contract: South Central Leak"
+          },
+          "description": "Recover the remaining leak’s material.",
+          "description_i18n": {
+            "en": "Recover the remaining leak’s material.",
+            "pt": "Recupere o material deste vazamento restante."
+          }
+        },
+        {
+          "key": "the-contract-studio-time",
+          "title": "The Contract: Studio Time",
+          "title_i18n": {
+            "en": "The Contract: Studio Time",
+            "pt": "The Contract: Studio Time"
+          },
+          "description": "Complete the studio-protection assignment.",
+          "description_i18n": {
+            "en": "Complete the studio-protection assignment.",
+            "pt": "Conclua o trabalho de proteção do estúdio."
+          }
+        },
+        {
+          "key": "the-contract-dont-fuck-with-dre",
+          "title": "The Contract: Don’t Fuck With Dre",
+          "title_i18n": {
+            "en": "The Contract: Don’t Fuck With Dre",
+            "pt": "The Contract: Don’t Fuck With Dre"
+          },
+          "description": "Finish Dr. Dre’s VIP Contract finale.",
+          "description_i18n": {
+            "en": "Finish Dr. Dre’s VIP Contract finale.",
+            "pt": "Conclua a final do VIP Contract de Dr. Dre."
+          }
+        }
+      ]
+    },
+    {
+      "key": "short-trips",
+      "title": "Short Trips: Franklin and Lamar",
+      "title_i18n": {
+        "en": "Short Trips: Franklin and Lamar",
+        "pt": "Short Trips: Franklin e Lamar"
+      },
+      "items": [
+        {
+          "key": "short-trip-seed-capital",
+          "title": "Short Trip: Seed Capital",
+          "title_i18n": {
+            "en": "Short Trip: Seed Capital",
+            "pt": "Short Trip: Seed Capital"
+          },
+          "description": "Finish this two-player Franklin and Lamar mission.",
+          "description_i18n": {
+            "en": "Finish this two-player Franklin and Lamar mission.",
+            "pt": "Conclua esta missão de Franklin e Lamar para dois jogadores."
+          },
+          "details": "Short Trips always uses two players, one controlling Franklin and the other Lamar. The former requirement to finish Dr. Dre’s VIP Contract has been removed: look for Short Trip entries through the Jobs menu or the supported Quick Job option. An Agency or studio-owner invitation is therefore not a universal prerequisite. Complete Seed Capital, Fire It Up and OG Kush as this separate co-op strand.",
+          "details_i18n": {
+            "en": "Short Trips always uses two players, one controlling Franklin and the other Lamar. The former requirement to finish Dr. Dre’s VIP Contract has been removed: look for Short Trip entries through the Jobs menu or the supported Quick Job option. An Agency or studio-owner invitation is therefore not a universal prerequisite. Complete Seed Capital, Fire It Up and OG Kush as this separate co-op strand.",
+            "pt": "Short Trips usa sempre dois jogadores, um controlando Franklin e o outro Lamar. A antiga exigência de terminar o VIP Contract de Dr. Dre foi removida: procure as entradas Short Trip pelo menu Jobs ou pela opção compatível de Quick Job. Uma Agency ou um convite de proprietário do estúdio não é requisito universal. Conclua Seed Capital, Fire It Up e OG Kush como esta sequência cooperativa separada."
+          }
+        },
+        {
+          "key": "short-trip-fire-it-up",
+          "title": "Short Trip: Fire It Up",
+          "title_i18n": {
+            "en": "Short Trip: Fire It Up",
+            "pt": "Short Trip: Fire It Up"
+          },
+          "description": "Continue the two-player Short Trips story.",
+          "description_i18n": {
+            "en": "Continue the two-player Short Trips story.",
+            "pt": "Continue a história de Short Trips para dois jogadores."
+          }
+        },
+        {
+          "key": "short-trip-og-kush",
+          "title": "Short Trip: OG Kush",
+          "title_i18n": {
+            "en": "Short Trip: OG Kush",
+            "pt": "Short Trip: OG Kush"
+          },
+          "description": "Finish the third two-player Short Trip.",
+          "description_i18n": {
+            "en": "Finish the third two-player Short Trip.",
+            "pt": "Conclua a terceira Short Trip para dois jogadores."
+          }
+        }
+      ]
+    },
+    {
+      "key": "operation-paper-trail",
+      "title": "Operation Paper Trail: ULP’s six missions",
+      "title_i18n": {
+        "en": "Operation Paper Trail: ULP’s six missions",
+        "pt": "Operation Paper Trail: seis missões de ULP"
+      },
+      "items": [
+        {
+          "key": "ulp-intelligence",
+          "title": "ULP: Intelligence",
+          "title_i18n": {
+            "en": "ULP: Intelligence",
+            "pt": "ULP: Intelligence"
+          },
+          "description": "Recover the requested intelligence and leave the search area.",
+          "description_i18n": {
+            "en": "Recover the requested intelligence and leave the search area.",
+            "pt": "Recupere as informações solicitadas e saia da área de busca."
+          }
+        },
+        {
+          "key": "ulp-counterintelligence",
+          "title": "ULP: Counterintelligence",
+          "title_i18n": {
+            "en": "ULP: Counterintelligence",
+            "pt": "ULP: Counterintelligence"
+          },
+          "description": "Complete ULP’s surveillance assignment.",
+          "description_i18n": {
+            "en": "Complete ULP’s surveillance assignment.",
+            "pt": "Conclua o trabalho de vigilância de ULP."
+          }
+        },
+        {
+          "key": "ulp-extraction",
+          "title": "ULP: Extraction",
+          "title_i18n": {
+            "en": "ULP: Extraction",
+            "pt": "ULP: Extraction"
+          },
+          "description": "Find and extract the designated contact.",
+          "description_i18n": {
+            "en": "Find and extract the designated contact.",
+            "pt": "Localize e extraia o contato indicado."
+          }
+        },
+        {
+          "key": "ulp-asset-seizure",
+          "title": "ULP: Asset Seizure",
+          "title_i18n": {
+            "en": "ULP: Asset Seizure",
+            "pt": "ULP: Asset Seizure"
+          },
+          "description": "Recover the marked assets for ULP.",
+          "description_i18n": {
+            "en": "Recover the marked assets for ULP.",
+            "pt": "Recupere os recursos marcados para ULP."
+          }
+        },
+        {
+          "key": "ulp-operation-paper-trail",
+          "title": "ULP: Operation Paper Trail",
+          "title_i18n": {
+            "en": "ULP: Operation Paper Trail",
+            "pt": "ULP: Operation Paper Trail"
+          },
+          "description": "Complete the operation’s next major assignment.",
+          "description_i18n": {
+            "en": "Complete the operation’s next major assignment.",
+            "pt": "Conclua o próximo grande trabalho da operação."
+          }
+        },
+        {
+          "key": "ulp-cleanup",
+          "title": "ULP: Cleanup",
+          "title_i18n": {
+            "en": "ULP: Cleanup",
+            "pt": "ULP: Cleanup"
+          },
+          "description": "Finish ULP’s selected story chain.",
+          "description_i18n": {
+            "en": "Finish ULP’s selected story chain.",
+            "pt": "Conclua a sequência selecionada da história de ULP."
+          }
+        }
+      ]
+    },
+    {
+      "key": "first-dose",
+      "title": "Los Santos Drug Wars: First Dose",
+      "title_i18n": {
+        "en": "Los Santos Drug Wars: First Dose",
+        "pt": "Los Santos Drug Wars: First Dose"
+      },
+      "items": [
+        {
+          "key": "first-dose-welcome-to-the-troupe",
+          "title": "First Dose: Welcome to the Troupe",
+          "title_i18n": {
+            "en": "First Dose: Welcome to the Troupe",
+            "pt": "First Dose: Welcome to the Troupe"
+          },
+          "description": "Help the new crew and reach its base.",
+          "description_i18n": {
+            "en": "Help the new crew and reach its base.",
+            "pt": "Ajude a nova equipe e alcance sua base."
+          },
+          "details": "Follow Ron’s invitation to Liquor Ace to start the first First Dose mission. The six story missions support one to four players. Completing the opening job introduces Dax and the Freakshop; continue your own hosted sequence if you want the associated unlocks on this character. Dax’s phone-requested Fooligan Jobs are separate repeatable work, not the next numbered First Dose chapter.",
+          "details_i18n": {
+            "en": "Follow Ron’s invitation to Liquor Ace to start the first First Dose mission. The six story missions support one to four players. Completing the opening job introduces Dax and the Freakshop; continue your own hosted sequence if you want the associated unlocks on this character. Dax’s phone-requested Fooligan Jobs are separate repeatable work, not the next numbered First Dose chapter.",
+            "pt": "Siga o convite de Ron até Liquor Ace para iniciar a primeira missão First Dose. As seis missões da história aceitam de um a quatro jogadores. O trabalho inicial apresenta Dax e o Freakshop; continue sua própria sequência como líder para obter os desbloqueios neste personagem. Os Fooligan Jobs pedidos pelo telefone de Dax são trabalhos repetíveis separados, não o próximo capítulo numerado de First Dose."
+          }
+        },
+        {
+          "key": "first-dose-designated-driver",
+          "title": "First Dose: Designated Driver",
+          "title_i18n": {
+            "en": "First Dose: Designated Driver",
+            "pt": "First Dose: Designated Driver"
+          },
+          "description": "Complete Dax’s transport assignment.",
+          "description_i18n": {
+            "en": "Complete Dax’s transport assignment.",
+            "pt": "Conclua o trabalho de transporte de Dax."
+          }
+        },
+        {
+          "key": "first-dose-fatal-incursion",
+          "title": "First Dose: Fatal Incursion",
+          "title_i18n": {
+            "en": "First Dose: Fatal Incursion",
+            "pt": "First Dose: Fatal Incursion"
+          },
+          "description": "Finish the crew’s recovery operation.",
+          "description_i18n": {
+            "en": "Finish the crew’s recovery operation.",
+            "pt": "Conclua a operação de recuperação da equipe."
+          }
+        },
+        {
+          "key": "first-dose-uncontrolled-substance",
+          "title": "First Dose: Uncontrolled Substance",
+          "title_i18n": {
+            "en": "First Dose: Uncontrolled Substance",
+            "pt": "First Dose: Uncontrolled Substance"
+          },
+          "description": "Get through the unusual mission sequence.",
+          "description_i18n": {
+            "en": "Get through the unusual mission sequence.",
+            "pt": "Supere a sequência incomum da missão."
+          }
+        },
+        {
+          "key": "first-dose-make-war-not-love",
+          "title": "First Dose: Make War not Love",
+          "title_i18n": {
+            "en": "First Dose: Make War not Love",
+            "pt": "First Dose: Make War not Love"
+          },
+          "description": "Complete Dax’s rival-operation assignment.",
+          "description_i18n": {
+            "en": "Complete Dax’s rival-operation assignment.",
+            "pt": "Conclua o trabalho de Dax contra a operação rival."
+          }
+        },
+        {
+          "key": "first-dose-off-the-rails",
+          "title": "First Dose: Off the Rails",
+          "title_i18n": {
+            "en": "First Dose: Off the Rails",
+            "pt": "First Dose: Off the Rails"
+          },
+          "description": "Finish First Dose and recover its mission vehicle.",
+          "description_i18n": {
+            "en": "Finish First Dose and recover its mission vehicle.",
+            "pt": "Conclua First Dose e recupere o veículo da missão."
+          }
+        }
+      ]
+    },
+    {
+      "key": "last-dose",
+      "title": "Los Santos Drug Wars: Last Dose",
+      "title_i18n": {
+        "en": "Los Santos Drug Wars: Last Dose",
+        "pt": "Los Santos Drug Wars: Last Dose"
+      },
+      "items": [
+        {
+          "key": "last-dose-this-is-an-intervention",
+          "title": "Last Dose: This is an Intervention",
+          "title_i18n": {
+            "en": "Last Dose: This is an Intervention",
+            "pt": "Last Dose: This is an Intervention"
+          },
+          "description": "Respond to the Freakshop emergency.",
+          "description_i18n": {
+            "en": "Respond to the Freakshop emergency.",
+            "pt": "Responda à emergência no Freakshop."
+          },
+          "details": "Finish the six First Dose story missions, then follow Dax’s contact and the Freakshop story marker for Last Dose. Its five missions continue the narrative and are distinct from ten Fooligan Jobs for the Acid Lab upgrade. If the expected continuation is missing, check your personal mission progress and hosting history before replaying unrelated repeatable jobs.",
+          "details_i18n": {
+            "en": "Finish the six First Dose story missions, then follow Dax’s contact and the Freakshop story marker for Last Dose. Its five missions continue the narrative and are distinct from ten Fooligan Jobs for the Acid Lab upgrade. If the expected continuation is missing, check your personal mission progress and hosting history before replaying unrelated repeatable jobs.",
+            "pt": "Termine as seis missões First Dose e siga o contato de Dax e o marcador da história no Freakshop para iniciar Last Dose. Suas cinco missões continuam a narrativa e são distintas dos dez Fooligan Jobs da melhoria de Acid Lab. Se a continuação esperada não aparecer, confira o progresso pessoal e se você organizou as missões antes de repetir trabalhos sem relação com a história."
+          }
+        },
+        {
+          "key": "last-dose-unusual-suspects",
+          "title": "Last Dose: Unusual Suspects",
+          "title_i18n": {
+            "en": "Last Dose: Unusual Suspects",
+            "pt": "Last Dose: Unusual Suspects"
+          },
+          "description": "Follow the investigation’s next leads.",
+          "description_i18n": {
+            "en": "Follow the investigation’s next leads.",
+            "pt": "Siga as próximas pistas da investigação."
+          }
+        },
+        {
+          "key": "last-dose-friedmind",
+          "title": "Last Dose: FriedMind",
+          "title_i18n": {
+            "en": "Last Dose: FriedMind",
+            "pt": "Last Dose: FriedMind"
+          },
+          "description": "Complete the investigation inside the facility.",
+          "description_i18n": {
+            "en": "Complete the investigation inside the facility.",
+            "pt": "Conclua a investigação nas instalações."
+          }
+        },
+        {
+          "key": "last-dose-checking-in",
+          "title": "Last Dose: Checking In",
+          "title_i18n": {
+            "en": "Last Dose: Checking In",
+            "pt": "Last Dose: Checking In"
+          },
+          "description": "Finish the next stage of the Last Dose story.",
+          "description_i18n": {
+            "en": "Finish the next stage of the Last Dose story.",
+            "pt": "Conclua a próxima etapa da história Last Dose."
+          }
+        },
+        {
+          "key": "last-dose-bdkd",
+          "title": "Last Dose: BDKD",
+          "title_i18n": {
+            "en": "Last Dose: BDKD",
+            "pt": "Last Dose: BDKD"
+          },
+          "description": "Finish the Last Dose finale.",
+          "description_i18n": {
+            "en": "Finish the Last Dose finale.",
+            "pt": "Conclua a final de Last Dose."
+          }
+        }
+      ]
+    },
+    {
+      "key": "cluckin-bell-farm-raid",
+      "title": "The Cluckin’ Bell Farm Raid",
+      "title_i18n": {
+        "en": "The Cluckin’ Bell Farm Raid",
+        "pt": "The Cluckin’ Bell Farm Raid"
+      },
+      "items": [
+        {
+          "key": "cluckin-bell-slush-fund",
+          "title": "Cluckin’ Bell: Slush Fund",
+          "title_i18n": {
+            "en": "Cluckin’ Bell: Slush Fund",
+            "pt": "Cluckin’ Bell: Slush Fund"
+          },
+          "description": "Complete Vincent’s opening funding assignment.",
+          "description_i18n": {
+            "en": "Complete Vincent’s opening funding assignment.",
+            "pt": "Conclua o trabalho inicial de financiamento de Vincent."
+          },
+          "details": "Wait for Vincent’s invitation and meet him at Vespucci Police Station to begin the six-mission raid. The full chain supports one to four players and does not require buying a hosting property. Build the raid’s equipment and vehicle choices through its preparatory missions. Completion means finishing Scene of the Crime once, not purchasing every possible weapon or getaway option.",
+          "details_i18n": {
+            "en": "Wait for Vincent’s invitation and meet him at Vespucci Police Station to begin the six-mission raid. The full chain supports one to four players and does not require buying a hosting property. Build the raid’s equipment and vehicle choices through its preparatory missions. Completion means finishing Scene of the Crime once, not purchasing every possible weapon or getaway option.",
+            "pt": "Aguarde o convite de Vincent e encontre-o na Vespucci Police Station para iniciar o ataque de seis missões. A sequência completa aceita de um a quatro jogadores e não exige comprar um imóvel para organizar. Defina equipamentos e veículos durante os preparativos. Concluir significa terminar Scene of the Crime uma vez, não comprar todas as opções possíveis de armas ou fuga."
+          }
+        },
+        {
+          "key": "cluckin-bell-breaking-and-entering",
+          "title": "Cluckin’ Bell: Breaking and Entering",
+          "title_i18n": {
+            "en": "Cluckin’ Bell: Breaking and Entering",
+            "pt": "Cluckin’ Bell: Breaking and Entering"
+          },
+          "description": "Acquire the information and equipment Vincent requests.",
+          "description_i18n": {
+            "en": "Acquire the information and equipment Vincent requests.",
+            "pt": "Obtenha as informações e os equipamentos pedidos por Vincent."
+          }
+        },
+        {
+          "key": "cluckin-bell-concealed-weapons",
+          "title": "Cluckin’ Bell: Concealed Weapons",
+          "title_i18n": {
+            "en": "Cluckin’ Bell: Concealed Weapons",
+            "pt": "Cluckin’ Bell: Concealed Weapons"
+          },
+          "description": "Secure a weapon loadout for the raid.",
+          "description_i18n": {
+            "en": "Secure a weapon loadout for the raid.",
+            "pt": "Garanta um conjunto de armas para o ataque."
+          }
+        },
+        {
+          "key": "cluckin-bell-hit-and-run",
+          "title": "Cluckin’ Bell: Hit and Run",
+          "title_i18n": {
+            "en": "Cluckin’ Bell: Hit and Run",
+            "pt": "Cluckin’ Bell: Hit and Run"
+          },
+          "description": "Recover a suitable escape vehicle for the operation.",
+          "description_i18n": {
+            "en": "Recover a suitable escape vehicle for the operation.",
+            "pt": "Recupere um veículo de fuga adequado para a operação."
+          }
+        },
+        {
+          "key": "cluckin-bell-disorganized-crime",
+          "title": "Cluckin’ Bell: Disorganized Crime",
+          "title_i18n": {
+            "en": "Cluckin’ Bell: Disorganized Crime",
+            "pt": "Cluckin’ Bell: Disorganized Crime"
+          },
+          "description": "Complete the final preparation and disruption work.",
+          "description_i18n": {
+            "en": "Complete the final preparation and disruption work.",
+            "pt": "Conclua o último preparativo e o trabalho de sabotagem."
+          },
+          "details": "For the quieter finale entry, complete the truck-sabotage objectives and erase the surveillance footage before leaving the warehouse. Avoid letting guards raise the alarm, or resolve the alert within the mission’s permitted window. Finish the required delivery to preserve the selected preparation outcome. A loud completion is another valid raid route; this curated milestone does not demand both outcomes.",
+          "details_i18n": {
+            "en": "For the quieter finale entry, complete the truck-sabotage objectives and erase the surveillance footage before leaving the warehouse. Avoid letting guards raise the alarm, or resolve the alert within the mission’s permitted window. Finish the required delivery to preserve the selected preparation outcome. A loud completion is another valid raid route; this curated milestone does not demand both outcomes.",
+            "pt": "Para a entrada mais discreta na final, conclua a sabotagem dos caminhões e apague as imagens de vigilância antes de sair do armazém. Evite que os guardas deem o alarme ou resolva o alerta dentro da janela permitida pela missão. Conclua a entrega exigida para preservar o resultado dos preparativos. A conclusão com confronto aberto é outra rota válida; este marco selecionado não exige os dois resultados."
+          }
+        },
+        {
+          "key": "cluckin-bell-scene-of-the-crime",
+          "title": "Cluckin’ Bell: Scene of the Crime",
+          "title_i18n": {
+            "en": "Cluckin’ Bell: Scene of the Crime",
+            "pt": "Cluckin’ Bell: Scene of the Crime"
+          },
+          "description": "Finish the raid’s chosen approach and extraction.",
+          "description_i18n": {
+            "en": "Finish the raid’s chosen approach and extraction.",
+            "pt": "Conclua a abordagem escolhida do ataque e a extração."
+          }
+        }
+      ]
+    },
+    {
+      "key": "project-overthrow",
+      "title": "San Andreas Mercenaries: Project Overthrow",
+      "title_i18n": {
+        "en": "San Andreas Mercenaries: Project Overthrow",
+        "pt": "San Andreas Mercenaries: Project Overthrow"
+      },
+      "items": [
+        {
+          "key": "project-overthrow-reporting-for-duty",
+          "title": "Project Overthrow: Reporting for Duty",
+          "title_i18n": {
+            "en": "Project Overthrow: Reporting for Duty",
+            "pt": "Project Overthrow: Reporting for Duty"
+          },
+          "description": "Complete Charlie Reed’s introductory operation.",
+          "description_i18n": {
+            "en": "Complete Charlie Reed’s introductory operation.",
+            "pt": "Conclua a operação introdutória de Charlie Reed."
+          },
+          "details": "Hosting Project Overthrow requires the Operations Terminal upgrade inside an Avenger. Charlie Reed’s six story missions support one to four players. Owning a Facility or Hangar is no longer necessary merely to own and operate the Avenger, so do not buy one solely because an old access guide demands it. LSA Operations are separate repeatable content and are not extra chapters of this six-mission chain.",
+          "details_i18n": {
+            "en": "Hosting Project Overthrow requires the Operations Terminal upgrade inside an Avenger. Charlie Reed’s six story missions support one to four players. Owning a Facility or Hangar is no longer necessary merely to own and operate the Avenger, so do not buy one solely because an old access guide demands it. LSA Operations are separate repeatable content and are not extra chapters of this six-mission chain.",
+            "pt": "Organizar Project Overthrow exige a melhoria Operations Terminal dentro de um Avenger. As seis missões da história de Charlie Reed aceitam de um a quatro jogadores. Possuir Facility ou Hangar não é mais necessário apenas para ter e operar o Avenger; não compre um somente por exigência de um guia antigo. LSA Operations são conteúdo repetível separado, não capítulos adicionais desta sequência de seis missões."
+          }
+        },
+        {
+          "key": "project-overthrow-falling-in",
+          "title": "Project Overthrow: Falling In",
+          "title_i18n": {
+            "en": "Project Overthrow: Falling In",
+            "pt": "Project Overthrow: Falling In"
+          },
+          "description": "Finish the next equipment-recovery assignment.",
+          "description_i18n": {
+            "en": "Finish the next equipment-recovery assignment.",
+            "pt": "Conclua o próximo trabalho de recuperação de equipamento."
+          }
+        },
+        {
+          "key": "project-overthrow-on-parade",
+          "title": "Project Overthrow: On Parade",
+          "title_i18n": {
+            "en": "Project Overthrow: On Parade",
+            "pt": "Project Overthrow: On Parade"
+          },
+          "description": "Complete the aircraft operation.",
+          "description_i18n": {
+            "en": "Complete the aircraft operation.",
+            "pt": "Conclua a operação com a aeronave."
+          }
+        },
+        {
+          "key": "project-overthrow-breaking-ranks",
+          "title": "Project Overthrow: Breaking Ranks",
+          "title_i18n": {
+            "en": "Project Overthrow: Breaking Ranks",
+            "pt": "Project Overthrow: Breaking Ranks"
+          },
+          "description": "Finish the infiltration assignment.",
+          "description_i18n": {
+            "en": "Finish the infiltration assignment.",
+            "pt": "Conclua o trabalho de infiltração."
+          }
+        },
+        {
+          "key": "project-overthrow-unconventional-warfare",
+          "title": "Project Overthrow: Unconventional Warfare",
+          "title_i18n": {
+            "en": "Project Overthrow: Unconventional Warfare",
+            "pt": "Project Overthrow: Unconventional Warfare"
+          },
+          "description": "Complete the extraction operation.",
+          "description_i18n": {
+            "en": "Complete the extraction operation.",
+            "pt": "Conclua a operação de extração."
+          }
+        },
+        {
+          "key": "project-overthrow-shock-awe",
+          "title": "Project Overthrow: Shock & Awe",
+          "title_i18n": {
+            "en": "Project Overthrow: Shock & Awe",
+            "pt": "Project Overthrow: Shock & Awe"
+          },
+          "description": "Finish Project Overthrow’s concluding assault.",
+          "description_i18n": {
+            "en": "Finish Project Overthrow’s concluding assault.",
+            "pt": "Conclua o ataque final de Project Overthrow."
+          }
+        }
+      ]
+    },
+    {
+      "key": "agents-of-sabotage",
+      "title": "Agents of Sabotage: four selected FIB Files",
+      "title_i18n": {
+        "en": "Agents of Sabotage: four selected FIB Files",
+        "pt": "Agents of Sabotage: quatro FIB Files selecionados"
+      },
+      "items": [
+        {
+          "key": "the-black-box-file",
+          "title": "The Black Box File",
+          "title_i18n": {
+            "en": "The Black Box File",
+            "pt": "The Black Box File"
+          },
+          "description": "Complete this file’s preparations and finale at least once.",
+          "description_i18n": {
+            "en": "Complete this file’s preparations and finale at least once.",
+            "pt": "Conclua os preparativos e a final deste arquivo pelo menos uma vez."
+          },
+          "details": "A Darnell Bros Garment Factory provides the hosting base for the FIB Files. Each file contains three preparation missions and a finale, playable with one to four players. Finish the file itself before treating optional bonus challenges as separate mastery work. Priority designations and their rewards can change; this checklist asks for each named file once and does not require a particular weekly Priority File bonus.",
+          "details_i18n": {
+            "en": "A Darnell Bros Garment Factory provides the hosting base for the FIB Files. Each file contains three preparation missions and a finale, playable with one to four players. Finish the file itself before treating optional bonus challenges as separate mastery work. Priority designations and their rewards can change; this checklist asks for each named file once and does not require a particular weekly Priority File bonus.",
+            "pt": "Uma Darnell Bros Garment Factory fornece a base para organizar os FIB Files. Cada arquivo contém três preparativos e uma final, jogáveis com um a quatro participantes. Termine o arquivo antes de tratar os desafios de bônus opcionais como aperfeiçoamento separado. As designações Priority e suas recompensas podem mudar; este roteiro pede cada arquivo nomeado uma vez, sem exigir um bônus semanal específico de Priority File."
+          }
+        },
+        {
+          "key": "the-brute-force-file",
+          "title": "The Brute Force File",
+          "title_i18n": {
+            "en": "The Brute Force File",
+            "pt": "The Brute Force File"
+          },
+          "description": "Complete this file’s preparations and finale at least once.",
+          "description_i18n": {
+            "en": "Complete this file’s preparations and finale at least once.",
+            "pt": "Conclua os preparativos e a final deste arquivo pelo menos uma vez."
+          }
+        },
+        {
+          "key": "the-fine-art-file",
+          "title": "The Fine Art File",
+          "title_i18n": {
+            "en": "The Fine Art File",
+            "pt": "The Fine Art File"
+          },
+          "description": "Complete this file’s preparations and finale at least once.",
+          "description_i18n": {
+            "en": "Complete this file’s preparations and finale at least once.",
+            "pt": "Conclua os preparativos e a final deste arquivo pelo menos uma vez."
+          }
+        },
+        {
+          "key": "the-project-breakaway-file",
+          "title": "The Project Breakaway File",
+          "title_i18n": {
+            "en": "The Project Breakaway File",
+            "pt": "The Project Breakaway File"
+          },
+          "description": "Complete this file’s preparations and finale at least once.",
+          "description_i18n": {
+            "en": "Complete this file’s preparations and finale at least once.",
+            "pt": "Conclua os preparativos e a final deste arquivo pelo menos uma vez."
+          }
+        }
+      ]
+    },
+    {
+      "key": "original-apartment-heists",
+      "title": "Original apartment heists: five finales",
+      "title_i18n": {
+        "en": "Original apartment heists: five finales",
+        "pt": "Golpes originais de apartamento: cinco finais"
+      },
+      "items": [
+        {
+          "key": "the-fleeca-job",
+          "title": "The Fleeca Job",
+          "title_i18n": {
+            "en": "The Fleeca Job",
+            "pt": "The Fleeca Job"
+          },
+          "description": "Complete the required setups and finale with 2 players.",
+          "description_i18n": {
+            "en": "Complete the required setups and finale with 2 players.",
+            "pt": "Conclua os preparativos exigidos e a final com 2 jogadores."
+          },
+          "details": "Apartment-heist hosts use a qualifying high-end apartment planning room and Lester’s invitations. Joining another host does not require buying that apartment. Fleeca’s setups and finale need exactly two players; the other four original apartment heists use four. Agree on the finale’s driving, hacking and drilling roles before launching. These fixed team sizes are not replaced by the solo rules of newer raids.",
+          "details_i18n": {
+            "en": "Apartment-heist hosts use a qualifying high-end apartment planning room and Lester’s invitations. Joining another host does not require buying that apartment. Fleeca’s setups and finale need exactly two players; the other four original apartment heists use four. Agree on the finale’s driving, hacking and drilling roles before launching. These fixed team sizes are not replaced by the solo rules of newer raids.",
+            "pt": "Quem organiza golpes de apartamento usa a sala de planejamento de um apartamento de alto padrão válido e os convites de Lester. Entrar com outro líder não exige comprar esse apartamento. Os preparativos e a final de Fleeca precisam de exatamente dois jogadores; os outros quatro golpes originais usam quatro. Combine as funções de direção, hacking e perfuração antes de iniciar. Esses tamanhos fixos de equipe não são substituídos pelas regras solo dos ataques mais recentes."
+          }
+        },
+        {
+          "key": "the-prison-break",
+          "title": "The Prison Break",
+          "title_i18n": {
+            "en": "The Prison Break",
+            "pt": "The Prison Break"
+          },
+          "description": "Complete the required setups and finale with 4 players.",
+          "description_i18n": {
+            "en": "Complete the required setups and finale with 4 players.",
+            "pt": "Conclua os preparativos exigidos e a final com 4 jogadores."
+          }
+        },
+        {
+          "key": "the-humane-labs-raid",
+          "title": "The Humane Labs Raid",
+          "title_i18n": {
+            "en": "The Humane Labs Raid",
+            "pt": "The Humane Labs Raid"
+          },
+          "description": "Complete the required setups and finale with 4 players.",
+          "description_i18n": {
+            "en": "Complete the required setups and finale with 4 players.",
+            "pt": "Conclua os preparativos exigidos e a final com 4 jogadores."
+          }
+        },
+        {
+          "key": "series-a-funding",
+          "title": "Series A Funding",
+          "title_i18n": {
+            "en": "Series A Funding",
+            "pt": "Series A Funding"
+          },
+          "description": "Complete the required setups and finale with 4 players.",
+          "description_i18n": {
+            "en": "Complete the required setups and finale with 4 players.",
+            "pt": "Conclua os preparativos exigidos e a final com 4 jogadores."
+          }
+        },
+        {
+          "key": "the-pacific-standard-job",
+          "title": "The Pacific Standard Job",
+          "title_i18n": {
+            "en": "The Pacific Standard Job",
+            "pt": "The Pacific Standard Job"
+          },
+          "description": "Complete the required setups and finale with 4 players.",
+          "description_i18n": {
+            "en": "Complete the required setups and finale with 4 players.",
+            "pt": "Conclua os preparativos exigidos e a final com 4 jogadores."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "doomsday-heist",
+      "title": "The Doomsday Heist: three acts",
+      "title_i18n": {
+        "en": "The Doomsday Heist: three acts",
+        "pt": "The Doomsday Heist: três atos"
+      },
+      "items": [
+        {
+          "key": "doomsday-the-data-breaches",
+          "title": "The Data Breaches",
+          "title_i18n": {
+            "en": "The Data Breaches",
+            "pt": "The Data Breaches"
+          },
+          "description": "Complete the act’s prep work, then its setups and finale with two to four players.",
+          "description_i18n": {
+            "en": "Complete the act’s prep work, then its setups and finale with two to four players.",
+            "pt": "Conclua os preparativos do ato e depois as missões preparatórias e a final com dois a quatro jogadores."
+          },
+          "details": "The host launches The Doomsday Heist from a Facility. Freemode preparation work can be handled separately, while the instanced setups and finales require two to four players. Complete all required board entries for the current act before moving to its finale. Criminal Mastermind and Elite Challenges are optional mastery objectives, not prerequisites for simply finishing the three-act storyline.",
+          "details_i18n": {
+            "en": "The host launches The Doomsday Heist from a Facility. Freemode preparation work can be handled separately, while the instanced setups and finales require two to four players. Complete all required board entries for the current act before moving to its finale. Criminal Mastermind and Elite Challenges are optional mastery objectives, not prerequisites for simply finishing the three-act storyline.",
+            "pt": "O líder inicia The Doomsday Heist em uma Facility. Os preparativos no mundo aberto podem ser feitos separadamente, enquanto as missões preparatórias instanciadas e as finais exigem de dois a quatro jogadores. Conclua as entradas obrigatórias do quadro do ato atual antes da final. Criminal Mastermind e Elite Challenges são objetivos opcionais de aperfeiçoamento, não condições para simplesmente terminar a história de três atos."
+          }
+        },
+        {
+          "key": "doomsday-the-bogdan-problem",
+          "title": "The Bogdan Problem",
+          "title_i18n": {
+            "en": "The Bogdan Problem",
+            "pt": "The Bogdan Problem"
+          },
+          "description": "Complete the act’s prep work, then its setups and finale with two to four players.",
+          "description_i18n": {
+            "en": "Complete the act’s prep work, then its setups and finale with two to four players.",
+            "pt": "Conclua os preparativos do ato e depois as missões preparatórias e a final com dois a quatro jogadores."
+          }
+        },
+        {
+          "key": "doomsday-the-doomsday-scenario",
+          "title": "The Doomsday Scenario",
+          "title_i18n": {
+            "en": "The Doomsday Scenario",
+            "pt": "The Doomsday Scenario"
+          },
+          "description": "Complete the act’s prep work, then its setups and finale with two to four players.",
+          "description_i18n": {
+            "en": "Complete the act’s prep work, then its setups and finale with two to four players.",
+            "pt": "Conclua os preparativos do ato e depois as missões preparatórias e a final com dois a quatro jogadores."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "casino-and-cayo-heists",
+      "title": "Casino and Cayo Perico: chosen approaches",
+      "title_i18n": {
+        "en": "Casino and Cayo Perico: chosen approaches",
+        "pt": "Casino e Cayo Perico: abordagens escolhidas"
+      },
+      "items": [
+        {
+          "key": "casino-scope",
+          "title": "Diamond Casino Heist: scope the target",
+          "title_i18n": {
+            "en": "Diamond Casino Heist: scope the target",
+            "pt": "Diamond Casino Heist: reconheça o alvo"
+          },
+          "description": "Complete the Arcade setup and required casino/vault reconnaissance as host, or join a prepared crew.",
+          "description_i18n": {
+            "en": "Complete the Arcade setup and required casino/vault reconnaissance as host, or join a prepared crew.",
+            "pt": "Conclua o preparativo do Arcade e o reconhecimento exigido do cassino/cofre como líder, ou entre em uma equipe preparada."
+          }
+        },
+        {
+          "key": "casino-preparations",
+          "title": "Diamond Casino Heist: prepare one approach",
+          "title_i18n": {
+            "en": "Diamond Casino Heist: prepare one approach",
+            "pt": "Diamond Casino Heist: prepare uma abordagem"
+          },
+          "description": "Finish the required preparations for Silent & Sneaky, The Big Con or Aggressive.",
+          "description_i18n": {
+            "en": "Finish the required preparations for Silent & Sneaky, The Big Con or Aggressive.",
+            "pt": "Conclua os preparativos exigidos para Silent & Sneaky, The Big Con ou Aggressive."
+          },
+          "details": "An Arcade is the hosting base. Choose one approach and finish its mandatory board entries; optional preparation can make the finale easier but is not a demand to complete every approach. Freemode preparation can be done alone, while the finale needs two to four players. Check the selected disguises, entry and exit before starting. Current versions make Packie available by default; the removed old rescue event is not an access gate.",
+          "details_i18n": {
+            "en": "An Arcade is the hosting base. Choose one approach and finish its mandatory board entries; optional preparation can make the finale easier but is not a demand to complete every approach. Freemode preparation can be done alone, while the finale needs two to four players. Check the selected disguises, entry and exit before starting. Current versions make Packie available by default; the removed old rescue event is not an access gate.",
+            "pt": "Um Arcade é a base para organizar o golpe. Escolha uma abordagem e conclua suas entradas obrigatórias no quadro; preparativos opcionais podem facilitar a final, sem exigir todas as abordagens. O preparo no mundo aberto pode ser feito sozinho, mas a final precisa de dois a quatro jogadores. Confira disfarces, entrada e saída antes de iniciar. Nas versões atuais, Packie está disponível por padrão; o antigo evento de resgate removido não é um requisito de acesso."
+          }
+        },
+        {
+          "key": "casino-chosen-finale",
+          "title": "Diamond Casino Heist: finish the chosen finale",
+          "title_i18n": {
+            "en": "Diamond Casino Heist: finish the chosen finale",
+            "pt": "Diamond Casino Heist: conclua a final escolhida"
+          },
+          "description": "Complete one approach with two to four players; all three approaches are not required by this milestone.",
+          "description_i18n": {
+            "en": "Complete one approach with two to four players; all three approaches are not required by this milestone.",
+            "pt": "Conclua uma abordagem com dois a quatro jogadores; este marco não exige as três."
+          }
+        },
+        {
+          "key": "cayo-gather-intel",
+          "title": "Cayo Perico: Gather Intel",
+          "title_i18n": {
+            "en": "Cayo Perico: Gather Intel",
+            "pt": "Cayo Perico: Gather Intel"
+          },
+          "description": "Scope the island’s primary target and the access points needed for your plan.",
+          "description_i18n": {
+            "en": "Scope the island’s primary target and the access points needed for your plan.",
+            "pt": "Reconheça o alvo principal da ilha e os acessos necessários para seu plano."
+          }
+        },
+        {
+          "key": "cayo-preparations",
+          "title": "Cayo Perico: prepare the chosen route",
+          "title_i18n": {
+            "en": "Cayo Perico: prepare the chosen route",
+            "pt": "Cayo Perico: prepare a rota escolhida"
+          },
+          "description": "Complete the approach-vehicle, equipment and weapon preparations your plan needs.",
+          "description_i18n": {
+            "en": "Complete the approach-vehicle, equipment and weapon preparations your plan needs.",
+            "pt": "Conclua os preparativos de veículo de aproximação, equipamentos e armas necessários ao plano."
+          }
+        },
+        {
+          "key": "cayo-chosen-finale",
+          "title": "Cayo Perico: complete one finale",
+          "title_i18n": {
+            "en": "Cayo Perico: complete one finale",
+            "pt": "Cayo Perico: conclua uma final"
+          },
+          "description": "Finish a chosen route solo or with up to three teammates.",
+          "description_i18n": {
+            "en": "Finish a chosen route solo or with up to three teammates.",
+            "pt": "Conclua uma rota escolhida sozinho ou com até três companheiros."
+          },
+          "details": "To host, meet Miguel Madrazo and establish the Kosatka planning base. Gather Intel identifies the primary target, then the required preparations depend on the chosen infiltration route. The finale supports one to four players. A solo route does not grant access to every secondary-loot room: compound doors requiring two simultaneous keycards need a partner. Finish one workable extraction rather than attempting every approach or every possible loot spawn.",
+          "details_i18n": {
+            "en": "To host, meet Miguel Madrazo and establish the Kosatka planning base. Gather Intel identifies the primary target, then the required preparations depend on the chosen infiltration route. The finale supports one to four players. A solo route does not grant access to every secondary-loot room: compound doors requiring two simultaneous keycards need a partner. Finish one workable extraction rather than attempting every approach or every possible loot spawn.",
+            "pt": "Para organizar, encontre Miguel Madrazo e estabeleça a base de planejamento Kosatka. Gather Intel identifica o alvo principal; os preparativos exigidos dependem da rota de infiltração escolhida. A final aceita de um a quatro jogadores. Uma rota solo não dá acesso a toda sala de saque secundário: portas do complexo com dois cartões simultâneos precisam de um parceiro. Conclua uma extração viável, sem exigir todas as abordagens ou todos os saques possíveis."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "kortz-center-heist",
+      "title": "The Kortz Center Heist: a selected current heist",
+      "title_i18n": {
+        "en": "The Kortz Center Heist: a selected current heist",
+        "pt": "The Kortz Center Heist: golpe atual selecionado"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "kortz-art-studio",
+          "title": "Kortz Center: establish access to an Art Studio",
+          "title_i18n": {
+            "en": "Kortz Center: establish access to an Art Studio",
+            "pt": "Kortz Center: estabeleça acesso a um estúdio de arte"
+          },
+          "description": "As a host, add an Art Studio to an owned Mansion; otherwise join an equipped host.",
+          "description_i18n": {
+            "en": "As a host, add an Art Studio to an owned Mansion; otherwise join an equipped host.",
+            "pt": "Como líder, adicione um estúdio de arte a uma mansão própria; ou entre com um líder preparado."
+          }
+        },
+        {
+          "key": "kortz-preparations",
+          "title": "Kortz Center: complete the selected preparations",
+          "title_i18n": {
+            "en": "Kortz Center: complete the selected preparations",
+            "pt": "Kortz Center: conclua os preparativos selecionados"
+          },
+          "description": "Follow the Art Studio planning board for the chosen operation.",
+          "description_i18n": {
+            "en": "Follow the Art Studio planning board for the chosen operation.",
+            "pt": "Siga o quadro de planejamento do estúdio de arte para a operação escolhida."
+          },
+          "details": "The current hosting gate is an Art Studio added to an owned Mansion through Prix Luxury Real Estate. Use its planning board, or the supported Raf De Angelis phone option, to complete the chosen preparation chain. The heist supports one to four players. This milestone ends after one successful finale; rotating artworks, mansion display collections and every optional Career Progress challenge are deliberately outside its completion condition.",
+          "details_i18n": {
+            "en": "The current hosting gate is an Art Studio added to an owned Mansion through Prix Luxury Real Estate. Use its planning board, or the supported Raf De Angelis phone option, to complete the chosen preparation chain. The heist supports one to four players. This milestone ends after one successful finale; rotating artworks, mansion display collections and every optional Career Progress challenge are deliberately outside its completion condition.",
+            "pt": "O requisito atual para organizar é adicionar um estúdio de arte a uma mansão própria pelo Prix Luxury Real Estate. Use o quadro de planejamento ou a opção compatível do telefone de Raf De Angelis para concluir a preparação escolhida. O golpe aceita de um a quatro jogadores. Este marco termina após uma final bem-sucedida; obras em rotação, coleções de exposição da mansão e todos os desafios opcionais de Career Progress ficam deliberadamente fora da condição."
+          }
+        },
+        {
+          "key": "kortz-finale",
+          "title": "The Kortz Center Heist: finish one finale",
+          "title_i18n": {
+            "en": "The Kortz Center Heist: finish one finale",
+            "pt": "The Kortz Center Heist: conclua uma final"
+          },
+          "description": "Complete the chosen heist with one to four players; collecting every rotating artwork is unnecessary.",
+          "description_i18n": {
+            "en": "Complete the chosen heist with one to four players; collecting every rotating artwork is unnecessary.",
+            "pt": "Conclua o golpe escolhido com um a quatro jogadores; não é necessário colecionar todas as obras em rotação."
+          }
+        }
+      ]
+    },
+    {
+      "key": "acid-lab-and-agency-work",
+      "title": "Selected Acid Lab and Agency milestones",
+      "title_i18n": {
+        "en": "Selected Acid Lab and Agency milestones",
+        "pt": "Marcos selecionados de Acid Lab e Agency"
+      },
+      "items": [
+        {
+          "key": "acid-lab-install",
+          "title": "Acid Lab: install the laboratory",
+          "title_i18n": {
+            "en": "Acid Lab: install the laboratory",
+            "pt": "Acid Lab: instale o laboratório"
+          },
+          "description": "Complete the equipment setup and install the lab in the recovered Brickade.",
+          "description_i18n": {
+            "en": "Complete the equipment setup and install the lab in the recovered Brickade.",
+            "pt": "Conclua a obtenção do equipamento e instale o laboratório no Brickade recuperado."
+          }
+        },
+        {
+          "key": "fooligan-jobs-ten",
+          "title": "Dax: complete ten Fooligan Jobs",
+          "title_i18n": {
+            "en": "Dax: complete ten Fooligan Jobs",
+            "pt": "Dax: conclua dez Fooligan Jobs"
+          },
+          "description": "Finish ten jobs requested through Dax to unlock the lab equipment-upgrade option.",
+          "description_i18n": {
+            "en": "Finish ten jobs requested through Dax to unlock the lab equipment-upgrade option.",
+            "pt": "Conclua dez trabalhos solicitados por Dax para liberar a opção de melhoria de equipamento do laboratório."
+          },
+          "details": "Call Dax for Fooligan Jobs after the opening First Dose job unlocks this work. The equipment upgrade checks ten successful jobs, not ten different mission names; repeats can contribute. These jobs are separate from the six First Dose and five Last Dose story missions. After the counter requirement is met, return to Mutt to install the available lab equipment upgrade rather than expecting the production improvement to apply automatically.",
+          "details_i18n": {
+            "en": "Call Dax for Fooligan Jobs after the opening First Dose job unlocks this work. The equipment upgrade checks ten successful jobs, not ten different mission names; repeats can contribute. These jobs are separate from the six First Dose and five Last Dose story missions. After the counter requirement is met, return to Mutt to install the available lab equipment upgrade rather than expecting the production improvement to apply automatically.",
+            "pt": "Ligue para Dax para pedir Fooligan Jobs após o trabalho inicial de First Dose liberar esse serviço. A melhoria de equipamento considera dez trabalhos bem-sucedidos, não dez nomes de missão diferentes; repetições podem contar. Esses trabalhos são separados das seis missões First Dose e cinco Last Dose. Após cumprir o contador, retorne a Mutt para instalar a melhoria disponível, sem esperar que a produção melhore automaticamente."
+          }
+        },
+        {
+          "key": "acid-equipment-upgrade",
+          "title": "Acid Lab: apply the equipment upgrade",
+          "title_i18n": {
+            "en": "Acid Lab: apply the equipment upgrade",
+            "pt": "Acid Lab: aplique a melhoria de equipamento"
+          },
+          "description": "Install the unlocked production upgrade when you choose to develop this business.",
+          "description_i18n": {
+            "en": "Install the unlocked production upgrade when you choose to develop this business.",
+            "pt": "Instale a melhoria de produção liberada quando escolher desenvolver este negócio."
+          }
+        },
+        {
+          "key": "acid-first-sale",
+          "title": "Acid Lab: finish a sale",
+          "title_i18n": {
+            "en": "Acid Lab: finish a sale",
+            "pt": "Acid Lab: conclua uma venda"
+          },
+          "description": "Produce a manageable batch and complete its delivery.",
+          "description_i18n": {
+            "en": "Produce a manageable batch and complete its delivery.",
+            "pt": "Produza um lote adequado e conclua a entrega."
+          }
+        },
+        {
+          "key": "agency-security-contract",
+          "title": "Agency: complete a Security Contract",
+          "title_i18n": {
+            "en": "Agency: complete a Security Contract",
+            "pt": "Agency: conclua um Security Contract"
+          },
+          "description": "Finish one offered security job and check its completion credit.",
+          "description_i18n": {
+            "en": "Finish one offered security job and check its completion credit.",
+            "pt": "Conclua um trabalho de segurança oferecido e confira o registro."
+          }
+        },
+        {
+          "key": "agency-payphone-hit",
+          "title": "Agency: complete a Payphone Hit",
+          "title_i18n": {
+            "en": "Agency: complete a Payphone Hit",
+            "pt": "Agency: conclua um Payphone Hit"
+          },
+          "description": "After access unlocks, finish one hit using its requested bonus method if practical.",
+          "description_i18n": {
+            "en": "After access unlocks, finish one hit using its requested bonus method if practical.",
+            "pt": "Após liberar o acesso, conclua uma execução usando o método de bônus solicitado se for viável."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "auto-shop-and-salvage",
+      "title": "Selected Auto Shop and Salvage Yard work",
+      "title_i18n": {
+        "en": "Selected Auto Shop and Salvage Yard work",
+        "pt": "Trabalhos selecionados de Auto Shop e Salvage Yard"
+      },
+      "items": [
+        {
+          "key": "auto-shop-setup",
+          "title": "Auto Shop: complete the shop setup",
+          "title_i18n": {
+            "en": "Auto Shop: complete the shop setup",
+            "pt": "Auto Shop: conclua a preparação da oficina"
+          },
+          "description": "Visit the LS Car Meet and establish an Auto Shop if choosing to host its jobs.",
+          "description_i18n": {
+            "en": "Visit the LS Car Meet and establish an Auto Shop if choosing to host its jobs.",
+            "pt": "Visite o LS Car Meet e estabeleça uma Auto Shop caso escolha organizar seus trabalhos."
+          }
+        },
+        {
+          "key": "auto-shop-client",
+          "title": "Auto Shop: deliver a client vehicle",
+          "title_i18n": {
+            "en": "Auto Shop: deliver a client vehicle",
+            "pt": "Auto Shop: entregue um veículo de cliente"
+          },
+          "description": "Service and deliver one customer car.",
+          "description_i18n": {
+            "en": "Service and deliver one customer car.",
+            "pt": "Faça o serviço e entregue um carro de cliente."
+          }
+        },
+        {
+          "key": "auto-bank-contract",
+          "title": "Auto Shop: The Bank Contract",
+          "title_i18n": {
+            "en": "Auto Shop: The Bank Contract",
+            "pt": "Auto Shop: The Bank Contract"
+          },
+          "description": "Complete this selected contract’s planning work and finale when offered.",
+          "description_i18n": {
+            "en": "Complete this selected contract’s planning work and finale when offered.",
+            "pt": "Conclua os preparativos e a final deste contrato selecionado quando ele for oferecido."
+          }
+        },
+        {
+          "key": "auto-union-contract",
+          "title": "Auto Shop: The Union Depository Contract",
+          "title_i18n": {
+            "en": "Auto Shop: The Union Depository Contract",
+            "pt": "Auto Shop: The Union Depository Contract"
+          },
+          "description": "Complete this selected contract’s planning work and finale when offered.",
+          "description_i18n": {
+            "en": "Complete this selected contract’s planning work and finale when offered.",
+            "pt": "Conclua os preparativos e a final deste contrato selecionado quando ele for oferecido."
+          }
+        },
+        {
+          "key": "auto-superdollar",
+          "title": "Auto Shop: The Superdollar Deal",
+          "title_i18n": {
+            "en": "Auto Shop: The Superdollar Deal",
+            "pt": "Auto Shop: The Superdollar Deal"
+          },
+          "description": "Complete this selected contract’s planning work and finale when offered.",
+          "description_i18n": {
+            "en": "Complete this selected contract’s planning work and finale when offered.",
+            "pt": "Conclua os preparativos e a final deste contrato selecionado quando ele for oferecido."
+          }
+        },
+        {
+          "key": "salvage-tow",
+          "title": "Salvage Yard: complete a towing job",
+          "title_i18n": {
+            "en": "Salvage Yard: complete a towing job",
+            "pt": "Salvage Yard: conclua um reboque"
+          },
+          "description": "Use the yard’s Tow Truck to recover one requested vehicle.",
+          "description_i18n": {
+            "en": "Use the yard’s Tow Truck to recover one requested vehicle.",
+            "pt": "Use o Tow Truck do pátio para recuperar um veículo solicitado."
+          }
+        },
+        {
+          "key": "salvage-processing",
+          "title": "Salvage Yard: confirm a completed salvage payment",
+          "title_i18n": {
+            "en": "Salvage Yard: confirm a completed salvage payment",
+            "pt": "Salvage Yard: confira o pagamento de uma desmontagem"
+          },
+          "description": "Let processing finish and confirm the vehicle’s automatic payment; this is separate from collecting the business safe.",
+          "description_i18n": {
+            "en": "Let processing finish and confirm the vehicle’s automatic payment; this is separate from collecting the business safe.",
+            "pt": "Aguarde o processamento e confira o pagamento automático do veículo; isso é separado de recolher o cofre do negócio."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "selected-business-milestones",
+      "title": "Selected businesses: first complete operating cycles",
+      "title_i18n": {
+        "en": "Selected businesses: first complete operating cycles",
+        "pt": "Negócios selecionados: primeiros ciclos completos"
+      },
+      "items": [
+        {
+          "key": "executive-special-cargo",
+          "title": "Executive: source and sell Special Cargo",
+          "title_i18n": {
+            "en": "Executive: source and sell Special Cargo",
+            "pt": "Executive: obtenha e venda Special Cargo"
+          },
+          "description": "Complete one manageable warehouse sourcing-and-sale cycle.",
+          "description_i18n": {
+            "en": "Complete one manageable warehouse sourcing-and-sale cycle.",
+            "pt": "Conclua um ciclo adequado de obtenção e venda de carga do armazém."
+          }
+        },
+        {
+          "key": "biker-business-cycle",
+          "title": "Biker business: complete one production-and-sale cycle",
+          "title_i18n": {
+            "en": "Biker business: complete one production-and-sale cycle",
+            "pt": "Negócio Biker: conclua um ciclo de produção e venda"
+          },
+          "description": "Choose one MC business, establish production and complete a sale.",
+          "description_i18n": {
+            "en": "Choose one MC business, establish production and complete a sale.",
+            "pt": "Escolha um negócio de MC, estabeleça a produção e conclua uma venda."
+          }
+        },
+        {
+          "key": "bunker-production-cycle",
+          "title": "Bunker: complete one production-and-sale cycle",
+          "title_i18n": {
+            "en": "Bunker: complete one production-and-sale cycle",
+            "pt": "Bunker: conclua um ciclo de produção e venda"
+          },
+          "description": "Set up the Bunker, supply production and deliver one batch.",
+          "description_i18n": {
+            "en": "Set up the Bunker, supply production and deliver one batch.",
+            "pt": "Prepare o Bunker, abasteça a produção e entregue um lote."
+          }
+        },
+        {
+          "key": "nightclub-establish",
+          "title": "Nightclub: finish the opening setup",
+          "title_i18n": {
+            "en": "Nightclub: finish the opening setup",
+            "pt": "Nightclub: conclua os preparativos de abertura"
+          },
+          "description": "Complete the staff, equipment and DJ setup stages requested by the club.",
+          "description_i18n": {
+            "en": "Complete the staff, equipment and DJ setup stages requested by the club.",
+            "pt": "Conclua as etapas de funcionários, equipamento e DJ pedidas pelo clube."
+          }
+        },
+        {
+          "key": "nightclub-popularity",
+          "title": "Nightclub: complete a promotion job",
+          "title_i18n": {
+            "en": "Nightclub: complete a promotion job",
+            "pt": "Nightclub: conclua um trabalho de divulgação"
+          },
+          "description": "Finish one supported popularity-management activity.",
+          "description_i18n": {
+            "en": "Finish one supported popularity-management activity.",
+            "pt": "Conclua uma atividade válida de administração de popularidade."
+          }
+        },
+        {
+          "key": "nightclub-warehouse-sale",
+          "title": "Nightclub: sell a warehouse shipment",
+          "title_i18n": {
+            "en": "Nightclub: sell a warehouse shipment",
+            "pt": "Nightclub: venda uma carga do armazém"
+          },
+          "description": "Assign a technician to an eligible active linked business and complete one warehouse sale; owning every business is unnecessary.",
+          "description_i18n": {
+            "en": "Assign a technician to an eligible active linked business and complete one warehouse sale; owning every business is unnecessary.",
+            "pt": "Designe um técnico a um negócio associado válido e ativo e conclua uma venda do armazém; não é necessário possuir todos os negócios."
+          }
+        },
+        {
+          "key": "hangar-cargo-cycle",
+          "title": "Hangar: source and sell Air Freight Cargo",
+          "title_i18n": {
+            "en": "Hangar: source and sell Air Freight Cargo",
+            "pt": "Hangar: obtenha e venda Air Freight Cargo"
+          },
+          "description": "Finish a manageable sourcing-and-sale cycle using an available route.",
+          "description_i18n": {
+            "en": "Finish a manageable sourcing-and-sale cycle using an available route.",
+            "pt": "Conclua um ciclo adequado de obtenção e venda usando uma rota disponível."
+          }
+        },
+        {
+          "key": "bail-office-bounty",
+          "title": "Bottom Dollar Bounties: return a standard target",
+          "title_i18n": {
+            "en": "Bottom Dollar Bounties: return a standard target",
+            "pt": "Bottom Dollar Bounties: entregue um alvo comum"
+          },
+          "description": "Complete one ordinary Bail Office target; rotating Most Wanted targets are outside this milestone.",
+          "description_i18n": {
+            "en": "Complete one ordinary Bail Office target; rotating Most Wanted targets are outside this milestone.",
+            "pt": "Conclua um alvo comum do Bail Office; alvos Most Wanted em rotação ficam fora deste marco."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "money-fronts",
+      "title": "Money Fronts: selected permanent milestones",
+      "title_i18n": {
+        "en": "Money Fronts: selected permanent milestones",
+        "pt": "Money Fronts: marcos permanentes selecionados"
+      },
+      "items": [
+        {
+          "key": "money-front-car-wash",
+          "title": "Money Fronts: establish Hands On Car Wash",
+          "title_i18n": {
+            "en": "Money Fronts: establish Hands On Car Wash",
+            "pt": "Money Fronts: estabeleça Hands On Car Wash"
+          },
+          "description": "Acquire and visit the car wash if choosing this business route.",
+          "description_i18n": {
+            "en": "Acquire and visit the car wash if choosing this business route.",
+            "pt": "Adquira e visite o lava-rápido caso escolha este caminho comercial."
+          }
+        },
+        {
+          "key": "money-front-legal-work",
+          "title": "Money Fronts: complete legitimate car-wash work",
+          "title_i18n": {
+            "en": "Money Fronts: complete legitimate car-wash work",
+            "pt": "Money Fronts: conclua um trabalho legítimo do lava-rápido"
+          },
+          "description": "Finish a customer-service job and check its effect on Heat.",
+          "description_i18n": {
+            "en": "Finish a customer-service job and check its effect on Heat.",
+            "pt": "Conclua um serviço de cliente e confira seu efeito em Heat."
+          },
+          "details": "Hands On Car Wash is the first hosting purchase in this business route; it opens optional Smoke on the Water and Higgins Helitours expansion. Laundering work increases attention represented by Heat. Use the front’s legitimate service work to bring that attention down before returning to its criminal side. Check the actual business interface instead of assuming a fixed number of legal jobs or a guaranteed passive-income rate.",
+          "details_i18n": {
+            "en": "Hands On Car Wash is the first hosting purchase in this business route; it opens optional Smoke on the Water and Higgins Helitours expansion. Laundering work increases attention represented by Heat. Use the front’s legitimate service work to bring that attention down before returning to its criminal side. Check the actual business interface instead of assuming a fixed number of legal jobs or a guaranteed passive-income rate.",
+            "pt": "Hands On Car Wash é a primeira compra para organizar este caminho comercial; ela libera as expansões opcionais Smoke on the Water e Higgins Helitours. Trabalhos de lavagem aumentam a atenção representada por Heat. Use os serviços legítimos da fachada para reduzir essa atenção antes de retornar à parte criminosa. Confira a interface real do negócio, sem presumir um número fixo de serviços legais nem uma renda passiva garantida."
+          }
+        },
+        {
+          "key": "money-front-laundering",
+          "title": "Money Fronts: complete a Money Laundering mission",
+          "title_i18n": {
+            "en": "Money Fronts: complete a Money Laundering mission",
+            "pt": "Money Fronts: conclua uma missão Money Laundering"
+          },
+          "description": "Complete one supported laundering operation from the business.",
+          "description_i18n": {
+            "en": "Complete one supported laundering operation from the business.",
+            "pt": "Conclua uma operação de lavagem disponível no negócio."
+          }
+        },
+        {
+          "key": "money-front-faber",
+          "title": "Money Fronts: complete Mr. Faber Work",
+          "title_i18n": {
+            "en": "Money Fronts: complete Mr. Faber Work",
+            "pt": "Money Fronts: conclua um trabalho de Mr. Faber"
+          },
+          "description": "Finish one offered job for Mr. Faber.",
+          "description_i18n": {
+            "en": "Finish one offered job for Mr. Faber.",
+            "pt": "Conclua um trabalho oferecido para Mr. Faber."
+          }
+        },
+        {
+          "key": "money-front-dispensary",
+          "title": "Optional front: Smoke on the Water",
+          "title_i18n": {
+            "en": "Optional front: Smoke on the Water",
+            "pt": "Fachada opcional: Smoke on the Water"
+          },
+          "description": "Expand from the car wash and complete one supported job at this front.",
+          "description_i18n": {
+            "en": "Expand from the car wash and complete one supported job at this front.",
+            "pt": "Expanda a partir do lava-rápido e conclua um trabalho válido nesta fachada."
+          }
+        },
+        {
+          "key": "money-front-helitours",
+          "title": "Optional front: Higgins Helitours",
+          "title_i18n": {
+            "en": "Optional front: Higgins Helitours",
+            "pt": "Fachada opcional: Higgins Helitours"
+          },
+          "description": "Expand from the car wash and complete one supported job at this front.",
+          "description_i18n": {
+            "en": "Expand from the car wash and complete one supported job at this front.",
+            "pt": "Expanda a partir do lava-rápido e conclua um trabalho válido nesta fachada."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "personal-rank-and-career-goals",
+      "title": "Optional personal rank and Career Progress goals",
+      "title_i18n": {
+        "en": "Optional personal rank and Career Progress goals",
+        "pt": "Objetivos pessoais opcionais de nível e Career Progress"
+      },
+      "items": [
+        {
+          "key": "rank-twenty-five",
+          "title": "Reach rank twenty-five",
+          "title_i18n": {
+            "en": "Reach rank twenty-five",
+            "pt": "Alcance o nível vinte e cinco"
+          },
+          "description": "Progress through activities you enjoy; this is a personal milestone, not an ending gate.",
+          "description_i18n": {
+            "en": "Progress through activities you enjoy; this is a personal milestone, not an ending gate.",
+            "pt": "Avance nas atividades que preferir; este é um marco pessoal, não uma condição de final."
+          }
+        },
+        {
+          "key": "rank-fifty",
+          "title": "Reach rank fifty",
+          "title_i18n": {
+            "en": "Reach rank fifty",
+            "pt": "Alcance o nível cinquenta"
+          },
+          "description": "Reach the next selected character-rank milestone.",
+          "description_i18n": {
+            "en": "Reach the next selected character-rank milestone.",
+            "pt": "Alcance o próximo marco selecionado de nível do personagem."
+          }
+        },
+        {
+          "key": "rank-one-hundred",
+          "title": "Reach rank one hundred",
+          "title_i18n": {
+            "en": "Reach rank one hundred",
+            "pt": "Alcance o nível cem"
+          },
+          "description": "Finish this selected long-term character goal.",
+          "description_i18n": {
+            "en": "Finish this selected long-term character goal.",
+            "pt": "Conclua este objetivo selecionado de longo prazo do personagem."
+          }
+        },
+        {
+          "key": "career-progress-tier",
+          "title": "Complete one chosen Career Progress tier",
+          "title_i18n": {
+            "en": "Complete one chosen Career Progress tier",
+            "pt": "Conclua um nível escolhido de Career Progress"
+          },
+          "description": "On PS5, select an available activity category and finish one tier’s displayed requirements.",
+          "description_i18n": {
+            "en": "On PS5, select an available activity category and finish one tier’s displayed requirements.",
+            "pt": "No PS5, escolha uma categoria de atividade disponível e cumpra os requisitos exibidos de um nível."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "selected-permanent-collections",
+      "title": "Selected permanent collections: aggregate goals",
+      "title_i18n": {
+        "en": "Selected permanent collections: aggregate goals",
+        "pt": "Coleções permanentes selecionadas: objetivos agregados"
+      },
+      "items": [
+        {
+          "key": "action-figures",
+          "title": "Collect one hundred Action Figures",
+          "title_i18n": {
+            "en": "Collect one hundred Action Figures",
+            "pt": "Recolha cem Action Figures"
+          },
+          "description": "Complete this permanent set; individual locations are not enumerated here.",
+          "description_i18n": {
+            "en": "Complete this permanent set; individual locations are not enumerated here.",
+            "pt": "Conclua este conjunto permanente; as localizações individuais não estão enumeradas aqui."
+          }
+        },
+        {
+          "key": "playing-cards",
+          "title": "Collect fifty-four Playing Cards",
+          "title_i18n": {
+            "en": "Collect fifty-four Playing Cards",
+            "pt": "Recolha cinquenta e quatro Playing Cards"
+          },
+          "description": "Complete this permanent card set, separately from rotating collectibles.",
+          "description_i18n": {
+            "en": "Complete this permanent card set, separately from rotating collectibles.",
+            "pt": "Conclua este conjunto permanente de cartas, separado dos colecionáveis em rotação."
+          }
+        },
+        {
+          "key": "signal-jammers",
+          "title": "Destroy fifty Signal Jammers",
+          "title_i18n": {
+            "en": "Destroy fifty Signal Jammers",
+            "pt": "Destrua cinquenta Signal Jammers"
+          },
+          "description": "Complete the permanent transmitter set.",
+          "description_i18n": {
+            "en": "Complete the permanent transmitter set.",
+            "pt": "Conclua o conjunto permanente de transmissores."
+          }
+        },
+        {
+          "key": "movie-props",
+          "title": "Return ten Movie Props to Solomon",
+          "title_i18n": {
+            "en": "Return ten Movie Props to Solomon",
+            "pt": "Devolva dez Movie Props a Solomon"
+          },
+          "description": "Complete the selected prop collection and its deliveries.",
+          "description_i18n": {
+            "en": "Complete the selected prop collection and its deliveries.",
+            "pt": "Conclua a coleção selecionada de objetos de cena e suas entregas."
+          }
+        },
+        {
+          "key": "selected-route-review",
+          "title": "Review your completed selected milestones",
+          "title_i18n": {
+            "en": "Review your completed selected milestones",
+            "pt": "Confira seus marcos selecionados concluídos"
+          },
+          "description": "Review the chains and goals you chose. This guide does not represent every update, purchase, event or a finite GTA Online 100%.",
+          "description_i18n": {
+            "en": "Review the chains and goals you chose. This guide does not represent every update, purchase, event or a finite GTA Online 100%.",
+            "pt": "Confira as sequências e os objetivos que escolheu. Este guia não representa todas as atualizações, compras, eventos nem 100% finitos de GTA Online."
+          },
+          "details": "This selection covers the named chains and milestones in the chapter list, not all GTA Online content. Lowriders, Oscar Guzman Flies Again, every business variation, weekly rotations and many other updates are not fully enumerated. Finishing this guide means finishing the selected goals you pursue; it does not create a finite ending or an official overall 100% state. The shared PS5 trophy list remains in the GTA V catalog entry.",
+          "details_i18n": {
+            "en": "This selection covers the named chains and milestones in the chapter list, not all GTA Online content. Lowriders, Oscar Guzman Flies Again, every business variation, weekly rotations and many other updates are not fully enumerated. Finishing this guide means finishing the selected goals you pursue; it does not create a finite ending or an official overall 100% state. The shared PS5 trophy list remains in the GTA V catalog entry.",
+            "pt": "Esta seleção abrange as sequências e os marcos nomeados na lista de capítulos, não todo o conteúdo de GTA Online. Lowriders, Oscar Guzman Flies Again, todas as variações comerciais, rotações semanais e muitas outras atualizações não estão totalmente enumerados. Terminar este guia significa concluir os objetivos selecionados que você escolher; isso não cria um final finito nem um estado oficial de 100% geral. A lista compartilhada de troféus do PS5 permanece na entrada de GTA V."
+          }
+        }
+      ],
+      "kind": "collectible"
+    }
+  ],
+  "trophies": [],
+  "hltb_id": "13834",
+  "hltb_main_hours": 49,
+  "hltb_main_extra_hours": 145,
+  "hltb_completionist_hours": 996
+}

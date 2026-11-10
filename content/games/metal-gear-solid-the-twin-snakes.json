@@ -588,6 +588,11 @@
           "description_i18n": {
             "en": "A live conduit blocks the path — guide a Nikita missile around the corner to hit it.",
             "pt": "Um duto energizado bloqueia o caminho — guie o míssil da Nikita pela curva para atingi-lo."
+          },
+          "details": "Launch from a safe position at the edge of the electrified passage and steer the missile through the side route to the power panel, rather than walking across the live floor. Turn deliberately at corners; if the missile hits a wall, reposition and try again.\n\nSnake remains vulnerable while you guide it. Watch the oxygen gauge in the gas, cancel the missile view and retreat to clean air before it empties. After the panel is destroyed, confirm that the floor has shut off before crossing.",
+          "details_i18n": {
+            "en": "Launch from a safe position at the edge of the electrified passage and steer the missile through the side route to the power panel, rather than walking across the live floor. Turn deliberately at corners; if the missile hits a wall, reposition and try again.\n\nSnake remains vulnerable while you guide it. Watch the oxygen gauge in the gas, cancel the missile view and retreat to clean air before it empties. After the panel is destroyed, confirm that the floor has shut off before crossing.",
+            "pt": "Dispare de uma posição segura na entrada da passagem eletrificada e conduza o míssil pela rota lateral até o painel de energia, em vez de atravessar o piso ativo. Faça as curvas com cuidado; se bater numa parede, reposicione-se e tente novamente.\n\nSnake continua vulnerável enquanto você guia o míssil. Observe o oxigênio na área com gás, cancele a visão do míssil e volte para uma área sem gás antes de esgotá-lo. Após destruir o painel, confirme que o piso desligou antes de atravessar."
           }
         },
         {
@@ -637,6 +642,11 @@
           "description_i18n": {
             "en": "He shrugs off bullets at first — open with hand-to-hand punches and kicks.",
             "pt": "No começo ele ignora as balas — comece no corpo a corpo com socos e chutes."
+          },
+          "details": "Put the firearm away for the opening exchanges: the Ninja can deflect gunfire with his sword. Let his close-range attack miss, move in for a short punch-and-kick combination, then step back before his reply. Repeating a long attack while he is ready usually costs more life than it gains.\n\nWhen he hides, use Thermal Goggles if available to locate him. Later changes in his behavior signal a new phase; pause to observe rather than charging directly into his attacks.",
+          "details_i18n": {
+            "en": "Put the firearm away for the opening exchanges: the Ninja can deflect gunfire with his sword. Let his close-range attack miss, move in for a short punch-and-kick combination, then step back before his reply. Repeating a long attack while he is ready usually costs more life than it gains.\n\nWhen he hides, use Thermal Goggles if available to locate him. Later changes in his behavior signal a new phase; pause to observe rather than charging directly into his attacks.",
+            "pt": "Guarde a arma de fogo nas trocas iniciais: o Ninja consegue desviar tiros com a espada. Deixe o ataque de perto errar, aproxime-se para uma combinação curta de socos e chute e recue antes da resposta. Insistir numa sequência longa enquanto ele está preparado costuma custar mais vida do que ajuda.\n\nQuando ele se esconder, use os Óculos Térmicos, se disponíveis, para encontrá-lo. Mudanças posteriores no comportamento indicam uma nova fase; observe antes de avançar diretamente contra os ataques."
           }
         },
         {
@@ -693,15 +703,20 @@
         },
         {
           "key": "move-the-controller-to-port-2",
-          "title": "Move the controller to port 2",
+          "title": "Move the controller to port 4",
           "title_i18n": {
-            "en": "Move the controller to port 2",
-            "pt": "Mudar o controle para a porta 2"
+            "en": "Move the controller to port 4",
+            "pt": "Mudar o controle para a entrada 4"
           },
-          "description": "The remake keeps this fourth-wall trick — unplug the pad and use port 2 so Mantis can't read your inputs.",
+          "description": "Use controller port 4 on GameCube so Mantis cannot read your inputs; restore the normal port after the fight.",
           "description_i18n": {
-            "en": "The remake keeps this fourth-wall trick — unplug the pad and use port 2 so Mantis can't read your inputs.",
-            "pt": "O remake mantém esse truque de quebra da quarta parede — desconecte o controle e ligue na porta 2 para Mantis não ler seus comandos."
+            "en": "Use controller port 4 on GameCube so Mantis cannot read your inputs; restore the normal port after the fight.",
+            "pt": "Use a entrada 4 do controle no GameCube para impedir a leitura de Mantis; restaure a entrada normal após a luta."
+          },
+          "details": "On the original GameCube hardware, move the active controller to port 4 during the Mantis encounter. Twin Snakes uses port 4, unlike the PS1 original. If playing through emulation, the equivalent change is the emulated controller port, not merely reconnecting the physical pad.\n\nAfter changing ports, attack when Mantis is exposed and avoid the flying furniture. When he controls Meryl, incapacitate her without shooting her. Return the controller to its normal port after the encounter.",
+          "details_i18n": {
+            "en": "On the original GameCube hardware, move the active controller to port 4 during the Mantis encounter. Twin Snakes uses port 4, unlike the PS1 original. If playing through emulation, the equivalent change is the emulated controller port, not merely reconnecting the physical pad.\n\nAfter changing ports, attack when Mantis is exposed and avoid the flying furniture. When he controls Meryl, incapacitate her without shooting her. Return the controller to its normal port after the encounter.",
+            "pt": "No GameCube original, passe o controle ativo para a entrada 4 durante o encontro com Mantis. Twin Snakes usa a entrada 4, diferente do original de PS1. Se jogar por emulação, altere a entrada do controle emulado; apenas reconectar o controle físico não faz essa troca.\n\nDepois, ataque quando Mantis ficar exposto e desvie dos móveis arremessados. Quando ele controlar Meryl, incapacite-a sem atirar nela. Devolva o controle à entrada normal após o encontro."
           }
         },
         {
@@ -803,6 +818,11 @@
           "description_i18n": {
             "en": "The PSG-1 sniper rifle is stored back in the armory — a long detour, but required.",
             "pt": "O rifle de precisão PSG-1 fica guardado no arsenal — um desvio longo, mas obrigatório."
+          },
+          "details": "Before taking the return trip, check your access card and collect healing supplies for the journey. The sniper rifle is in the Tank Hangar B2 armory, behind the security door your newer card can open. Inspect the room for infrared beams before walking to the weapon.\n\nCollect ammunition as well as the rifle, then retrace the route to the sniper corridor. Settle into a clear firing position before opening the scope; diazepam can reduce sway if your aim is too unstable.",
+          "details_i18n": {
+            "en": "Before taking the return trip, check your access card and collect healing supplies for the journey. The sniper rifle is in the Tank Hangar B2 armory, behind the security door your newer card can open. Inspect the room for infrared beams before walking to the weapon.\n\nCollect ammunition as well as the rifle, then retrace the route to the sniper corridor. Settle into a clear firing position before opening the scope; diazepam can reduce sway if your aim is too unstable.",
+            "pt": "Antes de voltar, confira o cartão de acesso e reúna suprimentos de cura para o caminho. O rifle de precisão fica no arsenal B2 do Tank Hangar, atrás da porta de segurança que o cartão mais recente consegue abrir. Procure os feixes infravermelhos antes de andar até a arma.\n\nPegue munição junto com o rifle e refaça o caminho até o corredor da atiradora. Escolha uma posição com visão livre antes de abrir a mira; diazepam reduz a oscilação se estiver difícil de mirar."
           }
         },
         {
@@ -865,6 +885,11 @@
           "description_i18n": {
             "en": "Rapidly tap the button to keep Snake's life bar from emptying.",
             "pt": "Aperte o botão rapidamente para não deixar a barra de vida de Snake zerar."
+          },
+          "details": "Follow the resistance prompt shown by your edition and keep tapping during each electrical burst. Continue briefly after a burst stops to recover additional life before the next one. Survival and submission lead to different ending routes, so preserve a save from before capture if you want to revisit the choice.\n\nDo not select the submission action while trying to resist. When the scene returns to the cell, use the break to call your contacts and look for an escape opportunity rather than assuming the next torture round is mandatory.",
+          "details_i18n": {
+            "en": "Follow the resistance prompt shown by your edition and keep tapping during each electrical burst. Continue briefly after a burst stops to recover additional life before the next one. Survival and submission lead to different ending routes, so preserve a save from before capture if you want to revisit the choice.\n\nDo not select the submission action while trying to resist. When the scene returns to the cell, use the break to call your contacts and look for an escape opportunity rather than assuming the next torture round is mandatory.",
+            "pt": "Siga o comando de resistência exibido na sua edição e continue apertando durante cada descarga. Mantenha o comando brevemente após a descarga para recuperar mais vida antes da seguinte. Resistir e se render levam a finais diferentes; preserve um arquivo anterior à captura se quiser rever a escolha.\n\nNão selecione o comando de rendição enquanto tenta resistir. Quando voltar à cela, aproveite para chamar seus contatos e procurar uma oportunidade de fuga, em vez de presumir que outra rodada de tortura é obrigatória."
           }
         },
         {
@@ -891,6 +916,11 @@
           "description_i18n": {
             "en": "In the cell, use the ketchup so the guard opens the door thinking you're dead.",
             "pt": "Na cela, use o ketchup para o guarda abrir a porta achando que você está morto."
+          },
+          "details": "Wait for Otacon to visit and give you the supplies. Prepare the trick while the guard is away: lie down, equip the ketchup and use it so the floor looks bloodied. Stay still when the guard returns. If he sees you preparing the trick, he will not be fooled.\n\nMove only after he has opened the cell and stepped inside. Get past him and collect your equipment from the nearby torture room; opening the door alone does not restore the confiscated weapons.",
+          "details_i18n": {
+            "en": "Wait for Otacon to visit and give you the supplies. Prepare the trick while the guard is away: lie down, equip the ketchup and use it so the floor looks bloodied. Stay still when the guard returns. If he sees you preparing the trick, he will not be fooled.\n\nMove only after he has opened the cell and stepped inside. Get past him and collect your equipment from the nearby torture room; opening the door alone does not restore the confiscated weapons.",
+            "pt": "Espere Otacon visitar a cela e entregar os suprimentos. Prepare o truque enquanto o guarda estiver ausente: deite, equipe o ketchup e use-o para simular sangue no chão. Fique imóvel quando ele voltar. Se ele vir a preparação, não será enganado.\n\nMexa-se somente depois que ele abrir a cela e entrar. Passe por ele e recupere seu equipamento na sala de tortura próxima; abrir a porta não devolve automaticamente as armas confiscadas."
           }
         },
         {
@@ -1132,19 +1162,11 @@
           "description_i18n": {
             "en": "The key's shape and ID change with heat and cold — each slot needs a different state.",
             "pt": "O formato e o ID da chave mudam com calor e frio — cada fechadura precisa de um estado diferente."
-          }
-        },
-        {
-          "key": "warm-the-key-near-the-steam",
-          "title": "Warm the key near the steam",
-          "title_i18n": {
-            "en": "Warm the key near the steam",
-            "pt": "Aquecer a chave perto do vapor"
           },
-          "description": "Hold it by the hot steam/heater until it changes, then use it in the matching slot.",
-          "description_i18n": {
-            "en": "Hold it by the hot steam/heater until it changes, then use it in the matching slot.",
-            "pt": "Segure-a perto do vapor quente/aquecedor até ela mudar e use na fechadura correspondente."
+          "details": "One PAL card supplies three states. Register normal temperature first, cold second and hot last. For the cold state, wait in the warehouse where Raven fought; for the hot state, wait in the Blast Furnace. Inspect the card in the inventory to confirm its state instead of relying on a fixed waiting time.\n\nReturn promptly to the control room after each change: the card gradually returns to normal temperature. If a terminal rejects it, check its current state and the required sequence before repeating the trip. Twin Snakes also has local temperature-changing pipes in the underground base; those shortcuts are specific to this remake.",
+          "details_i18n": {
+            "en": "One PAL card supplies three states. Register normal temperature first, cold second and hot last. For the cold state, wait in the warehouse where Raven fought; for the hot state, wait in the Blast Furnace. Inspect the card in the inventory to confirm its state instead of relying on a fixed waiting time.\n\nReturn promptly to the control room after each change: the card gradually returns to normal temperature. If a terminal rejects it, check its current state and the required sequence before repeating the trip. Twin Snakes also has local temperature-changing pipes in the underground base; those shortcuts are specific to this remake.",
+            "pt": "Um único cartão PAL fornece três estados. Registre primeiro a temperatura normal, depois a fria e por último a quente. Para esfriar, espere no depósito da luta contra Raven; para aquecer, espere no alto-forno. Examine o cartão no inventário para confirmar o estado, em vez de depender de um tempo fixo de espera.\n\nVolte sem demora à sala de controle após cada mudança: o cartão retorna gradualmente à temperatura normal. Se um terminal recusar, confira o estado atual e a sequência exigida antes de repetir o caminho. Twin Snakes também tem canos que alteram a temperatura na própria base subterrânea; esses atalhos são específicos deste remake."
           }
         },
         {
@@ -1154,10 +1176,23 @@
             "en": "Cool the key in the freezer room",
             "pt": "Resfriar a chave na sala congelante"
           },
-          "description": "Take it to the cold room until it changes again for the third insertion.",
+          "description": "Cool the card in Raven's warehouse and return to register the second temperature state before warming it.",
           "description_i18n": {
-            "en": "Take it to the cold room until it changes again for the third insertion.",
-            "pt": "Leve-a até a sala fria até ela mudar de novo para a terceira inserção."
+            "en": "Cool the card in Raven's warehouse and return to register the second temperature state before warming it.",
+            "pt": "Esfrie o cartão no depósito de Raven e volte para registrar o segundo estado antes de aquecê-lo."
+          }
+        },
+        {
+          "key": "warm-the-key-near-the-steam",
+          "title": "Warm the key near the steam",
+          "title_i18n": {
+            "en": "Warm the key near the steam",
+            "pt": "Aquecer a chave perto do vapor"
+          },
+          "description": "After the cold entry, warm the card in the Blast Furnace or use the remake's steam-pipe shortcut; return for the final entry.",
+          "description_i18n": {
+            "en": "After the cold entry, warm the card in the Blast Furnace or use the remake's steam-pipe shortcut; return for the final entry.",
+            "pt": "Após registrar o frio, aqueça o cartão no alto-forno ou use o atalho do cano de vapor deste remake; volte para o registro final."
           }
         },
         {
@@ -1167,10 +1202,10 @@
             "en": "Insert the key into all three keyholes",
             "pt": "Inserir a chave nas três fechaduras"
           },
-          "description": "Room temp, hot, and cold each match one slot — complete all three.",
+          "description": "Register the PAL card at normal temperature first, cold second and hot last; verify its state in the inventory before each terminal.",
           "description_i18n": {
-            "en": "Room temp, hot, and cold each match one slot — complete all three.",
-            "pt": "Temperatura ambiente, quente e fria — cada uma corresponde a uma fechadura; complete as três."
+            "en": "Register the PAL card at normal temperature first, cold second and hot last; verify its state in the inventory before each terminal.",
+            "pt": "Registre o cartão PAL primeiro em temperatura normal, depois fria e por último quente; confira o estado no inventário antes de cada terminal."
           }
         },
         {
@@ -1259,6 +1294,11 @@
           "description_i18n": {
             "en": "Blow off REX's radar dome with Stinger missiles so it loses its targeting.",
             "pt": "Exploda a cúpula de radar do REX com mísseis Stinger para ele perder a mira."
+          },
+          "details": "Use the Stinger lock-on against the radar dome in the first phase. Fire when you have a lock, then leave the aiming view and reposition before the return attack; staying motionless to watch the missile is dangerous. Keep enough distance to avoid being stepped on.\n\nAfter the story transition, the valid target changes to the open cockpit. Continuing to shoot the destroyed radar wastes ammunition. Reacquire the cockpit, fire during openings and move between shots; the fight is two separate target-selection problems.",
+          "details_i18n": {
+            "en": "Use the Stinger lock-on against the radar dome in the first phase. Fire when you have a lock, then leave the aiming view and reposition before the return attack; staying motionless to watch the missile is dangerous. Keep enough distance to avoid being stepped on.\n\nAfter the story transition, the valid target changes to the open cockpit. Continuing to shoot the destroyed radar wastes ammunition. Reacquire the cockpit, fire during openings and move between shots; the fight is two separate target-selection problems.",
+            "pt": "Use a trava de mira do Stinger contra o radar na primeira fase. Dispare após travar, saia da mira e se reposicione antes do contra-ataque; ficar parado observando o míssil é perigoso. Mantenha distância suficiente para evitar os pisões.\n\nApós a transição da história, o alvo correto passa a ser a cabine aberta. Continuar atirando no radar destruído desperdiça munição. Trave a cabine, atire nas aberturas e mova-se entre disparos; cada fase exige selecionar um alvo diferente."
           }
         },
         {

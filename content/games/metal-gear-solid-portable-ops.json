@@ -1,0 +1,1565 @@
+{
+  "slug": "metal-gear-solid-portable-ops",
+  "title": "Metal Gear Solid: Portable Ops",
+  "title_i18n": {
+    "en": "Metal Gear Solid: Portable Ops",
+    "pt": "Metal Gear Solid: Portable Ops"
+  },
+  "platform": "PlayStation Portable",
+  "cover_url": "/covers/metal-gear-solid-portable-ops.png",
+  "created_by": "dd5c4bf0-85ea-4986-9c04-b37e8c986150",
+  "categories": [
+    {
+      "key": "psp-campaign-preparation",
+      "title": "Original PSP campaign preparation",
+      "title_i18n": {
+        "en": "Original PSP campaign preparation",
+        "pt": "Preparação da campanha original de PSP"
+      },
+      "items": [
+        {
+          "key": "confirm-portable-ops-edition",
+          "title": "Start Portable Ops for PSP",
+          "title_i18n": {
+            "en": "Start Portable Ops for PSP",
+            "pt": "Começar Portable Ops no PSP"
+          },
+          "description": "This entry covers the original campaign, not Portable Ops Plus. PSP has no native PlayStation trophy list.",
+          "description_i18n": {
+            "en": "This entry covers the original campaign, not Portable Ops Plus. PSP has no native PlayStation trophy list.",
+            "pt": "Este registro cobre a campanha original, não Portable Ops Plus. O PSP não tem lista nativa de troféus da PlayStation."
+          }
+        },
+        {
+          "key": "review-key-config",
+          "title": "Review PSP controls and camera settings",
+          "title_i18n": {
+            "en": "Review PSP controls and camera settings",
+            "pt": "Revisar controles e câmera no PSP"
+          },
+          "description": "Try Key Config and camera options before the first infiltration; follow your selected layout rather than modern controller instructions.",
+          "description_i18n": {
+            "en": "Try Key Config and camera options before the first infiltration; follow your selected layout rather than modern controller instructions.",
+            "pt": "Teste Key Config e as opções de câmera antes da primeira infiltração; siga o esquema escolhido em vez de instruções para controles modernos."
+          }
+        },
+        {
+          "key": "practice-aiming-modes",
+          "title": "Practice aiming and quiet takedowns",
+          "title_i18n": {
+            "en": "Practice aiming and quiet takedowns",
+            "pt": "Praticar mira e neutralizações silenciosas"
+          },
+          "description": "Learn lock-on, first-person aiming and CQC with your chosen controls, then test a nonlethal approach.",
+          "description_i18n": {
+            "en": "Learn lock-on, first-person aiming and CQC with your chosen controls, then test a nonlethal approach.",
+            "pt": "Aprenda travamento de mira, primeira pessoa e CQC nos controles escolhidos; depois teste uma aproximação não letal."
+          }
+        },
+        {
+          "key": "check-four-equipment-slots",
+          "title": "Plan the four equipment slots",
+          "title_i18n": {
+            "en": "Plan the four equipment slots",
+            "pt": "Planejar os quatro espaços de equipamento"
+          },
+          "description": "Balance weapons, ammunition needs and recovery items for each deployed soldier before beginning a mission.",
+          "description_i18n": {
+            "en": "Balance weapons, ammunition needs and recovery items for each deployed soldier before beginning a mission.",
+            "pt": "Equilibre armas, necessidade de munição e itens de recuperação de cada soldado antes de começar uma missão."
+          }
+        },
+        {
+          "key": "learn-map-objectives",
+          "title": "Learn the map and objective markers",
+          "title_i18n": {
+            "en": "Learn the map and objective markers",
+            "pt": "Aprender o mapa e os marcadores de objetivo"
+          },
+          "description": "Inspect different floors and the marked objective instead of assuming every mission ends at the same exit.",
+          "description_i18n": {
+            "en": "Inspect different floors and the marked objective instead of assuming every mission ends at the same exit.",
+            "pt": "Confira os andares e o objetivo marcado em vez de presumir que todas as missões terminam na mesma saída."
+          }
+        },
+        {
+          "key": "save-campaign-milestones",
+          "title": "Save campaign milestones",
+          "title_i18n": {
+            "en": "Save campaign milestones",
+            "pt": "Salvar os marcos da campanha"
+          },
+          "description": "Use Save Game from the System menu and preserve a useful earlier slot before optional recruit deadlines or the final sequence.",
+          "description_i18n": {
+            "en": "Use Save Game from the System menu and preserve a useful earlier slot before optional recruit deadlines or the final sequence.",
+            "pt": "Use Save Game no menu System e preserve um arquivo anterior útil antes dos prazos de recrutas opcionais ou da sequência final."
+          }
+        }
+      ]
+    },
+    {
+      "key": "prison-first-contact",
+      "title": "Prison escape and first contact",
+      "title_i18n": {
+        "en": "Prison escape and first contact",
+        "pt": "Fuga da prisão e primeiro contato"
+      },
+      "items": [
+        {
+          "key": "meet-campbell",
+          "title": "Speak to Campbell",
+          "title_i18n": {
+            "en": "Speak to Campbell",
+            "pt": "Conversar com Campbell"
+          },
+          "description": "Follow the opening conversations and inspect the cell for the route into the adjoining area.",
+          "description_i18n": {
+            "en": "Follow the opening conversations and inspect the cell for the route into the adjoining area.",
+            "pt": "Acompanhe as conversas iniciais e examine a cela para encontrar a rota até a área adjacente."
+          }
+        },
+        {
+          "key": "leave-prison-cell",
+          "title": "Leave the prison cell",
+          "title_i18n": {
+            "en": "Leave the prison cell",
+            "pt": "Sair da cela"
+          },
+          "description": "Use the available passage and recover the equipment introduced by the tutorial.",
+          "description_i18n": {
+            "en": "Use the available passage and recover the equipment introduced by the tutorial.",
+            "pt": "Use a passagem disponível e recupere os equipamentos apresentados pelo tutorial."
+          }
+        },
+        {
+          "key": "cross-prison-compound",
+          "title": "Cross the prison compound",
+          "title_i18n": {
+            "en": "Cross the prison compound",
+            "pt": "Atravessar o complexo da prisão"
+          },
+          "description": "Use the tutorial's cover and movement lessons to reach the marked destination without unnecessary combat.",
+          "description_i18n": {
+            "en": "Use the tutorial's cover and movement lessons to reach the marked destination without unnecessary combat.",
+            "pt": "Use as lições de cobertura e movimento para chegar ao destino marcado sem combate desnecessário."
+          }
+        },
+        {
+          "key": "enter-communications-base",
+          "title": "Infiltrate the Communications Base",
+          "title_i18n": {
+            "en": "Infiltrate the Communications Base",
+            "pt": "Infiltrar a Base de Comunicações"
+          },
+          "description": "Approach the central building carefully and reach the marked communications point.",
+          "description_i18n": {
+            "en": "Approach the central building carefully and reach the marked communications point.",
+            "pt": "Aproxime-se do prédio central com cuidado e chegue ao ponto de comunicação indicado."
+          }
+        },
+        {
+          "key": "complete-first-radio-contact",
+          "title": "Complete the radio contact",
+          "title_i18n": {
+            "en": "Complete the radio contact",
+            "pt": "Concluir o contato por rádio"
+          },
+          "description": "Follow the contact sequence and review the new destination on the overall map.",
+          "description_i18n": {
+            "en": "Follow the contact sequence and review the new destination on the overall map.",
+            "pt": "Acompanhe a sequência de contato e confira o novo destino no mapa geral."
+          }
+        },
+        {
+          "key": "collect-patrol-base-intel",
+          "title": "Gather intel at the Soviet Patrol Base",
+          "title_i18n": {
+            "en": "Gather intel at the Soviet Patrol Base",
+            "pt": "Obter informações na Base de Patrulha Soviética"
+          },
+          "description": "Observe the initial soldiers, enter the guarded building and retrieve the documents needed to continue.",
+          "description_i18n": {
+            "en": "Observe the initial soldiers, enter the guarded building and retrieve the documents needed to continue.",
+            "pt": "Observe os soldados iniciais, entre no prédio vigiado e recupere os documentos necessários para continuar."
+          }
+        }
+      ]
+    },
+    {
+      "key": "building-first-squad",
+      "title": "Build the first squad",
+      "title_i18n": {
+        "en": "Build the first squad",
+        "pt": "Montar o primeiro esquadrão"
+      },
+      "items": [
+        {
+          "key": "capture-first-recruit",
+          "title": "Capture the first recruit",
+          "title_i18n": {
+            "en": "Capture the first recruit",
+            "pt": "Capturar o primeiro recruta"
+          },
+          "description": "Return to the patrol area, neutralize the indicated soldier nonlethally and bring him to the truck.",
+          "description_i18n": {
+            "en": "Return to the patrol area, neutralize the indicated soldier nonlethally and bring him to the truck.",
+            "pt": "Volte à área de patrulha, neutralize o soldado indicado sem matar e leve-o ao caminhão."
+          },
+          "details": "Use a tranquilizer or suitable CQC to incapacitate the soldier, then drag him back to the truck and complete the recovery interaction. This is ground transport, not Peace Walker's Fulton system. Clear a safe path first: dragging is slow and leaves you exposed. A captured ordinary enemy may remain a prisoner before joining, so inspect the management tabs rather than expecting immediate field availability. Suitable support careers can improve recovery and conversion later.",
+          "details_i18n": {
+            "en": "Use a tranquilizer or suitable CQC to incapacitate the soldier, then drag him back to the truck and complete the recovery interaction. This is ground transport, not Peace Walker's Fulton system. Clear a safe path first: dragging is slow and leaves you exposed. A captured ordinary enemy may remain a prisoner before joining, so inspect the management tabs rather than expecting immediate field availability. Suitable support careers can improve recovery and conversion later.",
+            "pt": "Use tranquilizantes ou CQC adequado para incapacitar o soldado; depois arraste-o ao caminhão e conclua a recuperação. É transporte terrestre, não o Fulton de Peace Walker. Abra um caminho seguro antes: arrastar é lento e deixa você exposto. Um inimigo comum capturado pode continuar como prisioneiro antes de se juntar ao grupo; confira as abas de gestão em vez de esperar disponibilidade imediata em campo. Profissões de apoio adequadas podem melhorar a recuperação e a conversão depois."
+          }
+        },
+        {
+          "key": "finish-jonathan-recruitment",
+          "title": "Complete Jonathan's recruitment",
+          "title_i18n": {
+            "en": "Complete Jonathan's recruitment",
+            "pt": "Concluir o recrutamento de Jonathan"
+          },
+          "description": "Finish the recovery sequence and inspect how the new soldier appears in the management menus.",
+          "description_i18n": {
+            "en": "Finish the recovery sequence and inspect how the new soldier appears in the management menus.",
+            "pt": "Conclua a recuperação e confira como o novo soldado aparece nos menus de gestão."
+          }
+        },
+        {
+          "key": "form-sneaking-team",
+          "title": "Form a practical sneaking team",
+          "title_i18n": {
+            "en": "Form a practical sneaking team",
+            "pt": "Montar uma equipe de infiltração útil"
+          },
+          "description": "Add suitable available soldiers to the field team and check each person's weapon and CQC skills.",
+          "description_i18n": {
+            "en": "Add suitable available soldiers to the field team and check each person's weapon and CQC skills.",
+            "pt": "Inclua soldados adequados na equipe de campo e confira as habilidades de armas e CQC de cada um."
+          }
+        },
+        {
+          "key": "learn-character-switching",
+          "title": "Learn to switch field characters",
+          "title_i18n": {
+            "en": "Learn to switch field characters",
+            "pt": "Aprender a trocar o personagem em campo"
+          },
+          "description": "Practice the teammate-switching system while hidden and learn when the game permits a safe change.",
+          "description_i18n": {
+            "en": "Practice the teammate-switching system while hidden and learn when the game permits a safe change.",
+            "pt": "Pratique a troca de integrantes enquanto estiver escondido e aprenda quando o jogo permite uma troca segura."
+          }
+        },
+        {
+          "key": "assign-initial-support-units",
+          "title": "Assign the first support specialists",
+          "title_i18n": {
+            "en": "Assign the first support specialists",
+            "pt": "Distribuir os primeiros especialistas de apoio"
+          },
+          "description": "Place useful personnel in Technical and Medical roles rather than leaving every recruit in the infiltration team.",
+          "description_i18n": {
+            "en": "Place useful personnel in Technical and Medical roles rather than leaving every recruit in the infiltration team.",
+            "pt": "Coloque pessoal adequado em funções Técnicas e Médicas em vez de deixar todos os recrutas na infiltração."
+          }
+        },
+        {
+          "key": "respond-campbell-condition",
+          "title": "Respond to Campbell's condition",
+          "title_i18n": {
+            "en": "Respond to Campbell's condition",
+            "pt": "Responder à condição de Campbell"
+          },
+          "description": "Read the new briefing and return to the Communications Base for medical advice.",
+          "description_i18n": {
+            "en": "Read the new briefing and return to the Communications Base for medical advice.",
+            "pt": "Leia as novas instruções e volte à Base de Comunicações para buscar orientação médica."
+          }
+        }
+      ]
+    },
+    {
+      "key": "medical-lead-research-lab",
+      "title": "Medical leads and the Research Lab",
+      "title_i18n": {
+        "en": "Medical leads and the Research Lab",
+        "pt": "Pistas médicas e Laboratório de Pesquisa"
+      },
+      "items": [
+        {
+          "key": "receive-medical-advice",
+          "title": "Receive the medical lead",
+          "title_i18n": {
+            "en": "Receive the medical lead",
+            "pt": "Receber a pista médica"
+          },
+          "description": "Reach the marked radio point and follow the instructions for finding treatment.",
+          "description_i18n": {
+            "en": "Reach the marked radio point and follow the instructions for finding treatment.",
+            "pt": "Chegue ao ponto de rádio marcado e siga as instruções para encontrar tratamento."
+          }
+        },
+        {
+          "key": "search-hospital",
+          "title": "Search the Hospital",
+          "title_i18n": {
+            "en": "Search the Hospital",
+            "pt": "Vasculhar o Hospital"
+          },
+          "description": "Explore the accessible rooms and follow Campbell's updated directions rather than searching a single floor repeatedly.",
+          "description_i18n": {
+            "en": "Explore the accessible rooms and follow Campbell's updated directions rather than searching a single floor repeatedly.",
+            "pt": "Explore as salas acessíveis e siga as novas orientações de Campbell em vez de repetir a busca em um só andar."
+          }
+        },
+        {
+          "key": "inspect-hospital-office",
+          "title": "Inspect the Hospital's office",
+          "title_i18n": {
+            "en": "Inspect the Hospital's office",
+            "pt": "Examinar o escritório do Hospital"
+          },
+          "description": "Reach the indicated upstairs room and complete the investigation that advances the medicine search.",
+          "description_i18n": {
+            "en": "Reach the indicated upstairs room and complete the investigation that advances the medicine search.",
+            "pt": "Chegue à sala superior indicada e conclua a investigação que avança a busca por remédios."
+          }
+        },
+        {
+          "key": "enter-research-lab",
+          "title": "Enter the Research Lab",
+          "title_i18n": {
+            "en": "Enter the Research Lab",
+            "pt": "Entrar no Laboratório de Pesquisa"
+          },
+          "description": "Scout the laboratory grounds and move toward the next marked encounter.",
+          "description_i18n": {
+            "en": "Scout the laboratory grounds and move toward the next marked encounter.",
+            "pt": "Observe os terrenos do laboratório e avance ao próximo encontro marcado."
+          }
+        },
+        {
+          "key": "follow-laboratory-events",
+          "title": "Follow the laboratory events",
+          "title_i18n": {
+            "en": "Follow the laboratory events",
+            "pt": "Acompanhar os eventos do laboratório"
+          },
+          "description": "Complete the exterior and interior story interactions before returning to the overall map.",
+          "description_i18n": {
+            "en": "Complete the exterior and interior story interactions before returning to the overall map.",
+            "pt": "Conclua as interações da história no exterior e no interior antes de voltar ao mapa geral."
+          }
+        },
+        {
+          "key": "start-spy-network",
+          "title": "Start a working spy network",
+          "title_i18n": {
+            "en": "Start a working spy network",
+            "pt": "Iniciar uma rede funcional de espiões"
+          },
+          "description": "Assign a spy to the Supply Depot and inspect new reports to discover the next objective.",
+          "description_i18n": {
+            "en": "Assign a spy to the Supply Depot and inspect new reports to discover the next objective.",
+            "pt": "Envie um espião ao Depósito de Suprimentos e confira os novos relatórios para descobrir o próximo objetivo."
+          }
+        }
+      ]
+    },
+    {
+      "key": "rail-bridge-diversions",
+      "title": "Supply route and diversion operations",
+      "title_i18n": {
+        "en": "Supply route and diversion operations",
+        "pt": "Rota de suprimentos e operações de distração"
+      },
+      "items": [
+        {
+          "key": "retrieve-supply-route-map",
+          "title": "Retrieve the supply-route map",
+          "title_i18n": {
+            "en": "Retrieve the supply-route map",
+            "pt": "Recuperar o mapa da rota de suprimentos"
+          },
+          "description": "Infiltrate the Supply Depot after the relevant report and recover the marked documents.",
+          "description_i18n": {
+            "en": "Infiltrate the Supply Depot after the relevant report and recover the marked documents.",
+            "pt": "Infiltre-se no Depósito de Suprimentos após o relatório correspondente e recupere os documentos marcados."
+          }
+        },
+        {
+          "key": "scout-rail-bridge",
+          "title": "Scout the Rail Bridge",
+          "title_i18n": {
+            "en": "Scout the Rail Bridge",
+            "pt": "Observar a Ponte Ferroviária"
+          },
+          "description": "Review early optional recruit goals before this visit, then reach the marked reconnaissance point and inspect the blocked route.",
+          "description_i18n": {
+            "en": "Review early optional recruit goals before this visit, then reach the marked reconnaissance point and inspect the blocked route.",
+            "pt": "Revise as metas de recrutas opcionais iniciais antes desta visita; depois chegue ao ponto de reconhecimento e examine a rota bloqueada."
+          }
+        },
+        {
+          "key": "prepare-diversion-reports",
+          "title": "Prepare the diversion reports",
+          "title_i18n": {
+            "en": "Prepare the diversion reports",
+            "pt": "Preparar os relatórios de distração"
+          },
+          "description": "Spread spies across the reported target areas and wait for actionable information before deploying.",
+          "description_i18n": {
+            "en": "Spread spies across the reported target areas and wait for actionable information before deploying.",
+            "pt": "Distribua espiões pelas áreas dos alvos informados e espere informações úteis antes de partir."
+          },
+          "details": "Place spies in the Supply Depot, Soviet Patrol Base, Research Lab and Town, then read the diversion reports as they arrive. Their targets differ: the depot truck, the patrol base armory, a laboratory installation, and the Town's trucks. Bring enough TNT for the assignment you actually received and use its map markers. Return to the overall map to check completed reports and the bridge situation; simply revisiting a target without acting on the relevant report is not equivalent progress.",
+          "details_i18n": {
+            "en": "Place spies in the Supply Depot, Soviet Patrol Base, Research Lab and Town, then read the diversion reports as they arrive. Their targets differ: the depot truck, the patrol base armory, a laboratory installation, and the Town's trucks. Bring enough TNT for the assignment you actually received and use its map markers. Return to the overall map to check completed reports and the bridge situation; simply revisiting a target without acting on the relevant report is not equivalent progress.",
+            "pt": "Coloque espiões no Depósito de Suprimentos, na Base de Patrulha Soviética, no Laboratório e na Cidade; leia os relatórios de distração conforme chegarem. Os alvos são diferentes: o caminhão do depósito, o arsenal da base, uma instalação do laboratório e os caminhões da Cidade. Leve TNT suficiente para a missão recebida e use seus marcadores. Volte ao mapa geral para conferir relatórios concluídos e a situação da ponte; apenas revisitar um alvo sem agir conforme o relatório não equivale a avançar."
+          }
+        },
+        {
+          "key": "secure-demolition-equipment",
+          "title": "Secure demolition equipment",
+          "title_i18n": {
+            "en": "Secure demolition equipment",
+            "pt": "Obter equipamento de demolição"
+          },
+          "description": "Check your TNT stock and recovery supplies before attempting the sabotage assignments.",
+          "description_i18n": {
+            "en": "Check your TNT stock and recovery supplies before attempting the sabotage assignments.",
+            "pt": "Confira o estoque de TNT e os itens de recuperação antes de tentar as operações de sabotagem."
+          }
+        },
+        {
+          "key": "diversion-supply-depot",
+          "title": "Complete the Supply Depot diversion",
+          "title_i18n": {
+            "en": "Complete the Supply Depot diversion",
+            "pt": "Concluir a distração no Depósito de Suprimentos"
+          },
+          "description": "Follow the report's marked sabotage objective and confirm its result on returning to the map.",
+          "description_i18n": {
+            "en": "Follow the report's marked sabotage objective and confirm its result on returning to the map.",
+            "pt": "Siga o objetivo de sabotagem marcado no relatório e confirme o resultado ao voltar ao mapa."
+          }
+        },
+        {
+          "key": "diversion-patrol-base",
+          "title": "Complete the Soviet Patrol Base diversion",
+          "title_i18n": {
+            "en": "Complete the Soviet Patrol Base diversion",
+            "pt": "Concluir a distração na Base de Patrulha Soviética"
+          },
+          "description": "Infiltrate the reported target area and complete the sabotage without wasting explosives on unrelated structures.",
+          "description_i18n": {
+            "en": "Infiltrate the reported target area and complete the sabotage without wasting explosives on unrelated structures.",
+            "pt": "Infiltre-se na área indicada e conclua a sabotagem sem desperdiçar explosivos em estruturas sem relação."
+          }
+        },
+        {
+          "key": "diversion-research-town",
+          "title": "Complete the remaining selected diversions",
+          "title_i18n": {
+            "en": "Complete the remaining selected diversions",
+            "pt": "Concluir as demais distrações selecionadas"
+          },
+          "description": "Work through the Research Lab and Town reports as needed to weaken the bridge approach; detailed targets are in Details.",
+          "description_i18n": {
+            "en": "Work through the Research Lab and Town reports as needed to weaken the bridge approach; detailed targets are in Details.",
+            "pt": "Conclua os relatórios do Laboratório e da Cidade conforme necessário para enfraquecer a aproximação da ponte; os alvos estão nos Detalhes."
+          }
+        },
+        {
+          "key": "cross-opened-rail-route",
+          "title": "Cross the Rail Bridge route",
+          "title_i18n": {
+            "en": "Cross the Rail Bridge route",
+            "pt": "Atravessar a rota da Ponte Ferroviária"
+          },
+          "description": "Return after the diversion progress and reach the marked destination beyond the bridge.",
+          "description_i18n": {
+            "en": "Return after the diversion progress and reach the marked destination beyond the bridge.",
+            "pt": "Volte após avançar nas distrações e chegue ao destino marcado além da ponte."
+          }
+        }
+      ]
+    },
+    {
+      "key": "harbor-warhead-python",
+      "title": "Harbor, Warhead Storage and Python",
+      "title_i18n": {
+        "en": "Harbor, Warhead Storage and Python",
+        "pt": "Porto, Depósito de Ogivas e Python"
+      },
+      "items": [
+        {
+          "key": "infiltrate-harbor",
+          "title": "Infiltrate the Harbor",
+          "title_i18n": {
+            "en": "Infiltrate the Harbor",
+            "pt": "Infiltrar o Porto"
+          },
+          "description": "Approach the docked ship and inspect its upper and lower routes before entering the hold.",
+          "description_i18n": {
+            "en": "Approach the docked ship and inspect its upper and lower routes before entering the hold.",
+            "pt": "Aproxime-se do navio atracado e examine as rotas superiores e inferiores antes de entrar no porão."
+          }
+        },
+        {
+          "key": "finish-harbor-investigation",
+          "title": "Complete the Harbor investigation",
+          "title_i18n": {
+            "en": "Complete the Harbor investigation",
+            "pt": "Concluir a investigação do Porto"
+          },
+          "description": "Follow the ship's story encounter and continue to the marked objective afterward.",
+          "description_i18n": {
+            "en": "Follow the ship's story encounter and continue to the marked objective afterward.",
+            "pt": "Acompanhe o encontro da história no navio e depois continue ao objetivo marcado."
+          }
+        },
+        {
+          "key": "reveal-security-base-objective",
+          "title": "Reveal the Security Base objective",
+          "title_i18n": {
+            "en": "Reveal the Security Base objective",
+            "pt": "Revelar o objetivo da Base de Segurança"
+          },
+          "description": "Use the next spy report to identify the documents needed for the warhead route.",
+          "description_i18n": {
+            "en": "Use the next spy report to identify the documents needed for the warhead route.",
+            "pt": "Use o próximo relatório de espionagem para identificar os documentos necessários à rota das ogivas."
+          }
+        },
+        {
+          "key": "retrieve-security-base-map",
+          "title": "Retrieve the Security Base map",
+          "title_i18n": {
+            "en": "Retrieve the Security Base map",
+            "pt": "Recuperar o mapa da Base de Segurança"
+          },
+          "description": "Infiltrate the relevant building and search the marked upper room for the required documents.",
+          "description_i18n": {
+            "en": "Infiltrate the relevant building and search the marked upper room for the required documents.",
+            "pt": "Infiltre-se no prédio relevante e procure os documentos necessários na sala superior indicada."
+          }
+        },
+        {
+          "key": "prepare-warhead-storage",
+          "title": "Prepare for Warhead Storage",
+          "title_i18n": {
+            "en": "Prepare for Warhead Storage",
+            "pt": "Preparar-se para o Depósito de Ogivas"
+          },
+          "description": "Bring the required demolition equipment and a loadout suitable for the encounter that follows.",
+          "description_i18n": {
+            "en": "Bring the required demolition equipment and a loadout suitable for the encounter that follows.",
+            "pt": "Leve o equipamento de demolição exigido e um conjunto adequado ao confronto seguinte."
+          }
+        },
+        {
+          "key": "complete-warhead-objective",
+          "title": "Complete the Warhead Storage objective",
+          "title_i18n": {
+            "en": "Complete the Warhead Storage objective",
+            "pt": "Concluir o objetivo no Depósito de Ogivas"
+          },
+          "description": "Follow the facility's sequence of objectives and reach the designated sabotage point.",
+          "description_i18n": {
+            "en": "Follow the facility's sequence of objectives and reach the designated sabotage point.",
+            "pt": "Siga a sequência de objetivos das instalações e chegue ao ponto de sabotagem indicado."
+          }
+        },
+        {
+          "key": "defeat-python",
+          "title": "Defeat Python",
+          "title_i18n": {
+            "en": "Defeat Python",
+            "pt": "Derrotar Python"
+          },
+          "description": "Finish the boss encounter; inspect Details beforehand if recruiting Python is part of your optional goals.",
+          "description_i18n": {
+            "en": "Finish the boss encounter; inspect Details beforehand if recruiting Python is part of your optional goals.",
+            "pt": "Conclua o confronto com o chefe; confira os Detalhes antes se recrutar Python estiver entre suas metas opcionais."
+          },
+          "details": "To recruit Python, deplete his stamina with the Mk22 or another suitable nonlethal weapon rather than emptying his life bar. Keep moving around the arena and maintain enough distance to avoid contact with his suit. Do not waste shots into the nitrogen discharge. If a weapon freezes, retreat and allow it to recover instead of trying to fire continuously. Bring healing before entering: choosing the nonlethal outcome changes the recruitment result, but does not make his attacks harmless.",
+          "details_i18n": {
+            "en": "To recruit Python, deplete his stamina with the Mk22 or another suitable nonlethal weapon rather than emptying his life bar. Keep moving around the arena and maintain enough distance to avoid contact with his suit. Do not waste shots into the nitrogen discharge. If a weapon freezes, retreat and allow it to recover instead of trying to fire continuously. Bring healing before entering: choosing the nonlethal outcome changes the recruitment result, but does not make his attacks harmless.",
+            "pt": "Para recrutar Python, esgote o vigor com Mk22 ou outra arma não letal adequada em vez de zerar a vida. Continue se movendo pela arena e mantenha distância suficiente para evitar contato com o traje. Não desperdice disparos na descarga de nitrogênio. Se a arma congelar, recue e espere a recuperação em vez de tentar disparar continuamente. Leve cura antes de entrar: escolher o desfecho não letal muda o recrutamento, mas não torna os ataques inofensivos."
+          }
+        }
+      ]
+    },
+    {
+      "key": "airport-first-null",
+      "title": "Airport intelligence and the first Null encounter",
+      "title_i18n": {
+        "en": "Airport intelligence and the first Null encounter",
+        "pt": "Informações do Aeroporto e primeiro encontro com Null"
+      },
+      "items": [
+        {
+          "key": "reveal-airport-lead",
+          "title": "Read the Airport lead",
+          "title_i18n": {
+            "en": "Read the Airport lead",
+            "pt": "Ler a pista do Aeroporto"
+          },
+          "description": "Review the report after Python and identify the next interrogation objective.",
+          "description_i18n": {
+            "en": "Review the report after Python and identify the next interrogation objective.",
+            "pt": "Confira o relatório após Python e identifique o próximo objetivo de interrogatório."
+          }
+        },
+        {
+          "key": "infiltrate-airport",
+          "title": "Infiltrate the Airport",
+          "title_i18n": {
+            "en": "Infiltrate the Airport",
+            "pt": "Infiltrar o Aeroporto"
+          },
+          "description": "Use cover through the terminal and reach the upper offices without starting an unnecessary search.",
+          "description_i18n": {
+            "en": "Use cover through the terminal and reach the upper offices without starting an unnecessary search.",
+            "pt": "Use cobertura pelo terminal e chegue aos escritórios superiores sem provocar uma busca desnecessária."
+          }
+        },
+        {
+          "key": "interrogate-airport-official",
+          "title": "Interrogate the Airport official",
+          "title_i18n": {
+            "en": "Interrogate the Airport official",
+            "pt": "Interrogar o oficial do Aeroporto"
+          },
+          "description": "Obtain the required information from the marked official; review the optional recruitment notes before removing him from the area.",
+          "description_i18n": {
+            "en": "Obtain the required information from the marked official; review the optional recruitment notes before removing him from the area.",
+            "pt": "Obtenha as informações necessárias com o oficial marcado; consulte as notas de recrutamento opcional antes de removê-lo da área."
+          }
+        },
+        {
+          "key": "reach-first-silo-entrance",
+          "title": "Reach the Silo Entrance",
+          "title_i18n": {
+            "en": "Reach the Silo Entrance",
+            "pt": "Chegar à Entrada do Silo"
+          },
+          "description": "Follow the new lead and scout the ramps and defended approach before moving deeper.",
+          "description_i18n": {
+            "en": "Follow the new lead and scout the ramps and defended approach before moving deeper.",
+            "pt": "Siga a nova pista e observe as rampas e a aproximação defendida antes de avançar."
+          }
+        },
+        {
+          "key": "prepare-first-null",
+          "title": "Prepare for the first Null encounter",
+          "title_i18n": {
+            "en": "Prepare for the first Null encounter",
+            "pt": "Preparar-se para o primeiro encontro com Null"
+          },
+          "description": "Bring healing and a practical ranged weapon, choosing nonlethal equipment if that is your goal.",
+          "description_i18n": {
+            "en": "Bring healing and a practical ranged weapon, choosing nonlethal equipment if that is your goal.",
+            "pt": "Leve cura e uma arma de alcance adequada, escolhendo equipamento não letal se essa for sua meta."
+          }
+        },
+        {
+          "key": "defeat-first-null",
+          "title": "Complete the first Null encounter",
+          "title_i18n": {
+            "en": "Complete the first Null encounter",
+            "pt": "Concluir o primeiro encontro com Null"
+          },
+          "description": "Adapt to his attack rhythm and follow the story sequence after the fight; tactical openings are in Details.",
+          "description_i18n": {
+            "en": "Adapt to his attack rhythm and follow the story sequence after the fight; tactical openings are in Details.",
+            "pt": "Adapte-se ao ritmo dos ataques e acompanhe a sequência após a luta; as aberturas táticas estão nos Detalhes."
+          },
+          "details": "Null blocks ordinary frontal shots while defending. Keep distance and use cover or lateral movement through his firing sequence, then shoot during the reload opening. A brief side or rear opening while he runs can also work. Do not empty magazines into his raised weapon or rush into machete range after one successful hit. Use the Mk22 or Mosin-Nagant if pursuing stamina damage. The second encounter follows the same basic timing, so retain a loadout you can control reliably.",
+          "details_i18n": {
+            "en": "Null blocks ordinary frontal shots while defending. Keep distance and use cover or lateral movement through his firing sequence, then shoot during the reload opening. A brief side or rear opening while he runs can also work. Do not empty magazines into his raised weapon or rush into machete range after one successful hit. Use the Mk22 or Mosin-Nagant if pursuing stamina damage. The second encounter follows the same basic timing, so retain a loadout you can control reliably.",
+            "pt": "Null bloqueia disparos frontais comuns enquanto se defende. Mantenha distância e use cobertura ou movimento lateral durante a sequência de tiros; ataque na abertura da recarga. Uma abertura lateral ou pelas costas enquanto corre também pode funcionar. Não esvazie carregadores contra a arma erguida nem entre no alcance do facão após acertar um golpe. Use Mk22 ou Mosin-Nagant para causar dano ao vigor. O segundo encontro segue o mesmo ritmo básico; mantenha um conjunto que você controle bem."
+          }
+        }
+      ]
+    },
+    {
+      "key": "snake-rescue-route",
+      "title": "The squad's rescue operation",
+      "title_i18n": {
+        "en": "The squad's rescue operation",
+        "pt": "A operação de resgate do esquadrão"
+      },
+      "items": [
+        {
+          "key": "rebuild-active-field-team",
+          "title": "Review the available field team",
+          "title_i18n": {
+            "en": "Review the available field team",
+            "pt": "Revisar a equipe de campo disponível"
+          },
+          "description": "After the story change, equip available recruits for the next investigations rather than assuming Snake can lead every deployment.",
+          "description_i18n": {
+            "en": "After the story change, equip available recruits for the next investigations rather than assuming Snake can lead every deployment.",
+            "pt": "Após a mudança na história, equipe os recrutas disponíveis para as próximas investigações sem presumir que Snake liderará todas as missões."
+          }
+        },
+        {
+          "key": "interrogate-silo-officer",
+          "title": "Investigate at the Silo Entrance",
+          "title_i18n": {
+            "en": "Investigate at the Silo Entrance",
+            "pt": "Investigar na Entrada do Silo"
+          },
+          "description": "Return with the available team and obtain the information needed to locate the captive.",
+          "description_i18n": {
+            "en": "Return with the available team and obtain the information needed to locate the captive.",
+            "pt": "Retorne com a equipe disponível e obtenha as informações necessárias para localizar o prisioneiro."
+          }
+        },
+        {
+          "key": "deploy-rescue-spies",
+          "title": "Deploy spies for the rescue lead",
+          "title_i18n": {
+            "en": "Deploy spies for the rescue lead",
+            "pt": "Enviar espiões em busca da pista do resgate"
+          },
+          "description": "Inspect the Town and Rail Bridge leads and read new reports before choosing the next infiltration.",
+          "description_i18n": {
+            "en": "Inspect the Town and Rail Bridge leads and read new reports before choosing the next infiltration.",
+            "pt": "Confira as pistas da Cidade e da Ponte Ferroviária e leia novos relatórios antes de escolher a próxima infiltração."
+          }
+        },
+        {
+          "key": "obtain-guest-house-intel",
+          "title": "Obtain Guest House intelligence",
+          "title_i18n": {
+            "en": "Obtain Guest House intelligence",
+            "pt": "Obter informações sobre a Casa de Hóspedes"
+          },
+          "description": "Complete one of the available intelligence routes and reveal the rescue destination.",
+          "description_i18n": {
+            "en": "Complete one of the available intelligence routes and reveal the rescue destination.",
+            "pt": "Conclua uma das rotas disponíveis de investigação e revele o destino do resgate."
+          }
+        },
+        {
+          "key": "infiltrate-guest-house",
+          "title": "Infiltrate the Guest House",
+          "title_i18n": {
+            "en": "Infiltrate the Guest House",
+            "pt": "Infiltrar a Casa de Hóspedes"
+          },
+          "description": "Scout the building's approaches and find the route to the marked lower-level objective.",
+          "description_i18n": {
+            "en": "Scout the building's approaches and find the route to the marked lower-level objective.",
+            "pt": "Observe as entradas do prédio e encontre a rota até o objetivo indicado no nível inferior."
+          }
+        },
+        {
+          "key": "complete-snake-rescue",
+          "title": "Complete the rescue",
+          "title_i18n": {
+            "en": "Complete the rescue",
+            "pt": "Concluir o resgate"
+          },
+          "description": "Reach the captive and finish the story sequence, then recheck the team's condition and available members.",
+          "description_i18n": {
+            "en": "Reach the captive and finish the story sequence, then recheck the team's condition and available members.",
+            "pt": "Chegue ao prisioneiro e conclua a sequência da história; depois confira a condição da equipe e os integrantes disponíveis."
+          }
+        }
+      ]
+    },
+    {
+      "key": "plant-raxa",
+      "title": "The Plant and Metal Gear RAXA",
+      "title_i18n": {
+        "en": "The Plant and Metal Gear RAXA",
+        "pt": "A Fábrica e Metal Gear RAXA"
+      },
+      "items": [
+        {
+          "key": "prepare-plant-infiltration",
+          "title": "Prepare for the Plant operation",
+          "title_i18n": {
+            "en": "Prepare for the Plant operation",
+            "pt": "Preparar-se para a operação na Fábrica"
+          },
+          "description": "Bring enough healing and heavy-weapon ammunition before entering the next major encounter.",
+          "description_i18n": {
+            "en": "Bring enough healing and heavy-weapon ammunition before entering the next major encounter.",
+            "pt": "Leve cura e munição pesada suficientes antes de entrar no próximo grande confronto."
+          }
+        },
+        {
+          "key": "approach-plant-interior",
+          "title": "Approach the Plant interior",
+          "title_i18n": {
+            "en": "Approach the Plant interior",
+            "pt": "Aproximar-se do interior da Fábrica"
+          },
+          "description": "Use the industrial cover and alternative elevations to reach the marked destination.",
+          "description_i18n": {
+            "en": "Use the industrial cover and alternative elevations to reach the marked destination.",
+            "pt": "Use a cobertura industrial e os níveis alternativos para chegar ao destino marcado."
+          }
+        },
+        {
+          "key": "trigger-raxa-encounter",
+          "title": "Reach the RAXA confrontation",
+          "title_i18n": {
+            "en": "Reach the RAXA confrontation",
+            "pt": "Chegar ao confronto com RAXA"
+          },
+          "description": "Follow the story encounter and maintain room to move when the machine becomes active.",
+          "description_i18n": {
+            "en": "Follow the story encounter and maintain room to move when the machine becomes active.",
+            "pt": "Acompanhe o encontro da história e mantenha espaço para se mover quando a máquina entrar em ação."
+          }
+        },
+        {
+          "key": "defeat-raxa",
+          "title": "Defeat Metal Gear RAXA",
+          "title_i18n": {
+            "en": "Defeat Metal Gear RAXA",
+            "pt": "Derrotar Metal Gear RAXA"
+          },
+          "description": "Learn its movement and weapon cycles, then complete the entire encounter; phase-specific guidance is in Details.",
+          "description_i18n": {
+            "en": "Learn its movement and weapon cycles, then complete the entire encounter; phase-specific guidance is in Details.",
+            "pt": "Aprenda os ciclos de movimento e das armas e conclua todo o confronto; os Detalhes explicam as fases."
+          },
+          "details": "Bring the RPG-7 and enough healing before entering the Plant sequence. In the ground phase, target all four legs instead of spending rockets on closed weapon compartments. After the machine changes phase, wait for its missile launchers to open and strike the exposed compartments. Keep ammunition for both sides and evade the missile barrages between openings. A suitable automatic weapon helps when a clean rocket shot is unavailable; standing close to thrusters or beneath a descending machine is dangerous.",
+          "details_i18n": {
+            "en": "Bring the RPG-7 and enough healing before entering the Plant sequence. In the ground phase, target all four legs instead of spending rockets on closed weapon compartments. After the machine changes phase, wait for its missile launchers to open and strike the exposed compartments. Keep ammunition for both sides and evade the missile barrages between openings. A suitable automatic weapon helps when a clean rocket shot is unavailable; standing close to thrusters or beneath a descending machine is dangerous.",
+            "pt": "Leve RPG-7 e cura suficiente antes da sequência da Fábrica. Na fase terrestre, mire nas quatro pernas em vez de gastar foguetes em compartimentos fechados. Quando a máquina mudar de fase, espere os lançadores abrirem e ataque os compartimentos expostos. Reserve munição para os dois lados e evite as barragens de mísseis entre as aberturas. Uma arma automática adequada ajuda quando não há um tiro limpo de foguete; ficar perto dos propulsores ou sob a máquina descendo é perigoso."
+          }
+        },
+        {
+          "key": "review-post-plant-orders",
+          "title": "Review the next orders",
+          "title_i18n": {
+            "en": "Review the next orders",
+            "pt": "Revisar as próximas ordens"
+          },
+          "description": "Follow the scenes after the battle and read the new briefing before assigning the next reconnaissance team.",
+          "description_i18n": {
+            "en": "Follow the scenes after the battle and read the new briefing before assigning the next reconnaissance team.",
+            "pt": "Acompanhe as cenas após a batalha e leia as novas instruções antes de distribuir a próxima equipe de reconhecimento."
+          }
+        }
+      ]
+    },
+    {
+      "key": "ravine-power-substation",
+      "title": "Ravine and Power Substation",
+      "title_i18n": {
+        "en": "Ravine and Power Substation",
+        "pt": "Ravina e Subestação de Energia"
+      },
+      "items": [
+        {
+          "key": "identify-power-route",
+          "title": "Identify the power-supply route",
+          "title_i18n": {
+            "en": "Identify the power-supply route",
+            "pt": "Identificar a rota de fornecimento de energia"
+          },
+          "description": "Use the updated reports to locate the next approach toward the power facilities.",
+          "description_i18n": {
+            "en": "Use the updated reports to locate the next approach toward the power facilities.",
+            "pt": "Use os relatórios atualizados para localizar a próxima aproximação às instalações de energia."
+          }
+        },
+        {
+          "key": "cross-ravine",
+          "title": "Cross the Ravine",
+          "title_i18n": {
+            "en": "Cross the Ravine",
+            "pt": "Atravessar a Ravina"
+          },
+          "description": "Inspect ledges and alternate paths carefully and reach the marked reconnaissance point.",
+          "description_i18n": {
+            "en": "Inspect ledges and alternate paths carefully and reach the marked reconnaissance point.",
+            "pt": "Examine saliências e caminhos alternativos com cuidado e chegue ao ponto de reconhecimento indicado."
+          }
+        },
+        {
+          "key": "locate-switchboard",
+          "title": "Locate the switchboard",
+          "title_i18n": {
+            "en": "Locate the switchboard",
+            "pt": "Localizar o quadro elétrico"
+          },
+          "description": "Infiltrate the Power Substation and complete the initial inspection of the marked room.",
+          "description_i18n": {
+            "en": "Infiltrate the Power Substation and complete the initial inspection of the marked room.",
+            "pt": "Infiltre-se na Subestação e conclua a primeira inspeção da sala marcada."
+          }
+        },
+        {
+          "key": "prepare-substation-return",
+          "title": "Prepare the return operation",
+          "title_i18n": {
+            "en": "Prepare the return operation",
+            "pt": "Preparar a operação de retorno"
+          },
+          "description": "Review the new mission-specific equipment and restore the chosen soldier's condition before returning.",
+          "description_i18n": {
+            "en": "Review the new mission-specific equipment and restore the chosen soldier's condition before returning.",
+            "pt": "Confira o novo equipamento específico da missão e recupere a condição do soldado escolhido antes de voltar."
+          }
+        },
+        {
+          "key": "complete-substation-sabotage",
+          "title": "Complete the substation sabotage",
+          "title_i18n": {
+            "en": "Complete the substation sabotage",
+            "pt": "Concluir a sabotagem da subestação"
+          },
+          "description": "Return to the inspected objective and follow the deployment instructions through the resulting sequence.",
+          "description_i18n": {
+            "en": "Return to the inspected objective and follow the deployment instructions through the resulting sequence.",
+            "pt": "Volte ao objetivo inspecionado e siga as instruções da missão até concluir a sequência resultante."
+          }
+        },
+        {
+          "key": "defeat-second-null",
+          "title": "Complete the second Null encounter",
+          "title_i18n": {
+            "en": "Complete the second Null encounter",
+            "pt": "Concluir o segundo encontro com Null"
+          },
+          "description": "Use the lessons from the earlier duel and finish the encounter before resuming the silo operation.",
+          "description_i18n": {
+            "en": "Use the lessons from the earlier duel and finish the encounter before resuming the silo operation.",
+            "pt": "Use as lições do duelo anterior e conclua o confronto antes de retomar a operação no silo."
+          }
+        }
+      ]
+    },
+    {
+      "key": "silo-complex-cunningham",
+      "title": "The silo route and Cunningham",
+      "title_i18n": {
+        "en": "The silo route and Cunningham",
+        "pt": "A rota do silo e Cunningham"
+      },
+      "items": [
+        {
+          "key": "prepare-timed-silo-entry",
+          "title": "Prepare the timed Silo Entrance run",
+          "title_i18n": {
+            "en": "Prepare the timed Silo Entrance run",
+            "pt": "Preparar a entrada cronometrada no silo"
+          },
+          "description": "Equip a suitable field soldier and review the known route before starting the timed approach.",
+          "description_i18n": {
+            "en": "Equip a suitable field soldier and review the known route before starting the timed approach.",
+            "pt": "Equipe um soldado adequado e revise a rota conhecida antes de começar a aproximação cronometrada."
+          }
+        },
+        {
+          "key": "complete-timed-silo-entry",
+          "title": "Reach the silo door in time",
+          "title_i18n": {
+            "en": "Reach the silo door in time",
+            "pt": "Chegar à porta do silo a tempo"
+          },
+          "description": "Move toward the marked lower entrance promptly and avoid turning the timed run into a collection trip.",
+          "description_i18n": {
+            "en": "Move toward the marked lower entrance promptly and avoid turning the timed run into a collection trip.",
+            "pt": "Avance prontamente à entrada inferior marcada e não transforme a corrida com prazo em uma busca por itens."
+          }
+        },
+        {
+          "key": "enter-silo-complex",
+          "title": "Enter the Silo Complex",
+          "title_i18n": {
+            "en": "Enter the Silo Complex",
+            "pt": "Entrar no Complexo do Silo"
+          },
+          "description": "Inspect the interior map and floor changes before moving through the first secured section.",
+          "description_i18n": {
+            "en": "Inspect the interior map and floor changes before moving through the first secured section.",
+            "pt": "Examine o mapa interno e as mudanças de andar antes de atravessar o primeiro setor protegido."
+          }
+        },
+        {
+          "key": "resolve-silo-locks",
+          "title": "Resolve the silo's locked passages",
+          "title_i18n": {
+            "en": "Resolve the silo's locked passages",
+            "pt": "Abrir as passagens trancadas do silo"
+          },
+          "description": "Search for key and radio clues as the doors require them; exact help is available in Details.",
+          "description_i18n": {
+            "en": "Search for key and radio clues as the doors require them; exact help is available in Details.",
+            "pt": "Procure pistas de chaves e rádio conforme as portas exigirem; há orientação exata nos Detalhes."
+          },
+          "details": "Search the accessible storage area for the first key; its placement can differ with difficulty. For the radio-locked doors, approach the relevant door and use the clues obtained from guards. The verified frequencies for the successive secured passages are 145.75, 147.42 and 148.51. A radio code does not replace the physical keys elsewhere in the route. Continue exploring the upper rooms for the later key, then use the ledge route downward to reach the final locked section.",
+          "details_i18n": {
+            "en": "Search the accessible storage area for the first key; its placement can differ with difficulty. For the radio-locked doors, approach the relevant door and use the clues obtained from guards. The verified frequencies for the successive secured passages are 145.75, 147.42 and 148.51. A radio code does not replace the physical keys elsewhere in the route. Continue exploring the upper rooms for the later key, then use the ledge route downward to reach the final locked section.",
+            "pt": "Procure a primeira chave no depósito acessível; o local pode variar com a dificuldade. Nas portas controladas por rádio, aproxime-se da porta correspondente e use as pistas obtidas com guardas. As frequências verificadas das passagens sucessivas são 145.75, 147.42 e 148.51. Um código de rádio não substitui as chaves físicas de outros trechos. Continue pelas salas superiores para obter a chave posterior e use a rota pela borda para descer ao último setor trancado."
+          }
+        },
+        {
+          "key": "reach-inner-silo-route",
+          "title": "Reach the inner silo route",
+          "title_i18n": {
+            "en": "Reach the inner silo route",
+            "pt": "Chegar à rota interna do silo"
+          },
+          "description": "Collect the required later key and use the available elevation changes to reach the next marked destination.",
+          "description_i18n": {
+            "en": "Collect the required later key and use the available elevation changes to reach the next marked destination.",
+            "pt": "Obtenha a chave posterior necessária e use as mudanças de nível para chegar ao próximo destino marcado."
+          }
+        },
+        {
+          "key": "prepare-elevator-battle",
+          "title": "Prepare for the elevator confrontation",
+          "title_i18n": {
+            "en": "Prepare for the elevator confrontation",
+            "pt": "Preparar-se para o confronto no elevador"
+          },
+          "description": "Check healing and a dependable ranged loadout before beginning the next boss sequence.",
+          "description_i18n": {
+            "en": "Check healing and a dependable ranged loadout before beginning the next boss sequence.",
+            "pt": "Confira a cura e um conjunto confiável de armas de alcance antes de começar a próxima sequência de chefe."
+          }
+        },
+        {
+          "key": "defeat-cunningham",
+          "title": "Defeat Cunningham",
+          "title_i18n": {
+            "en": "Defeat Cunningham",
+            "pt": "Derrotar Cunningham"
+          },
+          "description": "Track his platform's movement, avoid exposed reloads and finish the confrontation before advancing.",
+          "description_i18n": {
+            "en": "Track his platform's movement, avoid exposed reloads and finish the confrontation before advancing.",
+            "pt": "Acompanhe o movimento da plataforma, evite recarregar exposto e conclua o confronto antes de avançar."
+          }
+        }
+      ]
+    },
+    {
+      "key": "gene-campaign-finale",
+      "title": "Gene and the campaign finale",
+      "title_i18n": {
+        "en": "Gene and the campaign finale",
+        "pt": "Gene e o final da campanha"
+      },
+      "items": [
+        {
+          "key": "prepare-final-confrontation",
+          "title": "Prepare the final confrontation",
+          "title_i18n": {
+            "en": "Prepare the final confrontation",
+            "pt": "Preparar o confronto final"
+          },
+          "description": "Restore the chosen character and bring a reliable close-to-medium-range loadout before the final deployment.",
+          "description_i18n": {
+            "en": "Restore the chosen character and bring a reliable close-to-medium-range loadout before the final deployment.",
+            "pt": "Recupere o personagem escolhido e leve equipamentos confiáveis de curto a médio alcance antes da missão final."
+          }
+        },
+        {
+          "key": "enter-launch-control-room",
+          "title": "Enter the Launch Control Room",
+          "title_i18n": {
+            "en": "Enter the Launch Control Room",
+            "pt": "Entrar na Sala de Controle de Lançamento"
+          },
+          "description": "Follow the unlocked route and complete the story scenes leading to the final duel.",
+          "description_i18n": {
+            "en": "Follow the unlocked route and complete the story scenes leading to the final duel.",
+            "pt": "Siga a rota liberada e acompanhe as cenas que levam ao duelo final."
+          }
+        },
+        {
+          "key": "defeat-gene",
+          "title": "Defeat Gene",
+          "title_i18n": {
+            "en": "Defeat Gene",
+            "pt": "Derrotar Gene"
+          },
+          "description": "Read his attack cues and use deliberate recovery windows; Details explains the unusual defensive and pressure mechanics.",
+          "description_i18n": {
+            "en": "Read his attack cues and use deliberate recovery windows; Details explains the unusual defensive and pressure mechanics.",
+            "pt": "Observe os sinais dos ataques e use aberturas de recuperação planejadas; os Detalhes explicam as mecânicas incomuns de defesa e pressão."
+          },
+          "details": "Gene avoids many shots while freely moving, so attack in his recovery windows rather than spraying continuously. Evade the glowing rush sideways, then punish the pause afterward. The moment after a knife sequence or an exposed back during movement also offers an opening. His voice-based pressure can be interrupted with a stun grenade; use that space to regain control and heal if necessary. Keep a dependable weapon ready and avoid sacrificing your remaining health for one speculative shot.",
+          "details_i18n": {
+            "en": "Gene avoids many shots while freely moving, so attack in his recovery windows rather than spraying continuously. Evade the glowing rush sideways, then punish the pause afterward. The moment after a knife sequence or an exposed back during movement also offers an opening. His voice-based pressure can be interrupted with a stun grenade; use that space to regain control and heal if necessary. Keep a dependable weapon ready and avoid sacrificing your remaining health for one speculative shot.",
+            "pt": "Gene evita muitos disparos enquanto se move livremente; ataque nas recuperações em vez de atirar sem parar. Desvie lateralmente da investida luminosa e aproveite a pausa seguinte. O instante após uma sequência de facas ou as costas expostas durante o movimento também oferecem aberturas. Uma granada de atordoamento pode interromper a pressão pela voz; use esse espaço para recuperar o controle e curar-se se necessário. Mantenha uma arma confiável pronta e não arrisque a vida restante em um disparo incerto."
+          }
+        },
+        {
+          "key": "follow-icbm-conclusion",
+          "title": "Follow the ICBM crisis conclusion",
+          "title_i18n": {
+            "en": "Follow the ICBM crisis conclusion",
+            "pt": "Acompanhar a conclusão da crise do ICBM"
+          },
+          "description": "Continue through the missile-launch aftermath and concluding scenes rather than stopping immediately after the duel.",
+          "description_i18n": {
+            "en": "Continue through the missile-launch aftermath and concluding scenes rather than stopping immediately after the duel.",
+            "pt": "Acompanhe as consequências do lançamento e as cenas finais em vez de parar logo após o duelo."
+          }
+        },
+        {
+          "key": "view-ending-save-clear",
+          "title": "View the ending and preserve clear data",
+          "title_i18n": {
+            "en": "View the ending and preserve clear data",
+            "pt": "Assistir ao final e preservar os dados de conclusão"
+          },
+          "description": "Watch the credits and final material, then follow the clear-data save prompts before any optional replay.",
+          "description_i18n": {
+            "en": "Watch the credits and final material, then follow the clear-data save prompts before any optional replay.",
+            "pt": "Assista aos créditos e ao material final e siga as instruções para salvar os dados de conclusão antes de repetir a campanha."
+          }
+        }
+      ]
+    },
+    {
+      "key": "selected-optional-recruits",
+      "title": "Selected optional recruitment goals",
+      "title_i18n": {
+        "en": "Selected optional recruitment goals",
+        "pt": "Metas selecionadas de recrutamento opcional"
+      },
+      "items": [
+        {
+          "key": "recruit-para-medic",
+          "title": "Recruit Para-Medic",
+          "title_i18n": {
+            "en": "Recruit Para-Medic",
+            "pt": "Recrutar Para-Medic"
+          },
+          "description": "Investigate the Communications Base follow-up early and complete the medical contact's recruitment thread.",
+          "description_i18n": {
+            "en": "Investigate the Communications Base follow-up early and complete the medical contact's recruitment thread.",
+            "pt": "Investigue cedo o retorno à Base de Comunicações e conclua a sequência de recrutamento do contato médico."
+          },
+          "details": "After obtaining the malaria-treatment lead and medicine, revisit the Communications Base before the first Rail Bridge mission. Reach the radio objective and complete the conversation inviting Para-Medic. Assign spies to the Hospital and follow its outstanding reports until her arrival is reported. Visit the marked prisoner/contact location there to complete recruitment, then inspect her Medical skills. Saving before this early branch helps preserve a recovery point if you advance past its availability window.",
+          "details_i18n": {
+            "en": "After obtaining the malaria-treatment lead and medicine, revisit the Communications Base before the first Rail Bridge mission. Reach the radio objective and complete the conversation inviting Para-Medic. Assign spies to the Hospital and follow its outstanding reports until her arrival is reported. Visit the marked prisoner/contact location there to complete recruitment, then inspect her Medical skills. Saving before this early branch helps preserve a recovery point if you advance past its availability window.",
+            "pt": "Após obter a pista do tratamento de malária e o remédio, revisite a Base de Comunicações antes da primeira missão da Ponte Ferroviária. Chegue ao objetivo de rádio e conclua a conversa convidando Para-Medic. Envie espiões ao Hospital e siga seus relatórios pendentes até receber o aviso de chegada. Visite o local de contato ou prisioneiro marcado para recrutá-la e confira as habilidades médicas. Salvar antes desse desvio inicial preserva um ponto de retorno se passar da janela disponível."
+          }
+        },
+        {
+          "key": "recruit-sigint",
+          "title": "Recruit Sigint",
+          "title_i18n": {
+            "en": "Recruit Sigint",
+            "pt": "Recrutar Sigint"
+          },
+          "description": "After the rescue operation, follow the optional communications and intelligence reports for the technical adviser.",
+          "description_i18n": {
+            "en": "After the rescue operation, follow the optional communications and intelligence reports for the technical adviser.",
+            "pt": "Após a operação de resgate, siga as comunicações e os relatórios opcionais para encontrar o consultor técnico."
+          },
+          "details": "After rescuing Snake, return to the Communications Base and use the marked communications point to invite Sigint. Keep spies in Town and complete or investigate its pending reports until the report about his arrival appears. Follow that report's destination and finish the contact rather than expecting the initial radio invitation to add him immediately. Once he joins, inspect his Technical skill and consider assigning him to support instead of automatically keeping him in the field team.",
+          "details_i18n": {
+            "en": "After rescuing Snake, return to the Communications Base and use the marked communications point to invite Sigint. Keep spies in Town and complete or investigate its pending reports until the report about his arrival appears. Follow that report's destination and finish the contact rather than expecting the initial radio invitation to add him immediately. Once he joins, inspect his Technical skill and consider assigning him to support instead of automatically keeping him in the field team.",
+            "pt": "Após resgatar Snake, volte à Base de Comunicações e use o ponto marcado para convidar Sigint. Mantenha espiões na Cidade e conclua ou investigue os relatórios pendentes até surgir o aviso da chegada dele. Siga o destino indicado e conclua o contato; o convite por rádio não o adiciona imediatamente. Quando entrar no grupo, confira sua habilidade Técnica e considere colocá-lo no apoio em vez de mantê-lo automaticamente na equipe de campo."
+          }
+        },
+        {
+          "key": "recruit-raikov",
+          "title": "Recruit Raikov",
+          "title_i18n": {
+            "en": "Recruit Raikov",
+            "pt": "Recrutar Raikov"
+          },
+          "description": "Investigate the Town's optional lead before completing the rescue window and follow the new area's reports.",
+          "description_i18n": {
+            "en": "Investigate the Town's optional lead before completing the rescue window and follow the new area's reports.",
+            "pt": "Investigue a pista opcional da Cidade antes de encerrar a janela do resgate e acompanhe os relatórios da nova área."
+          },
+          "details": "During Snake's captivity, place spies in Town and investigate the optional map report before completing the rescue progression. Recover the map to reveal Western Wilderness, then deploy spies there. Read the report about the captive officer and visit its marked rescue location. Recover Raikov to the truck and confirm his recruitment. This is a selected optional branch with a story window, so keep an earlier save rather than assuming every recruitment report remains available after the finale.",
+          "details_i18n": {
+            "en": "During Snake's captivity, place spies in Town and investigate the optional map report before completing the rescue progression. Recover the map to reveal Western Wilderness, then deploy spies there. Read the report about the captive officer and visit its marked rescue location. Recover Raikov to the truck and confirm his recruitment. This is a selected optional branch with a story window, so keep an earlier save rather than assuming every recruitment report remains available after the finale.",
+            "pt": "Durante o cativeiro de Snake, envie espiões à Cidade e investigue o relatório opcional do mapa antes de concluir o resgate. Recupere o mapa para revelar Western Wilderness e envie espiões para lá. Leia o relatório sobre o oficial cativo e visite o local de resgate marcado. Leve Raikov ao caminhão e confirme o recrutamento. É um desvio opcional com janela na história; mantenha um arquivo anterior em vez de presumir que todos os relatórios continuam disponíveis após o final."
+          }
+        },
+        {
+          "key": "recruit-python-option",
+          "title": "Keep Python's recruitment route available",
+          "title_i18n": {
+            "en": "Keep Python's recruitment route available",
+            "pt": "Manter disponível a rota de recrutamento de Python"
+          },
+          "description": "Use the optional outcome described in the boss's Details; a normal victory and recruitment are different goals.",
+          "description_i18n": {
+            "en": "Use the optional outcome described in the boss's Details; a normal victory and recruitment are different goals.",
+            "pt": "Use o desfecho opcional explicado nos Detalhes do chefe; uma vitória comum e o recrutamento são metas diferentes."
+          }
+        },
+        {
+          "key": "recruit-sokolov",
+          "title": "Recruit Sokolov",
+          "title_i18n": {
+            "en": "Recruit Sokolov",
+            "pt": "Recrutar Sokolov"
+          },
+          "description": "Follow the late Harbor and Plant intelligence thread and finish the requested recovery chain.",
+          "description_i18n": {
+            "en": "Follow the late Harbor and Plant intelligence thread and finish the requested recovery chain.",
+            "pt": "Siga a investigação tardia do Porto e da Fábrica e conclua a sequência de recuperação solicitada."
+          },
+          "details": "After the later story progression, keep spies at Harbor and Plant until the report about remaining Metal Gear parts appears. Investigate the Harbor contact and follow the blueprint request. At the Power Substation, interrogate guards for the radio clue; 145.61 opens the relevant Silo Entrance room when used beside its door. Collect the blueprints, then follow the new Plant rescue report and reach Sokolov's room. Complete the encounter and check his entry in the roster.",
+          "details_i18n": {
+            "en": "After the later story progression, keep spies at Harbor and Plant until the report about remaining Metal Gear parts appears. Investigate the Harbor contact and follow the blueprint request. At the Power Substation, interrogate guards for the radio clue; 145.61 opens the relevant Silo Entrance room when used beside its door. Collect the blueprints, then follow the new Plant rescue report and reach Sokolov's room. Complete the encounter and check his entry in the roster.",
+            "pt": "Após avançar na história, mantenha espiões no Porto e na Fábrica até surgir o relatório sobre peças restantes de Metal Gear. Investigue o contato no Porto e siga o pedido dos projetos. Na Subestação, interrogue guardas para obter a pista de rádio; 145.61 abre a sala correspondente na Entrada do Silo quando usado junto à porta. Recolha os projetos, siga o novo relatório de resgate na Fábrica e chegue à sala de Sokolov. Conclua o encontro e confira sua entrada no elenco."
+          }
+        },
+        {
+          "key": "recruit-eva",
+          "title": "Recruit EVA",
+          "title_i18n": {
+            "en": "Recruit EVA",
+            "pt": "Recrutar EVA"
+          },
+          "description": "After the earlier prerequisites, pursue the optional multi-area contact chain; instructions are in Details.",
+          "description_i18n": {
+            "en": "After the earlier prerequisites, pursue the optional multi-area contact chain; instructions are in Details.",
+            "pt": "Após os requisitos anteriores, siga a sequência opcional de contatos em várias áreas; há instruções nos Detalhes."
+          },
+          "details": "Preserve the Airport's suited official for the optional contact chain: interrogate rather than recruit him during the earlier story visit. After recruiting Sokolov, deploy spies in Town, Western Wilderness and Guest House. Follow the Silo Entrance officer's lead, the nighttime Town contact and the Airport interrogation to obtain 141.23. Continue the Guest House and Western Wilderness reports, then inspect the Security Base locker clue. Contact EVA at the Communications Base, follow the stated waiting period and investigate the resulting Airport and Western Wilderness rescue reports.",
+          "details_i18n": {
+            "en": "Preserve the Airport's suited official for the optional contact chain: interrogate rather than recruit him during the earlier story visit. After recruiting Sokolov, deploy spies in Town, Western Wilderness and Guest House. Follow the Silo Entrance officer's lead, the nighttime Town contact and the Airport interrogation to obtain 141.23. Continue the Guest House and Western Wilderness reports, then inspect the Security Base locker clue. Contact EVA at the Communications Base, follow the stated waiting period and investigate the resulting Airport and Western Wilderness rescue reports.",
+            "pt": "Preserve o oficial de terno do Aeroporto para a sequência opcional: interrogue-o em vez de recrutá-lo na visita anterior da história. Após recrutar Sokolov, envie espiões à Cidade, Western Wilderness e Casa de Hóspedes. Siga a pista do oficial da Entrada do Silo, o contato noturno na Cidade e o interrogatório no Aeroporto para obter 141.23. Continue os relatórios da Casa de Hóspedes e de Western Wilderness e examine a pista no armário da Base de Segurança. Contate EVA na Base de Comunicações, cumpra a espera indicada e investigue os relatórios resultantes do Aeroporto e do resgate em Western Wilderness."
+          }
+        },
+        {
+          "key": "recruit-ocelot",
+          "title": "Pursue Ocelot's optional unlock",
+          "title_i18n": {
+            "en": "Pursue Ocelot's optional unlock",
+            "pt": "Buscar a liberação opcional de Ocelot"
+          },
+          "description": "Complete the related recruit prerequisites and follow the Ravine contact through the clear-data conclusion.",
+          "description_i18n": {
+            "en": "Complete the related recruit prerequisites and follow the Ravine contact through the clear-data conclusion.",
+            "pt": "Conclua os recrutamentos necessários e siga o contato da Ravina até a conclusão com dados salvos."
+          },
+          "details": "Recruit Sokolov and EVA through their in-game chains first. Visit the Ravine for the new contact, inspect its upper cave for Key C and follow the marked communications objective using the 141.23 clue. Complete Ocelot's contact sequence and finish the campaign. Preserve the ending's clear data and load the resulting replay data to check the new recruit notification. Do not confuse this campaign unlock with Portable Ops Plus passwords or online-only recruitment methods.",
+          "details_i18n": {
+            "en": "Recruit Sokolov and EVA through their in-game chains first. Visit the Ravine for the new contact, inspect its upper cave for Key C and follow the marked communications objective using the 141.23 clue. Complete Ocelot's contact sequence and finish the campaign. Preserve the ending's clear data and load the resulting replay data to check the new recruit notification. Do not confuse this campaign unlock with Portable Ops Plus passwords or online-only recruitment methods.",
+            "pt": "Recrute Sokolov e EVA primeiro pelas sequências dentro do jogo. Visite a Ravina para o novo contato, examine a caverna superior em busca de Key C e siga o objetivo de comunicação marcado usando a pista 141.23. Conclua o contato com Ocelot e termine a campanha. Preserve os dados de conclusão e carregue os dados resultantes de repetição para conferir o aviso do novo recruta. Não confunda essa liberação com senhas de Portable Ops Plus ou métodos exclusivos de recrutamento online."
+          }
+        },
+        {
+          "key": "review-clear-data-recruits",
+          "title": "Review recruits unlocked through clear data",
+          "title_i18n": {
+            "en": "Review recruits unlocked through clear data",
+            "pt": "Conferir recrutas liberados pelos dados de conclusão"
+          },
+          "description": "Inspect the results after loading completed-game data; optional special-character conditions are not all individually enumerated here.",
+          "description_i18n": {
+            "en": "Inspect the results after loading completed-game data; optional special-character conditions are not all individually enumerated here.",
+            "pt": "Confira os resultados ao carregar dados de jogo concluído; as condições de todos os personagens especiais não estão enumeradas individualmente aqui."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "optional-support-and-squad",
+      "title": "Optional support and squad goals",
+      "title_i18n": {
+        "en": "Optional support and squad goals",
+        "pt": "Metas opcionais de apoio e esquadrão"
+      },
+      "items": [
+        {
+          "key": "use-uniform-disguise",
+          "title": "Use a matching-uniform infiltration",
+          "title_i18n": {
+            "en": "Use a matching-uniform infiltration",
+            "pt": "Usar um uniforme compatível na infiltração"
+          },
+          "description": "Select a suitable recruit for an area and watch the chameleon indicator; this is not a universal disguise for Snake.",
+          "description_i18n": {
+            "en": "Select a suitable recruit for an area and watch the chameleon indicator; this is not a universal disguise for Snake.",
+            "pt": "Selecione um recruta adequado à área e observe o indicador de camaleão; não é um disfarce universal para Snake."
+          },
+          "details": "Choose a recruit whose uniform matches the soldiers in that area and confirm that the blue chameleon icon appears. Snake does not gain this disguise benefit. Keep ordinary movement and avoid suspicious actions; a different enemy faction or an exposed hostile action can break the deception. The icon is useful confirmation, not invulnerability. Plan teammate changes while hidden, because the game does not allow a character switch after the enemy has spotted you.",
+          "details_i18n": {
+            "en": "Choose a recruit whose uniform matches the soldiers in that area and confirm that the blue chameleon icon appears. Snake does not gain this disguise benefit. Keep ordinary movement and avoid suspicious actions; a different enemy faction or an exposed hostile action can break the deception. The icon is useful confirmation, not invulnerability. Plan teammate changes while hidden, because the game does not allow a character switch after the enemy has spotted you.",
+            "pt": "Escolha um recruta com uniforme compatível com os soldados da área e confirme o ícone azul de camaleão. Snake não recebe esse benefício. Mantenha movimentos normais e evite ações suspeitas; outra facção inimiga ou uma ação hostil exposta pode quebrar o disfarce. O ícone é uma confirmação útil, não invulnerabilidade. Planeje trocas de integrantes enquanto estiver escondido, pois o jogo não permite trocar após ser visto pelo inimigo."
+          }
+        },
+        {
+          "key": "recruit-rescuer-specialist",
+          "title": "Recruit a recovery specialist",
+          "title_i18n": {
+            "en": "Recruit a recovery specialist",
+            "pt": "Recrutar um especialista em recuperação"
+          },
+          "description": "Inspect career traits such as Rescuer when choosing a soldier to bring captives back efficiently.",
+          "description_i18n": {
+            "en": "Inspect career traits such as Rescuer when choosing a soldier to bring captives back efficiently.",
+            "pt": "Confira características como Rescuer ao escolher um soldado para trazer prisioneiros com eficiência."
+          }
+        },
+        {
+          "key": "strengthen-medical-unit",
+          "title": "Strengthen the Medical Unit",
+          "title_i18n": {
+            "en": "Strengthen the Medical Unit",
+            "pt": "Fortalecer a Unidade Médica"
+          },
+          "description": "Place personnel with good medical skills in support and inspect recovery results before the next deployment.",
+          "description_i18n": {
+            "en": "Place personnel with good medical skills in support and inspect recovery results before the next deployment.",
+            "pt": "Coloque pessoal com boas habilidades médicas no apoio e confira a recuperação antes da próxima missão."
+          }
+        },
+        {
+          "key": "strengthen-technical-unit",
+          "title": "Strengthen the Technical Unit",
+          "title_i18n": {
+            "en": "Strengthen the Technical Unit",
+            "pt": "Fortalecer a Unidade Técnica"
+          },
+          "description": "Assign technical specialists and monitor the equipment developed as the unit improves.",
+          "description_i18n": {
+            "en": "Assign technical specialists and monitor the equipment developed as the unit improves.",
+            "pt": "Distribua especialistas técnicos e acompanhe os equipamentos desenvolvidos conforme a unidade melhorar."
+          }
+        },
+        {
+          "key": "improve-spy-coverage",
+          "title": "Improve useful spy coverage",
+          "title_i18n": {
+            "en": "Improve useful spy coverage",
+            "pt": "Melhorar a cobertura útil de espionagem"
+          },
+          "description": "Assign high-Sense soldiers to relevant areas and read new reports instead of leaving the network concentrated in one place.",
+          "description_i18n": {
+            "en": "Assign high-Sense soldiers to relevant areas and read new reports instead of leaving the network concentrated in one place.",
+            "pt": "Envie soldados com boa Percepção às áreas relevantes e leia novos relatórios em vez de concentrar a rede em um só local."
+          }
+        },
+        {
+          "key": "rotate-tired-soldiers",
+          "title": "Rotate tired or injured soldiers",
+          "title_i18n": {
+            "en": "Rotate tired or injured soldiers",
+            "pt": "Alternar soldados cansados ou feridos"
+          },
+          "description": "Use your roster and recovery options to avoid repeatedly deploying a weakened specialist.",
+          "description_i18n": {
+            "en": "Use your roster and recovery options to avoid repeatedly deploying a weakened specialist.",
+            "pt": "Use o elenco e as opções de recuperação para não enviar repetidamente um especialista debilitado."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "aggregate-equipment-records",
+      "title": "Aggregate equipment and records goals",
+      "title_i18n": {
+        "en": "Aggregate equipment and records goals",
+        "pt": "Metas agregadas de equipamentos e registros"
+      },
+      "items": [
+        {
+          "key": "collect-selected-weapons",
+          "title": "Collect your selected weapons",
+          "title_i18n": {
+            "en": "Collect your selected weapons",
+            "pt": "Obter as armas escolhidas"
+          },
+          "description": "Track desired weapon reports and field pickups without treating this route as an exhaustive weapon-location list.",
+          "description_i18n": {
+            "en": "Track desired weapon reports and field pickups without treating this route as an exhaustive weapon-location list.",
+            "pt": "Acompanhe relatórios e itens encontrados para as armas desejadas sem tratar este roteiro como uma lista de todos os locais."
+          }
+        },
+        {
+          "key": "collect-useful-equipment",
+          "title": "Collect useful field equipment",
+          "title_i18n": {
+            "en": "Collect useful field equipment",
+            "pt": "Obter equipamentos de campo úteis"
+          },
+          "description": "Pursue available goggles, armor and reconnaissance tools that solve a practical problem in your current route.",
+          "description_i18n": {
+            "en": "Pursue available goggles, armor and reconnaissance tools that solve a practical problem in your current route.",
+            "pt": "Busque óculos, proteção e ferramentas de reconhecimento disponíveis que resolvam uma necessidade prática da rota atual."
+          }
+        },
+        {
+          "key": "record-available-reports",
+          "title": "Review the available report library",
+          "title_i18n": {
+            "en": "Review the available report library",
+            "pt": "Conferir a biblioteca de relatórios disponíveis"
+          },
+          "description": "Track completed and pending discoveries by area; a report is a lead to act on, not automatic collection credit.",
+          "description_i18n": {
+            "en": "Track completed and pending discoveries by area; a report is a lead to act on, not automatic collection credit.",
+            "pt": "Acompanhe descobertas concluídas e pendentes por área; um relatório é uma pista a investigar, não a obtenção automática do item."
+          }
+        },
+        {
+          "key": "collect-recruitment-careers",
+          "title": "Build a varied career roster",
+          "title_i18n": {
+            "en": "Build a varied career roster",
+            "pt": "Montar um elenco com profissões variadas"
+          },
+          "description": "Track useful field and support careers rather than assuming every ordinary soldier provides the same abilities.",
+          "description_i18n": {
+            "en": "Track useful field and support careers rather than assuming every ordinary soldier provides the same abilities.",
+            "pt": "Acompanhe profissões úteis de campo e apoio em vez de presumir que todos os soldados comuns têm as mesmas capacidades."
+          }
+        },
+        {
+          "key": "complete-selected-recruit-threads",
+          "title": "Finish the selected recruit threads",
+          "title_i18n": {
+            "en": "Finish the selected recruit threads",
+            "pt": "Concluir as sequências de recrutamento selecionadas"
+          },
+          "description": "Review the named optional recruits and their deadlines; this is a curated selection, not every regional or special unlock.",
+          "description_i18n": {
+            "en": "Review the named optional recruits and their deadlines; this is a curated selection, not every regional or special unlock.",
+            "pt": "Revise os recrutas opcionais nomeados e seus prazos; esta é uma seleção, não todas as liberações especiais ou regionais."
+          }
+        },
+        {
+          "key": "review-clear-records",
+          "title": "Review the campaign result records",
+          "title_i18n": {
+            "en": "Review the campaign result records",
+            "pt": "Conferir os registros de resultado da campanha"
+          },
+          "description": "Inspect the ending's statistics and identify a measurable goal for a later playthrough.",
+          "description_i18n": {
+            "en": "Inspect the ending's statistics and identify a measurable goal for a later playthrough.",
+            "pt": "Examine as estatísticas do encerramento e escolha uma meta mensurável para outra campanha."
+          }
+        },
+        {
+          "key": "preserve-replay-progress",
+          "title": "Preserve a useful replay save",
+          "title_i18n": {
+            "en": "Preserve a useful replay save",
+            "pt": "Preservar um arquivo útil para repetir a campanha"
+          },
+          "description": "Keep completed-game data alongside the progress you want to retain before starting optional replay goals.",
+          "description_i18n": {
+            "en": "Keep completed-game data alongside the progress you want to retain before starting optional replay goals.",
+            "pt": "Guarde os dados de jogo concluído junto do progresso que deseja preservar antes de iniciar metas opcionais de repetição."
+          }
+        }
+      ],
+      "kind": "collectible"
+    },
+    {
+      "key": "optional-personal-mastery",
+      "title": "Optional personal mastery",
+      "title_i18n": {
+        "en": "Optional personal mastery",
+        "pt": "Domínio pessoal opcional"
+      },
+      "items": [
+        {
+          "key": "clean-nonlethal-mission",
+          "title": "Complete a clean nonlethal mission",
+          "title_i18n": {
+            "en": "Complete a clean nonlethal mission",
+            "pt": "Concluir uma missão limpa e não letal"
+          },
+          "description": "Choose a suitable infiltration and finish without kills or an avoidable alert.",
+          "description_i18n": {
+            "en": "Choose a suitable infiltration and finish without kills or an avoidable alert.",
+            "pt": "Escolha uma infiltração adequada e conclua sem mortes nem alertas evitáveis."
+          }
+        },
+        {
+          "key": "recover-multiple-recruits",
+          "title": "Recover several recruits efficiently",
+          "title_i18n": {
+            "en": "Recover several recruits efficiently",
+            "pt": "Recuperar vários recrutas com eficiência"
+          },
+          "description": "Plan a safe transport route and finish a recovery run without leaving captives exposed to patrols.",
+          "description_i18n": {
+            "en": "Plan a safe transport route and finish a recovery run without leaving captives exposed to patrols.",
+            "pt": "Planeje uma rota segura de transporte e conclua a recuperação sem deixar prisioneiros expostos às patrulhas."
+          }
+        },
+        {
+          "key": "finish-recruit-led-infiltration",
+          "title": "Complete a recruit-led infiltration",
+          "title_i18n": {
+            "en": "Complete a recruit-led infiltration",
+            "pt": "Concluir uma infiltração liderada por um recruta"
+          },
+          "description": "Use an appropriate ordinary soldier for a suitable mission and account for that person's weapon and CQC limits.",
+          "description_i18n": {
+            "en": "Use an appropriate ordinary soldier for a suitable mission and account for that person's weapon and CQC limits.",
+            "pt": "Use um soldado comum adequado em uma missão compatível e respeite os limites de armas e CQC dele."
+          }
+        },
+        {
+          "key": "practice-boss-stamina-goal",
+          "title": "Try a boss stamina victory",
+          "title_i18n": {
+            "en": "Try a boss stamina victory",
+            "pt": "Tentar uma vitória por vigor contra um chefe"
+          },
+          "description": "Choose a compatible boss encounter and prepare nonlethal equipment before committing to that optional result.",
+          "description_i18n": {
+            "en": "Choose a compatible boss encounter and prepare nonlethal equipment before committing to that optional result.",
+            "pt": "Escolha um chefe compatível e prepare equipamentos não letais antes de buscar esse resultado opcional."
+          }
+        },
+        {
+          "key": "reduce-repeat-route-alerts",
+          "title": "Reduce alerts on a repeat route",
+          "title_i18n": {
+            "en": "Reduce alerts on a repeat route",
+            "pt": "Reduzir alertas em uma rota repetida"
+          },
+          "description": "Apply learned patrol timing and disguise options to improve a familiar area without relying on multiplayer rewards.",
+          "description_i18n": {
+            "en": "Apply learned patrol timing and disguise options to improve a familiar area without relying on multiplayer rewards.",
+            "pt": "Use o ritmo das patrulhas e as opções de disfarce para melhorar uma área conhecida sem depender de recompensas multijogador."
+          }
+        },
+        {
+          "key": "plan-offline-replay-goals",
+          "title": "Plan offline replay goals",
+          "title_i18n": {
+            "en": "Plan offline replay goals",
+            "pt": "Planejar metas de repetição offline"
+          },
+          "description": "Use campaign recruits, equipment and results for personal challenges; online matchmaking and Plus-only modes are outside this guide.",
+          "description_i18n": {
+            "en": "Use campaign recruits, equipment and results for personal challenges; online matchmaking and Plus-only modes are outside this guide.",
+            "pt": "Use recrutas, equipamentos e resultados da campanha em desafios pessoais; partidas online e modos exclusivos de Plus ficam fora deste guia."
+          }
+        }
+      ],
+      "kind": "side"
+    }
+  ],
+  "trophies": [],
+  "hltb_id": "5920",
+  "hltb_main_hours": 11,
+  "hltb_main_extra_hours": 16,
+  "hltb_completionist_hours": 28
+}

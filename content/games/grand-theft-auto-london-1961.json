@@ -1,0 +1,689 @@
+{
+  "slug": "grand-theft-auto-london-1961",
+  "title": "Grand Theft Auto: London 1961",
+  "title_i18n": {
+    "en": "Grand Theft Auto: London 1961",
+    "pt": "Grand Theft Auto: London 1961"
+  },
+  "platform": "PC",
+  "cover_url": "/covers/grand-theft-auto-london-1961.png",
+  "created_by": "dd5c4bf0-85ea-4986-9c04-b37e8c986150",
+  "categories": [
+    {
+      "key": "pc-expansion-preparation",
+      "title": "PC expansion preparation",
+      "title_i18n": {
+        "en": "PC expansion preparation",
+        "pt": "Preparação da expansão de PC"
+      },
+      "items": [
+        {
+          "key": "confirm-gta-and-london-dependencies",
+          "title": "Confirm GTA and London 1969 dependencies",
+          "title_i18n": {
+            "en": "Confirm GTA and London 1969 dependencies",
+            "pt": "Confira as dependências GTA e London 1969"
+          },
+          "description": "The original free PC pack depends on both Grand Theft Auto and London 1969.",
+          "description_i18n": {
+            "en": "The original free PC pack depends on both Grand Theft Auto and London 1969.",
+            "pt": "O pacote gratuito original de PC depende de Grand Theft Auto e London 1969."
+          }
+        },
+        {
+          "key": "select-london-nineteen-sixty-one",
+          "title": "Select London 1961",
+          "title_i18n": {
+            "en": "Select London 1961",
+            "pt": "Selecione London 1961"
+          },
+          "description": "Begin this expansion's single campaign chapter, When We Were Very Small.",
+          "description_i18n": {
+            "en": "Begin this expansion's single campaign chapter, When We Were Very Small.",
+            "pt": "Comece When We Were Very Small, o único capítulo da campanha desta expansão."
+          }
+        },
+        {
+          "key": "check-original-pc-controls",
+          "title": "Check original PC controls",
+          "title_i18n": {
+            "en": "Check original PC controls",
+            "pt": "Confira os controles originais de PC"
+          },
+          "description": "Review vehicle entry, braking, weapon selection and message recall before a timed job.",
+          "description_i18n": {
+            "en": "Review vehicle entry, braking, weapon selection and message recall before a timed job.",
+            "pt": "Confira entrada em veículos, frenagem, seleção de armas e consulta de mensagens antes de um trabalho cronometrado."
+          }
+        },
+        {
+          "key": "prepare-london-road-reference",
+          "title": "Prepare a London road reference",
+          "title_i18n": {
+            "en": "Prepare a London road reference",
+            "pt": "Prepare uma referência das ruas de Londres"
+          },
+          "description": "Keep the original London layout and district names available for planning fast journeys.",
+          "description_i18n": {
+            "en": "Keep the original London layout and district names available for planning fast journeys.",
+            "pt": "Tenha disponíveis o mapa original de Londres e os nomes dos bairros para planejar trajetos rápidos."
+          }
+        },
+        {
+          "key": "practice-left-side-driving",
+          "title": "Practice left-side driving",
+          "title_i18n": {
+            "en": "Practice left-side driving",
+            "pt": "Pratique dirigir pela esquerda"
+          },
+          "description": "Rehearse a short route and junctions before accepting the expansion's tight timers.",
+          "description_i18n": {
+            "en": "Rehearse a short route and junctions before accepting the expansion's tight timers.",
+            "pt": "Pratique um trajeto curto e os cruzamentos antes de enfrentar os cronômetros apertados da expansão."
+          }
+        },
+        {
+          "key": "plan-lives-and-failed-contracts",
+          "title": "Plan lives and failed contracts",
+          "title_i18n": {
+            "en": "Plan lives and failed contracts",
+            "pt": "Planeje as vidas e os contratos fracassados"
+          },
+          "description": "Treat the chapter as a sustained attempt and understand its retry limitations.",
+          "description_i18n": {
+            "en": "Treat the chapter as a sustained attempt and understand its retry limitations.",
+            "pt": "Trate o capítulo como uma tentativa contínua e entenda suas limitações de repetição."
+          },
+          "details": "The original London engine starts a chapter with five lives and does not offer an ordinary save after each contract. A failed job cannot be instantly retried within that attempt; restarting the chapter is the recovery route for an all-jobs run. For the campaign ending, another available source of points can still get you to one hundred thousand. Use F6 to pause and review the target, F10 to recall an ordinary message and F7 for the portable telegram. Read the current objective before resuming a timed section.",
+          "details_i18n": {
+            "en": "The original London engine starts a chapter with five lives and does not offer an ordinary save after each contract. A failed job cannot be instantly retried within that attempt; restarting the chapter is the recovery route for an all-jobs run. For the campaign ending, another available source of points can still get you to one hundred thousand. Use F6 to pause and review the target, F10 to recall an ordinary message and F7 for the portable telegram. Read the current objective before resuming a timed section.",
+            "pt": "O sistema original de London inicia o capítulo com cinco vidas e não oferece um salvamento comum após cada contrato. Um trabalho fracassado não pode ser repetido imediatamente naquela tentativa; reiniciar o capítulo é a opção para uma partida de todos os trabalhos. Para terminar a campanha, outra fonte disponível ainda pode levar aos cem mil pontos. Use F6 para pausar e conferir a meta, F10 para repetir uma mensagem comum e F7 para o telegrama portátil. Leia o objetivo atual antes de retomar uma etapa cronometrada."
+          }
+        },
+        {
+          "key": "recognize-seven-job-structure",
+          "title": "Recognize the seven-job structure",
+          "title_i18n": {
+            "en": "Recognize the seven-job structure",
+            "pt": "Entenda a estrutura de sete trabalhos"
+          },
+          "description": "There are four phone contracts, one radio assignment and two vehicle jobs, plus the ending.",
+          "description_i18n": {
+            "en": "There are four phone contracts, one radio assignment and two vehicle jobs, plus the ending.",
+            "pt": "Há quatro contratos de telefone, uma tarefa de rádio e dois trabalhos com veículos, além do encerramento."
+          }
+        },
+        {
+          "key": "keep-manchester-separate",
+          "title": "Keep Manchester separate",
+          "title_i18n": {
+            "en": "Keep Manchester separate",
+            "pt": "Mantenha Manchester separado"
+          },
+          "description": "Manchester is an optional multiplayer map, not another single-player campaign city.",
+          "description_i18n": {
+            "en": "Manchester is an optional multiplayer map, not another single-player campaign city.",
+            "pt": "Manchester é um mapa multijogador opcional, não outra cidade da campanha solo."
+          }
+        }
+      ]
+    },
+    {
+      "key": "when-we-were-very-small-campaign",
+      "title": "When We Were Very Small: campaign route",
+      "title_i18n": {
+        "en": "When We Were Very Small: campaign route",
+        "pt": "When We Were Very Small: rota da campanha"
+      },
+      "items": [
+        {
+          "key": "read-hundred-thousand-target",
+          "title": "Read the 100,000-point target",
+          "title_i18n": {
+            "en": "Read the 100,000-point target",
+            "pt": "Leia a meta de 100.000 pontos"
+          },
+          "description": "Confirm the chapter's own target rather than using London 1969's later score gates.",
+          "description_i18n": {
+            "en": "Confirm the chapter's own target rather than using London 1969's later score gates.",
+            "pt": "Confira a meta deste capítulo em vez de usar os objetivos posteriores de London 1969."
+          }
+        },
+        {
+          "key": "locate-southwest-city-phoneboxes",
+          "title": "Locate the southwest City phoneboxes",
+          "title_i18n": {
+            "en": "Locate the southwest City phoneboxes",
+            "pt": "Localize os telefones de southwest City"
+          },
+          "description": "Find the four starting phoneboxes and identify the contract you want to attempt.",
+          "description_i18n": {
+            "en": "Find the four starting phoneboxes and identify the contract you want to attempt.",
+            "pt": "Encontre os quatro telefones iniciais e identifique o contrato que deseja tentar."
+          }
+        },
+        {
+          "key": "choose-score-building-work",
+          "title": "Choose score-building work",
+          "title_i18n": {
+            "en": "Choose score-building work",
+            "pt": "Escolha trabalhos para acumular pontos"
+          },
+          "description": "Use available contracts and their rewards to build a viable campaign run.",
+          "description_i18n": {
+            "en": "Use available contracts and their rewards to build a viable campaign run.",
+            "pt": "Use os contratos disponíveis e suas recompensas para construir uma partida viável."
+          }
+        },
+        {
+          "key": "maintain-mission-multiplier",
+          "title": "Maintain the mission multiplier",
+          "title_i18n": {
+            "en": "Maintain the mission multiplier",
+            "pt": "Mantenha o multiplicador de missões"
+          },
+          "description": "Preserve successful-job progress while avoiding unnecessary pursuit between objectives.",
+          "description_i18n": {
+            "en": "Preserve successful-job progress while avoiding unnecessary pursuit between objectives.",
+            "pt": "Preserve o progresso dos trabalhos bem-sucedidos e evite perseguições desnecessárias entre objetivos."
+          }
+        },
+        {
+          "key": "review-run-before-final-push",
+          "title": "Review the run before the final push",
+          "title_i18n": {
+            "en": "Review the run before the final push",
+            "pt": "Revise a partida antes da etapa final"
+          },
+          "description": "Check remaining lives, weapons, current mission state and score before committing again.",
+          "description_i18n": {
+            "en": "Check remaining lives, weapons, current mission state and score before committing again.",
+            "pt": "Confira vidas, armas, missão atual e pontuação antes de continuar."
+          }
+        },
+        {
+          "key": "reach-hundred-thousand-points",
+          "title": "Reach 100,000 points",
+          "title_i18n": {
+            "en": "Reach 100,000 points",
+            "pt": "Alcance 100.000 pontos"
+          },
+          "description": "Meet the score target; the optional full-job and Kill Frenzy goals remain separate.",
+          "description_i18n": {
+            "en": "Meet the score target; the optional full-job and Kill Frenzy goals remain separate.",
+            "pt": "Cumpra a meta de pontos; as metas opcionais de todos os trabalhos e Kill Frenzies continuam separadas."
+          }
+        },
+        {
+          "key": "follow-final-billiards-marker",
+          "title": "Follow the final billiards marker",
+          "title_i18n": {
+            "en": "Follow the final billiards marker",
+            "pt": "Siga a marcação final do bilhar"
+          },
+          "description": "Read the ending message and reach the indicated meeting entrance.",
+          "description_i18n": {
+            "en": "Read the ending message and reach the indicated meeting entrance.",
+            "pt": "Leia a mensagem final e alcance a entrada indicada para o encontro."
+          },
+          "details": "The only campaign chapter ends at one hundred thousand points. You do not need to complete all seven jobs or all seven Kill Frenzies before leaving. When the red ending marker appears, read Harold’s instruction and look for the rear entrance to the billiards meeting rather than circling the building’s front. Finish the conversation to register the ending. If you want the community full-clear goal, delay this meeting until your separate job and challenge ledger is complete; the game does not award a native trophy or modern 100% badge.",
+          "details_i18n": {
+            "en": "The only campaign chapter ends at one hundred thousand points. You do not need to complete all seven jobs or all seven Kill Frenzies before leaving. When the red ending marker appears, read Harold’s instruction and look for the rear entrance to the billiards meeting rather than circling the building’s front. Finish the conversation to register the ending. If you want the community full-clear goal, delay this meeting until your separate job and challenge ledger is complete; the game does not award a native trophy or modern 100% badge.",
+            "pt": "O único capítulo da campanha termina com cem mil pontos. Não é preciso concluir os sete trabalhos nem os sete Kill Frenzies antes de sair. Quando surgir a marcação vermelha final, leia a instrução de Harold e procure a entrada traseira do encontro no bilhar em vez de circular pela frente do prédio. Termine a conversa para registrar o desfecho. Para a meta comunitária de conclusão integral, adie o encontro até terminar seu registro separado de trabalhos e desafios; o jogo não concede troféu nativo nem um selo moderno de 100%."
+          }
+        },
+        {
+          "key": "complete-harold-ending",
+          "title": "Complete Harold's ending",
+          "title_i18n": {
+            "en": "Complete Harold's ending",
+            "pt": "Conclua o encerramento de Harold"
+          },
+          "description": "Finish the meeting scene and review the campaign's result before leaving.",
+          "description_i18n": {
+            "en": "Finish the meeting scene and review the campaign's result before leaving.",
+            "pt": "Conclua a cena do encontro e confira o resultado da campanha antes de sair."
+          }
+        }
+      ]
+    },
+    {
+      "key": "optional-phonebox-one-contract",
+      "title": "Optional Phonebox 1 contract",
+      "title_i18n": {
+        "en": "Optional Phonebox 1 contract",
+        "pt": "Contrato opcional do telefone 1"
+      },
+      "items": [
+        {
+          "key": "phone-one-accept-rival-gang-contract",
+          "title": "Phonebox 1: accept the rival-gang contract",
+          "title_i18n": {
+            "en": "Phonebox 1: accept the rival-gang contract",
+            "pt": "Telefone 1: aceite o contrato das gangues rivais"
+          },
+          "description": "Use the leftmost southwest City phone and read its initial supply instruction.",
+          "description_i18n": {
+            "en": "Use the leftmost southwest City phone and read its initial supply instruction.",
+            "pt": "Use o telefone mais à esquerda em southwest City e leia a instrução inicial de suprimentos."
+          }
+        },
+        {
+          "key": "phone-one-complete-timed-objectives",
+          "title": "Phonebox 1: complete the timed objectives",
+          "title_i18n": {
+            "en": "Phonebox 1: complete the timed objectives",
+            "pt": "Telefone 1: conclua os objetivos cronometrados"
+          },
+          "description": "Follow both successive delivery stages and observe their completion messages.",
+          "description_i18n": {
+            "en": "Follow both successive delivery stages and observe their completion messages.",
+            "pt": "Acompanhe as duas etapas sucessivas de entrega e observe suas mensagens de conclusão."
+          },
+          "details": "Prepare a fast car before collecting the first explosives in northeast Bermondsey. Each of the two bomb deliveries gives only twenty seconds: drive to the marked hideout, leave the vehicle to place the explosives and immediately move clear of the blast. The second supply pickup is in west Brixton and its destination is southwest Bermondsey. Later, leave a usable car near the alley entrance before meeting Jack, collect the nearby armor and weapon, and finish the confrontation. The final chase has four escaping targets within ninety seconds; the contract is not over after the explosions.",
+          "details_i18n": {
+            "en": "Prepare a fast car before collecting the first explosives in northeast Bermondsey. Each of the two bomb deliveries gives only twenty seconds: drive to the marked hideout, leave the vehicle to place the explosives and immediately move clear of the blast. The second supply pickup is in west Brixton and its destination is southwest Bermondsey. Later, leave a usable car near the alley entrance before meeting Jack, collect the nearby armor and weapon, and finish the confrontation. The final chase has four escaping targets within ninety seconds; the contract is not over after the explosions.",
+            "pt": "Prepare um carro rápido antes de recolher os primeiros explosivos em northeast Bermondsey. Cada uma das duas entregas dá apenas vinte segundos: alcance o esconderijo marcado, saia do veículo para colocar os explosivos e afaste-se imediatamente. A segunda coleta fica em west Brixton e seu destino é southwest Bermondsey. Depois, deixe um carro utilizável perto da entrada do beco antes de encontrar Jack, recolha o colete e a arma próximos e conclua o confronto. A perseguição final tem quatro fugitivos em noventa segundos; o contrato não termina após as explosões."
+          }
+        },
+        {
+          "key": "phone-one-follow-meeting-and-confrontation",
+          "title": "Phonebox 1: follow the meeting and confrontation",
+          "title_i18n": {
+            "en": "Phonebox 1: follow the meeting and confrontation",
+            "pt": "Telefone 1: acompanhe o encontro e o confronto"
+          },
+          "description": "Read the changed objective and prepare the equipment available near the contact.",
+          "description_i18n": {
+            "en": "Read the changed objective and prepare the equipment available near the contact.",
+            "pt": "Leia a mudança de objetivo e prepare o equipamento disponível perto do contato."
+          }
+        },
+        {
+          "key": "phone-one-finish-final-pursuit",
+          "title": "Phonebox 1: finish the final pursuit",
+          "title_i18n": {
+            "en": "Phonebox 1: finish the final pursuit",
+            "pt": "Telefone 1: conclua a perseguição final"
+          },
+          "description": "Complete every remaining target before the contract's final timer expires.",
+          "description_i18n": {
+            "en": "Complete every remaining target before the contract's final timer expires.",
+            "pt": "Conclua todos os alvos restantes antes que termine o cronômetro final do contrato."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "optional-phonebox-two-contract",
+      "title": "Optional Phonebox 2 contract",
+      "title_i18n": {
+        "en": "Optional Phonebox 2 contract",
+        "pt": "Contrato opcional do telefone 2"
+      },
+      "items": [
+        {
+          "key": "phone-two-prepare-passenger-vehicle",
+          "title": "Phonebox 2: prepare the passenger vehicle",
+          "title_i18n": {
+            "en": "Phonebox 2: prepare the passenger vehicle",
+            "pt": "Telefone 2: prepare o veículo do passageiro"
+          },
+          "description": "Take the mission's specified vehicle and follow its preparation instructions.",
+          "description_i18n": {
+            "en": "Take the mission's specified vehicle and follow its preparation instructions.",
+            "pt": "Pegue o veículo indicado pela missão e siga suas instruções de preparação."
+          }
+        },
+        {
+          "key": "phone-two-complete-escort-and-recovery",
+          "title": "Phonebox 2: complete the escort and recovery",
+          "title_i18n": {
+            "en": "Phonebox 2: complete the escort and recovery",
+            "pt": "Telefone 2: conclua a escolta e a recuperação"
+          },
+          "description": "Protect the passenger and keep following the new objectives after the first delivery.",
+          "description_i18n": {
+            "en": "Protect the passenger and keep following the new objectives after the first delivery.",
+            "pt": "Proteja o passageiro e continue seguindo os novos objetivos após a primeira entrega."
+          },
+          "details": "Take the specified taxi in East City and visit Bobby in southwest Westminster for its required preparation. Approach Mr. Caukenbolls slowly enough to let him board without hitting him, then follow the timed delivery despite the heightened police response. Before speaking to Curly behind the destination, arrange a fast replacement car: that conversation triggers a short pursuit to recover the kidnapped passenger. Intercept the marked taxi and bring the passenger back to the new safe location. Using an arbitrary traffic taxi does not replace every mission-specific vehicle in this chain.",
+          "details_i18n": {
+            "en": "Take the specified taxi in East City and visit Bobby in southwest Westminster for its required preparation. Approach Mr. Caukenbolls slowly enough to let him board without hitting him, then follow the timed delivery despite the heightened police response. Before speaking to Curly behind the destination, arrange a fast replacement car: that conversation triggers a short pursuit to recover the kidnapped passenger. Intercept the marked taxi and bring the passenger back to the new safe location. Using an arbitrary traffic taxi does not replace every mission-specific vehicle in this chain.",
+            "pt": "Pegue o táxi indicado em East City e visite Bobby em southwest Westminster para a preparação exigida. Aproxime-se de Mr. Caukenbolls devagar o bastante para deixá-lo entrar sem atropelá-lo e cumpra a entrega cronometrada apesar da reação policial. Antes de falar com Curly atrás do destino, prepare um carro rápido: essa conversa inicia uma perseguição curta para recuperar o passageiro sequestrado. Intercepte o táxi marcado e leve o passageiro ao novo local seguro. Um táxi qualquer do trânsito não substitui todos os veículos específicos desta sequência."
+          }
+        },
+        {
+          "key": "phone-two-resolve-counteroperation",
+          "title": "Phonebox 2: resolve the counteroperation",
+          "title_i18n": {
+            "en": "Phonebox 2: resolve the counteroperation",
+            "pt": "Telefone 2: resolva a contraoperação"
+          },
+          "description": "Use the instructed vehicle and complete the next operation without losing the contract.",
+          "description_i18n": {
+            "en": "Use the instructed vehicle and complete the next operation without losing the contract.",
+            "pt": "Use o veículo solicitado e conclua a operação seguinte sem perder o contrato."
+          },
+          "details": "Use the prepared explosive taxi indicated by the new objective. At the meeting, leave a clear escape direction before triggering the ambush; move the car away from the blocking crates if needed, then get out and clear the blast. Follow the next message rather than assuming every spawned enemy must be eliminated. Recover from the police pursuit before collecting the later replacement taxi when possible. The final return has its own seventy-second pickup-and-hotel-delivery window, so plan both legs before approaching the passenger.",
+          "details_i18n": {
+            "en": "Use the prepared explosive taxi indicated by the new objective. At the meeting, leave a clear escape direction before triggering the ambush; move the car away from the blocking crates if needed, then get out and clear the blast. Follow the next message rather than assuming every spawned enemy must be eliminated. Recover from the police pursuit before collecting the later replacement taxi when possible. The final return has its own seventy-second pickup-and-hotel-delivery window, so plan both legs before approaching the passenger.",
+            "pt": "Use o táxi com explosivos preparado e indicado pelo novo objetivo. No encontro, preserve uma direção de fuga antes de ativar a emboscada; se necessário, tire o carro das caixas que bloqueiam o caminho, saia e afaste-se da explosão. Siga a mensagem seguinte sem presumir que precise eliminar todos os inimigos surgidos. Sempre que possível, resolva a perseguição policial antes de recolher o táxi substituto posterior. O retorno final tem seu próprio prazo de setenta segundos para buscar o passageiro e entregá-lo no hotel; planeje os dois trechos antes de se aproximar dele."
+          }
+        },
+        {
+          "key": "phone-two-complete-final-return",
+          "title": "Phonebox 2: complete the final return",
+          "title_i18n": {
+            "en": "Phonebox 2: complete the final return",
+            "pt": "Telefone 2: conclua o retorno final"
+          },
+          "description": "Follow the final pickup and hotel delivery through the success message.",
+          "description_i18n": {
+            "en": "Follow the final pickup and hotel delivery through the success message.",
+            "pt": "Siga a última coleta e a entrega no hotel até a mensagem de sucesso."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "optional-phoneboxes-three-and-four",
+      "title": "Optional Phoneboxes 3 and 4",
+      "title_i18n": {
+        "en": "Optional Phoneboxes 3 and 4",
+        "pt": "Telefones opcionais 3 e 4"
+      },
+      "items": [
+        {
+          "key": "phone-three-follow-initial-lead",
+          "title": "Phonebox 3: follow the initial lead",
+          "title_i18n": {
+            "en": "Phonebox 3: follow the initial lead",
+            "pt": "Telefone 3: siga a pista inicial"
+          },
+          "description": "Read the Hyde Park assignment and prepare for its rapid follow-up call.",
+          "description_i18n": {
+            "en": "Read the Hyde Park assignment and prepare for its rapid follow-up call.",
+            "pt": "Leia a tarefa de Hyde Park e prepare-se para a ligação seguinte, que exige rapidez."
+          }
+        },
+        {
+          "key": "phone-three-complete-changing-objectives",
+          "title": "Phonebox 3: complete the changing objectives",
+          "title_i18n": {
+            "en": "Phonebox 3: complete the changing objectives",
+            "pt": "Telefone 3: conclua os objetivos sucessivos"
+          },
+          "description": "Follow the required transport and contact changes without abandoning the active chain.",
+          "description_i18n": {
+            "en": "Follow the required transport and contact changes without abandoning the active chain.",
+            "pt": "Acompanhe as mudanças de transporte e contatos sem abandonar a sequência ativa."
+          }
+        },
+        {
+          "key": "phone-three-finish-final-interceptions",
+          "title": "Phonebox 3: finish the final interceptions",
+          "title_i18n": {
+            "en": "Phonebox 3: finish the final interceptions",
+            "pt": "Telefone 3: conclua as interceptações finais"
+          },
+          "description": "Collect the supplied equipment and resolve both final moving targets.",
+          "description_i18n": {
+            "en": "Collect the supplied equipment and resolve both final moving targets.",
+            "pt": "Recolha o equipamento fornecido e resolva os dois últimos alvos em movimento."
+          },
+          "details": "The contract keeps changing after the Hyde Park lead, so retain a fast vehicle and read each new instruction. Complete the requested passenger movements before visiting Bongo in northeast City, and avoid running over the contact. Collect the supplied Rocket Launcher before beginning the final interception. Two marked trucks must be destroyed within the sixty-five-second window; stop with enough room to aim and keep a safe distance from the explosions. The earlier deliveries alone do not complete this phone contract.",
+          "details_i18n": {
+            "en": "The contract keeps changing after the Hyde Park lead, so retain a fast vehicle and read each new instruction. Complete the requested passenger movements before visiting Bongo in northeast City, and avoid running over the contact. Collect the supplied Rocket Launcher before beginning the final interception. Two marked trucks must be destroyed within the sixty-five-second window; stop with enough room to aim and keep a safe distance from the explosions. The earlier deliveries alone do not complete this phone contract.",
+            "pt": "O contrato continua mudando após a pista de Hyde Park; mantenha um veículo rápido e leia cada nova instrução. Conclua os transportes de passageiros solicitados antes de visitar Bongo em northeast City e evite atropelar o contato. Recolha o Rocket Launcher fornecido antes da interceptação final. É preciso destruir dois caminhões marcados em sessenta e cinco segundos; pare com espaço para mirar e mantenha distância das explosões. As entregas anteriores, sozinhas, não concluem este contrato de telefone."
+          }
+        },
+        {
+          "key": "phone-four-prepare-special-vehicle",
+          "title": "Phonebox 4: prepare the special vehicle",
+          "title_i18n": {
+            "en": "Phonebox 4: prepare the special vehicle",
+            "pt": "Telefone 4: prepare o veículo especial"
+          },
+          "description": "Follow the requested equipment and vehicle changes before approaching the marked targets.",
+          "description_i18n": {
+            "en": "Follow the requested equipment and vehicle changes before approaching the marked targets.",
+            "pt": "Siga as trocas solicitadas de equipamento e veículo antes de se aproximar dos alvos."
+          }
+        },
+        {
+          "key": "phone-four-complete-target-sequence",
+          "title": "Phonebox 4: complete the target sequence",
+          "title_i18n": {
+            "en": "Phonebox 4: complete the target sequence",
+            "pt": "Telefone 4: conclua a sequência de alvos"
+          },
+          "description": "Respect the vehicle-based conditions and follow the later race-related objective.",
+          "description_i18n": {
+            "en": "Respect the vehicle-based conditions and follow the later race-related objective.",
+            "pt": "Respeite as condições ligadas ao veículo e acompanhe o objetivo posterior da corrida."
+          },
+          "details": "After the first lookout runs, collect the specified armed car and nearby weapon instead of chasing him in ordinary transport. The mission requires attacks from the supplied vehicle, so stay inside for the relevant combat stages. Follow the later switch to the Ferocious 312 and collect the weapon beside it before the next timed pursuit. After dealing with Fern, continue to the finish marker as his replacement, then collect the trophy and return to the marked garage. Leaving the car early can violate the chain’s conditions.",
+          "details_i18n": {
+            "en": "After the first lookout runs, collect the specified armed car and nearby weapon instead of chasing him in ordinary transport. The mission requires attacks from the supplied vehicle, so stay inside for the relevant combat stages. Follow the later switch to the Ferocious 312 and collect the weapon beside it before the next timed pursuit. After dealing with Fern, continue to the finish marker as his replacement, then collect the trophy and return to the marked garage. Leaving the car early can violate the chain’s conditions.",
+            "pt": "Depois que o primeiro vigia fugir, recolha o carro armado indicado e a arma próxima em vez de persegui-lo num transporte comum. A missão exige ataques a partir do veículo fornecido; permaneça dentro nas etapas correspondentes de combate. Siga a troca posterior para o Ferocious 312 e recolha a arma ao lado antes da próxima perseguição cronometrada. Após lidar com Fern, continue até a chegada no lugar dele, recolha o troféu e volte à garagem marcada. Sair do carro cedo pode violar as condições da sequência."
+          }
+        },
+        {
+          "key": "phone-four-finish-race-and-return",
+          "title": "Phonebox 4: finish the race and return",
+          "title_i18n": {
+            "en": "Phonebox 4: finish the race and return",
+            "pt": "Telefone 4: conclua a corrida e o retorno"
+          },
+          "description": "Finish the last timed leg, collect the requested item and complete the final return.",
+          "description_i18n": {
+            "en": "Finish the last timed leg, collect the requested item and complete the final return.",
+            "pt": "Conclua o último trecho cronometrado, recolha o item pedido e termine o retorno final."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "optional-radio-and-vehicle-work",
+      "title": "Optional radio and vehicle work",
+      "title_i18n": {
+        "en": "Optional radio and vehicle work",
+        "pt": "Trabalhos opcionais de rádio e veículos"
+      },
+      "items": [
+        {
+          "key": "radio-follow-new-car-lead",
+          "title": "Radio: follow the new car lead",
+          "title_i18n": {
+            "en": "Radio: follow the new car lead",
+            "pt": "Rádio: siga a pista do novo carro"
+          },
+          "description": "When the follow-up arrives, locate the specified Jug Swinger and read the new assignment.",
+          "description_i18n": {
+            "en": "When the follow-up arrives, locate the specified Jug Swinger and read the new assignment.",
+            "pt": "Quando a continuação chegar, localize o Jug Swinger indicado e leia a nova tarefa."
+          }
+        },
+        {
+          "key": "radio-complete-truck-investigation",
+          "title": "Radio: complete the truck investigation",
+          "title_i18n": {
+            "en": "Radio: complete the truck investigation",
+            "pt": "Rádio: conclua a investigação do caminhão"
+          },
+          "description": "Follow the marked recovery and delivery stages through the change of plan.",
+          "description_i18n": {
+            "en": "Follow the marked recovery and delivery stages through the change of plan.",
+            "pt": "Siga as etapas marcadas de recuperação e entrega até a mudança de plano."
+          }
+        },
+        {
+          "key": "radio-finish-final-sequence",
+          "title": "Radio: finish the final sequence",
+          "title_i18n": {
+            "en": "Radio: finish the final sequence",
+            "pt": "Rádio: conclua a sequência final"
+          },
+          "description": "Read the final control instructions and complete the operation's concluding objective.",
+          "description_i18n": {
+            "en": "Read the final control instructions and complete the operation's concluding objective.",
+            "pt": "Leia as instruções finais de controle e conclua o objetivo de encerramento da operação."
+          },
+          "details": "Once the radio follow-up arrives, enter the marked Jug Swinger and follow the undercover assignment. Recover the specified Potato Truck, deliver it for inspection and return to the indicated car for the next instructions. Place the provided explosives at the marked wheelchair, then follow the route back to the hideout. Enter the designated nearby van to control the distraction and guide the wheelchair to its target within the short final window. Do not replace the instructed mission vehicles with similar traffic vehicles midway through the sequence.",
+          "details_i18n": {
+            "en": "Once the radio follow-up arrives, enter the marked Jug Swinger and follow the undercover assignment. Recover the specified Potato Truck, deliver it for inspection and return to the indicated car for the next instructions. Place the provided explosives at the marked wheelchair, then follow the route back to the hideout. Enter the designated nearby van to control the distraction and guide the wheelchair to its target within the short final window. Do not replace the instructed mission vehicles with similar traffic vehicles midway through the sequence.",
+            "pt": "Quando a continuação chegar pelo rádio, entre no Jug Swinger marcado e acompanhe a tarefa disfarçada. Recupere o Potato Truck indicado, entregue-o para inspeção e volte ao carro marcado para receber novas instruções. Coloque os explosivos fornecidos na cadeira de rodas indicada e siga a rota de volta ao esconderijo. Entre na van próxima designada para controlar a distração e conduza a cadeira ao alvo durante o curto prazo final. Não troque os veículos da missão por semelhantes do trânsito no meio da sequência."
+          }
+        },
+        {
+          "key": "vehicle-fab-prepare-delivery",
+          "title": "Fab: prepare the delivery",
+          "title_i18n": {
+            "en": "Fab: prepare the delivery",
+            "pt": "Fab: prepare a entrega"
+          },
+          "description": "Find the mission Fab in northeast Battersea and inspect the route before entering it.",
+          "description_i18n": {
+            "en": "Find the mission Fab in northeast Battersea and inspect the route before entering it.",
+            "pt": "Encontre o Fab de missão em northeast Battersea e examine a rota antes de entrar."
+          }
+        },
+        {
+          "key": "vehicle-fab-complete-timed-delivery",
+          "title": "Fab: complete the timed delivery",
+          "title_i18n": {
+            "en": "Fab: complete the timed delivery",
+            "pt": "Fab: conclua a entrega cronometrada"
+          },
+          "description": "Keep the required vehicle intact and reach the actual delivery entrance in time.",
+          "description_i18n": {
+            "en": "Keep the required vehicle intact and reach the actual delivery entrance in time.",
+            "pt": "Preserve o veículo exigido e alcance a entrada real da entrega dentro do prazo."
+          },
+          "details": "Plan the route before entering the Fab near the Battersea power-station area: the fifty-second timer and heavy police response start with the job. The car contains the requested delivery, so preserve that specific vehicle and head directly toward Harold’s marked garage. Wide roads offer room to avoid roadblocks and traffic; a long respray detour can consume the delivery window. Slow enough to align with the garage entrance at the end instead of losing the run to a last-second collision.",
+          "details_i18n": {
+            "en": "Plan the route before entering the Fab near the Battersea power-station area: the fifty-second timer and heavy police response start with the job. The car contains the requested delivery, so preserve that specific vehicle and head directly toward Harold’s marked garage. Wide roads offer room to avoid roadblocks and traffic; a long respray detour can consume the delivery window. Slow enough to align with the garage entrance at the end instead of losing the run to a last-second collision.",
+            "pt": "Planeje a rota antes de entrar no Fab perto da região da usina de Battersea: o prazo de cinquenta segundos e a forte reação policial começam com o trabalho. O carro contém a entrega solicitada; preserve esse veículo específico e siga diretamente à garagem marcada de Harold. Ruas largas oferecem espaço para evitar bloqueios e trânsito; um desvio longo para pintura pode consumir o prazo. Reduza o suficiente para alinhar com a entrada da garagem no final, sem perder a partida numa colisão de último segundo."
+          }
+        },
+        {
+          "key": "vehicle-tv-van-follow-evidence-route",
+          "title": "TV Van: follow the evidence route",
+          "title_i18n": {
+            "en": "TV Van: follow the evidence route",
+            "pt": "TV Van: siga a rota das provas"
+          },
+          "description": "Find the mission van in Camden Town and follow its successive marked objectives.",
+          "description_i18n": {
+            "en": "Find the mission van in Camden Town and follow its successive marked objectives.",
+            "pt": "Encontre a van de missão em Camden Town e siga seus objetivos marcados sucessivos."
+          },
+          "details": "Entering the special TV Van starts the contract and raises police attention. Keep the van intact while following the London Tower objective, recover the marked evidence on foot and return to the van afterward. Continue through the Buckingham Palace objective and collect its dropped material before taking the final delivery to Harold. The van is unusually fast, so controlled braking matters more than constant full acceleration. Do not abandon it after collecting a briefcase: the final garage handover still requires the mission vehicle.",
+          "details_i18n": {
+            "en": "Entering the special TV Van starts the contract and raises police attention. Keep the van intact while following the London Tower objective, recover the marked evidence on foot and return to the van afterward. Continue through the Buckingham Palace objective and collect its dropped material before taking the final delivery to Harold. The van is unusually fast, so controlled braking matters more than constant full acceleration. Do not abandon it after collecting a briefcase: the final garage handover still requires the mission vehicle.",
+            "pt": "Entrar na TV Van especial inicia o contrato e eleva a perseguição policial. Preserve a van enquanto segue o objetivo de London Tower, recupere a prova marcada a pé e volte ao veículo. Continue pelo objetivo de Buckingham Palace e recolha o material deixado antes da entrega final a Harold. A van é muito rápida; frear com controle importa mais que acelerar continuamente. Não a abandone após recolher uma maleta: a entrega final na garagem ainda exige o veículo da missão."
+          }
+        },
+        {
+          "key": "vehicle-tv-van-complete-final-delivery",
+          "title": "TV Van: complete the final delivery",
+          "title_i18n": {
+            "en": "TV Van: complete the final delivery",
+            "pt": "TV Van: conclua a entrega final"
+          },
+          "description": "Return the required vehicle and collected material through the final garage handover.",
+          "description_i18n": {
+            "en": "Return the required vehicle and collected material through the final garage handover.",
+            "pt": "Devolva o veículo exigido e o material recolhido pela entrega final na garagem."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "aggregate-optional-goals",
+      "title": "Aggregate optional goals",
+      "title_i18n": {
+        "en": "Aggregate optional goals",
+        "pt": "Metas gerais opcionais"
+      },
+      "items": [
+        {
+          "key": "complete-all-seven-playable-jobs",
+          "title": "Complete all seven playable jobs",
+          "title_i18n": {
+            "en": "Complete all seven playable jobs",
+            "pt": "Conclua os sete trabalhos jogáveis"
+          },
+          "description": "Track four phone contracts, the radio assignment and both vehicle jobs, with the ending recorded separately.",
+          "description_i18n": {
+            "en": "Track four phone contracts, the radio assignment and both vehicle jobs, with the ending recorded separately.",
+            "pt": "Acompanhe quatro contratos de telefone, a tarefa de rádio e ambos os veículos, registrando o encerramento separadamente."
+          }
+        },
+        {
+          "key": "complete-seven-kill-frenzies",
+          "title": "Complete the seven Kill Frenzies",
+          "title_i18n": {
+            "en": "Complete the seven Kill Frenzies",
+            "pt": "Conclua os sete Kill Frenzies"
+          },
+          "description": "Use a separate challenge list; this guide does not enumerate every challenge location.",
+          "description_i18n": {
+            "en": "Use a separate challenge list; this guide does not enumerate every challenge location.",
+            "pt": "Use uma lista separada de desafios; este guia não enumera cada local individual."
+          }
+        },
+        {
+          "key": "map-useful-sixty-one-pickups",
+          "title": "Map useful 1961 pickups",
+          "title_i18n": {
+            "en": "Map useful 1961 pickups",
+            "pt": "Mapeie os itens úteis de 1961"
+          },
+          "description": "Record helpful armor, weapons, multipliers, extra lives and police aids for future attempts.",
+          "description_i18n": {
+            "en": "Record helpful armor, weapons, multipliers, extra lives and police aids for future attempts.",
+            "pt": "Registre coletes, armas, multiplicadores, vidas extras e auxílios contra a polícia para futuras tentativas."
+          }
+        },
+        {
+          "key": "practice-one-clean-contract-run",
+          "title": "Practice one clean contract run",
+          "title_i18n": {
+            "en": "Practice one clean contract run",
+            "pt": "Pratique um contrato sem falhas"
+          },
+          "description": "Replay the chapter to improve a selected difficult contract's route and timing.",
+          "description_i18n": {
+            "en": "Replay the chapter to improve a selected difficult contract's route and timing.",
+            "pt": "Repita o capítulo para melhorar a rota e o tempo de um contrato difícil escolhido."
+          }
+        },
+        {
+          "key": "review-single-chapter-full-clear",
+          "title": "Review the single-chapter full clear",
+          "title_i18n": {
+            "en": "Review the single-chapter full clear",
+            "pt": "Revise a conclusão integral do único capítulo"
+          },
+          "description": "Keep community all-jobs goals separate from the score-based ending; no native trophy or modern percentage meter is provided.",
+          "description_i18n": {
+            "en": "Keep community all-jobs goals separate from the score-based ending; no native trophy or modern percentage meter is provided.",
+            "pt": "Separe as metas comunitárias de todos os trabalhos do final por pontos; não há troféu nativo nem medidor moderno de porcentagem."
+          }
+        }
+      ],
+      "kind": "collectible"
+    }
+  ],
+  "trophies": [],
+  "hltb_id": "4071",
+  "hltb_main_hours": 2,
+  "hltb_main_extra_hours": 3,
+  "hltb_completionist_hours": 3
+}

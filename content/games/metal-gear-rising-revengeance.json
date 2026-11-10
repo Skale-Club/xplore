@@ -1,0 +1,2593 @@
+{
+  "slug": "metal-gear-rising-revengeance",
+  "title": "Metal Gear Rising: Revengeance",
+  "title_i18n": {
+    "en": "Metal Gear Rising: Revengeance",
+    "pt": "Metal Gear Rising: Revengeance"
+  },
+  "platform": "PlayStation 3",
+  "cover_url": "/covers/metal-gear-rising-revengeance.png",
+  "created_by": "dd5c4bf0-85ea-4986-9c04-b37e8c986150",
+  "categories": [
+    {
+      "key": "ps3-combat-foundations",
+      "title": "PS3 combat foundations",
+      "title_i18n": {
+        "en": "PS3 combat foundations",
+        "pt": "Fundamentos de combate no PS3"
+      },
+      "items": [
+        {
+          "key": "confirm-ps3-scope",
+          "title": "Start the PS3 campaign",
+          "title_i18n": {
+            "en": "Start the PS3 campaign",
+            "pt": "Começar a campanha de PS3"
+          },
+          "description": "This route covers R-00 through R-07; installed story DLC and additional VR missions are optional sections.",
+          "description_i18n": {
+            "en": "This route covers R-00 through R-07; installed story DLC and additional VR missions are optional sections.",
+            "pt": "Esta rota cobre R-00 a R-07; DLCs de história instalados e missões VR adicionais ficam em seções opcionais."
+          }
+        },
+        {
+          "key": "practice-camera-lock-on",
+          "title": "Practice camera control and targeting",
+          "title_i18n": {
+            "en": "Practice camera control and targeting",
+            "pt": "Praticar câmera e seleção de alvo"
+          },
+          "description": "Keep enemies in view and test lock-on before fighting a mixed group.",
+          "description_i18n": {
+            "en": "Keep enemies in view and test lock-on before fighting a mixed group.",
+            "pt": "Mantenha os inimigos à vista e teste a seleção de alvo antes de enfrentar um grupo variado."
+          }
+        },
+        {
+          "key": "practice-directional-parry",
+          "title": "Practice the directional parry",
+          "title_i18n": {
+            "en": "Practice the directional parry",
+            "pt": "Praticar a defesa direcional"
+          },
+          "description": "Use the tutorial to learn defense against incoming attacks before relying on repeated attack inputs.",
+          "description_i18n": {
+            "en": "Use the tutorial to learn defense against incoming attacks before relying on repeated attack inputs.",
+            "pt": "Use o tutorial para aprender a defender ataques antes de depender de apertar os botões repetidamente."
+          },
+          "details": "There is no dedicated hold-to-block button. Push the left stick toward the incoming attacker and press Square together; repeat the input for each hit in a sequence. An early input gives a defensive block, while a tighter timing window produces a counter when that attack permits one. Reorient toward attacks arriving from a different direction. Yellow-signaled grabs require evasion instead. Buy Defensive Offense and practice its Square + X input for a sidestep that complements parrying rather than replacing it.",
+          "details_i18n": {
+            "en": "There is no dedicated hold-to-block button. Push the left stick toward the incoming attacker and press Square together; repeat the input for each hit in a sequence. An early input gives a defensive block, while a tighter timing window produces a counter when that attack permits one. Reorient toward attacks arriving from a different direction. Yellow-signaled grabs require evasion instead. Buy Defensive Offense and practice its Square + X input for a sidestep that complements parrying rather than replacing it.",
+            "pt": "Não há um botão exclusivo para manter a defesa. Direcione o analógico esquerdo ao atacante e aperte Quadrado junto; repita o comando a cada golpe da sequência. Um comando antecipado bloqueia, enquanto um intervalo mais preciso produz um contra-ataque quando aquele golpe permite. Reoriente a defesa quando os ataques vierem de outra direção. Agarrões sinalizados em amarelo exigem evasão. Compre Defensive Offense e pratique Quadrado + X para executar um passo lateral que complementa a defesa, sem substituí-la."
+          }
+        },
+        {
+          "key": "practice-blade-mode-cuts",
+          "title": "Practice deliberate Blade Mode cuts",
+          "title_i18n": {
+            "en": "Practice deliberate Blade Mode cuts",
+            "pt": "Praticar cortes precisos no Blade Mode"
+          },
+          "description": "Aim several cuts carefully and watch the Fuel Cell gauge instead of slicing without a plan.",
+          "description_i18n": {
+            "en": "Aim several cuts carefully and watch the Fuel Cell gauge instead of slicing without a plan.",
+            "pt": "Mire alguns cortes com cuidado e observe a energia da Fuel Cell em vez de cortar sem planejamento."
+          }
+        },
+        {
+          "key": "complete-first-zandatsu",
+          "title": "Complete a Zandatsu",
+          "title_i18n": {
+            "en": "Complete a Zandatsu",
+            "pt": "Executar um Zandatsu"
+          },
+          "description": "Follow the targeting and extraction prompts, then observe the recovered resources.",
+          "description_i18n": {
+            "en": "Follow the targeting and extraction prompts, then observe the recovered resources.",
+            "pt": "Siga as indicações de mira e extração e observe os recursos recuperados."
+          },
+          "details": "Weaken an armored enemy until the game shows it can be cut, then hold L1 for Blade Mode. Align a deliberate cut through the highlighted extraction target rather than chopping every direction. When the Circle prompt appears, press it to take the enemy's repair unit and replenish life and Fuel Cell energy. Missing the marked target may still kill the enemy but loses this recovery opportunity. Leave Blade Mode when you have no useful cut to make so you do not waste the gauge.",
+          "details_i18n": {
+            "en": "Weaken an armored enemy until the game shows it can be cut, then hold L1 for Blade Mode. Align a deliberate cut through the highlighted extraction target rather than chopping every direction. When the Circle prompt appears, press it to take the enemy's repair unit and replenish life and Fuel Cell energy. Missing the marked target may still kill the enemy but loses this recovery opportunity. Leave Blade Mode when you have no useful cut to make so you do not waste the gauge.",
+            "pt": "Enfraqueça um inimigo blindado até o jogo indicar que pode ser cortado e segure L1 para Blade Mode. Alinhe um corte deliberado no alvo destacado da extração em vez de cortar em todas as direções. Quando aparecer o comando Círculo, aperte-o para tomar a unidade de reparo e recuperar vida e energia da Fuel Cell. Errar o alvo pode matar o inimigo, mas perde a recuperação. Saia do Blade Mode quando não houver um corte útil para evitar desperdiçar energia."
+          }
+        },
+        {
+          "key": "learn-ninja-run",
+          "title": "Use Ninja Run for movement",
+          "title_i18n": {
+            "en": "Use Ninja Run for movement",
+            "pt": "Usar Ninja Run para se movimentar"
+          },
+          "description": "Practice crossing obstacles while keeping enough space to react to nearby enemies.",
+          "description_i18n": {
+            "en": "Practice crossing obstacles while keeping enough space to react to nearby enemies.",
+            "pt": "Pratique atravessar obstáculos mantendo espaço para reagir aos inimigos próximos."
+          }
+        },
+        {
+          "key": "check-equipment-and-codec",
+          "title": "Check equipment and codec menus",
+          "title_i18n": {
+            "en": "Check equipment and codec menus",
+            "pt": "Conferir equipamento e codec"
+          },
+          "description": "Learn how to equip recovery items and consult support between objectives.",
+          "description_i18n": {
+            "en": "Learn how to equip recovery items and consult support between objectives.",
+            "pt": "Aprenda a equipar itens de recuperação e consulte o apoio entre os objetivos."
+          }
+        }
+      ]
+    },
+    {
+      "key": "r-00-guard-duty",
+      "title": "R-00: Guard Duty",
+      "title_i18n": {
+        "en": "R-00: Guard Duty",
+        "pt": "R-00: Guard Duty"
+      },
+      "items": [
+        {
+          "key": "enter-guard-duty",
+          "title": "Begin the opening operation",
+          "title_i18n": {
+            "en": "Begin the opening operation",
+            "pt": "Iniciar a operação de abertura"
+          },
+          "description": "Follow the escort situation into the first combat tutorial.",
+          "description_i18n": {
+            "en": "Follow the escort situation into the first combat tutorial.",
+            "pt": "Acompanhe a situação de escolta até o primeiro tutorial de combate."
+          }
+        },
+        {
+          "key": "clear-opening-cyborgs",
+          "title": "Clear the opening cyborg group",
+          "title_i18n": {
+            "en": "Clear the opening cyborg group",
+            "pt": "Derrotar o primeiro grupo de ciborgues"
+          },
+          "description": "Practice controlled attacks and defense while the game introduces your basic tools.",
+          "description_i18n": {
+            "en": "Practice controlled attacks and defense while the game introduces your basic tools.",
+            "pt": "Pratique ataques controlados e defesa enquanto o jogo apresenta suas ferramentas básicas."
+          }
+        },
+        {
+          "key": "face-ray-first-phase",
+          "title": "Face Metal Gear RAY",
+          "title_i18n": {
+            "en": "Face Metal Gear RAY",
+            "pt": "Enfrentar Metal Gear RAY"
+          },
+          "description": "Watch the large attack signals and respond to the combat prompts.",
+          "description_i18n": {
+            "en": "Watch the large attack signals and respond to the combat prompts.",
+            "pt": "Observe os sinais dos grandes ataques e responda aos comandos de combate."
+          }
+        },
+        {
+          "key": "finish-ray-pursuit",
+          "title": "Continue the RAY pursuit",
+          "title_i18n": {
+            "en": "Continue the RAY pursuit",
+            "pt": "Continuar a perseguição a RAY"
+          },
+          "description": "Follow the movement sequence and keep responding until the encounter changes location.",
+          "description_i18n": {
+            "en": "Follow the movement sequence and keep responding until the encounter changes location.",
+            "pt": "Siga a sequência de movimento e continue respondendo até o confronto mudar de lugar."
+          }
+        },
+        {
+          "key": "cross-opening-train",
+          "title": "Cross the train sequence",
+          "title_i18n": {
+            "en": "Cross the train sequence",
+            "pt": "Atravessar a sequência do trem"
+          },
+          "description": "Advance through the marked route and deal with the enemies blocking your pursuit.",
+          "description_i18n": {
+            "en": "Advance through the marked route and deal with the enemies blocking your pursuit.",
+            "pt": "Avance pela rota indicada e enfrente os inimigos que bloqueiam a perseguição."
+          }
+        },
+        {
+          "key": "resolve-opening-duel",
+          "title": "Resolve the opening duel",
+          "title_i18n": {
+            "en": "Resolve the opening duel",
+            "pt": "Concluir o duelo de abertura"
+          },
+          "description": "Follow the encounter and its prompts without treating it as the later optional boss challenge.",
+          "description_i18n": {
+            "en": "Follow the encounter and its prompts without treating it as the later optional boss challenge.",
+            "pt": "Acompanhe o confronto e seus comandos sem tratá-lo como o desafio opcional de chefe posterior."
+          }
+        },
+        {
+          "key": "finish-r-00",
+          "title": "Finish R-00",
+          "title_i18n": {
+            "en": "Finish R-00",
+            "pt": "Concluir R-00"
+          },
+          "description": "Continue through the transition and confirm the file result before the next deployment.",
+          "description_i18n": {
+            "en": "Continue through the transition and confirm the file result before the next deployment.",
+            "pt": "Acompanhe a transição e confirme o resultado do arquivo antes da próxima missão."
+          }
+        }
+      ]
+    },
+    {
+      "key": "r-01-coup-detat",
+      "title": "R-01: Coup d’État",
+      "title_i18n": {
+        "en": "R-01: Coup d’État",
+        "pt": "R-01: Coup d’État"
+      },
+      "items": [
+        {
+          "key": "land-r-01",
+          "title": "Enter the coastal operation",
+          "title_i18n": {
+            "en": "Enter the coastal operation",
+            "pt": "Entrar na operação costeira"
+          },
+          "description": "Review the new body's combat options and move toward the settlement.",
+          "description_i18n": {
+            "en": "Review the new body's combat options and move toward the settlement.",
+            "pt": "Examine as opções de combate do novo corpo e avance para o povoado."
+          }
+        },
+        {
+          "key": "clear-first-street-battle",
+          "title": "Clear the first street battle",
+          "title_i18n": {
+            "en": "Clear the first street battle",
+            "pt": "Vencer o primeiro combate nas ruas"
+          },
+          "description": "Prioritize enemies you can finish safely and use the recovery opportunities provided.",
+          "description_i18n": {
+            "en": "Prioritize enemies you can finish safely and use the recovery opportunities provided.",
+            "pt": "Priorize os inimigos que puder finalizar com segurança e aproveite as oportunidades de recuperação."
+          }
+        },
+        {
+          "key": "check-first-civilian",
+          "title": "Check the threatened civilian",
+          "title_i18n": {
+            "en": "Check the threatened civilian",
+            "pt": "Verificar o civil ameaçado"
+          },
+          "description": "Observe the guards around the civilian before beginning an engagement.",
+          "description_i18n": {
+            "en": "Observe the guards around the civilian before beginning an engagement.",
+            "pt": "Observe os guardas ao redor do civil antes de iniciar o confronto."
+          }
+        },
+        {
+          "key": "reach-blade-wolf",
+          "title": "Reach the mechanical opponent",
+          "title_i18n": {
+            "en": "Reach the mechanical opponent",
+            "pt": "Alcançar o adversário mecânico"
+          },
+          "description": "Clear the approach and prepare for a faster enemy with distinct attack strings.",
+          "description_i18n": {
+            "en": "Clear the approach and prepare for a faster enemy with distinct attack strings.",
+            "pt": "Libere o caminho e prepare-se para um inimigo rápido com sequências próprias de ataque."
+          }
+        },
+        {
+          "key": "defeat-blade-wolf",
+          "title": "Defeat Blade Wolf",
+          "title_i18n": {
+            "en": "Defeat Blade Wolf",
+            "pt": "Derrotar Blade Wolf"
+          },
+          "description": "Concentrate on learning the attack rhythm and handle interruptions before returning to the duel.",
+          "description_i18n": {
+            "en": "Concentrate on learning the attack rhythm and handle interruptions before returning to the duel.",
+            "pt": "Concentre-se no ritmo dos ataques e resolva as interrupções antes de retomar o duelo."
+          },
+          "details": "Stay near enough to read the opening slash and parry each part of his combo instead of attacking through it. Punish a completed sequence with a short burst, then prepare to defend again. When he withdraws and sends reinforcements, finish those enemies and use Zandatsu to recover before the duel resumes. Keep your camera on his approach after each interruption. If you repeatedly lose the exchange, practice the direction-plus-Square input against his first attack rather than trying to win with a longer combo.",
+          "details_i18n": {
+            "en": "Stay near enough to read the opening slash and parry each part of his combo instead of attacking through it. Punish a completed sequence with a short burst, then prepare to defend again. When he withdraws and sends reinforcements, finish those enemies and use Zandatsu to recover before the duel resumes. Keep your camera on his approach after each interruption. If you repeatedly lose the exchange, practice the direction-plus-Square input against his first attack rather than trying to win with a longer combo.",
+            "pt": "Fique perto o bastante para reconhecer o primeiro golpe e defenda cada parte da sequência em vez de atacar através dela. Aproveite o fim da combinação para atacar brevemente e prepare a defesa de novo. Quando ele recuar e chamar reforços, derrote-os e use Zandatsu para se recuperar antes da volta ao duelo. Acompanhe sua aproximação com a câmera após cada interrupção. Se perder sempre a troca, pratique direção mais Quadrado contra o primeiro ataque em vez de tentar vencer com uma combinação longa."
+          }
+        },
+        {
+          "key": "review-first-customization",
+          "title": "Review customization upgrades",
+          "title_i18n": {
+            "en": "Review customization upgrades",
+            "pt": "Revisar as melhorias de personalização"
+          },
+          "description": "Spend available BP on useful skills and upgrades rather than saving everything while struggling.",
+          "description_i18n": {
+            "en": "Spend available BP on useful skills and upgrades rather than saving everything while struggling.",
+            "pt": "Gaste os BP disponíveis em habilidades e melhorias úteis em vez de guardar tudo enquanto enfrenta dificuldades."
+          }
+        },
+        {
+          "key": "cross-bridge-route",
+          "title": "Cross the bridge route",
+          "title_i18n": {
+            "en": "Cross the bridge route",
+            "pt": "Atravessar a rota da ponte"
+          },
+          "description": "Follow the route through the next encounters and react promptly when the crossing changes.",
+          "description_i18n": {
+            "en": "Follow the route through the next encounters and react promptly when the crossing changes.",
+            "pt": "Siga a rota pelos próximos confrontos e reaja quando a travessia mudar."
+          }
+        },
+        {
+          "key": "advance-industrial-approach",
+          "title": "Advance through the industrial approach",
+          "title_i18n": {
+            "en": "Advance through the industrial approach",
+            "pt": "Avançar pelo acesso industrial"
+          },
+          "description": "Check high ground and side paths before committing to the next combat area.",
+          "description_i18n": {
+            "en": "Check high ground and side paths before committing to the next combat area.",
+            "pt": "Examine os pontos elevados e os caminhos laterais antes de entrar na próxima área de combate."
+          }
+        },
+        {
+          "key": "defeat-mistral",
+          "title": "Defeat Mistral",
+          "title_i18n": {
+            "en": "Defeat Mistral",
+            "pt": "Derrotar Mistral"
+          },
+          "description": "Adapt to the changing arena and keep track of nearby small enemies during the boss fight.",
+          "description_i18n": {
+            "en": "Adapt to the changing arena and keep track of nearby small enemies during the boss fight.",
+            "pt": "Adapte-se às mudanças na arena e acompanhe os inimigos pequenos durante a luta."
+          },
+          "details": "Thin out the Dwarf Gekkos so their grabs do not interrupt your defense, but do not chase every small enemy while Mistral attacks. Parry her ordinary pole strikes and move away from yellow-signaled attacks. During the scripted Blade Mode opportunities, cut the highlighted section of her weapon and follow the transition to the next arena. Repeat the same patient pattern on the pipe and final platform. For the no-damage trophy, use Hard or above and account for small-enemy hits as well as the boss herself.",
+          "details_i18n": {
+            "en": "Thin out the Dwarf Gekkos so their grabs do not interrupt your defense, but do not chase every small enemy while Mistral attacks. Parry her ordinary pole strikes and move away from yellow-signaled attacks. During the scripted Blade Mode opportunities, cut the highlighted section of her weapon and follow the transition to the next arena. Repeat the same patient pattern on the pipe and final platform. For the no-damage trophy, use Hard or above and account for small-enemy hits as well as the boss herself.",
+            "pt": "Reduza os Dwarf Gekkos para impedir que seus agarrões interrompam a defesa, mas não persiga cada inimigo pequeno enquanto Mistral ataca. Defenda os golpes comuns da arma e afaste-se dos ataques sinalizados em amarelo. Nas oportunidades previstas de Blade Mode, corte a seção destacada da arma e acompanhe a transição de arena. Repita o padrão paciente no cano e na plataforma final. Para o troféu sem dano, use Hard ou superior e considere os golpes dos inimigos pequenos além dos da chefe."
+          }
+        },
+        {
+          "key": "finish-r-01",
+          "title": "Finish R-01",
+          "title_i18n": {
+            "en": "Finish R-01",
+            "pt": "Concluir R-01"
+          },
+          "description": "Review the file results and the new customization options before continuing.",
+          "description_i18n": {
+            "en": "Review the file results and the new customization options before continuing.",
+            "pt": "Confira os resultados e as novas opções de personalização antes de continuar."
+          }
+        }
+      ]
+    },
+    {
+      "key": "r-02-research-facility",
+      "title": "R-02: Research Facility",
+      "title_i18n": {
+        "en": "R-02: Research Facility",
+        "pt": "R-02: Research Facility"
+      },
+      "items": [
+        {
+          "key": "enter-sewer-route",
+          "title": "Enter the underground route",
+          "title_i18n": {
+            "en": "Enter the underground route",
+            "pt": "Entrar na rota subterrânea"
+          },
+          "description": "Follow the approach into the sewer and inspect unfamiliar enemy types before attacking.",
+          "description_i18n": {
+            "en": "Follow the approach into the sewer and inspect unfamiliar enemy types before attacking.",
+            "pt": "Siga para o esgoto e examine os tipos de inimigo desconhecidos antes de atacar."
+          }
+        },
+        {
+          "key": "handle-waterway-enemies",
+          "title": "Handle the waterway encounters",
+          "title_i18n": {
+            "en": "Handle the waterway encounters",
+            "pt": "Vencer os confrontos nas passagens de água"
+          },
+          "description": "Keep the camera clear of nearby walls and avoid being surrounded in narrow passages.",
+          "description_i18n": {
+            "en": "Keep the camera clear of nearby walls and avoid being surrounded in narrow passages.",
+            "pt": "Mantenha a câmera longe das paredes próximas e evite ficar cercado nas passagens estreitas."
+          }
+        },
+        {
+          "key": "meet-research-contact",
+          "title": "Follow the contact's lead",
+          "title_i18n": {
+            "en": "Follow the contact's lead",
+            "pt": "Seguir a pista do contato"
+          },
+          "description": "Continue the conversation and use the updated objective to locate the facility route.",
+          "description_i18n": {
+            "en": "Continue the conversation and use the updated objective to locate the facility route.",
+            "pt": "Acompanhe a conversa e use o novo objetivo para localizar o caminho até a instalação."
+          }
+        },
+        {
+          "key": "enter-research-building",
+          "title": "Enter the research facility",
+          "title_i18n": {
+            "en": "Enter the research facility",
+            "pt": "Entrar na instalação de pesquisa"
+          },
+          "description": "Clear the guarded approach and check rooms before moving beyond each doorway.",
+          "description_i18n": {
+            "en": "Clear the guarded approach and check rooms before moving beyond each doorway.",
+            "pt": "Libere a aproximação vigiada e confira os cômodos antes de passar por cada porta."
+          }
+        },
+        {
+          "key": "control-dwarf-gekko",
+          "title": "Control the Dwarf Gekko",
+          "title_i18n": {
+            "en": "Control the Dwarf Gekko",
+            "pt": "Controlar o Dwarf Gekko"
+          },
+          "description": "Learn the temporary unit's movement and interaction options before exploring the assigned area.",
+          "description_i18n": {
+            "en": "Learn the temporary unit's movement and interaction options before exploring the assigned area.",
+            "pt": "Aprenda os movimentos e as interações da unidade temporária antes de explorar a área indicada."
+          }
+        },
+        {
+          "key": "finish-gekko-infiltration",
+          "title": "Finish the remote infiltration",
+          "title_i18n": {
+            "en": "Finish the remote infiltration",
+            "pt": "Concluir a infiltração remota"
+          },
+          "description": "Resolve the required interactions and return to Raiden when the objective permits.",
+          "description_i18n": {
+            "en": "Resolve the required interactions and return to Raiden when the objective permits.",
+            "pt": "Resolva as interações exigidas e volte a Raiden quando o objetivo permitir."
+          }
+        },
+        {
+          "key": "advance-through-laboratory",
+          "title": "Advance through the laboratory",
+          "title_i18n": {
+            "en": "Advance through the laboratory",
+            "pt": "Avançar pelo laboratório"
+          },
+          "description": "Respond to the new objective and prepare equipment before the final restricted area.",
+          "description_i18n": {
+            "en": "Respond to the new objective and prepare equipment before the final restricted area.",
+            "pt": "Siga o novo objetivo e prepare o equipamento antes da área restrita final."
+          }
+        },
+        {
+          "key": "defeat-grad-encounter",
+          "title": "Defeat the GRAD encounter",
+          "title_i18n": {
+            "en": "Defeat the GRAD encounter",
+            "pt": "Vencer o confronto com GRAD"
+          },
+          "description": "Read the machine's attack changes and keep room to move during its close-range phase.",
+          "description_i18n": {
+            "en": "Read the machine's attack changes and keep room to move during its close-range phase.",
+            "pt": "Observe as mudanças nos ataques da máquina e mantenha espaço na fase de combate próximo."
+          }
+        },
+        {
+          "key": "finish-r-02",
+          "title": "Finish R-02",
+          "title_i18n": {
+            "en": "Finish R-02",
+            "pt": "Concluir R-02"
+          },
+          "description": "Continue through the concluding sequence and review the file result.",
+          "description_i18n": {
+            "en": "Continue through the concluding sequence and review the file result.",
+            "pt": "Acompanhe a sequência de conclusão e confira o resultado do arquivo."
+          }
+        }
+      ]
+    },
+    {
+      "key": "r-03-mile-high",
+      "title": "R-03: Mile High",
+      "title_i18n": {
+        "en": "R-03: Mile High",
+        "pt": "R-03: Mile High"
+      },
+      "items": [
+        {
+          "key": "enter-denver",
+          "title": "Enter Denver",
+          "title_i18n": {
+            "en": "Enter Denver",
+            "pt": "Entrar em Denver"
+          },
+          "description": "Review the urban objective and inspect the first combat area before advancing.",
+          "description_i18n": {
+            "en": "Review the urban objective and inspect the first combat area before advancing.",
+            "pt": "Examine o objetivo urbano e a primeira área de combate antes de avançar."
+          }
+        },
+        {
+          "key": "clear-city-streets",
+          "title": "Clear the city streets",
+          "title_i18n": {
+            "en": "Clear the city streets",
+            "pt": "Liberar as ruas da cidade"
+          },
+          "description": "Use cover and movement to separate ranged threats from close-range attackers.",
+          "description_i18n": {
+            "en": "Use cover and movement to separate ranged threats from close-range attackers.",
+            "pt": "Use cobertura e movimento para separar ameaças à distância dos atacantes próximos."
+          }
+        },
+        {
+          "key": "check-city-civilian",
+          "title": "Check the civilian encounter",
+          "title_i18n": {
+            "en": "Check the civilian encounter",
+            "pt": "Verificar o encontro com o civil"
+          },
+          "description": "Watch the captors before acting and confirm the civilian survives the encounter.",
+          "description_i18n": {
+            "en": "Watch the captors before acting and confirm the civilian survives the encounter.",
+            "pt": "Observe os captores antes de agir e confirme a sobrevivência do civil."
+          }
+        },
+        {
+          "key": "advance-rooftop-route",
+          "title": "Advance along the elevated route",
+          "title_i18n": {
+            "en": "Advance along the elevated route",
+            "pt": "Avançar pela rota elevada"
+          },
+          "description": "Follow the traversal prompts and inspect each landing before entering the next fight.",
+          "description_i18n": {
+            "en": "Follow the traversal prompts and inspect each landing before entering the next fight.",
+            "pt": "Siga os comandos de travessia e examine cada chegada antes do próximo combate."
+          }
+        },
+        {
+          "key": "cross-dark-railroad",
+          "title": "Cross the abandoned railroad",
+          "title_i18n": {
+            "en": "Cross the abandoned railroad",
+            "pt": "Atravessar a ferrovia abandonada"
+          },
+          "description": "Move carefully through the dark route and decide whether this is a normal or optional restricted-vision attempt.",
+          "description_i18n": {
+            "en": "Move carefully through the dark route and decide whether this is a normal or optional restricted-vision attempt.",
+            "pt": "Avance com cuidado na escuridão e decida se esta é uma tentativa comum ou do desafio opcional de visão restrita."
+          }
+        },
+        {
+          "key": "leave-underground-route",
+          "title": "Leave the underground route",
+          "title_i18n": {
+            "en": "Leave the underground route",
+            "pt": "Sair da rota subterrânea"
+          },
+          "description": "Keep track of the exit objective and handle enemies without retreating blindly into obstacles.",
+          "description_i18n": {
+            "en": "Keep track of the exit objective and handle enemies without retreating blindly into obstacles.",
+            "pt": "Acompanhe o objetivo de saída e enfrente os inimigos sem recuar às cegas contra obstáculos."
+          }
+        },
+        {
+          "key": "reach-world-marshal-approach",
+          "title": "Reach the World Marshal approach",
+          "title_i18n": {
+            "en": "Reach the World Marshal approach",
+            "pt": "Chegar ao acesso à World Marshal"
+          },
+          "description": "Continue toward the destination and listen to the changing support guidance.",
+          "description_i18n": {
+            "en": "Continue toward the destination and listen to the changing support guidance.",
+            "pt": "Avance até o destino e ouça as novas orientações da equipe."
+          }
+        },
+        {
+          "key": "follow-impaired-sequence",
+          "title": "Follow the restricted-movement sequence",
+          "title_i18n": {
+            "en": "Follow the restricted-movement sequence",
+            "pt": "Atravessar a sequência de movimento limitado"
+          },
+          "description": "Use the available route and avoid treating reduced movement as a normal combat setup.",
+          "description_i18n": {
+            "en": "Use the available route and avoid treating reduced movement as a normal combat setup.",
+            "pt": "Use a rota disponível e não trate o movimento reduzido como uma situação comum de combate."
+          }
+        },
+        {
+          "key": "defeat-monsoon",
+          "title": "Defeat Monsoon",
+          "title_i18n": {
+            "en": "Defeat Monsoon",
+            "pt": "Derrotar Monsoon"
+          },
+          "description": "Learn the defensive rhythm, react to arena-wide attacks and recognize changes in vulnerability.",
+          "description_i18n": {
+            "en": "Learn the defensive rhythm, react to arena-wide attacks and recognize changes in vulnerability.",
+            "pt": "Aprenda o ritmo defensivo, reaja aos ataques que cobrem a arena e perceba as mudanças de vulnerabilidade."
+          },
+          "details": "Defend every hit of his fast strings; blocking the first does not automatically stop the rest. When his separated body evades attacks, an EM Grenade can stun him long enough to enter Blade Mode and strike the exposed head. Use the resulting opening rather than swinging into an invulnerable body. For thrown vehicles, either make the prompted cuts or use clear space to evade the barrage. Keep distance from the rolling mass of debris and follow the final traversal prompts when the arena changes.",
+          "details_i18n": {
+            "en": "Defend every hit of his fast strings; blocking the first does not automatically stop the rest. When his separated body evades attacks, an EM Grenade can stun him long enough to enter Blade Mode and strike the exposed head. Use the resulting opening rather than swinging into an invulnerable body. For thrown vehicles, either make the prompted cuts or use clear space to evade the barrage. Keep distance from the rolling mass of debris and follow the final traversal prompts when the arena changes.",
+            "pt": "Defenda cada golpe das sequências rápidas; bloquear o primeiro não impede automaticamente os restantes. Quando o corpo separado evitar seus ataques, uma EM Grenade pode atordoá-lo por tempo suficiente para entrar em Blade Mode e atingir a cabeça exposta. Aproveite a abertura em vez de atacar um corpo invulnerável. Contra veículos arremessados, faça os cortes indicados ou use espaço livre para evitar a sequência. Afaste-se da massa de destroços rolante e siga os comandos finais de travessia quando a arena mudar."
+          }
+        },
+        {
+          "key": "finish-r-03",
+          "title": "Finish R-03",
+          "title_i18n": {
+            "en": "Finish R-03",
+            "pt": "Concluir R-03"
+          },
+          "description": "Review the result and test newly available combat options before the next file.",
+          "description_i18n": {
+            "en": "Review the result and test newly available combat options before the next file.",
+            "pt": "Confira o resultado e teste as novas opções de combate antes do próximo arquivo."
+          }
+        }
+      ]
+    },
+    {
+      "key": "r-04-hostile-takeover",
+      "title": "R-04: Hostile Takeover",
+      "title_i18n": {
+        "en": "R-04: Hostile Takeover",
+        "pt": "R-04: Hostile Takeover"
+      },
+      "items": [
+        {
+          "key": "enter-world-marshal",
+          "title": "Enter World Marshal",
+          "title_i18n": {
+            "en": "Enter World Marshal",
+            "pt": "Entrar na World Marshal"
+          },
+          "description": "Check the lobby's enemies and available space before starting the first engagement.",
+          "description_i18n": {
+            "en": "Check the lobby's enemies and available space before starting the first engagement.",
+            "pt": "Examine os inimigos e o espaço do saguão antes do primeiro confronto."
+          }
+        },
+        {
+          "key": "clear-office-encounters",
+          "title": "Clear the office encounters",
+          "title_i18n": {
+            "en": "Clear the office encounters",
+            "pt": "Vencer os combates nos escritórios"
+          },
+          "description": "Stay aware of corners and ranged enemies while moving between interior rooms.",
+          "description_i18n": {
+            "en": "Stay aware of corners and ranged enemies while moving between interior rooms.",
+            "pt": "Observe as esquinas e os inimigos à distância ao passar pelos ambientes internos."
+          }
+        },
+        {
+          "key": "follow-upper-floor-route",
+          "title": "Follow the upper-floor route",
+          "title_i18n": {
+            "en": "Follow the upper-floor route",
+            "pt": "Seguir a rota dos andares superiores"
+          },
+          "description": "Use the marked route through the building and search side rooms before leaving them.",
+          "description_i18n": {
+            "en": "Use the marked route through the building and search side rooms before leaving them.",
+            "pt": "Siga a rota indicada pelo prédio e examine as salas laterais antes de sair."
+          },
+          "details": "The security route requires destroying three power panels before the gate opens. Use AR to locate them and inspect the surrounding guards before attacking a panel. If collecting officer IDs, plan this section separately: destroying the first two panels without detection is relevant to a particular reinforcement officer's appearance near the remaining panel. Once the panels are resolved, follow the gate objective and prepare for the building's chase and climbing sequence before the Japanese garden. Do not assume reaching a locked gate means the objective has already been completed.",
+          "details_i18n": {
+            "en": "The security route requires destroying three power panels before the gate opens. Use AR to locate them and inspect the surrounding guards before attacking a panel. If collecting officer IDs, plan this section separately: destroying the first two panels without detection is relevant to a particular reinforcement officer's appearance near the remaining panel. Once the panels are resolved, follow the gate objective and prepare for the building's chase and climbing sequence before the Japanese garden. Do not assume reaching a locked gate means the objective has already been completed.",
+            "pt": "A rota de segurança exige destruir três painéis elétricos para abrir o portão. Use AR para localizá-los e examine os guardas antes de atacar cada painel. Se estiver coletando IDs, planeje esta seção separadamente: destruir os dois primeiros sem ser detectado é relevante para o aparecimento de um oficial de reforço perto do painel restante. Depois dos painéis, siga ao portão e prepare-se para a perseguição e a escalada do prédio antes do jardim japonês. Chegar ao portão fechado não significa que o objetivo já foi cumprido."
+          }
+        },
+        {
+          "key": "climb-building-route",
+          "title": "Climb toward the upper levels",
+          "title_i18n": {
+            "en": "Climb toward the upper levels",
+            "pt": "Subir aos níveis superiores"
+          },
+          "description": "Follow the traversal sequence and respond to hazards before re-entering combat.",
+          "description_i18n": {
+            "en": "Follow the traversal sequence and respond to hazards before re-entering combat.",
+            "pt": "Siga a sequência de travessia e reaja aos perigos antes de voltar ao combate."
+          }
+        },
+        {
+          "key": "reach-japanese-garden",
+          "title": "Reach the Japanese garden",
+          "title_i18n": {
+            "en": "Reach the Japanese garden",
+            "pt": "Chegar ao jardim japonês"
+          },
+          "description": "Inspect the unusual arena layout and identify a safe approach through its defenders.",
+          "description_i18n": {
+            "en": "Inspect the unusual arena layout and identify a safe approach through its defenders.",
+            "pt": "Examine o cenário incomum e encontre uma aproximação segura entre os defensores."
+          }
+        },
+        {
+          "key": "clear-garden-and-pagoda",
+          "title": "Clear the garden route",
+          "title_i18n": {
+            "en": "Clear the garden route",
+            "pt": "Liberar a rota do jardim"
+          },
+          "description": "Handle the encounters around the garden and follow the route toward the next interior section.",
+          "description_i18n": {
+            "en": "Handle the encounters around the garden and follow the route toward the next interior section.",
+            "pt": "Vença os confrontos do jardim e siga para a próxima seção interna."
+          }
+        },
+        {
+          "key": "complete-freight-elevator",
+          "title": "Complete the freight-elevator encounter",
+          "title_i18n": {
+            "en": "Complete the freight-elevator encounter",
+            "pt": "Concluir o confronto no elevador de carga"
+          },
+          "description": "Manage enemy waves in the confined space and avoid losing sight of attackers behind you.",
+          "description_i18n": {
+            "en": "Manage enemy waves in the confined space and avoid losing sight of attackers behind you.",
+            "pt": "Controle as ondas de inimigos no espaço limitado e observe os atacantes atrás de você."
+          }
+        },
+        {
+          "key": "resolve-upper-boss-encounters",
+          "title": "Resolve the upper-floor boss encounters",
+          "title_i18n": {
+            "en": "Resolve the upper-floor boss encounters",
+            "pt": "Vencer os confrontos especiais superiores"
+          },
+          "description": "Apply the defensive patterns you have learned and wait for each encounter to finish fully.",
+          "description_i18n": {
+            "en": "Apply the defensive patterns you have learned and wait for each encounter to finish fully.",
+            "pt": "Aplique os padrões defensivos aprendidos e espere o encerramento completo de cada confronto."
+          }
+        },
+        {
+          "key": "reach-rooftop-objective",
+          "title": "Reach the rooftop objective",
+          "title_i18n": {
+            "en": "Reach the rooftop objective",
+            "pt": "Alcançar o objetivo na cobertura"
+          },
+          "description": "Check recovery equipment and ammunition before advancing onto the rooftop.",
+          "description_i18n": {
+            "en": "Check recovery equipment and ammunition before advancing onto the rooftop.",
+            "pt": "Confira os itens de recuperação e a munição antes de avançar à cobertura."
+          }
+        },
+        {
+          "key": "defeat-sundowner",
+          "title": "Defeat Sundowner",
+          "title_i18n": {
+            "en": "Defeat Sundowner",
+            "pt": "Derrotar Sundowner"
+          },
+          "description": "Study his defensive equipment and control your cuts instead of attacking indiscriminately.",
+          "description_i18n": {
+            "en": "Study his defensive equipment and control your cuts instead of attacking indiscriminately.",
+            "pt": "Examine o equipamento defensivo dele e controle os cortes em vez de atacar sem critério."
+          },
+          "details": "Do not strike the red explosive plates indiscriminately. When a shield-cutting opportunity appears, align Blade Mode through the safe indicated gaps, then cut the exposed supports to remove the shield sections. Reposition if your angle would hit a plate. Deal with aerial support when it prevents a safe approach. Once the defenses are removed, keep reading his new attack pattern rather than assuming the fight is finished. A short punish after a defended combo is safer than a long attack into a renewed shield.",
+          "details_i18n": {
+            "en": "Do not strike the red explosive plates indiscriminately. When a shield-cutting opportunity appears, align Blade Mode through the safe indicated gaps, then cut the exposed supports to remove the shield sections. Reposition if your angle would hit a plate. Deal with aerial support when it prevents a safe approach. Once the defenses are removed, keep reading his new attack pattern rather than assuming the fight is finished. A short punish after a defended combo is safer than a long attack into a renewed shield.",
+            "pt": "Não golpeie as placas explosivas vermelhas sem critério. Quando surgir a oportunidade, alinhe o Blade Mode nas aberturas seguras indicadas e corte os suportes expostos para remover as seções do escudo. Reposicione-se se o ângulo atingir uma placa. Resolva o apoio aéreo quando ele impedir a aproximação segura. Depois de remover as defesas, continue observando o novo padrão de ataques em vez de presumir que a luta acabou. Um ataque breve após defender uma sequência é mais seguro que uma combinação longa contra um escudo reativado."
+          }
+        },
+        {
+          "key": "finish-r-04",
+          "title": "Finish R-04",
+          "title_i18n": {
+            "en": "Finish R-04",
+            "pt": "Concluir R-04"
+          },
+          "description": "Complete the exit sequence and inspect the file results before the escape route.",
+          "description_i18n": {
+            "en": "Complete the exit sequence and inspect the file results before the escape route.",
+            "pt": "Conclua a sequência de saída e examine os resultados antes da rota de fuga."
+          }
+        }
+      ]
+    },
+    {
+      "key": "r-05-escape-from-denver",
+      "title": "R-05: Escape From Denver",
+      "title_i18n": {
+        "en": "R-05: Escape From Denver",
+        "pt": "R-05: Escape From Denver"
+      },
+      "items": [
+        {
+          "key": "begin-denver-escape",
+          "title": "Begin the Denver escape",
+          "title_i18n": {
+            "en": "Begin the Denver escape",
+            "pt": "Iniciar a fuga de Denver"
+          },
+          "description": "Follow the extraction objective and review the streets before rushing into the next encounter.",
+          "description_i18n": {
+            "en": "Follow the extraction objective and review the streets before rushing into the next encounter.",
+            "pt": "Siga o objetivo de extração e observe as ruas antes de correr ao próximo confronto."
+          }
+        },
+        {
+          "key": "clear-escape-battles",
+          "title": "Clear the escape battles",
+          "title_i18n": {
+            "en": "Clear the escape battles",
+            "pt": "Vencer os combates da fuga"
+          },
+          "description": "Use your expanded equipment to handle the groups blocking the route.",
+          "description_i18n": {
+            "en": "Use your expanded equipment to handle the groups blocking the route.",
+            "pt": "Use o equipamento ampliado para enfrentar os grupos que bloqueiam a rota."
+          }
+        },
+        {
+          "key": "check-escape-civilian",
+          "title": "Check the threatened civilian",
+          "title_i18n": {
+            "en": "Check the threatened civilian",
+            "pt": "Verificar o civil ameaçado"
+          },
+          "description": "Inspect the encounter before using wide attacks near the hostage.",
+          "description_i18n": {
+            "en": "Inspect the encounter before using wide attacks near the hostage.",
+            "pt": "Examine o confronto antes de usar ataques amplos perto do refém."
+          }
+        },
+        {
+          "key": "reach-escape-destination",
+          "title": "Reach the escape destination",
+          "title_i18n": {
+            "en": "Reach the escape destination",
+            "pt": "Chegar ao destino da fuga"
+          },
+          "description": "Continue along the objective route and confirm every required encounter is resolved.",
+          "description_i18n": {
+            "en": "Continue along the objective route and confirm every required encounter is resolved.",
+            "pt": "Siga a rota do objetivo e confirme a conclusão dos confrontos exigidos."
+          }
+        },
+        {
+          "key": "finish-r-05",
+          "title": "Finish R-05",
+          "title_i18n": {
+            "en": "Finish R-05",
+            "pt": "Concluir R-05"
+          },
+          "description": "Review the file result; save a fast replay attempt for a route you already know.",
+          "description_i18n": {
+            "en": "Review the file result; save a fast replay attempt for a route you already know.",
+            "pt": "Confira o resultado; deixe uma repetição rápida para quando já conhecer a rota."
+          }
+        }
+      ]
+    },
+    {
+      "key": "r-06-badlands-showdown",
+      "title": "R-06: Badlands Showdown",
+      "title_i18n": {
+        "en": "R-06: Badlands Showdown",
+        "pt": "R-06: Badlands Showdown"
+      },
+      "items": [
+        {
+          "key": "prepare-badlands-duel",
+          "title": "Prepare for the Badlands duel",
+          "title_i18n": {
+            "en": "Prepare for the Badlands duel",
+            "pt": "Preparar-se para o duelo em Badlands"
+          },
+          "description": "Review your defensive skills and recovery equipment before approaching the opponent.",
+          "description_i18n": {
+            "en": "Review your defensive skills and recovery equipment before approaching the opponent.",
+            "pt": "Revise as habilidades defensivas e o equipamento de recuperação antes de se aproximar."
+          }
+        },
+        {
+          "key": "read-sam-attack-rhythm",
+          "title": "Read Sam's attack rhythm",
+          "title_i18n": {
+            "en": "Read Sam's attack rhythm",
+            "pt": "Observar o ritmo de ataques de Sam"
+          },
+          "description": "Spend the opening exchanges learning the ends of his combinations rather than chasing every retreat.",
+          "description_i18n": {
+            "en": "Spend the opening exchanges learning the ends of his combinations rather than chasing every retreat.",
+            "pt": "Use as primeiras trocas para reconhecer o fim das sequências em vez de perseguir cada recuo."
+          }
+        },
+        {
+          "key": "respond-duel-phase-changes",
+          "title": "Respond to the duel's changes",
+          "title_i18n": {
+            "en": "Respond to the duel's changes",
+            "pt": "Reagir às mudanças do duelo"
+          },
+          "description": "Adjust your spacing when his attack behavior changes and avoid assuming every opening is safe.",
+          "description_i18n": {
+            "en": "Adjust your spacing when his attack behavior changes and avoid assuming every opening is safe.",
+            "pt": "Ajuste a distância quando os ataques mudarem e não presuma que toda abertura é segura."
+          }
+        },
+        {
+          "key": "defeat-jetstream-sam",
+          "title": "Defeat Jetstream Sam",
+          "title_i18n": {
+            "en": "Defeat Jetstream Sam",
+            "pt": "Derrotar Jetstream Sam"
+          },
+          "description": "Complete the duel and respond to the finishing sequence.",
+          "description_i18n": {
+            "en": "Complete the duel and respond to the finishing sequence.",
+            "pt": "Conclua o duelo e responda à sequência de finalização."
+          },
+          "details": "Let Sam finish his multi-hit string before retaliating; his pauses can tempt you into attacking before the last strike. Use short punish windows and be ready to redirect your parry when he moves past you. When the duel changes and he fights without his sword, treat the new attacks as a separate pattern rather than chasing recklessly. Defensive Offense helps evade attacks that should not be blocked. The no-damage trophy requires Hard or higher and the complete relevant encounter, not merely a clean final exchange.",
+          "details_i18n": {
+            "en": "Let Sam finish his multi-hit string before retaliating; his pauses can tempt you into attacking before the last strike. Use short punish windows and be ready to redirect your parry when he moves past you. When the duel changes and he fights without his sword, treat the new attacks as a separate pattern rather than chasing recklessly. Defensive Offense helps evade attacks that should not be blocked. The no-damage trophy requires Hard or higher and the complete relevant encounter, not merely a clean final exchange.",
+            "pt": "Espere Sam terminar a sequência de vários golpes antes de responder; suas pausas podem induzir um ataque antes do último golpe. Use aberturas curtas e redirecione a defesa quando ele passar por você. Quando o duelo mudar e ele lutar sem a espada, trate os novos ataques como outro padrão em vez de persegui-lo sem cuidado. Defensive Offense ajuda a evitar ataques que não devem ser bloqueados. O troféu sem dano exige Hard ou superior e o confronto relevante completo, não apenas uma troca final limpa."
+          }
+        },
+        {
+          "key": "finish-r-06",
+          "title": "Finish R-06",
+          "title_i18n": {
+            "en": "Finish R-06",
+            "pt": "Concluir R-06"
+          },
+          "description": "Continue through the aftermath and confirm the file result before the final deployment.",
+          "description_i18n": {
+            "en": "Continue through the aftermath and confirm the file result before the final deployment.",
+            "pt": "Acompanhe o desfecho e confirme o resultado antes da última missão."
+          }
+        }
+      ]
+    },
+    {
+      "key": "r-07-assassination-attempt",
+      "title": "R-07: Assassination Attempt",
+      "title_i18n": {
+        "en": "R-07: Assassination Attempt",
+        "pt": "R-07: Assassination Attempt"
+      },
+      "items": [
+        {
+          "key": "survey-final-airbase",
+          "title": "Survey the airbase approach",
+          "title_i18n": {
+            "en": "Survey the airbase approach",
+            "pt": "Observar o acesso à base aérea"
+          },
+          "description": "Inspect the initial terrain and guards before choosing a route inside.",
+          "description_i18n": {
+            "en": "Inspect the initial terrain and guards before choosing a route inside.",
+            "pt": "Examine o terreno inicial e os guardas antes de escolher a entrada."
+          }
+        },
+        {
+          "key": "infiltrate-airbase",
+          "title": "Enter the airbase",
+          "title_i18n": {
+            "en": "Enter the airbase",
+            "pt": "Entrar na base aérea"
+          },
+          "description": "Follow the destination marker and use reconnaissance to avoid unnecessary engagements.",
+          "description_i18n": {
+            "en": "Follow the destination marker and use reconnaissance to avoid unnecessary engagements.",
+            "pt": "Siga o marcador do destino e use reconhecimento para evitar confrontos desnecessários."
+          }
+        },
+        {
+          "key": "reach-final-objective",
+          "title": "Reach the final objective",
+          "title_i18n": {
+            "en": "Reach the final objective",
+            "pt": "Alcançar o objetivo final"
+          },
+          "description": "Check equipment before crossing into the encounter that closes the infiltration route.",
+          "description_i18n": {
+            "en": "Check equipment before crossing into the encounter that closes the infiltration route.",
+            "pt": "Confira o equipamento antes de entrar no confronto que encerra a infiltração."
+          }
+        },
+        {
+          "key": "face-excelsus",
+          "title": "Face Metal Gear EXCELSUS",
+          "title_i18n": {
+            "en": "Face Metal Gear EXCELSUS",
+            "pt": "Enfrentar Metal Gear EXCELSUS"
+          },
+          "description": "Read the large-scale attack signals and keep the camera on the active threat.",
+          "description_i18n": {
+            "en": "Read the large-scale attack signals and keep the camera on the active threat.",
+            "pt": "Observe os sinais dos grandes ataques e mantenha a câmera na ameaça ativa."
+          },
+          "details": "Watch which blade or leg is about to move and leave its impact zone before attacking an exposed limb. Do not stay in a long combo while another large attack starts. During the beam and Gekko section, use the smaller enemies as recovery opportunities when safe, but keep moving away from the machine's line of fire. Once a limb is disabled, follow the prompted climbing and Blade Mode sequence. The cinematic-sized attacks still require active inputs, so stay ready after the health bar changes.",
+          "details_i18n": {
+            "en": "Watch which blade or leg is about to move and leave its impact zone before attacking an exposed limb. Do not stay in a long combo while another large attack starts. During the beam and Gekko section, use the smaller enemies as recovery opportunities when safe, but keep moving away from the machine's line of fire. Once a limb is disabled, follow the prompted climbing and Blade Mode sequence. The cinematic-sized attacks still require active inputs, so stay ready after the health bar changes.",
+            "pt": "Observe qual lâmina ou perna vai se mover e saia da área de impacto antes de atacar um membro exposto. Não prolongue uma combinação enquanto outro grande ataque começa. Na seção dos feixes e Gekkos, use os inimigos menores para recuperação quando houver segurança, mantendo-se fora da linha de tiro da máquina. Depois de incapacitar um membro, siga os comandos de escalada e Blade Mode. Os ataques de escala cinematográfica ainda exigem comandos; mantenha a atenção após as mudanças na barra de vida."
+          }
+        },
+        {
+          "key": "manage-excelsus-recovery",
+          "title": "Manage resources during EXCELSUS",
+          "title_i18n": {
+            "en": "Manage resources during EXCELSUS",
+            "pt": "Gerenciar recursos durante EXCELSUS"
+          },
+          "description": "Watch for recovery opportunities without standing still during the machine's attacks.",
+          "description_i18n": {
+            "en": "Watch for recovery opportunities without standing still during the machine's attacks.",
+            "pt": "Procure oportunidades de recuperação sem ficar parado durante os ataques da máquina."
+          }
+        },
+        {
+          "key": "finish-excelsus-sequence",
+          "title": "Finish the EXCELSUS sequence",
+          "title_i18n": {
+            "en": "Finish the EXCELSUS sequence",
+            "pt": "Concluir a sequência de EXCELSUS"
+          },
+          "description": "Follow the traversal, combat and Blade Mode prompts until the fight is resolved.",
+          "description_i18n": {
+            "en": "Follow the traversal, combat and Blade Mode prompts until the fight is resolved.",
+            "pt": "Siga os comandos de travessia, combate e Blade Mode até resolver a luta."
+          }
+        },
+        {
+          "key": "follow-final-confrontation-phases",
+          "title": "Follow the final confrontation's phases",
+          "title_i18n": {
+            "en": "Follow the final confrontation's phases",
+            "pt": "Acompanhar as fases do confronto final"
+          },
+          "description": "Stay attentive to changing equipment and combat conditions before treating this as a standard duel.",
+          "description_i18n": {
+            "en": "Stay attentive to changing equipment and combat conditions before treating this as a standard duel.",
+            "pt": "Observe as mudanças de equipamento e condições antes de tratar o confronto como um duelo comum."
+          }
+        },
+        {
+          "key": "defeat-armstrong",
+          "title": "Defeat Armstrong",
+          "title_i18n": {
+            "en": "Defeat Armstrong",
+            "pt": "Derrotar Armstrong"
+          },
+          "description": "Read the special attack signals and use the optional guidance if a new mechanic blocks progress.",
+          "description_i18n": {
+            "en": "Read the special attack signals and use the optional guidance if a new mechanic blocks progress.",
+            "pt": "Observe os sinais dos ataques especiais e consulte a orientação opcional se uma nova mecânica impedir o avanço."
+          },
+          "details": "During the final sword phase, evade yellow-signaled grabs and punish the end of his strings. For thrown debris, adjust both the cutting position and blade angle to cross the highlighted targets; collect the recovery items that follow a successful sequence. When he glows green and regenerates, go behind him and cut the marked point on his back in Blade Mode. Attacking from the front can trigger a counter instead. If disarmed, recover the sword when safe and keep following the changing prompts until the entire fight ends. For no-damage goals, the introductory exchanges also count; a clean final sword phase alone is insufficient. During the unarmed phase, evade until the transition instead of blocking: a barehanded block can still cost health.",
+          "details_i18n": {
+            "en": "During the final sword phase, evade yellow-signaled grabs and punish the end of his strings. For thrown debris, adjust both the cutting position and blade angle to cross the highlighted targets; collect the recovery items that follow a successful sequence. When he glows green and regenerates, go behind him and cut the marked point on his back in Blade Mode. Attacking from the front can trigger a counter instead. If disarmed, recover the sword when safe and keep following the changing prompts until the entire fight ends. For no-damage goals, the introductory exchanges also count; a clean final sword phase alone is insufficient. During the unarmed phase, evade until the transition instead of blocking: a barehanded block can still cost health.",
+            "pt": "Na fase final com espada, evite os agarrões sinalizados em amarelo e ataque após o fim das sequências. Contra os destroços arremessados, ajuste a posição e o ângulo da lâmina para atravessar os alvos destacados; recolha os itens de recuperação após a sequência bem-sucedida. Quando ele brilhar em verde e regenerar, vá por trás e corte o ponto marcado nas costas em Blade Mode. Atacar pela frente pode provocar um contra-ataque. Se perder a espada, recupere-a quando houver segurança e acompanhe os comandos até o encerramento completo. Para metas sem dano, as trocas introdutórias também contam; apenas a fase final limpa com espada não basta. Na fase desarmada, desvie até a transição em vez de bloquear: a defesa sem espada ainda pode consumir vida."
+          }
+        },
+        {
+          "key": "complete-final-prompts",
+          "title": "Complete the final combat prompts",
+          "title_i18n": {
+            "en": "Complete the final combat prompts",
+            "pt": "Concluir os comandos finais de combate"
+          },
+          "description": "Follow the remaining prompts and keep control through the complete finishing sequence.",
+          "description_i18n": {
+            "en": "Follow the remaining prompts and keep control through the complete finishing sequence.",
+            "pt": "Siga os comandos restantes e mantenha a atenção até o fim da finalização."
+          }
+        },
+        {
+          "key": "finish-campaign-ending",
+          "title": "Finish the campaign and ending",
+          "title_i18n": {
+            "en": "Finish the campaign and ending",
+            "pt": "Concluir a campanha e o encerramento"
+          },
+          "description": "Continue through the closing scenes and credits, then preserve your completed campaign data.",
+          "description_i18n": {
+            "en": "Continue through the closing scenes and credits, then preserve your completed campaign data.",
+            "pt": "Acompanhe as cenas finais e os créditos e preserve os dados da campanha concluída."
+          }
+        }
+      ]
+    },
+    {
+      "key": "aggregate-collectibles-and-rescues",
+      "title": "Aggregate collectibles and rescues",
+      "title_i18n": {
+        "en": "Aggregate collectibles and rescues",
+        "pt": "Colecionáveis e resgates: metas agregadas"
+      },
+      "items": [
+        {
+          "key": "collect-data-storage",
+          "title": "Collect all data storage devices",
+          "title_i18n": {
+            "en": "Collect all data storage devices",
+            "pt": "Coletar todos os dispositivos de dados"
+          },
+          "description": "Use a separate collection audit across the files; these aggregate goals do not list every individual location.",
+          "description_i18n": {
+            "en": "Use a separate collection audit across the files; these aggregate goals do not list every individual location.",
+            "pt": "Faça uma conferência separada pelos arquivos; estas metas agregadas não listam cada localização individual."
+          }
+        },
+        {
+          "key": "collect-left-arm-identifiers",
+          "title": "Collect officer left-arm IDs",
+          "title_i18n": {
+            "en": "Collect officer left-arm IDs",
+            "pt": "Coletar as identificações dos braços esquerdos"
+          },
+          "description": "Inspect marked officers carefully and confirm the ID pickup after a precise cut.",
+          "description_i18n": {
+            "en": "Inspect marked officers carefully and confirm the ID pickup after a precise cut.",
+            "pt": "Examine os oficiais identificados e confirme a coleta da identificação após um corte preciso."
+          },
+          "details": "Use AR information to identify the officer carrying an ID rather than cutting every cyborg's arm. Enter Blade Mode from an angle that lets you sever the left arm cleanly without destroying the hand and its chip. Make a controlled cut near the elbow or upper arm, collect the resulting item and confirm progress. Some officers appear only under particular encounter conditions, so a missing ID may require replaying the earlier approach. If a bad cut destroys it, reload before moving past the checkpoint that would preserve the failure.",
+          "details_i18n": {
+            "en": "Use AR information to identify the officer carrying an ID rather than cutting every cyborg's arm. Enter Blade Mode from an angle that lets you sever the left arm cleanly without destroying the hand and its chip. Make a controlled cut near the elbow or upper arm, collect the resulting item and confirm progress. Some officers appear only under particular encounter conditions, so a missing ID may require replaying the earlier approach. If a bad cut destroys it, reload before moving past the checkpoint that would preserve the failure.",
+            "pt": "Use as informações de AR para identificar o oficial com ID em vez de cortar o braço de todo ciborgue. Entre em Blade Mode de um ângulo que permita separar o braço esquerdo sem destruir a mão e o chip. Faça um corte controlado perto do cotovelo ou no braço, recolha o item e confirme o progresso. Alguns oficiais só aparecem sob condições específicas do confronto; uma ID ausente pode exigir repetir a aproximação anterior. Se um corte ruim a destruir, recarregue antes de passar pelo checkpoint que preservaria a falha."
+          }
+        },
+        {
+          "key": "find-cardboard-box-soldiers",
+          "title": "Find the soldiers in cardboard boxes",
+          "title_i18n": {
+            "en": "Find the soldiers in cardboard boxes",
+            "pt": "Encontrar os soldados nas caixas de papelão"
+          },
+          "description": "Inspect suspicious boxes on later exploration runs and record which encounters you have found.",
+          "description_i18n": {
+            "en": "Inspect suspicious boxes on later exploration runs and record which encounters you have found.",
+            "pt": "Examine caixas suspeitas em tentativas de exploração e registre os encontros encontrados."
+          }
+        },
+        {
+          "key": "find-humanoid-dwarf-gekkos",
+          "title": "Find the humanoid Dwarf Gekkos",
+          "title_i18n": {
+            "en": "Find the humanoid Dwarf Gekkos",
+            "pt": "Encontrar os Dwarf Gekkos humanoides"
+          },
+          "description": "Search for all five special formations during a continuous R-02–R-07 run; chapter skipping can disrupt this trophy's tracking.",
+          "description_i18n": {
+            "en": "Search for all five special formations during a continuous R-02–R-07 run; chapter skipping can disrupt this trophy's tracking.",
+            "pt": "Procure as cinco formações especiais em uma passagem contínua de R-02 a R-07; pular capítulos pode prejudicar o registro deste troféu."
+          }
+        },
+        {
+          "key": "rescue-all-civilians",
+          "title": "Rescue all civilians",
+          "title_i18n": {
+            "en": "Rescue all civilians",
+            "pt": "Resgatar todos os civis"
+          },
+          "description": "Plan dedicated rescue attempts and verify survival rather than counting an interrupted attack as a rescue.",
+          "description_i18n": {
+            "en": "Plan dedicated rescue attempts and verify survival rather than counting an interrupted attack as a rescue.",
+            "pt": "Planeje tentativas de resgate e confirme a sobrevivência em vez de contar um ataque interrompido como resgate."
+          },
+          "details": "Scout the captors before alerting them: a prolonged open fight can let an enemy kill the hostage. Approach from cover or use a distraction, then remove the immediate execution threat quickly. Avoid uncontrolled attacks around the civilian. After the guards are dealt with, approach and complete the civilian interaction rather than leaving as soon as the fighting stops. Confirm the rescue before crossing the next progression boundary. If the hostage dies, restart the appropriate checkpoint or revisit the file; a later ordinary kill does not undo the failure.",
+          "details_i18n": {
+            "en": "Scout the captors before alerting them: a prolonged open fight can let an enemy kill the hostage. Approach from cover or use a distraction, then remove the immediate execution threat quickly. Avoid uncontrolled attacks around the civilian. After the guards are dealt with, approach and complete the civilian interaction rather than leaving as soon as the fighting stops. Confirm the rescue before crossing the next progression boundary. If the hostage dies, restart the appropriate checkpoint or revisit the file; a later ordinary kill does not undo the failure.",
+            "pt": "Observe os captores antes de alertá-los: uma luta aberta prolongada pode permitir que um inimigo mate o refém. Aproxime-se sob cobertura ou use uma distração e elimine rapidamente a ameaça de execução. Evite ataques sem controle perto do civil. Depois de resolver os guardas, aproxime-se e conclua a interação com o civil em vez de sair assim que a luta parar. Confirme o resgate antes de avançar. Se o refém morrer, reinicie o checkpoint adequado ou revisite o arquivo; matar um inimigo depois não desfaz a falha."
+          }
+        },
+        {
+          "key": "audit-codec-conversations",
+          "title": "Audit codec conversations",
+          "title_i18n": {
+            "en": "Audit codec conversations",
+            "pt": "Conferir as conversas de codec"
+          },
+          "description": "Call different support contacts as situations change rather than leaving all conversations until the ending.",
+          "description_i18n": {
+            "en": "Call different support contacts as situations change rather than leaving all conversations until the ending.",
+            "pt": "Contate integrantes diferentes do apoio quando as situações mudarem em vez de deixar tudo para o final."
+          }
+        },
+        {
+          "key": "complete-dwarf-gekko-social-goal",
+          "title": "Investigate Dwarf Gekko interactions",
+          "title_i18n": {
+            "en": "Investigate Dwarf Gekko interactions",
+            "pt": "Investigar as interações dos Dwarf Gekkos"
+          },
+          "description": "Revisit the remote-control section for its optional communication and incapacitation objectives.",
+          "description_i18n": {
+            "en": "Revisit the remote-control section for its optional communication and incapacitation objectives.",
+            "pt": "Revisite a seção de controle remoto para cumprir seus objetivos opcionais de comunicação e incapacitação."
+          }
+        },
+        {
+          "key": "collect-life-fuel-upgrades",
+          "title": "Collect useful capacity upgrades",
+          "title_i18n": {
+            "en": "Collect useful capacity upgrades",
+            "pt": "Coletar melhorias úteis de capacidade"
+          },
+          "description": "Search side areas for permanent improvements and distinguish them from temporary recovery pickups.",
+          "description_i18n": {
+            "en": "Search side areas for permanent improvements and distinguish them from temporary recovery pickups.",
+            "pt": "Procure melhorias permanentes nas áreas laterais e diferencie-as dos itens de recuperação temporária."
+          }
+        },
+        {
+          "key": "purchase-customization-collection",
+          "title": "Complete the customization collection",
+          "title_i18n": {
+            "en": "Complete the customization collection",
+            "pt": "Completar a coleção de personalizações"
+          },
+          "description": "Review unlock conditions and purchase the required base-game items as BP becomes available.",
+          "description_i18n": {
+            "en": "Review unlock conditions and purchase the required base-game items as BP becomes available.",
+            "pt": "Confira as condições de desbloqueio e compre os itens exigidos do jogo base conforme obtiver BP."
+          }
+        },
+        {
+          "key": "audit-chapter-collection-records",
+          "title": "Audit collection progress by file",
+          "title_i18n": {
+            "en": "Audit collection progress by file",
+            "pt": "Conferir a coleta por arquivo"
+          },
+          "description": "Use chapter replay for missing goals while preserving the existing campaign data.",
+          "description_i18n": {
+            "en": "Use chapter replay for missing goals while preserving the existing campaign data.",
+            "pt": "Use a repetição de capítulos para recuperar metas ausentes preservando os dados atuais da campanha."
+          }
+        }
+      ],
+      "kind": "collectible"
+    },
+    {
+      "key": "optional-vr-training",
+      "title": "Optional VR training",
+      "title_i18n": {
+        "en": "Optional VR training",
+        "pt": "Treinamento VR opcional"
+      },
+      "items": [
+        {
+          "key": "find-base-vr-terminals",
+          "title": "Find the twenty base VR terminals",
+          "title_i18n": {
+            "en": "Find the twenty base VR terminals",
+            "pt": "Encontrar os vinte terminais VR básicos"
+          },
+          "description": "Locate the campaign terminals and confirm the unlocked missions in the VR menu.",
+          "description_i18n": {
+            "en": "Locate the campaign terminals and confirm the unlocked missions in the VR menu.",
+            "pt": "Localize os terminais da campanha e confirme as missões liberadas no menu VR."
+          },
+          "details": "The twenty base VR missions unlock from terminals found during Raiden's campaign, not by installing the thirty-mission expansion. Interact with a terminal and continue to a safe saved progression point; finish the file containing your last missing terminal before auditing the unlock trophy. Check the VR menu for gaps and use chapter replay to recover missed terminals. Preserve your existing campaign through Continue or Chapter selection instead of starting a fresh New Game that resets accumulated progress.",
+          "details_i18n": {
+            "en": "The twenty base VR missions unlock from terminals found during Raiden's campaign, not by installing the thirty-mission expansion. Interact with a terminal and continue to a safe saved progression point; finish the file containing your last missing terminal before auditing the unlock trophy. Check the VR menu for gaps and use chapter replay to recover missed terminals. Preserve your existing campaign through Continue or Chapter selection instead of starting a fresh New Game that resets accumulated progress.",
+            "pt": "As vinte missões VR básicas são liberadas por terminais encontrados na campanha de Raiden, não pela instalação da expansão de trinta missões. Interaja com o terminal e avance até um ponto de progresso salvo; termine o arquivo com o último terminal ausente antes de conferir o troféu. Procure lacunas no menu VR e use a seleção de capítulos para recuperar terminais perdidos. Preserve a campanha por Continue ou Chapter em vez de iniciar um New Game que reinicie o progresso acumulado."
+          }
+        },
+        {
+          "key": "learn-vr-rule-sets",
+          "title": "Read each VR mission's rules",
+          "title_i18n": {
+            "en": "Read each VR mission's rules",
+            "pt": "Ler as regras de cada missão VR"
+          },
+          "description": "Check equipment restrictions and the success condition before starting a timed attempt.",
+          "description_i18n": {
+            "en": "Check equipment restrictions and the success condition before starting a timed attempt.",
+            "pt": "Confira as restrições de equipamento e a condição de vitória antes de tentar um bom tempo."
+          }
+        },
+        {
+          "key": "clear-base-vr-missions",
+          "title": "Clear all base VR missions",
+          "title_i18n": {
+            "en": "Clear all base VR missions",
+            "pt": "Concluir todas as missões VR básicas"
+          },
+          "description": "Finish the twenty original training missions before pursuing every first-place target.",
+          "description_i18n": {
+            "en": "Finish the twenty original training missions before pursuing every first-place target.",
+            "pt": "Conclua as vinte missões originais de treinamento antes de buscar todos os primeiros lugares."
+          }
+        },
+        {
+          "key": "beat-base-vr-targets",
+          "title": "Beat the base VR first-place targets",
+          "title_i18n": {
+            "en": "Beat the base VR first-place targets",
+            "pt": "Superar as metas de primeiro lugar das VR básicas"
+          },
+          "description": "Improve one mission at a time and verify the recorded result against its first-place benchmark.",
+          "description_i18n": {
+            "en": "Improve one mission at a time and verify the recorded result against its first-place benchmark.",
+            "pt": "Melhore uma missão por vez e compare o resultado registrado à meta de primeiro lugar."
+          }
+        },
+        {
+          "key": "access-installed-vr-expansion",
+          "title": "Open the installed VR expansion",
+          "title_i18n": {
+            "en": "Open the installed VR expansion",
+            "pt": "Abrir a expansão VR instalada"
+          },
+          "description": "If owned and installed, select the separate DL-VR set; it is not required for the base platinum.",
+          "description_i18n": {
+            "en": "If owned and installed, select the separate DL-VR set; it is not required for the base platinum.",
+            "pt": "Se possuir e tiver instalado o conteúdo, selecione o conjunto DL-VR separado; ele não é exigido para a platina básica."
+          }
+        },
+        {
+          "key": "clear-thirty-dl-vr-missions",
+          "title": "Clear the thirty DL-VR missions",
+          "title_i18n": {
+            "en": "Clear the thirty DL-VR missions",
+            "pt": "Concluir as trinta missões DL-VR"
+          },
+          "description": "Complete the optional expansion's thirty challenges without confusing them with the twenty campaign unlocks.",
+          "description_i18n": {
+            "en": "Complete the optional expansion's thirty challenges without confusing them with the twenty campaign unlocks.",
+            "pt": "Conclua os trinta desafios da expansão opcional sem confundi-los com os vinte desbloqueios da campanha."
+          }
+        },
+        {
+          "key": "beat-dl-vr-targets",
+          "title": "Beat the DL-VR first-place targets",
+          "title_i18n": {
+            "en": "Beat the DL-VR first-place targets",
+            "pt": "Superar as metas de primeiro lugar de DL-VR"
+          },
+          "description": "Record a top benchmark in every expansion mission for its separate DLC objective.",
+          "description_i18n": {
+            "en": "Record a top benchmark in every expansion mission for its separate DLC objective.",
+            "pt": "Registre a melhor meta em cada missão da expansão para cumprir o objetivo separado do DLC."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "optional-ranks-and-combat-mastery",
+      "title": "Optional ranks and combat mastery",
+      "title_i18n": {
+        "en": "Optional ranks and combat mastery",
+        "pt": "Classificações e domínio de combate opcionais"
+      },
+      "items": [
+        {
+          "key": "unlock-higher-difficulties",
+          "title": "Progress through higher difficulties",
+          "title_i18n": {
+            "en": "Progress through higher difficulties",
+            "pt": "Avançar pelas dificuldades maiores"
+          },
+          "description": "Build skills and equipment before attempting Very Hard and Revengeance.",
+          "description_i18n": {
+            "en": "Build skills and equipment before attempting Very Hard and Revengeance.",
+            "pt": "Desenvolva habilidades e equipamento antes de tentar Very Hard e Revengeance."
+          }
+        },
+        {
+          "key": "audit-ranked-encounters",
+          "title": "Audit every ranked encounter",
+          "title_i18n": {
+            "en": "Audit every ranked encounter",
+            "pt": "Conferir todos os confrontos classificados"
+          },
+          "description": "Track the result panels and investigate optional encounters that a direct route can bypass.",
+          "description_i18n": {
+            "en": "Track the result panels and investigate optional encounters that a direct route can bypass.",
+            "pt": "Acompanhe as telas de resultado e investigue confrontos opcionais ignorados por uma rota direta."
+          },
+          "details": "A fast route can skip an optional ranked fight, so keep a file-by-file battle checklist for Stormbringer rather than judging only the chapter's last boss. Look for support calls that indicate a new encounter and revisit accessible areas when the objective changes. The score uses more than survival: time, combo, BP and Zandatsu can compensate differently across fights. No damage is valuable but is not automatically an S rank. Finish a file and inspect its battle results before considering that Revengeance chapter complete. Finish R-07 last; if improving earlier files afterward, complete R-07 again to trigger the final trophy check.",
+          "details_i18n": {
+            "en": "A fast route can skip an optional ranked fight, so keep a file-by-file battle checklist for Stormbringer rather than judging only the chapter's last boss. Look for support calls that indicate a new encounter and revisit accessible areas when the objective changes. The score uses more than survival: time, combo, BP and Zandatsu can compensate differently across fights. No damage is valuable but is not automatically an S rank. Finish a file and inspect its battle results before considering that Revengeance chapter complete. Finish R-07 last; if improving earlier files afterward, complete R-07 again to trigger the final trophy check.",
+            "pt": "Uma rota rápida pode ignorar um combate classificado opcional; acompanhe as batalhas por arquivo para Stormbringer em vez de conferir apenas o último chefe. Observe os avisos do apoio sobre novos confrontos e revisite áreas acessíveis quando o objetivo mudar. A pontuação considera mais que sobreviver: tempo, combinação, BP e Zandatsu contribuem de maneiras diferentes. Vencer sem dano é valioso, mas não garante classificação S automaticamente. Conclua o arquivo e examine seus resultados de batalha antes de considerar aquele capítulo em Revengeance terminado. Termine R-07 por último; se melhorar arquivos anteriores depois, conclua R-07 novamente para acionar a verificação final do troféu."
+          }
+        },
+        {
+          "key": "practice-no-damage-bosses",
+          "title": "Practice no-damage boss attempts",
+          "title_i18n": {
+            "en": "Practice no-damage boss attempts",
+            "pt": "Praticar tentativas de chefes sem dano"
+          },
+          "description": "Use Hard or above for the five specific base boss trophies and verify each relevant phase.",
+          "description_i18n": {
+            "en": "Use Hard or above for the five specific base boss trophies and verify each relevant phase.",
+            "pt": "Use Hard ou superior para os cinco troféus específicos de chefes básicos e confira cada fase relevante."
+          }
+        },
+        {
+          "key": "earn-revengeance-s-ranks",
+          "title": "Earn all Revengeance S ranks",
+          "title_i18n": {
+            "en": "Earn all Revengeance S ranks",
+            "pt": "Obter todas as classificações S em Revengeance"
+          },
+          "description": "Complete the required ranked battles across R-00 through R-07 on Revengeance for Stormbringer.",
+          "description_i18n": {
+            "en": "Complete the required ranked battles across R-00 through R-07 on Revengeance for Stormbringer.",
+            "pt": "Conclua os confrontos classificados exigidos de R-00 a R-07 em Revengeance para Stormbringer."
+          }
+        },
+        {
+          "key": "practice-repeated-parries",
+          "title": "Practice consecutive parries",
+          "title_i18n": {
+            "en": "Practice consecutive parries",
+            "pt": "Praticar defesas consecutivas"
+          },
+          "description": "Choose a readable attack sequence and maintain timing without interrupting it with careless offense.",
+          "description_i18n": {
+            "en": "Choose a readable attack sequence and maintain timing without interrupting it with careless offense.",
+            "pt": "Escolha uma sequência previsível e mantenha o ritmo sem interrompê-la com ataques descuidados."
+          }
+        },
+        {
+          "key": "practice-nonlethal-battles",
+          "title": "Practice No Kill battle results",
+          "title_i18n": {
+            "en": "Practice No Kill battle results",
+            "pt": "Praticar resultados de batalha No Kill"
+          },
+          "description": "Use a separate attempt to understand how the game awards a nonlethal battle result.",
+          "description_i18n": {
+            "en": "Use a separate attempt to understand how the game awards a nonlethal battle result.",
+            "pt": "Use uma tentativa separada para entender como o jogo concede um resultado de batalha sem mortes."
+          }
+        },
+        {
+          "key": "complete-file-specific-feats",
+          "title": "Complete selected file-specific feats",
+          "title_i18n": {
+            "en": "Complete selected file-specific feats",
+            "pt": "Cumprir feitos específicos dos arquivos"
+          },
+          "description": "Return for RAY's tail, R-01 cameras, the dark railroad and the pagoda objective after learning their routes.",
+          "description_i18n": {
+            "en": "Return for RAY's tail, R-01 cameras, the dark railroad and the pagoda objective after learning their routes.",
+            "pt": "Volte para a cauda de RAY, as câmeras de R-01, a ferrovia escura e o objetivo do pagode depois de conhecer as rotas."
+          }
+        },
+        {
+          "key": "complete-speed-and-stealth-feats",
+          "title": "Complete the escape and infiltration feats",
+          "title_i18n": {
+            "en": "Complete the escape and infiltration feats",
+            "pt": "Cumprir os feitos de fuga e infiltração"
+          },
+          "description": "Replay R-05 for its time goal and R-07 for its undetected approach as separate personal challenges.",
+          "description_i18n": {
+            "en": "Replay R-05 for its time goal and R-07 for its undetected approach as separate personal challenges.",
+            "pt": "Repita R-05 para a meta de tempo e R-07 para a aproximação sem ser visto como desafios separados."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "optional-jetstream-sam-dlc",
+      "title": "Optional DLC: Jetstream Sam",
+      "title_i18n": {
+        "en": "Optional DLC: Jetstream Sam",
+        "pt": "DLC opcional: Jetstream Sam"
+      },
+      "items": [
+        {
+          "key": "start-installed-sam-story",
+          "title": "Start the installed Jetstream story",
+          "title_i18n": {
+            "en": "Start the installed Jetstream story",
+            "pt": "Iniciar a história Jetstream instalada"
+          },
+          "description": "Select DL-Story-01 only if installed; this separate campaign is not part of the base platinum.",
+          "description_i18n": {
+            "en": "Select DL-Story-01 only if installed; this separate campaign is not part of the base platinum.",
+            "pt": "Selecione DL-Story-01 apenas se estiver instalado; esta campanha separada não integra a platina básica."
+          }
+        },
+        {
+          "key": "learn-sam-charge-and-taunt",
+          "title": "Learn Sam's charge and taunt tools",
+          "title_i18n": {
+            "en": "Learn Sam's charge and taunt tools",
+            "pt": "Aprender os golpes carregados e a provocação de Sam"
+          },
+          "description": "Test his move list and defensive options rather than expecting Raiden's full skill set.",
+          "description_i18n": {
+            "en": "Test his move list and defensive options rather than expecting Raiden's full skill set.",
+            "pt": "Teste os golpes e as opções defensivas sem presumir que ele possui todas as habilidades de Raiden."
+          },
+          "details": "Sam's charged heavy attacks and Quick Draw are central tools, but charging in the middle of an enemy string is unsafe. Taunting increases the damage enemies take while also making their offense more dangerous, so use it on a target whose pattern you can defend. Learn his dodge and shorter defensive windows instead of copying Raiden's rhythm. For the one-hour Revengeance goal, practice the whole DLC first and restart failed checkpoints before death repeatedly adds to your recorded time.",
+          "details_i18n": {
+            "en": "Sam's charged heavy attacks and Quick Draw are central tools, but charging in the middle of an enemy string is unsafe. Taunting increases the damage enemies take while also making their offense more dangerous, so use it on a target whose pattern you can defend. Learn his dodge and shorter defensive windows instead of copying Raiden's rhythm. For the one-hour Revengeance goal, practice the whole DLC first and restart failed checkpoints before death repeatedly adds to your recorded time.",
+            "pt": "Os ataques pesados carregados e Quick Draw são ferramentas centrais de Sam, mas carregar durante uma sequência inimiga é arriscado. A provocação aumenta o dano recebido pelos inimigos e torna a ofensiva deles mais perigosa; use-a em um alvo cujo padrão consiga defender. Aprenda sua esquiva e seus intervalos defensivos menores em vez de copiar o ritmo de Raiden. Para a meta de uma hora em Revengeance, pratique o DLC inteiro e reinicie checkpoints malsucedidos antes que mortes repetidas aumentem o tempo registrado."
+          }
+        },
+        {
+          "key": "clear-sam-opening-route",
+          "title": "Clear Sam's opening route",
+          "title_i18n": {
+            "en": "Clear Sam's opening route",
+            "pt": "Liberar a rota inicial de Sam"
+          },
+          "description": "Advance through the sewer approach, face LQ-84i and inspect side routes for the DLC resources.",
+          "description_i18n": {
+            "en": "Advance through the sewer approach, face LQ-84i and inspect side routes for the DLC resources.",
+            "pt": "Avance pelo acesso subterrâneo, enfrente LQ-84i e examine os caminhos laterais em busca de recursos do DLC."
+          }
+        },
+        {
+          "key": "defeat-sam-dlc-ray",
+          "title": "Defeat the DLC's RAY encounter",
+          "title_i18n": {
+            "en": "Defeat the DLC's RAY encounter",
+            "pt": "Vencer o confronto com RAY no DLC"
+          },
+          "description": "Adjust to Sam's tools and complete the machine encounter before continuing.",
+          "description_i18n": {
+            "en": "Adjust to Sam's tools and complete the machine encounter before continuing.",
+            "pt": "Adapte-se às ferramentas de Sam e conclua o confronto com a máquina antes de continuar."
+          }
+        },
+        {
+          "key": "climb-sam-dlc-building",
+          "title": "Advance through Sam's building route",
+          "title_i18n": {
+            "en": "Advance through Sam's building route",
+            "pt": "Avançar pelo prédio na história de Sam"
+          },
+          "description": "Handle the interior encounters and check recovery equipment before the final confrontation.",
+          "description_i18n": {
+            "en": "Handle the interior encounters and check recovery equipment before the final confrontation.",
+            "pt": "Vença os confrontos internos e confira o equipamento de recuperação antes do confronto final."
+          }
+        },
+        {
+          "key": "defeat-sam-dlc-armstrong",
+          "title": "Finish Sam's final boss",
+          "title_i18n": {
+            "en": "Finish Sam's final boss",
+            "pt": "Vencer o chefe final de Sam"
+          },
+          "description": "Learn this version's attack behavior independently from Raiden's final fight.",
+          "description_i18n": {
+            "en": "Learn this version's attack behavior independently from Raiden's final fight.",
+            "pt": "Aprenda os ataques desta versão separadamente da luta final de Raiden."
+          }
+        },
+        {
+          "key": "finish-jetstream-story",
+          "title": "Finish DL-Story-01",
+          "title_i18n": {
+            "en": "Finish DL-Story-01",
+            "pt": "Concluir DL-Story-01"
+          },
+          "description": "Continue to the DLC's result screen and preserve the completed side-story data.",
+          "description_i18n": {
+            "en": "Continue to the DLC's result screen and preserve the completed side-story data.",
+            "pt": "Avance até o resultado do DLC e preserve os dados da história paralela concluída."
+          }
+        },
+        {
+          "key": "try-sam-dlc-challenges",
+          "title": "Try Sam's optional trophy challenges",
+          "title_i18n": {
+            "en": "Try Sam's optional trophy challenges",
+            "pt": "Tentar os desafios opcionais de Sam"
+          },
+          "description": "Use later runs for Quick Draw kills, the Hard no-damage boss and the Revengeance time limit.",
+          "description_i18n": {
+            "en": "Use later runs for Quick Draw kills, the Hard no-damage boss and the Revengeance time limit.",
+            "pt": "Use novas tentativas para mortes com Quick Draw, o chefe sem dano no Hard e o limite de tempo em Revengeance."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "optional-blade-wolf-dlc",
+      "title": "Optional DLC: Blade Wolf",
+      "title_i18n": {
+        "en": "Optional DLC: Blade Wolf",
+        "pt": "DLC opcional: Blade Wolf"
+      },
+      "items": [
+        {
+          "key": "start-installed-wolf-story",
+          "title": "Start the installed Blade Wolf story",
+          "title_i18n": {
+            "en": "Start the installed Blade Wolf story",
+            "pt": "Iniciar a história Blade Wolf instalada"
+          },
+          "description": "Select DL-Story-02 if installed and treat its results as separate from Raiden's campaign.",
+          "description_i18n": {
+            "en": "Select DL-Story-02 if installed and treat its results as separate from Raiden's campaign.",
+            "pt": "Selecione DL-Story-02 se estiver instalado e trate seus resultados separadamente da campanha de Raiden."
+          }
+        },
+        {
+          "key": "learn-wolf-hunt-kills",
+          "title": "Learn Hunt Kills and stealth movement",
+          "title_i18n": {
+            "en": "Learn Hunt Kills and stealth movement",
+            "pt": "Aprender Hunt Kills e movimentação furtiva"
+          },
+          "description": "Practice approaching isolated enemies and using Blade Wolf's contextual stealth attack.",
+          "description_i18n": {
+            "en": "Practice approaching isolated enemies and using Blade Wolf's contextual stealth attack.",
+            "pt": "Pratique aproximar-se de inimigos isolados e usar o ataque furtivo contextual de Blade Wolf."
+          }
+        },
+        {
+          "key": "clear-wolf-training-route",
+          "title": "Clear the opening training route",
+          "title_i18n": {
+            "en": "Clear the opening training route",
+            "pt": "Concluir a rota inicial de treinamento"
+          },
+          "description": "Learn the character's movement before rushing through platforms and guarded passages.",
+          "description_i18n": {
+            "en": "Learn the character's movement before rushing through platforms and guarded passages.",
+            "pt": "Aprenda os movimentos do personagem antes de correr pelas plataformas e passagens vigiadas."
+          }
+        },
+        {
+          "key": "navigate-wolf-guarded-route",
+          "title": "Navigate the guarded route",
+          "title_i18n": {
+            "en": "Navigate the guarded route",
+            "pt": "Atravessar a rota vigiada"
+          },
+          "description": "Use patrol observation and alternate paths to reduce unnecessary open combat.",
+          "description_i18n": {
+            "en": "Use patrol observation and alternate paths to reduce unnecessary open combat.",
+            "pt": "Observe as patrulhas e use caminhos alternativos para reduzir combates abertos desnecessários."
+          }
+        },
+        {
+          "key": "prepare-khamsin-encounter",
+          "title": "Prepare for Khamsin",
+          "title_i18n": {
+            "en": "Prepare for Khamsin",
+            "pt": "Preparar-se para Khamsin"
+          },
+          "description": "Check recovery items and learn where the arena allows you to reposition.",
+          "description_i18n": {
+            "en": "Check recovery items and learn where the arena allows you to reposition.",
+            "pt": "Confira os itens de recuperação e identifique os espaços da arena para se reposicionar."
+          }
+        },
+        {
+          "key": "defeat-khamsin",
+          "title": "Defeat Khamsin",
+          "title_i18n": {
+            "en": "Defeat Khamsin",
+            "pt": "Derrotar Khamsin"
+          },
+          "description": "Read his heavy attack signals and follow the encounter's finishing opportunities.",
+          "description_i18n": {
+            "en": "Read his heavy attack signals and follow the encounter's finishing opportunities.",
+            "pt": "Observe os sinais dos ataques pesados e aproveite as oportunidades de finalização."
+          },
+          "details": "Parry the ordinary axe strings and evade the attacks that cannot be blocked; do not start a long retaliation before the last swing. During the arena's special rubble sequences, use the obstruction to break his view, circle behind and perform the prompted Hunt Kill opportunity. These events deal substantial damage and are not the same as simply hitting his rear in open combat. Keep the camera on him when re-entering the arena. For Wolf's Pride, the attempt must be on Hard or higher with no damage taken.",
+          "details_i18n": {
+            "en": "Parry the ordinary axe strings and evade the attacks that cannot be blocked; do not start a long retaliation before the last swing. During the arena's special rubble sequences, use the obstruction to break his view, circle behind and perform the prompted Hunt Kill opportunity. These events deal substantial damage and are not the same as simply hitting his rear in open combat. Keep the camera on him when re-entering the arena. For Wolf's Pride, the attempt must be on Hard or higher with no damage taken.",
+            "pt": "Defenda as sequências comuns do machado e evite os ataques que não podem ser bloqueados; não comece uma resposta longa antes do último golpe. Nas sequências especiais com destroços, use o obstáculo para sair da visão dele, contorne-o por trás e execute a oportunidade indicada de Hunt Kill. Esses eventos causam bastante dano e não equivalem a apenas atacar suas costas em combate aberto. Acompanhe-o com a câmera ao voltar à arena. Para Wolf's Pride, use Hard ou superior e não sofra dano."
+          }
+        },
+        {
+          "key": "finish-blade-wolf-story",
+          "title": "Finish DL-Story-02",
+          "title_i18n": {
+            "en": "Finish DL-Story-02",
+            "pt": "Concluir DL-Story-02"
+          },
+          "description": "Continue through the ending and confirm the separate DLC result.",
+          "description_i18n": {
+            "en": "Continue through the ending and confirm the separate DLC result.",
+            "pt": "Acompanhe o encerramento e confirme o resultado separado do DLC."
+          }
+        },
+        {
+          "key": "try-wolf-dlc-challenges",
+          "title": "Try Blade Wolf's optional trophy challenges",
+          "title_i18n": {
+            "en": "Try Blade Wolf's optional trophy challenges",
+            "pt": "Tentar os desafios opcionais de Blade Wolf"
+          },
+          "description": "Use replays for Hunt Kill totals, the Hard no-damage fight and the Revengeance time goal.",
+          "description_i18n": {
+            "en": "Use replays for Hunt Kill totals, the Hard no-damage fight and the Revengeance time goal.",
+            "pt": "Use repetições para acumular Hunt Kills, vencer sem dano no Hard e cumprir a meta de tempo em Revengeance."
+          }
+        }
+      ],
+      "kind": "side"
+    }
+  ],
+  "trophies": [
+    {
+      "key": "revengeance",
+      "title": "Revengeance",
+      "title_i18n": {
+        "en": "Revengeance",
+        "pt": "Revengeance"
+      },
+      "description": "Earn the other fifty base-game trophies; DLC trophies are excluded.",
+      "description_i18n": {
+        "en": "Earn the other fifty base-game trophies; DLC trophies are excluded.",
+        "pt": "Obtenha os outros cinquenta troféus do jogo base; os troféus de DLC não são exigidos."
+      },
+      "tier": "platinum"
+    },
+    {
+      "key": "file-r-00-status-closed",
+      "title": "File R-00: Status - Closed",
+      "title_i18n": {
+        "en": "File R-00: Status - Closed",
+        "pt": "File R-00: Status - Closed"
+      },
+      "description": "Finish the campaign file R-00, Guard Duty.",
+      "description_i18n": {
+        "en": "Finish the campaign file R-00, Guard Duty.",
+        "pt": "Conclua o arquivo R-00 da campanha, Guard Duty."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "file-r-01-status-closed",
+      "title": "File R-01: Status - Closed",
+      "title_i18n": {
+        "en": "File R-01: Status - Closed",
+        "pt": "File R-01: Status - Closed"
+      },
+      "description": "Finish the campaign file R-01, Coup d’État.",
+      "description_i18n": {
+        "en": "Finish the campaign file R-01, Coup d’État.",
+        "pt": "Conclua o arquivo R-01 da campanha, Coup d’État."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "file-r-02-status-closed",
+      "title": "File R-02: Status - Closed",
+      "title_i18n": {
+        "en": "File R-02: Status - Closed",
+        "pt": "File R-02: Status - Closed"
+      },
+      "description": "Finish the campaign file R-02, Research Facility.",
+      "description_i18n": {
+        "en": "Finish the campaign file R-02, Research Facility.",
+        "pt": "Conclua o arquivo R-02 da campanha, Research Facility."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "file-r-03-status-closed",
+      "title": "File R-03: Status - Closed",
+      "title_i18n": {
+        "en": "File R-03: Status - Closed",
+        "pt": "File R-03: Status - Closed"
+      },
+      "description": "Finish the campaign file R-03, Mile High.",
+      "description_i18n": {
+        "en": "Finish the campaign file R-03, Mile High.",
+        "pt": "Conclua o arquivo R-03 da campanha, Mile High."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "file-r-04-status-closed",
+      "title": "File R-04: Status - Closed",
+      "title_i18n": {
+        "en": "File R-04: Status - Closed",
+        "pt": "File R-04: Status - Closed"
+      },
+      "description": "Finish the campaign file R-04, Hostile Takeover.",
+      "description_i18n": {
+        "en": "Finish the campaign file R-04, Hostile Takeover.",
+        "pt": "Conclua o arquivo R-04 da campanha, Hostile Takeover."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "file-r-05-status-closed",
+      "title": "File R-05: Status - Closed",
+      "title_i18n": {
+        "en": "File R-05: Status - Closed",
+        "pt": "File R-05: Status - Closed"
+      },
+      "description": "Finish the campaign file R-05, Escape From Denver.",
+      "description_i18n": {
+        "en": "Finish the campaign file R-05, Escape From Denver.",
+        "pt": "Conclua o arquivo R-05 da campanha, Escape From Denver."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "file-r-06-status-closed",
+      "title": "File R-06: Status - Closed",
+      "title_i18n": {
+        "en": "File R-06: Status - Closed",
+        "pt": "File R-06: Status - Closed"
+      },
+      "description": "Finish the campaign file R-06, Badlands Showdown.",
+      "description_i18n": {
+        "en": "Finish the campaign file R-06, Badlands Showdown.",
+        "pt": "Conclua o arquivo R-06 da campanha, Badlands Showdown."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "file-r-07-status-closed",
+      "title": "File R-07: Status - Closed",
+      "title_i18n": {
+        "en": "File R-07: Status - Closed",
+        "pt": "File R-07: Status - Closed"
+      },
+      "description": "Finish the campaign file R-07, Assassination Attempt.",
+      "description_i18n": {
+        "en": "Finish the campaign file R-07, Assassination Attempt.",
+        "pt": "Conclua o arquivo R-07 da campanha, Assassination Attempt."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "stormbringer",
+      "title": "Stormbringer",
+      "title_i18n": {
+        "en": "Stormbringer",
+        "pt": "Stormbringer"
+      },
+      "description": "Finish the campaign on Revengeance with S ranks throughout its required encounters.",
+      "description_i18n": {
+        "en": "Finish the campaign on Revengeance with S ranks throughout its required encounters.",
+        "pt": "Conclua a campanha em Revengeance com classificação S nos confrontos exigidos."
+      },
+      "tier": "gold"
+    },
+    {
+      "key": "steel-tail",
+      "title": "Steel Tail",
+      "title_i18n": {
+        "en": "Steel Tail",
+        "pt": "Steel Tail"
+      },
+      "description": "Sever RAY's tail during the R-00 encounter.",
+      "description_i18n": {
+        "en": "Sever RAY's tail during the R-00 encounter.",
+        "pt": "Corte a cauda de RAY durante o confronto de R-00."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "no-flash-photography",
+      "title": "No Flash Photography!",
+      "title_i18n": {
+        "en": "No Flash Photography!",
+        "pt": "No Flash Photography!"
+      },
+      "description": "Remove every gun camera encountered in R-01.",
+      "description_i18n": {
+        "en": "Remove every gun camera encountered in R-01.",
+        "pt": "Destrua todas as câmeras armadas de R-01."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "dwarf-raiden",
+      "title": "Dwarf Raiden",
+      "title_i18n": {
+        "en": "Dwarf Raiden",
+        "pt": "Dwarf Raiden"
+      },
+      "description": "Use the remotely controlled Dwarf Gekko to incapacitate every soldier in its R-02 section.",
+      "description_i18n": {
+        "en": "Use the remotely controlled Dwarf Gekko to incapacitate every soldier in its R-02 section.",
+        "pt": "Use o Dwarf Gekko controlado remotamente para incapacitar todos os soldados de sua seção em R-02."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "a-walk-in-the-dark",
+      "title": "A Walk in the Dark",
+      "title_i18n": {
+        "en": "A Walk in the Dark",
+        "pt": "A Walk in the Dark"
+      },
+      "description": "Cross R-03's abandoned railroad without activating AR Mode.",
+      "description_i18n": {
+        "en": "Cross R-03's abandoned railroad without activating AR Mode.",
+        "pt": "Atravesse a ferrovia abandonada de R-03 sem ativar AR Mode."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "menace-to-society",
+      "title": "Menace to Society",
+      "title_i18n": {
+        "en": "Menace to Society",
+        "pt": "Menace to Society"
+      },
+      "description": "Reach and cut the decorative finial on the R-04 pagoda.",
+      "description_i18n": {
+        "en": "Reach and cut the decorative finial on the R-04 pagoda.",
+        "pt": "Alcance e corte o ornamento no topo do pagode de R-04."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "great-escape",
+      "title": "Great Escape",
+      "title_i18n": {
+        "en": "Great Escape",
+        "pt": "Great Escape"
+      },
+      "description": "Finish R-05 before the seven-minute limit.",
+      "description_i18n": {
+        "en": "Finish R-05 before the seven-minute limit.",
+        "pt": "Conclua R-05 antes do limite de sete minutos."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "surprise-attack",
+      "title": "Surprise Attack!",
+      "title_i18n": {
+        "en": "Surprise Attack!",
+        "pt": "Surprise Attack!"
+      },
+      "description": "Reach the designated R-07 objective without an enemy spotting you.",
+      "description_i18n": {
+        "en": "Reach the designated R-07 objective without an enemy spotting you.",
+        "pt": "Alcance o objetivo designado de R-07 sem ser visto por um inimigo."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "prodigal-murderer",
+      "title": "Prodigal Murderer",
+      "title_i18n": {
+        "en": "Prodigal Murderer",
+        "pt": "Prodigal Murderer"
+      },
+      "description": "Win the Mistral boss fight on Hard or higher with no damage taken.",
+      "description_i18n": {
+        "en": "Win the Mistral boss fight on Hard or higher with no damage taken.",
+        "pt": "Vença Mistral no Hard ou superior sem sofrer dano."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "genius-destroyer",
+      "title": "Genius Destroyer",
+      "title_i18n": {
+        "en": "Genius Destroyer",
+        "pt": "Genius Destroyer"
+      },
+      "description": "Win the Monsoon boss fight on Hard or higher with no damage taken.",
+      "description_i18n": {
+        "en": "Win the Monsoon boss fight on Hard or higher with no damage taken.",
+        "pt": "Vença Monsoon no Hard ou superior sem sofrer dano."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "truly-human",
+      "title": "Truly Human",
+      "title_i18n": {
+        "en": "Truly Human",
+        "pt": "Truly Human"
+      },
+      "description": "Win the Sundowner boss fight on Hard or higher with no damage taken.",
+      "description_i18n": {
+        "en": "Win the Sundowner boss fight on Hard or higher with no damage taken.",
+        "pt": "Vença Sundowner no Hard ou superior sem sofrer dano."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "chosen-by-history",
+      "title": "Chosen by History",
+      "title_i18n": {
+        "en": "Chosen by History",
+        "pt": "Chosen by History"
+      },
+      "description": "Win the Samuel boss fight on Hard or higher with no damage taken.",
+      "description_i18n": {
+        "en": "Win the Samuel boss fight on Hard or higher with no damage taken.",
+        "pt": "Vença Samuel no Hard ou superior sem sofrer dano."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "the-politics-of-silencing-foes",
+      "title": "The Politics of Silencing Foes",
+      "title_i18n": {
+        "en": "The Politics of Silencing Foes",
+        "pt": "The Politics of Silencing Foes"
+      },
+      "description": "Win Raiden's Senator Armstrong boss fight on Hard or higher with no damage taken.",
+      "description_i18n": {
+        "en": "Win Raiden's Senator Armstrong boss fight on Hard or higher with no damage taken.",
+        "pt": "Vença a luta de Raiden contra Senator Armstrong no Hard ou superior sem sofrer dano."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "anti-cyborg-sentiment",
+      "title": "Anti-Cyborg Sentiment",
+      "title_i18n": {
+        "en": "Anti-Cyborg Sentiment",
+        "pt": "Anti-Cyborg Sentiment"
+      },
+      "description": "Accumulate one hundred standard Cyborg defeats in the story campaign.",
+      "description_i18n": {
+        "en": "Accumulate one hundred standard Cyborg defeats in the story campaign.",
+        "pt": "Acumule cem derrotas de Cyborgs comuns na campanha."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "the-bigger-they-are",
+      "title": "The Bigger They Are...",
+      "title_i18n": {
+        "en": "The Bigger They Are...",
+        "pt": "The Bigger They Are..."
+      },
+      "description": "Accumulate one hundred Custom Cyborg defeats in the story campaign.",
+      "description_i18n": {
+        "en": "Accumulate one hundred Custom Cyborg defeats in the story campaign.",
+        "pt": "Acumule cem derrotas de Custom Cyborgs na campanha."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "demilitarized-zone",
+      "title": "Demilitarized Zone",
+      "title_i18n": {
+        "en": "Demilitarized Zone",
+        "pt": "Demilitarized Zone"
+      },
+      "description": "Accumulate one hundred Heavily Armed Cyborg defeats in the story campaign.",
+      "description_i18n": {
+        "en": "Accumulate one hundred Heavily Armed Cyborg defeats in the story campaign.",
+        "pt": "Acumule cem derrotas de Heavily Armed Cyborgs na campanha."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "herpetophobia",
+      "title": "Herpetophobia",
+      "title_i18n": {
+        "en": "Herpetophobia",
+        "pt": "Herpetophobia"
+      },
+      "description": "Accumulate ten Gekko defeats in the story campaign.",
+      "description_i18n": {
+        "en": "Accumulate ten Gekko defeats in the story campaign.",
+        "pt": "Acumule dez derrotas de Gekkos na campanha."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "silverback",
+      "title": "Silverback",
+      "title_i18n": {
+        "en": "Silverback",
+        "pt": "Silverback"
+      },
+      "description": "Accumulate ten Mastiff defeats in the story campaign.",
+      "description_i18n": {
+        "en": "Accumulate ten Mastiff defeats in the story campaign.",
+        "pt": "Acumule dez derrotas de Mastiffs na campanha."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "extinction-level-event",
+      "title": "Extinction Level Event",
+      "title_i18n": {
+        "en": "Extinction Level Event",
+        "pt": "Extinction Level Event"
+      },
+      "description": "Accumulate ten Raptor defeats in the story campaign.",
+      "description_i18n": {
+        "en": "Accumulate ten Raptor defeats in the story campaign.",
+        "pt": "Acumule dez derrotas de Raptors na campanha."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "pond-scum",
+      "title": "Pond Scum",
+      "title_i18n": {
+        "en": "Pond Scum",
+        "pt": "Pond Scum"
+      },
+      "description": "Accumulate five Vodomjerka defeats in the story campaign.",
+      "description_i18n": {
+        "en": "Accumulate five Vodomjerka defeats in the story campaign.",
+        "pt": "Acumule cinco derrotas de Vodomjerkas na campanha."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "wolf-hunter",
+      "title": "Wolf Hunter",
+      "title_i18n": {
+        "en": "Wolf Hunter",
+        "pt": "Wolf Hunter"
+      },
+      "description": "Accumulate ten Fenrir defeats in the story campaign.",
+      "description_i18n": {
+        "en": "Accumulate ten Fenrir defeats in the story campaign.",
+        "pt": "Acumule dez derrotas de Fenrirs na campanha."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "slider-strike",
+      "title": "Slider Strike",
+      "title_i18n": {
+        "en": "Slider Strike",
+        "pt": "Slider Strike"
+      },
+      "description": "Accumulate ten Slider defeats in the story campaign.",
+      "description_i18n": {
+        "en": "Accumulate ten Slider defeats in the story campaign.",
+        "pt": "Acumule dez derrotas de Sliders na campanha."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "jumping-the-shark",
+      "title": "Jumping the Shark",
+      "title_i18n": {
+        "en": "Jumping the Shark",
+        "pt": "Jumping the Shark"
+      },
+      "description": "Accumulate ten Hammerhead defeats in the story campaign.",
+      "description_i18n": {
+        "en": "Accumulate ten Hammerhead defeats in the story campaign.",
+        "pt": "Acumule dez derrotas de Hammerheads na campanha."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "looking-out-for-the-little-guys",
+      "title": "Looking Out for the Little Guys",
+      "title_i18n": {
+        "en": "Looking Out for the Little Guys",
+        "pt": "Looking Out for the Little Guys"
+      },
+      "description": "Accumulate thirty Dwarf Gekko defeats in the story campaign.",
+      "description_i18n": {
+        "en": "Accumulate thirty Dwarf Gekko defeats in the story campaign.",
+        "pt": "Acumule trinta derrotas de Dwarf Gekkos na campanha."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "tearing-away-the-disguise",
+      "title": "Tearing Away the Disguise",
+      "title_i18n": {
+        "en": "Tearing Away the Disguise",
+        "pt": "Tearing Away the Disguise"
+      },
+      "description": "Destroy all five humanoid Dwarf Gekko formations; a continuous R-02–R-07 run avoids known tracking problems.",
+      "description_i18n": {
+        "en": "Destroy all five humanoid Dwarf Gekko formations; a continuous R-02–R-07 run avoids known tracking problems.",
+        "pt": "Destrua as cinco formações humanoides de Dwarf Gekkos; uma passagem contínua de R-02 a R-07 evita problemas conhecidos de registro."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "datsu-right",
+      "title": "Datsu Right",
+      "title_i18n": {
+        "en": "Datsu Right",
+        "pt": "Datsu Right"
+      },
+      "description": "Perform fifty successful Zandatsu extractions in story mode.",
+      "description_i18n": {
+        "en": "Perform fifty successful Zandatsu extractions in story mode.",
+        "pt": "Execute cinquenta extrações Zandatsu bem-sucedidas no modo história."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "what-doesnt-kill-you",
+      "title": "What Doesn't Kill You...",
+      "title_i18n": {
+        "en": "What Doesn't Kill You...",
+        "pt": "What Doesn't Kill You..."
+      },
+      "description": "Parry ten consecutive incoming attacks within sixty seconds during story mode.",
+      "description_i18n": {
+        "en": "Parry ten consecutive incoming attacks within sixty seconds during story mode.",
+        "pt": "Defenda dez ataques consecutivos em até sessenta segundos no modo história."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "assassin-behind-closed-doors",
+      "title": "Assassin Behind Closed Doors",
+      "title_i18n": {
+        "en": "Assassin Behind Closed Doors",
+        "pt": "Assassin Behind Closed Doors"
+      },
+      "description": "Accumulate thirty successful Ninja Kills in story mode.",
+      "description_i18n": {
+        "en": "Accumulate thirty successful Ninja Kills in story mode.",
+        "pt": "Acumule trinta Ninja Kills bem-sucedidos no modo história."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "you-dont-run-from-chance",
+      "title": "You Don't Run from Chance",
+      "title_i18n": {
+        "en": "You Don't Run from Chance",
+        "pt": "You Don't Run from Chance"
+      },
+      "description": "Accumulate fifty successful contextual Executions in story mode.",
+      "description_i18n": {
+        "en": "Accumulate fifty successful contextual Executions in story mode.",
+        "pt": "Acumule cinquenta Executions contextuais bem-sucedidas no modo história."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "a-lover-not-a-fighter",
+      "title": "A Lover, Not a Fighter",
+      "title_i18n": {
+        "en": "A Lover, Not a Fighter",
+        "pt": "A Lover, Not a Fighter"
+      },
+      "description": "Receive the No Kill result in ten story-mode battles.",
+      "description_i18n": {
+        "en": "Receive the No Kill result in ten story-mode battles.",
+        "pt": "Receba o resultado No Kill em dez batalhas do modo história."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "assault-with-a-deadly-weapon",
+      "title": "Assault with a Deadly Weapon",
+      "title_i18n": {
+        "en": "Assault with a Deadly Weapon",
+        "pt": "Assault with a Deadly Weapon"
+      },
+      "description": "Dismember three opponents with one Blade Mode swing.",
+      "description_i18n": {
+        "en": "Dismember three opponents with one Blade Mode swing.",
+        "pt": "Desmembre três adversários com um único golpe no Blade Mode."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "rip-em-apart",
+      "title": "Rip 'Em Apart!",
+      "title_i18n": {
+        "en": "Rip 'Em Apart!",
+        "pt": "Rip 'Em Apart!"
+      },
+      "description": "Accumulate one hundred cutting kills in story mode.",
+      "description_i18n": {
+        "en": "Accumulate one hundred cutting kills in story mode.",
+        "pt": "Acumule cem mortes por cortes no modo história."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "love-at-first-sight",
+      "title": "Love at First Sight",
+      "title_i18n": {
+        "en": "Love at First Sight",
+        "pt": "Love at First Sight"
+      },
+      "description": "During the R-02 remote-control section, communicate with every other Dwarf Gekko.",
+      "description_i18n": {
+        "en": "During the R-02 remote-control section, communicate with every other Dwarf Gekko.",
+        "pt": "Na seção de controle remoto de R-02, comunique-se com todos os outros Dwarf Gekkos."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "ich-liebe-kapitalismus",
+      "title": "Ich Liebe Kapitalismus!",
+      "title_i18n": {
+        "en": "Ich Liebe Kapitalismus!",
+        "pt": "Ich Liebe Kapitalismus!"
+      },
+      "description": "Unlock and purchase the complete required base customization inventory.",
+      "description_i18n": {
+        "en": "Unlock and purchase the complete required base customization inventory.",
+        "pt": "Desbloqueie e compre todo o inventário básico de personalização exigido."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "a-big-fan-of-lefties",
+      "title": "A Big Fan of Lefties",
+      "title_i18n": {
+        "en": "A Big Fan of Lefties",
+        "pt": "A Big Fan of Lefties"
+      },
+      "description": "Recover the complete officer left-arm ID collection.",
+      "description_i18n": {
+        "en": "Recover the complete officer left-arm ID collection.",
+        "pt": "Recupere a coleção completa de identificações dos braços esquerdos dos oficiais."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "amateur-radio-operator",
+      "title": "Amateur Radio Operator",
+      "title_i18n": {
+        "en": "Amateur Radio Operator",
+        "pt": "Amateur Radio Operator"
+      },
+      "description": "Listen to the large majority of the campaign's distinct codec conversations.",
+      "description_i18n": {
+        "en": "Listen to the large majority of the campaign's distinct codec conversations.",
+        "pt": "Ouça a grande maioria das conversas diferentes de codec da campanha."
+      },
+      "tier": "gold"
+    },
+    {
+      "key": "peekaboo",
+      "title": "Peekaboo",
+      "title_i18n": {
+        "en": "Peekaboo",
+        "pt": "Peekaboo"
+      },
+      "description": "Find every soldier hiding inside a cardboard box.",
+      "description_i18n": {
+        "en": "Find every soldier hiding inside a cardboard box.",
+        "pt": "Encontre todos os soldados escondidos em caixas de papelão."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "data-mining",
+      "title": "Data Mining",
+      "title_i18n": {
+        "en": "Data Mining",
+        "pt": "Data Mining"
+      },
+      "description": "Recover the complete data-storage collection.",
+      "description_i18n": {
+        "en": "Recover the complete data-storage collection.",
+        "pt": "Recupere a coleção completa de dispositivos de dados."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "humanitarian-assistance",
+      "title": "Humanitarian Assistance",
+      "title_i18n": {
+        "en": "Humanitarian Assistance",
+        "pt": "Humanitarian Assistance"
+      },
+      "description": "Successfully rescue every campaign civilian.",
+      "description_i18n": {
+        "en": "Successfully rescue every campaign civilian.",
+        "pt": "Resgate com sucesso todos os civis da campanha."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "analysis-complete",
+      "title": "Analysis Complete",
+      "title_i18n": {
+        "en": "Analysis Complete",
+        "pt": "Analysis Complete"
+      },
+      "description": "Find the terminals that unlock all twenty original VR missions.",
+      "description_i18n": {
+        "en": "Find the terminals that unlock all twenty original VR missions.",
+        "pt": "Encontre os terminais que liberam as vinte missões VR originais."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "vr-master",
+      "title": "VR Master",
+      "title_i18n": {
+        "en": "VR Master",
+        "pt": "VR Master"
+      },
+      "description": "Finish each of the twenty original VR missions.",
+      "description_i18n": {
+        "en": "Finish each of the twenty original VR missions.",
+        "pt": "Conclua cada uma das vinte missões VR originais."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "virtually-flawless",
+      "title": "Virtually Flawless",
+      "title_i18n": {
+        "en": "Virtually Flawless",
+        "pt": "Virtually Flawless"
+      },
+      "description": "Beat the first-place benchmark in all twenty original VR missions.",
+      "description_i18n": {
+        "en": "Beat the first-place benchmark in all twenty original VR missions.",
+        "pt": "Supere a meta de primeiro lugar nas vinte missões VR originais."
+      },
+      "tier": "gold"
+    },
+    {
+      "key": "dlc-vr-dl-vr-master",
+      "title": "DL-VR Master",
+      "title_i18n": {
+        "en": "DL-VR Master",
+        "pt": "DL-VR Master"
+      },
+      "description": "VR Mission Expansion DLC: finish all thirty additional DL-VR missions; not required for the base platinum.",
+      "description_i18n": {
+        "en": "VR Mission Expansion DLC: finish all thirty additional DL-VR missions; not required for the base platinum.",
+        "pt": "DLC VR Mission Expansion: conclua as trinta missões DL-VR adicionais; não exigido para a platina básica."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "dlc-vr-hero-of-the-metaverse",
+      "title": "Hero of the Metaverse",
+      "title_i18n": {
+        "en": "Hero of the Metaverse",
+        "pt": "Hero of the Metaverse"
+      },
+      "description": "VR Mission Expansion DLC: beat the first-place benchmark in every additional DL-VR mission.",
+      "description_i18n": {
+        "en": "VR Mission Expansion DLC: beat the first-place benchmark in every additional DL-VR mission.",
+        "pt": "DLC VR Mission Expansion: supere a meta de primeiro lugar em todas as missões DL-VR adicionais."
+      },
+      "tier": "gold"
+    },
+    {
+      "key": "dlc-sam-status-closed",
+      "title": "DL-Story-01: Status - Closed",
+      "title_i18n": {
+        "en": "DL-Story-01: Status - Closed",
+        "pt": "DL-Story-01: Status - Closed"
+      },
+      "description": "Jetstream DLC: finish Sam's separate story; not required for the base platinum.",
+      "description_i18n": {
+        "en": "Jetstream DLC: finish Sam's separate story; not required for the base platinum.",
+        "pt": "DLC Jetstream: conclua a história separada de Sam; não exigido para a platina básica."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "dlc-sam-youre-hired",
+      "title": "You're Hired",
+      "title_i18n": {
+        "en": "You're Hired",
+        "pt": "You're Hired"
+      },
+      "description": "Jetstream DLC: defeat its Armstrong boss on Hard or higher without taking damage.",
+      "description_i18n": {
+        "en": "Jetstream DLC: defeat its Armstrong boss on Hard or higher without taking damage.",
+        "pt": "DLC Jetstream: vença a versão de Armstrong desse DLC no Hard ou superior sem sofrer dano."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "dlc-sam-master-of-the-wind",
+      "title": "Master of the Wind",
+      "title_i18n": {
+        "en": "Master of the Wind",
+        "pt": "Master of the Wind"
+      },
+      "description": "Jetstream DLC: finish the entire side story on Revengeance within sixty minutes.",
+      "description_i18n": {
+        "en": "Jetstream DLC: finish the entire side story on Revengeance within sixty minutes.",
+        "pt": "DLC Jetstream: conclua toda a história paralela em Revengeance em até sessenta minutos."
+      },
+      "tier": "gold"
+    },
+    {
+      "key": "dlc-sam-draw-pardner",
+      "title": "Draw, Pardner!",
+      "title_i18n": {
+        "en": "Draw, Pardner!",
+        "pt": "Draw, Pardner!"
+      },
+      "description": "Jetstream DLC: accumulate one hundred Quick Draw kills in its story mode.",
+      "description_i18n": {
+        "en": "Jetstream DLC: accumulate one hundred Quick Draw kills in its story mode.",
+        "pt": "DLC Jetstream: acumule cem mortes com Quick Draw no modo história desse DLC."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "dlc-wolf-status-closed",
+      "title": "DL-Story-02: Status - Closed",
+      "title_i18n": {
+        "en": "DL-Story-02: Status - Closed",
+        "pt": "DL-Story-02: Status - Closed"
+      },
+      "description": "Blade Wolf DLC: finish its separate story; not required for the base platinum.",
+      "description_i18n": {
+        "en": "Blade Wolf DLC: finish its separate story; not required for the base platinum.",
+        "pt": "DLC Blade Wolf: conclua sua história separada; não exigido para a platina básica."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "dlc-wolf-wolfs-pride",
+      "title": "Wolf's Pride",
+      "title_i18n": {
+        "en": "Wolf's Pride",
+        "pt": "Wolf's Pride"
+      },
+      "description": "Blade Wolf DLC: defeat Khamsin on Hard or higher without taking damage.",
+      "description_i18n": {
+        "en": "Blade Wolf DLC: defeat Khamsin on Hard or higher without taking damage.",
+        "pt": "DLC Blade Wolf: vença Khamsin no Hard ou superior sem sofrer dano."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "dlc-wolf-fangs-of-fury",
+      "title": "Fangs of Fury",
+      "title_i18n": {
+        "en": "Fangs of Fury",
+        "pt": "Fangs of Fury"
+      },
+      "description": "Blade Wolf DLC: finish the entire side story on Revengeance within sixty minutes.",
+      "description_i18n": {
+        "en": "Blade Wolf DLC: finish the entire side story on Revengeance within sixty minutes.",
+        "pt": "DLC Blade Wolf: conclua toda a história paralela em Revengeance em até sessenta minutos."
+      },
+      "tier": "gold"
+    },
+    {
+      "key": "dlc-wolf-predatory-instincts",
+      "title": "Predatory Instincts",
+      "title_i18n": {
+        "en": "Predatory Instincts",
+        "pt": "Predatory Instincts"
+      },
+      "description": "Blade Wolf DLC: accumulate thirty Hunt Kills in its story mode.",
+      "description_i18n": {
+        "en": "Blade Wolf DLC: accumulate thirty Hunt Kills in its story mode.",
+        "pt": "DLC Blade Wolf: acumule trinta Hunt Kills no modo história desse DLC."
+      },
+      "tier": "bronze"
+    }
+  ],
+  "hltb_id": "5905",
+  "hltb_main_hours": 7,
+  "hltb_main_extra_hours": 12,
+  "hltb_completionist_hours": 41
+}
