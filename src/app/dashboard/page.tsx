@@ -8,6 +8,7 @@ import { computeCompletionPercent } from "@/lib/progress";
 import { getLocale } from "@/i18n/get-locale";
 import { getDictionary, t } from "@/i18n/get-dictionary";
 import { pick } from "@/i18n/pick";
+import { filterRouteSections, parseRouteDefinitions, resolveRouteKey, resolveWalkthroughRoutes } from "@/lib/walkthrough-routes";
 
 export default async function DashboardPage() {
   const supabase = await createClient();
@@ -19,7 +20,7 @@ export default async function DashboardPage() {
 
   const { data: tracked } = await supabase
     .from("user_game_progress")
-    .select("game_id")
+    .select("game_id, selected_route_key")
     .eq("user_id", userId);
 
   const gameIds = (tracked ?? []).map((row) => row.game_id);
@@ -44,13 +45,13 @@ export default async function DashboardPage() {
   const { data: games } = await supabase
     .from("games")
     .select(
-      "id, slug, title, title_i18n, platform, cover_url, hltb_completionist_hours"
+      "id, slug, title, title_i18n, platform, cover_url, hltb_completionist_hours, walkthrough_routes"
     )
     .in("id", gameIds);
 
   const { data: categories } = await supabase
     .from("checklist_categories")
-    .select("id, game_id")
+    .select("id, key, game_id")
     .in("game_id", gameIds);
 
   const categoryToGame = new Map(
@@ -61,7 +62,7 @@ export default async function DashboardPage() {
   const { data: items } = categoryIds.length
     ? await supabase
         .from("checklist_items")
-        .select("id, category_id")
+        .select("id, key, category_id")
         .in("category_id", categoryIds)
     : { data: [] };
 
@@ -120,16 +121,30 @@ export default async function DashboardPage() {
       </div>
       <div className="grid grid-cols-1 gap-4 sm:grid-cols-2">
         {(games ?? []).map((game) => {
-          const total = totalByGame.get(game.id) ?? 0;
-          const completed = completedByGame.get(game.id) ?? 0;
+          const sections = (categories ?? []).filter((category) => category.game_id === game.id)
+            .map((category) => ({ id: category.id, key: category.key,
+              items: (items ?? []).filter((item) => item.category_id === category.id) }));
+          const routes = resolveWalkthroughRoutes(parseRouteDefinitions(game.walkthrough_routes), sections,
+            (translations, fallback) => pick(translations ?? {}, locale, fallback));
+          const routeKey = resolveRouteKey(routes, (tracked ?? []).find((row) => row.game_id === game.id)?.selected_route_key);
+          const selectedRoute = routes.find((route) => route.key === routeKey);
+          const applicableIds = new Set(filterRouteSections(sections, routes, routeKey).flatMap((section) => section.items.map((item) => item.id)));
+          const total = routes.length ? applicableIds.size : totalByGame.get(game.id) ?? 0;
+          const completed = routes.length
+            ? (progressRows ?? []).filter((row) => applicableIds.has(row.item_id)).length
+            : completedByGame.get(game.id) ?? 0;
+          const percent = computeCompletionPercent(total, completed);
           return (
             <GameCard
               key={game.id}
               title={pick(game.title_i18n, locale, game.title)}
               platform={game.platform}
               href={`/games/${game.slug}`}
-              percent={computeCompletionPercent(total, completed)}
+              percent={routes.length && !selectedRoute ? undefined : percent}
               completeLabel={dict.games.complete}
+              footer={routes.length ? <span className="text-xs text-muted-foreground">{selectedRoute
+                ? t(dict.gameDetail.walkthrough.routeSummary, { route: selectedRoute.title, percent })
+                : dict.gameDetail.walkthrough.routeChoosePrompt}</span> : undefined}
               coverUrl={game.cover_url}
               completionistBadge={
                 game.hltb_completionist_hours != null

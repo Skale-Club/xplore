@@ -1,0 +1,2078 @@
+{
+  "slug": "the-legend-of-zelda-ocarina-of-time",
+  "title": "The Legend of Zelda: Ocarina of Time",
+  "title_i18n": {
+    "en": "The Legend of Zelda: Ocarina of Time",
+    "pt": "The Legend of Zelda: Ocarina of Time"
+  },
+  "platform": "Nintendo 64",
+  "cover_url": "/covers/the-legend-of-zelda-ocarina-of-time.png",
+  "created_by": "dd5c4bf0-85ea-4986-9c04-b37e8c986150",
+  "categories": [
+    {
+      "key": "kokiri-forest-preparation",
+      "title": "Kokiri Forest and N64 preparation",
+      "title_i18n": {
+        "en": "Kokiri Forest and N64 preparation",
+        "pt": "Floresta Kokiri e preparação no N64"
+      },
+      "items": [
+        {
+          "key": "confirm-original-n64",
+          "title": "Begin the original N64 adventure",
+          "title_i18n": {
+            "en": "Begin the original N64 adventure",
+            "pt": "Começar a aventura original de N64"
+          },
+          "description": "This route uses the 1998 quest, excluding Master Quest layouts, 3DS changes and the separate remake.",
+          "description_i18n": {
+            "en": "This route uses the 1998 quest, excluding Master Quest layouts, 3DS changes and the separate remake.",
+            "pt": "Esta rota usa a aventura de 1998, sem os cenários de Master Quest, as mudanças do 3DS ou o remake separado."
+          }
+        },
+        {
+          "key": "practice-z-targeting",
+          "title": "Practice Z-targeting and movement",
+          "title_i18n": {
+            "en": "Practice Z-targeting and movement",
+            "pt": "Praticar a mira Z e o movimento"
+          },
+          "description": "Learn targeting, context actions and automatic jumps at ledges with Navi's guidance.",
+          "description_i18n": {
+            "en": "Learn targeting, context actions and automatic jumps at ledges with Navi's guidance.",
+            "pt": "Aprenda a mira, as ações contextuais e os saltos automáticos nas bordas com Navi."
+          }
+        },
+        {
+          "key": "find-kokiri-sword",
+          "title": "Find the Kokiri Sword",
+          "title_i18n": {
+            "en": "Find the Kokiri Sword",
+            "pt": "Encontrar a Kokiri Sword"
+          },
+          "description": "Explore the training area and retrieve a sword before approaching the forest guardian.",
+          "description_i18n": {
+            "en": "Explore the training area and retrieve a sword before approaching the forest guardian.",
+            "pt": "Explore a área de treinamento e obtenha uma espada antes de procurar o guardião da floresta."
+          }
+        },
+        {
+          "key": "buy-deku-shield",
+          "title": "Buy a Deku Shield",
+          "title_i18n": {
+            "en": "Buy a Deku Shield",
+            "pt": "Comprar um Deku Shield"
+          },
+          "description": "Collect rupees for the shop's shield and equip both pieces of starting gear.",
+          "description_i18n": {
+            "en": "Collect rupees for the shop's shield and equip both pieces of starting gear.",
+            "pt": "Reúna rupias para o escudo da loja e equipe os dois itens iniciais."
+          }
+        },
+        {
+          "key": "pass-mido",
+          "title": "Speak with Mido",
+          "title_i18n": {
+            "en": "Speak with Mido",
+            "pt": "Falar com Mido"
+          },
+          "description": "Show that you are equipped and follow the path toward the Deku Tree.",
+          "description_i18n": {
+            "en": "Show that you are equipped and follow the path toward the Deku Tree.",
+            "pt": "Mostre que está equipado e siga até a Deku Tree."
+          }
+        },
+        {
+          "key": "meet-deku-tree",
+          "title": "Meet the Deku Tree",
+          "title_i18n": {
+            "en": "Meet the Deku Tree",
+            "pt": "Encontrar a Deku Tree"
+          },
+          "description": "Hear the request and enter the first dungeon when the entrance opens.",
+          "description_i18n": {
+            "en": "Hear the request and enter the first dungeon when the entrance opens.",
+            "pt": "Ouça o pedido e entre na primeira masmorra quando a entrada abrir."
+          }
+        },
+        {
+          "key": "learn-dungeon-navigation",
+          "title": "Learn dungeon navigation",
+          "title_i18n": {
+            "en": "Learn dungeon navigation",
+            "pt": "Aprender a navegar nas masmorras"
+          },
+          "description": "Track floors, locked routes and treasure on the pause-menu map.",
+          "description_i18n": {
+            "en": "Track floors, locked routes and treasure on the pause-menu map.",
+            "pt": "Acompanhe andares, rotas bloqueadas e tesouros no mapa do menu de pausa."
+          }
+        }
+      ]
+    },
+    {
+      "key": "inside-deku-tree",
+      "title": "Inside the Deku Tree",
+      "title_i18n": {
+        "en": "Inside the Deku Tree",
+        "pt": "Interior da Deku Tree"
+      },
+      "items": [
+        {
+          "key": "climb-deku-tree",
+          "title": "Climb the interior route",
+          "title_i18n": {
+            "en": "Climb the interior route",
+            "pt": "Subir pela rota interna"
+          },
+          "description": "Investigate the upper rooms and the central chamber's obstacles.",
+          "description_i18n": {
+            "en": "Investigate the upper rooms and the central chamber's obstacles.",
+            "pt": "Investigue as salas superiores e os obstáculos da câmara central."
+          }
+        },
+        {
+          "key": "obtain-fairy-slingshot",
+          "title": "Obtain the Fairy Slingshot",
+          "title_i18n": {
+            "en": "Obtain the Fairy Slingshot",
+            "pt": "Obter a Fairy Slingshot"
+          },
+          "description": "Complete the upper-room encounter and collect the ranged tool.",
+          "description_i18n": {
+            "en": "Complete the upper-room encounter and collect the ranged tool.",
+            "pt": "Conclua o confronto superior e recolha a ferramenta de longo alcance."
+          }
+        },
+        {
+          "key": "open-deku-basement-route",
+          "title": "Open the basement route",
+          "title_i18n": {
+            "en": "Open the basement route",
+            "pt": "Abrir a rota para o subsolo"
+          },
+          "description": "Examine the central obstruction and use the dungeon's height and tools to continue.",
+          "description_i18n": {
+            "en": "Examine the central obstruction and use the dungeon's height and tools to continue.",
+            "pt": "Examine a obstrução central e use a altura e as ferramentas da masmorra para continuar."
+          }
+        },
+        {
+          "key": "solve-deku-lower-rooms",
+          "title": "Explore the lower rooms",
+          "title_i18n": {
+            "en": "Explore the lower rooms",
+            "pt": "Explorar as salas inferiores"
+          },
+          "description": "Use switches, fire and positioning to open the final route.",
+          "description_i18n": {
+            "en": "Use switches, fire and positioning to open the final route.",
+            "pt": "Use interruptores, fogo e posicionamento para abrir a rota final."
+          }
+        },
+        {
+          "key": "defeat-queen-gohma",
+          "title": "Defeat Queen Gohma",
+          "title_i18n": {
+            "en": "Defeat Queen Gohma",
+            "pt": "Derrotar Queen Gohma"
+          },
+          "description": "Watch the boss's changing signals and use optional guidance if the opening is unclear.",
+          "description_i18n": {
+            "en": "Watch the boss's changing signals and use optional guidance if the opening is unclear.",
+            "pt": "Observe os sinais da chefe e consulte a orientação opcional se a abertura não estiver clara."
+          },
+          "details": "Z-target the eye and wait for its red vulnerable signal before using the Slingshot. When she is stunned, move in for sword hits, then step back and watch her next action. If she climbs to the ceiling, keep the eye in view: a well-timed shot can interrupt her before eggs fall. If eggs do appear, destroy them promptly rather than letting several small enemies distract you. Break away to reset your position instead of swinging continuously beneath an invulnerable boss.",
+          "details_i18n": {
+            "en": "Z-target the eye and wait for its red vulnerable signal before using the Slingshot. When she is stunned, move in for sword hits, then step back and watch her next action. If she climbs to the ceiling, keep the eye in view: a well-timed shot can interrupt her before eggs fall. If eggs do appear, destroy them promptly rather than letting several small enemies distract you. Break away to reset your position instead of swinging continuously beneath an invulnerable boss.",
+            "pt": "Use a mira Z no olho e espere o sinal vermelho de vulnerabilidade antes de disparar a Slingshot. Quando ela ficar atordoada, aproxime-se para golpear com a espada e recue para observar a próxima ação. Se subir ao teto, acompanhe o olho: um tiro preciso pode interrompê-la antes da queda dos ovos. Se houver ovos, destrua-os rapidamente para evitar distrações de vários inimigos pequenos. Reposicione-se em vez de atacar continuamente sob uma chefe invulnerável."
+          }
+        },
+        {
+          "key": "claim-kokiri-emerald",
+          "title": "Claim the Kokiri Emerald",
+          "title_i18n": {
+            "en": "Claim the Kokiri Emerald",
+            "pt": "Obter a Kokiri Emerald"
+          },
+          "description": "Collect the Heart Container, leave through the light and follow the story.",
+          "description_i18n": {
+            "en": "Collect the Heart Container, leave through the light and follow the story.",
+            "pt": "Recolha o Heart Container, saia pela luz e acompanhe a história."
+          }
+        }
+      ]
+    },
+    {
+      "key": "hyrule-castle-visit",
+      "title": "Hyrule Field and the royal castle",
+      "title_i18n": {
+        "en": "Hyrule Field and the royal castle",
+        "pt": "Campo de Hyrule e castelo real"
+      },
+      "items": [
+        {
+          "key": "receive-fairy-ocarina",
+          "title": "Receive the Fairy Ocarina",
+          "title_i18n": {
+            "en": "Receive the Fairy Ocarina",
+            "pt": "Receber a Fairy Ocarina"
+          },
+          "description": "Speak with Saria while leaving the forest and keep the instrument available.",
+          "description_i18n": {
+            "en": "Speak with Saria while leaving the forest and keep the instrument available.",
+            "pt": "Fale com Saria ao sair da floresta e mantenha o instrumento disponível."
+          }
+        },
+        {
+          "key": "reach-castle-town",
+          "title": "Reach Castle Town",
+          "title_i18n": {
+            "en": "Reach Castle Town",
+            "pt": "Chegar à cidade do castelo"
+          },
+          "description": "Cross Hyrule Field and enter the market when the gate is open.",
+          "description_i18n": {
+            "en": "Cross Hyrule Field and enter the market when the gate is open.",
+            "pt": "Atravesse Hyrule Field e entre no mercado quando o portão estiver aberto."
+          }
+        },
+        {
+          "key": "meet-malon-castle",
+          "title": "Meet Malon near the castle",
+          "title_i18n": {
+            "en": "Meet Malon near the castle",
+            "pt": "Encontrar Malon perto do castelo"
+          },
+          "description": "Talk through her request and accept the item for the castle approach.",
+          "description_i18n": {
+            "en": "Talk through her request and accept the item for the castle approach.",
+            "pt": "Ouça o pedido dela e receba o item para a aproximação ao castelo."
+          }
+        },
+        {
+          "key": "pass-castle-guards",
+          "title": "Pass the castle guards",
+          "title_i18n": {
+            "en": "Pass the castle guards",
+            "pt": "Passar pelos guardas do castelo"
+          },
+          "description": "Observe their sightlines and seek an alternative to the guarded entrance.",
+          "description_i18n": {
+            "en": "Observe their sightlines and seek an alternative to the guarded entrance.",
+            "pt": "Observe o campo de visão deles e procure uma alternativa à entrada vigiada."
+          }
+        },
+        {
+          "key": "resolve-talon-obstacle",
+          "title": "Resolve the sleeping-worker obstacle",
+          "title_i18n": {
+            "en": "Resolve the sleeping-worker obstacle",
+            "pt": "Resolver o obstáculo do trabalhador adormecido"
+          },
+          "description": "Use the relevant item when ready and inspect the nearby route into the grounds.",
+          "description_i18n": {
+            "en": "Use the relevant item when ready and inspect the nearby route into the grounds.",
+            "pt": "Use o item correspondente quando estiver pronto e examine a rota próxima para os jardins."
+          }
+        },
+        {
+          "key": "reach-princess-zelda",
+          "title": "Reach Princess Zelda",
+          "title_i18n": {
+            "en": "Reach Princess Zelda",
+            "pt": "Encontrar Princess Zelda"
+          },
+          "description": "Pass the courtyard patrols and hear the princess's request.",
+          "description_i18n": {
+            "en": "Pass the courtyard patrols and hear the princess's request.",
+            "pt": "Passe pelas patrulhas do pátio e ouça o pedido da princesa."
+          }
+        },
+        {
+          "key": "learn-zeldas-lullaby",
+          "title": "Learn Zelda's Lullaby",
+          "title_i18n": {
+            "en": "Learn Zelda's Lullaby",
+            "pt": "Aprender Zelda's Lullaby"
+          },
+          "description": "Follow Impa's instruction and practice the song before leaving.",
+          "description_i18n": {
+            "en": "Follow Impa's instruction and practice the song before leaving.",
+            "pt": "Siga as instruções de Impa e pratique a canção antes de sair."
+          }
+        }
+      ]
+    },
+    {
+      "key": "kakariko-and-goron-city",
+      "title": "Kakariko and the Goron request",
+      "title_i18n": {
+        "en": "Kakariko and the Goron request",
+        "pt": "Kakariko e o pedido dos Gorons"
+      },
+      "items": [
+        {
+          "key": "visit-kakariko-village",
+          "title": "Visit Kakariko Village",
+          "title_i18n": {
+            "en": "Visit Kakariko Village",
+            "pt": "Visitar Kakariko Village"
+          },
+          "description": "Explore village services and identify the route toward Death Mountain.",
+          "description_i18n": {
+            "en": "Explore village services and identify the route toward Death Mountain.",
+            "pt": "Explore os serviços da vila e identifique o caminho para Death Mountain."
+          }
+        },
+        {
+          "key": "obtain-first-empty-bottle",
+          "title": "Obtain a bottle from the Cucco task",
+          "title_i18n": {
+            "en": "Obtain a bottle from the Cucco task",
+            "pt": "Obter uma garrafa na tarefa dos Cuccos"
+          },
+          "description": "Help gather the Cuccos and keep the bottle for later quest use.",
+          "description_i18n": {
+            "en": "Help gather the Cuccos and keep the bottle for later quest use.",
+            "pt": "Ajude a reunir os Cuccos e guarde a garrafa para usar mais adiante."
+          }
+        },
+        {
+          "key": "open-death-mountain-gate",
+          "title": "Open the mountain gate",
+          "title_i18n": {
+            "en": "Open the mountain gate",
+            "pt": "Abrir o portão da montanha"
+          },
+          "description": "Present the royal introduction to the guard and continue up the trail.",
+          "description_i18n": {
+            "en": "Present the royal introduction to the guard and continue up the trail.",
+            "pt": "Apresente a recomendação real ao guarda e siga pela trilha."
+          }
+        },
+        {
+          "key": "explore-goron-city",
+          "title": "Explore Goron City",
+          "title_i18n": {
+            "en": "Explore Goron City",
+            "pt": "Explorar Goron City"
+          },
+          "description": "Speak with residents and locate the leader's room and nearby connections.",
+          "description_i18n": {
+            "en": "Speak with residents and locate the leader's room and nearby connections.",
+            "pt": "Fale com os moradores e localize a sala do líder e as conexões próximas."
+          }
+        },
+        {
+          "key": "learn-sarias-song",
+          "title": "Learn Saria's Song",
+          "title_i18n": {
+            "en": "Learn Saria's Song",
+            "pt": "Aprender Saria's Song"
+          },
+          "description": "Return through the Lost Woods and reach Saria in the Sacred Forest Meadow.",
+          "description_i18n": {
+            "en": "Return through the Lost Woods and reach Saria in the Sacred Forest Meadow.",
+            "pt": "Volte pelos Lost Woods e encontre Saria no Sacred Forest Meadow."
+          }
+        },
+        {
+          "key": "receive-gorons-bracelet",
+          "title": "Receive the Goron's Bracelet",
+          "title_i18n": {
+            "en": "Receive the Goron's Bracelet",
+            "pt": "Receber o Goron's Bracelet"
+          },
+          "description": "Return to Darunia with what you learned and accept the cavern request.",
+          "description_i18n": {
+            "en": "Return to Darunia with what you learned and accept the cavern request.",
+            "pt": "Volte a Darunia com o que aprendeu e aceite o pedido sobre a caverna."
+          }
+        }
+      ]
+    },
+    {
+      "key": "dodongos-cavern",
+      "title": "Dodongo’s Cavern and magic",
+      "title_i18n": {
+        "en": "Dodongo’s Cavern and magic",
+        "pt": "Dodongo’s Cavern e magia"
+      },
+      "items": [
+        {
+          "key": "open-dodongos-cavern",
+          "title": "Open Dodongo's Cavern",
+          "title_i18n": {
+            "en": "Open Dodongo's Cavern",
+            "pt": "Abrir Dodongo's Cavern"
+          },
+          "description": "Inspect the mountain approach and use the lifting ability to clear the entrance.",
+          "description_i18n": {
+            "en": "Inspect the mountain approach and use the lifting ability to clear the entrance.",
+            "pt": "Examine o acesso da montanha e use a habilidade de levantar objetos para liberar a entrada."
+          }
+        },
+        {
+          "key": "explore-cavern-side-rooms",
+          "title": "Explore the cavern's side rooms",
+          "title_i18n": {
+            "en": "Explore the cavern's side rooms",
+            "pt": "Explorar as salas laterais da caverna"
+          },
+          "description": "Follow the accessible paths and resolve the early Lizalfos encounters.",
+          "description_i18n": {
+            "en": "Follow the accessible paths and resolve the early Lizalfos encounters.",
+            "pt": "Siga os caminhos acessíveis e vença os primeiros confrontos com Lizalfos."
+          }
+        },
+        {
+          "key": "obtain-bomb-bag",
+          "title": "Obtain the Bomb Bag",
+          "title_i18n": {
+            "en": "Obtain the Bomb Bag",
+            "pt": "Obter a Bomb Bag"
+          },
+          "description": "Advance through the stair and upper-room puzzles to claim portable bombs.",
+          "description_i18n": {
+            "en": "Advance through the stair and upper-room puzzles to claim portable bombs.",
+            "pt": "Avance pelos desafios da escadaria e das salas superiores para obter bombas portáteis."
+          }
+        },
+        {
+          "key": "open-dodongo-central-route",
+          "title": "Open the central route",
+          "title_i18n": {
+            "en": "Open the central route",
+            "pt": "Abrir a rota central"
+          },
+          "description": "Revisit the main chamber with the new tool and examine the large stone structure.",
+          "description_i18n": {
+            "en": "Revisit the main chamber with the new tool and examine the large stone structure.",
+            "pt": "Volte à câmara principal com a nova ferramenta e examine a grande estrutura de pedra."
+          }
+        },
+        {
+          "key": "defeat-king-dodongo",
+          "title": "Defeat King Dodongo",
+          "title_i18n": {
+            "en": "Defeat King Dodongo",
+            "pt": "Derrotar King Dodongo"
+          },
+          "description": "Avoid the rolling attack and watch for vulnerable moments.",
+          "description_i18n": {
+            "en": "Avoid the rolling attack and watch for vulnerable moments.",
+            "pt": "Evite o ataque rolante e observe os momentos vulneráveis."
+          }
+        },
+        {
+          "key": "claim-goron-ruby-and-magic",
+          "title": "Claim the Goron Ruby and seek magic",
+          "title_i18n": {
+            "en": "Claim the Goron Ruby and seek magic",
+            "pt": "Obter a Goron Ruby e buscar magia"
+          },
+          "description": "Collect the reward, then explore the mountain summit's Great Fairy before moving on.",
+          "description_i18n": {
+            "en": "Collect the reward, then explore the mountain summit's Great Fairy before moving on.",
+            "pt": "Recolha a recompensa e procure a Great Fairy no cume antes de seguir viagem."
+          }
+        }
+      ]
+    },
+    {
+      "key": "zoras-domain-route",
+      "title": "Zora’s River and the missing princess",
+      "title_i18n": {
+        "en": "Zora’s River and the missing princess",
+        "pt": "Rio dos Zoras e a princesa desaparecida"
+      },
+      "items": [
+        {
+          "key": "obtain-dins-fire",
+          "title": "Seek the castle Great Fairy",
+          "title_i18n": {
+            "en": "Seek the castle Great Fairy",
+            "pt": "Procurar a Great Fairy do castelo"
+          },
+          "description": "Return with bombs and obtain Din's Fire for a later temple entrance.",
+          "description_i18n": {
+            "en": "Return with bombs and obtain Din's Fire for a later temple entrance.",
+            "pt": "Volte com bombas e obtenha Din's Fire para a entrada de um templo posterior."
+          }
+        },
+        {
+          "key": "climb-zoras-river",
+          "title": "Climb Zora's River",
+          "title_i18n": {
+            "en": "Climb Zora's River",
+            "pt": "Subir o rio dos Zoras"
+          },
+          "description": "Follow the river and inspect the waterfall blocking the domain entrance.",
+          "description_i18n": {
+            "en": "Follow the river and inspect the waterfall blocking the domain entrance.",
+            "pt": "Siga pelo rio e examine a cachoeira que bloqueia a entrada do domínio."
+          }
+        },
+        {
+          "key": "enter-zoras-domain",
+          "title": "Enter Zora's Domain",
+          "title_i18n": {
+            "en": "Enter Zora's Domain",
+            "pt": "Entrar em Zora's Domain"
+          },
+          "description": "Use the royal song at the marked approach and speak with the residents.",
+          "description_i18n": {
+            "en": "Use the royal song at the marked approach and speak with the residents.",
+            "pt": "Use a canção real no acesso marcado e fale com os moradores."
+          }
+        },
+        {
+          "key": "win-silver-scale",
+          "title": "Win the Silver Scale",
+          "title_i18n": {
+            "en": "Win the Silver Scale",
+            "pt": "Obter a Silver Scale"
+          },
+          "description": "Complete the diving challenge to extend your underwater reach.",
+          "description_i18n": {
+            "en": "Complete the diving challenge to extend your underwater reach.",
+            "pt": "Conclua o desafio de mergulho para ampliar seu alcance subaquático."
+          }
+        },
+        {
+          "key": "find-rutos-message",
+          "title": "Find the missing princess's message",
+          "title_i18n": {
+            "en": "Find the missing princess's message",
+            "pt": "Encontrar a mensagem da princesa desaparecida"
+          },
+          "description": "Explore the connected lake and bring the evidence to King Zora.",
+          "description_i18n": {
+            "en": "Explore the connected lake and bring the evidence to King Zora.",
+            "pt": "Explore o lago conectado e leve a evidência a King Zora."
+          }
+        },
+        {
+          "key": "enter-jabu-jabu",
+          "title": "Enter Jabu-Jabu",
+          "title_i18n": {
+            "en": "Enter Jabu-Jabu",
+            "pt": "Entrar em Jabu-Jabu"
+          },
+          "description": "Prepare a bottled offering and approach the guardian after the king clears the path.",
+          "description_i18n": {
+            "en": "Prepare a bottled offering and approach the guardian after the king clears the path.",
+            "pt": "Prepare uma oferenda na garrafa e aproxime-se do guardião após o rei liberar o caminho."
+          }
+        }
+      ]
+    },
+    {
+      "key": "jabu-jabus-belly",
+      "title": "Jabu-Jabu’s Belly",
+      "title_i18n": {
+        "en": "Jabu-Jabu’s Belly",
+        "pt": "Interior de Jabu-Jabu"
+      },
+      "items": [
+        {
+          "key": "find-princess-ruto",
+          "title": "Find Princess Ruto",
+          "title_i18n": {
+            "en": "Find Princess Ruto",
+            "pt": "Encontrar Princess Ruto"
+          },
+          "description": "Follow the route and speak with the princess until you can continue together.",
+          "description_i18n": {
+            "en": "Follow the route and speak with the princess until you can continue together.",
+            "pt": "Siga a rota e fale com a princesa até poder continuar com ela."
+          }
+        },
+        {
+          "key": "carry-ruto-through-rooms",
+          "title": "Escort Ruto through the interior",
+          "title_i18n": {
+            "en": "Escort Ruto through the interior",
+            "pt": "Acompanhar Ruto pelo interior"
+          },
+          "description": "Remember where you leave her while using switches and changing rooms.",
+          "description_i18n": {
+            "en": "Remember where you leave her while using switches and changing rooms.",
+            "pt": "Lembre-se de onde a deixou ao usar interruptores e mudar de sala."
+          }
+        },
+        {
+          "key": "obtain-boomerang",
+          "title": "Obtain the Boomerang",
+          "title_i18n": {
+            "en": "Obtain the Boomerang",
+            "pt": "Obter o Boomerang"
+          },
+          "description": "Complete the branching-room encounter and collect the returning weapon.",
+          "description_i18n": {
+            "en": "Complete the branching-room encounter and collect the returning weapon.",
+            "pt": "Vença o confronto da sala lateral e obtenha a arma de retorno."
+          }
+        },
+        {
+          "key": "clear-tentacles-and-bigocto",
+          "title": "Clear the tentacle route and Bigocto",
+          "title_i18n": {
+            "en": "Clear the tentacle route and Bigocto",
+            "pt": "Liberar a rota dos tentáculos e vencer Bigocto"
+          },
+          "description": "Use the new tool to open blocked routes and resolve the rotating-platform encounter.",
+          "description_i18n": {
+            "en": "Use the new tool to open blocked routes and resolve the rotating-platform encounter.",
+            "pt": "Use a ferramenta para abrir rotas bloqueadas e resolver o confronto da plataforma giratória."
+          }
+        },
+        {
+          "key": "defeat-barinade",
+          "title": "Defeat Barinade",
+          "title_i18n": {
+            "en": "Defeat Barinade",
+            "pt": "Derrotar Barinade"
+          },
+          "description": "Keep moving around the arena and recognize safe attack openings.",
+          "description_i18n": {
+            "en": "Keep moving around the arena and recognize safe attack openings.",
+            "pt": "Movimente-se pela arena e reconheça as aberturas seguras para atacar."
+          }
+        },
+        {
+          "key": "claim-zora-sapphire",
+          "title": "Claim the Zora's Sapphire",
+          "title_i18n": {
+            "en": "Claim the Zora's Sapphire",
+            "pt": "Obter a Zora's Sapphire"
+          },
+          "description": "Take the Heart Container and complete the three-stone quest conversation.",
+          "description_i18n": {
+            "en": "Take the Heart Container and complete the three-stone quest conversation.",
+            "pt": "Recolha o Heart Container e conclua a conversa da busca pelas três pedras."
+          }
+        }
+      ]
+    },
+    {
+      "key": "door-of-time",
+      "title": "The Door of Time",
+      "title_i18n": {
+        "en": "The Door of Time",
+        "pt": "A Door of Time"
+      },
+      "items": [
+        {
+          "key": "return-to-castle-gate",
+          "title": "Return to the castle gate",
+          "title_i18n": {
+            "en": "Return to the castle gate",
+            "pt": "Voltar ao portão do castelo"
+          },
+          "description": "Approach Castle Town with all three Spiritual Stones and watch the new sequence.",
+          "description_i18n": {
+            "en": "Approach Castle Town with all three Spiritual Stones and watch the new sequence.",
+            "pt": "Aproxime-se da cidade com as três Spiritual Stones e acompanhe a nova sequência."
+          }
+        },
+        {
+          "key": "recover-ocarina-of-time",
+          "title": "Recover the Ocarina of Time",
+          "title_i18n": {
+            "en": "Recover the Ocarina of Time",
+            "pt": "Recuperar a Ocarina of Time"
+          },
+          "description": "Retrieve the item left nearby and learn its attached message.",
+          "description_i18n": {
+            "en": "Retrieve the item left nearby and learn its attached message.",
+            "pt": "Recupere o item deixado por perto e conheça sua mensagem."
+          }
+        },
+        {
+          "key": "open-door-of-time",
+          "title": "Open the Door of Time",
+          "title_i18n": {
+            "en": "Open the Door of Time",
+            "pt": "Abrir a Door of Time"
+          },
+          "description": "Visit the Temple of Time and use the new song at the altar.",
+          "description_i18n": {
+            "en": "Visit the Temple of Time and use the new song at the altar.",
+            "pt": "Visite o Temple of Time e use a nova canção diante do altar."
+          }
+        },
+        {
+          "key": "draw-master-sword",
+          "title": "Draw the Master Sword",
+          "title_i18n": {
+            "en": "Draw the Master Sword",
+            "pt": "Retirar a Master Sword"
+          },
+          "description": "Enter the inner chamber and follow the transformation sequence.",
+          "description_i18n": {
+            "en": "Enter the inner chamber and follow the transformation sequence.",
+            "pt": "Entre na câmara interna e acompanhe a sequência de transformação."
+          }
+        },
+        {
+          "key": "meet-sheik-as-adult",
+          "title": "Meet Sheik and review the adult quest",
+          "title_i18n": {
+            "en": "Meet Sheik and review the adult quest",
+            "pt": "Encontrar Sheik e conhecer a missão adulta"
+          },
+          "description": "Hear the objective and prepare to revisit the changed world.",
+          "description_i18n": {
+            "en": "Hear the objective and prepare to revisit the changed world.",
+            "pt": "Ouça o objetivo e prepare-se para revisitar o mundo transformado."
+          }
+        }
+      ]
+    },
+    {
+      "key": "forest-temple",
+      "title": "Forest Temple",
+      "title_i18n": {
+        "en": "Forest Temple",
+        "pt": "Forest Temple"
+      },
+      "items": [
+        {
+          "key": "obtain-hookshot",
+          "title": "Obtain the Hookshot",
+          "title_i18n": {
+            "en": "Obtain the Hookshot",
+            "pt": "Obter o Hookshot"
+          },
+          "description": "Investigate the adult graveyard and complete Dampé's challenge before seeking the forest temple.",
+          "description_i18n": {
+            "en": "Investigate the adult graveyard and complete Dampé's challenge before seeking the forest temple.",
+            "pt": "Investigue o cemitério adulto e conclua o desafio de Dampé antes de procurar o templo da floresta."
+          }
+        },
+        {
+          "key": "reach-sacred-meadow-adult",
+          "title": "Reach the Sacred Forest Meadow as an adult",
+          "title_i18n": {
+            "en": "Reach the Sacred Forest Meadow as an adult",
+            "pt": "Chegar adulto ao Sacred Forest Meadow"
+          },
+          "description": "Return through the Lost Woods and use familiar music where a friend blocks the route.",
+          "description_i18n": {
+            "en": "Return through the Lost Woods and use familiar music where a friend blocks the route.",
+            "pt": "Volte pelos Lost Woods e use uma música conhecida onde um amigo bloquear o caminho."
+          }
+        },
+        {
+          "key": "learn-minuet-and-enter-forest",
+          "title": "Learn the Minuet and enter the temple",
+          "title_i18n": {
+            "en": "Learn the Minuet and enter the temple",
+            "pt": "Aprender o Minuet e entrar no templo"
+          },
+          "description": "Meet Sheik and use the new tool to reach the entrance.",
+          "description_i18n": {
+            "en": "Meet Sheik and use the new tool to reach the entrance.",
+            "pt": "Encontre Sheik e use a nova ferramenta para alcançar a entrada."
+          }
+        },
+        {
+          "key": "explore-forest-courtyards",
+          "title": "Explore the courtyards and block rooms",
+          "title_i18n": {
+            "en": "Explore the courtyards and block rooms",
+            "pt": "Explorar os pátios e as salas de blocos"
+          },
+          "description": "Track small keys and connections between upper passages before spending them.",
+          "description_i18n": {
+            "en": "Track small keys and connections between upper passages before spending them.",
+            "pt": "Acompanhe as chaves pequenas e as conexões superiores antes de usá-las."
+          }
+        },
+        {
+          "key": "obtain-fairy-bow",
+          "title": "Obtain the Fairy Bow",
+          "title_i18n": {
+            "en": "Obtain the Fairy Bow",
+            "pt": "Obter o Fairy Bow"
+          },
+          "description": "Complete the Stalfos encounter and claim the temple's ranged weapon.",
+          "description_i18n": {
+            "en": "Complete the Stalfos encounter and claim the temple's ranged weapon.",
+            "pt": "Vença o confronto com Stalfos e obtenha a arma de longo alcance do templo."
+          }
+        },
+        {
+          "key": "restore-four-poe-flames",
+          "title": "Restore the four Poe flames",
+          "title_i18n": {
+            "en": "Restore the four Poe flames",
+            "pt": "Restaurar as quatro chamas dos Poes"
+          },
+          "description": "Investigate changing corridors and painting challenges until the central route opens.",
+          "description_i18n": {
+            "en": "Investigate changing corridors and painting challenges until the central route opens.",
+            "pt": "Investigue os corredores mutáveis e os desafios das pinturas até abrir a rota central."
+          },
+          "details": "After obtaining the bow, shoot the Poe portraits from far enough away that the ghost does not retreat before the arrow lands. Follow it between the remaining pictures, then fight it in the room. The eye above the twisted hallway changes its orientation, opening a different route to the Boss Key; return and toggle it again when the other orientation is needed. Later, assemble the picture blocks before time expires. In the final four-copy encounter, watch for the copy that spins when it appears.",
+          "details_i18n": {
+            "en": "After obtaining the bow, shoot the Poe portraits from far enough away that the ghost does not retreat before the arrow lands. Follow it between the remaining pictures, then fight it in the room. The eye above the twisted hallway changes its orientation, opening a different route to the Boss Key; return and toggle it again when the other orientation is needed. Later, assemble the picture blocks before time expires. In the final four-copy encounter, watch for the copy that spins when it appears.",
+            "pt": "Após obter o arco, atire nas pinturas de Poe de uma distância que impeça o fantasma de fugir antes da flecha. Siga-o pelas pinturas restantes e enfrente-o na sala. O olho sobre o corredor retorcido muda sua orientação e abre outra rota até a Boss Key; volte e altere-o de novo quando precisar da outra posição. Depois, monte a imagem com os blocos antes do fim do tempo. No encontro com quatro cópias, observe a que gira ao aparecer."
+          }
+        },
+        {
+          "key": "reach-phantom-ganon",
+          "title": "Reach Phantom Ganon",
+          "title_i18n": {
+            "en": "Reach Phantom Ganon",
+            "pt": "Alcançar Phantom Ganon"
+          },
+          "description": "Resolve the lower rotating-room route and use the Boss Key to reach the arena.",
+          "description_i18n": {
+            "en": "Resolve the lower rotating-room route and use the Boss Key to reach the arena.",
+            "pt": "Resolva a rota da sala giratória inferior e use a Boss Key para chegar à arena."
+          }
+        },
+        {
+          "key": "claim-forest-medallion",
+          "title": "Defeat Phantom Ganon and claim the medallion",
+          "title_i18n": {
+            "en": "Defeat Phantom Ganon and claim the medallion",
+            "pt": "Derrotar Phantom Ganon e obter o medalhão"
+          },
+          "description": "Finish the boss, collect the Heart Container and follow the sage sequence.",
+          "description_i18n": {
+            "en": "Finish the boss, collect the Heart Container and follow the sage sequence.",
+            "pt": "Vença o chefe, recolha o Heart Container e acompanhe a sequência da sábia."
+          },
+          "details": "During the horseback phase, watch the paintings and shoot the rider that actually emerges through the glowing portal; the false rider turns back. Keep moving if you misread the picture and lightning begins. Once Phantom Ganon fights on foot, face him and return the energy ball with timed sword swings until it strikes him. Close the distance for a short sword attack while he is down, then prepare for the next exchange. Preserve arrows for the mounted phase rather than firing at a returning decoy.",
+          "details_i18n": {
+            "en": "During the horseback phase, watch the paintings and shoot the rider that actually emerges through the glowing portal; the false rider turns back. Keep moving if you misread the picture and lightning begins. Once Phantom Ganon fights on foot, face him and return the energy ball with timed sword swings until it strikes him. Close the distance for a short sword attack while he is down, then prepare for the next exchange. Preserve arrows for the mounted phase rather than firing at a returning decoy.",
+            "pt": "Na fase montada, observe as pinturas e atire no cavaleiro que realmente sai pelo portal luminoso; o falso volta para dentro. Movimente-se se errar a pintura e os raios começarem. Quando Phantom Ganon lutar sem montaria, fique de frente e devolva a esfera de energia com golpes de espada no momento certo até acertá-lo. Aproxime-se para atacar brevemente enquanto ele estiver caído e prepare a próxima troca. Reserve flechas para a fase montada em vez de disparar contra uma cópia que recua."
+          }
+        }
+      ]
+    },
+    {
+      "key": "fire-temple",
+      "title": "Goron City and Fire Temple",
+      "title_i18n": {
+        "en": "Goron City and Fire Temple",
+        "pt": "Goron City e Fire Temple"
+      },
+      "items": [
+        {
+          "key": "meet-young-goron",
+          "title": "Meet the rolling Goron",
+          "title_i18n": {
+            "en": "Meet the rolling Goron",
+            "pt": "Encontrar o Goron que rola pela cidade"
+          },
+          "description": "Return to adult Goron City and learn what happened to its residents.",
+          "description_i18n": {
+            "en": "Return to adult Goron City and learn what happened to its residents.",
+            "pt": "Volte à Goron City adulta e descubra o que aconteceu com os moradores."
+          }
+        },
+        {
+          "key": "obtain-goron-tunic",
+          "title": "Obtain the Goron Tunic",
+          "title_i18n": {
+            "en": "Obtain the Goron Tunic",
+            "pt": "Obter a Goron Tunic"
+          },
+          "description": "Resolve the conversation and equip heat protection before exploring the crater.",
+          "description_i18n": {
+            "en": "Resolve the conversation and equip heat protection before exploring the crater.",
+            "pt": "Conclua a conversa e equipe a proteção contra calor antes de explorar a cratera."
+          }
+        },
+        {
+          "key": "learn-bolero-enter-fire",
+          "title": "Learn the Bolero and enter Fire Temple",
+          "title_i18n": {
+            "en": "Learn the Bolero and enter Fire Temple",
+            "pt": "Aprender o Bolero e entrar no Fire Temple"
+          },
+          "description": "Cross the crater approach, meet Sheik and follow Darunia's route into the dungeon.",
+          "description_i18n": {
+            "en": "Cross the crater approach, meet Sheik and follow Darunia's route into the dungeon.",
+            "pt": "Atravesse o acesso da cratera, encontre Sheik e siga a rota de Darunia até a masmorra."
+          }
+        },
+        {
+          "key": "free-captive-gorons",
+          "title": "Free the captive Gorons",
+          "title_i18n": {
+            "en": "Free the captive Gorons",
+            "pt": "Libertar os Gorons presos"
+          },
+          "description": "Open cells, listen to clues and collect keys while advancing through the temple.",
+          "description_i18n": {
+            "en": "Open cells, listen to clues and collect keys while advancing through the temple.",
+            "pt": "Abra as celas, ouça as pistas e recolha chaves enquanto avança pelo templo."
+          }
+        },
+        {
+          "key": "cross-fire-maze",
+          "title": "Cross the upper fire maze",
+          "title_i18n": {
+            "en": "Cross the upper fire maze",
+            "pt": "Atravessar o labirinto de fogo superior"
+          },
+          "description": "Observe moving hazards and check the layout before committing to a timed route.",
+          "description_i18n": {
+            "en": "Observe moving hazards and check the layout before committing to a timed route.",
+            "pt": "Observe os perigos móveis e examine o cenário antes de iniciar uma rota cronometrada."
+          }
+        },
+        {
+          "key": "obtain-megaton-hammer",
+          "title": "Obtain the Megaton Hammer",
+          "title_i18n": {
+            "en": "Obtain the Megaton Hammer",
+            "pt": "Obter o Megaton Hammer"
+          },
+          "description": "Complete the upper challenge and revisit stubborn obstacles with the new tool.",
+          "description_i18n": {
+            "en": "Complete the upper challenge and revisit stubborn obstacles with the new tool.",
+            "pt": "Conclua o desafio superior e revisite os obstáculos resistentes com a nova ferramenta."
+          }
+        },
+        {
+          "key": "claim-fire-medallion",
+          "title": "Defeat Volvagia and claim the medallion",
+          "title_i18n": {
+            "en": "Defeat Volvagia and claim the medallion",
+            "pt": "Derrotar Volvagia e obter o medalhão"
+          },
+          "description": "Read the boss's emergence signals and collect the dungeon reward after the fight.",
+          "description_i18n": {
+            "en": "Read the boss's emergence signals and collect the dungeon reward after the fight.",
+            "pt": "Observe os sinais de aparição do chefe e recolha a recompensa após a luta."
+          }
+        }
+      ]
+    },
+    {
+      "key": "ice-cavern",
+      "title": "Frozen domain and Ice Cavern",
+      "title_i18n": {
+        "en": "Frozen domain and Ice Cavern",
+        "pt": "Domínio congelado e Ice Cavern"
+      },
+      "items": [
+        {
+          "key": "visit-frozen-domain",
+          "title": "Visit the frozen Zora's Domain",
+          "title_i18n": {
+            "en": "Visit the frozen Zora's Domain",
+            "pt": "Visitar Zora's Domain congelado"
+          },
+          "description": "Return to the domain and inspect the route beyond the frozen king.",
+          "description_i18n": {
+            "en": "Return to the domain and inspect the route beyond the frozen king.",
+            "pt": "Volte ao domínio e examine o caminho além do rei congelado."
+          }
+        },
+        {
+          "key": "enter-ice-cavern",
+          "title": "Enter the Ice Cavern",
+          "title_i18n": {
+            "en": "Enter the Ice Cavern",
+            "pt": "Entrar na Ice Cavern"
+          },
+          "description": "Cross the fountain's ice platforms and follow the cavern route.",
+          "description_i18n": {
+            "en": "Cross the fountain's ice platforms and follow the cavern route.",
+            "pt": "Atravesse as plataformas de gelo da fonte e siga pela caverna."
+          }
+        },
+        {
+          "key": "collect-blue-fire",
+          "title": "Collect Blue Fire",
+          "title_i18n": {
+            "en": "Collect Blue Fire",
+            "pt": "Coletar Blue Fire"
+          },
+          "description": "Keep an empty bottle available and investigate paths blocked by special ice.",
+          "description_i18n": {
+            "en": "Keep an empty bottle available and investigate paths blocked by special ice.",
+            "pt": "Mantenha uma garrafa vazia e investigue as passagens bloqueadas pelo gelo especial."
+          }
+        },
+        {
+          "key": "obtain-iron-boots-serenade",
+          "title": "Obtain the Iron Boots and Serenade",
+          "title_i18n": {
+            "en": "Obtain the Iron Boots and Serenade",
+            "pt": "Obter as Iron Boots e a Serenade"
+          },
+          "description": "Finish the main challenge and learn the new warp song before leaving.",
+          "description_i18n": {
+            "en": "Finish the main challenge and learn the new warp song before leaving.",
+            "pt": "Conclua o desafio principal e aprenda a nova canção de transporte antes de sair."
+          }
+        },
+        {
+          "key": "thaw-king-obtain-zora-tunic",
+          "title": "Help King Zora and obtain the Zora Tunic",
+          "title_i18n": {
+            "en": "Help King Zora and obtain the Zora Tunic",
+            "pt": "Ajudar King Zora e obter a Zora Tunic"
+          },
+          "description": "Return with the necessary resource and prepare underwater equipment for Lake Hylia.",
+          "description_i18n": {
+            "en": "Return with the necessary resource and prepare underwater equipment for Lake Hylia.",
+            "pt": "Volte com o recurso necessário e prepare o equipamento subaquático para Lake Hylia."
+          }
+        }
+      ]
+    },
+    {
+      "key": "water-temple",
+      "title": "Water Temple",
+      "title_i18n": {
+        "en": "Water Temple",
+        "pt": "Water Temple"
+      },
+      "items": [
+        {
+          "key": "enter-water-temple",
+          "title": "Enter the Water Temple",
+          "title_i18n": {
+            "en": "Enter the Water Temple",
+            "pt": "Entrar no Water Temple"
+          },
+          "description": "Use the lake's underwater entrance and check boots and tunic through the N64 equipment menu.",
+          "description_i18n": {
+            "en": "Use the lake's underwater entrance and check boots and tunic through the N64 equipment menu.",
+            "pt": "Use a entrada subaquática do lago e confira botas e túnica no menu de equipamento do N64."
+          }
+        },
+        {
+          "key": "meet-ruto-lower-water",
+          "title": "Meet Ruto and investigate water controls",
+          "title_i18n": {
+            "en": "Meet Ruto and investigate water controls",
+            "pt": "Encontrar Ruto e investigar os controles da água"
+          },
+          "description": "Follow the first underwater branch and locate the water-level mechanism.",
+          "description_i18n": {
+            "en": "Follow the first underwater branch and locate the water-level mechanism.",
+            "pt": "Siga a primeira ramificação subaquática e localize o mecanismo do nível da água."
+          },
+          "details": "Follow Ruto's eastern underwater passage and remove the Iron Boots to rise to the upper Triforce plaque. Zelda's Lullaby there lowers the water. The central tower's plaque raises it to the middle level, while another route from the main chamber reaches the high-water plaque. Track which height opens each doorway before changing it again. On N64, boots are equipment changed through the pause menu, not a quick item toggle. Collect accessible keys at each height before assuming you need to spend another key to progress.",
+          "details_i18n": {
+            "en": "Follow Ruto's eastern underwater passage and remove the Iron Boots to rise to the upper Triforce plaque. Zelda's Lullaby there lowers the water. The central tower's plaque raises it to the middle level, while another route from the main chamber reaches the high-water plaque. Track which height opens each doorway before changing it again. On N64, boots are equipment changed through the pause menu, not a quick item toggle. Collect accessible keys at each height before assuming you need to spend another key to progress.",
+            "pt": "Siga a passagem subaquática leste de Ruto e retire as Iron Boots para subir até a placa superior da Triforce. Zelda's Lullaby ali baixa a água. A placa da torre central a eleva ao nível intermediário; outra rota da câmara principal leva à placa do nível alto. Anote quais portas ficam acessíveis em cada altura. No N64, as botas são equipamento alterado pelo menu de pausa, não um item de troca rápida. Recolha as chaves acessíveis em cada altura antes de presumir que precisa gastar outra para avançar."
+          }
+        },
+        {
+          "key": "search-low-water-branches",
+          "title": "Search the low-water branches",
+          "title_i18n": {
+            "en": "Search the low-water branches",
+            "pt": "Explorar as rotas com água baixa"
+          },
+          "description": "Collect accessible keys and inspect rooms exposed by the lower level.",
+          "description_i18n": {
+            "en": "Collect accessible keys and inspect rooms exposed by the lower level.",
+            "pt": "Recolha as chaves acessíveis e examine as salas reveladas pelo nível baixo."
+          }
+        },
+        {
+          "key": "search-central-tower-key",
+          "title": "Investigate the central tower",
+          "title_i18n": {
+            "en": "Investigate the central tower",
+            "pt": "Investigar a torre central"
+          },
+          "description": "Recheck the tower after changing the water height, especially if one key seems missing.",
+          "description_i18n": {
+            "en": "Recheck the tower after changing the water height, especially if one key seems missing.",
+            "pt": "Examine novamente a torre após mudar a altura da água, sobretudo se parecer faltar uma chave."
+          },
+          "details": "When you raise the water inside the central tower, a floating platform rises off a hole in the floor. Put the Iron Boots back on and investigate underneath it; the original N64 camera does not prominently reveal this opening. Complete the lower-room encounter and collect its Small Key. Another commonly missed key is behind the cracked wall in Ruto's passage, reachable at the middle water height. Recheck these two locations before repeating the entire dungeon or assuming the save is permanently stuck.",
+          "details_i18n": {
+            "en": "When you raise the water inside the central tower, a floating platform rises off a hole in the floor. Put the Iron Boots back on and investigate underneath it; the original N64 camera does not prominently reveal this opening. Complete the lower-room encounter and collect its Small Key. Another commonly missed key is behind the cracked wall in Ruto's passage, reachable at the middle water height. Recheck these two locations before repeating the entire dungeon or assuming the save is permanently stuck.",
+            "pt": "Quando você eleva a água dentro da torre central, uma plataforma flutuante sai de cima de um buraco no chão. Vista as Iron Boots novamente e investigue embaixo dela; a câmera original do N64 não destaca essa abertura. Vença o confronto inferior e recolha a Small Key. Outra chave fácil de esquecer fica atrás da parede rachada na passagem de Ruto, acessível com a água intermediária. Confira esses dois locais antes de repetir toda a masmorra ou presumir que o save ficou travado permanentemente."
+          }
+        },
+        {
+          "key": "reach-dark-link",
+          "title": "Reach Dark Link",
+          "title_i18n": {
+            "en": "Reach Dark Link",
+            "pt": "Alcançar Dark Link"
+          },
+          "description": "Use the upper routes and changing platforms to reach the unusual duel chamber.",
+          "description_i18n": {
+            "en": "Use the upper routes and changing platforms to reach the unusual duel chamber.",
+            "pt": "Use as rotas superiores e as plataformas mutáveis para chegar à câmara do duelo."
+          }
+        },
+        {
+          "key": "obtain-longshot",
+          "title": "Defeat Dark Link and obtain the Longshot",
+          "title_i18n": {
+            "en": "Defeat Dark Link and obtain the Longshot",
+            "pt": "Derrotar Dark Link e obter o Longshot"
+          },
+          "description": "Complete the duel and inspect the treasure room's onward route before backtracking.",
+          "description_i18n": {
+            "en": "Complete the duel and inspect the treasure room's onward route before backtracking.",
+            "pt": "Vença o duelo e examine a saída da sala do tesouro antes de voltar."
+          },
+          "details": "Dark Link copies many sword actions, so a frontal thrust can give him an easy counter. Vary your approach; the Megaton Hammer or Din's Fire provides an alternative when sword exchanges stall. Manage magic rather than spending it all without watching the result. After the duel, collect the Longshot and inspect behind its chest. Play the Song of Time to remove the block over the onward passage, then navigate the river carefully. The new reach opens routes that the shorter Hookshot could not cross.",
+          "details_i18n": {
+            "en": "Dark Link copies many sword actions, so a frontal thrust can give him an easy counter. Vary your approach; the Megaton Hammer or Din's Fire provides an alternative when sword exchanges stall. Manage magic rather than spending it all without watching the result. After the duel, collect the Longshot and inspect behind its chest. Play the Song of Time to remove the block over the onward passage, then navigate the river carefully. The new reach opens routes that the shorter Hookshot could not cross.",
+            "pt": "Dark Link copia muitas ações da espada, então uma estocada frontal pode facilitar o contra-ataque. Varie a abordagem; o Megaton Hammer ou Din's Fire oferece uma alternativa quando a troca de espadas não avança. Administre a magia em vez de gastá-la sem observar o resultado. Após o duelo, recolha o Longshot e examine atrás do baú. Toque a Song of Time para remover o bloco sobre a passagem e atravesse o rio com cuidado. O novo alcance abre rotas inacessíveis ao Hookshot curto."
+          }
+        },
+        {
+          "key": "obtain-water-boss-key",
+          "title": "Obtain the Water Temple Boss Key",
+          "title_i18n": {
+            "en": "Obtain the Water Temple Boss Key",
+            "pt": "Obter a Boss Key do Water Temple"
+          },
+          "description": "Revisit distant targets and the remaining water puzzles with the extended tool.",
+          "description_i18n": {
+            "en": "Revisit distant targets and the remaining water puzzles with the extended tool.",
+            "pt": "Revisite os alvos distantes e os desafios aquáticos restantes com a ferramenta ampliada."
+          }
+        },
+        {
+          "key": "claim-water-medallion",
+          "title": "Defeat Morpha and claim the medallion",
+          "title_i18n": {
+            "en": "Defeat Morpha and claim the medallion",
+            "pt": "Derrotar Morpha e obter o medalhão"
+          },
+          "description": "Reach the boss chamber, recognize attack openings and collect the reward.",
+          "description_i18n": {
+            "en": "Reach the boss chamber, recognize attack openings and collect the reward.",
+            "pt": "Chegue à câmara do chefe, reconheça as aberturas e recolha a recompensa."
+          }
+        }
+      ]
+    },
+    {
+      "key": "bottom-of-the-well",
+      "title": "The windmill and Bottom of the Well",
+      "title_i18n": {
+        "en": "The windmill and Bottom of the Well",
+        "pt": "O moinho e Bottom of the Well"
+      },
+      "items": [
+        {
+          "key": "learn-song-of-storms",
+          "title": "Learn the Song of Storms",
+          "title_i18n": {
+            "en": "Learn the Song of Storms",
+            "pt": "Aprender a Song of Storms"
+          },
+          "description": "Visit the windmill musician as an adult and learn the song connected to his complaint.",
+          "description_i18n": {
+            "en": "Visit the windmill musician as an adult and learn the song connected to his complaint.",
+            "pt": "Visite o músico do moinho como adulto e aprenda a canção ligada à reclamação dele."
+          }
+        },
+        {
+          "key": "return-to-childhood",
+          "title": "Return to childhood",
+          "title_i18n": {
+            "en": "Return to childhood",
+            "pt": "Voltar à infância"
+          },
+          "description": "Revisit the Temple of Time after the Forest Temple, meet Sheik for the Prelude of Light and use the pedestal to change age.",
+          "description_i18n": {
+            "en": "Revisit the Temple of Time after the Forest Temple, meet Sheik for the Prelude of Light and use the pedestal to change age.",
+            "pt": "Revisite o Temple of Time após o Forest Temple, encontre Sheik para aprender a Prelude of Light e use o pedestal para mudar de idade."
+          }
+        },
+        {
+          "key": "open-bottom-well-route",
+          "title": "Open the well route",
+          "title_i18n": {
+            "en": "Open the well route",
+            "pt": "Abrir o caminho pelo poço"
+          },
+          "description": "Return to the child-era windmill and investigate how the learned song affects the well.",
+          "description_i18n": {
+            "en": "Return to the child-era windmill and investigate how the learned song affects the well.",
+            "pt": "Volte ao moinho na infância e investigue como a canção aprendida afeta o poço."
+          }
+        },
+        {
+          "key": "obtain-lens-of-truth",
+          "title": "Obtain the Lens of Truth",
+          "title_i18n": {
+            "en": "Obtain the Lens of Truth",
+            "pt": "Obter a Lens of Truth"
+          },
+          "description": "Explore deceptive passages and resolve the encounter guarding the well's main tool.",
+          "description_i18n": {
+            "en": "Explore deceptive passages and resolve the encounter guarding the well's main tool.",
+            "pt": "Explore as passagens enganosas e vença o confronto que guarda a principal ferramenta do poço."
+          },
+          "details": "Learn the Song of Storms from the adult windmill musician, then return as a child and play it in the windmill to drain the well. Inside, several apparent walls are false; inspect the central route while avoiding the hidden floor pit. Play Zelda's Lullaby at the Triforce marker to lower the interior water and reach the crawlspace near the entrance. In the Dead Hand fight, triggering a hand's grab brings the creature out; escape and strike its lowered head. Collect the Lens before leaving.",
+          "details_i18n": {
+            "en": "Learn the Song of Storms from the adult windmill musician, then return as a child and play it in the windmill to drain the well. Inside, several apparent walls are false; inspect the central route while avoiding the hidden floor pit. Play Zelda's Lullaby at the Triforce marker to lower the interior water and reach the crawlspace near the entrance. In the Dead Hand fight, triggering a hand's grab brings the creature out; escape and strike its lowered head. Collect the Lens before leaving.",
+            "pt": "Aprenda a Song of Storms com o músico adulto do moinho e volte como criança para tocá-la ali e esvaziar o poço. Dentro, várias paredes aparentes são falsas; examine a rota central evitando o buraco oculto no piso. Toque Zelda's Lullaby na marca da Triforce para baixar a água interna e alcançar a passagem estreita perto da entrada. Na luta com Dead Hand, deixar uma mão agarrá-lo faz a criatura surgir; solte-se e golpeie a cabeça abaixada. Recolha a Lens antes de sair."
+          }
+        }
+      ]
+    },
+    {
+      "key": "shadow-temple",
+      "title": "Shadow Temple",
+      "title_i18n": {
+        "en": "Shadow Temple",
+        "pt": "Shadow Temple"
+      },
+      "items": [
+        {
+          "key": "learn-nocturne-shadow",
+          "title": "Learn the Nocturne of Shadow",
+          "title_i18n": {
+            "en": "Learn the Nocturne of Shadow",
+            "pt": "Aprender a Nocturne of Shadow"
+          },
+          "description": "Return to adult Kakariko after the earlier temple progress and follow the new village sequence.",
+          "description_i18n": {
+            "en": "Return to adult Kakariko after the earlier temple progress and follow the new village sequence.",
+            "pt": "Volte à Kakariko adulta após avançar pelos templos anteriores e acompanhe a nova sequência da vila."
+          }
+        },
+        {
+          "key": "open-shadow-entrance",
+          "title": "Open the Shadow Temple entrance",
+          "title_i18n": {
+            "en": "Open the Shadow Temple entrance",
+            "pt": "Abrir a entrada do Shadow Temple"
+          },
+          "description": "Use the warp destination and inspect the entrance with fire magic ready.",
+          "description_i18n": {
+            "en": "Use the warp destination and inspect the entrance with fire magic ready.",
+            "pt": "Use o destino da canção e examine a entrada com a magia de fogo preparada."
+          }
+        },
+        {
+          "key": "obtain-hover-boots",
+          "title": "Obtain the Hover Boots",
+          "title_i18n": {
+            "en": "Obtain the Hover Boots",
+            "pt": "Obter as Hover Boots"
+          },
+          "description": "Investigate the first rooms with the Lens of Truth and claim the movement tool.",
+          "description_i18n": {
+            "en": "Investigate the first rooms with the Lens of Truth and claim the movement tool.",
+            "pt": "Investigue as primeiras salas com a Lens of Truth e obtenha a ferramenta de movimento."
+          }
+        },
+        {
+          "key": "cross-shadow-traps",
+          "title": "Cross the temple's traps",
+          "title_i18n": {
+            "en": "Cross the temple's traps",
+            "pt": "Atravessar as armadilhas do templo"
+          },
+          "description": "Check suspicious walls, moving blades and gaps before each crossing.",
+          "description_i18n": {
+            "en": "Check suspicious walls, moving blades and gaps before each crossing.",
+            "pt": "Examine paredes suspeitas, lâminas móveis e abismos antes de cada travessia."
+          }
+        },
+        {
+          "key": "ride-shadow-boat",
+          "title": "Ride the shadow boat",
+          "title_i18n": {
+            "en": "Ride the shadow boat",
+            "pt": "Viajar no barco das sombras"
+          },
+          "description": "Investigate the vessel and prepare for combat and a safe landing during the crossing.",
+          "description_i18n": {
+            "en": "Investigate the vessel and prepare for combat and a safe landing during the crossing.",
+            "pt": "Investigue a embarcação e prepare-se para o combate e uma chegada segura."
+          },
+          "details": "Stand on the boat's Triforce emblem and play Zelda's Lullaby to start the crossing. Fight the Stalfos without backing off the deck, and move toward the landing side when the boat begins sinking. After the nearby maze and Boss Key rooms, return to the river. Shoot the Bomb Flowers beside the large statue across the gap to topple it into a bridge. Use the Lens of Truth to check the last invisible-platform route rather than trusting the apparent empty space.",
+          "details_i18n": {
+            "en": "Stand on the boat's Triforce emblem and play Zelda's Lullaby to start the crossing. Fight the Stalfos without backing off the deck, and move toward the landing side when the boat begins sinking. After the nearby maze and Boss Key rooms, return to the river. Shoot the Bomb Flowers beside the large statue across the gap to topple it into a bridge. Use the Lens of Truth to check the last invisible-platform route rather than trusting the apparent empty space.",
+            "pt": "Fique sobre a marca da Triforce no barco e toque Zelda's Lullaby para iniciar a travessia. Enfrente os Stalfos sem recuar para fora do convés e aproxime-se da margem quando o barco começar a afundar. Após o labirinto próximo e as salas da Boss Key, volte ao rio. Atire nas Bomb Flowers junto à grande estátua do outro lado para derrubá-la como ponte. Use a Lens of Truth na rota final de plataformas invisíveis em vez de confiar no espaço aparentemente vazio."
+          }
+        },
+        {
+          "key": "reach-bongo-bongo",
+          "title": "Reach Bongo Bongo",
+          "title_i18n": {
+            "en": "Reach Bongo Bongo",
+            "pt": "Alcançar Bongo Bongo"
+          },
+          "description": "Resolve the final passage and obtain the Boss Key before entering the arena.",
+          "description_i18n": {
+            "en": "Resolve the final passage and obtain the Boss Key before entering the arena.",
+            "pt": "Resolva a passagem final e obtenha a Boss Key antes de entrar na arena."
+          }
+        },
+        {
+          "key": "claim-shadow-medallion",
+          "title": "Defeat Bongo Bongo and claim the medallion",
+          "title_i18n": {
+            "en": "Defeat Bongo Bongo and claim the medallion",
+            "pt": "Derrotar Bongo Bongo e obter o medalhão"
+          },
+          "description": "Track the boss with the appropriate tools and collect the dungeon reward.",
+          "description_i18n": {
+            "en": "Track the boss with the appropriate tools and collect the dungeon reward.",
+            "pt": "Acompanhe o chefe com as ferramentas adequadas e recolha a recompensa."
+          }
+        }
+      ]
+    },
+    {
+      "key": "gerudo-fortress-and-desert",
+      "title": "Gerudo Fortress and the desert",
+      "title_i18n": {
+        "en": "Gerudo Fortress and the desert",
+        "pt": "Gerudo Fortress e o deserto"
+      },
+      "items": [
+        {
+          "key": "cross-gerudo-valley",
+          "title": "Cross Gerudo Valley",
+          "title_i18n": {
+            "en": "Cross Gerudo Valley",
+            "pt": "Atravessar Gerudo Valley"
+          },
+          "description": "Use an available adult traversal option to cross the broken bridge.",
+          "description_i18n": {
+            "en": "Use an available adult traversal option to cross the broken bridge.",
+            "pt": "Use uma opção de travessia disponível ao adulto para atravessar a ponte quebrada."
+          }
+        },
+        {
+          "key": "enter-thieves-hideout",
+          "title": "Enter the Thieves' Hideout",
+          "title_i18n": {
+            "en": "Enter the Thieves' Hideout",
+            "pt": "Entrar no Thieves' Hideout"
+          },
+          "description": "Observe guard patrols and explore the connected fortress rooms.",
+          "description_i18n": {
+            "en": "Observe guard patrols and explore the connected fortress rooms.",
+            "pt": "Observe as patrulhas e explore as salas conectadas da fortaleza."
+          }
+        },
+        {
+          "key": "free-four-carpenters",
+          "title": "Free all four carpenters",
+          "title_i18n": {
+            "en": "Free all four carpenters",
+            "pt": "Libertar os quatro carpinteiros"
+          },
+          "description": "Resolve each prison encounter and check that every worker has escaped.",
+          "description_i18n": {
+            "en": "Resolve each prison encounter and check that every worker has escaped.",
+            "pt": "Vença cada confronto nas prisões e confirme a fuga de todos os trabalhadores."
+          },
+          "details": "The fortress uses connected interior rooms and outdoor ledges, so note which cells you have already cleared. Speak to a captive to trigger the room's Gerudo fight, defeat the guard and use her key to free him. Evade the guard's leaping special attack rather than trading hits and risking capture. Outside, use cover and the Hookshot or Longshot to manage patrols. If imprisoned, inspect the window and reachable wooden targets to escape. Finish all four rescue conversations to receive membership permission.",
+          "details_i18n": {
+            "en": "The fortress uses connected interior rooms and outdoor ledges, so note which cells you have already cleared. Speak to a captive to trigger the room's Gerudo fight, defeat the guard and use her key to free him. Evade the guard's leaping special attack rather than trading hits and risking capture. Outside, use cover and the Hookshot or Longshot to manage patrols. If imprisoned, inspect the window and reachable wooden targets to escape. Finish all four rescue conversations to receive membership permission.",
+            "pt": "A fortaleza conecta salas internas e plataformas externas; marque quais celas já liberou. Fale com um prisioneiro para iniciar a luta com a Gerudo da sala, vença-a e use a chave para libertá-lo. Evite o ataque especial com salto em vez de trocar golpes e arriscar ser capturado. Fora das salas, use coberturas e Hookshot ou Longshot para lidar com as patrulhas. Se for preso, examine a janela e os alvos de madeira alcançáveis para escapar. Conclua as quatro conversas de resgate para receber a permissão de membro."
+          }
+        },
+        {
+          "key": "earn-gerudo-card",
+          "title": "Receive the Gerudo Membership Card",
+          "title_i18n": {
+            "en": "Receive the Gerudo Membership Card",
+            "pt": "Receber a Gerudo Membership Card"
+          },
+          "description": "Finish the rescue conversations and use the permission to continue toward the desert.",
+          "description_i18n": {
+            "en": "Finish the rescue conversations and use the permission to continue toward the desert.",
+            "pt": "Conclua as conversas de resgate e use a permissão para seguir ao deserto."
+          }
+        },
+        {
+          "key": "cross-haunted-wasteland",
+          "title": "Cross the Haunted Wasteland",
+          "title_i18n": {
+            "en": "Cross the Haunted Wasteland",
+            "pt": "Atravessar Haunted Wasteland"
+          },
+          "description": "Follow the navigation clues and reach Desert Colossus without wandering blindly.",
+          "description_i18n": {
+            "en": "Follow the navigation clues and reach Desert Colossus without wandering blindly.",
+            "pt": "Siga as pistas de navegação e chegue ao Desert Colossus sem vagar às cegas."
+          }
+        }
+      ]
+    },
+    {
+      "key": "spirit-temple",
+      "title": "Spirit Temple: child and adult",
+      "title_i18n": {
+        "en": "Spirit Temple: child and adult",
+        "pt": "Spirit Temple: infância e vida adulta"
+      },
+      "items": [
+        {
+          "key": "learn-requiem-spirit",
+          "title": "Learn the Requiem of Spirit",
+          "title_i18n": {
+            "en": "Learn the Requiem of Spirit",
+            "pt": "Aprender a Requiem of Spirit"
+          },
+          "description": "Inspect the entrance as an adult and meet Sheik outside before returning to childhood.",
+          "description_i18n": {
+            "en": "Inspect the entrance as an adult and meet Sheik outside before returning to childhood.",
+            "pt": "Examine a entrada como adulto e encontre Sheik do lado de fora antes de voltar à infância."
+          },
+          "details": "First cross the desert as an adult, inspect the Spirit Temple entrance and leave again to meet Sheik and learn the Requiem. Return to the Temple of Time, become a child and warp directly to Desert Colossus. Nabooru's small passage opens the child half, which ends with the Silver Gauntlets outside. You cannot use those gauntlets as a child. Change back to adulthood and warp again; their strength opens the other entrance route. The Mirror Shield belongs to this adult half, not the child visit.",
+          "details_i18n": {
+            "en": "First cross the desert as an adult, inspect the Spirit Temple entrance and leave again to meet Sheik and learn the Requiem. Return to the Temple of Time, become a child and warp directly to Desert Colossus. Nabooru's small passage opens the child half, which ends with the Silver Gauntlets outside. You cannot use those gauntlets as a child. Change back to adulthood and warp again; their strength opens the other entrance route. The Mirror Shield belongs to this adult half, not the child visit.",
+            "pt": "Primeiro atravesse o deserto como adulto, examine a entrada do Spirit Temple e saia para encontrar Sheik e aprender a Requiem. Volte ao Temple of Time, torne-se criança e transporte-se ao Desert Colossus. A passagem pequena de Nabooru abre a metade infantil, que termina com as Silver Gauntlets do lado de fora. Não é possível usá-las como criança. Volte à idade adulta e transporte-se novamente; a força delas abre o outro acesso. O Mirror Shield pertence à metade adulta, não à primeira visita."
+          }
+        },
+        {
+          "key": "meet-nabooru-as-child",
+          "title": "Meet Nabooru as a child",
+          "title_i18n": {
+            "en": "Meet Nabooru as a child",
+            "pt": "Encontrar Nabooru na infância"
+          },
+          "description": "Use the new warp song in childhood and accept the request inside the temple.",
+          "description_i18n": {
+            "en": "Use the new warp song in childhood and accept the request inside the temple.",
+            "pt": "Use a nova canção de transporte na infância e aceite o pedido dentro do templo."
+          }
+        },
+        {
+          "key": "explore-child-spirit-wing",
+          "title": "Explore the child-side rooms",
+          "title_i18n": {
+            "en": "Explore the child-side rooms",
+            "pt": "Explorar as salas da infância"
+          },
+          "description": "Use the small passage and childhood tools to open the first wing's route.",
+          "description_i18n": {
+            "en": "Use the small passage and childhood tools to open the first wing's route.",
+            "pt": "Use a passagem pequena e as ferramentas infantis para abrir a rota da primeira ala."
+          }
+        },
+        {
+          "key": "obtain-silver-gauntlets",
+          "title": "Obtain the Silver Gauntlets",
+          "title_i18n": {
+            "en": "Obtain the Silver Gauntlets",
+            "pt": "Obter as Silver Gauntlets"
+          },
+          "description": "Complete the child-side combat challenge and collect the treasure outside.",
+          "description_i18n": {
+            "en": "Complete the child-side combat challenge and collect the treasure outside.",
+            "pt": "Vença o desafio de combate da infância e recolha o tesouro do lado de fora."
+          }
+        },
+        {
+          "key": "return-adult-spirit",
+          "title": "Return to the temple as an adult",
+          "title_i18n": {
+            "en": "Return to the temple as an adult",
+            "pt": "Voltar ao templo como adulto"
+          },
+          "description": "Change age again and use the inherited equipment to enter the adult wing.",
+          "description_i18n": {
+            "en": "Change age again and use the inherited equipment to enter the adult wing.",
+            "pt": "Mude de idade novamente e use o equipamento herdado para entrar na ala adulta."
+          }
+        },
+        {
+          "key": "obtain-mirror-shield",
+          "title": "Obtain the Mirror Shield",
+          "title_i18n": {
+            "en": "Obtain the Mirror Shield",
+            "pt": "Obter o Mirror Shield"
+          },
+          "description": "Complete the adult encounters and claim the reflective shield.",
+          "description_i18n": {
+            "en": "Complete the adult encounters and claim the reflective shield.",
+            "pt": "Vença os confrontos adultos e obtenha o escudo refletor."
+          }
+        },
+        {
+          "key": "solve-spirit-light-route",
+          "title": "Resolve the final light puzzles",
+          "title_i18n": {
+            "en": "Resolve the final light puzzles",
+            "pt": "Resolver os desafios finais de luz"
+          },
+          "description": "Revisit the upper rooms with the shield and prepare the final arena route.",
+          "description_i18n": {
+            "en": "Revisit the upper rooms with the shield and prepare the final arena route.",
+            "pt": "Revisite as salas superiores com o escudo e prepare a rota até a arena final."
+          }
+        },
+        {
+          "key": "claim-spirit-medallion",
+          "title": "Defeat Twinrova and claim the medallion",
+          "title_i18n": {
+            "en": "Defeat Twinrova and claim the medallion",
+            "pt": "Derrotar Twinrova e obter o medalhão"
+          },
+          "description": "Read the elemental signals and complete the sage sequence after the fight.",
+          "description_i18n": {
+            "en": "Read the elemental signals and complete the sage sequence after the fight.",
+            "pt": "Observe os sinais elementais e acompanhe a sequência da sábia após a luta."
+          },
+          "details": "Use the Mirror Shield to reflect one sister's beam into the other during the opening phase. Keep both positions in view instead of locking onto the wrong target. Once they combine, absorb three attacks of the same element with the shield; evade the opposite element so it does not disrupt your stored charge. Aim the released beam at Twinrova, then reach her platform for sword hits while she is stunned. Put away a two-handed sword before raising the shield again.",
+          "details_i18n": {
+            "en": "Use the Mirror Shield to reflect one sister's beam into the other during the opening phase. Keep both positions in view instead of locking onto the wrong target. Once they combine, absorb three attacks of the same element with the shield; evade the opposite element so it does not disrupt your stored charge. Aim the released beam at Twinrova, then reach her platform for sword hits while she is stunned. Put away a two-handed sword before raising the shield again.",
+            "pt": "Use o Mirror Shield para refletir o raio de uma irmã na outra durante a primeira fase. Acompanhe as duas posições em vez de travar a mira no alvo errado. Quando se unirem, absorva três ataques do mesmo elemento com o escudo; evite o elemento oposto para não perder a carga acumulada. Mire o raio liberado em Twinrova e alcance a plataforma dela para golpear enquanto estiver atordoada. Guarde uma espada de duas mãos antes de levantar o escudo novamente."
+          }
+        }
+      ]
+    },
+    {
+      "key": "ganons-castle-and-finale",
+      "title": "Ganon’s Castle and finale",
+      "title_i18n": {
+        "en": "Ganon’s Castle and finale",
+        "pt": "Castelo de Ganon e final"
+      },
+      "items": [
+        {
+          "key": "return-with-five-medallions",
+          "title": "Return to the Temple of Time",
+          "title_i18n": {
+            "en": "Return to the Temple of Time",
+            "pt": "Voltar ao Temple of Time"
+          },
+          "description": "Bring the five temple medallions and follow the final instructions.",
+          "description_i18n": {
+            "en": "Bring the five temple medallions and follow the final instructions.",
+            "pt": "Reúna os cinco medalhões dos templos e acompanhe as últimas instruções."
+          }
+        },
+        {
+          "key": "receive-light-arrows",
+          "title": "Receive the Light Arrows",
+          "title_i18n": {
+            "en": "Receive the Light Arrows",
+            "pt": "Receber as Light Arrows"
+          },
+          "description": "Complete the conversation and prepare recovery items before the castle approach.",
+          "description_i18n": {
+            "en": "Complete the conversation and prepare recovery items before the castle approach.",
+            "pt": "Conclua a conversa e prepare itens de recuperação antes de ir ao castelo."
+          }
+        },
+        {
+          "key": "enter-ganons-castle",
+          "title": "Enter Ganon's Castle",
+          "title_i18n": {
+            "en": "Enter Ganon's Castle",
+            "pt": "Entrar no castelo de Ganon"
+          },
+          "description": "Approach the entrance and follow the route opened by your allies.",
+          "description_i18n": {
+            "en": "Approach the entrance and follow the route opened by your allies.",
+            "pt": "Aproxime-se da entrada e siga a rota aberta pelos aliados."
+          }
+        },
+        {
+          "key": "obtain-golden-gauntlets",
+          "title": "Obtain the Golden Gauntlets",
+          "title_i18n": {
+            "en": "Obtain the Golden Gauntlets",
+            "pt": "Obter as Golden Gauntlets"
+          },
+          "description": "Explore the castle trials and secure the strength upgrade needed by another branch.",
+          "description_i18n": {
+            "en": "Explore the castle trials and secure the strength upgrade needed by another branch.",
+            "pt": "Explore os desafios do castelo e obtenha a melhoria de força necessária em outra ala."
+          }
+        },
+        {
+          "key": "complete-castle-barriers",
+          "title": "Complete the six barrier trials",
+          "title_i18n": {
+            "en": "Complete the six barrier trials",
+            "pt": "Concluir os seis desafios das barreiras"
+          },
+          "description": "Explore each themed branch and verify that every barrier has been dispelled.",
+          "description_i18n": {
+            "en": "Explore each themed branch and verify that every barrier has been dispelled.",
+            "pt": "Explore cada ala temática e confirme a remoção de todas as barreiras."
+          }
+        },
+        {
+          "key": "climb-ganons-tower",
+          "title": "Climb Ganon's Tower",
+          "title_i18n": {
+            "en": "Climb Ganon's Tower",
+            "pt": "Subir a torre de Ganon"
+          },
+          "description": "Clear the combat rooms, collect the Boss Key and prepare for the final chamber.",
+          "description_i18n": {
+            "en": "Clear the combat rooms, collect the Boss Key and prepare for the final chamber.",
+            "pt": "Vença as salas de combate, obtenha a Boss Key e prepare-se para a câmara final."
+          }
+        },
+        {
+          "key": "defeat-ganondorf",
+          "title": "Defeat Ganondorf",
+          "title_i18n": {
+            "en": "Defeat Ganondorf",
+            "pt": "Derrotar Ganondorf"
+          },
+          "description": "Read the ranged attack rhythm and use your new equipment when an opening appears.",
+          "description_i18n": {
+            "en": "Read the ranged attack rhythm and use your new equipment when an opening appears.",
+            "pt": "Observe o ritmo dos ataques à distância e use o novo equipamento quando surgir uma abertura."
+          },
+          "details": "Stay near the outer platforms when the center floor collapses. Return the ordinary energy ball with timed sword swings until Ganondorf is stunned, then fire a Light Arrow and cross to him for sword hits. Do not waste arrows against his guarded state. If you fall to the lower room, use its pots to replenish supplies and climb back via the central pillar's Hookshot target. For the charged spread attack, prepare a timed Spin Attack rather than continuing the ordinary volley rhythm.",
+          "details_i18n": {
+            "en": "Stay near the outer platforms when the center floor collapses. Return the ordinary energy ball with timed sword swings until Ganondorf is stunned, then fire a Light Arrow and cross to him for sword hits. Do not waste arrows against his guarded state. If you fall to the lower room, use its pots to replenish supplies and climb back via the central pillar's Hookshot target. For the charged spread attack, prepare a timed Spin Attack rather than continuing the ordinary volley rhythm.",
+            "pt": "Fique perto das plataformas externas quando o piso central desabar. Devolva a esfera comum com golpes de espada no tempo certo até atordoar Ganondorf, dispare uma Light Arrow e atravesse para golpeá-lo. Não desperdice flechas enquanto ele estiver protegido. Se cair na sala inferior, use os vasos para recuperar recursos e volte pelo alvo de Hookshot do pilar central. Contra o ataque carregado em várias direções, prepare um Spin Attack preciso em vez de manter o ritmo da troca comum."
+          }
+        },
+        {
+          "key": "escape-collapsing-castle",
+          "title": "Escape the collapsing castle",
+          "title_i18n": {
+            "en": "Escape the collapsing castle",
+            "pt": "Fugir do castelo em ruínas"
+          },
+          "description": "Follow Zelda, handle interruptions and reach the exit before time expires.",
+          "description_i18n": {
+            "en": "Follow Zelda, handle interruptions and reach the exit before time expires.",
+            "pt": "Siga Zelda, enfrente as interrupções e alcance a saída antes do fim do tempo."
+          }
+        },
+        {
+          "key": "defeat-ganon-finish-ending",
+          "title": "Defeat Ganon and finish the ending",
+          "title_i18n": {
+            "en": "Defeat Ganon and finish the ending",
+            "pt": "Derrotar Ganon e acompanhar o final"
+          },
+          "description": "Respond to the changing equipment situation, complete the battle and watch the ending.",
+          "description_i18n": {
+            "en": "Respond to the changing equipment situation, complete the battle and watch the ending.",
+            "pt": "Reaja às mudanças de equipamento, conclua a batalha e acompanhe o encerramento."
+          },
+          "details": "When the Master Sword is knocked away, use the Megaton Hammer or an optional suitable sword to attack Ganon's exposed tail. A Light Arrow to the face can create an opening to get behind him, but keep some magic and arrows available rather than firing continuously. Recover the Master Sword as soon as Zelda opens the safe opportunity. Continue attacking the tail with it in the final phase and use the Master Sword for the finishing blow when prompted. The original ending does not create a playable post-Ganon world.",
+          "details_i18n": {
+            "en": "When the Master Sword is knocked away, use the Megaton Hammer or an optional suitable sword to attack Ganon's exposed tail. A Light Arrow to the face can create an opening to get behind him, but keep some magic and arrows available rather than firing continuously. Recover the Master Sword as soon as Zelda opens the safe opportunity. Continue attacking the tail with it in the final phase and use the Master Sword for the finishing blow when prompted. The original ending does not create a playable post-Ganon world.",
+            "pt": "Quando a Master Sword for derrubada, use o Megaton Hammer ou uma espada opcional adequada para atacar a cauda exposta de Ganon. Uma Light Arrow no rosto pode abrir espaço para passar por trás, mas preserve magia e flechas em vez de disparar continuamente. Recupere a Master Sword assim que Zelda abrir a oportunidade segura. Continue atacando a cauda com ela na fase final e use a Master Sword no golpe final indicado. O encerramento original não cria um mundo jogável após Ganon."
+          }
+        }
+      ]
+    },
+    {
+      "key": "optional-mask-trading",
+      "title": "Optional: Happy Mask trading",
+      "title_i18n": {
+        "en": "Optional: Happy Mask trading",
+        "pt": "Opcional: trocas de máscaras"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "begin-happy-mask-trade",
+          "title": "Begin the Happy Mask trade",
+          "title_i18n": {
+            "en": "Begin the Happy Mask trade",
+            "pt": "Iniciar as trocas da Happy Mask Shop"
+          },
+          "description": "Visit the child-era shop after the royal introduction and learn its borrowing and repayment rules.",
+          "description_i18n": {
+            "en": "Visit the child-era shop after the royal introduction and learn its borrowing and repayment rules.",
+            "pt": "Visite a loja na infância após a apresentação real e aprenda as regras de empréstimo e pagamento."
+          }
+        },
+        {
+          "key": "sell-keaton-mask",
+          "title": "Find a buyer for the Keaton Mask",
+          "title_i18n": {
+            "en": "Find a buyer for the Keaton Mask",
+            "pt": "Encontrar comprador para a Keaton Mask"
+          },
+          "description": "Find someone who expressed interest in the mask, then settle the shop debt.",
+          "description_i18n": {
+            "en": "Find someone who expressed interest in the mask, then settle the shop debt.",
+            "pt": "Procure alguém que demonstrou interesse na máscara e quite a dívida na loja."
+          }
+        },
+        {
+          "key": "sell-skull-mask",
+          "title": "Find a buyer for the Skull Mask",
+          "title_i18n": {
+            "en": "Find a buyer for the Skull Mask",
+            "pt": "Encontrar comprador para a Skull Mask"
+          },
+          "description": "Explore the Lost Woods with the borrowed mask and report the sale to the shop.",
+          "description_i18n": {
+            "en": "Explore the Lost Woods with the borrowed mask and report the sale to the shop.",
+            "pt": "Explore os Lost Woods com a máscara emprestada e informe a venda à loja."
+          }
+        },
+        {
+          "key": "sell-spooky-mask",
+          "title": "Find a buyer for the Spooky Mask",
+          "title_i18n": {
+            "en": "Find a buyer for the Spooky Mask",
+            "pt": "Encontrar comprador para a Spooky Mask"
+          },
+          "description": "Investigate the child-era graveyard and return to the shop after the trade.",
+          "description_i18n": {
+            "en": "Investigate the child-era graveyard and return to the shop after the trade.",
+            "pt": "Investigue o cemitério na infância e volte à loja após a troca."
+          }
+        },
+        {
+          "key": "sell-bunny-hood-unlock-truth",
+          "title": "Sell the Bunny Hood and unlock the Mask of Truth",
+          "title_i18n": {
+            "en": "Sell the Bunny Hood and unlock the Mask of Truth",
+            "pt": "Vender a Bunny Hood e liberar a Mask of Truth"
+          },
+          "description": "Continue after the three-stone progress, find the last buyer and complete the shop's sequence.",
+          "description_i18n": {
+            "en": "Continue after the three-stone progress, find the last buyer and complete the shop's sequence.",
+            "pt": "Continue após obter as três pedras, encontre o último comprador e conclua as trocas da loja."
+          }
+        }
+      ]
+    },
+    {
+      "key": "optional-biggoron-trading",
+      "title": "Optional: Biggoron trading",
+      "title_i18n": {
+        "en": "Optional: Biggoron trading",
+        "pt": "Opcional: trocas de Biggoron"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "start-pocket-cucco-trade",
+          "title": "Start the Pocket Cucco trade",
+          "title_i18n": {
+            "en": "Start the Pocket Cucco trade",
+            "pt": "Iniciar a troca do Pocket Cucco"
+          },
+          "description": "Speak with the adult Cucco keeper and follow the first exchange chain in Kakariko.",
+          "description_i18n": {
+            "en": "Speak with the adult Cucco keeper and follow the first exchange chain in Kakariko.",
+            "pt": "Fale com a cuidadora de Cuccos adulta e siga a primeira sequência de trocas em Kakariko."
+          }
+        },
+        {
+          "key": "trade-cojiro-mushroom",
+          "title": "Follow Cojiro's forest lead",
+          "title_i18n": {
+            "en": "Follow Cojiro's forest lead",
+            "pt": "Seguir a pista de Cojiro na floresta"
+          },
+          "description": "Find the intended recipient and prepare for a timed delivery before accepting it.",
+          "description_i18n": {
+            "en": "Find the intended recipient and prepare for a timed delivery before accepting it.",
+            "pt": "Encontre o destinatário e prepare-se para uma entrega cronometrada antes de aceitá-la."
+          }
+        },
+        {
+          "key": "deliver-odd-mushroom",
+          "title": "Deliver the Odd Mushroom and return",
+          "title_i18n": {
+            "en": "Deliver the Odd Mushroom and return",
+            "pt": "Entregar o Odd Mushroom e voltar"
+          },
+          "description": "Complete the timed delivery, then bring the medicine back to the forest exchange.",
+          "description_i18n": {
+            "en": "Complete the timed delivery, then bring the medicine back to the forest exchange.",
+            "pt": "Conclua a entrega cronometrada e leve o remédio de volta à troca na floresta."
+          }
+        },
+        {
+          "key": "trade-saw-broken-sword",
+          "title": "Trade the saw and broken sword",
+          "title_i18n": {
+            "en": "Trade the saw and broken sword",
+            "pt": "Trocar a serra e a espada quebrada"
+          },
+          "description": "Continue the chain through Gerudo Valley and the mountain summit.",
+          "description_i18n": {
+            "en": "Continue the chain through Gerudo Valley and the mountain summit.",
+            "pt": "Continue a sequência por Gerudo Valley e pelo cume da montanha."
+          }
+        },
+        {
+          "key": "deliver-frog-and-eye-drops",
+          "title": "Complete the frog and eye-drop deliveries",
+          "title_i18n": {
+            "en": "Complete the frog and eye-drop deliveries",
+            "pt": "Concluir as entregas do sapo e do colírio"
+          },
+          "description": "Prepare both routes before timed trades between the domain, lake and mountain.",
+          "description_i18n": {
+            "en": "Prepare both routes before timed trades between the domain, lake and mountain.",
+            "pt": "Prepare as duas rotas antes das trocas cronometradas entre o domínio, o lago e a montanha."
+          },
+          "details": "Prepare the normal travel routes before accepting perishable items. In the N64 original, the Odd Mushroom allows three minutes to reach Granny's rear potion shop in Kakariko; the Eyeball Frog allows three minutes from King Zora to the Lake Hylia scientist; the eye drops allow four minutes from the laboratory to Biggoron at the summit. Warp songs spoil the timed delivery, so travel overland. Epona helps across Hyrule Field but is not a reason to skip learning the route. If an item spoils, return to its giver and retry.",
+          "details_i18n": {
+            "en": "Prepare the normal travel routes before accepting perishable items. In the N64 original, the Odd Mushroom allows three minutes to reach Granny's rear potion shop in Kakariko; the Eyeball Frog allows three minutes from King Zora to the Lake Hylia scientist; the eye drops allow four minutes from the laboratory to Biggoron at the summit. Warp songs spoil the timed delivery, so travel overland. Epona helps across Hyrule Field but is not a reason to skip learning the route. If an item spoils, return to its giver and retry.",
+            "pt": "Prepare as rotas normais antes de aceitar itens perecíveis. No original de N64, o Odd Mushroom dá três minutos para chegar à loja de poções dos fundos em Kakariko; o Eyeball Frog dá três minutos de King Zora ao cientista de Lake Hylia; o colírio dá quatro minutos do laboratório a Biggoron no cume. Canções de transporte estragam a entrega cronometrada, então viaje por terra. Epona ajuda em Hyrule Field, mas não substitui conhecer a rota. Se o item estragar, volte a quem o entregou e tente novamente."
+          }
+        },
+        {
+          "key": "claim-biggoron-sword",
+          "title": "Claim the completed Biggoron Sword",
+          "title_i18n": {
+            "en": "Claim the completed Biggoron Sword",
+            "pt": "Obter a Biggoron Sword pronta"
+          },
+          "description": "Keep the claim check, allow the required days to pass and return for the sword.",
+          "description_i18n": {
+            "en": "Keep the claim check, allow the required days to pass and return for the sword.",
+            "pt": "Guarde o comprovante, deixe passar os dias exigidos e volte para obter a espada."
+          }
+        }
+      ]
+    },
+    {
+      "key": "optional-epona",
+      "title": "Optional: Epona",
+      "title_i18n": {
+        "en": "Optional: Epona",
+        "pt": "Opcional: Epona"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "learn-eponas-song",
+          "title": "Learn Epona's Song as a child",
+          "title_i18n": {
+            "en": "Learn Epona's Song as a child",
+            "pt": "Aprender Epona's Song na infância"
+          },
+          "description": "Visit Malon at Lon Lon Ranch and keep talking near the horse until the lesson is offered.",
+          "description_i18n": {
+            "en": "Visit Malon at Lon Lon Ranch and keep talking near the horse until the lesson is offered.",
+            "pt": "Visite Malon em Lon Lon Ranch e converse perto da égua até ela oferecer a canção."
+          }
+        },
+        {
+          "key": "win-ingo-races",
+          "title": "Win Ingo's races as an adult",
+          "title_i18n": {
+            "en": "Win Ingo's races as an adult",
+            "pt": "Vencer as corridas de Ingo como adulto"
+          },
+          "description": "Return with the song, practice riding and complete the two races.",
+          "description_i18n": {
+            "en": "Return with the song, practice riding and complete the two races.",
+            "pt": "Volte com a canção, pratique a montaria e conclua as duas corridas."
+          },
+          "details": "Learn Epona's Song from child Malon first. As an adult, pay Ingo for riding practice, summon Epona with the song and mount her. After another paid session, speak to Ingo while mounted to accept the 50-rupee race. Win twice, keeping an inside line and spacing carrot boosts so you do not exhaust the entire meter early. Ingo then blocks the gate; accelerate straight toward a jumpable fence or outer wall to leave with Epona. She is optional for the main route because the Longshot can cross Gerudo Valley.",
+          "details_i18n": {
+            "en": "Learn Epona's Song from child Malon first. As an adult, pay Ingo for riding practice, summon Epona with the song and mount her. After another paid session, speak to Ingo while mounted to accept the 50-rupee race. Win twice, keeping an inside line and spacing carrot boosts so you do not exhaust the entire meter early. Ingo then blocks the gate; accelerate straight toward a jumpable fence or outer wall to leave with Epona. She is optional for the main route because the Longshot can cross Gerudo Valley.",
+            "pt": "Aprenda Epona's Song com Malon na infância. Como adulto, pague a Ingo pelo treino, chame Epona com a canção e monte nela. Após outra sessão paga, fale com Ingo montado para aceitar a corrida de 50 rupias. Vença duas vezes, mantendo a linha interna e espaçando os impulsos para não gastar todas as cenouras cedo. Ingo bloqueia o portão; acelere de frente para uma cerca ou muro externo que permita salto e saia com Epona. Ela é opcional na rota principal porque o Longshot permite atravessar Gerudo Valley."
+          }
+        },
+        {
+          "key": "escape-ranch-with-epona",
+          "title": "Leave the ranch with Epona",
+          "title_i18n": {
+            "en": "Leave the ranch with Epona",
+            "pt": "Sair do rancho com Epona"
+          },
+          "description": "Inspect the enclosure after winning and find a mounted escape route.",
+          "description_i18n": {
+            "en": "Inspect the enclosure after winning and find a mounted escape route.",
+            "pt": "Examine o cercado após vencer e encontre uma rota de fuga montado."
+          }
+        }
+      ]
+    },
+    {
+      "key": "selected-optional-upgrades",
+      "title": "Selected optional songs and upgrades",
+      "title_i18n": {
+        "en": "Selected optional songs and upgrades",
+        "pt": "Seleção de canções e melhorias opcionais"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "learn-suns-song-royal-tomb",
+          "title": "Learn the Sun's Song",
+          "title_i18n": {
+            "en": "Learn the Sun's Song",
+            "pt": "Aprender a Sun's Song"
+          },
+          "description": "Investigate the Royal Family's Tomb as a child and recover its musical reward.",
+          "description_i18n": {
+            "en": "Investigate the Royal Family's Tomb as a child and recover its musical reward.",
+            "pt": "Investigue a tumba da família real na infância e obtenha sua recompensa musical."
+          },
+          "details": "Stand on the Triforce emblem before the large royal tombstone and play Zelda's Lullaby. Enter the opened tomb, clear the Keese that control the first locked door and pass the ReDeads carefully. Read the inscription in the last chamber to learn the Sun's Song. Outside, it switches day and night; against ReDeads and Gibdos, it can freeze them temporarily. This is an optional song with practical uses, not a prerequisite for obtaining the three Spiritual Stones.",
+          "details_i18n": {
+            "en": "Stand on the Triforce emblem before the large royal tombstone and play Zelda's Lullaby. Enter the opened tomb, clear the Keese that control the first locked door and pass the ReDeads carefully. Read the inscription in the last chamber to learn the Sun's Song. Outside, it switches day and night; against ReDeads and Gibdos, it can freeze them temporarily. This is an optional song with practical uses, not a prerequisite for obtaining the three Spiritual Stones.",
+            "pt": "Fique na marca da Triforce diante da grande lápide real e toque Zelda's Lullaby. Entre na tumba aberta, derrote os Keese ligados à primeira porta e passe com cuidado pelos ReDeads. Leia a inscrição da última câmara para aprender a Sun's Song. Ao ar livre, ela alterna dia e noite; contra ReDeads e Gibdos, pode paralisá-los temporariamente. É uma canção opcional com usos práticos, não um pré-requisito para obter as três Spiritual Stones."
+          }
+        },
+        {
+          "key": "obtain-fire-arrows",
+          "title": "Obtain the Fire Arrows",
+          "title_i18n": {
+            "en": "Obtain the Fire Arrows",
+            "pt": "Obter as Fire Arrows"
+          },
+          "description": "Revisit the restored lake and interpret the inscription near the warp platform.",
+          "description_i18n": {
+            "en": "Revisit the restored lake and interpret the inscription near the warp platform.",
+            "pt": "Revisite o lago restaurado e interprete a inscrição perto da plataforma de transporte."
+          }
+        },
+        {
+          "key": "complete-gerudo-training-ground",
+          "title": "Complete the Gerudo Training Ground",
+          "title_i18n": {
+            "en": "Complete the Gerudo Training Ground",
+            "pt": "Concluir o Gerudo Training Ground"
+          },
+          "description": "Use membership access to tackle this optional challenge and claim the Ice Arrows.",
+          "description_i18n": {
+            "en": "Use membership access to tackle this optional challenge and claim the Ice Arrows.",
+            "pt": "Use o acesso de membro para enfrentar este desafio opcional e obter as Ice Arrows."
+          }
+        },
+        {
+          "key": "seek-great-fairy-upgrades",
+          "title": "Seek the remaining Great Fairy rewards",
+          "title_i18n": {
+            "en": "Seek the remaining Great Fairy rewards",
+            "pt": "Buscar as recompensas restantes das Great Fairies"
+          },
+          "description": "Revisit suspicious entrances as explosives and strength improve; these rewards are optional to this route.",
+          "description_i18n": {
+            "en": "Revisit suspicious entrances as explosives and strength improve; these rewards are optional to this route.",
+            "pt": "Revisite entradas suspeitas conforme melhorar os explosivos e a força; essas recompensas são opcionais nesta rota."
+          }
+        },
+        {
+          "key": "try-selected-minigame-upgrades",
+          "title": "Try equipment-upgrade minigames",
+          "title_i18n": {
+            "en": "Try equipment-upgrade minigames",
+            "pt": "Tentar minijogos de melhorias de equipamento"
+          },
+          "description": "Revisit shooting, diving and other challenges in the appropriate age for capacity rewards.",
+          "description_i18n": {
+            "en": "Revisit shooting, diving and other challenges in the appropriate age for capacity rewards.",
+            "pt": "Revisite desafios de tiro, mergulho e outros na idade adequada para obter melhorias de capacidade."
+          }
+        }
+      ]
+    },
+    {
+      "key": "aggregate-collections",
+      "title": "Aggregate collection goals",
+      "title_i18n": {
+        "en": "Aggregate collection goals",
+        "pt": "Metas agregadas de coleta"
+      },
+      "kind": "collectible",
+      "items": [
+        {
+          "key": "collect-100-gold-skulltulas",
+          "title": "Collect all 100 Gold Skulltula tokens",
+          "title_i18n": {
+            "en": "Collect all 100 Gold Skulltula tokens",
+            "pt": "Coletar os 100 tokens de Gold Skulltula"
+          },
+          "description": "Audit both ages, day and night, and dungeon maps; this aggregate goal does not enumerate all locations.",
+          "description_i18n": {
+            "en": "Audit both ages, day and night, and dungeon maps; this aggregate goal does not enumerate all locations.",
+            "pt": "Confira as duas idades, dia e noite e os mapas das masmorras; esta meta agregada não enumera todas as localizações."
+          }
+        },
+        {
+          "key": "collect-36-heart-pieces",
+          "title": "Collect all 36 Pieces of Heart",
+          "title_i18n": {
+            "en": "Collect all 36 Pieces of Heart",
+            "pt": "Coletar os 36 Pieces of Heart"
+          },
+          "description": "Use a region-by-region audit for the original game's thirty-six heart pieces.",
+          "description_i18n": {
+            "en": "Use a region-by-region audit for the original game's thirty-six heart pieces.",
+            "pt": "Faça uma conferência por região para os trinta e seis pedaços de coração do original."
+          }
+        },
+        {
+          "key": "collect-four-bottles",
+          "title": "Collect all four bottles",
+          "title_i18n": {
+            "en": "Collect all four bottles",
+            "pt": "Coletar as quatro garrafas"
+          },
+          "description": "Complete the ranch Cucco game, Kakariko Cucco task, lake-message rescue and adult ten-Big-Poe reward.",
+          "description_i18n": {
+            "en": "Complete the ranch Cucco game, Kakariko Cucco task, lake-message rescue and adult ten-Big-Poe reward.",
+            "pt": "Conclua o jogo dos Cuccos no rancho, a tarefa dos Cuccos em Kakariko, o resgate da mensagem no lago e a recompensa adulta dos dez Big Poes."
+          }
+        },
+        {
+          "key": "claim-skulltula-house-rewards",
+          "title": "Claim the Skulltula House rewards",
+          "title_i18n": {
+            "en": "Claim the Skulltula House rewards",
+            "pt": "Obter as recompensas da Skulltula House"
+          },
+          "description": "Return to Kakariko as token milestones accumulate and collect the family rewards.",
+          "description_i18n": {
+            "en": "Return to Kakariko as token milestones accumulate and collect the family rewards.",
+            "pt": "Volte a Kakariko conforme alcançar marcos de tokens e recolha as recompensas da família."
+          }
+        },
+        {
+          "key": "complete-song-repertoire",
+          "title": "Complete the twelve-song repertoire",
+          "title_i18n": {
+            "en": "Complete the twelve-song repertoire",
+            "pt": "Completar o repertório de doze canções"
+          },
+          "description": "Audit the six regular songs and six warp songs in the original quest's subscreen.",
+          "description_i18n": {
+            "en": "Audit the six regular songs and six warp songs in the original quest's subscreen.",
+            "pt": "Confira as seis canções comuns e as seis de transporte no submenu da aventura original."
+          }
+        },
+        {
+          "key": "audit-final-equipment",
+          "title": "Audit optional equipment and capacity",
+          "title_i18n": {
+            "en": "Audit optional equipment and capacity",
+            "pt": "Conferir equipamento e capacidade opcionais"
+          },
+          "description": "Check upgrades, magic and gear separately from story completion; the N64 edition has no native trophies.",
+          "description_i18n": {
+            "en": "Check upgrades, magic and gear separately from story completion; the N64 edition has no native trophies.",
+            "pt": "Confira melhorias, magia e equipamentos separadamente da história; a edição N64 não tem troféus nativos."
+          }
+        }
+      ]
+    }
+  ],
+  "trophies": [],
+  "hltb_id": "10035",
+  "hltb_main_hours": 27,
+  "hltb_main_extra_hours": 30,
+  "hltb_completionist_hours": 37
+}

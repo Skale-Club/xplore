@@ -1,0 +1,1574 @@
+{
+  "slug": "the-legend-of-zelda-tri-force-heroes",
+  "title": "The Legend of Zelda: Tri Force Heroes",
+  "title_i18n": {
+    "en": "The Legend of Zelda: Tri Force Heroes",
+    "pt": "The Legend of Zelda: Tri Force Heroes"
+  },
+  "platform": "Nintendo 3DS",
+  "cover_url": "/covers/the-legend-of-zelda-tri-force-heroes.png",
+  "created_by": "dd5c4bf0-85ea-4986-9c04-b37e8c986150",
+  "categories": [
+    {
+      "key": "hytopia-and-three-hero-basics",
+      "title": "Hytopia and three-hero basics",
+      "title_i18n": {
+        "en": "Hytopia and three-hero basics",
+        "pt": "Hytopia e os fundamentos dos três heróis"
+      },
+      "items": [
+        {
+          "key": "choose-solo-or-three-player-local",
+          "title": "Choose solo or three-player local play",
+          "title_i18n": {
+            "en": "Choose solo or three-player local play",
+            "pt": "Escolha o modo solo ou local para três jogadores"
+          },
+          "description": "Use Doppels alone or arrange three nearby players; there is no two-player campaign mode.",
+          "description_i18n": {
+            "en": "Use Doppels alone or arrange three nearby players; there is no two-player campaign mode.",
+            "pt": "Use Doppels sozinho ou reúna três jogadores próximos; não existe campanha para dois jogadores."
+          }
+        },
+        {
+          "key": "meet-king-tuft",
+          "title": "Meet Sir Combsly and obtain Hytopian Silk",
+          "title_i18n": {
+            "en": "Meet Sir Combsly and obtain Hytopian Silk",
+            "pt": "Conheça Sir Combsly e obtenha Hytopian Silk"
+          },
+          "description": "First speak with Madame Couture, then visit Sir Combsly at the castle to receive Hytopian Silk.",
+          "description_i18n": {
+            "en": "First speak with Madame Couture, then visit Sir Combsly at the castle to receive Hytopian Silk.",
+            "pt": "Primeiro fale com Madame Couture; depois visite Sir Combsly no castelo para receber Hytopian Silk."
+          }
+        },
+        {
+          "key": "visit-madame-couture",
+          "title": "Craft the Hero's Tunic",
+          "title_i18n": {
+            "en": "Craft the Hero's Tunic",
+            "pt": "Crie a Hero’s Tunic"
+          },
+          "description": "Return to Madame Couture with the silk and prepare the Hero's Tunic before entering a lobby.",
+          "description_i18n": {
+            "en": "Return to Madame Couture with the silk and prepare the Hero's Tunic before entering a lobby.",
+            "pt": "Volte a Madame Couture com a seda e prepare a Hero’s Tunic antes de entrar em um saguão."
+          }
+        },
+        {
+          "key": "enter-correct-lobby",
+          "title": "Enter the appropriate lobby",
+          "title_i18n": {
+            "en": "Enter the appropriate lobby",
+            "pt": "Entre no saguão adequado"
+          },
+          "description": "Use the solo lobby or local multiplayer setup for your chosen mode.",
+          "description_i18n": {
+            "en": "Use the solo lobby or local multiplayer setup for your chosen mode.",
+            "pt": "Use o saguão solo ou a configuração multijogador local do modo escolhido."
+          }
+        },
+        {
+          "key": "practice-doppel-switching",
+          "title": "Practice Doppel switching",
+          "title_i18n": {
+            "en": "Practice Doppel switching",
+            "pt": "Pratique a troca entre Doppels"
+          },
+          "description": "In solo play, learn to select each hero and reposition the full team.",
+          "description_i18n": {
+            "en": "In solo play, learn to select each hero and reposition the full team.",
+            "pt": "No modo solo, aprenda a selecionar cada herói e reposicionar a equipe inteira."
+          },
+          "details": "Inactive Doppels do not follow you automatically. Move each one deliberately, leaving it on safe ground or a required switch before selecting another. For a long crossing, assemble the team into a Totem, transport it, then separate it at the destination. When a puzzle needs an item you left behind, switch to that item’s bearer rather than trying to solve everything with the currently selected hero. Check that all three reach the Triforce gateway before advancing.",
+          "details_i18n": {
+            "en": "Inactive Doppels do not follow you automatically. Move each one deliberately, leaving it on safe ground or a required switch before selecting another. For a long crossing, assemble the team into a Totem, transport it, then separate it at the destination. When a puzzle needs an item you left behind, switch to that item’s bearer rather than trying to solve everything with the currently selected hero. Check that all three reach the Triforce gateway before advancing.",
+            "pt": "Os Doppels inativos não seguem você automaticamente. Mova cada um de propósito, deixando-o em terreno seguro ou sobre um interruptor necessário antes de selecionar outro. Para uma travessia longa, reúna a equipe em um Totem, transporte-a e separe-a no destino. Quando um desafio exigir um item que ficou para trás, troque para seu portador em vez de tentar resolver tudo com o herói selecionado. Confira se os três alcançaram a passagem da Triforce antes de avançar."
+          }
+        },
+        {
+          "key": "practice-totem-formation",
+          "title": "Practice Totem formation",
+          "title_i18n": {
+            "en": "Practice Totem formation",
+            "pt": "Pratique a formação de Totems"
+          },
+          "description": "Learn how height, carrying and throwing affect the three heroes' reach.",
+          "description_i18n": {
+            "en": "Learn how height, carrying and throwing affect the three heroes' reach.",
+            "pt": "Aprenda como altura, transporte e arremesso afetam o alcance dos três heróis."
+          },
+          "details": "The bottom hero controls the Totem’s movement, while the hero at the top can use an item at the stack’s height. Build the order around the tool needed next, not only the nearest hero. Throwing the top portion of a stack lets you reach elevated ledges, but it can also strand the required item on the wrong side. Before throwing, identify the landing area and how the remaining hero will cross or retrieve the others.",
+          "details_i18n": {
+            "en": "The bottom hero controls the Totem’s movement, while the hero at the top can use an item at the stack’s height. Build the order around the tool needed next, not only the nearest hero. Throwing the top portion of a stack lets you reach elevated ledges, but it can also strand the required item on the wrong side. Before throwing, identify the landing area and how the remaining hero will cross or retrieve the others.",
+            "pt": "O herói da base controla o movimento do Totem, enquanto o herói do topo usa um item na altura da pilha. Organize a ordem conforme a ferramenta necessária a seguir, não apenas pelo herói mais próximo. Arremessar a parte superior da pilha permite alcançar plataformas elevadas, mas também pode deixar o item necessário do lado errado. Antes de arremessar, identifique o local de chegada e como o herói restante atravessará ou recuperará os companheiros."
+          }
+        },
+        {
+          "key": "check-shared-health-and-energy",
+          "title": "Check shared health and energy",
+          "title_i18n": {
+            "en": "Check shared health and energy",
+            "pt": "Confira a vida compartilhada e a energia"
+          },
+          "description": "Watch the team's health and each active hero's item-energy gauge before committing to hazards.",
+          "description_i18n": {
+            "en": "Watch the team's health and each active hero's item-energy gauge before committing to hazards.",
+            "pt": "Observe a vida da equipe e a energia dos itens do herói ativo antes de enfrentar perigos."
+          }
+        },
+        {
+          "key": "understand-current-service-scope",
+          "title": "Understand the current service scope",
+          "title_i18n": {
+            "en": "Understand the current service scope",
+            "pt": "Entenda os serviços atuais"
+          },
+          "description": "Official internet play ended in April 2024. This guide uses solo and supported local play.",
+          "description_i18n": {
+            "en": "Official internet play ended in April 2024. This guide uses solo and supported local play.",
+            "pt": "O modo online oficial terminou em abril de 2024. Este guia usa o modo solo e o modo local compatível."
+          }
+        }
+      ]
+    },
+    {
+      "key": "woodlands",
+      "title": "Woodlands",
+      "title_i18n": {
+        "en": "Woodlands",
+        "pt": "Woodlands"
+      },
+      "items": [
+        {
+          "key": "select-woodlands-route",
+          "title": "Begin the Woodlands route",
+          "title_i18n": {
+            "en": "Begin the Woodlands route",
+            "pt": "Inicie a rota de Woodlands"
+          },
+          "description": "Start with the first area and learn the four-stage structure of each level.",
+          "description_i18n": {
+            "en": "Start with the first area and learn the four-stage structure of each level.",
+            "pt": "Comece pela primeira região e aprenda a estrutura de quatro etapas de cada nível."
+          }
+        },
+        {
+          "key": "deku-forest-bow-routes",
+          "title": "Deku Forest: learn the Bow routes",
+          "title_i18n": {
+            "en": "Deku Forest: learn the Bow routes",
+            "pt": "Deku Forest: aprenda as rotas do Bow"
+          },
+          "description": "Collect the assigned tools and inspect elevated targets along the opening stages.",
+          "description_i18n": {
+            "en": "Collect the assigned tools and inspect elevated targets along the opening stages.",
+            "pt": "Recolha as ferramentas disponíveis e observe os alvos elevados das etapas iniciais."
+          }
+        },
+        {
+          "key": "clear-deku-forest",
+          "title": "Clear Deku Forest",
+          "title_i18n": {
+            "en": "Clear Deku Forest",
+            "pt": "Conclua Deku Forest"
+          },
+          "description": "Finish the enemy encounters and bring all three heroes to each gateway.",
+          "description_i18n": {
+            "en": "Finish the enemy encounters and bring all three heroes to each gateway.",
+            "pt": "Vença os encontros com inimigos e reúna os três heróis em cada passagem."
+          }
+        },
+        {
+          "key": "buzz-blob-cave-switches",
+          "title": "Buzz Blob Cave: explore the switches",
+          "title_i18n": {
+            "en": "Buzz Blob Cave: explore the switches",
+            "pt": "Buzz Blob Cave: explore os interruptores"
+          },
+          "description": "Inspect the cave's height changes and coordinate your assigned tools.",
+          "description_i18n": {
+            "en": "Inspect the cave's height changes and coordinate your assigned tools.",
+            "pt": "Observe as diferenças de altura da caverna e coordene as ferramentas disponíveis."
+          }
+        },
+        {
+          "key": "clear-buzz-blob-cave",
+          "title": "Clear Buzz Blob Cave",
+          "title_i18n": {
+            "en": "Clear Buzz Blob Cave",
+            "pt": "Conclua Buzz Blob Cave"
+          },
+          "description": "Read the electrical enemies' behavior and finish all four stages.",
+          "description_i18n": {
+            "en": "Read the electrical enemies' behavior and finish all four stages.",
+            "pt": "Observe o comportamento dos inimigos elétricos e conclua as quatro etapas."
+          }
+        },
+        {
+          "key": "moblin-base-defenses",
+          "title": "Moblin Base: breach the defenses",
+          "title_i18n": {
+            "en": "Moblin Base: breach the defenses",
+            "pt": "Moblin Base: atravesse as defesas"
+          },
+          "description": "Work through the base's obstacles while preserving room for the whole team.",
+          "description_i18n": {
+            "en": "Work through the base's obstacles while preserving room for the whole team.",
+            "pt": "Atravesse os obstáculos da base preservando espaço para a equipe inteira."
+          }
+        },
+        {
+          "key": "clear-moblin-base",
+          "title": "Clear Moblin Base",
+          "title_i18n": {
+            "en": "Clear Moblin Base",
+            "pt": "Conclua Moblin Base"
+          },
+          "description": "Overcome the final formation and claim the level's material reward.",
+          "description_i18n": {
+            "en": "Overcome the final formation and claim the level's material reward.",
+            "pt": "Vença a formação final e receba a recompensa de material do nível."
+          }
+        },
+        {
+          "key": "forest-temple-height-puzzles",
+          "title": "Forest Temple: explore the height puzzles",
+          "title_i18n": {
+            "en": "Forest Temple: explore the height puzzles",
+            "pt": "Forest Temple: explore os desafios de altura"
+          },
+          "description": "Bring the team's tools through the temple and prepare for its guardian.",
+          "description_i18n": {
+            "en": "Bring the team's tools through the temple and prepare for its guardian.",
+            "pt": "Leve as ferramentas da equipe pelo templo e prepare-se para seu guardião."
+          }
+        },
+        {
+          "key": "defeat-margoma",
+          "title": "Defeat Margoma",
+          "title_i18n": {
+            "en": "Defeat Margoma",
+            "pt": "Derrote Margoma"
+          },
+          "description": "Complete the area's boss encounter and inspect the newly opened regional choices.",
+          "description_i18n": {
+            "en": "Complete the area's boss encounter and inspect the newly opened regional choices.",
+            "pt": "Conclua a luta contra o chefe da região e confira as novas opções de destino."
+          },
+          "details": "Lure Margoma into striking an obstacle, then use the opening to throw a Bomb into its hollow top. Once the eye is exposed, throw an upper hero onto the boss and attack it. As Margoma grows taller, rebuild the Totem to match the new height before trying another bomb throw. Keep the lower heroes away from its charging path while preparing the stack; rushing into the spikes only drains the shared health.",
+          "details_i18n": {
+            "en": "Lure Margoma into striking an obstacle, then use the opening to throw a Bomb into its hollow top. Once the eye is exposed, throw an upper hero onto the boss and attack it. As Margoma grows taller, rebuild the Totem to match the new height before trying another bomb throw. Keep the lower heroes away from its charging path while preparing the stack; rushing into the spikes only drains the shared health.",
+            "pt": "Atraia Margoma para atingir um obstáculo e aproveite a abertura para lançar uma Bomb em seu topo oco. Quando o olho ficar exposto, arremesse um herói de cima sobre o chefe e ataque. Conforme Margoma fica mais alto, refaça o Totem para alcançar a nova altura antes de tentar lançar outra bomba. Afaste os heróis inferiores da trajetória das investidas enquanto prepara a pilha; avançar contra os espinhos apenas consome a vida compartilhada."
+          }
+        }
+      ]
+    },
+    {
+      "key": "riverside",
+      "title": "Riverside",
+      "title_i18n": {
+        "en": "Riverside",
+        "pt": "Riverside"
+      },
+      "items": [
+        {
+          "key": "choose-riverside-branch",
+          "title": "Choose the Riverside branch",
+          "title_i18n": {
+            "en": "Choose the Riverside branch",
+            "pt": "Escolha a ramificação de Riverside"
+          },
+          "description": "After Woodlands, Riverside, Volcano and Ice Cavern can be tackled in any order.",
+          "description_i18n": {
+            "en": "After Woodlands, Riverside, Volcano and Ice Cavern can be tackled in any order.",
+            "pt": "Após Woodlands, Riverside, Volcano e Ice Cavern podem ser exploradas em qualquer ordem."
+          }
+        },
+        {
+          "key": "secret-fortress-water-routes",
+          "title": "Secret Fortress: explore the water routes",
+          "title_i18n": {
+            "en": "Secret Fortress: explore the water routes",
+            "pt": "Secret Fortress: explore as rotas aquáticas"
+          },
+          "description": "Test the assigned water tools and find stable positions for each hero.",
+          "description_i18n": {
+            "en": "Test the assigned water tools and find stable positions for each hero.",
+            "pt": "Experimente as ferramentas aquáticas disponíveis e encontre posições estáveis para cada herói."
+          },
+          "details": "A Water Rod pillar is a temporary platform, not a permanent bridge. Place it where it connects the current ledge to the next reachable height, then move the needed heroes before it expires. In solo play, prepare the waiting Doppels near the crossing first so you spend less time switching. Remember that stacking heroes changes the height from which an item is used; inspect raised targets before assuming a ground-level shot is sufficient.",
+          "details_i18n": {
+            "en": "A Water Rod pillar is a temporary platform, not a permanent bridge. Place it where it connects the current ledge to the next reachable height, then move the needed heroes before it expires. In solo play, prepare the waiting Doppels near the crossing first so you spend less time switching. Remember that stacking heroes changes the height from which an item is used; inspect raised targets before assuming a ground-level shot is sufficient.",
+            "pt": "A coluna do Water Rod é uma plataforma temporária, não uma ponte permanente. Posicione-a onde conecte a plataforma atual à próxima altura alcançável e mova os heróis necessários antes que desapareça. No modo solo, deixe os Doppels perto da travessia antes de criá-la para gastar menos tempo nas trocas. Lembre-se de que empilhar heróis altera a altura de uso do item; observe alvos elevados antes de presumir que um disparo do chão será suficiente."
+          }
+        },
+        {
+          "key": "clear-secret-fortress",
+          "title": "Clear Secret Fortress",
+          "title_i18n": {
+            "en": "Clear Secret Fortress",
+            "pt": "Conclua Secret Fortress"
+          },
+          "description": "Finish the fortress stages and gather the team at the final gateway.",
+          "description_i18n": {
+            "en": "Finish the fortress stages and gather the team at the final gateway.",
+            "pt": "Conclua as etapas da fortaleza e reúna a equipe na passagem final."
+          }
+        },
+        {
+          "key": "abyss-of-agony-crossings",
+          "title": "Abyss of Agony: plan the crossings",
+          "title_i18n": {
+            "en": "Abyss of Agony: plan the crossings",
+            "pt": "Abyss of Agony: planeje as travessias"
+          },
+          "description": "Inspect the gaps before moving the heroes away from one another.",
+          "description_i18n": {
+            "en": "Inspect the gaps before moving the heroes away from one another.",
+            "pt": "Observe os vãos antes de afastar os heróis uns dos outros."
+          }
+        },
+        {
+          "key": "clear-abyss-of-agony",
+          "title": "Clear Abyss of Agony",
+          "title_i18n": {
+            "en": "Clear Abyss of Agony",
+            "pt": "Conclua Abyss of Agony"
+          },
+          "description": "Resolve the later encounters and leave with the whole team intact.",
+          "description_i18n": {
+            "en": "Resolve the later encounters and leave with the whole team intact.",
+            "pt": "Resolva os encontros posteriores e saia com a equipe inteira."
+          }
+        },
+        {
+          "key": "cove-of-transition-mechanisms",
+          "title": "Cove of Transition: inspect the mechanisms",
+          "title_i18n": {
+            "en": "Cove of Transition: inspect the mechanisms",
+            "pt": "Cove of Transition: examine os mecanismos"
+          },
+          "description": "Follow the changing routes and check how each tool affects movement.",
+          "description_i18n": {
+            "en": "Follow the changing routes and check how each tool affects movement.",
+            "pt": "Siga as rotas que se transformam e confira como cada ferramenta altera o deslocamento."
+          }
+        },
+        {
+          "key": "clear-cove-of-transition",
+          "title": "Clear Cove of Transition",
+          "title_i18n": {
+            "en": "Clear Cove of Transition",
+            "pt": "Conclua Cove of Transition"
+          },
+          "description": "Complete the final stages and collect a material from the reward room.",
+          "description_i18n": {
+            "en": "Complete the final stages and collect a material from the reward room.",
+            "pt": "Conclua as etapas finais e recolha um material na sala de recompensas."
+          }
+        },
+        {
+          "key": "water-temple-team-routes",
+          "title": "Water Temple: coordinate the team routes",
+          "title_i18n": {
+            "en": "Water Temple: coordinate the team routes",
+            "pt": "Water Temple: coordene as rotas da equipe"
+          },
+          "description": "Inspect the water mechanisms and keep each required item within reach.",
+          "description_i18n": {
+            "en": "Inspect the water mechanisms and keep each required item within reach.",
+            "pt": "Examine os mecanismos de água e mantenha cada item necessário ao alcance."
+          }
+        },
+        {
+          "key": "defeat-arrghus",
+          "title": "Defeat Arrghus",
+          "title_i18n": {
+            "en": "Defeat Arrghus",
+            "pt": "Derrote Arrghus"
+          },
+          "description": "Finish the Water Temple's guardian and record Riverside as complete.",
+          "description_i18n": {
+            "en": "Finish the Water Temple's guardian and record Riverside as complete.",
+            "pt": "Vença o guardião do Water Temple e marque Riverside como concluída."
+          },
+          "details": "Use the Gripshot to pull the smaller eyes away, then strike the separated targets rather than attacking the protected center. Adjust your Totem height when the remaining eyes are out of ground-level reach. Once the protective eyes are gone, form the taller stack needed to strike the exposed central weak point and follow the stun with sword attacks. Reposition between openings instead of staying stacked directly in the boss’s path.",
+          "details_i18n": {
+            "en": "Use the Gripshot to pull the smaller eyes away, then strike the separated targets rather than attacking the protected center. Adjust your Totem height when the remaining eyes are out of ground-level reach. Once the protective eyes are gone, form the taller stack needed to strike the exposed central weak point and follow the stun with sword attacks. Reposition between openings instead of staying stacked directly in the boss’s path.",
+            "pt": "Use a Gripshot para puxar os olhos menores e ataque os alvos separados em vez do centro protegido. Ajuste a altura do Totem quando os olhos restantes ficarem fora do alcance do chão. Depois de remover os olhos protetores, forme a pilha mais alta necessária para atingir o ponto central exposto e aproveite o atordoamento para golpear com a espada. Reposicione-se entre as aberturas em vez de manter o Totem diretamente na trajetória do chefe."
+          }
+        }
+      ]
+    },
+    {
+      "key": "volcano",
+      "title": "Volcano",
+      "title_i18n": {
+        "en": "Volcano",
+        "pt": "Volcano"
+      },
+      "items": [
+        {
+          "key": "choose-volcano-branch",
+          "title": "Choose the Volcano branch",
+          "title_i18n": {
+            "en": "Choose the Volcano branch",
+            "pt": "Escolha a ramificação de Volcano"
+          },
+          "description": "Prepare for lava hazards; this branch is available alongside Riverside and Ice Cavern.",
+          "description_i18n": {
+            "en": "Prepare for lava hazards; this branch is available alongside Riverside and Ice Cavern.",
+            "pt": "Prepare-se para os perigos da lava; esta rota abre junto com Riverside e Ice Cavern."
+          }
+        },
+        {
+          "key": "blazing-trail-safe-ground",
+          "title": "Blazing Trail: find safe ground",
+          "title_i18n": {
+            "en": "Blazing Trail: find safe ground",
+            "pt": "Blazing Trail: encontre terreno seguro"
+          },
+          "description": "Inspect the lava crossings and changing platforms before advancing the team.",
+          "description_i18n": {
+            "en": "Inspect the lava crossings and changing platforms before advancing the team.",
+            "pt": "Observe as travessias de lava e as plataformas móveis antes de avançar a equipe."
+          }
+        },
+        {
+          "key": "clear-blazing-trail",
+          "title": "Clear Blazing Trail",
+          "title_i18n": {
+            "en": "Clear Blazing Trail",
+            "pt": "Conclua Blazing Trail"
+          },
+          "description": "Work through the final hazards and gather all heroes at the exit.",
+          "description_i18n": {
+            "en": "Work through the final hazards and gather all heroes at the exit.",
+            "pt": "Atravesse os perigos finais e reúna todos os heróis na saída."
+          }
+        },
+        {
+          "key": "hinox-mine-cart-route",
+          "title": "Hinox Mine: navigate the carts",
+          "title_i18n": {
+            "en": "Hinox Mine: navigate the carts",
+            "pt": "Hinox Mine: atravesse os carrinhos"
+          },
+          "description": "Watch the mine's moving route and prepare for attacks during transit.",
+          "description_i18n": {
+            "en": "Watch the mine's moving route and prepare for attacks during transit.",
+            "pt": "Observe o percurso móvel da mina e prepare-se para ataques durante o trajeto."
+          }
+        },
+        {
+          "key": "clear-hinox-mine",
+          "title": "Clear Hinox Mine",
+          "title_i18n": {
+            "en": "Clear Hinox Mine",
+            "pt": "Conclua Hinox Mine"
+          },
+          "description": "Survive the Hinox encounters and finish the mine's four stages.",
+          "description_i18n": {
+            "en": "Survive the Hinox encounters and finish the mine's four stages.",
+            "pt": "Sobreviva aos encontros com Hinox e conclua as quatro etapas da mina."
+          },
+          "details": "During the moving-cart encounter, deal with the Hinox’s bombs before they accumulate around the heroes. Catch the thrown bombs and toss them back into the enemy cart; the Boomerang can stun the Hinox while you prepare. Prepare the next item bearer before the dangerous section rather than repeatedly rebuilding a Totem in a cramped cart. Keep watching the track and recover the team’s formation between waves.",
+          "details_i18n": {
+            "en": "During the moving-cart encounter, deal with the Hinox’s bombs before they accumulate around the heroes. Catch the thrown bombs and toss them back into the enemy cart; the Boomerang can stun the Hinox while you prepare. Prepare the next item bearer before the dangerous section rather than repeatedly rebuilding a Totem in a cramped cart. Keep watching the track and recover the team’s formation between waves.",
+            "pt": "Durante o encontro nos carrinhos em movimento, lide com as bombas do Hinox antes que se acumulem perto dos heróis. Pegue as bombas lançadas e arremesse-as de volta no carrinho inimigo; o Boomerang pode atordoar o Hinox enquanto você se prepara. Prepare o próximo portador de item antes da seção perigosa em vez de reconstruir repetidamente um Totem no carrinho apertado. Continue observando os trilhos e reorganize a equipe entre as ondas."
+          }
+        },
+        {
+          "key": "den-of-flames-team-crossings",
+          "title": "Den of Flames: coordinate the crossings",
+          "title_i18n": {
+            "en": "Den of Flames: coordinate the crossings",
+            "pt": "Den of Flames: coordene as travessias"
+          },
+          "description": "Use the available tools to investigate flame barriers and separated platforms.",
+          "description_i18n": {
+            "en": "Use the available tools to investigate flame barriers and separated platforms.",
+            "pt": "Use as ferramentas disponíveis para investigar barreiras de fogo e plataformas separadas."
+          }
+        },
+        {
+          "key": "clear-den-of-flames",
+          "title": "Clear Den of Flames",
+          "title_i18n": {
+            "en": "Clear Den of Flames",
+            "pt": "Conclua Den of Flames"
+          },
+          "description": "Complete the last encounter without leaving a hero behind.",
+          "description_i18n": {
+            "en": "Complete the last encounter without leaving a hero behind.",
+            "pt": "Conclua o último encontro sem deixar um herói para trás."
+          }
+        },
+        {
+          "key": "fire-temple-arena-preparation",
+          "title": "Fire Temple: prepare for the arena",
+          "title_i18n": {
+            "en": "Fire Temple: prepare for the arena",
+            "pt": "Fire Temple: prepare-se para a arena"
+          },
+          "description": "Pass the temple's team puzzles and inspect the boss arena's footing.",
+          "description_i18n": {
+            "en": "Pass the temple's team puzzles and inspect the boss arena's footing.",
+            "pt": "Supere os desafios de equipe do templo e observe o terreno da arena do chefe."
+          }
+        },
+        {
+          "key": "defeat-moldorm",
+          "title": "Defeat Moldorm",
+          "title_i18n": {
+            "en": "Defeat Moldorm",
+            "pt": "Derrote Moldorm"
+          },
+          "description": "Complete the guardian's changing phases and finish Volcano.",
+          "description_i18n": {
+            "en": "Complete the guardian's changing phases and finish Volcano.",
+            "pt": "Conclua as etapas do guardião e finalize Volcano."
+          },
+          "details": "Watch the color of Moldorm’s eyes to identify the hero it is pursuing. Lead it away from the others, then use a different hero to strike the vulnerable tail. In solo play, spread the Doppels around safe parts of the arena and switch deliberately to create that opening. The tail rises as the fight progresses, so use two- and then three-hero Totems to reach it. Avoid chasing the head or backing the inactive heroes toward a drop.",
+          "details_i18n": {
+            "en": "Watch the color of Moldorm’s eyes to identify the hero it is pursuing. Lead it away from the others, then use a different hero to strike the vulnerable tail. In solo play, spread the Doppels around safe parts of the arena and switch deliberately to create that opening. The tail rises as the fight progresses, so use two- and then three-hero Totems to reach it. Avoid chasing the head or backing the inactive heroes toward a drop.",
+            "pt": "Observe a cor dos olhos de Moldorm para identificar o herói perseguido. Afaste-o dos companheiros e use outro herói para atingir a cauda vulnerável. No modo solo, distribua os Doppels em partes seguras da arena e faça trocas planejadas para criar essa abertura. A cauda sobe conforme a luta avança; use Totems de dois e depois três heróis para alcançá-la. Evite perseguir a cabeça ou empurrar os heróis inativos em direção às quedas."
+          }
+        }
+      ]
+    },
+    {
+      "key": "ice-cavern",
+      "title": "Ice Cavern",
+      "title_i18n": {
+        "en": "Ice Cavern",
+        "pt": "Ice Cavern"
+      },
+      "items": [
+        {
+          "key": "choose-ice-cavern-branch",
+          "title": "Choose the Ice Cavern branch",
+          "title_i18n": {
+            "en": "Choose the Ice Cavern branch",
+            "pt": "Escolha a ramificação de Ice Cavern"
+          },
+          "description": "Prepare for slippery ground and finish the remaining early regional branch.",
+          "description_i18n": {
+            "en": "Prepare for slippery ground and finish the remaining early regional branch.",
+            "pt": "Prepare-se para o chão escorregadio e conclua a ramificação regional inicial restante."
+          }
+        },
+        {
+          "key": "frozen-plateau-ice-routes",
+          "title": "Frozen Plateau: explore the ice routes",
+          "title_i18n": {
+            "en": "Frozen Plateau: explore the ice routes",
+            "pt": "Frozen Plateau: explore as rotas de gelo"
+          },
+          "description": "Inspect frozen obstacles and the tools supplied at the start.",
+          "description_i18n": {
+            "en": "Inspect frozen obstacles and the tools supplied at the start.",
+            "pt": "Examine os obstáculos congelados e as ferramentas fornecidas no início."
+          }
+        },
+        {
+          "key": "clear-frozen-plateau",
+          "title": "Clear Frozen Plateau",
+          "title_i18n": {
+            "en": "Clear Frozen Plateau",
+            "pt": "Conclua Frozen Plateau"
+          },
+          "description": "Control your footing through the later stages and collect the reward.",
+          "description_i18n": {
+            "en": "Control your footing through the later stages and collect the reward.",
+            "pt": "Controle seus passos nas etapas posteriores e recolha a recompensa."
+          }
+        },
+        {
+          "key": "snowball-ravine-hazard-timing",
+          "title": "Snowball Ravine: read the hazard timing",
+          "title_i18n": {
+            "en": "Snowball Ravine: read the hazard timing",
+            "pt": "Snowball Ravine: observe o ritmo dos perigos"
+          },
+          "description": "Watch the moving snow hazards before transporting a Totem through the route.",
+          "description_i18n": {
+            "en": "Watch the moving snow hazards before transporting a Totem through the route.",
+            "pt": "Observe os perigos de neve em movimento antes de transportar um Totem pela rota."
+          }
+        },
+        {
+          "key": "clear-snowball-ravine",
+          "title": "Clear Snowball Ravine",
+          "title_i18n": {
+            "en": "Clear Snowball Ravine",
+            "pt": "Conclua Snowball Ravine"
+          },
+          "description": "Overcome the final encounter and move every hero through the gateway.",
+          "description_i18n": {
+            "en": "Overcome the final encounter and move every hero through the gateway.",
+            "pt": "Vença o encontro final e leve todos os heróis até a passagem."
+          }
+        },
+        {
+          "key": "silver-shrine-frozen-mechanisms",
+          "title": "Silver Shrine: inspect frozen mechanisms",
+          "title_i18n": {
+            "en": "Silver Shrine: inspect frozen mechanisms",
+            "pt": "Silver Shrine: examine os mecanismos congelados"
+          },
+          "description": "Coordinate the available tools across the shrine's separate positions.",
+          "description_i18n": {
+            "en": "Coordinate the available tools across the shrine's separate positions.",
+            "pt": "Coordene as ferramentas disponíveis nas posições separadas do santuário."
+          }
+        },
+        {
+          "key": "clear-silver-shrine",
+          "title": "Clear Silver Shrine",
+          "title_i18n": {
+            "en": "Clear Silver Shrine",
+            "pt": "Conclua Silver Shrine"
+          },
+          "description": "Finish the later stages and check your material rewards in Hytopia.",
+          "description_i18n": {
+            "en": "Finish the later stages and check your material rewards in Hytopia.",
+            "pt": "Conclua as etapas posteriores e confira os materiais recebidos em Hytopia."
+          }
+        },
+        {
+          "key": "ice-temple-tool-coordination",
+          "title": "Ice Temple: coordinate the tools",
+          "title_i18n": {
+            "en": "Ice Temple: coordinate the tools",
+            "pt": "Ice Temple: coordene as ferramentas"
+          },
+          "description": "Work through the frozen temple and prepare for its final guardian.",
+          "description_i18n": {
+            "en": "Work through the frozen temple and prepare for its final guardian.",
+            "pt": "Atravesse o templo congelado e prepare-se para seu guardião final."
+          }
+        },
+        {
+          "key": "defeat-blizzagia",
+          "title": "Defeat Blizzagia",
+          "title_i18n": {
+            "en": "Defeat Blizzagia",
+            "pt": "Derrote Blizzagia"
+          },
+          "description": "Finish the Ice Temple; clearing all three early branches opens Fortress.",
+          "description_i18n": {
+            "en": "Finish the Ice Temple; clearing all three early branches opens Fortress.",
+            "pt": "Conclua o Ice Temple; terminar as três ramificações iniciais abre Fortress."
+          },
+          "details": "Use the Magic Hammer to strike Blizzagia’s armored head until its icy mask breaks. Once the weak point is exposed, follow up with sword attacks. The Fire Gloves can hit the serpent’s body to help replenish energy while you prepare the hammer bearer for another opening. Watch where the serpent travels and reposition before it reaches the team. On slippery ground, approach in controlled steps; a poorly placed Totem makes avoiding its next pass harder.",
+          "details_i18n": {
+            "en": "Use the Magic Hammer to strike Blizzagia’s armored head until its icy mask breaks. Once the weak point is exposed, follow up with sword attacks. The Fire Gloves can hit the serpent’s body to help replenish energy while you prepare the hammer bearer for another opening. Watch where the serpent travels and reposition before it reaches the team. On slippery ground, approach in controlled steps; a poorly placed Totem makes avoiding its next pass harder.",
+            "pt": "Use o Magic Hammer para atingir a cabeça protegida de Blizzagia até quebrar sua máscara de gelo. Quando o ponto fraco ficar exposto, ataque com a espada. As Fire Gloves podem atingir o corpo da serpente para ajudar a repor energia enquanto prepara o portador do martelo para outra abertura. Observe o trajeto da serpente e reposicione a equipe antes de sua aproximação. No chão escorregadio, avance com passos controlados; um Totem mal posicionado dificulta desviar da próxima passagem."
+          }
+        }
+      ]
+    },
+    {
+      "key": "fortress",
+      "title": "Fortress",
+      "title_i18n": {
+        "en": "Fortress",
+        "pt": "Fortress"
+      },
+      "items": [
+        {
+          "key": "prepare-for-fortress",
+          "title": "Prepare for Fortress",
+          "title_i18n": {
+            "en": "Prepare for Fortress",
+            "pt": "Prepare-se para Fortress"
+          },
+          "description": "Confirm Riverside, Volcano and Ice Cavern are complete, then inspect your outfit options.",
+          "description_i18n": {
+            "en": "Confirm Riverside, Volcano and Ice Cavern are complete, then inspect your outfit options.",
+            "pt": "Confirme a conclusão de Riverside, Volcano e Ice Cavern e examine as opções de traje."
+          }
+        },
+        {
+          "key": "sealed-gateway-team-mechanisms",
+          "title": "Sealed Gateway: inspect team mechanisms",
+          "title_i18n": {
+            "en": "Sealed Gateway: inspect team mechanisms",
+            "pt": "Sealed Gateway: examine os mecanismos de equipe"
+          },
+          "description": "Coordinate the supplied items across the fortress's opening defenses.",
+          "description_i18n": {
+            "en": "Coordinate the supplied items across the fortress's opening defenses.",
+            "pt": "Coordene os itens fornecidos nas defesas iniciais da fortaleza."
+          }
+        },
+        {
+          "key": "clear-sealed-gateway",
+          "title": "Clear Sealed Gateway",
+          "title_i18n": {
+            "en": "Clear Sealed Gateway",
+            "pt": "Conclua Sealed Gateway"
+          },
+          "description": "Complete the remaining stages and move the entire team to the exit.",
+          "description_i18n": {
+            "en": "Complete the remaining stages and move the entire team to the exit.",
+            "pt": "Conclua as etapas restantes e leve a equipe inteira à saída."
+          }
+        },
+        {
+          "key": "bomb-storage-safe-handling",
+          "title": "Bomb Storage: plan safe handling",
+          "title_i18n": {
+            "en": "Bomb Storage: plan safe handling",
+            "pt": "Bomb Storage: planeje o manuseio seguro"
+          },
+          "description": "Survey the explosive obstacles before moving heroes into narrow spaces.",
+          "description_i18n": {
+            "en": "Survey the explosive obstacles before moving heroes into narrow spaces.",
+            "pt": "Observe os obstáculos explosivos antes de levar os heróis para espaços estreitos."
+          }
+        },
+        {
+          "key": "clear-bomb-storage",
+          "title": "Clear Bomb Storage",
+          "title_i18n": {
+            "en": "Clear Bomb Storage",
+            "pt": "Conclua Bomb Storage"
+          },
+          "description": "Finish the later mechanisms while protecting the shared health supply.",
+          "description_i18n": {
+            "en": "Finish the later mechanisms while protecting the shared health supply.",
+            "pt": "Conclua os mecanismos posteriores preservando a vida compartilhada."
+          }
+        },
+        {
+          "key": "training-ground-combat-roles",
+          "title": "Training Ground: assign combat roles",
+          "title_i18n": {
+            "en": "Training Ground: assign combat roles",
+            "pt": "Training Ground: distribua as funções de combate"
+          },
+          "description": "Observe enemy formations and keep the needed item bearer available.",
+          "description_i18n": {
+            "en": "Observe enemy formations and keep the needed item bearer available.",
+            "pt": "Observe as formações inimigas e mantenha disponível o portador do item necessário."
+          }
+        },
+        {
+          "key": "clear-training-ground",
+          "title": "Clear Training Ground",
+          "title_i18n": {
+            "en": "Clear Training Ground",
+            "pt": "Conclua Training Ground"
+          },
+          "description": "Defeat the final defenders and collect the level reward.",
+          "description_i18n": {
+            "en": "Defeat the final defenders and collect the level reward.",
+            "pt": "Derrote os últimos defensores e recolha a recompensa do nível."
+          }
+        },
+        {
+          "key": "ladys-lair-final-approach",
+          "title": "The Lady's Lair: make the approach",
+          "title_i18n": {
+            "en": "The Lady's Lair: make the approach",
+            "pt": "The Lady’s Lair: avance pela aproximação"
+          },
+          "description": "Work through the lair's combined tool puzzles and prepare for its guardians.",
+          "description_i18n": {
+            "en": "Work through the lair's combined tool puzzles and prepare for its guardians.",
+            "pt": "Atravesse os desafios de ferramentas combinadas e prepare-se para os guardiões."
+          }
+        },
+        {
+          "key": "defeat-the-ladys-pets",
+          "title": "Defeat The Lady's Pets",
+          "title_i18n": {
+            "en": "Defeat The Lady's Pets",
+            "pt": "Derrote The Lady’s Pets"
+          },
+          "description": "Finish the area's confrontation and inspect the two newly opened regions.",
+          "description_i18n": {
+            "en": "Finish the area's confrontation and inspect the two newly opened regions.",
+            "pt": "Conclua o confronto da região e confira os dois novos destinos."
+          },
+          "details": "For the Margoma pet, retrieve a Bomb Flower with the Boomerang, throw it into the top opening and send a hero up to the exposed eye. Against the Moldorm pet, lure its charge away and attack the tail at the required height. For the Arrghus pet, form a tall Totem with the Gripshot bearer on top and pull the central eye during an opening. The smaller fire and ice eyes can be stunned with the Boomerang and struck to remove them if you need a safer arena.",
+          "details_i18n": {
+            "en": "For the Margoma pet, retrieve a Bomb Flower with the Boomerang, throw it into the top opening and send a hero up to the exposed eye. Against the Moldorm pet, lure its charge away and attack the tail at the required height. For the Arrghus pet, form a tall Totem with the Gripshot bearer on top and pull the central eye during an opening. The smaller fire and ice eyes can be stunned with the Boomerang and struck to remove them if you need a safer arena.",
+            "pt": "Contra o Margoma de estimação, busque uma Bomb Flower com o Boomerang, lance-a na abertura superior e mande um herói até o olho exposto. Contra o Moldorm de estimação, atraia a investida para longe e ataque a cauda na altura necessária. Contra o Arrghus de estimação, forme um Totem alto com o portador da Gripshot no topo e puxe o olho central durante uma abertura. Os olhos menores de fogo e gelo podem ser atordoados com o Boomerang e golpeados para removê-los caso precise deixar a arena mais segura."
+          }
+        }
+      ]
+    },
+    {
+      "key": "the-dunes",
+      "title": "The Dunes",
+      "title_i18n": {
+        "en": "The Dunes",
+        "pt": "The Dunes"
+      },
+      "items": [
+        {
+          "key": "choose-dunes-branch",
+          "title": "Choose The Dunes branch",
+          "title_i18n": {
+            "en": "Choose The Dunes branch",
+            "pt": "Escolha a ramificação de The Dunes"
+          },
+          "description": "The Dunes and The Ruins open after Fortress and can be completed in either order.",
+          "description_i18n": {
+            "en": "The Dunes and The Ruins open after Fortress and can be completed in either order.",
+            "pt": "The Dunes e The Ruins abrem após Fortress e podem ser concluídas em qualquer ordem."
+          }
+        },
+        {
+          "key": "infinity-dunes-shifting-ground",
+          "title": "Infinity Dunes: read the shifting ground",
+          "title_i18n": {
+            "en": "Infinity Dunes: read the shifting ground",
+            "pt": "Infinity Dunes: observe o terreno instável"
+          },
+          "description": "Inspect the sand routes and plan where the separated heroes will regroup.",
+          "description_i18n": {
+            "en": "Inspect the sand routes and plan where the separated heroes will regroup.",
+            "pt": "Examine as rotas de areia e planeje onde os heróis separados voltarão a se reunir."
+          }
+        },
+        {
+          "key": "clear-infinity-dunes",
+          "title": "Clear Infinity Dunes",
+          "title_i18n": {
+            "en": "Clear Infinity Dunes",
+            "pt": "Conclua Infinity Dunes"
+          },
+          "description": "Finish the later stages and reach the reward room with all three heroes.",
+          "description_i18n": {
+            "en": "Finish the later stages and reach the reward room with all three heroes.",
+            "pt": "Conclua as etapas posteriores e alcance a sala de recompensas com os três heróis."
+          }
+        },
+        {
+          "key": "stone-corridors-moving-mechanisms",
+          "title": "Stone Corridors: inspect the mechanisms",
+          "title_i18n": {
+            "en": "Stone Corridors: inspect the mechanisms",
+            "pt": "Stone Corridors: examine os mecanismos"
+          },
+          "description": "Watch how the stone passages change before committing the full team.",
+          "description_i18n": {
+            "en": "Watch how the stone passages change before committing the full team.",
+            "pt": "Observe as mudanças nas passagens de pedra antes de avançar a equipe inteira."
+          }
+        },
+        {
+          "key": "clear-stone-corridors",
+          "title": "Clear Stone Corridors",
+          "title_i18n": {
+            "en": "Clear Stone Corridors",
+            "pt": "Conclua Stone Corridors"
+          },
+          "description": "Resolve the final combat and traversal checks to complete the level.",
+          "description_i18n": {
+            "en": "Resolve the final combat and traversal checks to complete the level.",
+            "pt": "Supere os últimos desafios de combate e travessia para concluir o nível."
+          }
+        },
+        {
+          "key": "gibdo-mausoleum-enemy-routes",
+          "title": "Gibdo Mausoleum: explore the enemy routes",
+          "title_i18n": {
+            "en": "Gibdo Mausoleum: explore the enemy routes",
+            "pt": "Gibdo Mausoleum: explore as rotas inimigas"
+          },
+          "description": "Study the mausoleum's hazards and use the assigned tools deliberately.",
+          "description_i18n": {
+            "en": "Study the mausoleum's hazards and use the assigned tools deliberately.",
+            "pt": "Estude os perigos do mausoléu e use as ferramentas disponíveis com cuidado."
+          }
+        },
+        {
+          "key": "clear-gibdo-mausoleum",
+          "title": "Clear Gibdo Mausoleum",
+          "title_i18n": {
+            "en": "Clear Gibdo Mausoleum",
+            "pt": "Conclua Gibdo Mausoleum"
+          },
+          "description": "Finish the encounter sequence and collect a material reward.",
+          "description_i18n": {
+            "en": "Finish the encounter sequence and collect a material reward.",
+            "pt": "Conclua a sequência de encontros e recolha um material como recompensa."
+          }
+        },
+        {
+          "key": "desert-temple-final-puzzles",
+          "title": "Desert Temple: explore the final puzzles",
+          "title_i18n": {
+            "en": "Desert Temple: explore the final puzzles",
+            "pt": "Desert Temple: explore os últimos desafios"
+          },
+          "description": "Navigate the temple's mechanisms before entering its boss arena.",
+          "description_i18n": {
+            "en": "Navigate the temple's mechanisms before entering its boss arena.",
+            "pt": "Atravesse os mecanismos do templo antes de entrar na arena do chefe."
+          }
+        },
+        {
+          "key": "defeat-stalchampion",
+          "title": "Defeat Stalchampion",
+          "title_i18n": {
+            "en": "Defeat Stalchampion",
+            "pt": "Derrote Stalchampion"
+          },
+          "description": "Complete the guardian battle and record The Dunes as finished.",
+          "description_i18n": {
+            "en": "Complete the guardian battle and record The Dunes as finished.",
+            "pt": "Vença o guardião e marque The Dunes como concluída."
+          }
+        }
+      ]
+    },
+    {
+      "key": "the-ruins",
+      "title": "The Ruins",
+      "title_i18n": {
+        "en": "The Ruins",
+        "pt": "The Ruins"
+      },
+      "items": [
+        {
+          "key": "choose-ruins-branch",
+          "title": "Choose The Ruins branch",
+          "title_i18n": {
+            "en": "Choose The Ruins branch",
+            "pt": "Escolha a ramificação de The Ruins"
+          },
+          "description": "Prepare for dark rooms and color-dependent routes in Fortress's other branch.",
+          "description_i18n": {
+            "en": "Prepare for dark rooms and color-dependent routes in Fortress's other branch.",
+            "pt": "Prepare-se para salas escuras e rotas ligadas às cores na outra ramificação após Fortress."
+          }
+        },
+        {
+          "key": "illusory-mansion-color-routes",
+          "title": "Illusory Mansion: inspect the color routes",
+          "title_i18n": {
+            "en": "Illusory Mansion: inspect the color routes",
+            "pt": "Illusory Mansion: examine as rotas coloridas"
+          },
+          "description": "Check which hero can use each route before moving a Totem across it.",
+          "description_i18n": {
+            "en": "Check which hero can use each route before moving a Totem across it.",
+            "pt": "Confira qual herói pode usar cada rota antes de atravessá-la com um Totem."
+          },
+          "details": "Colored platforms require the matching hero at the point of contact. When moving a Totem, check the bottom hero’s color before stepping onto a restricted platform. Grey disappearing surfaces demand a quick crossing, so place the other heroes within reach before committing the active one. In solo play, switch to the needed color rather than repeatedly trying to force another Doppel across an incompatible route. Reassemble the team on stable ground between sections.",
+          "details_i18n": {
+            "en": "Colored platforms require the matching hero at the point of contact. When moving a Totem, check the bottom hero’s color before stepping onto a restricted platform. Grey disappearing surfaces demand a quick crossing, so place the other heroes within reach before committing the active one. In solo play, switch to the needed color rather than repeatedly trying to force another Doppel across an incompatible route. Reassemble the team on stable ground between sections.",
+            "pt": "As plataformas coloridas exigem o herói da cor correspondente no ponto de contato. Ao mover um Totem, confira a cor do herói da base antes de pisar numa plataforma restrita. Superfícies cinzentas que desaparecem exigem travessias rápidas; deixe os outros heróis ao alcance antes de avançar o ativo. No modo solo, troque para a cor necessária em vez de insistir com outro Doppel numa rota incompatível. Reúna a equipe em terreno estável entre os trechos."
+          }
+        },
+        {
+          "key": "clear-illusory-mansion",
+          "title": "Clear Illusory Mansion",
+          "title_i18n": {
+            "en": "Clear Illusory Mansion",
+            "pt": "Conclua Illusory Mansion"
+          },
+          "description": "Finish all stages and bring the three heroes back together at each gateway.",
+          "description_i18n": {
+            "en": "Finish all stages and bring the three heroes back together at each gateway.",
+            "pt": "Conclua todas as etapas e reúna os três heróis em cada passagem."
+          }
+        },
+        {
+          "key": "palace-noir-dark-passages",
+          "title": "Palace Noir: explore the dark passages",
+          "title_i18n": {
+            "en": "Palace Noir: explore the dark passages",
+            "pt": "Palace Noir: explore as passagens escuras"
+          },
+          "description": "Watch the room's clues and keep track of every hero's position.",
+          "description_i18n": {
+            "en": "Watch the room's clues and keep track of every hero's position.",
+            "pt": "Observe as pistas da sala e acompanhe a posição de cada herói."
+          }
+        },
+        {
+          "key": "clear-palace-noir",
+          "title": "Clear Palace Noir",
+          "title_i18n": {
+            "en": "Clear Palace Noir",
+            "pt": "Conclua Palace Noir"
+          },
+          "description": "Complete the palace's later encounters and secure the level reward.",
+          "description_i18n": {
+            "en": "Complete the palace's later encounters and secure the level reward.",
+            "pt": "Conclua os encontros posteriores do palácio e receba a recompensa do nível."
+          }
+        },
+        {
+          "key": "lone-labyrinth-separated-team",
+          "title": "Lone Labyrinth: coordinate the separated team",
+          "title_i18n": {
+            "en": "Lone Labyrinth: coordinate the separated team",
+            "pt": "Lone Labyrinth: coordene a equipe separada"
+          },
+          "description": "Inspect the maze's individual routes and locate opportunities to regroup.",
+          "description_i18n": {
+            "en": "Inspect the maze's individual routes and locate opportunities to regroup.",
+            "pt": "Observe as rotas individuais do labirinto e encontre oportunidades para reagrupar a equipe."
+          }
+        },
+        {
+          "key": "clear-lone-labyrinth",
+          "title": "Clear Lone Labyrinth",
+          "title_i18n": {
+            "en": "Clear Lone Labyrinth",
+            "pt": "Conclua Lone Labyrinth"
+          },
+          "description": "Clear the final checks and move all three heroes through the exit.",
+          "description_i18n": {
+            "en": "Clear the final checks and move all three heroes through the exit.",
+            "pt": "Supere os últimos desafios e leve os três heróis à saída."
+          }
+        },
+        {
+          "key": "grim-temple-color-mechanisms",
+          "title": "Grim Temple: inspect the color mechanisms",
+          "title_i18n": {
+            "en": "Grim Temple: inspect the color mechanisms",
+            "pt": "Grim Temple: examine os mecanismos coloridos"
+          },
+          "description": "Bring the team through the temple while matching roles to the room's clues.",
+          "description_i18n": {
+            "en": "Bring the team through the temple while matching roles to the room's clues.",
+            "pt": "Atravesse o templo distribuindo funções conforme as pistas de cada sala."
+          }
+        },
+        {
+          "key": "defeat-prismantus",
+          "title": "Defeat Prismantus",
+          "title_i18n": {
+            "en": "Defeat Prismantus",
+            "pt": "Derrote Prismantus"
+          },
+          "description": "Finish the area's guardian; clearing both late branches opens Sky Realm.",
+          "description_i18n": {
+            "en": "Finish the area's guardian; clearing both late branches opens Sky Realm.",
+            "pt": "Vença o guardião da região; concluir as duas rotas tardias abre Sky Realm."
+          },
+          "details": "Each of the three colored orbs must be struck by its matching hero. Arrange the team so you can switch colors without rebuilding from scratch after every opening. When all three orbs are damaged, the boss becomes vulnerable: throw a hero onto it and attack the exposed eye. Later openings require greater height, so rebuild the Totem to reach the raised targets. Stop attacking with the wrong color and reposition when the remaining orb is out of reach.",
+          "details_i18n": {
+            "en": "Each of the three colored orbs must be struck by its matching hero. Arrange the team so you can switch colors without rebuilding from scratch after every opening. When all three orbs are damaged, the boss becomes vulnerable: throw a hero onto it and attack the exposed eye. Later openings require greater height, so rebuild the Totem to reach the raised targets. Stop attacking with the wrong color and reposition when the remaining orb is out of reach.",
+            "pt": "Cada uma das três esferas coloridas precisa ser atingida pelo herói da cor correspondente. Organize a equipe para trocar de cor sem reconstruir tudo após cada abertura. Quando as três esferas forem danificadas, o chefe ficará vulnerável: arremesse um herói sobre ele e ataque o olho exposto. As aberturas posteriores exigem mais altura; refaça o Totem para alcançar os alvos elevados. Pare de atacar com a cor errada e reposicione-se quando a esfera restante estiver fora do alcance."
+          }
+        }
+      ]
+    },
+    {
+      "key": "sky-realm-and-finale",
+      "title": "Sky Realm and the finale",
+      "title_i18n": {
+        "en": "Sky Realm and the finale",
+        "pt": "Sky Realm e o desfecho"
+      },
+      "items": [
+        {
+          "key": "prepare-for-sky-realm",
+          "title": "Prepare for Sky Realm",
+          "title_i18n": {
+            "en": "Prepare for Sky Realm",
+            "pt": "Prepare-se para Sky Realm"
+          },
+          "description": "Confirm both The Dunes and The Ruins are complete before taking the final route.",
+          "description_i18n": {
+            "en": "Confirm both The Dunes and The Ruins are complete before taking the final route.",
+            "pt": "Confirme a conclusão de The Dunes e The Ruins antes de seguir a rota final."
+          }
+        },
+        {
+          "key": "floating-garden-air-routes",
+          "title": "Floating Garden: inspect the aerial routes",
+          "title_i18n": {
+            "en": "Floating Garden: inspect the aerial routes",
+            "pt": "Floating Garden: examine as rotas aéreas"
+          },
+          "description": "Plan the floating-platform crossings and watch the wind hazards.",
+          "description_i18n": {
+            "en": "Plan the floating-platform crossings and watch the wind hazards.",
+            "pt": "Planeje as travessias entre plataformas flutuantes e observe os perigos do vento."
+          }
+        },
+        {
+          "key": "clear-floating-garden",
+          "title": "Clear Floating Garden",
+          "title_i18n": {
+            "en": "Clear Floating Garden",
+            "pt": "Conclua Floating Garden"
+          },
+          "description": "Complete the later stages while keeping the whole team within reach.",
+          "description_i18n": {
+            "en": "Complete the later stages while keeping the whole team within reach.",
+            "pt": "Conclua as etapas posteriores mantendo a equipe inteira ao alcance."
+          }
+        },
+        {
+          "key": "deception-castle-puzzle-routes",
+          "title": "Deception Castle: inspect the puzzle routes",
+          "title_i18n": {
+            "en": "Deception Castle: inspect the puzzle routes",
+            "pt": "Deception Castle: examine as rotas dos desafios"
+          },
+          "description": "Study the castle's changing arrangements before moving each hero onward.",
+          "description_i18n": {
+            "en": "Study the castle's changing arrangements before moving each hero onward.",
+            "pt": "Estude as mudanças na disposição do castelo antes de avançar cada herói."
+          }
+        },
+        {
+          "key": "clear-deception-castle",
+          "title": "Clear Deception Castle",
+          "title_i18n": {
+            "en": "Clear Deception Castle",
+            "pt": "Conclua Deception Castle"
+          },
+          "description": "Finish the remaining encounters and collect the level reward.",
+          "description_i18n": {
+            "en": "Finish the remaining encounters and collect the level reward.",
+            "pt": "Conclua os encontros restantes e recolha a recompensa do nível."
+          }
+        },
+        {
+          "key": "dragon-citadel-final-approach",
+          "title": "Dragon Citadel: make the final approach",
+          "title_i18n": {
+            "en": "Dragon Citadel: make the final approach",
+            "pt": "Dragon Citadel: avance pela aproximação final"
+          },
+          "description": "Coordinate your tools through the citadel's aerial obstacles.",
+          "description_i18n": {
+            "en": "Coordinate your tools through the citadel's aerial obstacles.",
+            "pt": "Coordene suas ferramentas pelos obstáculos aéreos da cidadela."
+          }
+        },
+        {
+          "key": "clear-dragon-citadel",
+          "title": "Clear Dragon Citadel",
+          "title_i18n": {
+            "en": "Clear Dragon Citadel",
+            "pt": "Conclua Dragon Citadel"
+          },
+          "description": "Defeat the final defenders and prepare the team for Sky Temple.",
+          "description_i18n": {
+            "en": "Defeat the final defenders and prepare the team for Sky Temple.",
+            "pt": "Derrote os últimos defensores e prepare a equipe para Sky Temple."
+          }
+        },
+        {
+          "key": "sky-temple-final-ascent",
+          "title": "Sky Temple: complete the ascent",
+          "title_i18n": {
+            "en": "Sky Temple: complete the ascent",
+            "pt": "Sky Temple: conclua a subida"
+          },
+          "description": "Work through the final level's stages and inspect the confrontation's changing rules.",
+          "description_i18n": {
+            "en": "Work through the final level's stages and inspect the confrontation's changing rules.",
+            "pt": "Atravesse as etapas do último nível e observe as mudanças de regras do confronto."
+          }
+        },
+        {
+          "key": "defeat-lady-maud-and-finish-story",
+          "title": "Defeat Lady Maud and finish the story",
+          "title_i18n": {
+            "en": "Defeat Lady Maud and finish the story",
+            "pt": "Derrote Lady Maud e conclua a história"
+          },
+          "description": "Complete the final battle, return to Hytopia and follow the ending conversations.",
+          "description_i18n": {
+            "en": "Complete the final battle, return to Hytopia and follow the ending conversations.",
+            "pt": "Vença a batalha final, volte a Hytopia e acompanhe as conversas do desfecho."
+          },
+          "details": "During the opening, use a two-hero Totem to throw an attacker onto the central platform when Maud leaves an opening. Later, arrange the stack around the colored parasols: the contacting hero must match the parasol, while white ones are neutral. Pay attention to the middle hero when throwing the top two together. As Maud rises, use the full Totem and the lifting parasols to reach her. After victory, take the three Lady materials to Madame Couture, craft the Lady’s Ensemble and return to the castle to finish Styla’s rescue.",
+          "details_i18n": {
+            "en": "During the opening, use a two-hero Totem to throw an attacker onto the central platform when Maud leaves an opening. Later, arrange the stack around the colored parasols: the contacting hero must match the parasol, while white ones are neutral. Pay attention to the middle hero when throwing the top two together. As Maud rises, use the full Totem and the lifting parasols to reach her. After victory, take the three Lady materials to Madame Couture, craft the Lady’s Ensemble and return to the castle to finish Styla’s rescue.",
+            "pt": "No início, use um Totem de dois heróis para arremessar um atacante à plataforma central quando Maud abrir uma oportunidade. Depois, organize a pilha conforme os guarda-sóis coloridos: o herói em contato deve combinar com a cor; os brancos são neutros. Observe a cor do herói do meio ao arremessar os dois superiores juntos. Quando Maud subir, use o Totem completo e os guarda-sóis que se elevam para alcançá-la. Após a vitória, leve os três materiais da Lady a Madame Couture, crie o Lady’s Ensemble e volte ao castelo para concluir o resgate de Styla."
+          }
+        }
+      ]
+    },
+    {
+      "key": "selected-offline-outfit-goals",
+      "title": "Selected offline outfit goals",
+      "title_i18n": {
+        "en": "Selected offline outfit goals",
+        "pt": "Metas selecionadas de trajes sem conexão"
+      },
+      "items": [
+        {
+          "key": "craft-first-specialized-outfit",
+          "title": "Craft a specialized outfit",
+          "title_i18n": {
+            "en": "Craft a specialized outfit",
+            "pt": "Crie um traje especializado"
+          },
+          "description": "Use earned materials and rupees at Madame Couture's shop for a useful effect.",
+          "description_i18n": {
+            "en": "Use earned materials and rupees at Madame Couture's shop for a useful effect.",
+            "pt": "Use materiais e rupees obtidos na loja de Madame Couture para receber um efeito útil."
+          }
+        },
+        {
+          "key": "prepare-terrain-outfit",
+          "title": "Prepare a terrain-focused outfit",
+          "title_i18n": {
+            "en": "Prepare a terrain-focused outfit",
+            "pt": "Prepare um traje voltado ao terreno"
+          },
+          "description": "Read outfit descriptions and choose protection suited to the region you are replaying.",
+          "description_i18n": {
+            "en": "Read outfit descriptions and choose protection suited to the region you are replaying.",
+            "pt": "Leia as descrições dos trajes e escolha proteção adequada à região que irá repetir."
+          }
+        },
+        {
+          "key": "prepare-item-focused-outfit",
+          "title": "Prepare an item-focused outfit",
+          "title_i18n": {
+            "en": "Prepare an item-focused outfit",
+            "pt": "Prepare um traje voltado aos itens"
+          },
+          "description": "Choose clothing that supports the level's assigned item rather than an unrelated tool.",
+          "description_i18n": {
+            "en": "Choose clothing that supports the level's assigned item rather than an unrelated tool.",
+            "pt": "Escolha uma roupa que favoreça o item fornecido no nível, em vez de outra ferramenta."
+          }
+        },
+        {
+          "key": "check-street-merchant-stock",
+          "title": "Check the Street Merchant's stock",
+          "title_i18n": {
+            "en": "Check the Street Merchant's stock",
+            "pt": "Confira o estoque do Street Merchant"
+          },
+          "description": "Inspect the vendor for materials needed by your unfinished recipes.",
+          "description_i18n": {
+            "en": "Inspect the vendor for materials needed by your unfinished recipes.",
+            "pt": "Examine o vendedor em busca de materiais necessários às receitas ainda incompletas."
+          }
+        },
+        {
+          "key": "obtain-poststory-friendly-tokens",
+          "title": "Obtain post-story Friendly Tokens",
+          "title_i18n": {
+            "en": "Obtain post-story Friendly Tokens",
+            "pt": "Obtenha Friendly Tokens após a história"
+          },
+          "description": "With the relevant update installed, check the Street Merchant after lifting Styla's curse.",
+          "description_i18n": {
+            "en": "With the relevant update installed, check the Street Merchant after lifting Styla's curse.",
+            "pt": "Com a atualização pertinente instalada, confira o Street Merchant após desfazer a maldição de Styla."
+          },
+          "details": "With the update that adds the post-story vendor option installed, finish the rescue of Princess Styla and inspect the Street Merchant’s changing stock for Friendly Tokens. This gives solo players a route to token-based outfit recipes without official internet matchmaking. Do not confuse Friendly Tokens with Hero Points or assume their old multiplayer instructions describe the only acquisition method. Keep checking the actual stock rather than treating a token as guaranteed on every visit.",
+          "details_i18n": {
+            "en": "With the update that adds the post-story vendor option installed, finish the rescue of Princess Styla and inspect the Street Merchant’s changing stock for Friendly Tokens. This gives solo players a route to token-based outfit recipes without official internet matchmaking. Do not confuse Friendly Tokens with Hero Points or assume their old multiplayer instructions describe the only acquisition method. Keep checking the actual stock rather than treating a token as guaranteed on every visit.",
+            "pt": "Com a atualização que acrescenta a opção do vendedor após a história instalada, conclua o resgate de Princess Styla e confira o estoque variável do Street Merchant em busca de Friendly Tokens. Isso oferece aos jogadores solo uma forma de obter trajes que usam essas fichas sem partidas online oficiais. Não confunda Friendly Tokens com Hero Points nem suponha que as antigas instruções multijogador sejam o único método. Confira o estoque real em vez de esperar uma ficha garantida em toda visita."
+          }
+        },
+        {
+          "key": "review-updated-outfit-catalog",
+          "title": "Review the updated outfit catalog",
+          "title_i18n": {
+            "en": "Review the updated outfit catalog",
+            "pt": "Revise o catálogo atualizado de trajes"
+          },
+          "description": "Track 36 base outfits or 38 with the Den of Trials update, which adds two optional outfits.",
+          "description_i18n": {
+            "en": "Track 36 base outfits or 38 with the Den of Trials update, which adds two optional outfits.",
+            "pt": "Acompanhe os 36 trajes básicos ou os 38 com a atualização Den of Trials, que acrescenta dois trajes opcionais."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "optional-drablands-challenges",
+      "title": "Optional Drablands challenges",
+      "title_i18n": {
+        "en": "Optional Drablands challenges",
+        "pt": "Drablands challenges opcionais"
+      },
+      "items": [
+        {
+          "key": "unlock-drablands-challenges",
+          "title": "Unlock Drablands challenges",
+          "title_i18n": {
+            "en": "Unlock Drablands challenges",
+            "pt": "Libere os Drablands challenges"
+          },
+          "description": "Speak with the king as the adventure progresses and inspect cleared areas' challenge choices.",
+          "description_i18n": {
+            "en": "Speak with the king as the adventure progresses and inspect cleared areas' challenge choices.",
+            "pt": "Fale com o rei conforme a aventura avança e confira os desafios das regiões concluídas."
+          }
+        },
+        {
+          "key": "complete-first-timed-challenge",
+          "title": "Complete a timed challenge",
+          "title_i18n": {
+            "en": "Complete a timed challenge",
+            "pt": "Conclua um desafio com tempo"
+          },
+          "description": "Choose an available time-limit challenge and practice a reliable route before chasing rewards.",
+          "description_i18n": {
+            "en": "Choose an available time-limit challenge and practice a reliable route before chasing rewards.",
+            "pt": "Escolha um desafio disponível com limite de tempo e pratique uma rota confiável antes de buscar recompensas."
+          }
+        },
+        {
+          "key": "complete-first-restricted-challenge",
+          "title": "Complete a restricted challenge",
+          "title_i18n": {
+            "en": "Complete a restricted challenge",
+            "pt": "Conclua um desafio com restrições"
+          },
+          "description": "Read the selected challenge's special rule and adjust your outfit and team plan.",
+          "description_i18n": {
+            "en": "Read the selected challenge's special rule and adjust your outfit and team plan.",
+            "pt": "Leia a regra especial do desafio escolhido e adapte seu traje e o plano da equipe."
+          }
+        },
+        {
+          "key": "complete-region-challenge-set",
+          "title": "Complete one area's challenge set",
+          "title_i18n": {
+            "en": "Complete one area's challenge set",
+            "pt": "Conclua os desafios de uma região"
+          },
+          "description": "Finish all three challenge variants for each of the selected area's four levels.",
+          "description_i18n": {
+            "en": "Finish all three challenge variants for each of the selected area's four levels.",
+            "pt": "Conclua as três variantes de desafio de cada um dos quatro níveis da região escolhida."
+          }
+        },
+        {
+          "key": "complete-all-ninety-six-challenges",
+          "title": "Complete all 96 Drablands challenges",
+          "title_i18n": {
+            "en": "Complete all 96 Drablands challenges",
+            "pt": "Conclua os 96 Drablands challenges"
+          },
+          "description": "Treat three variants for each of the 32 main levels as an aggregate optional goal.",
+          "description_i18n": {
+            "en": "Treat three variants for each of the 32 main levels as an aggregate optional goal.",
+            "pt": "Encare as três variantes de cada um dos 32 níveis principais como uma meta opcional geral."
+          }
+        },
+        {
+          "key": "check-mode-specific-records",
+          "title": "Check mode-specific completion records",
+          "title_i18n": {
+            "en": "Check mode-specific completion records",
+            "pt": "Confira os registros de cada modo"
+          },
+          "description": "Review the lobby map's separate multiplayer and Doppel lists; do not assume one fills the other.",
+          "description_i18n": {
+            "en": "Review the lobby map's separate multiplayer and Doppel lists; do not assume one fills the other.",
+            "pt": "Confira no mapa do saguão as listas separadas de multijogador e Doppels; uma não preenche automaticamente a outra."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "optional-den-of-trials-update",
+      "title": "Optional Den of Trials update",
+      "title_i18n": {
+        "en": "Optional Den of Trials update",
+        "pt": "Atualização opcional Den of Trials"
+      },
+      "items": [
+        {
+          "key": "check-den-update-availability",
+          "title": "Check the Den of Trials update",
+          "title_i18n": {
+            "en": "Check the Den of Trials update",
+            "pt": "Confira a atualização Den of Trials"
+          },
+          "description": "This extra area requires its free update data; it is separate from the 32-level campaign.",
+          "description_i18n": {
+            "en": "This extra area requires its free update data; it is separate from the 32-level campaign.",
+            "pt": "Esta região extra exige os dados da atualização gratuita; ela é separada da campanha de 32 níveis."
+          }
+        },
+        {
+          "key": "unlock-den-of-trials",
+          "title": "Unlock the Den of Trials",
+          "title_i18n": {
+            "en": "Unlock the Den of Trials",
+            "pt": "Libere Den of Trials"
+          },
+          "description": "Complete enough distinct levels or challenges, then return to Hytopia for the additional-area introduction.",
+          "description_i18n": {
+            "en": "Complete enough distinct levels or challenges, then return to Hytopia for the additional-area introduction.",
+            "pt": "Conclua níveis ou desafios distintos suficientes e volte a Hytopia para a apresentação da região adicional."
+          },
+          "details": "Install the free update that adds the Den, then complete nine distinct levels and/or Drablands challenges. Return to Hytopia and speak with The Great Tripini when the new-area introduction appears. The Den is not a ninth four-level campaign world: it is a separate endurance course of 40 floors arranged in eight five-floor zones, with rest floors included in that total. Prepare your outfit before entering and reassess the available items at each zone transition.",
+          "details_i18n": {
+            "en": "Install the free update that adds the Den, then complete nine distinct levels and/or Drablands challenges. Return to Hytopia and speak with The Great Tripini when the new-area introduction appears. The Den is not a ninth four-level campaign world: it is a separate endurance course of 40 floors arranged in eight five-floor zones, with rest floors included in that total. Prepare your outfit before entering and reassess the available items at each zone transition.",
+            "pt": "Instale a atualização gratuita que acrescenta Den of Trials e conclua nove níveis e/ou Drablands challenges distintos. Volte a Hytopia e fale com The Great Tripini quando surgir a apresentação da nova região. Den não é um nono mundo da campanha com quatro níveis: é um percurso separado de resistência com 40 andares distribuídos em oito zonas de cinco, incluindo os descansos nessa contagem. Prepare seu traje antes de entrar e reavalie os itens disponíveis a cada mudança de zona."
+          }
+        },
+        {
+          "key": "clear-den-first-zones",
+          "title": "Clear the Den's first zones",
+          "title_i18n": {
+            "en": "Clear the Den's first zones",
+            "pt": "Conclua as primeiras zonas de Den of Trials"
+          },
+          "description": "Learn the gauntlet's encounter flow and make use of its rest floors.",
+          "description_i18n": {
+            "en": "Learn the gauntlet's encounter flow and make use of its rest floors.",
+            "pt": "Aprenda o ritmo dos encontros do desafio e aproveite seus andares de descanso."
+          }
+        },
+        {
+          "key": "clear-den-later-zones",
+          "title": "Clear the Den's later zones",
+          "title_i18n": {
+            "en": "Clear the Den's later zones",
+            "pt": "Conclua as zonas avançadas de Den of Trials"
+          },
+          "description": "Prepare appropriate outfits and use each zone's available tools deliberately.",
+          "description_i18n": {
+            "en": "Prepare appropriate outfits and use each zone's available tools deliberately.",
+            "pt": "Prepare trajes adequados e use com cuidado as ferramentas disponíveis em cada zona."
+          }
+        },
+        {
+          "key": "complete-den-forty-floors",
+          "title": "Complete the Den's 40 floors",
+          "title_i18n": {
+            "en": "Complete the Den's 40 floors",
+            "pt": "Conclua os 40 andares de Den of Trials"
+          },
+          "description": "Finish all eight five-floor zones, including their rest floors, as an optional aggregate goal.",
+          "description_i18n": {
+            "en": "Finish all eight five-floor zones, including their rest floors, as an optional aggregate goal.",
+            "pt": "Conclua as oito zonas de cinco andares, incluindo os descansos, como uma meta opcional geral."
+          }
+        },
+        {
+          "key": "claim-den-outfit-reward",
+          "title": "Claim the Den's outfit reward",
+          "title_i18n": {
+            "en": "Claim the Den's outfit reward",
+            "pt": "Receba o traje de recompensa de Den of Trials"
+          },
+          "description": "Collect the final reward and inspect the new outfit's abilities back in Hytopia.",
+          "description_i18n": {
+            "en": "Collect the final reward and inspect the new outfit's abilities back in Hytopia.",
+            "pt": "Recolha a recompensa final e examine as habilidades do novo traje ao voltar a Hytopia."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "aggregate-material-and-mastery-goals",
+      "title": "Aggregate material and mastery goals",
+      "title_i18n": {
+        "en": "Aggregate material and mastery goals",
+        "pt": "Metas gerais de materiais e domínio"
+      },
+      "items": [
+        {
+          "key": "review-all-main-level-marks",
+          "title": "Review all 32 main-level marks",
+          "title_i18n": {
+            "en": "Review all 32 main-level marks",
+            "pt": "Confira as marcas dos 32 níveis principais"
+          },
+          "description": "Check every area's four levels and replay any stage skipped during an earlier attempt.",
+          "description_i18n": {
+            "en": "Check every area's four levels and replay any stage skipped during an earlier attempt.",
+            "pt": "Confira os quatro níveis de cada região e repita qualquer etapa pulada em uma tentativa anterior."
+          }
+        },
+        {
+          "key": "collect-recipe-materials",
+          "title": "Collect materials for your remaining recipes",
+          "title_i18n": {
+            "en": "Collect materials for your remaining recipes",
+            "pt": "Reúna os materiais das receitas restantes"
+          },
+          "description": "Use the level-selection reward lists and merchant stock to plan targeted collection trips.",
+          "description_i18n": {
+            "en": "Use the level-selection reward lists and merchant stock to plan targeted collection trips.",
+            "pt": "Use as listas de recompensas dos níveis e o estoque do vendedor para planejar coletas específicas."
+          }
+        },
+        {
+          "key": "complete-available-outfit-collection",
+          "title": "Complete the available outfit collection",
+          "title_i18n": {
+            "en": "Complete the available outfit collection",
+            "pt": "Complete a coleção de trajes disponível"
+          },
+          "description": "Track the catalog for your installed version; this is an aggregate goal, not an item-by-item recipe guide.",
+          "description_i18n": {
+            "en": "Track the catalog for your installed version; this is an aggregate goal, not an item-by-item recipe guide.",
+            "pt": "Acompanhe o catálogo da versão instalada; esta é uma meta geral, não um guia individual de todas as receitas."
+          }
+        },
+        {
+          "key": "master-eight-item-types",
+          "title": "Practice all eight item types",
+          "title_i18n": {
+            "en": "Practice all eight item types",
+            "pt": "Pratique os oito tipos de item"
+          },
+          "description": "Build confidence with Bow, Bombs, Boomerang, Gripshot, Gust Jar, Water Rod, Fire Gloves and Magic Hammer.",
+          "description_i18n": {
+            "en": "Build confidence with Bow, Bombs, Boomerang, Gripshot, Gust Jar, Water Rod, Fire Gloves and Magic Hammer.",
+            "pt": "Pratique Bow, Bombs, Boomerang, Gripshot, Gust Jar, Water Rod, Fire Gloves e Magic Hammer."
+          }
+        },
+        {
+          "key": "finish-level-without-stage-skip",
+          "title": "Finish a level without skipping a stage",
+          "title_i18n": {
+            "en": "Finish a level without skipping a stage",
+            "pt": "Conclua um nível sem pular etapas"
+          },
+          "description": "Repeat a troublesome level from start to finish using the full intended route.",
+          "description_i18n": {
+            "en": "Repeat a troublesome level from start to finish using the full intended route.",
+            "pt": "Repita um nível difícil do início ao fim seguindo todo o percurso previsto."
+          }
+        },
+        {
+          "key": "finish-reliable-solo-route",
+          "title": "Finish a reliable solo route",
+          "title_i18n": {
+            "en": "Finish a reliable solo route",
+            "pt": "Conclua uma rota solo confiável"
+          },
+          "description": "Replay a selected complex level with Doppels and minimize unnecessary switches and falls.",
+          "description_i18n": {
+            "en": "Replay a selected complex level with Doppels and minimize unnecessary switches and falls.",
+            "pt": "Repita um nível complexo com Doppels e reduza trocas desnecessárias e quedas."
+          }
+        }
+      ],
+      "kind": "collectible"
+    }
+  ],
+  "trophies": [],
+  "hltb_id": "30592",
+  "hltb_main_hours": 14,
+  "hltb_main_extra_hours": 26,
+  "hltb_completionist_hours": 62
+}

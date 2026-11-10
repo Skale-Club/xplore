@@ -1,0 +1,1927 @@
+{
+  "slug": "the-legend-of-zelda-echoes-of-wisdom",
+  "title": "The Legend of Zelda: Echoes of Wisdom",
+  "title_i18n": {
+    "en": "The Legend of Zelda: Echoes of Wisdom",
+    "pt": "The Legend of Zelda: Echoes of Wisdom"
+  },
+  "platform": "Nintendo Switch",
+  "cover_url": "/covers/the-legend-of-zelda-echoes-of-wisdom.png",
+  "created_by": "dd5c4bf0-85ea-4986-9c04-b37e8c986150",
+  "categories": [
+    {
+      "key": "opening-and-castle-escape",
+      "title": "Opening and castle escape",
+      "title_i18n": {
+        "en": "Opening and castle escape",
+        "pt": "Abertura e fuga do castelo"
+      },
+      "items": [
+        {
+          "key": "complete-link-opening",
+          "title": "Complete Link's opening rescue",
+          "title_i18n": {
+            "en": "Complete Link's opening rescue",
+            "pt": "Concluir o resgate inicial de Link"
+          },
+          "description": "Follow the opening combat tutorial and release the captive before the scene changes.",
+          "description_i18n": {
+            "en": "Follow the opening combat tutorial and release the captive before the scene changes.",
+            "pt": "Siga o tutorial inicial de combate e liberte a prisioneira antes da mudança de cena."
+          }
+        },
+        {
+          "key": "escape-opening-rift",
+          "title": "Escape the opening rift as Zelda",
+          "title_i18n": {
+            "en": "Escape the opening rift as Zelda",
+            "pt": "Escapar da fenda inicial como Zelda"
+          },
+          "description": "Follow the available route out of the chamber and keep moving through the escape sequence.",
+          "description_i18n": {
+            "en": "Follow the available route out of the chamber and keep moving through the escape sequence.",
+            "pt": "Siga a rota disponível para sair da câmara e avance pela sequência de fuga."
+          }
+        },
+        {
+          "key": "return-hyrule-castle",
+          "title": "Return to Hyrule Castle",
+          "title_i18n": {
+            "en": "Return to Hyrule Castle",
+            "pt": "Voltar ao Hyrule Castle"
+          },
+          "description": "Complete the audience and follow the events that begin Zelda's adventure.",
+          "description_i18n": {
+            "en": "Complete the audience and follow the events that begin Zelda's adventure.",
+            "pt": "Conclua a audiência e acompanhe os acontecimentos que iniciam a aventura de Zelda."
+          }
+        },
+        {
+          "key": "meet-tri-and-rod",
+          "title": "Meet Tri and receive the Tri Rod",
+          "title_i18n": {
+            "en": "Meet Tri and receive the Tri Rod",
+            "pt": "Encontrar Tri e receber a Tri Rod"
+          },
+          "description": "Hear Tri's explanation and learn how the new tool copies useful objects.",
+          "description_i18n": {
+            "en": "Hear Tri's explanation and learn how the new tool copies useful objects.",
+            "pt": "Ouça a explicação de Tri e aprenda a copiar objetos úteis com a nova ferramenta."
+          }
+        },
+        {
+          "key": "learn-first-object-echoes",
+          "title": "Learn the first object echoes",
+          "title_i18n": {
+            "en": "Learn the first object echoes",
+            "pt": "Aprender os primeiros ecos de objetos"
+          },
+          "description": "Inspect the furniture with learn prompts and test how summoned objects help you move.",
+          "description_i18n": {
+            "en": "Inspect the furniture with learn prompts and test how summoned objects help you move.",
+            "pt": "Examine os móveis com indicação de aprendizado e teste como os objetos invocados ajudam na movimentação."
+          }
+        },
+        {
+          "key": "leave-castle-cells",
+          "title": "Leave the castle cells",
+          "title_i18n": {
+            "en": "Leave the castle cells",
+            "pt": "Sair das celas do castelo"
+          },
+          "description": "Use the available echoes to navigate the guarded escape route.",
+          "description_i18n": {
+            "en": "Use the available echoes to navigate the guarded escape route.",
+            "pt": "Use os ecos disponíveis para atravessar a rota de fuga vigiada."
+          }
+        },
+        {
+          "key": "follow-impa-escape-route",
+          "title": "Follow Impa's escape route",
+          "title_i18n": {
+            "en": "Follow Impa's escape route",
+            "pt": "Seguir a rota de fuga de Impa"
+          },
+          "description": "Listen to the instructions and continue through the passage toward Suthorn Beach.",
+          "description_i18n": {
+            "en": "Listen to the instructions and continue through the passage toward Suthorn Beach.",
+            "pt": "Ouça as instruções e siga pela passagem em direção a Suthorn Beach."
+          }
+        }
+      ]
+    },
+    {
+      "key": "suthorn-forest-approach",
+      "title": "Suthorn Beach and Forest",
+      "title_i18n": {
+        "en": "Suthorn Beach and Forest",
+        "pt": "Suthorn Beach e floresta"
+      },
+      "items": [
+        {
+          "key": "explore-suthorn-beach",
+          "title": "Explore Suthorn Beach",
+          "title_i18n": {
+            "en": "Explore Suthorn Beach",
+            "pt": "Explorar Suthorn Beach"
+          },
+          "description": "Learn useful beach echoes and find a way past the obstacles toward the village.",
+          "description_i18n": {
+            "en": "Learn useful beach echoes and find a way past the obstacles toward the village.",
+            "pt": "Aprenda ecos úteis da praia e encontre um caminho pelos obstáculos até a vila."
+          }
+        },
+        {
+          "key": "learn-first-monster-echo",
+          "title": "Learn a combat echo",
+          "title_i18n": {
+            "en": "Learn a combat echo",
+            "pt": "Aprender um eco de combate"
+          },
+          "description": "Defeat a small enemy with an available object or ally and learn its echo.",
+          "description_i18n": {
+            "en": "Defeat a small enemy with an available object or ally and learn its echo.",
+            "pt": "Derrote um inimigo pequeno com um objeto ou aliado disponível e aprenda seu eco."
+          }
+        },
+        {
+          "key": "visit-suthorn-village",
+          "title": "Visit Suthorn Village",
+          "title_i18n": {
+            "en": "Visit Suthorn Village",
+            "pt": "Visitar Suthorn Village"
+          },
+          "description": "Talk with residents, check the shop and continue toward the forest objective.",
+          "description_i18n": {
+            "en": "Talk with residents, check the shop and continue toward the forest objective.",
+            "pt": "Fale com os moradores, confira a loja e siga ao objetivo na floresta."
+          }
+        },
+        {
+          "key": "reach-stilled-suthorn",
+          "title": "Enter Stilled Suthorn Forest",
+          "title_i18n": {
+            "en": "Enter Stilled Suthorn Forest",
+            "pt": "Entrar em Stilled Suthorn Forest"
+          },
+          "description": "Approach the main rift and follow Tri into the distorted landscape.",
+          "description_i18n": {
+            "en": "Approach the main rift and follow Tri into the distorted landscape.",
+            "pt": "Aproxime-se da fenda principal e siga Tri pela paisagem distorcida."
+          }
+        },
+        {
+          "key": "reach-suthorn-ruins-entrance",
+          "title": "Reach the Suthorn Ruins entrance",
+          "title_i18n": {
+            "en": "Reach the Suthorn Ruins entrance",
+            "pt": "Alcançar a entrada de Suthorn Ruins"
+          },
+          "description": "Navigate the floating terrain and still-world obstacles to reach the first dungeon; this main rift is resolved through its dungeon.",
+          "description_i18n": {
+            "en": "Navigate the floating terrain and still-world obstacles to reach the first dungeon; this main rift is resolved through its dungeon.",
+            "pt": "Atravesse o terreno flutuante e os obstáculos do mundo paralisado até a primeira masmorra; esta fenda principal é resolvida pela masmorra."
+          }
+        }
+      ]
+    },
+    {
+      "key": "suthorn-ruins",
+      "title": "Suthorn Ruins",
+      "title_i18n": {
+        "en": "Suthorn Ruins",
+        "pt": "Suthorn Ruins"
+      },
+      "items": [
+        {
+          "key": "enter-suthorn-ruins",
+          "title": "Enter Suthorn Ruins",
+          "title_i18n": {
+            "en": "Enter Suthorn Ruins",
+            "pt": "Entrar em Suthorn Ruins"
+          },
+          "description": "Activate the entrance waypoint and inspect the first rooms before advancing.",
+          "description_i18n": {
+            "en": "Activate the entrance waypoint and inspect the first rooms before advancing.",
+            "pt": "Ative o ponto de transporte da entrada e examine as primeiras salas."
+          }
+        },
+        {
+          "key": "learn-bind-reverse-bond",
+          "title": "Practice Bind and Reverse Bond",
+          "title_i18n": {
+            "en": "Practice Bind and Reverse Bond",
+            "pt": "Praticar Bind e Reverse Bond"
+          },
+          "description": "Use Tri's lessons to distinguish moving an object from letting its movement carry Zelda.",
+          "description_i18n": {
+            "en": "Use Tri's lessons to distinguish moving an object from letting its movement carry Zelda.",
+            "pt": "Use as lições de Tri para diferenciar mover um objeto de deixar o movimento dele carregar Zelda."
+          },
+          "details": "Bind makes the selected object follow Zelda's movement; Reverse Bond makes Zelda follow the object's movement instead. Lock onto the intended target before binding, then use the prompted reverse command when you want a platform or climbing creature to carry you. Release the connection before it takes you into danger. Binding also pulls buried chests and removes certain shields or rooted enemies. In the first sword-opponent fight, pulling away the shield creates an opening for your combat echoes; you do not need to win by throwing furniture forever.",
+          "details_i18n": {
+            "en": "Bind makes the selected object follow Zelda's movement; Reverse Bond makes Zelda follow the object's movement instead. Lock onto the intended target before binding, then use the prompted reverse command when you want a platform or climbing creature to carry you. Release the connection before it takes you into danger. Binding also pulls buried chests and removes certain shields or rooted enemies. In the first sword-opponent fight, pulling away the shield creates an opening for your combat echoes; you do not need to win by throwing furniture forever.",
+            "pt": "Bind faz o objeto selecionado acompanhar Zelda; Reverse Bond faz Zelda acompanhar o movimento do objeto. Mire no alvo correto antes de conectar e use o comando indicado de inversão quando quiser ser carregado por uma plataforma ou criatura que escala. Solte a conexão antes de entrar em perigo. Bind também puxa baús enterrados e remove certos escudos ou inimigos enraizados. Na primeira luta com o adversário de espada, puxar o escudo abre espaço para os ecos de combate; não é necessário vencer apenas arremessando móveis."
+          }
+        },
+        {
+          "key": "solve-first-bind-obstacles",
+          "title": "Resolve the early Bind obstacles",
+          "title_i18n": {
+            "en": "Resolve the early Bind obstacles",
+            "pt": "Resolver os primeiros obstáculos de Bind"
+          },
+          "description": "Experiment with the statues and movable objects rather than relying only on stairs.",
+          "description_i18n": {
+            "en": "Experiment with the statues and movable objects rather than relying only on stairs.",
+            "pt": "Experimente as estátuas e os objetos móveis em vez de depender apenas de escadas."
+          }
+        },
+        {
+          "key": "cross-ruins-platforms",
+          "title": "Cross the platform rooms",
+          "title_i18n": {
+            "en": "Cross the platform rooms",
+            "pt": "Atravessar as salas de plataformas"
+          },
+          "description": "Test safe combinations of object echoes and movement abilities in the side-view sections.",
+          "description_i18n": {
+            "en": "Test safe combinations of object echoes and movement abilities in the side-view sections.",
+            "pt": "Teste combinações seguras de ecos e habilidades de movimento nas seções de visão lateral."
+          }
+        },
+        {
+          "key": "face-sword-wielding-opponent",
+          "title": "Face the sword-wielding opponent",
+          "title_i18n": {
+            "en": "Face the sword-wielding opponent",
+            "pt": "Enfrentar o adversário com espada"
+          },
+          "description": "Watch the defensive behavior and use the optional guidance if direct attacks stall.",
+          "description_i18n": {
+            "en": "Watch the defensive behavior and use the optional guidance if direct attacks stall.",
+            "pt": "Observe o comportamento defensivo e consulte a orientação opcional se os ataques diretos não funcionarem."
+          }
+        },
+        {
+          "key": "learn-swordfighter-form",
+          "title": "Learn Swordfighter Form",
+          "title_i18n": {
+            "en": "Learn Swordfighter Form",
+            "pt": "Aprender Swordfighter Form"
+          },
+          "description": "Test the new transformation and monitor its energy before using it in every fight.",
+          "description_i18n": {
+            "en": "Test the new transformation and monitor its energy before using it in every fight.",
+            "pt": "Teste a transformação e observe sua energia antes de usá-la em todos os confrontos."
+          },
+          "details": "Swordfighter Form drains its own energy while active, so switch back when an opening ends rather than leaving it running during travel. Blue energy pickups restore the gauge, especially in rifts; certain smoothies also restore energy, so read their effects before mixing. Echoes can fight while you conserve the meter. Spend Might Crystals at Lueburry's house for weapon and gauge upgrades as they unlock. The bow and bombs become available through later dungeons, not simply by buying an upgrade early.",
+          "details_i18n": {
+            "en": "Swordfighter Form drains its own energy while active, so switch back when an opening ends rather than leaving it running during travel. Blue energy pickups restore the gauge, especially in rifts; certain smoothies also restore energy, so read their effects before mixing. Echoes can fight while you conserve the meter. Spend Might Crystals at Lueburry's house for weapon and gauge upgrades as they unlock. The bow and bombs become available through later dungeons, not simply by buying an upgrade early.",
+            "pt": "Swordfighter Form consome sua própria energia enquanto está ativa; volte à forma normal quando a abertura terminar em vez de mantê-la durante o deslocamento. Itens azuis recuperam a barra, especialmente nas fendas; certos smoothies também restauram energia, então confira os efeitos antes de prepará-los. Os ecos podem lutar enquanto você economiza a barra. Gaste Might Crystals na casa de Lueburry para melhorar armas e energia conforme os desbloqueios. O arco e as bombas vêm de masmorras posteriores, não apenas da compra antecipada de uma melhoria."
+          }
+        },
+        {
+          "key": "reach-seismic-talus",
+          "title": "Reach Seismic Talus",
+          "title_i18n": {
+            "en": "Reach Seismic Talus",
+            "pt": "Alcançar Seismic Talus"
+          },
+          "description": "Complete the remaining mechanism rooms and prepare for the large arena.",
+          "description_i18n": {
+            "en": "Complete the remaining mechanism rooms and prepare for the large arena.",
+            "pt": "Conclua as salas de mecanismos restantes e prepare-se para a grande arena."
+          }
+        },
+        {
+          "key": "close-suthorn-rift",
+          "title": "Defeat Seismic Talus and close the rift",
+          "title_i18n": {
+            "en": "Defeat Seismic Talus and close the rift",
+            "pt": "Derrotar Seismic Talus e fechar a fenda"
+          },
+          "description": "Finish the boss, collect the reward and follow Tri back to the restored region.",
+          "description_i18n": {
+            "en": "Finish the boss, collect the reward and follow Tri back to the restored region.",
+            "pt": "Vença o chefe, recolha a recompensa e siga Tri de volta à região restaurada."
+          },
+          "details": "Watch the glowing orb rather than attacking the stone body at random. After a hand slam leaves an opening, Bind the orb and pull until it comes free, or strike the exposed target with Swordfighter attacks. Damage the separated core before it returns to the body. Its position changes between phases, so adjust your angle and use the lowered hand as a route when needed. Move out of the spinning-arm attack and collect dropped energy before the next opening if your gauge is low.",
+          "details_i18n": {
+            "en": "Watch the glowing orb rather than attacking the stone body at random. After a hand slam leaves an opening, Bind the orb and pull until it comes free, or strike the exposed target with Swordfighter attacks. Damage the separated core before it returns to the body. Its position changes between phases, so adjust your angle and use the lowered hand as a route when needed. Move out of the spinning-arm attack and collect dropped energy before the next opening if your gauge is low.",
+            "pt": "Observe a esfera luminosa em vez de atacar o corpo de pedra sem critério. Depois que uma pancada da mão abrir espaço, use Bind na esfera e puxe até soltá-la, ou golpeie o alvo exposto com Swordfighter. Cause dano ao núcleo separado antes que volte ao corpo. A posição muda entre fases; ajuste o ângulo e use a mão abaixada como caminho quando necessário. Saia do ataque de braços giratórios e recolha energia antes da próxima abertura se sua barra estiver baixa."
+          }
+        }
+      ]
+    },
+    {
+      "key": "gerudo-desert-route",
+      "title": "Gerudo Desert: one regional branch",
+      "title_i18n": {
+        "en": "Gerudo Desert: one regional branch",
+        "pt": "Gerudo Desert: uma das rotas regionais"
+      },
+      "items": [
+        {
+          "key": "visit-lueburry-choose-branch",
+          "title": "Visit Lueburry and choose a region",
+          "title_i18n": {
+            "en": "Visit Lueburry and choose a region",
+            "pt": "Visitar Lueburry e escolher uma região"
+          },
+          "description": "Begin Searching for Everyone; Gerudo Desert and Jabul Waters can be completed in either order.",
+          "description_i18n": {
+            "en": "Begin Searching for Everyone; Gerudo Desert and Jabul Waters can be completed in either order.",
+            "pt": "Inicie Searching for Everyone; Gerudo Desert e Jabul Waters podem ser concluídos em qualquer ordem."
+          }
+        },
+        {
+          "key": "reach-gerudo-oasis",
+          "title": "Reach the Gerudo oasis",
+          "title_i18n": {
+            "en": "Reach the Gerudo oasis",
+            "pt": "Chegar ao oásis Gerudo"
+          },
+          "description": "Inspect the services and speak with locals about the regional rifts.",
+          "description_i18n": {
+            "en": "Inspect the services and speak with locals about the regional rifts.",
+            "pt": "Confira os serviços e fale com os moradores sobre as fendas da região."
+          }
+        },
+        {
+          "key": "meet-dohna",
+          "title": "Meet Dohna",
+          "title_i18n": {
+            "en": "Meet Dohna",
+            "pt": "Encontrar Dohna"
+          },
+          "description": "Follow the regional request and learn why the large rift cannot yet be entered.",
+          "description_i18n": {
+            "en": "Follow the regional request and learn why the large rift cannot yet be entered.",
+            "pt": "Siga o pedido regional e descubra por que a grande fenda ainda está inacessível."
+          }
+        },
+        {
+          "key": "help-gerudo-investigations",
+          "title": "Help with the Gerudo investigations",
+          "title_i18n": {
+            "en": "Help with the Gerudo investigations",
+            "pt": "Ajudar nas investigações Gerudo"
+          },
+          "description": "Visit the marked problem sites and report your progress rather than waiting at the main rift.",
+          "description_i18n": {
+            "en": "Visit the marked problem sites and report your progress rather than waiting at the main rift.",
+            "pt": "Visite os locais indicados e informe o progresso em vez de esperar junto à fenda principal."
+          }
+        },
+        {
+          "key": "complete-ancestors-cave",
+          "title": "Complete the Ancestor's Cave of Rest route",
+          "title_i18n": {
+            "en": "Complete the Ancestor's Cave of Rest route",
+            "pt": "Concluir a rota de Ancestor's Cave of Rest"
+          },
+          "description": "Investigate the cave's obstruction and use your abilities to restore the intended passage.",
+          "description_i18n": {
+            "en": "Investigate the cave's obstruction and use your abilities to restore the intended passage.",
+            "pt": "Investigue a obstrução da caverna e use suas habilidades para restaurar a passagem."
+          }
+        },
+        {
+          "key": "enter-stilled-desert-ruins",
+          "title": "Enter the stilled desert ruins",
+          "title_i18n": {
+            "en": "Enter the stilled desert ruins",
+            "pt": "Entrar nas ruínas paralisadas do deserto"
+          },
+          "description": "Rescue the trapped friend groups and follow the newly available route toward the sanctum.",
+          "description_i18n": {
+            "en": "Rescue the trapped friend groups and follow the newly available route toward the sanctum.",
+            "pt": "Resgate os grupos de amigos presos e siga pela nova rota até o santuário."
+          }
+        }
+      ]
+    },
+    {
+      "key": "gerudo-sanctum",
+      "title": "Gerudo Sanctum",
+      "title_i18n": {
+        "en": "Gerudo Sanctum",
+        "pt": "Gerudo Sanctum"
+      },
+      "items": [
+        {
+          "key": "reach-gerudo-sanctum",
+          "title": "Reach Gerudo Sanctum",
+          "title_i18n": {
+            "en": "Reach Gerudo Sanctum",
+            "pt": "Alcançar Gerudo Sanctum"
+          },
+          "description": "Follow the Cryptic Cavern route and inspect the dungeon's central mechanisms.",
+          "description_i18n": {
+            "en": "Follow the Cryptic Cavern route and inspect the dungeon's central mechanisms.",
+            "pt": "Siga pela Cryptic Cavern e examine os mecanismos centrais da masmorra."
+          }
+        },
+        {
+          "key": "learn-sanctum-statue-echoes",
+          "title": "Learn the sanctum's statue echoes",
+          "title_i18n": {
+            "en": "Learn the sanctum's statue echoes",
+            "pt": "Aprender os ecos das estátuas do santuário"
+          },
+          "description": "Copy new statue types when available and remember which rooms contain their clues.",
+          "description_i18n": {
+            "en": "Copy new statue types when available and remember which rooms contain their clues.",
+            "pt": "Copie os novos tipos de estátua e lembre quais salas contêm suas pistas."
+          }
+        },
+        {
+          "key": "obtain-bow-of-might",
+          "title": "Obtain the Bow of Might",
+          "title_i18n": {
+            "en": "Obtain the Bow of Might",
+            "pt": "Obter o Bow of Might"
+          },
+          "description": "Resolve the special combat encounter and test the new Swordfighter weapon.",
+          "description_i18n": {
+            "en": "Resolve the special combat encounter and test the new Swordfighter weapon.",
+            "pt": "Vença o confronto especial e teste a nova arma de Swordfighter."
+          }
+        },
+        {
+          "key": "solve-sanctum-tribute",
+          "title": "Resolve the tribute door",
+          "title_i18n": {
+            "en": "Resolve the tribute door",
+            "pt": "Resolver a porta dos tributos"
+          },
+          "description": "Interpret the inscription and compare the statue echoes before opening the onward route.",
+          "description_i18n": {
+            "en": "Interpret the inscription and compare the statue echoes before opening the onward route.",
+            "pt": "Interprete a inscrição e compare os ecos de estátuas antes de abrir a passagem."
+          },
+          "details": "The two required tributes are the Elephant Statue and Hawk Statue echoes. Learn the actual statues in their dungeon rooms; having seen their shapes in a mural does not add them to your echo list. Return to the tribute door and summon one of each on the two pads. Other statue species do not satisfy the inscription. Keep these echoes available afterward: the sturdy statues also provide useful obstacles in the boss arena. If a pedestal looks empty, check your active echo budget before assuming the placement failed.",
+          "details_i18n": {
+            "en": "The two required tributes are the Elephant Statue and Hawk Statue echoes. Learn the actual statues in their dungeon rooms; having seen their shapes in a mural does not add them to your echo list. Return to the tribute door and summon one of each on the two pads. Other statue species do not satisfy the inscription. Keep these echoes available afterward: the sturdy statues also provide useful obstacles in the boss arena. If a pedestal looks empty, check your active echo budget before assuming the placement failed.",
+            "pt": "Os dois tributos exigidos são os ecos Elephant Statue e Hawk Statue. Aprenda as estátuas nas salas correspondentes; apenas ver as formas em um mural não as adiciona à lista de ecos. Volte à porta e invoque uma de cada nos dois suportes. Outros tipos de estátua não cumprem a inscrição. Mantenha esses ecos disponíveis depois: as estátuas resistentes também ajudam como obstáculos na arena do chefe. Se um suporte parecer vazio, confira o limite de ecos ativos antes de presumir que a posição falhou."
+          }
+        },
+        {
+          "key": "finish-sanctum-mechanisms",
+          "title": "Finish the sanctum mechanisms",
+          "title_i18n": {
+            "en": "Finish the sanctum mechanisms",
+            "pt": "Concluir os mecanismos do santuário"
+          },
+          "description": "Check the moving structures and remaining key route before entering the boss chamber.",
+          "description_i18n": {
+            "en": "Check the moving structures and remaining key route before entering the boss chamber.",
+            "pt": "Confira as estruturas móveis e a rota da chave restante antes da câmara do chefe."
+          }
+        },
+        {
+          "key": "defeat-mogryph",
+          "title": "Defeat Mogryph and restore the desert",
+          "title_i18n": {
+            "en": "Defeat Mogryph and restore the desert",
+            "pt": "Derrotar Mogryph e restaurar o deserto"
+          },
+          "description": "Read the arena changes, collect the reward and finish the regional conversation.",
+          "description_i18n": {
+            "en": "Read the arena changes, collect the reward and finish the regional conversation.",
+            "pt": "Observe as mudanças na arena, recolha a recompensa e conclua a conversa regional."
+          }
+        }
+      ]
+    },
+    {
+      "key": "jabul-waters-route",
+      "title": "Jabul Waters: the other regional branch",
+      "title_i18n": {
+        "en": "Jabul Waters: the other regional branch",
+        "pt": "Jabul Waters: a outra rota regional"
+      },
+      "items": [
+        {
+          "key": "reach-seesyde-village",
+          "title": "Reach Seesyde Village",
+          "title_i18n": {
+            "en": "Reach Seesyde Village",
+            "pt": "Chegar a Seesyde Village"
+          },
+          "description": "Learn about Jabul Waters and prepare water-capable echoes before traveling inland.",
+          "description_i18n": {
+            "en": "Learn about Jabul Waters and prepare water-capable echoes before traveling inland.",
+            "pt": "Conheça Jabul Waters e prepare ecos aquáticos antes de seguir ao interior."
+          }
+        },
+        {
+          "key": "visit-river-sea-zora",
+          "title": "Visit both Zora communities",
+          "title_i18n": {
+            "en": "Visit both Zora communities",
+            "pt": "Visitar as duas comunidades Zora"
+          },
+          "description": "Speak with the River Zora and Sea Zora leaders to understand the shared problem.",
+          "description_i18n": {
+            "en": "Speak with the River Zora and Sea Zora leaders to understand the shared problem.",
+            "pt": "Fale com os líderes River Zora e Sea Zora para entender o problema comum."
+          }
+        },
+        {
+          "key": "resolve-river-zora-chaos",
+          "title": "Resolve Chaos at River Zora Village",
+          "title_i18n": {
+            "en": "Resolve Chaos at River Zora Village",
+            "pt": "Resolver Chaos at River Zora Village"
+          },
+          "description": "Follow the local request and investigate the nearby rift with Tri.",
+          "description_i18n": {
+            "en": "Follow the local request and investigate the nearby rift with Tri.",
+            "pt": "Siga o pedido local e investigue a fenda próxima com Tri."
+          },
+          "details": "The Stilled Upper Zora River repair needs five trapped friend groups. Search both sides of the entrance and inspect underwater pockets as well as the upper floating sections. Learn Bombfish when you encounter one: its explosion clears cracked underwater blocks hiding a route. Summon it near the obstruction and keep Zelda out of the blast area. Defeat dark enemies when they hold a friend cluster, then touch the released cluster. Check the counter before leaving a section so a submerged group does not force a complete second search.",
+          "details_i18n": {
+            "en": "The Stilled Upper Zora River repair needs five trapped friend groups. Search both sides of the entrance and inspect underwater pockets as well as the upper floating sections. Learn Bombfish when you encounter one: its explosion clears cracked underwater blocks hiding a route. Summon it near the obstruction and keep Zelda out of the blast area. Defeat dark enemies when they hold a friend cluster, then touch the released cluster. Check the counter before leaving a section so a submerged group does not force a complete second search.",
+            "pt": "O reparo de Stilled Upper Zora River exige cinco grupos de amigos presos. Examine os dois lados da entrada, os bolsões submersos e as partes flutuantes superiores. Aprenda Bombfish ao encontrá-lo: sua explosão libera blocos subaquáticos rachados que escondem uma passagem. Invoque-o perto do obstáculo e tire Zelda da área da explosão. Derrote inimigos escuros que guardem um grupo e toque no grupo liberado. Confira o contador antes de sair para não precisar refazer toda a busca por um grupo submerso."
+          }
+        },
+        {
+          "key": "resolve-zora-cove-rampage",
+          "title": "Resolve Rampage in Zora Cove",
+          "title_i18n": {
+            "en": "Resolve Rampage in Zora Cove",
+            "pt": "Resolver Rampage in Zora Cove"
+          },
+          "description": "Help the threatened residents and finish the coastal objective before returning to the leaders.",
+          "description_i18n": {
+            "en": "Help the threatened residents and finish the coastal objective before returning to the leaders.",
+            "pt": "Ajude os moradores ameaçados e conclua o objetivo costeiro antes de voltar aos líderes."
+          }
+        },
+        {
+          "key": "return-jabu-jabus-den",
+          "title": "Return to Jabu-Jabu's Den",
+          "title_i18n": {
+            "en": "Return to Jabu-Jabu's Den",
+            "pt": "Voltar a Jabu-Jabu's Den"
+          },
+          "description": "Continue the main request after helping both communities and prepare for the next encounter.",
+          "description_i18n": {
+            "en": "Continue the main request after helping both communities and prepare for the next encounter.",
+            "pt": "Continue o pedido principal após ajudar as duas comunidades e prepare-se para o próximo confronto."
+          }
+        },
+        {
+          "key": "enter-stilled-jabul",
+          "title": "Enter the Jabul rift",
+          "title_i18n": {
+            "en": "Enter the Jabul rift",
+            "pt": "Entrar na fenda de Jabul"
+          },
+          "description": "Follow Tri through the still-world route and learn useful traversal echoes along the way.",
+          "description_i18n": {
+            "en": "Follow Tri through the still-world route and learn useful traversal echoes along the way.",
+            "pt": "Siga Tri pelo mundo paralisado e aprenda ecos úteis de travessia no caminho."
+          }
+        }
+      ]
+    },
+    {
+      "key": "jabul-ruins",
+      "title": "Jabul Ruins",
+      "title_i18n": {
+        "en": "Jabul Ruins",
+        "pt": "Jabul Ruins"
+      },
+      "items": [
+        {
+          "key": "enter-jabul-ruins",
+          "title": "Enter Jabul Ruins",
+          "title_i18n": {
+            "en": "Enter Jabul Ruins",
+            "pt": "Entrar em Jabul Ruins"
+          },
+          "description": "Activate the waypoint and inspect the route before the dungeon changes pace.",
+          "description_i18n": {
+            "en": "Activate the waypoint and inspect the route before the dungeon changes pace.",
+            "pt": "Ative o ponto de transporte e examine a rota antes da mudança de ritmo da masmorra."
+          }
+        },
+        {
+          "key": "escape-ruins-water-hazard",
+          "title": "Escape the opening water hazard",
+          "title_i18n": {
+            "en": "Escape the opening water hazard",
+            "pt": "Escapar do perigo aquático inicial"
+          },
+          "description": "Keep moving through the side-view route and recover a safe position before exploring.",
+          "description_i18n": {
+            "en": "Keep moving through the side-view route and recover a safe position before exploring.",
+            "pt": "Continue pela seção lateral e alcance um local seguro antes de explorar."
+          }
+        },
+        {
+          "key": "activate-jabul-switch-routes",
+          "title": "Activate the colored switch routes",
+          "title_i18n": {
+            "en": "Activate the colored switch routes",
+            "pt": "Ativar as rotas dos interruptores coloridos"
+          },
+          "description": "Explore the branches from the central chamber and check which mechanisms are already active.",
+          "description_i18n": {
+            "en": "Explore the branches from the central chamber and check which mechanisms are already active.",
+            "pt": "Explore as alas da câmara central e confira quais mecanismos já estão ativos."
+          },
+          "details": "The central jet rises as you activate the colored switches in the surrounding branches. Treat each branch as a separate loop: explore it, activate its switch and return to the central chamber to inspect the changed access. Underwater, move obstructing rocks with Bind and preserve breathing room. Strong currents can destroy poorly placed Water Blocks, so use existing ledges or a bridge above the flow when possible. Before revisiting a finished branch, compare the central mechanism with the switches you have already activated.",
+          "details_i18n": {
+            "en": "The central jet rises as you activate the colored switches in the surrounding branches. Treat each branch as a separate loop: explore it, activate its switch and return to the central chamber to inspect the changed access. Underwater, move obstructing rocks with Bind and preserve breathing room. Strong currents can destroy poorly placed Water Blocks, so use existing ledges or a bridge above the flow when possible. Before revisiting a finished branch, compare the central mechanism with the switches you have already activated.",
+            "pt": "O jato central sobe conforme você ativa os interruptores coloridos nas alas ao redor. Trate cada ala como um circuito: explore, ative o interruptor e volte à câmara central para conferir os acessos alterados. Sob a água, mova as pedras com Bind e preserve espaço para respirar. Correntes fortes podem destruir Water Blocks mal posicionados; use apoios existentes ou uma ponte acima da corrente quando possível. Antes de revisitar uma ala concluída, compare o mecanismo central aos interruptores já ativados."
+          }
+        },
+        {
+          "key": "navigate-water-current-rooms",
+          "title": "Navigate the current rooms",
+          "title_i18n": {
+            "en": "Navigate the current rooms",
+            "pt": "Atravessar as salas de correnteza"
+          },
+          "description": "Choose aquatic echoes and stable footholds for the submerged and moving-water puzzles.",
+          "description_i18n": {
+            "en": "Choose aquatic echoes and stable footholds for the submerged and moving-water puzzles.",
+            "pt": "Escolha ecos aquáticos e apoios estáveis para os desafios submersos e de correnteza."
+          }
+        },
+        {
+          "key": "reach-vocavor",
+          "title": "Reach Vocavor",
+          "title_i18n": {
+            "en": "Reach Vocavor",
+            "pt": "Alcançar Vocavor"
+          },
+          "description": "Complete the remaining switch objective and collect the key needed for the final chamber.",
+          "description_i18n": {
+            "en": "Complete the remaining switch objective and collect the key needed for the final chamber.",
+            "pt": "Conclua o objetivo restante dos interruptores e recolha a chave da câmara final."
+          }
+        },
+        {
+          "key": "defeat-vocavor",
+          "title": "Defeat Vocavor and restore Jabul",
+          "title_i18n": {
+            "en": "Defeat Vocavor and restore Jabul",
+            "pt": "Derrotar Vocavor e restaurar Jabul"
+          },
+          "description": "Adapt to the changing water space, collect the reward and finish the regional request.",
+          "description_i18n": {
+            "en": "Adapt to the changing water space, collect the reward and finish the regional request.",
+            "pt": "Adapte-se às mudanças na água, recolha a recompensa e conclua o pedido regional."
+          },
+          "details": "Avoid the whirlpool attack and use its recovery window to reach the blue bulbs on Vocavor's back. Aquatic combat echoes such as Chompfin can attack those targets while submerged; after the bulbs break, damage the exposed weak point. In the later phase, parts of the surrounding water disappear, so a purely aquatic summon may no longer reach its target. Reposition and use an airborne attacker when the back is out of water. Save Swordfighter energy for an opening you can actually reach instead of draining it during pursuit.",
+          "details_i18n": {
+            "en": "Avoid the whirlpool attack and use its recovery window to reach the blue bulbs on Vocavor's back. Aquatic combat echoes such as Chompfin can attack those targets while submerged; after the bulbs break, damage the exposed weak point. In the later phase, parts of the surrounding water disappear, so a purely aquatic summon may no longer reach its target. Reposition and use an airborne attacker when the back is out of water. Save Swordfighter energy for an opening you can actually reach instead of draining it during pursuit.",
+            "pt": "Evite o redemoinho e aproveite a recuperação para alcançar os bulbos azuis nas costas de Vocavor. Ecos aquáticos como Chompfin atingem esses alvos submersos; depois que os bulbos quebrarem, ataque o ponto fraco exposto. Na fase posterior, partes da água ao redor desaparecem, então uma invocação apenas aquática pode não alcançar o alvo. Reposicione-se e use um atacante aéreo quando as costas estiverem fora da água. Reserve a energia de Swordfighter para uma abertura alcançável em vez de gastá-la na perseguição."
+          }
+        }
+      ]
+    },
+    {
+      "key": "hyrule-castle-rift",
+      "title": "Still Missing: Hyrule Castle",
+      "title_i18n": {
+        "en": "Still Missing: Hyrule Castle",
+        "pt": "Still Missing: Hyrule Castle"
+      },
+      "items": [
+        {
+          "key": "return-after-two-regions",
+          "title": "Return after both regional branches",
+          "title_i18n": {
+            "en": "Return after both regional branches",
+            "pt": "Voltar após as duas rotas regionais"
+          },
+          "description": "Complete Gerudo and Jabul before following the new Hyrule Castle objective.",
+          "description_i18n": {
+            "en": "Complete Gerudo and Jabul before following the new Hyrule Castle objective.",
+            "pt": "Conclua Gerudo e Jabul antes de seguir o novo objetivo no Hyrule Castle."
+          }
+        },
+        {
+          "key": "enter-stilled-castle-town",
+          "title": "Enter the stilled castle route",
+          "title_i18n": {
+            "en": "Enter the stilled castle route",
+            "pt": "Entrar na rota do castelo paralisado"
+          },
+          "description": "Follow Tri through the affected town and look for the approach to the castle interior.",
+          "description_i18n": {
+            "en": "Follow Tri through the affected town and look for the approach to the castle interior.",
+            "pt": "Siga Tri pela cidade afetada e procure o acesso ao interior do castelo."
+          }
+        },
+        {
+          "key": "navigate-castle-guards",
+          "title": "Navigate the castle's guarded rooms",
+          "title_i18n": {
+            "en": "Navigate the castle's guarded rooms",
+            "pt": "Atravessar as salas vigiadas do castelo"
+          },
+          "description": "Observe patrols and use echo-built cover to reach the next objective.",
+          "description_i18n": {
+            "en": "Observe patrols and use echo-built cover to reach the next objective.",
+            "pt": "Observe as patrulhas e use coberturas feitas de ecos para alcançar o próximo objetivo."
+          }
+        },
+        {
+          "key": "explore-castle-dungeon",
+          "title": "Explore the castle dungeon",
+          "title_i18n": {
+            "en": "Explore the castle dungeon",
+            "pt": "Explorar a masmorra do castelo"
+          },
+          "description": "Inspect side rooms and mechanisms instead of assuming the familiar building has a direct route.",
+          "description_i18n": {
+            "en": "Inspect side rooms and mechanisms instead of assuming the familiar building has a direct route.",
+            "pt": "Examine as salas laterais e os mecanismos em vez de presumir uma rota direta pelo prédio conhecido."
+          }
+        },
+        {
+          "key": "obtain-castle-big-key",
+          "title": "Obtain the castle Big Key",
+          "title_i18n": {
+            "en": "Obtain the castle Big Key",
+            "pt": "Obter a Big Key do castelo"
+          },
+          "description": "Resolve the remaining locked route and prepare supplies before the boss door.",
+          "description_i18n": {
+            "en": "Resolve the remaining locked route and prepare supplies before the boss door.",
+            "pt": "Resolva a rota bloqueada restante e prepare os recursos antes da porta do chefe."
+          }
+        },
+        {
+          "key": "face-castle-ganon",
+          "title": "Face the castle's Ganon encounter",
+          "title_i18n": {
+            "en": "Face the castle's Ganon encounter",
+            "pt": "Enfrentar o Ganon do castelo"
+          },
+          "description": "Read the attack phases and use Tri's abilities when ordinary offense loses momentum.",
+          "description_i18n": {
+            "en": "Read the attack phases and use Tri's abilities when ordinary offense loses momentum.",
+            "pt": "Observe as fases dos ataques e use as habilidades de Tri quando a ofensiva comum não avançar."
+          },
+          "details": "Keep moving out of the trident thrust's line and attack after Ganon commits to a strike or waits for his thrown weapon to return. Use echoes to maintain pressure while you conserve transformation energy. When he launches the glowing energy ball, a timed Swordfighter sword swing can send it back; be ready for another return rather than immediately running forward. After he is stunned, close in for damage and retreat before the next pattern. Restock energy-restoring smoothies beforehand if long attempts leave the gauge empty.",
+          "details_i18n": {
+            "en": "Keep moving out of the trident thrust's line and attack after Ganon commits to a strike or waits for his thrown weapon to return. Use echoes to maintain pressure while you conserve transformation energy. When he launches the glowing energy ball, a timed Swordfighter sword swing can send it back; be ready for another return rather than immediately running forward. After he is stunned, close in for damage and retreat before the next pattern. Restock energy-restoring smoothies beforehand if long attempts leave the gauge empty.",
+            "pt": "Saia da linha da estocada do tridente e ataque depois que Ganon executar o golpe ou esperar a arma arremessada voltar. Use ecos para manter a pressão enquanto economiza energia de transformação. Quando ele lançar a esfera luminosa, um golpe preciso da espada de Swordfighter pode devolvê-la; prepare outra devolução em vez de correr imediatamente até ele. Após atordoá-lo, aproxime-se para causar dano e recue antes do novo padrão. Prepare smoothies de energia se as tentativas longas esvaziarem sua barra."
+          }
+        },
+        {
+          "key": "begin-lands-of-goddesses",
+          "title": "Begin Lands of the Goddesses",
+          "title_i18n": {
+            "en": "Begin Lands of the Goddesses",
+            "pt": "Iniciar Lands of the Goddesses"
+          },
+          "description": "Finish Still Missing; Eldin, Faron and Lanayru can now be tackled in your preferred order.",
+          "description_i18n": {
+            "en": "Finish Still Missing; Eldin, Faron and Lanayru can now be tackled in your preferred order.",
+            "pt": "Conclua Still Missing; Eldin, Faron e Lanayru podem ser explorados na ordem que preferir."
+          }
+        }
+      ]
+    },
+    {
+      "key": "eldin-volcano-route",
+      "title": "The Rift on Eldin Volcano",
+      "title_i18n": {
+        "en": "The Rift on Eldin Volcano",
+        "pt": "The Rift on Eldin Volcano"
+      },
+      "items": [
+        {
+          "key": "reach-kakariko-eldin",
+          "title": "Reach Kakariko and the volcano trail",
+          "title_i18n": {
+            "en": "Reach Kakariko and the volcano trail",
+            "pt": "Chegar a Kakariko e à trilha do vulcão"
+          },
+          "description": "Prepare for the mountain route and learn echoes suited to its terrain.",
+          "description_i18n": {
+            "en": "Prepare for the mountain route and learn echoes suited to its terrain.",
+            "pt": "Prepare-se para a rota da montanha e aprenda ecos adequados ao terreno."
+          }
+        },
+        {
+          "key": "meet-darston-goron-city",
+          "title": "Meet Darston at Goron City",
+          "title_i18n": {
+            "en": "Meet Darston at Goron City",
+            "pt": "Encontrar Darston em Goron City"
+          },
+          "description": "Investigate the city's rift and follow the regional rescue request.",
+          "description_i18n": {
+            "en": "Investigate the city's rift and follow the regional rescue request.",
+            "pt": "Investigue a fenda da cidade e siga o pedido regional de resgate."
+          }
+        },
+        {
+          "key": "restore-stilled-goron-city",
+          "title": "Restore the stilled Goron City route",
+          "title_i18n": {
+            "en": "Restore the stilled Goron City route",
+            "pt": "Restaurar a rota de Goron City paralisada"
+          },
+          "description": "Search the floating sections for Tri's trapped friends and complete the repair.",
+          "description_i18n": {
+            "en": "Search the floating sections for Tri's trapped friends and complete the repair.",
+            "pt": "Procure os amigos presos de Tri nas seções flutuantes e conclua o reparo."
+          }
+        },
+        {
+          "key": "complete-rock-roast-quarry",
+          "title": "Complete Rock-Roast Quarry",
+          "title_i18n": {
+            "en": "Complete Rock-Roast Quarry",
+            "pt": "Concluir Rock-Roast Quarry"
+          },
+          "description": "Follow Darston's lead to the quarry and resolve the problem involving its supplies.",
+          "description_i18n": {
+            "en": "Follow Darston's lead to the quarry and resolve the problem involving its supplies.",
+            "pt": "Siga a pista de Darston até a pedreira e resolva o problema com os suprimentos."
+          }
+        },
+        {
+          "key": "complete-lizalfos-burrow",
+          "title": "Complete Lizalfos Burrow",
+          "title_i18n": {
+            "en": "Complete Lizalfos Burrow",
+            "pt": "Concluir Lizalfos Burrow"
+          },
+          "description": "Investigate the other elder's route and finish the burrow encounter; the two errands can be swapped.",
+          "description_i18n": {
+            "en": "Investigate the other elder's route and finish the burrow encounter; the two errands can be swapped.",
+            "pt": "Investigue a rota do outro ancião e conclua o confronto da toca; as duas tarefas podem ser invertidas."
+          }
+        },
+        {
+          "key": "reach-stilled-eldin-crater",
+          "title": "Reach the stilled volcano crater",
+          "title_i18n": {
+            "en": "Reach the stilled volcano crater",
+            "pt": "Alcançar a cratera paralisada"
+          },
+          "description": "Return with both leads resolved and follow the opened route toward Eldin Temple.",
+          "description_i18n": {
+            "en": "Return with both leads resolved and follow the opened route toward Eldin Temple.",
+            "pt": "Volte após resolver as duas pistas e siga pela rota aberta até o Eldin Temple."
+          }
+        }
+      ]
+    },
+    {
+      "key": "eldin-temple",
+      "title": "Eldin Temple",
+      "title_i18n": {
+        "en": "Eldin Temple",
+        "pt": "Eldin Temple"
+      },
+      "items": [
+        {
+          "key": "enter-eldin-temple",
+          "title": "Enter Eldin Temple",
+          "title_i18n": {
+            "en": "Enter Eldin Temple",
+            "pt": "Entrar no Eldin Temple"
+          },
+          "description": "Check the entrance waypoint and inspect the first lava and airflow rooms.",
+          "description_i18n": {
+            "en": "Check the entrance waypoint and inspect the first lava and airflow rooms.",
+            "pt": "Confira o ponto de transporte e examine as primeiras salas com lava e correntes de ar."
+          }
+        },
+        {
+          "key": "cross-lava-platforms",
+          "title": "Cross the lava-platform rooms",
+          "title_i18n": {
+            "en": "Cross the lava-platform rooms",
+            "pt": "Atravessar as salas de plataformas sobre lava"
+          },
+          "description": "Use suitable echoes and movement tools to test safe routes over the changing hazards.",
+          "description_i18n": {
+            "en": "Use suitable echoes and movement tools to test safe routes over the changing hazards.",
+            "pt": "Use ecos e ferramentas de movimento adequados para testar rotas seguras sobre os perigos mutáveis."
+          }
+        },
+        {
+          "key": "obtain-bombs-of-might",
+          "title": "Obtain the Bombs of Might",
+          "title_i18n": {
+            "en": "Obtain the Bombs of Might",
+            "pt": "Obter as Bombs of Might"
+          },
+          "description": "Resolve the special opponent encounter and test the new Swordfighter weapon.",
+          "description_i18n": {
+            "en": "Resolve the special opponent encounter and test the new Swordfighter weapon.",
+            "pt": "Vença o confronto com o adversário especial e teste a nova arma de Swordfighter."
+          }
+        },
+        {
+          "key": "revisit-eldin-blocked-routes",
+          "title": "Revisit the blocked temple routes",
+          "title_i18n": {
+            "en": "Revisit the blocked temple routes",
+            "pt": "Revisitar as rotas bloqueadas do templo"
+          },
+          "description": "Use the expanded toolkit to open remaining passages and find the dungeon key route.",
+          "description_i18n": {
+            "en": "Use the expanded toolkit to open remaining passages and find the dungeon key route.",
+            "pt": "Use as novas ferramentas para abrir passagens e encontrar a rota da chave da masmorra."
+          }
+        },
+        {
+          "key": "reach-volvagia",
+          "title": "Reach Volvagia",
+          "title_i18n": {
+            "en": "Reach Volvagia",
+            "pt": "Alcançar Volvagia"
+          },
+          "description": "Complete the last mechanism rooms and prepare for the lava arena.",
+          "description_i18n": {
+            "en": "Complete the last mechanism rooms and prepare for the lava arena.",
+            "pt": "Conclua as últimas salas de mecanismos e prepare-se para a arena de lava."
+          }
+        },
+        {
+          "key": "claim-dins-sanction",
+          "title": "Defeat Volvagia and receive Din's Sanction",
+          "title_i18n": {
+            "en": "Defeat Volvagia and receive Din's Sanction",
+            "pt": "Derrotar Volvagia e receber Din's Sanction"
+          },
+          "description": "Finish the encounter, collect the reward and complete the regional resolution.",
+          "description_i18n": {
+            "en": "Finish the encounter, collect the reward and complete the regional resolution.",
+            "pt": "Vença o confronto, recolha a recompensa e conclua a resolução regional."
+          },
+          "details": "Dodge the fireballs and large green projectile instead of trying to volley them like Ganon's energy ball. When the head is reachable, target the green necklace orb with Bind and pull backward until it breaks away. This stuns Volvagia and gives your echoes or Swordfighter attacks a clear damage window. Reposition when the dragon changes lava holes; a slow ground echo may not reach the next position. Preserve a safe landing spot and do not chase a disappearing head across exposed lava.",
+          "details_i18n": {
+            "en": "Dodge the fireballs and large green projectile instead of trying to volley them like Ganon's energy ball. When the head is reachable, target the green necklace orb with Bind and pull backward until it breaks away. This stuns Volvagia and gives your echoes or Swordfighter attacks a clear damage window. Reposition when the dragon changes lava holes; a slow ground echo may not reach the next position. Preserve a safe landing spot and do not chase a disappearing head across exposed lava.",
+            "pt": "Evite as bolas de fogo e o grande projétil verde em vez de tentar devolvê-los como a esfera de Ganon. Quando a cabeça estiver alcançável, mire na esfera verde do colar com Bind e puxe para trás até arrancá-la. Isso atordoa Volvagia e abre espaço para ecos ou ataques de Swordfighter. Reposicione-se quando o dragão mudar de buraco na lava; um eco terrestre lento pode não alcançar a próxima posição. Preserve um local seguro e não persiga a cabeça que desaparece pela lava exposta."
+          }
+        }
+      ]
+    },
+    {
+      "key": "faron-wetlands-route",
+      "title": "A Rift in the Faron Wetlands",
+      "title_i18n": {
+        "en": "A Rift in the Faron Wetlands",
+        "pt": "A Rift in the Faron Wetlands"
+      },
+      "items": [
+        {
+          "key": "reach-faron-wetlands",
+          "title": "Reach the Faron Wetlands",
+          "title_i18n": {
+            "en": "Reach the Faron Wetlands",
+            "pt": "Chegar a Faron Wetlands"
+          },
+          "description": "Explore the jungle approach and learn tools for dark passages and local hazards.",
+          "description_i18n": {
+            "en": "Explore the jungle approach and learn tools for dark passages and local hazards.",
+            "pt": "Explore o acesso pela selva e aprenda ferramentas para passagens escuras e perigos locais."
+          }
+        },
+        {
+          "key": "visit-scrubton",
+          "title": "Visit Scrubton",
+          "title_i18n": {
+            "en": "Visit Scrubton",
+            "pt": "Visitar Scrubton"
+          },
+          "description": "Talk with the Deku Scrubs and follow the lead concerning their unusual food.",
+          "description_i18n": {
+            "en": "Talk with the Deku Scrubs and follow the lead concerning their unusual food.",
+            "pt": "Fale com os Deku Scrubs e siga a pista sobre a comida incomum."
+          }
+        },
+        {
+          "key": "follow-faron-main-request",
+          "title": "Follow the main Faron request",
+          "title_i18n": {
+            "en": "Follow the main Faron request",
+            "pt": "Seguir o pedido principal de Faron"
+          },
+          "description": "Complete the village conversations and continue through the changing local situation.",
+          "description_i18n": {
+            "en": "Complete the village conversations and continue through the changing local situation.",
+            "pt": "Conclua as conversas da vila e acompanhe a mudança da situação local."
+          }
+        },
+        {
+          "key": "escape-deku-lockup",
+          "title": "Escape the Deku Scrub Lockup",
+          "title_i18n": {
+            "en": "Escape the Deku Scrub Lockup",
+            "pt": "Escapar do Deku Scrub Lockup"
+          },
+          "description": "Inspect the available objects and recover access to your tools during the escape route.",
+          "description_i18n": {
+            "en": "Inspect the available objects and recover access to your tools during the escape route.",
+            "pt": "Examine os objetos disponíveis e recupere o acesso às ferramentas durante a fuga."
+          }
+        },
+        {
+          "key": "enter-stilled-faron",
+          "title": "Enter the Faron rift",
+          "title_i18n": {
+            "en": "Enter the Faron rift",
+            "pt": "Entrar na fenda de Faron"
+          },
+          "description": "Follow the main objective into the stilled wetlands and reach the temple approach.",
+          "description_i18n": {
+            "en": "Follow the main objective into the stilled wetlands and reach the temple approach.",
+            "pt": "Siga o objetivo principal até as áreas paralisadas e alcance o acesso ao templo."
+          }
+        }
+      ]
+    },
+    {
+      "key": "faron-temple",
+      "title": "Faron Temple",
+      "title_i18n": {
+        "en": "Faron Temple",
+        "pt": "Faron Temple"
+      },
+      "items": [
+        {
+          "key": "map-faron-entrances",
+          "title": "Map Faron Temple's entrances",
+          "title_i18n": {
+            "en": "Map Faron Temple's entrances",
+            "pt": "Mapear as entradas do Faron Temple"
+          },
+          "description": "Activate waypoints and note how outdoor entrances connect to different dungeon sections.",
+          "description_i18n": {
+            "en": "Activate waypoints and note how outdoor entrances connect to different dungeon sections.",
+            "pt": "Ative os pontos de transporte e observe como as entradas externas conectam seções diferentes."
+          }
+        },
+        {
+          "key": "light-dark-temple-rooms",
+          "title": "Light the dark temple rooms",
+          "title_i18n": {
+            "en": "Light the dark temple rooms",
+            "pt": "Iluminar as salas escuras do templo"
+          },
+          "description": "Use controlled light sources to read the layout before crossing spikes or pits.",
+          "description_i18n": {
+            "en": "Use controlled light sources to read the layout before crossing spikes or pits.",
+            "pt": "Use fontes de luz controladas para examinar o cenário antes de atravessar espinhos ou abismos."
+          }
+        },
+        {
+          "key": "activate-electric-switches",
+          "title": "Activate the electrical mechanisms",
+          "title_i18n": {
+            "en": "Activate the electrical mechanisms",
+            "pt": "Ativar os mecanismos elétricos"
+          },
+          "description": "Inspect the switch arrangement and choose an echo whose effect can reach the required targets.",
+          "description_i18n": {
+            "en": "Inspect the switch arrangement and choose an echo whose effect can reach the required targets.",
+            "pt": "Examine a disposição dos interruptores e escolha um eco capaz de alcançar os alvos exigidos."
+          },
+          "details": "The green crystals need electricity, and several rooms require all of them to remain active together. Inspect around movable rocks and boxes before deciding a crystal is missing. A Spark follows a wall, while Buzz Blobs and Electric Keese give other ways to reach awkward targets. In the room with two crystals above the water, a connecting Water Block and an electrical echo can carry the effect between them. Watch the activation timing and resummon near the next target instead of waiting across the room.",
+          "details_i18n": {
+            "en": "The green crystals need electricity, and several rooms require all of them to remain active together. Inspect around movable rocks and boxes before deciding a crystal is missing. A Spark follows a wall, while Buzz Blobs and Electric Keese give other ways to reach awkward targets. In the room with two crystals above the water, a connecting Water Block and an electrical echo can carry the effect between them. Watch the activation timing and resummon near the next target instead of waiting across the room.",
+            "pt": "Os cristais verdes exigem eletricidade, e várias salas precisam de todos ativos ao mesmo tempo. Examine pedras e caixas móveis antes de concluir que falta um cristal. Spark acompanha paredes, enquanto Buzz Blobs e Electric Keese alcançam outros alvos difíceis. Na sala com dois cristais sobre a água, um Water Block conectando os pontos e um eco elétrico podem transmitir o efeito entre eles. Observe o tempo de ativação e invoque perto do próximo alvo em vez de esperar do outro lado da sala."
+          }
+        },
+        {
+          "key": "resolve-plant-miniboss",
+          "title": "Resolve the plant mini-boss encounters",
+          "title_i18n": {
+            "en": "Resolve the plant mini-boss encounters",
+            "pt": "Vencer os confrontos com o minichefe vegetal"
+          },
+          "description": "Adapt your echoes to the changing enemy arrangement and finish each required encounter.",
+          "description_i18n": {
+            "en": "Adapt your echoes to the changing enemy arrangement and finish each required encounter.",
+            "pt": "Adapte os ecos às mudanças dos inimigos e conclua cada confronto exigido."
+          }
+        },
+        {
+          "key": "collect-faron-big-key",
+          "title": "Collect the Faron Big Key",
+          "title_i18n": {
+            "en": "Collect the Faron Big Key",
+            "pt": "Obter a Big Key de Faron"
+          },
+          "description": "Resolve the remaining room connections before returning to the boss route.",
+          "description_i18n": {
+            "en": "Resolve the remaining room connections before returning to the boss route.",
+            "pt": "Resolva as conexões restantes entre salas antes de voltar à rota do chefe."
+          }
+        },
+        {
+          "key": "claim-farores-sanction",
+          "title": "Defeat Gohma and receive Farore's Sanction",
+          "title_i18n": {
+            "en": "Defeat Gohma and receive Farore's Sanction",
+            "pt": "Derrotar Gohma e receber Farore's Sanction"
+          },
+          "description": "Observe the boss's weak-point signals and complete the regional resolution.",
+          "description_i18n": {
+            "en": "Observe the boss's weak-point signals and complete the regional resolution.",
+            "pt": "Observe os sinais dos pontos fracos e conclua a resolução regional."
+          },
+          "details": "Target the green crystals on Gohma's legs and send electrical echoes to activate them. All three activated crystals knock the boss down, exposing the eye to strong echo attacks or Swordfighter damage. Keep moving while the boss is on the wall and clear webs or small enemies when they block your route. Resummon an electric attacker near the intended leg if it keeps attacking something else. Continue watching the crystal state after the boss recovers; ordinary sword swings against guarded legs do not replace the electrical setup.",
+          "details_i18n": {
+            "en": "Target the green crystals on Gohma's legs and send electrical echoes to activate them. All three activated crystals knock the boss down, exposing the eye to strong echo attacks or Swordfighter damage. Keep moving while the boss is on the wall and clear webs or small enemies when they block your route. Resummon an electric attacker near the intended leg if it keeps attacking something else. Continue watching the crystal state after the boss recovers; ordinary sword swings against guarded legs do not replace the electrical setup.",
+            "pt": "Mire nos cristais verdes das pernas de Gohma e envie ecos elétricos para ativá-los. Os três cristais ativos derrubam a chefe e expõem o olho a ecos fortes ou golpes de Swordfighter. Movimente-se enquanto ela estiver na parede e remova teias ou inimigos pequenos que bloqueiem sua rota. Invoque um atacante elétrico perto da perna desejada se ele insistir em outro alvo. Confira os cristais após a recuperação da chefe; golpes comuns nas pernas protegidas não substituem a preparação elétrica."
+          }
+        }
+      ]
+    },
+    {
+      "key": "hebra-and-mount-lanayru",
+      "title": "Hebra Mountain and Holy Mount Lanayru",
+      "title_i18n": {
+        "en": "Hebra Mountain and Holy Mount Lanayru",
+        "pt": "Hebra Mountain e Holy Mount Lanayru"
+      },
+      "items": [
+        {
+          "key": "reach-hebra-mountain",
+          "title": "Reach Hebra Mountain",
+          "title_i18n": {
+            "en": "Reach Hebra Mountain",
+            "pt": "Chegar a Hebra Mountain"
+          },
+          "description": "Prepare warming supplies and climb the snowy approach without rushing across poor footing.",
+          "description_i18n": {
+            "en": "Prepare warming supplies and climb the snowy approach without rushing across poor footing.",
+            "pt": "Prepare recursos contra o frio e suba pela neve sem correr sobre pisos instáveis."
+          }
+        },
+        {
+          "key": "meet-conde",
+          "title": "Meet Condé",
+          "title_i18n": {
+            "en": "Meet Condé",
+            "pt": "Encontrar Condé"
+          },
+          "description": "Visit his house and follow the request that leads farther up the mountain.",
+          "description_i18n": {
+            "en": "Visit his house and follow the request that leads farther up the mountain.",
+            "pt": "Visite a casa dele e siga o pedido que leva às partes altas da montanha."
+          }
+        },
+        {
+          "key": "repair-mountain-cave-rift",
+          "title": "Repair the mountain cave rift",
+          "title_i18n": {
+            "en": "Repair the mountain cave rift",
+            "pt": "Reparar a fenda da caverna na montanha"
+          },
+          "description": "Find the trapped friend clusters and finish the repair before resuming the ascent.",
+          "description_i18n": {
+            "en": "Find the trapped friend clusters and finish the repair before resuming the ascent.",
+            "pt": "Encontre os grupos de amigos presos e conclua o reparo antes de continuar a subida."
+          }
+        },
+        {
+          "key": "climb-holy-mount-lanayru",
+          "title": "Climb Holy Mount Lanayru",
+          "title_i18n": {
+            "en": "Climb Holy Mount Lanayru",
+            "pt": "Subir Holy Mount Lanayru"
+          },
+          "description": "Navigate the snowball routes and ice caves while learning useful local echoes.",
+          "description_i18n": {
+            "en": "Navigate the snowball routes and ice caves while learning useful local echoes.",
+            "pt": "Atravesse as rotas de bolas de neve e as cavernas de gelo aprendendo ecos locais úteis."
+          }
+        },
+        {
+          "key": "enter-stilled-lanayru",
+          "title": "Enter the stilled mountain route",
+          "title_i18n": {
+            "en": "Enter the stilled mountain route",
+            "pt": "Entrar na rota paralisada da montanha"
+          },
+          "description": "Follow Tri through the summit rift and reach Lanayru Temple.",
+          "description_i18n": {
+            "en": "Follow Tri through the summit rift and reach Lanayru Temple.",
+            "pt": "Siga Tri pela fenda do cume e alcance o Lanayru Temple."
+          }
+        }
+      ]
+    },
+    {
+      "key": "lanayru-temple",
+      "title": "Lanayru Temple",
+      "title_i18n": {
+        "en": "Lanayru Temple",
+        "pt": "Lanayru Temple"
+      },
+      "items": [
+        {
+          "key": "enter-lanayru-temple",
+          "title": "Enter Lanayru Temple",
+          "title_i18n": {
+            "en": "Enter Lanayru Temple",
+            "pt": "Entrar no Lanayru Temple"
+          },
+          "description": "Activate the waypoint and inspect how temperature affects the first rooms.",
+          "description_i18n": {
+            "en": "Activate the waypoint and inspect how temperature affects the first rooms.",
+            "pt": "Ative o ponto de transporte e examine como a temperatura afeta as primeiras salas."
+          }
+        },
+        {
+          "key": "control-temperature-routes",
+          "title": "Control the temperature routes",
+          "title_i18n": {
+            "en": "Control the temperature routes",
+            "pt": "Controlar as rotas de temperatura"
+          },
+          "description": "Investigate the airflow devices and revisit rooms when heating or cooling changes their layout.",
+          "description_i18n": {
+            "en": "Investigate the airflow devices and revisit rooms when heating or cooling changes their layout.",
+            "pt": "Investigue os dispositivos de ar e revisite salas quando o calor ou o frio mudar o cenário."
+          },
+          "details": "The movable orb determines the connected device's element. Fire and cold sources can change that orb before you place it in its socket, so inspect the airflow along the transport route. Use solid echoes to block an unwanted vent and carry the orb with Bind through a safe line. A frozen room can make water walkable and change how switches are reached. For paired pressure switches, both must activate at the same moment: send an Armos toward one and step on the other as it lands, or time a sliding Ice Block.",
+          "details_i18n": {
+            "en": "The movable orb determines the connected device's element. Fire and cold sources can change that orb before you place it in its socket, so inspect the airflow along the transport route. Use solid echoes to block an unwanted vent and carry the orb with Bind through a safe line. A frozen room can make water walkable and change how switches are reached. For paired pressure switches, both must activate at the same moment: send an Armos toward one and step on the other as it lands, or time a sliding Ice Block.",
+            "pt": "A esfera móvel determina o elemento do dispositivo conectado. Fontes de fogo e frio podem alterá-la antes da colocação no encaixe; examine as correntes de ar no percurso. Use ecos sólidos para bloquear uma saída indesejada e carregue a esfera com Bind por uma linha segura. Congelar uma sala permite caminhar sobre a água e muda o acesso aos interruptores. Nos interruptores duplos, os dois precisam ser ativados juntos: envie um Armos a um e pise no outro quando ele chegar, ou sincronize um Ice Block deslizando."
+          }
+        },
+        {
+          "key": "solve-lanayru-switch-timing",
+          "title": "Resolve the paired-switch timing",
+          "title_i18n": {
+            "en": "Resolve the paired-switch timing",
+            "pt": "Resolver o tempo dos interruptores duplos"
+          },
+          "description": "Inspect the separated switches and choose a way to activate them together.",
+          "description_i18n": {
+            "en": "Inspect the separated switches and choose a way to activate them together.",
+            "pt": "Examine os interruptores separados e encontre uma forma de ativá-los juntos."
+          }
+        },
+        {
+          "key": "complete-lanayru-miniboss",
+          "title": "Complete the temple's special encounters",
+          "title_i18n": {
+            "en": "Complete the temple's special encounters",
+            "pt": "Concluir os confrontos especiais do templo"
+          },
+          "description": "Use elemental tools deliberately and learn any new echo before leaving its room.",
+          "description_i18n": {
+            "en": "Use elemental tools deliberately and learn any new echo before leaving its room.",
+            "pt": "Use ferramentas elementais com cuidado e aprenda os novos ecos antes de sair da sala."
+          }
+        },
+        {
+          "key": "collect-lanayru-big-key",
+          "title": "Collect the Lanayru Big Key",
+          "title_i18n": {
+            "en": "Collect the Lanayru Big Key",
+            "pt": "Obter a Big Key de Lanayru"
+          },
+          "description": "Finish the remaining temperature puzzle and prepare equipment for the boss chamber.",
+          "description_i18n": {
+            "en": "Finish the remaining temperature puzzle and prepare equipment for the boss chamber.",
+            "pt": "Conclua o desafio de temperatura restante e prepare o equipamento para o chefe."
+          }
+        },
+        {
+          "key": "claim-nayrus-sanction",
+          "title": "Defeat Skorchill and receive Nayru's Sanction",
+          "title_i18n": {
+            "en": "Defeat Skorchill and receive Nayru's Sanction",
+            "pt": "Derrotar Skorchill e receber Nayru's Sanction"
+          },
+          "description": "Adapt to the changing elemental phases and finish the regional resolution.",
+          "description_i18n": {
+            "en": "Adapt to the changing elemental phases and finish the regional resolution.",
+            "pt": "Adapte-se às fases elementais e conclua a resolução regional."
+          },
+          "details": "Choose the opposite element to the helmet: fire echoes break ice horns, while ice echoes break fire horns. Once the armor is removed, use a strong attacker or Swordfighter Form against the body, but remain ready to dodge because vulnerability does not make every movement harmless. In the last phase, read the current horn color instead of repeating the previous summon automatically. Fire Keese and Ice Keese provide alternatives to Wizzrobes, so a missing particular high-cost echo does not permanently block the fight.",
+          "details_i18n": {
+            "en": "Choose the opposite element to the helmet: fire echoes break ice horns, while ice echoes break fire horns. Once the armor is removed, use a strong attacker or Swordfighter Form against the body, but remain ready to dodge because vulnerability does not make every movement harmless. In the last phase, read the current horn color instead of repeating the previous summon automatically. Fire Keese and Ice Keese provide alternatives to Wizzrobes, so a missing particular high-cost echo does not permanently block the fight.",
+            "pt": "Escolha o elemento oposto ao capacete: ecos de fogo quebram chifres de gelo, enquanto ecos de gelo quebram chifres de fogo. Quando a proteção cair, use um atacante forte ou Swordfighter Form no corpo, mas prepare a esquiva, pois a vulnerabilidade não torna todo movimento inofensivo. Na última fase, observe a cor atual dos chifres em vez de repetir a invocação anterior automaticamente. Fire Keese e Ice Keese são alternativas aos Wizzrobes; a ausência de um eco caro específico não bloqueia a luta permanentemente."
+          }
+        }
+      ]
+    },
+    {
+      "key": "eternal-forest-and-prime-energy",
+      "title": "The Eternal Forest and Prime Energy",
+      "title_i18n": {
+        "en": "The Eternal Forest and Prime Energy",
+        "pt": "Eternal Forest e Prime Energy"
+      },
+      "items": [
+        {
+          "key": "return-with-three-sanctions",
+          "title": "Return with all three Sanctions",
+          "title_i18n": {
+            "en": "Return with all three Sanctions",
+            "pt": "Voltar com as três Sanctions"
+          },
+          "description": "Complete Eldin, Faron and Lanayru, then report at Hyrule Castle to advance the main quest.",
+          "description_i18n": {
+            "en": "Complete Eldin, Faron and Lanayru, then report at Hyrule Castle to advance the main quest.",
+            "pt": "Conclua Eldin, Faron e Lanayru e informe o progresso no Hyrule Castle para avançar a missão principal."
+          }
+        },
+        {
+          "key": "enter-eternal-forest",
+          "title": "Enter the Eternal Forest",
+          "title_i18n": {
+            "en": "Enter the Eternal Forest",
+            "pt": "Entrar em Eternal Forest"
+          },
+          "description": "Follow The Prime Energy and Null objective into the forest rather than expecting its secret to open early.",
+          "description_i18n": {
+            "en": "Follow The Prime Energy and Null objective into the forest rather than expecting its secret to open early.",
+            "pt": "Siga o objetivo The Prime Energy and Null pela floresta; seu segredo não fica disponível antecipadamente."
+          }
+        },
+        {
+          "key": "learn-ancient-orb",
+          "title": "Investigate the ancient mechanism",
+          "title_i18n": {
+            "en": "Investigate the ancient mechanism",
+            "pt": "Investigar o mecanismo antigo"
+          },
+          "description": "Read the forest clues and learn the special object offered by the mechanism.",
+          "description_i18n": {
+            "en": "Read the forest clues and learn the special object offered by the mechanism.",
+            "pt": "Leia as pistas da floresta e aprenda o objeto especial oferecido pelo mecanismo."
+          }
+        },
+        {
+          "key": "activate-six-forest-pedestals",
+          "title": "Activate the six forest pedestals",
+          "title_i18n": {
+            "en": "Activate the six forest pedestals",
+            "pt": "Ativar os seis pedestais da floresta"
+          },
+          "description": "Explore the area systematically and keep track of the pedestals you have already resolved.",
+          "description_i18n": {
+            "en": "Explore the area systematically and keep track of the pedestals you have already resolved.",
+            "pt": "Explore a área com método e acompanhe quais pedestais já resolveu."
+          },
+          "details": "Read the monument during The Prime Energy and Null and learn the Ancient Orb echo that appears. Use the real orb for the nearby pedestal, then place orb echoes on the remaining pedestals. Their layout follows the triangular pattern shown on the monument, so map each completed position rather than wandering randomly through the fog. One pedestal is obstructed by a Deku Baba that can be pulled away with Bind. Keep the placed orbs active while finishing the set, then return and inspect the monument again.",
+          "details_i18n": {
+            "en": "Read the monument during The Prime Energy and Null and learn the Ancient Orb echo that appears. Use the real orb for the nearby pedestal, then place orb echoes on the remaining pedestals. Their layout follows the triangular pattern shown on the monument, so map each completed position rather than wandering randomly through the fog. One pedestal is obstructed by a Deku Baba that can be pulled away with Bind. Keep the placed orbs active while finishing the set, then return and inspect the monument again.",
+            "pt": "Leia o monumento durante The Prime Energy and Null e aprenda o eco Ancient Orb que aparece. Use a esfera real no pedestal próximo e coloque ecos nos restantes. A disposição segue o padrão triangular mostrado no monumento; marque cada posição concluída em vez de vagar pelo nevoeiro. Um pedestal está bloqueado por uma Deku Baba que pode ser removida com Bind. Mantenha as esferas colocadas ativas enquanto termina o conjunto e volte para examinar o monumento novamente."
+          }
+        },
+        {
+          "key": "cross-stilled-ancient-ruins",
+          "title": "Cross the Stilled Ancient Ruins",
+          "title_i18n": {
+            "en": "Cross the Stilled Ancient Ruins",
+            "pt": "Atravessar Stilled Ancient Ruins"
+          },
+          "description": "Navigate the changing regional terrain and continue toward the final confrontation in the rift.",
+          "description_i18n": {
+            "en": "Navigate the changing regional terrain and continue toward the final confrontation in the rift.",
+            "pt": "Atravesse os terrenos regionais variados e avance até o confronto final da fenda."
+          }
+        },
+        {
+          "key": "resolve-final-echo-encounter",
+          "title": "Resolve the final echo encounter",
+          "title_i18n": {
+            "en": "Resolve the final echo encounter",
+            "pt": "Vencer o confronto final com o eco"
+          },
+          "description": "Use your collected tools to finish the encounter and follow the rescue sequence.",
+          "description_i18n": {
+            "en": "Use your collected tools to finish the encounter and follow the rescue sequence.",
+            "pt": "Use as ferramentas reunidas para vencer o confronto e acompanhe a sequência de resgate."
+          }
+        },
+        {
+          "key": "prepare-for-nulls-body",
+          "title": "Prepare for Null's Body",
+          "title_i18n": {
+            "en": "Prepare for Null's Body",
+            "pt": "Preparar-se para Null's Body"
+          },
+          "description": "Finish the story conversation, review your remaining tools and enter when ready.",
+          "description_i18n": {
+            "en": "Finish the story conversation, review your remaining tools and enter when ready.",
+            "pt": "Conclua a conversa, revise as ferramentas restantes e entre quando estiver pronto."
+          }
+        }
+      ]
+    },
+    {
+      "key": "nulls-body-and-ending",
+      "title": "Null’s Body and ending",
+      "title_i18n": {
+        "en": "Null’s Body and ending",
+        "pt": "Null’s Body e encerramento"
+      },
+      "items": [
+        {
+          "key": "enter-nulls-body",
+          "title": "Enter Null's Body",
+          "title_i18n": {
+            "en": "Enter Null's Body",
+            "pt": "Entrar em Null's Body"
+          },
+          "description": "Follow the final route with your ally and inspect the first shared obstacles.",
+          "description_i18n": {
+            "en": "Follow the final route with your ally and inspect the first shared obstacles.",
+            "pt": "Siga a rota final com seu aliado e examine os primeiros obstáculos compartilhados."
+          }
+        },
+        {
+          "key": "complete-separated-paths",
+          "title": "Complete the separated paths",
+          "title_i18n": {
+            "en": "Complete the separated paths",
+            "pt": "Concluir os caminhos separados"
+          },
+          "description": "Solve Zelda's side of the rooms and use echoes to help across barriers when needed.",
+          "description_i18n": {
+            "en": "Solve Zelda's side of the rooms and use echoes to help across barriers when needed.",
+            "pt": "Resolva o lado de Zelda nas salas e use ecos para ajudar através das barreiras quando necessário."
+          }
+        },
+        {
+          "key": "cross-final-traversal",
+          "title": "Cross the final traversal rooms",
+          "title_i18n": {
+            "en": "Cross the final traversal rooms",
+            "pt": "Atravessar as últimas salas de travessia"
+          },
+          "description": "Combine echoes and Tri's movement tools through the final side-view section.",
+          "description_i18n": {
+            "en": "Combine echoes and Tri's movement tools through the final side-view section.",
+            "pt": "Combine ecos e habilidades de Tri na última seção de visão lateral."
+          }
+        },
+        {
+          "key": "face-nulls-first-phase",
+          "title": "Face Null's opening phase",
+          "title_i18n": {
+            "en": "Face Null's opening phase",
+            "pt": "Enfrentar a primeira fase de Null"
+          },
+          "description": "Read the arm attacks and coordinate support for your ally rather than treating this as a sword duel.",
+          "description_i18n": {
+            "en": "Read the arm attacks and coordinate support for your ally rather than treating this as a sword duel.",
+            "pt": "Observe os ataques dos braços e apoie o aliado em vez de tratar a luta como um duelo de espadas."
+          }
+        },
+        {
+          "key": "finish-nulls-changing-phases",
+          "title": "Finish Null's changing phases",
+          "title_i18n": {
+            "en": "Finish Null's changing phases",
+            "pt": "Concluir as fases variáveis de Null"
+          },
+          "description": "Adapt your summons to the shifting arena and continue until the final cooperative prompt.",
+          "description_i18n": {
+            "en": "Adapt your summons to the shifting arena and continue until the final cooperative prompt.",
+            "pt": "Adapte as invocações às mudanças na arena e continue até o comando cooperativo final."
+          },
+          "details": "Before this dungeon, Zelda returns the Swordfighter equipment to Link; the final route is built around echoes and Tri rather than restoring that form. During the boss, Bind an extended arm and pull it away from the wall to expose it for Link or a combat echo. Keep moving clear of slams while maintaining support. In the underwater phase, use aquatic attackers against the trailing growths and follow the target through the tunnels. Adapt your summons again when the arena returns, and complete the final shared pulling prompt.",
+          "details_i18n": {
+            "en": "Before this dungeon, Zelda returns the Swordfighter equipment to Link; the final route is built around echoes and Tri rather than restoring that form. During the boss, Bind an extended arm and pull it away from the wall to expose it for Link or a combat echo. Keep moving clear of slams while maintaining support. In the underwater phase, use aquatic attackers against the trailing growths and follow the target through the tunnels. Adapt your summons again when the arena returns, and complete the final shared pulling prompt.",
+            "pt": "Antes desta masmorra, Zelda devolve o equipamento de Swordfighter a Link; a rota final usa ecos e Tri em vez de recuperar essa forma. Contra o chefe, use Bind em um braço estendido e puxe-o da parede para expô-lo a Link ou a um eco de combate. Evite as pancadas enquanto mantém o apoio. Na fase subaquática, use atacantes aquáticos contra as extensões traseiras e siga o alvo pelos túneis. Adapte as invocações novamente quando a arena voltar e conclua o comando final de puxar em conjunto."
+          }
+        },
+        {
+          "key": "complete-echoes-ending",
+          "title": "Complete the ending",
+          "title_i18n": {
+            "en": "Complete the ending",
+            "pt": "Concluir o encerramento"
+          },
+          "description": "Follow the final interaction and watch the closing scenes and credits.",
+          "description_i18n": {
+            "en": "Follow the final interaction and watch the closing scenes and credits.",
+            "pt": "Siga a interação final e acompanhe as cenas de encerramento e os créditos."
+          }
+        }
+      ]
+    },
+    {
+      "key": "selected-named-side-quests",
+      "title": "Selected named Side Quests",
+      "title_i18n": {
+        "en": "Selected named Side Quests",
+        "pt": "Seleção de Side Quests"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "finish-finding-flying-plant",
+          "title": "Complete Finding the Flying Plant",
+          "title_i18n": {
+            "en": "Complete Finding the Flying Plant",
+            "pt": "Concluir Finding the Flying Plant"
+          },
+          "description": "Revisit Suthorn Village after its rift is repaired and demonstrate an echo matching the resident's request.",
+          "description_i18n": {
+            "en": "Revisit Suthorn Village after its rift is repaired and demonstrate an echo matching the resident's request.",
+            "pt": "Revisite Suthorn Village após reparar sua fenda e mostre um eco que corresponda ao pedido do morador."
+          }
+        },
+        {
+          "key": "finish-elusive-tumbleweeds",
+          "title": "Complete Elusive Tumbleweeds",
+          "title_i18n": {
+            "en": "Complete Elusive Tumbleweeds",
+            "pt": "Concluir Elusive Tumbleweeds"
+          },
+          "description": "Speak with the Gerudo Town requester and bring the requested object back intact.",
+          "description_i18n": {
+            "en": "Speak with the Gerudo Town requester and bring the requested object back intact.",
+            "pt": "Fale com a solicitante em Gerudo Town e leve o objeto pedido de volta intacto."
+          }
+        },
+        {
+          "key": "finish-flying-tile",
+          "title": "Complete The Flying Tile",
+          "title_i18n": {
+            "en": "Complete The Flying Tile",
+            "pt": "Concluir The Flying Tile"
+          },
+          "description": "Accept the request at the oasis, learn the relevant echo and demonstrate it to the requester.",
+          "description_i18n": {
+            "en": "Accept the request at the oasis, learn the relevant echo and demonstrate it to the requester.",
+            "pt": "Aceite o pedido no oásis, aprenda o eco correspondente e mostre-o à solicitante."
+          }
+        },
+        {
+          "key": "finish-cuccos-loose",
+          "title": "Complete Cuccos on the Loose",
+          "title_i18n": {
+            "en": "Complete Cuccos on the Loose",
+            "pt": "Concluir Cuccos on the Loose"
+          },
+          "description": "Help gather the missing Cuccos in Kakariko and return for the reward.",
+          "description_i18n": {
+            "en": "Help gather the missing Cuccos in Kakariko and return for the reward.",
+            "pt": "Ajude a reunir os Cuccos desaparecidos em Kakariko e volte para receber a recompensa."
+          }
+        },
+        {
+          "key": "finish-runaway-horse",
+          "title": "Complete Runaway Horse",
+          "title_i18n": {
+            "en": "Complete Runaway Horse",
+            "pt": "Concluir Runaway Horse"
+          },
+          "description": "Accept the ranch request, locate the missing horse and return it to its owner.",
+          "description_i18n": {
+            "en": "Accept the ranch request, locate the missing horse and return it to its owner.",
+            "pt": "Aceite o pedido do rancho, localize o cavalo desaparecido e devolva-o ao dono."
+          }
+        },
+        {
+          "key": "finish-impas-gift",
+          "title": "Complete Impa's Gift",
+          "title_i18n": {
+            "en": "Complete Impa's Gift",
+            "pt": "Concluir Impa's Gift"
+          },
+          "description": "After Still Missing, follow Impa's horse request at the ranch and resolve the new obstacle.",
+          "description_i18n": {
+            "en": "After Still Missing, follow Impa's horse request at the ranch and resolve the new obstacle.",
+            "pt": "Após Still Missing, siga o pedido de Impa sobre a égua no rancho e resolva o novo obstáculo."
+          }
+        },
+        {
+          "key": "finish-recipes-please",
+          "title": "Complete Recipes, Please!",
+          "title_i18n": {
+            "en": "Complete Recipes, Please!",
+            "pt": "Concluir Recipes, Please!"
+          },
+          "description": "Mix distinct recipes at Smoothie Shops and report each requested recipe milestone.",
+          "description_i18n": {
+            "en": "Mix distinct recipes at Smoothie Shops and report each requested recipe milestone.",
+            "pt": "Prepare receitas diferentes nas Smoothie Shops e informe cada marco solicitado."
+          }
+        },
+        {
+          "key": "finish-zora-childs-fate",
+          "title": "Complete The Zora Child's Fate",
+          "title_i18n": {
+            "en": "Complete The Zora Child's Fate",
+            "pt": "Concluir The Zora Child's Fate"
+          },
+          "description": "After restoring Jabul, visit the River Zora family and demonstrate the requested creatures in sequence.",
+          "description_i18n": {
+            "en": "After restoring Jabul, visit the River Zora family and demonstrate the requested creatures in sequence.",
+            "pt": "Após restaurar Jabul, visite a família River Zora e mostre as criaturas pedidas na sequência."
+          }
+        },
+        {
+          "key": "finish-zappy-shipwreck",
+          "title": "Complete The Zappy Shipwreck",
+          "title_i18n": {
+            "en": "Complete The Zappy Shipwreck",
+            "pt": "Concluir The Zappy Shipwreck"
+          },
+          "description": "During Lands of the Goddesses, investigate the sailor's wreck near Seesyde and report the completed encounter.",
+          "description_i18n": {
+            "en": "During Lands of the Goddesses, investigate the sailor's wreck near Seesyde and report the completed encounter.",
+            "pt": "Durante Lands of the Goddesses, investigue o naufrágio do marinheiro perto de Seesyde e informe a conclusão do confronto."
+          }
+        },
+        {
+          "key": "finish-great-fairys-request",
+          "title": "Complete The Great Fairy's Request",
+          "title_i18n": {
+            "en": "Complete The Great Fairy's Request",
+            "pt": "Concluir The Great Fairy's Request"
+          },
+          "description": "Revisit the Great Fairy after expanding accessory capacity and follow her special crafting request.",
+          "description_i18n": {
+            "en": "Revisit the Great Fairy after expanding accessory capacity and follow her special crafting request.",
+            "pt": "Revisite a Great Fairy após ampliar a capacidade de acessórios e siga seu pedido especial de fabricação."
+          }
+        }
+      ]
+    },
+    {
+      "key": "optional-dampe-automatons",
+      "title": "Optional: Dampé’s six automatons",
+      "title_i18n": {
+        "en": "Optional: Dampé’s six automatons",
+        "pt": "Opcional: os seis autômatos de Dampé"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "finish-automaton-engineer-dampe",
+          "title": "Complete Automaton Engineer Dampé",
+          "title_i18n": {
+            "en": "Complete Automaton Engineer Dampé",
+            "pt": "Concluir Automaton Engineer Dampé"
+          },
+          "description": "After Still Missing, help Dampé in Hyrule Field and visit his studio to begin mechanical construction.",
+          "description_i18n": {
+            "en": "After Still Missing, help Dampé in Hyrule Field and visit his studio to begin mechanical construction.",
+            "pt": "Após Still Missing, ajude Dampé em Hyrule Field e visite seu estúdio para iniciar a construção mecânica."
+          },
+          "details": "After Still Missing, help Dampé with the crow north of Hyrule Ranch and visit the marked studio. Demonstrate Tektite and Mothula echoes for the first project, then read his notebook for follow-up requests. Later projects need earned physical parts as well as echoes: the Prismatic Music Box comes from the ranch's middle Flag Race, the Steel Trap from western Hyrule Field's Acorn Gathering, and the Golden Fan from Mango Rush. Automatons use their winding key and can need repairs; they are a separate optional tool, not entries that replace learned echoes.",
+          "details_i18n": {
+            "en": "After Still Missing, help Dampé with the crow north of Hyrule Ranch and visit the marked studio. Demonstrate Tektite and Mothula echoes for the first project, then read his notebook for follow-up requests. Later projects need earned physical parts as well as echoes: the Prismatic Music Box comes from the ranch's middle Flag Race, the Steel Trap from western Hyrule Field's Acorn Gathering, and the Golden Fan from Mango Rush. Automatons use their winding key and can need repairs; they are a separate optional tool, not entries that replace learned echoes.",
+            "pt": "Após Still Missing, ajude Dampé com o corvo ao norte de Hyrule Ranch e visite o estúdio marcado. Mostre ecos Tektite e Mothula no primeiro projeto e leia o caderno para receber novos pedidos. Projetos posteriores exigem peças físicas recebidas como prêmio além de ecos: Prismatic Music Box vem da Flag Race intermediária, Steel Trap do Acorn Gathering no oeste de Hyrule Field e Golden Fan de Mango Rush. Autômatos usam uma chave de corda e podem precisar de reparos; são ferramentas opcionais separadas, não substitutos dos ecos aprendidos."
+          }
+        },
+        {
+          "key": "finish-explosions-galore",
+          "title": "Complete Explosions Galore!",
+          "title_i18n": {
+            "en": "Complete Explosions Galore!",
+            "pt": "Concluir Explosions Galore!"
+          },
+          "description": "Read the studio journal and seek the effects needed for the next automaton.",
+          "description_i18n": {
+            "en": "Read the studio journal and seek the effects needed for the next automaton.",
+            "pt": "Leia o diário do estúdio e procure os efeitos necessários ao próximo autômato."
+          }
+        },
+        {
+          "key": "finish-performance-artist",
+          "title": "Complete Performance Artist!",
+          "title_i18n": {
+            "en": "Complete Performance Artist!",
+            "pt": "Concluir Performance Artist!"
+          },
+          "description": "Follow the musical construction request and investigate minigame rewards for the special component.",
+          "description_i18n": {
+            "en": "Follow the musical construction request and investigate minigame rewards for the special component.",
+            "pt": "Siga o pedido de construção musical e investigue as recompensas de minijogos para obter a peça especial."
+          }
+        },
+        {
+          "key": "finish-endless-stomach",
+          "title": "Complete Endless Stomach!",
+          "title_i18n": {
+            "en": "Complete Endless Stomach!",
+            "pt": "Concluir Endless Stomach!"
+          },
+          "description": "Compare the requested creature and mechanical part, then return both leads to Dampé.",
+          "description_i18n": {
+            "en": "Compare the requested creature and mechanical part, then return both leads to Dampé.",
+            "pt": "Compare a criatura e a peça mecânica pedidas e leve as duas descobertas a Dampé."
+          }
+        },
+        {
+          "key": "finish-chop-em-two",
+          "title": "Complete Chop 'em in Two!",
+          "title_i18n": {
+            "en": "Complete Chop 'em in Two!",
+            "pt": "Concluir Chop 'em in Two!"
+          },
+          "description": "Prepare the requested combat reference and earned component for the cutting automaton.",
+          "description_i18n": {
+            "en": "Prepare the requested combat reference and earned component for the cutting automaton.",
+            "pt": "Prepare a referência de combate e a peça recebida como prêmio para o autômato cortador."
+          }
+        },
+        {
+          "key": "finish-get-rich-quick",
+          "title": "Complete Get Rich Quick!",
+          "title_i18n": {
+            "en": "Complete Get Rich Quick!",
+            "pt": "Concluir Get Rich Quick!"
+          },
+          "description": "Finish the prior studio projects and supply the last references for the final automaton.",
+          "description_i18n": {
+            "en": "Finish the prior studio projects and supply the last references for the final automaton.",
+            "pt": "Conclua os projetos anteriores do estúdio e forneça as últimas referências para o autômato final."
+          }
+        }
+      ]
+    },
+    {
+      "key": "optional-training-and-minigames",
+      "title": "Optional training and minigames",
+      "title_i18n": {
+        "en": "Optional training and minigames",
+        "pt": "Treinamentos e minijogos opcionais"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "train-slumber-dojo",
+          "title": "Train at the Slumber Dojo",
+          "title_i18n": {
+            "en": "Train at the Slumber Dojo",
+            "pt": "Treinar no Slumber Dojo"
+          },
+          "description": "Visit Kakariko's dojo and learn the rules of each unlocked dream challenge before chasing fast times.",
+          "description_i18n": {
+            "en": "Visit Kakariko's dojo and learn the rules of each unlocked dream challenge before chasing fast times.",
+            "pt": "Visite o dojo de Kakariko e aprenda as regras de cada desafio de sonho antes de buscar bons tempos."
+          }
+        },
+        {
+          "key": "play-mango-rush",
+          "title": "Play Mango Rush",
+          "title_i18n": {
+            "en": "Play Mango Rush",
+            "pt": "Jogar Mango Rush"
+          },
+          "description": "Visit the oasis laboratory and improve harvest results across the available seed courses.",
+          "description_i18n": {
+            "en": "Visit the oasis laboratory and improve harvest results across the available seed courses.",
+            "pt": "Visite o laboratório do oásis e melhore a colheita nos percursos de sementes disponíveis."
+          }
+        },
+        {
+          "key": "complete-acorn-gathering",
+          "title": "Try Acorn Gathering challenges",
+          "title_i18n": {
+            "en": "Try Acorn Gathering challenges",
+            "pt": "Tentar os desafios de Acorn Gathering"
+          },
+          "description": "Read each course's time limit and plan a route before collecting its acorns.",
+          "description_i18n": {
+            "en": "Read each course's time limit and plan a route before collecting its acorns.",
+            "pt": "Leia o limite de tempo e planeje a rota antes de recolher as bolotas de cada percurso."
+          }
+        },
+        {
+          "key": "complete-horse-flag-races",
+          "title": "Try the ranch Flag Races",
+          "title_i18n": {
+            "en": "Try the ranch Flag Races",
+            "pt": "Tentar as Flag Races do rancho"
+          },
+          "description": "Return with Zelda's own horse after Impa's Gift and improve results on the available courses.",
+          "description_i18n": {
+            "en": "Return with Zelda's own horse after Impa's Gift and improve results on the available courses.",
+            "pt": "Volte com a égua de Zelda após Impa's Gift e melhore os resultados nos percursos disponíveis."
+          }
+        },
+        {
+          "key": "expand-accessory-slots",
+          "title": "Expand accessory capacity",
+          "title_i18n": {
+            "en": "Expand accessory capacity",
+            "pt": "Ampliar a capacidade de acessórios"
+          },
+          "description": "Visit the Great Fairy Shrine with rupees and choose useful accessory combinations for the next region.",
+          "description_i18n": {
+            "en": "Visit the Great Fairy Shrine with rupees and choose useful accessory combinations for the next region.",
+            "pt": "Visite o Great Fairy Shrine com rupias e escolha combinações úteis para a próxima região."
+          }
+        }
+      ]
+    },
+    {
+      "key": "aggregate-echoes-and-collectibles",
+      "title": "Aggregate echoes and collectible goals",
+      "title_i18n": {
+        "en": "Aggregate echoes and collectible goals",
+        "pt": "Metas agregadas de ecos e colecionáveis"
+      },
+      "kind": "collectible",
+      "items": [
+        {
+          "key": "learn-all-127-echoes",
+          "title": "Learn all 127 echoes",
+          "title_i18n": {
+            "en": "Learn all 127 echoes",
+            "pt": "Aprender os 127 ecos"
+          },
+          "description": "Audit object and monster entries across regions; this aggregate goal does not enumerate every echo location.",
+          "description_i18n": {
+            "en": "Audit object and monster entries across regions; this aggregate goal does not enumerate every echo location.",
+            "pt": "Confira os ecos de objetos e monstros pelas regiões; esta meta agregada não enumera todas as localizações."
+          }
+        },
+        {
+          "key": "collect-40-heart-pieces",
+          "title": "Collect all 40 Pieces of Heart",
+          "title_i18n": {
+            "en": "Collect all 40 Pieces of Heart",
+            "pt": "Coletar os 40 Pieces of Heart"
+          },
+          "description": "Use a regional exploration and minigame audit for the forty heart pieces.",
+          "description_i18n": {
+            "en": "Use a regional exploration and minigame audit for the forty heart pieces.",
+            "pt": "Faça uma conferência por região e minijogo para os quarenta pedaços de coração."
+          }
+        },
+        {
+          "key": "collect-150-might-crystals",
+          "title": "Collect all 150 Might Crystals",
+          "title_i18n": {
+            "en": "Collect all 150 Might Crystals",
+            "pt": "Coletar os 150 Might Crystals"
+          },
+          "description": "Combine exploration, rift rewards and optional activities; crystals can arrive in multi-item rewards.",
+          "description_i18n": {
+            "en": "Combine exploration, rift rewards and optional activities; crystals can arrive in multi-item rewards.",
+            "pt": "Combine exploração, recompensas de fendas e atividades opcionais; algumas recompensas concedem vários cristais."
+          }
+        },
+        {
+          "key": "collect-25-stamps",
+          "title": "Collect all 25 stamps",
+          "title_i18n": {
+            "en": "Collect all 25 stamps",
+            "pt": "Coletar os 25 selos"
+          },
+          "description": "Visit Stamp Stands throughout Hyrule and finish each five-stamp card.",
+          "description_i18n": {
+            "en": "Visit Stamp Stands throughout Hyrule and finish each five-stamp card.",
+            "pt": "Visite os Stamp Stands por Hyrule e conclua cada cartão de cinco selos."
+          }
+        },
+        {
+          "key": "collect-four-fairy-bottles",
+          "title": "Collect all four Fairy Bottles",
+          "title_i18n": {
+            "en": "Collect all four Fairy Bottles",
+            "pt": "Coletar as quatro Fairy Bottles"
+          },
+          "description": "Audit the forest cave, Cucco quest, Stamp Rally and shipwreck rewards.",
+          "description_i18n": {
+            "en": "Audit the forest cave, Cucco quest, Stamp Rally and shipwreck rewards.",
+            "pt": "Confira as recompensas da caverna da floresta, dos Cuccos, do Stamp Rally e do naufrágio."
+          }
+        },
+        {
+          "key": "audit-upgrades-and-gear",
+          "title": "Audit upgrades and optional gear",
+          "title_i18n": {
+            "en": "Audit upgrades and optional gear",
+            "pt": "Conferir melhorias e equipamentos opcionais"
+          },
+          "description": "Review Lueburry's upgrades, automatons, accessories and outfits separately from the completed story.",
+          "description_i18n": {
+            "en": "Review Lueburry's upgrades, automatons, accessories and outfits separately from the completed story.",
+            "pt": "Confira as melhorias de Lueburry, autômatos, acessórios e roupas separadamente da história concluída."
+          }
+        }
+      ]
+    }
+  ],
+  "trophies": [],
+  "hltb_id": "152370",
+  "hltb_main_hours": 21,
+  "hltb_main_extra_hours": 27,
+  "hltb_completionist_hours": 34
+}

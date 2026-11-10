@@ -7,6 +7,10 @@ import { getDictionary } from "@/i18n/get-dictionary";
 import type { ItemImageUpload } from "@/components/item-image";
 
 export type EditFormState = { error: string | null };
+export type ItemDetailsFormState = {
+  error: string | null;
+  savedDetails?: string;
+};
 
 export async function addCategoryAction(
   gameId: string,
@@ -41,6 +45,73 @@ export async function addCategoryAction(
 
 const ITEM_IMAGES_BUCKET = "checklist-images";
 
+// Both item guidance and signed image uploads require the owning game, in
+// addition to the database's existing ownership policies.
+async function requireOwnedItem(itemId: string) {
+  const supabase = await createClient();
+  const { data: claimsData } = await supabase.auth.getClaims();
+  const userId = claimsData?.claims?.sub;
+  if (!userId) throw new Error("Unauthorized");
+
+  const { data: item, error: itemError } = await supabase
+    .from("checklist_items")
+    .select("category_id, details, details_i18n")
+    .eq("id", itemId)
+    .maybeSingle();
+  if (itemError) throw itemError;
+  const { data: category } = item
+    ? await supabase.from("checklist_categories").select("game_id")
+        .eq("id", item.category_id).maybeSingle()
+    : { data: null };
+  const { data: game } = category
+    ? await supabase.from("games").select("id, created_by")
+        .eq("id", category.game_id).maybeSingle()
+    : { data: null };
+  if (!item || !game || game.created_by !== userId) throw new Error("Forbidden");
+  return { supabase, userId, item, game };
+}
+
+export async function saveItemDetailsAction(
+  itemId: string,
+  _previousState: ItemDetailsFormState,
+  formData: FormData
+): Promise<ItemDetailsFormState> {
+  const locale = await getLocale();
+  const dict = getDictionary(locale);
+  const value = formData.get("details");
+  if (typeof value !== "string") return { error: dict.editChecklist.itemDetailsError };
+  const details = value.trim();
+
+  try {
+    const { supabase, item } = await requireOwnedItem(itemId);
+    const previous = item.details_i18n;
+    const translations: Record<string, string> = {};
+    if (previous && typeof previous === "object" && !Array.isArray(previous)) {
+      for (const [language, text] of Object.entries(previous)) {
+        if (typeof text === "string") translations[language] = text;
+      }
+    }
+    const previousLocale = translations[locale];
+    if (details) translations[locale] = details;
+    else delete translations[locale];
+
+    // Prefer English, preserve unrelated legacy text, and never leave the
+    // just-cleared locale's old text behind in the plain fallback column.
+    const fallback = translations.en ||
+      (locale !== "en" && item.details !== previousLocale ? item.details : null) ||
+      Object.values(translations).find((text) => text.trim()) || null;
+    const { error } = await supabase.from("checklist_items")
+      .update({ details: fallback, details_i18n: translations }).eq("id", itemId);
+    if (error) return { error: dict.editChecklist.itemDetailsError };
+  } catch {
+    return { error: dict.editChecklist.itemDetailsError };
+  }
+
+  revalidatePath("/games/[slug]/edit", "page");
+  revalidatePath("/games/[slug]", "page");
+  return { error: null, savedDetails: details };
+}
+
 // Mint a one-time signed upload URL for a checklist item's image.
 //
 // The auth cookies are HttpOnly (see cookie-options.ts), so the browser
@@ -58,31 +129,7 @@ export async function createItemImageUploadAction(
 ): Promise<ItemImageUpload> {
   if (!contentType.startsWith("image/")) throw new Error("Not an image");
 
-  const supabase = await createClient();
-  const { data: claimsData } = await supabase.auth.getClaims();
-  const userId = claimsData?.claims?.sub;
-  if (!userId) throw new Error("Unauthorized");
-
-  const { data: item } = await supabase
-    .from("checklist_items")
-    .select("category_id")
-    .eq("id", itemId)
-    .maybeSingle();
-  const { data: category } = item
-    ? await supabase
-        .from("checklist_categories")
-        .select("game_id")
-        .eq("id", item.category_id)
-        .maybeSingle()
-    : { data: null };
-  const { data: game } = category
-    ? await supabase
-        .from("games")
-        .select("id, created_by")
-        .eq("id", category.game_id)
-        .maybeSingle()
-    : { data: null };
-  if (!game || game.created_by !== userId) throw new Error("Forbidden");
+  const { supabase, userId, game } = await requireOwnedItem(itemId);
 
   const dot = fileName.lastIndexOf(".");
   const ext =
@@ -166,6 +213,7 @@ export async function addItemAction(
 ): Promise<EditFormState> {
   const title = ((formData.get("title") as string) ?? "").trim();
   const description = ((formData.get("description") as string) ?? "").trim();
+  const details = String(formData.get("details") ?? "").trim();
   const locale = await getLocale();
   const dict = getDictionary(locale);
   if (!title) return { error: dict.editChecklist.itemTitleRequired };
@@ -183,6 +231,8 @@ export async function addItemAction(
     title_i18n: { [locale]: title },
     description: description || null,
     description_i18n: description ? { [locale]: description } : {},
+    details: details || null,
+    details_i18n: details ? { [locale]: details } : {},
     order_index: count ?? 0,
   });
 

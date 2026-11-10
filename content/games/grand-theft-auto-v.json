@@ -1,0 +1,4250 @@
+{
+  "slug": "grand-theft-auto-v",
+  "title": "Grand Theft Auto V",
+  "title_i18n": {
+    "en": "Grand Theft Auto V",
+    "pt": "Grand Theft Auto V"
+  },
+  "platform": "PlayStation 5",
+  "cover_url": "/covers/grand-theft-auto-v.png",
+  "created_by": "dd5c4bf0-85ea-4986-9c04-b37e8c986150",
+  "categories": [
+    {
+      "key": "los-santos-introductions",
+      "title": "Los Santos: Franklin and Michael",
+      "title_i18n": {
+        "en": "Los Santos: Franklin and Michael",
+        "pt": "Los Santos: Franklin e Michael"
+      },
+      "items": [
+        {
+          "key": "prologue",
+          "title": "Prologue",
+          "title_i18n": {
+            "en": "Prologue",
+            "pt": "Prologue"
+          },
+          "description": "Finish the opening operation and escape.",
+          "description_i18n": {
+            "en": "Finish the opening operation and escape.",
+            "pt": "Conclua a operação inicial e a fuga."
+          }
+        },
+        {
+          "key": "franklin-and-lamar",
+          "title": "Franklin and Lamar",
+          "title_i18n": {
+            "en": "Franklin and Lamar",
+            "pt": "Franklin and Lamar"
+          },
+          "description": "Return the repossessed car after the city drive.",
+          "description_i18n": {
+            "en": "Return the repossessed car after the city drive.",
+            "pt": "Devolva o carro recuperado após dirigir pela cidade."
+          }
+        },
+        {
+          "key": "repossession",
+          "title": "Repossession",
+          "title_i18n": {
+            "en": "Repossession",
+            "pt": "Repossession"
+          },
+          "description": "Recover the requested motorcycle.",
+          "description_i18n": {
+            "en": "Recover the requested motorcycle.",
+            "pt": "Recupere a moto solicitada."
+          }
+        },
+        {
+          "key": "complications",
+          "title": "Complications",
+          "title_i18n": {
+            "en": "Complications",
+            "pt": "Complications"
+          },
+          "description": "Complete Simeon’s house-repossession assignment.",
+          "description_i18n": {
+            "en": "Complete Simeon’s house-repossession assignment.",
+            "pt": "Conclua o trabalho de recuperação na casa indicado por Simeon."
+          }
+        },
+        {
+          "key": "father-son",
+          "title": "Father/Son",
+          "title_i18n": {
+            "en": "Father/Son",
+            "pt": "Father/Son"
+          },
+          "description": "Finish the moving-vehicle rescue with Michael.",
+          "description_i18n": {
+            "en": "Finish the moving-vehicle rescue with Michael.",
+            "pt": "Conclua o resgate envolvendo veículos em movimento com Michael."
+          }
+        },
+        {
+          "key": "pulling-favors",
+          "title": "Pulling Favors",
+          "title_i18n": {
+            "en": "Pulling Favors",
+            "pt": "Pulling Favors"
+          },
+          "description": "Finish Tonya’s first towing job to continue the story.",
+          "description_i18n": {
+            "en": "Finish Tonya’s first towing job to continue the story.",
+            "pt": "Conclua o primeiro reboque de Tonya para continuar a história."
+          }
+        },
+        {
+          "key": "chop",
+          "title": "Chop",
+          "title_i18n": {
+            "en": "Chop",
+            "pt": "Chop"
+          },
+          "description": "Follow Lamar’s neighborhood job with Chop.",
+          "description_i18n": {
+            "en": "Follow Lamar’s neighborhood job with Chop.",
+            "pt": "Execute o trabalho de Lamar no bairro com Chop."
+          }
+        },
+        {
+          "key": "marriage-counseling",
+          "title": "Marriage Counseling",
+          "title_i18n": {
+            "en": "Marriage Counseling",
+            "pt": "Marriage Counseling"
+          },
+          "description": "Complete Michael and Franklin’s pursuit and return.",
+          "description_i18n": {
+            "en": "Complete Michael and Franklin’s pursuit and return.",
+            "pt": "Conclua a perseguição de Michael e Franklin e retorne."
+          }
+        },
+        {
+          "key": "daddys-little-girl",
+          "title": "Daddy’s Little Girl",
+          "title_i18n": {
+            "en": "Daddy’s Little Girl",
+            "pt": "Daddy’s Little Girl"
+          },
+          "description": "Finish the family outing and waterfront rescue.",
+          "description_i18n": {
+            "en": "Finish the family outing and waterfront rescue.",
+            "pt": "Conclua o passeio em família e o resgate à beira-mar."
+          }
+        },
+        {
+          "key": "friend-request",
+          "title": "Friend Request",
+          "title_i18n": {
+            "en": "Friend Request",
+            "pt": "Friend Request"
+          },
+          "description": "Complete Lester’s technology-company assignment.",
+          "description_i18n": {
+            "en": "Complete Lester’s technology-company assignment.",
+            "pt": "Conclua o trabalho de Lester na empresa de tecnologia."
+          }
+        },
+        {
+          "key": "the-long-stretch",
+          "title": "The Long Stretch",
+          "title_i18n": {
+            "en": "The Long Stretch",
+            "pt": "The Long Stretch"
+          },
+          "description": "Get through the interrupted neighborhood meeting.",
+          "description_i18n": {
+            "en": "Get through the interrupted neighborhood meeting.",
+            "pt": "Supere o encontro interrompido no bairro."
+          }
+        },
+        {
+          "key": "casing-the-jewel-store",
+          "title": "Casing the Jewel Store",
+          "title_i18n": {
+            "en": "Casing the Jewel Store",
+            "pt": "Casing the Jewel Store"
+          },
+          "description": "Scout the location and choose a heist approach.",
+          "description_i18n": {
+            "en": "Scout the location and choose a heist approach.",
+            "pt": "Reconheça o local e escolha uma abordagem para o golpe."
+          }
+        },
+        {
+          "key": "jewel-store-preparation-carbine-rifles-or-bugstars-equipment-bz-gas-grenades",
+          "title": "Jewel Store preparation: Carbine Rifles OR Bugstars Equipment / BZ Gas Grenades",
+          "title_i18n": {
+            "en": "Jewel Store preparation: Carbine Rifles OR Bugstars Equipment / BZ Gas Grenades",
+            "pt": "Preparação da joalheria: Carbine Rifles OU Bugstars Equipment / BZ Gas Grenades"
+          },
+          "description": "Complete only the jobs requested by the selected approach.",
+          "description_i18n": {
+            "en": "Complete only the jobs requested by the selected approach.",
+            "pt": "Conclua apenas os trabalhos pedidos pela abordagem escolhida."
+          },
+          "details": "Follow the planning-board choice rather than completing both equipment branches. Loud uses Carbine Rifles. Smart uses Bugstars Equipment and BZ Gas Grenades. These tasks summarize whichever jobs your plan actually requests. During the heist, follow the crew and vehicle instructions for that approach; a different approach is a replay option, not another requirement on this save.",
+          "details_i18n": {
+            "en": "Follow the planning-board choice rather than completing both equipment branches. Loud uses Carbine Rifles. Smart uses Bugstars Equipment and BZ Gas Grenades. These tasks summarize whichever jobs your plan actually requests. During the heist, follow the crew and vehicle instructions for that approach; a different approach is a replay option, not another requirement on this save.",
+            "pt": "Siga a escolha do quadro de planejamento, sem concluir os dois ramos de equipamento. Loud usa Carbine Rifles. Smart usa Bugstars Equipment e BZ Gas Grenades. Esta tarefa resume os trabalhos realmente pedidos pelo seu plano. No golpe, siga as instruções de equipe e veículos dessa abordagem; outra abordagem é uma opção de repetição, não outro requisito neste salvamento."
+          }
+        },
+        {
+          "key": "the-jewel-store-job",
+          "title": "The Jewel Store Job",
+          "title_i18n": {
+            "en": "The Jewel Store Job",
+            "pt": "The Jewel Store Job"
+          },
+          "description": "Finish the heist with your chosen approach.",
+          "description_i18n": {
+            "en": "Finish the heist with your chosen approach.",
+            "pt": "Conclua o golpe com a abordagem escolhida."
+          }
+        }
+      ]
+    },
+    {
+      "key": "trevor-and-the-reunion",
+      "title": "Blaine County and the reunion",
+      "title_i18n": {
+        "en": "Blaine County and the reunion",
+        "pt": "Blaine County e o reencontro"
+      },
+      "items": [
+        {
+          "key": "mr-philips",
+          "title": "Mr. Philips",
+          "title_i18n": {
+            "en": "Mr. Philips",
+            "pt": "Mr. Philips"
+          },
+          "description": "Complete Trevor’s introduction and pursuit.",
+          "description_i18n": {
+            "en": "Complete Trevor’s introduction and pursuit.",
+            "pt": "Conclua a apresentação de Trevor e a perseguição."
+          }
+        },
+        {
+          "key": "trevor-philips-industries",
+          "title": "Trevor Philips Industries",
+          "title_i18n": {
+            "en": "Trevor Philips Industries",
+            "pt": "Trevor Philips Industries"
+          },
+          "description": "Defend the operation during the business visit.",
+          "description_i18n": {
+            "en": "Defend the operation during the business visit.",
+            "pt": "Defenda a operação durante a visita de negócios."
+          }
+        },
+        {
+          "key": "nervous-ron",
+          "title": "Nervous Ron",
+          "title_i18n": {
+            "en": "Nervous Ron",
+            "pt": "Nervous Ron"
+          },
+          "description": "Help Ron through the airfield assignment.",
+          "description_i18n": {
+            "en": "Help Ron through the airfield assignment.",
+            "pt": "Ajude Ron no trabalho do aeródromo."
+          }
+        },
+        {
+          "key": "crystal-maze",
+          "title": "Crystal Maze",
+          "title_i18n": {
+            "en": "Crystal Maze",
+            "pt": "Crystal Maze"
+          },
+          "description": "Finish Trevor’s rival-business assignment.",
+          "description_i18n": {
+            "en": "Finish Trevor’s rival-business assignment.",
+            "pt": "Conclua o trabalho de Trevor contra a concorrência."
+          }
+        },
+        {
+          "key": "friends-reunited",
+          "title": "Friends Reunited",
+          "title_i18n": {
+            "en": "Friends Reunited",
+            "pt": "Friends Reunited"
+          },
+          "description": "Complete the trip toward Los Santos.",
+          "description_i18n": {
+            "en": "Complete the trip toward Los Santos.",
+            "pt": "Conclua a viagem para Los Santos."
+          }
+        },
+        {
+          "key": "fame-or-shame",
+          "title": "Fame or Shame",
+          "title_i18n": {
+            "en": "Fame or Shame",
+            "pt": "Fame or Shame"
+          },
+          "description": "Finish the studio visit and pursuit.",
+          "description_i18n": {
+            "en": "Finish the studio visit and pursuit.",
+            "pt": "Conclua a visita ao estúdio e a perseguição."
+          }
+        }
+      ]
+    },
+    {
+      "key": "fib-and-the-port",
+      "title": "FIB work and the port operation",
+      "title_i18n": {
+        "en": "FIB work and the port operation",
+        "pt": "Trabalhos do FIB e a operação no porto"
+      },
+      "items": [
+        {
+          "key": "dead-man-walking",
+          "title": "Dead Man Walking",
+          "title_i18n": {
+            "en": "Dead Man Walking",
+            "pt": "Dead Man Walking"
+          },
+          "description": "Get Michael through the institutional escape.",
+          "description_i18n": {
+            "en": "Get Michael through the institutional escape.",
+            "pt": "Conduza Michael na fuga do prédio."
+          }
+        },
+        {
+          "key": "threes-company",
+          "title": "Three’s Company",
+          "title_i18n": {
+            "en": "Three’s Company",
+            "pt": "Three’s Company"
+          },
+          "description": "Coordinate the three protagonists through the extraction.",
+          "description_i18n": {
+            "en": "Coordinate the three protagonists through the extraction.",
+            "pt": "Coordene os três protagonistas na extração."
+          }
+        },
+        {
+          "key": "by-the-book",
+          "title": "By the Book",
+          "title_i18n": {
+            "en": "By the Book",
+            "pt": "By the Book"
+          },
+          "description": "Complete the agency assignment and transport stages.",
+          "description_i18n": {
+            "en": "Complete the agency assignment and transport stages.",
+            "pt": "Conclua o trabalho da agência e os trechos de transporte."
+          }
+        },
+        {
+          "key": "hood-safari",
+          "title": "Hood Safari",
+          "title_i18n": {
+            "en": "Hood Safari",
+            "pt": "Hood Safari"
+          },
+          "description": "Finish the neighborhood visit and waterfront escape.",
+          "description_i18n": {
+            "en": "Finish the neighborhood visit and waterfront escape.",
+            "pt": "Conclua a visita ao bairro e a fuga pela água."
+          }
+        },
+        {
+          "key": "did-somebody-say-yoga",
+          "title": "Did Somebody Say Yoga?",
+          "title_i18n": {
+            "en": "Did Somebody Say Yoga?",
+            "pt": "Did Somebody Say Yoga?"
+          },
+          "description": "Finish Michael’s family and recovery sequence.",
+          "description_i18n": {
+            "en": "Finish Michael’s family and recovery sequence.",
+            "pt": "Conclua a sequência familiar e a recuperação de Michael."
+          }
+        },
+        {
+          "key": "scouting-the-port",
+          "title": "Scouting the Port",
+          "title_i18n": {
+            "en": "Scouting the Port",
+            "pt": "Scouting the Port"
+          },
+          "description": "Inspect the port and select the operation plan.",
+          "description_i18n": {
+            "en": "Inspect the port and select the operation plan.",
+            "pt": "Inspecione o porto e escolha o plano da operação."
+          }
+        },
+        {
+          "key": "merryweather-preparation-minisub-and-conditional-cargobob",
+          "title": "Merryweather preparation: Minisub and conditional Cargobob",
+          "title_i18n": {
+            "en": "Merryweather preparation: Minisub and conditional Cargobob",
+            "pt": "Preparação de Merryweather: Minisub e Cargobob condicional"
+          },
+          "description": "Obtain the submarine and any aircraft requested by your approach.",
+          "description_i18n": {
+            "en": "Obtain the submarine and any aircraft requested by your approach.",
+            "pt": "Obtenha o submarino e a aeronave, caso sua abordagem a exija."
+          },
+          "details": "Both plans need Minisub, while Offshore additionally requests Cargobob. The approach changes the operation’s vehicle roles, so follow the active planning instructions instead of searching for a preparation marker belonging to the other plan. Flight School practice can make the aircraft handling easier, but the checklist does not require finishing both heist variants.",
+          "details_i18n": {
+            "en": "Both plans need Minisub, while Offshore additionally requests Cargobob. The approach changes the operation’s vehicle roles, so follow the active planning instructions instead of searching for a preparation marker belonging to the other plan. Flight School practice can make the aircraft handling easier, but the checklist does not require finishing both heist variants.",
+            "pt": "Os dois planos precisam de Minisub, enquanto Offshore também exige Cargobob. A abordagem altera as funções dos veículos na operação; siga as instruções ativas do planejamento em vez de procurar um marcador exclusivo do outro plano. Praticar na Flight School ajuda no controle aéreo, mas este roteiro não exige concluir as duas versões do golpe."
+          }
+        },
+        {
+          "key": "the-merryweather-heist",
+          "title": "The Merryweather Heist",
+          "title_i18n": {
+            "en": "The Merryweather Heist",
+            "pt": "The Merryweather Heist"
+          },
+          "description": "Complete either Freighter or Offshore, not both.",
+          "description_i18n": {
+            "en": "Complete either Freighter or Offshore, not both.",
+            "pt": "Conclua Freighter ou Offshore, sem exigir os dois."
+          }
+        },
+        {
+          "key": "the-hotel-assassination",
+          "title": "The Hotel Assassination",
+          "title_i18n": {
+            "en": "The Hotel Assassination",
+            "pt": "The Hotel Assassination"
+          },
+          "description": "Finish Lester’s first assassination to continue the story.",
+          "description_i18n": {
+            "en": "Finish Lester’s first assassination to continue the story.",
+            "pt": "Conclua a primeira execução de Lester para continuar a história."
+          },
+          "details": "This first Lester hit is needed for story progression; the remaining four can wait until after the finale, when the protagonists have more investment money. If using the stock route, save first and buy Betta Pharmaceuticals before this mission, then watch its rise. BAWSAQ depends on online market access; LCN is the local market. No fixed return percentage is guaranteed.",
+          "details_i18n": {
+            "en": "This first Lester hit is needed for story progression; the remaining four can wait until after the finale, when the protagonists have more investment money. If using the stock route, save first and buy Betta Pharmaceuticals before this mission, then watch its rise. BAWSAQ depends on online market access; LCN is the local market. No fixed return percentage is guaranteed.",
+            "pt": "Esta primeira execução de Lester é necessária para avançar na história; as outras quatro podem esperar até depois do final, quando os protagonistas têm mais dinheiro para investir. Se usar a estratégia de ações, salve antes e compre Betta Pharmaceuticals antes desta missão, acompanhando a valorização. BAWSAQ depende do acesso ao mercado online; LCN é o mercado local. Nenhuma porcentagem fixa de lucro é garantida."
+          }
+        },
+        {
+          "key": "boiler-suits",
+          "title": "Boiler Suits",
+          "title_i18n": {
+            "en": "Boiler Suits",
+            "pt": "Boiler Suits"
+          },
+          "description": "Buy the crew’s work clothing.",
+          "description_i18n": {
+            "en": "Buy the crew’s work clothing.",
+            "pt": "Compre as roupas de trabalho da equipe."
+          }
+        },
+        {
+          "key": "masks",
+          "title": "Masks",
+          "title_i18n": {
+            "en": "Masks",
+            "pt": "Masks"
+          },
+          "description": "Obtain the operation’s disguises.",
+          "description_i18n": {
+            "en": "Obtain the operation’s disguises.",
+            "pt": "Obtenha os disfarces da operação."
+          }
+        },
+        {
+          "key": "trash-truck",
+          "title": "Trash Truck",
+          "title_i18n": {
+            "en": "Trash Truck",
+            "pt": "Trash Truck"
+          },
+          "description": "Deliver the required truck after losing police attention.",
+          "description_i18n": {
+            "en": "Deliver the required truck after losing police attention.",
+            "pt": "Entregue o caminhão exigido após despistar a polícia."
+          }
+        },
+        {
+          "key": "tow-truck",
+          "title": "Tow Truck",
+          "title_i18n": {
+            "en": "Tow Truck",
+            "pt": "Tow Truck"
+          },
+          "description": "Acquire and deliver the operation’s towing vehicle.",
+          "description_i18n": {
+            "en": "Acquire and deliver the operation’s towing vehicle.",
+            "pt": "Obtenha e entregue o guincho da operação."
+          }
+        },
+        {
+          "key": "blitz-play-getaway-vehicle",
+          "title": "Blitz Play: Getaway Vehicle",
+          "title_i18n": {
+            "en": "Blitz Play: Getaway Vehicle",
+            "pt": "Blitz Play: Getaway Vehicle"
+          },
+          "description": "Park a suitable escape vehicle and confirm its location by phone.",
+          "description_i18n": {
+            "en": "Park a suitable escape vehicle and confirm its location by phone.",
+            "pt": "Estacione um veículo de fuga adequado e confirme a localização pelo telefone."
+          },
+          "details": "Use a vehicle the game accepts for this operation and hide it in a discreet location. Watch the on-screen suitability message before getting out. Open the phone, call the indicated protagonist and choose Mark Getaway Location. Merely parking a vehicle does not register the preparation, and an inconvenient hiding place makes the later escape longer.",
+          "details_i18n": {
+            "en": "Use a vehicle the game accepts for this operation and hide it in a discreet location. Watch the on-screen suitability message before getting out. Open the phone, call the indicated protagonist and choose Mark Getaway Location. Merely parking a vehicle does not register the preparation, and an inconvenient hiding place makes the later escape longer.",
+            "pt": "Use um veículo aceito pelo jogo para esta operação e esconda-o em um local discreto. Observe a mensagem de adequação na tela antes de sair. Abra o telefone, ligue para o protagonista indicado e escolha Mark Getaway Location. Apenas estacionar não registra o preparativo; um esconderijo inconveniente também torna a fuga posterior mais longa."
+          }
+        },
+        {
+          "key": "blitz-play",
+          "title": "Blitz Play",
+          "title_i18n": {
+            "en": "Blitz Play",
+            "pt": "Blitz Play"
+          },
+          "description": "Complete the coordinated street operation.",
+          "description_i18n": {
+            "en": "Complete the coordinated street operation.",
+            "pt": "Conclua a operação coordenada na rua."
+          }
+        }
+      ]
+    },
+    {
+      "key": "devin-and-paleto",
+      "title": "Devin, Paleto Bay and changing plans",
+      "title_i18n": {
+        "en": "Devin, Paleto Bay and changing plans",
+        "pt": "Devin, Paleto Bay e mudanças de planos"
+      },
+      "items": [
+        {
+          "key": "i-fought-the-law",
+          "title": "I Fought the Law...",
+          "title_i18n": {
+            "en": "I Fought the Law...",
+            "pt": "I Fought the Law..."
+          },
+          "description": "Complete Devin’s vehicle-recovery assignment.",
+          "description_i18n": {
+            "en": "Complete Devin’s vehicle-recovery assignment.",
+            "pt": "Conclua o trabalho de recuperação de veículos de Devin."
+          }
+        },
+        {
+          "key": "eye-in-the-sky",
+          "title": "Eye in the Sky",
+          "title_i18n": {
+            "en": "Eye in the Sky",
+            "pt": "Eye in the Sky"
+          },
+          "description": "Locate and recover the requested car.",
+          "description_i18n": {
+            "en": "Locate and recover the requested car.",
+            "pt": "Localize e recupere o carro solicitado."
+          }
+        },
+        {
+          "key": "mr-richards",
+          "title": "Mr. Richards",
+          "title_i18n": {
+            "en": "Mr. Richards",
+            "pt": "Mr. Richards"
+          },
+          "description": "Help Solomon with the studio problem.",
+          "description_i18n": {
+            "en": "Help Solomon with the studio problem.",
+            "pt": "Ajude Solomon com o problema no estúdio."
+          }
+        },
+        {
+          "key": "caida-libre",
+          "title": "Caida Libre",
+          "title_i18n": {
+            "en": "Caida Libre",
+            "pt": "Caida Libre"
+          },
+          "description": "Finish the aircraft interception and follow-up.",
+          "description_i18n": {
+            "en": "Finish the aircraft interception and follow-up.",
+            "pt": "Conclua a interceptação da aeronave e a etapa seguinte."
+          }
+        },
+        {
+          "key": "deep-inside",
+          "title": "Deep Inside",
+          "title_i18n": {
+            "en": "Deep Inside",
+            "pt": "Deep Inside"
+          },
+          "description": "Recover the film-set vehicle and deliver it.",
+          "description_i18n": {
+            "en": "Recover the film-set vehicle and deliver it.",
+            "pt": "Recupere o veículo do set de filmagem e faça a entrega."
+          }
+        },
+        {
+          "key": "minor-turbulence",
+          "title": "Minor Turbulence",
+          "title_i18n": {
+            "en": "Minor Turbulence",
+            "pt": "Minor Turbulence"
+          },
+          "description": "Finish Trevor’s airborne interception and exit.",
+          "description_i18n": {
+            "en": "Finish Trevor’s airborne interception and exit.",
+            "pt": "Conclua a interceptação aérea de Trevor e a saída."
+          },
+          "details": "Keep the crop duster low while the game warns about military radar; climb toward the cargo plane only when the objective allows it. Line up with the open rear hatch instead of circling alongside. Once aboard, clear the interior and follow the aircraft-exit prompt. If using a vehicle to leave the hold, exit that vehicle and deploy the parachute before impact.",
+          "details_i18n": {
+            "en": "Keep the crop duster low while the game warns about military radar; climb toward the cargo plane only when the objective allows it. Line up with the open rear hatch instead of circling alongside. Once aboard, clear the interior and follow the aircraft-exit prompt. If using a vehicle to leave the hold, exit that vehicle and deploy the parachute before impact.",
+            "pt": "Mantenha o avião agrícola baixo enquanto o jogo alertar sobre o radar militar; suba em direção ao cargueiro apenas quando o objetivo permitir. Alinhe-se à abertura traseira em vez de circular ao lado. A bordo, avance pelo interior e siga o comando de saída da aeronave. Se usar um veículo para sair do compartimento, abandone-o e abra o paraquedas antes do impacto."
+          }
+        },
+        {
+          "key": "paleto-score-setup",
+          "title": "Paleto Score Setup",
+          "title_i18n": {
+            "en": "Paleto Score Setup",
+            "pt": "Paleto Score Setup"
+          },
+          "description": "Scout the bank and prepare the crew.",
+          "description_i18n": {
+            "en": "Scout the bank and prepare the crew.",
+            "pt": "Reconheça o banco e prepare a equipe."
+          }
+        },
+        {
+          "key": "predator",
+          "title": "Predator",
+          "title_i18n": {
+            "en": "Predator",
+            "pt": "Predator"
+          },
+          "description": "Coordinate the search through the wooded area.",
+          "description_i18n": {
+            "en": "Coordinate the search through the wooded area.",
+            "pt": "Coordene a busca na área de mata."
+          }
+        },
+        {
+          "key": "military-hardware",
+          "title": "Military Hardware",
+          "title_i18n": {
+            "en": "Military Hardware",
+            "pt": "Military Hardware"
+          },
+          "description": "Recover and deliver the crew’s equipment.",
+          "description_i18n": {
+            "en": "Recover and deliver the crew’s equipment.",
+            "pt": "Recupere e entregue o equipamento da equipe."
+          }
+        },
+        {
+          "key": "the-paleto-score",
+          "title": "The Paleto Score",
+          "title_i18n": {
+            "en": "The Paleto Score",
+            "pt": "The Paleto Score"
+          },
+          "description": "Complete the bank operation and extraction.",
+          "description_i18n": {
+            "en": "Complete the bank operation and extraction.",
+            "pt": "Conclua a operação no banco e a extração."
+          }
+        },
+        {
+          "key": "derailed",
+          "title": "Derailed",
+          "title_i18n": {
+            "en": "Derailed",
+            "pt": "Derailed"
+          },
+          "description": "Finish the rail operation and river escape.",
+          "description_i18n": {
+            "en": "Finish the rail operation and river escape.",
+            "pt": "Conclua a operação ferroviária e a fuga pelo rio."
+          }
+        },
+        {
+          "key": "monkey-business",
+          "title": "Monkey Business",
+          "title_i18n": {
+            "en": "Monkey Business",
+            "pt": "Monkey Business"
+          },
+          "description": "Complete the facility infiltration and extraction.",
+          "description_i18n": {
+            "en": "Complete the facility infiltration and extraction.",
+            "pt": "Conclua a infiltração nas instalações e a extração."
+          }
+        },
+        {
+          "key": "hang-ten",
+          "title": "Hang Ten",
+          "title_i18n": {
+            "en": "Hang Ten",
+            "pt": "Hang Ten"
+          },
+          "description": "Finish Trevor’s move and club visit.",
+          "description_i18n": {
+            "en": "Finish Trevor’s move and club visit.",
+            "pt": "Conclua a mudança de Trevor e a visita ao clube."
+          }
+        },
+        {
+          "key": "surveying-the-score",
+          "title": "Surveying the Score",
+          "title_i18n": {
+            "en": "Surveying the Score",
+            "pt": "Surveying the Score"
+          },
+          "description": "Gather information for the large heist.",
+          "description_i18n": {
+            "en": "Gather information for the large heist.",
+            "pt": "Reúna informações para o grande golpe."
+          }
+        }
+      ]
+    },
+    {
+      "key": "bureau-and-personal-crises",
+      "title": "The Bureau and personal crises",
+      "title_i18n": {
+        "en": "The Bureau and personal crises",
+        "pt": "O Bureau e as crises pessoais"
+      },
+      "items": [
+        {
+          "key": "bury-the-hatchet",
+          "title": "Bury the Hatchet",
+          "title_i18n": {
+            "en": "Bury the Hatchet",
+            "pt": "Bury the Hatchet"
+          },
+          "description": "Complete the trip and confrontation in North Yankton.",
+          "description_i18n": {
+            "en": "Complete the trip and confrontation in North Yankton.",
+            "pt": "Conclua a viagem e o confronto em North Yankton."
+          }
+        },
+        {
+          "key": "pack-man",
+          "title": "Pack Man",
+          "title_i18n": {
+            "en": "Pack Man",
+            "pt": "Pack Man"
+          },
+          "description": "Deliver Devin’s vehicle shipment during the pursuit.",
+          "description_i18n": {
+            "en": "Deliver Devin’s vehicle shipment during the pursuit.",
+            "pt": "Entregue a carga de veículos de Devin durante a perseguição."
+          }
+        },
+        {
+          "key": "fresh-meat",
+          "title": "Fresh Meat",
+          "title_i18n": {
+            "en": "Fresh Meat",
+            "pt": "Fresh Meat"
+          },
+          "description": "Locate the missing protagonist and finish the rescue.",
+          "description_i18n": {
+            "en": "Locate the missing protagonist and finish the rescue.",
+            "pt": "Localize o protagonista desaparecido e conclua o resgate."
+          },
+          "details": "Open Trackify on Franklin’s phone and follow its moving signal rather than waiting for an ordinary GPS route. Approach the industrial location while checking the app, then use cover during the rescue. The gold objective forbids a map waypoint, so a clean Trackify approach can satisfy that requirement without repeating the navigation later.",
+          "details_i18n": {
+            "en": "Open Trackify on Franklin’s phone and follow its moving signal rather than waiting for an ordinary GPS route. Approach the industrial location while checking the app, then use cover during the rescue. The gold objective forbids a map waypoint, so a clean Trackify approach can satisfy that requirement without repeating the navigation later.",
+            "pt": "Abra Trackify no telefone de Franklin e siga o sinal em vez de esperar uma rota comum de GPS. Aproxime-se da área industrial consultando o aplicativo e use cobertura durante o resgate. O objetivo de ouro proíbe um destino marcado no mapa; navegar corretamente pelo Trackify pode cumprir esse requisito sem repetir o trajeto depois."
+          }
+        },
+        {
+          "key": "the-ballad-of-rocco",
+          "title": "The Ballad of Rocco",
+          "title_i18n": {
+            "en": "The Ballad of Rocco",
+            "pt": "The Ballad of Rocco"
+          },
+          "description": "Resolve Solomon’s next problem.",
+          "description_i18n": {
+            "en": "Resolve Solomon’s next problem.",
+            "pt": "Resolva o próximo problema de Solomon."
+          }
+        },
+        {
+          "key": "cleaning-out-the-bureau",
+          "title": "Cleaning out the Bureau",
+          "title_i18n": {
+            "en": "Cleaning out the Bureau",
+            "pt": "Cleaning out the Bureau"
+          },
+          "description": "Gather information for the FIB plan.",
+          "description_i18n": {
+            "en": "Gather information for the FIB plan.",
+            "pt": "Reúna informações para o plano do FIB."
+          }
+        },
+        {
+          "key": "architects-plans",
+          "title": "Architect’s Plans",
+          "title_i18n": {
+            "en": "Architect’s Plans",
+            "pt": "Architect’s Plans"
+          },
+          "description": "Obtain the plans and choose the entry approach.",
+          "description_i18n": {
+            "en": "Obtain the plans and choose the entry approach.",
+            "pt": "Obtenha as plantas e escolha a abordagem de entrada."
+          }
+        },
+        {
+          "key": "bureau-raid-preparation-conditional-fire-truck-getaway",
+          "title": "Bureau Raid preparation: conditional Fire Truck / getaway",
+          "title_i18n": {
+            "en": "Bureau Raid preparation: conditional Fire Truck / getaway",
+            "pt": "Preparação de The Bureau Raid: Fire Truck / fuga condicionais"
+          },
+          "description": "Complete only the preparations requested for Fire Crew or Roof Entry.",
+          "description_i18n": {
+            "en": "Complete only the preparations requested for Fire Crew or Roof Entry.",
+            "pt": "Conclua apenas os preparativos pedidos para Fire Crew ou Roof Entry."
+          }
+        },
+        {
+          "key": "the-bureau-raid",
+          "title": "The Bureau Raid",
+          "title_i18n": {
+            "en": "The Bureau Raid",
+            "pt": "The Bureau Raid"
+          },
+          "description": "Finish the selected Fire Crew or Roof Entry approach.",
+          "description_i18n": {
+            "en": "Finish the selected Fire Crew or Roof Entry approach.",
+            "pt": "Conclua a abordagem escolhida entre Fire Crew e Roof Entry."
+          }
+        },
+        {
+          "key": "the-wrap-up",
+          "title": "The Wrap Up",
+          "title_i18n": {
+            "en": "The Wrap Up",
+            "pt": "The Wrap Up"
+          },
+          "description": "Survive the agency confrontation and leave safely.",
+          "description_i18n": {
+            "en": "Survive the agency confrontation and leave safely.",
+            "pt": "Sobreviva ao confronto com a agência e saia em segurança."
+          }
+        },
+        {
+          "key": "reuniting-the-family",
+          "title": "Reuniting the Family",
+          "title_i18n": {
+            "en": "Reuniting the Family",
+            "pt": "Reuniting the Family"
+          },
+          "description": "Finish Michael’s family meeting.",
+          "description_i18n": {
+            "en": "Finish Michael’s family meeting.",
+            "pt": "Conclua o encontro familiar de Michael."
+          }
+        },
+        {
+          "key": "legal-trouble",
+          "title": "Legal Trouble",
+          "title_i18n": {
+            "en": "Legal Trouble",
+            "pt": "Legal Trouble"
+          },
+          "description": "Finish the airport pursuit connected to the studio.",
+          "description_i18n": {
+            "en": "Finish the airport pursuit connected to the studio.",
+            "pt": "Conclua a perseguição no aeroporto ligada ao estúdio."
+          }
+        },
+        {
+          "key": "lamar-down",
+          "title": "Lamar Down",
+          "title_i18n": {
+            "en": "Lamar Down",
+            "pt": "Lamar Down"
+          },
+          "description": "Coordinate the rescue with all three protagonists.",
+          "description_i18n": {
+            "en": "Coordinate the rescue with all three protagonists.",
+            "pt": "Coordene o resgate com os três protagonistas."
+          }
+        },
+        {
+          "key": "meltdown",
+          "title": "Meltdown",
+          "title_i18n": {
+            "en": "Meltdown",
+            "pt": "Meltdown"
+          },
+          "description": "Finish the premiere-night emergency.",
+          "description_i18n": {
+            "en": "Finish the premiere-night emergency.",
+            "pt": "Conclua a emergência na noite de estreia."
+          }
+        },
+        {
+          "key": "planning-the-big-score",
+          "title": "Planning the Big Score",
+          "title_i18n": {
+            "en": "Planning the Big Score",
+            "pt": "Planning the Big Score"
+          },
+          "description": "Choose the final heist approach and crew.",
+          "description_i18n": {
+            "en": "Choose the final heist approach and crew.",
+            "pt": "Escolha a abordagem e a equipe do golpe final."
+          }
+        },
+        {
+          "key": "big-score-preparation-stingers-gauntlet-or-driller-sidetracked",
+          "title": "Big Score preparation: Stingers / Gauntlet OR Driller / Sidetracked",
+          "title_i18n": {
+            "en": "Big Score preparation: Stingers / Gauntlet OR Driller / Sidetracked",
+            "pt": "Preparação de The Big Score: Stingers / Gauntlet OU Driller / Sidetracked"
+          },
+          "description": "Complete your selected plan’s equipment and getaway requirements.",
+          "description_i18n": {
+            "en": "Complete your selected plan’s equipment and getaway requirements.",
+            "pt": "Conclua os requisitos de equipamento e fuga do plano escolhido."
+          },
+          "details": "The Subtle plan requests Stingers and three Gauntlet preparations. The Obvious plan requests Driller and Sidetracked plus its getaway arrangements. Finish the active jobs for your selected plan; the three Gauntlets are one grouped goal here, not one car counted as all three. Keep a manual save before committing if you want to compare approaches later.",
+          "details_i18n": {
+            "en": "The Subtle plan requests Stingers and three Gauntlet preparations. The Obvious plan requests Driller and Sidetracked plus its getaway arrangements. Finish the active jobs for your selected plan; the three Gauntlets are one grouped goal here, not one car counted as all three. Keep a manual save before committing if you want to compare approaches later.",
+            "pt": "O plano Subtle pede Stingers e três preparações de Gauntlet. O plano Obvious pede Driller e Sidetracked, além da organização da fuga. Conclua os trabalhos ativos do plano escolhido; os três Gauntlets formam uma tarefa agregada aqui, sem contar um único carro como três. Mantenha um salvamento manual antes de confirmar caso queira comparar as abordagens depois."
+          }
+        },
+        {
+          "key": "the-big-score",
+          "title": "The Big Score",
+          "title_i18n": {
+            "en": "The Big Score",
+            "pt": "The Big Score"
+          },
+          "description": "Finish the selected Subtle or Obvious approach.",
+          "description_i18n": {
+            "en": "Finish the selected Subtle or Obvious approach.",
+            "pt": "Conclua a abordagem escolhida entre Subtle e Obvious."
+          }
+        },
+        {
+          "key": "chosen-ending-something-sensible-the-times-come-the-third-way",
+          "title": "Complete a chosen Story Mode ending",
+          "title_i18n": {
+            "en": "Complete a chosen Story Mode ending",
+            "pt": "Conclua um final escolhido do Modo História"
+          },
+          "description": "Make a separate save and finish one final path; all three are unnecessary.",
+          "description_i18n": {
+            "en": "Make a separate save and finish one final path; all three are unnecessary.",
+            "pt": "Crie um salvamento separado e conclua um caminho final; não é necessário terminar os três."
+          },
+          "details": "Make a manual save in another slot before Franklin chooses the final path. Any one ending can satisfy campaign completion; this checkbox never requires all three. Option C, The Third Way, preserves access to all three protagonists for later activities and trophies. Options A and B remove access to a protagonist. Mission replay can show another finale without changing the original world-state decision.",
+          "details_i18n": {
+            "en": "Make a manual save in another slot before Franklin chooses the final path. Any one ending can satisfy campaign completion; this checkbox never requires all three. Option C, The Third Way, preserves access to all three protagonists for later activities and trophies. Options A and B remove access to a protagonist. Mission replay can show another finale without changing the original world-state decision.",
+            "pt": "Faça um salvamento manual em outro espaço antes de Franklin escolher o caminho final. Qualquer final pode concluir a campanha; esta tarefa nunca exige os três. A opção C, The Third Way, preserva o acesso aos três protagonistas para atividades e troféus posteriores. As opções A e B retiram o acesso a um protagonista. Repetir uma missão permite ver outro final sem alterar a decisão original do mundo."
+          }
+        }
+      ]
+    },
+    {
+      "key": "lester-assassination-cleanup",
+      "title": "Lester: remaining assassinations for 100%",
+      "title_i18n": {
+        "en": "Lester: remaining assassinations for 100%",
+        "pt": "Lester: execuções restantes para os 100%"
+      },
+      "items": [
+        {
+          "key": "the-multi-target-assassination",
+          "title": "The Multi Target Assassination",
+          "title_i18n": {
+            "en": "The Multi Target Assassination",
+            "pt": "The Multi Target Assassination"
+          },
+          "description": "Finish this optional-for-the-ending job; it still contributes to native 100%.",
+          "description_i18n": {
+            "en": "Finish this optional-for-the-ending job; it still contributes to native 100%.",
+            "pt": "Conclua este trabalho opcional para o final, mas necessário para os 100% nativos."
+          },
+          "details": "For the optional stock strategy, buy Debonaire on LCN before the mission. Sell after the observed rise, then consider Redwood after its fall and wait for recovery. Invest and sell separately for each protagonist. Keep a pre-mission save and check the actual return after advancing time; copied percentages and exact sleep counts are not reliable guarantees.",
+          "details_i18n": {
+            "en": "For the optional stock strategy, buy Debonaire on LCN before the mission. Sell after the observed rise, then consider Redwood after its fall and wait for recovery. Invest and sell separately for each protagonist. Keep a pre-mission save and check the actual return after advancing time; copied percentages and exact sleep counts are not reliable guarantees.",
+            "pt": "Para a estratégia opcional de ações, compre Debonaire na LCN antes da missão. Venda após observar a valorização e considere Redwood depois da queda, aguardando a recuperação. Invista e venda separadamente com cada protagonista. Preserve um salvamento anterior e confira o retorno real após avançar o tempo; porcentagens copiadas e números exatos de períodos de sono não são garantias confiáveis."
+          }
+        },
+        {
+          "key": "the-vice-assassination",
+          "title": "The Vice Assassination",
+          "title_i18n": {
+            "en": "The Vice Assassination",
+            "pt": "The Vice Assassination"
+          },
+          "description": "Finish this optional-for-the-ending job; it still contributes to native 100%.",
+          "description_i18n": {
+            "en": "Finish this optional-for-the-ending job; it still contributes to native 100%.",
+            "pt": "Conclua este trabalho opcional para o final, mas necessário para os 100% nativos."
+          }
+        },
+        {
+          "key": "the-bus-assassination",
+          "title": "The Bus Assassination",
+          "title_i18n": {
+            "en": "The Bus Assassination",
+            "pt": "The Bus Assassination"
+          },
+          "description": "Finish this optional-for-the-ending job; it still contributes to native 100%.",
+          "description_i18n": {
+            "en": "Finish this optional-for-the-ending job; it still contributes to native 100%.",
+            "pt": "Conclua este trabalho opcional para o final, mas necessário para os 100% nativos."
+          },
+          "details": "The Vapid stock opportunity is after this mission, not before it. If BAWSAQ is accessible, observe the post-mission decline, buy and watch for recovery before selling. Do not confuse this timing with the pre-mission purchase used for several other Lester jobs. The mission remains playable for native completion even when the online market cannot be used.",
+          "details_i18n": {
+            "en": "The Vapid stock opportunity is after this mission, not before it. If BAWSAQ is accessible, observe the post-mission decline, buy and watch for recovery before selling. Do not confuse this timing with the pre-mission purchase used for several other Lester jobs. The mission remains playable for native completion even when the online market cannot be used.",
+            "pt": "A oportunidade com ações da Vapid ocorre depois desta missão, não antes. Se BAWSAQ estiver acessível, observe a queda após a missão, compre e acompanhe a recuperação antes de vender. Não confunda esse momento com a compra antecipada usada em outros trabalhos de Lester. A missão continua válida para a conclusão nativa mesmo sem acesso ao mercado online."
+          }
+        },
+        {
+          "key": "the-construction-assassination",
+          "title": "The Construction Assassination",
+          "title_i18n": {
+            "en": "The Construction Assassination",
+            "pt": "The Construction Assassination"
+          },
+          "description": "Finish this optional-for-the-ending job; it still contributes to native 100%.",
+          "description_i18n": {
+            "en": "Finish this optional-for-the-ending job; it still contributes to native 100%.",
+            "pt": "Conclua este trabalho opcional para o final, mas necessário para os 100% nativos."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "franklin-strangers",
+      "title": "Franklin: Strangers and Freaks for 100%",
+      "title_i18n": {
+        "en": "Franklin: Strangers and Freaks for 100%",
+        "pt": "Franklin: Strangers and Freaks para os 100%"
+      },
+      "items": [
+        {
+          "key": "pulling-another-favor",
+          "title": "Pulling Another Favor",
+          "title_i18n": {
+            "en": "Pulling Another Favor",
+            "pt": "Pulling Another Favor"
+          },
+          "description": "Return to Tonya for the next towing assignment.",
+          "description_i18n": {
+            "en": "Return to Tonya for the next towing assignment.",
+            "pt": "Retorne a Tonya para o próximo trabalho de reboque."
+          }
+        },
+        {
+          "key": "pulling-favors-again",
+          "title": "Pulling Favors Again",
+          "title_i18n": {
+            "en": "Pulling Favors Again",
+            "pt": "Pulling Favors Again"
+          },
+          "description": "Call Tonya and finish the next marked towing job.",
+          "description_i18n": {
+            "en": "Call Tonya and finish the next marked towing job.",
+            "pt": "Ligue para Tonya e conclua o próximo reboque marcado."
+          },
+          "details": "Tonya’s towing strand does not always advance through a new visible question mark. Call her as Franklin after allowing time for the next job to become available. Finish the current towing assignment before looking for the next one. Pulling Favors, already included in the opening story category, is the first job of this same strand and also unlocks further campaign progress.",
+          "details_i18n": {
+            "en": "Tonya’s towing strand does not always advance through a new visible question mark. Call her as Franklin after allowing time for the next job to become available. Finish the current towing assignment before looking for the next one. Pulling Favors, already included in the opening story category, is the first job of this same strand and also unlocks further campaign progress.",
+            "pt": "A sequência de reboques de Tonya nem sempre avança com um novo ponto de interrogação visível. Ligue para ela com Franklin após dar tempo para o próximo trabalho ficar disponível. Termine o reboque atual antes de procurar o seguinte. Pulling Favors, já incluída na categoria inicial da história, é o primeiro trabalho dessa sequência e também libera o avanço da campanha."
+          }
+        },
+        {
+          "key": "still-pulling-favors",
+          "title": "Still Pulling Favors",
+          "title_i18n": {
+            "en": "Still Pulling Favors",
+            "pt": "Still Pulling Favors"
+          },
+          "description": "Complete Tonya’s next vehicle-recovery request.",
+          "description_i18n": {
+            "en": "Complete Tonya’s next vehicle-recovery request.",
+            "pt": "Conclua o próximo pedido de recuperação de veículo de Tonya."
+          }
+        },
+        {
+          "key": "pulling-one-last-favor",
+          "title": "Pulling One Last Favor",
+          "title_i18n": {
+            "en": "Pulling One Last Favor",
+            "pt": "Pulling One Last Favor"
+          },
+          "description": "Finish Tonya’s concluding towing job.",
+          "description_i18n": {
+            "en": "Finish Tonya’s concluding towing job.",
+            "pt": "Conclua o último trabalho de reboque de Tonya."
+          }
+        },
+        {
+          "key": "shift-work",
+          "title": "Shift Work",
+          "title_i18n": {
+            "en": "Shift Work",
+            "pt": "Shift Work"
+          },
+          "description": "Meet Hao at night and finish his introductory street race.",
+          "description_i18n": {
+            "en": "Meet Hao at night and finish his introductory street race.",
+            "pt": "Encontre Hao à noite e conclua a corrida de rua introdutória."
+          }
+        },
+        {
+          "key": "paparazzo",
+          "title": "Paparazzo",
+          "title_i18n": {
+            "en": "Paparazzo",
+            "pt": "Paparazzo"
+          },
+          "description": "Finish Beverly’s introductory photography assignment.",
+          "description_i18n": {
+            "en": "Finish Beverly’s introductory photography assignment.",
+            "pt": "Conclua o trabalho fotográfico introdutório de Beverly."
+          }
+        },
+        {
+          "key": "paparazzo-the-sex-tape",
+          "title": "Paparazzo - The Sex Tape",
+          "title_i18n": {
+            "en": "Paparazzo - The Sex Tape",
+            "pt": "Paparazzo - The Sex Tape"
+          },
+          "description": "Complete Beverly’s filming job and departure.",
+          "description_i18n": {
+            "en": "Complete Beverly’s filming job and departure.",
+            "pt": "Conclua a filmagem de Beverly e a saída."
+          }
+        },
+        {
+          "key": "paparazzo-the-partnership",
+          "title": "Paparazzo - The Partnership",
+          "title_i18n": {
+            "en": "Paparazzo - The Partnership",
+            "pt": "Paparazzo - The Partnership"
+          },
+          "description": "Attend Beverly’s meeting to open the next assignments.",
+          "description_i18n": {
+            "en": "Attend Beverly’s meeting to open the next assignments.",
+            "pt": "Compareça ao encontro de Beverly para liberar os próximos trabalhos."
+          }
+        },
+        {
+          "key": "paparazzo-the-meltdown",
+          "title": "Paparazzo - The Meltdown",
+          "title_i18n": {
+            "en": "Paparazzo - The Meltdown",
+            "pt": "Paparazzo - The Meltdown"
+          },
+          "description": "Follow the celebrity pursuit for Beverly’s assignment.",
+          "description_i18n": {
+            "en": "Follow the celebrity pursuit for Beverly’s assignment.",
+            "pt": "Acompanhe a perseguição da celebridade no trabalho de Beverly."
+          }
+        },
+        {
+          "key": "paparazzo-the-highness",
+          "title": "Paparazzo - The Highness",
+          "title_i18n": {
+            "en": "Paparazzo - The Highness",
+            "pt": "Paparazzo - The Highness"
+          },
+          "description": "Complete Beverly’s royal photography assignment.",
+          "description_i18n": {
+            "en": "Complete Beverly’s royal photography assignment.",
+            "pt": "Conclua o trabalho fotográfico de Beverly envolvendo a realeza."
+          }
+        },
+        {
+          "key": "paparazzo-reality-check",
+          "title": "Paparazzo - Reality Check",
+          "title_i18n": {
+            "en": "Paparazzo - Reality Check",
+            "pt": "Paparazzo - Reality Check"
+          },
+          "description": "Return to Beverly for the strand’s final meeting.",
+          "description_i18n": {
+            "en": "Return to Beverly for the strand’s final meeting.",
+            "pt": "Retorne a Beverly para o encontro final da sequência."
+          }
+        },
+        {
+          "key": "grass-roots-franklin",
+          "title": "Grass Roots - Franklin",
+          "title_i18n": {
+            "en": "Grass Roots - Franklin",
+            "pt": "Grass Roots - Franklin"
+          },
+          "description": "Meet Barry and open Franklin’s vehicle assignments.",
+          "description_i18n": {
+            "en": "Meet Barry and open Franklin’s vehicle assignments.",
+            "pt": "Encontre Barry e libere os trabalhos de veículos de Franklin."
+          }
+        },
+        {
+          "key": "grass-roots-the-pickup",
+          "title": "Grass Roots - The Pickup",
+          "title_i18n": {
+            "en": "Grass Roots - The Pickup",
+            "pt": "Grass Roots - The Pickup"
+          },
+          "description": "Recover and deliver Barry’s requested vehicle.",
+          "description_i18n": {
+            "en": "Recover and deliver Barry’s requested vehicle.",
+            "pt": "Recupere e entregue o veículo pedido por Barry."
+          }
+        },
+        {
+          "key": "grass-roots-the-drag",
+          "title": "Grass Roots - The Drag",
+          "title_i18n": {
+            "en": "Grass Roots - The Drag",
+            "pt": "Grass Roots - The Drag"
+          },
+          "description": "Complete Barry’s separate vehicle-recovery assignment.",
+          "description_i18n": {
+            "en": "Complete Barry’s separate vehicle-recovery assignment.",
+            "pt": "Conclua o outro trabalho de recuperação de veículo de Barry."
+          }
+        },
+        {
+          "key": "grass-roots-the-smoke-in",
+          "title": "Grass Roots - The Smoke-In",
+          "title_i18n": {
+            "en": "Grass Roots - The Smoke-In",
+            "pt": "Grass Roots - The Smoke-In"
+          },
+          "description": "Follow Barry’s invitation to the planned gathering.",
+          "description_i18n": {
+            "en": "Follow Barry’s invitation to the planned gathering.",
+            "pt": "Siga o convite de Barry para o encontro planejado."
+          }
+        },
+        {
+          "key": "exercising-demons-franklin",
+          "title": "Exercising Demons - Franklin",
+          "title_i18n": {
+            "en": "Exercising Demons - Franklin",
+            "pt": "Exercising Demons - Franklin"
+          },
+          "description": "Complete Mary-Ann’s cycling challenge as Franklin.",
+          "description_i18n": {
+            "en": "Complete Mary-Ann’s cycling challenge as Franklin.",
+            "pt": "Conclua o desafio de ciclismo de Mary-Ann com Franklin."
+          }
+        },
+        {
+          "key": "far-out",
+          "title": "Far Out",
+          "title_i18n": {
+            "en": "Far Out",
+            "pt": "Far Out"
+          },
+          "description": "Meet Omega and begin the spaceship-parts search.",
+          "description_i18n": {
+            "en": "Meet Omega and begin the spaceship-parts search.",
+            "pt": "Encontre Omega e inicie a busca pelas peças da nave."
+          }
+        },
+        {
+          "key": "the-final-frontier",
+          "title": "The Final Frontier",
+          "title_i18n": {
+            "en": "The Final Frontier",
+            "pt": "The Final Frontier"
+          },
+          "description": "Return to Omega after collecting all fifty parts.",
+          "description_i18n": {
+            "en": "Return to Omega after collecting all fifty parts.",
+            "pt": "Retorne a Omega após recolher as cinquenta peças."
+          }
+        },
+        {
+          "key": "a-starlet-in-vinewood",
+          "title": "A Starlet in Vinewood",
+          "title_i18n": {
+            "en": "A Starlet in Vinewood",
+            "pt": "A Starlet in Vinewood"
+          },
+          "description": "Follow up the completed letter-scrap investigation as Franklin.",
+          "description_i18n": {
+            "en": "Follow up the completed letter-scrap investigation as Franklin.",
+            "pt": "Continue a investigação dos fragmentos de carta com Franklin após completar a coleção."
+          }
+        },
+        {
+          "key": "risk-assessment",
+          "title": "Risk Assessment",
+          "title_i18n": {
+            "en": "Risk Assessment",
+            "pt": "Risk Assessment"
+          },
+          "description": "Complete Dom’s introductory parachuting outing.",
+          "description_i18n": {
+            "en": "Complete Dom’s introductory parachuting outing.",
+            "pt": "Conclua a saída introdutória de paraquedas com Dom."
+          }
+        },
+        {
+          "key": "liquidity-risk",
+          "title": "Liquidity Risk",
+          "title_i18n": {
+            "en": "Liquidity Risk",
+            "pt": "Liquidity Risk"
+          },
+          "description": "Finish Dom’s airborne vehicle challenge.",
+          "description_i18n": {
+            "en": "Finish Dom’s airborne vehicle challenge.",
+            "pt": "Conclua o desafio de Dom com veículo no ar."
+          }
+        },
+        {
+          "key": "targeted-risk",
+          "title": "Targeted Risk",
+          "title_i18n": {
+            "en": "Targeted Risk",
+            "pt": "Targeted Risk"
+          },
+          "description": "Complete Dom’s precision-landing challenge.",
+          "description_i18n": {
+            "en": "Complete Dom’s precision-landing challenge.",
+            "pt": "Conclua o desafio de aterrissagem de precisão de Dom."
+          }
+        },
+        {
+          "key": "uncalculated-risk",
+          "title": "Uncalculated Risk",
+          "title_i18n": {
+            "en": "Uncalculated Risk",
+            "pt": "Uncalculated Risk"
+          },
+          "description": "Return to Dom after the earlier missions and parachute challenges.",
+          "description_i18n": {
+            "en": "Return to Dom after the earlier missions and parachute challenges.",
+            "pt": "Retorne a Dom após as missões anteriores e os desafios de paraquedas."
+          },
+          "details": "Finish Dom’s earlier missions and all thirteen parachute-jump challenges before returning as Franklin for the final meeting. The parachuting activity has both BASE and helicopter sets; completing only the jumps used in story missions is insufficient. Check for remaining jump icons, then allow the follow-up to appear. This side mission contributes to native completion.",
+          "details_i18n": {
+            "en": "Finish Dom’s earlier missions and all thirteen parachute-jump challenges before returning as Franklin for the final meeting. The parachuting activity has both BASE and helicopter sets; completing only the jumps used in story missions is insufficient. Check for remaining jump icons, then allow the follow-up to appear. This side mission contributes to native completion.",
+            "pt": "Termine as missões anteriores de Dom e os treze desafios de paraquedas antes de retornar com Franklin ao encontro final. A atividade inclui conjuntos BASE e de helicóptero; apenas os saltos feitos durante a história não bastam. Confira os ícones de salto restantes e aguarde a continuação aparecer. Esta missão secundária contribui para a conclusão nativa."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "michael-optional-strangers",
+      "title": "Michael: optional stranger storylines",
+      "title_i18n": {
+        "en": "Michael: optional stranger storylines",
+        "pt": "Michael: histórias opcionais de desconhecidos"
+      },
+      "items": [
+        {
+          "key": "grass-roots-michael",
+          "title": "Grass Roots - Michael",
+          "title_i18n": {
+            "en": "Grass Roots - Michael",
+            "pt": "Grass Roots - Michael"
+          },
+          "description": "Finish Barry’s encounter as Michael.",
+          "description_i18n": {
+            "en": "Finish Barry’s encounter as Michael.",
+            "pt": "Conclua o encontro de Barry com Michael."
+          }
+        },
+        {
+          "key": "exercising-demons-michael",
+          "title": "Exercising Demons - Michael",
+          "title_i18n": {
+            "en": "Exercising Demons - Michael",
+            "pt": "Exercising Demons - Michael"
+          },
+          "description": "Finish Mary-Ann’s running challenge as Michael.",
+          "description_i18n": {
+            "en": "Finish Mary-Ann’s running challenge as Michael.",
+            "pt": "Conclua o desafio de corrida de Mary-Ann com Michael."
+          }
+        },
+        {
+          "key": "seeking-the-truth",
+          "title": "Seeking the Truth",
+          "title_i18n": {
+            "en": "Seeking the Truth",
+            "pt": "Seeking the Truth"
+          },
+          "description": "Use Michael to begin the Epsilon investigation.",
+          "description_i18n": {
+            "en": "Use Michael to begin the Epsilon investigation.",
+            "pt": "Use Michael para iniciar a investigação da Epsilon."
+          }
+        },
+        {
+          "key": "accepting-the-truth",
+          "title": "Accepting the Truth",
+          "title_i18n": {
+            "en": "Accepting the Truth",
+            "pt": "Accepting the Truth"
+          },
+          "description": "Meet the Epsilon representatives and follow the donation instructions.",
+          "description_i18n": {
+            "en": "Meet the Epsilon representatives and follow the donation instructions.",
+            "pt": "Encontre os representantes da Epsilon e siga as instruções de doação."
+          }
+        },
+        {
+          "key": "assuming-the-truth",
+          "title": "Assuming the Truth",
+          "title_i18n": {
+            "en": "Assuming the Truth",
+            "pt": "Assuming the Truth"
+          },
+          "description": "Complete the Epsilon vehicle requests.",
+          "description_i18n": {
+            "en": "Complete the Epsilon vehicle requests.",
+            "pt": "Conclua os pedidos de veículos da Epsilon."
+          }
+        },
+        {
+          "key": "chasing-the-truth",
+          "title": "Chasing the Truth",
+          "title_i18n": {
+            "en": "Chasing the Truth",
+            "pt": "Chasing the Truth"
+          },
+          "description": "Finish the Epsilon artifact search.",
+          "description_i18n": {
+            "en": "Finish the Epsilon artifact search.",
+            "pt": "Conclua a busca de artefatos da Epsilon."
+          }
+        },
+        {
+          "key": "bearing-the-truth",
+          "title": "Bearing the Truth",
+          "title_i18n": {
+            "en": "Bearing the Truth",
+            "pt": "Bearing the Truth"
+          },
+          "description": "Fulfill the Epsilon clothing requirement.",
+          "description_i18n": {
+            "en": "Fulfill the Epsilon clothing requirement.",
+            "pt": "Cumpra o requisito de vestimenta da Epsilon."
+          },
+          "details": "Buy the Epsilon robes when instructed, wait for delivery and equip them from Michael’s wardrobe. Keep wearing them for the required ten in-game days; Michael’s bed can advance time. A later assignment, Exercising the Truth, separately requires five miles on foot inside the pilgrimage area while wearing the robes. Vehicle travel or leaving that area does not substitute for the walking objective.",
+          "details_i18n": {
+            "en": "Buy the Epsilon robes when instructed, wait for delivery and equip them from Michael’s wardrobe. Keep wearing them for the required ten in-game days; Michael’s bed can advance time. A later assignment, Exercising the Truth, separately requires five miles on foot inside the pilgrimage area while wearing the robes. Vehicle travel or leaving that area does not substitute for the walking objective.",
+            "pt": "Compre as roupas da Epsilon quando solicitado, aguarde a entrega e equipe-as no guarda-roupa de Michael. Use-as pelos dez dias exigidos do jogo; a cama de Michael permite avançar o tempo. Outra missão posterior, Exercising the Truth, exige separadamente cinco milhas a pé na área de peregrinação usando as roupas. Viajar de veículo ou sair dessa área não substitui o objetivo de caminhada."
+          }
+        },
+        {
+          "key": "delivering-the-truth",
+          "title": "Delivering the Truth",
+          "title_i18n": {
+            "en": "Delivering the Truth",
+            "pt": "Delivering the Truth"
+          },
+          "description": "Deliver the aircraft requested by Epsilon.",
+          "description_i18n": {
+            "en": "Deliver the aircraft requested by Epsilon.",
+            "pt": "Entregue a aeronave solicitada pela Epsilon."
+          }
+        },
+        {
+          "key": "exercising-the-truth",
+          "title": "Exercising the Truth",
+          "title_i18n": {
+            "en": "Exercising the Truth",
+            "pt": "Exercising the Truth"
+          },
+          "description": "Complete the Epsilon pilgrimage requirement.",
+          "description_i18n": {
+            "en": "Complete the Epsilon pilgrimage requirement.",
+            "pt": "Conclua o requisito de peregrinação da Epsilon."
+          }
+        },
+        {
+          "key": "unknowing-the-truth",
+          "title": "Unknowing the Truth",
+          "title_i18n": {
+            "en": "Unknowing the Truth",
+            "pt": "Unknowing the Truth"
+          },
+          "description": "Finish Michael’s Epsilon storyline.",
+          "description_i18n": {
+            "en": "Finish Michael’s Epsilon storyline.",
+            "pt": "Conclua a história de Michael com a Epsilon."
+          }
+        },
+        {
+          "key": "death-at-sea",
+          "title": "Death at Sea",
+          "title_i18n": {
+            "en": "Death at Sea",
+            "pt": "Death at Sea"
+          },
+          "description": "Meet Abigail and begin her underwater collection.",
+          "description_i18n": {
+            "en": "Meet Abigail and begin her underwater collection.",
+            "pt": "Encontre Abigail e inicie a coleção submarina."
+          }
+        },
+        {
+          "key": "what-lies-beneath",
+          "title": "What Lies Beneath",
+          "title_i18n": {
+            "en": "What Lies Beneath",
+            "pt": "What Lies Beneath"
+          },
+          "description": "Return to Abigail after finding the thirty submarine pieces.",
+          "description_i18n": {
+            "en": "Return to Abigail after finding the thirty submarine pieces.",
+            "pt": "Retorne a Abigail após encontrar as trinta peças de submarino."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "trevor-optional-strangers",
+      "title": "Trevor: optional stranger storylines",
+      "title_i18n": {
+        "en": "Trevor: optional stranger storylines",
+        "pt": "Trevor: histórias opcionais de desconhecidos"
+      },
+      "items": [
+        {
+          "key": "target-practice",
+          "title": "Target Practice",
+          "title_i18n": {
+            "en": "Target Practice",
+            "pt": "Target Practice"
+          },
+          "description": "Finish Cletus’s shooting lesson as Trevor.",
+          "description_i18n": {
+            "en": "Finish Cletus’s shooting lesson as Trevor.",
+            "pt": "Conclua a aula de tiro de Cletus com Trevor."
+          }
+        },
+        {
+          "key": "fair-game",
+          "title": "Fair Game",
+          "title_i18n": {
+            "en": "Fair Game",
+            "pt": "Fair Game"
+          },
+          "description": "Complete Cletus’s hunting lesson.",
+          "description_i18n": {
+            "en": "Complete Cletus’s hunting lesson.",
+            "pt": "Conclua a aula de caça de Cletus."
+          }
+        },
+        {
+          "key": "grass-roots-trevor",
+          "title": "Grass Roots - Trevor",
+          "title_i18n": {
+            "en": "Grass Roots - Trevor",
+            "pt": "Grass Roots - Trevor"
+          },
+          "description": "Finish Barry’s encounter as Trevor.",
+          "description_i18n": {
+            "en": "Finish Barry’s encounter as Trevor.",
+            "pt": "Conclua o encontro de Barry com Trevor."
+          }
+        },
+        {
+          "key": "exercising-demons-trevor",
+          "title": "Exercising Demons - Trevor",
+          "title_i18n": {
+            "en": "Exercising Demons - Trevor",
+            "pt": "Exercising Demons - Trevor"
+          },
+          "description": "Complete Mary-Ann’s challenge as Trevor.",
+          "description_i18n": {
+            "en": "Complete Mary-Ann’s challenge as Trevor.",
+            "pt": "Conclua o desafio de Mary-Ann com Trevor."
+          }
+        },
+        {
+          "key": "nigel-and-mrs-thornhill",
+          "title": "Nigel and Mrs. Thornhill",
+          "title_i18n": {
+            "en": "Nigel and Mrs. Thornhill",
+            "pt": "Nigel and Mrs. Thornhill"
+          },
+          "description": "Meet the souvenir collectors as Trevor.",
+          "description_i18n": {
+            "en": "Meet the souvenir collectors as Trevor.",
+            "pt": "Conheça os colecionadores de lembranças com Trevor."
+          }
+        },
+        {
+          "key": "vinewood-souvenirs-willie",
+          "title": "Vinewood Souvenirs - Willie",
+          "title_i18n": {
+            "en": "Vinewood Souvenirs - Willie",
+            "pt": "Vinewood Souvenirs - Willie"
+          },
+          "description": "Complete Willie’s souvenir assignment.",
+          "description_i18n": {
+            "en": "Complete Willie’s souvenir assignment.",
+            "pt": "Conclua o trabalho de lembrança envolvendo Willie."
+          }
+        },
+        {
+          "key": "vinewood-souvenirs-tyler",
+          "title": "Vinewood Souvenirs - Tyler",
+          "title_i18n": {
+            "en": "Vinewood Souvenirs - Tyler",
+            "pt": "Vinewood Souvenirs - Tyler"
+          },
+          "description": "Complete Tyler’s souvenir assignment.",
+          "description_i18n": {
+            "en": "Complete Tyler’s souvenir assignment.",
+            "pt": "Conclua o trabalho de lembrança envolvendo Tyler."
+          }
+        },
+        {
+          "key": "vinewood-souvenirs-kerry",
+          "title": "Vinewood Souvenirs - Kerry",
+          "title_i18n": {
+            "en": "Vinewood Souvenirs - Kerry",
+            "pt": "Vinewood Souvenirs - Kerry"
+          },
+          "description": "Complete Kerry’s souvenir assignment.",
+          "description_i18n": {
+            "en": "Complete Kerry’s souvenir assignment.",
+            "pt": "Conclua o trabalho de lembrança envolvendo Kerry."
+          }
+        },
+        {
+          "key": "vinewood-souvenirs-mark",
+          "title": "Vinewood Souvenirs - Mark",
+          "title_i18n": {
+            "en": "Vinewood Souvenirs - Mark",
+            "pt": "Vinewood Souvenirs - Mark"
+          },
+          "description": "Complete Mark’s golf-course souvenir assignment.",
+          "description_i18n": {
+            "en": "Complete Mark’s golf-course souvenir assignment.",
+            "pt": "Conclua o trabalho de lembrança envolvendo Mark no campo de golfe."
+          }
+        },
+        {
+          "key": "vinewood-souvenirs-al-di-napoli",
+          "title": "Vinewood Souvenirs - Al Di Napoli",
+          "title_i18n": {
+            "en": "Vinewood Souvenirs - Al Di Napoli",
+            "pt": "Vinewood Souvenirs - Al Di Napoli"
+          },
+          "description": "Complete the collectors’ vehicle pursuit.",
+          "description_i18n": {
+            "en": "Complete the collectors’ vehicle pursuit.",
+            "pt": "Conclua a perseguição de veículo dos colecionadores."
+          }
+        },
+        {
+          "key": "vinewood-souvenirs-the-last-act",
+          "title": "Vinewood Souvenirs - The Last Act",
+          "title_i18n": {
+            "en": "Vinewood Souvenirs - The Last Act",
+            "pt": "Vinewood Souvenirs - The Last Act"
+          },
+          "description": "Finish the collectors’ final request.",
+          "description_i18n": {
+            "en": "Finish the collectors’ final request.",
+            "pt": "Conclua o pedido final dos colecionadores."
+          }
+        },
+        {
+          "key": "extra-commission",
+          "title": "Extra Commission",
+          "title_i18n": {
+            "en": "Extra Commission",
+            "pt": "Extra Commission"
+          },
+          "description": "Finish Josh’s property-sign assignment.",
+          "description_i18n": {
+            "en": "Finish Josh’s property-sign assignment.",
+            "pt": "Conclua o trabalho de Josh envolvendo placas de imóveis."
+          }
+        },
+        {
+          "key": "closing-the-deal",
+          "title": "Closing the Deal",
+          "title_i18n": {
+            "en": "Closing the Deal",
+            "pt": "Closing the Deal"
+          },
+          "description": "Follow Josh’s request concerning his rival.",
+          "description_i18n": {
+            "en": "Follow Josh’s request concerning his rival.",
+            "pt": "Siga o pedido de Josh envolvendo seu rival."
+          }
+        },
+        {
+          "key": "surreal-estate",
+          "title": "Surreal Estate",
+          "title_i18n": {
+            "en": "Surreal Estate",
+            "pt": "Surreal Estate"
+          },
+          "description": "Complete Josh’s next property assignment.",
+          "description_i18n": {
+            "en": "Complete Josh’s next property assignment.",
+            "pt": "Conclua o próximo trabalho de Josh ligado a imóveis."
+          }
+        },
+        {
+          "key": "breach-of-contract",
+          "title": "Breach of Contract",
+          "title_i18n": {
+            "en": "Breach of Contract",
+            "pt": "Breach of Contract"
+          },
+          "description": "Finish Josh’s concluding confrontation.",
+          "description_i18n": {
+            "en": "Finish Josh’s concluding confrontation.",
+            "pt": "Conclua o confronto final da sequência de Josh."
+          }
+        },
+        {
+          "key": "the-civil-border-patrol",
+          "title": "The Civil Border Patrol",
+          "title_i18n": {
+            "en": "The Civil Border Patrol",
+            "pt": "The Civil Border Patrol"
+          },
+          "description": "Meet the patrol and finish its first vehicle outing.",
+          "description_i18n": {
+            "en": "Meet the patrol and finish its first vehicle outing.",
+            "pt": "Conheça a patrulha e conclua a primeira saída de veículo."
+          }
+        },
+        {
+          "key": "an-american-welcome",
+          "title": "An American Welcome",
+          "title_i18n": {
+            "en": "An American Welcome",
+            "pt": "An American Welcome"
+          },
+          "description": "Complete the patrol’s next interception.",
+          "description_i18n": {
+            "en": "Complete the patrol’s next interception.",
+            "pt": "Conclua a próxima interceptação da patrulha."
+          }
+        },
+        {
+          "key": "minute-man-blues",
+          "title": "Minute Man Blues",
+          "title_i18n": {
+            "en": "Minute Man Blues",
+            "pt": "Minute Man Blues"
+          },
+          "description": "Finish Trevor’s patrol storyline.",
+          "description_i18n": {
+            "en": "Finish Trevor’s patrol storyline.",
+            "pt": "Conclua a história de Trevor com a patrulha."
+          }
+        },
+        {
+          "key": "mrs-philips",
+          "title": "Mrs. Philips",
+          "title_i18n": {
+            "en": "Mrs. Philips",
+            "pt": "Mrs. Philips"
+          },
+          "description": "Meet Trevor’s family visitor after the story, if available.",
+          "description_i18n": {
+            "en": "Meet Trevor’s family visitor after the story, if available.",
+            "pt": "Encontre a visita familiar de Trevor após a história, caso esteja disponível."
+          }
+        },
+        {
+          "key": "damaged-goods",
+          "title": "Damaged Goods",
+          "title_i18n": {
+            "en": "Damaged Goods",
+            "pt": "Damaged Goods"
+          },
+          "description": "Finish the follow-up request to Mrs. Philips, if available.",
+          "description_i18n": {
+            "en": "Finish the follow-up request to Mrs. Philips, if available.",
+            "pt": "Conclua o pedido seguinte de Mrs. Philips, caso esteja disponível."
+          }
+        },
+        {
+          "key": "maude-bail-bonds-ralph-ostrowski",
+          "title": "Maude Bail Bonds: Ralph Ostrowski",
+          "title_i18n": {
+            "en": "Maude Bail Bonds: Ralph Ostrowski",
+            "pt": "Maude Bail Bonds: Ralph Ostrowski"
+          },
+          "description": "Locate this named target and complete Maude’s delivery.",
+          "description_i18n": {
+            "en": "Locate this named target and complete Maude’s delivery.",
+            "pt": "Localize este alvo e conclua a entrega para Maude."
+          },
+          "details": "For Wanted: Alive or Alive, preserve at least one target for a live return rather than completing every bounty lethally. Pursue the marked target and stop attacking once the surrender behavior begins, then transport the captive to Maude. Keep a save before starting a bounty if the trophy is still missing; a corpse satisfies a different outcome from a live delivery.",
+          "details_i18n": {
+            "en": "For Wanted: Alive or Alive, preserve at least one target for a live return rather than completing every bounty lethally. Pursue the marked target and stop attacking once the surrender behavior begins, then transport the captive to Maude. Keep a save before starting a bounty if the trophy is still missing; a corpse satisfies a different outcome from a live delivery.",
+            "pt": "Para Wanted: Alive or Alive, preserve pelo menos um alvo para uma entrega com vida em vez de concluir todas as caçadas de forma letal. Persiga o alvo marcado, interrompa o ataque quando ele começar a se render e leve o capturado a Maude. Mantenha um salvamento antes de iniciar uma caçada se o troféu ainda faltar; um corpo corresponde a outro resultado, diferente da entrega com vida."
+          }
+        },
+        {
+          "key": "maude-bail-bonds-larry-tupper",
+          "title": "Maude Bail Bonds: Larry Tupper",
+          "title_i18n": {
+            "en": "Maude Bail Bonds: Larry Tupper",
+            "pt": "Maude Bail Bonds: Larry Tupper"
+          },
+          "description": "Locate this named target and complete Maude’s delivery.",
+          "description_i18n": {
+            "en": "Locate this named target and complete Maude’s delivery.",
+            "pt": "Localize este alvo e conclua a entrega para Maude."
+          }
+        },
+        {
+          "key": "maude-bail-bonds-glenn-scoville",
+          "title": "Maude Bail Bonds: Glenn Scoville",
+          "title_i18n": {
+            "en": "Maude Bail Bonds: Glenn Scoville",
+            "pt": "Maude Bail Bonds: Glenn Scoville"
+          },
+          "description": "Locate this named target and complete Maude’s delivery.",
+          "description_i18n": {
+            "en": "Locate this named target and complete Maude’s delivery.",
+            "pt": "Localize este alvo e conclua a entrega para Maude."
+          }
+        },
+        {
+          "key": "maude-bail-bonds-curtis-weaver",
+          "title": "Maude Bail Bonds: Curtis Weaver",
+          "title_i18n": {
+            "en": "Maude Bail Bonds: Curtis Weaver",
+            "pt": "Maude Bail Bonds: Curtis Weaver"
+          },
+          "description": "Locate this named target and complete Maude’s delivery.",
+          "description_i18n": {
+            "en": "Locate this named target and complete Maude’s delivery.",
+            "pt": "Localize este alvo e conclua a entrega para Maude."
+          }
+        },
+        {
+          "key": "rampage-rednecks",
+          "title": "Rampage: Rednecks",
+          "title_i18n": {
+            "en": "Rampage: Rednecks",
+            "pt": "Rampage: Rednecks"
+          },
+          "description": "Complete this Trevor rampage; it is extra to native 100%.",
+          "description_i18n": {
+            "en": "Complete this Trevor rampage; it is extra to native 100%.",
+            "pt": "Conclua este rampage de Trevor; ele é extra em relação aos 100% nativos."
+          }
+        },
+        {
+          "key": "rampage-vagos",
+          "title": "Rampage: Vagos",
+          "title_i18n": {
+            "en": "Rampage: Vagos",
+            "pt": "Rampage: Vagos"
+          },
+          "description": "Complete this Trevor rampage; it is extra to native 100%.",
+          "description_i18n": {
+            "en": "Complete this Trevor rampage; it is extra to native 100%.",
+            "pt": "Conclua este rampage de Trevor; ele é extra em relação aos 100% nativos."
+          }
+        },
+        {
+          "key": "rampage-ballas",
+          "title": "Rampage: Ballas",
+          "title_i18n": {
+            "en": "Rampage: Ballas",
+            "pt": "Rampage: Ballas"
+          },
+          "description": "Complete this Trevor rampage; it is extra to native 100%.",
+          "description_i18n": {
+            "en": "Complete this Trevor rampage; it is extra to native 100%.",
+            "pt": "Conclua este rampage de Trevor; ele é extra em relação aos 100% nativos."
+          }
+        },
+        {
+          "key": "rampage-military",
+          "title": "Rampage: Military",
+          "title_i18n": {
+            "en": "Rampage: Military",
+            "pt": "Rampage: Military"
+          },
+          "description": "Complete this Trevor rampage; it is extra to native 100%.",
+          "description_i18n": {
+            "en": "Complete this Trevor rampage; it is extra to native 100%.",
+            "pt": "Conclua este rampage de Trevor; ele é extra em relação aos 100% nativos."
+          }
+        },
+        {
+          "key": "rampage-hipsters",
+          "title": "Rampage: Hipsters",
+          "title_i18n": {
+            "en": "Rampage: Hipsters",
+            "pt": "Rampage: Hipsters"
+          },
+          "description": "Complete this Trevor rampage; it is extra to native 100%.",
+          "description_i18n": {
+            "en": "Complete this Trevor rampage; it is extra to native 100%.",
+            "pt": "Conclua este rampage de Trevor; ele é extra em relação aos 100% nativos."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "schools-and-shooting",
+      "title": "Flight School and Shooting Range",
+      "title_i18n": {
+        "en": "Flight School and Shooting Range",
+        "pt": "Flight School e estande de tiro"
+      },
+      "items": [
+        {
+          "key": "flight-school-training-take-off",
+          "title": "Flight School: Training Take Off",
+          "title_i18n": {
+            "en": "Flight School: Training Take Off",
+            "pt": "Flight School: Training Take Off"
+          },
+          "description": "Earn bronze or better in this lesson.",
+          "description_i18n": {
+            "en": "Earn bronze or better in this lesson.",
+            "pt": "Obtenha bronze ou melhor nesta aula."
+          }
+        },
+        {
+          "key": "flight-school-runway-landing",
+          "title": "Flight School: Runway Landing",
+          "title_i18n": {
+            "en": "Flight School: Runway Landing",
+            "pt": "Flight School: Runway Landing"
+          },
+          "description": "Earn bronze or better in this lesson.",
+          "description_i18n": {
+            "en": "Earn bronze or better in this lesson.",
+            "pt": "Obtenha bronze ou melhor nesta aula."
+          }
+        },
+        {
+          "key": "flight-school-inverted-flight",
+          "title": "Flight School: Inverted Flight",
+          "title_i18n": {
+            "en": "Flight School: Inverted Flight",
+            "pt": "Flight School: Inverted Flight"
+          },
+          "description": "Earn bronze or better in this lesson.",
+          "description_i18n": {
+            "en": "Earn bronze or better in this lesson.",
+            "pt": "Obtenha bronze ou melhor nesta aula."
+          }
+        },
+        {
+          "key": "flight-school-knife-flight",
+          "title": "Flight School: Knife Flight",
+          "title_i18n": {
+            "en": "Flight School: Knife Flight",
+            "pt": "Flight School: Knife Flight"
+          },
+          "description": "Earn bronze or better in this lesson.",
+          "description_i18n": {
+            "en": "Earn bronze or better in this lesson.",
+            "pt": "Obtenha bronze ou melhor nesta aula."
+          }
+        },
+        {
+          "key": "flight-school-flat-hatting",
+          "title": "Flight School: Flat Hatting",
+          "title_i18n": {
+            "en": "Flight School: Flat Hatting",
+            "pt": "Flight School: Flat Hatting"
+          },
+          "description": "Earn bronze or better in this lesson.",
+          "description_i18n": {
+            "en": "Earn bronze or better in this lesson.",
+            "pt": "Obtenha bronze ou melhor nesta aula."
+          }
+        },
+        {
+          "key": "flight-school-touch-down",
+          "title": "Flight School: Touch Down",
+          "title_i18n": {
+            "en": "Flight School: Touch Down",
+            "pt": "Flight School: Touch Down"
+          },
+          "description": "Earn bronze or better in this lesson.",
+          "description_i18n": {
+            "en": "Earn bronze or better in this lesson.",
+            "pt": "Obtenha bronze ou melhor nesta aula."
+          }
+        },
+        {
+          "key": "flight-school-loop-the-loop",
+          "title": "Flight School: Loop the Loop",
+          "title_i18n": {
+            "en": "Flight School: Loop the Loop",
+            "pt": "Flight School: Loop the Loop"
+          },
+          "description": "Earn bronze or better in this lesson.",
+          "description_i18n": {
+            "en": "Earn bronze or better in this lesson.",
+            "pt": "Obtenha bronze ou melhor nesta aula."
+          }
+        },
+        {
+          "key": "flight-school-helicopter-course",
+          "title": "Flight School: Helicopter Course",
+          "title_i18n": {
+            "en": "Flight School: Helicopter Course",
+            "pt": "Flight School: Helicopter Course"
+          },
+          "description": "Earn bronze or better in this lesson.",
+          "description_i18n": {
+            "en": "Earn bronze or better in this lesson.",
+            "pt": "Obtenha bronze ou melhor nesta aula."
+          }
+        },
+        {
+          "key": "flight-school-helicopter-speed-run",
+          "title": "Flight School: Helicopter Speed Run",
+          "title_i18n": {
+            "en": "Flight School: Helicopter Speed Run",
+            "pt": "Flight School: Helicopter Speed Run"
+          },
+          "description": "Earn bronze or better in this lesson.",
+          "description_i18n": {
+            "en": "Earn bronze or better in this lesson.",
+            "pt": "Obtenha bronze ou melhor nesta aula."
+          }
+        },
+        {
+          "key": "flight-school-skydiving",
+          "title": "Flight School: Skydiving",
+          "title_i18n": {
+            "en": "Flight School: Skydiving",
+            "pt": "Flight School: Skydiving"
+          },
+          "description": "Earn bronze or better in this lesson.",
+          "description_i18n": {
+            "en": "Earn bronze or better in this lesson.",
+            "pt": "Obtenha bronze ou melhor nesta aula."
+          }
+        },
+        {
+          "key": "flight-school-drop-zone",
+          "title": "Flight School: Drop Zone",
+          "title_i18n": {
+            "en": "Flight School: Drop Zone",
+            "pt": "Flight School: Drop Zone"
+          },
+          "description": "Earn bronze or better in this lesson.",
+          "description_i18n": {
+            "en": "Earn bronze or better in this lesson.",
+            "pt": "Obtenha bronze ou melhor nesta aula."
+          }
+        },
+        {
+          "key": "flight-school-earn-your-wings",
+          "title": "Flight School: Earn Your Wings",
+          "title_i18n": {
+            "en": "Flight School: Earn Your Wings",
+            "pt": "Flight School: Earn Your Wings"
+          },
+          "description": "Earn bronze or better in this lesson.",
+          "description_i18n": {
+            "en": "Earn bronze or better in this lesson.",
+            "pt": "Obtenha bronze ou melhor nesta aula."
+          }
+        },
+        {
+          "key": "shooting-range-hand-guns",
+          "title": "Shooting Range: Hand Guns",
+          "title_i18n": {
+            "en": "Shooting Range: Hand Guns",
+            "pt": "Shooting Range: Hand Guns"
+          },
+          "description": "Earn bronze or better in all three challenges of this weapon class.",
+          "description_i18n": {
+            "en": "Earn bronze or better in all three challenges of this weapon class.",
+            "pt": "Obtenha bronze ou melhor nos três desafios desta classe de arma."
+          }
+        },
+        {
+          "key": "shooting-range-submachine-guns",
+          "title": "Shooting Range: Submachine Guns",
+          "title_i18n": {
+            "en": "Shooting Range: Submachine Guns",
+            "pt": "Shooting Range: Submachine Guns"
+          },
+          "description": "Earn bronze or better in all three challenges of this weapon class.",
+          "description_i18n": {
+            "en": "Earn bronze or better in all three challenges of this weapon class.",
+            "pt": "Obtenha bronze ou melhor nos três desafios desta classe de arma."
+          }
+        },
+        {
+          "key": "shooting-range-assault-rifles",
+          "title": "Shooting Range: Assault Rifles",
+          "title_i18n": {
+            "en": "Shooting Range: Assault Rifles",
+            "pt": "Shooting Range: Assault Rifles"
+          },
+          "description": "Earn bronze or better in all three challenges of this weapon class.",
+          "description_i18n": {
+            "en": "Earn bronze or better in all three challenges of this weapon class.",
+            "pt": "Obtenha bronze ou melhor nos três desafios desta classe de arma."
+          }
+        },
+        {
+          "key": "shooting-range-shotguns",
+          "title": "Shooting Range: Shotguns",
+          "title_i18n": {
+            "en": "Shooting Range: Shotguns",
+            "pt": "Shooting Range: Shotguns"
+          },
+          "description": "Earn bronze or better in all three challenges of this weapon class.",
+          "description_i18n": {
+            "en": "Earn bronze or better in all three challenges of this weapon class.",
+            "pt": "Obtenha bronze ou melhor nos três desafios desta classe de arma."
+          }
+        },
+        {
+          "key": "shooting-range-light-machine-guns",
+          "title": "Shooting Range: Light Machine Guns",
+          "title_i18n": {
+            "en": "Shooting Range: Light Machine Guns",
+            "pt": "Shooting Range: Light Machine Guns"
+          },
+          "description": "Earn bronze or better in all three challenges of this weapon class.",
+          "description_i18n": {
+            "en": "Earn bronze or better in all three challenges of this weapon class.",
+            "pt": "Obtenha bronze ou melhor nos três desafios desta classe de arma."
+          }
+        },
+        {
+          "key": "shooting-range-heavy",
+          "title": "Shooting Range: Heavy",
+          "title_i18n": {
+            "en": "Shooting Range: Heavy",
+            "pt": "Shooting Range: Heavy"
+          },
+          "description": "Earn bronze or better in all three challenges of this weapon class.",
+          "description_i18n": {
+            "en": "Earn bronze or better in all three challenges of this weapon class.",
+            "pt": "Obtenha bronze ou melhor nos três desafios desta classe de arma."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "races-and-triathlons",
+      "title": "Street, off-road, sea races and triathlons",
+      "title_i18n": {
+        "en": "Street, off-road, sea races and triathlons",
+        "pt": "Corridas de rua, terra, mar e triatlos"
+      },
+      "items": [
+        {
+          "key": "street-race-south-los-santos",
+          "title": "Street Race: South Los Santos",
+          "title_i18n": {
+            "en": "Street Race: South Los Santos",
+            "pt": "Corrida de rua: South Los Santos"
+          },
+          "description": "Finish third or better for native completion credit.",
+          "description_i18n": {
+            "en": "Finish third or better for native completion credit.",
+            "pt": "Termine em terceiro ou melhor para registrar a conclusão nativa."
+          }
+        },
+        {
+          "key": "street-race-city-circuit",
+          "title": "Street Race: City Circuit",
+          "title_i18n": {
+            "en": "Street Race: City Circuit",
+            "pt": "Corrida de rua: City Circuit"
+          },
+          "description": "Finish third or better for native completion credit.",
+          "description_i18n": {
+            "en": "Finish third or better for native completion credit.",
+            "pt": "Termine em terceiro ou melhor para registrar a conclusão nativa."
+          }
+        },
+        {
+          "key": "street-race-airport",
+          "title": "Street Race: Airport",
+          "title_i18n": {
+            "en": "Street Race: Airport",
+            "pt": "Corrida de rua: Airport"
+          },
+          "description": "Finish third or better for native completion credit.",
+          "description_i18n": {
+            "en": "Finish third or better for native completion credit.",
+            "pt": "Termine em terceiro ou melhor para registrar a conclusão nativa."
+          }
+        },
+        {
+          "key": "street-race-freeway",
+          "title": "Street Race: Freeway",
+          "title_i18n": {
+            "en": "Street Race: Freeway",
+            "pt": "Corrida de rua: Freeway"
+          },
+          "description": "Finish third or better for native completion credit.",
+          "description_i18n": {
+            "en": "Finish third or better for native completion credit.",
+            "pt": "Termine em terceiro ou melhor para registrar a conclusão nativa."
+          }
+        },
+        {
+          "key": "street-race-vespucci-canals",
+          "title": "Street Race: Vespucci Canals",
+          "title_i18n": {
+            "en": "Street Race: Vespucci Canals",
+            "pt": "Corrida de rua: Vespucci Canals"
+          },
+          "description": "Finish third or better for native completion credit.",
+          "description_i18n": {
+            "en": "Finish third or better for native completion credit.",
+            "pt": "Termine em terceiro ou melhor para registrar a conclusão nativa."
+          }
+        },
+        {
+          "key": "offroad-race-canyon-cliffs",
+          "title": "Offroad Race: Canyon Cliffs",
+          "title_i18n": {
+            "en": "Offroad Race: Canyon Cliffs",
+            "pt": "Corrida off-road: Canyon Cliffs"
+          },
+          "description": "Finish third or better for native completion credit.",
+          "description_i18n": {
+            "en": "Finish third or better for native completion credit.",
+            "pt": "Termine em terceiro ou melhor para registrar a conclusão nativa."
+          }
+        },
+        {
+          "key": "offroad-race-ridge-run",
+          "title": "Offroad Race: Ridge Run",
+          "title_i18n": {
+            "en": "Offroad Race: Ridge Run",
+            "pt": "Corrida off-road: Ridge Run"
+          },
+          "description": "Finish third or better for native completion credit.",
+          "description_i18n": {
+            "en": "Finish third or better for native completion credit.",
+            "pt": "Termine em terceiro ou melhor para registrar a conclusão nativa."
+          }
+        },
+        {
+          "key": "offroad-race-mineward-spiral",
+          "title": "Offroad Race: Mineward Spiral",
+          "title_i18n": {
+            "en": "Offroad Race: Mineward Spiral",
+            "pt": "Corrida off-road: Mineward Spiral"
+          },
+          "description": "Finish third or better for native completion credit.",
+          "description_i18n": {
+            "en": "Finish third or better for native completion credit.",
+            "pt": "Termine em terceiro ou melhor para registrar a conclusão nativa."
+          }
+        },
+        {
+          "key": "offroad-race-valley-trail",
+          "title": "Offroad Race: Valley Trail",
+          "title_i18n": {
+            "en": "Offroad Race: Valley Trail",
+            "pt": "Corrida off-road: Valley Trail"
+          },
+          "description": "Finish third or better for native completion credit.",
+          "description_i18n": {
+            "en": "Finish third or better for native completion credit.",
+            "pt": "Termine em terceiro ou melhor para registrar a conclusão nativa."
+          }
+        },
+        {
+          "key": "offroad-race-lakeside-splash",
+          "title": "Offroad Race: Lakeside Splash",
+          "title_i18n": {
+            "en": "Offroad Race: Lakeside Splash",
+            "pt": "Corrida off-road: Lakeside Splash"
+          },
+          "description": "Finish third or better for native completion credit.",
+          "description_i18n": {
+            "en": "Finish third or better for native completion credit.",
+            "pt": "Termine em terceiro ou melhor para registrar a conclusão nativa."
+          }
+        },
+        {
+          "key": "offroad-race-eco-friendly",
+          "title": "Offroad Race: Eco Friendly",
+          "title_i18n": {
+            "en": "Offroad Race: Eco Friendly",
+            "pt": "Corrida off-road: Eco Friendly"
+          },
+          "description": "Finish third or better for native completion credit.",
+          "description_i18n": {
+            "en": "Finish third or better for native completion credit.",
+            "pt": "Termine em terceiro ou melhor para registrar a conclusão nativa."
+          }
+        },
+        {
+          "key": "sea-race-east-coast",
+          "title": "Sea Race: East Coast",
+          "title_i18n": {
+            "en": "Sea Race: East Coast",
+            "pt": "Corrida marítima: East Coast"
+          },
+          "description": "Finish third or better for native completion credit.",
+          "description_i18n": {
+            "en": "Finish third or better for native completion credit.",
+            "pt": "Termine em terceiro ou melhor para registrar a conclusão nativa."
+          }
+        },
+        {
+          "key": "sea-race-north-east-coast",
+          "title": "Sea Race: North East Coast",
+          "title_i18n": {
+            "en": "Sea Race: North East Coast",
+            "pt": "Corrida marítima: North East Coast"
+          },
+          "description": "Finish third or better for native completion credit.",
+          "description_i18n": {
+            "en": "Finish third or better for native completion credit.",
+            "pt": "Termine em terceiro ou melhor para registrar a conclusão nativa."
+          }
+        },
+        {
+          "key": "sea-race-raton-canyon",
+          "title": "Sea Race: Raton Canyon",
+          "title_i18n": {
+            "en": "Sea Race: Raton Canyon",
+            "pt": "Corrida marítima: Raton Canyon"
+          },
+          "description": "Finish third or better for native completion credit.",
+          "description_i18n": {
+            "en": "Finish third or better for native completion credit.",
+            "pt": "Termine em terceiro ou melhor para registrar a conclusão nativa."
+          }
+        },
+        {
+          "key": "sea-race-los-santos",
+          "title": "Sea Race: Los Santos",
+          "title_i18n": {
+            "en": "Sea Race: Los Santos",
+            "pt": "Corrida marítima: Los Santos"
+          },
+          "description": "Finish third or better for native completion credit.",
+          "description_i18n": {
+            "en": "Finish third or better for native completion credit.",
+            "pt": "Termine em terceiro ou melhor para registrar a conclusão nativa."
+          }
+        },
+        {
+          "key": "triathlon-vespucci",
+          "title": "Triathlon: Vespucci",
+          "title_i18n": {
+            "en": "Triathlon: Vespucci",
+            "pt": "Triatlo: Vespucci"
+          },
+          "description": "Finish third or better for native completion credit.",
+          "description_i18n": {
+            "en": "Finish third or better for native completion credit.",
+            "pt": "Termine em terceiro ou melhor para registrar a conclusão nativa."
+          }
+        },
+        {
+          "key": "triathlon-alamo-sea",
+          "title": "Triathlon: Alamo Sea",
+          "title_i18n": {
+            "en": "Triathlon: Alamo Sea",
+            "pt": "Triatlo: Alamo Sea"
+          },
+          "description": "Finish third or better for native completion credit.",
+          "description_i18n": {
+            "en": "Finish third or better for native completion credit.",
+            "pt": "Termine em terceiro ou melhor para registrar a conclusão nativa."
+          }
+        },
+        {
+          "key": "triathlon-coyote-cross-country",
+          "title": "Triathlon: Coyote Cross Country",
+          "title_i18n": {
+            "en": "Triathlon: Coyote Cross Country",
+            "pt": "Triatlo: Coyote Cross Country"
+          },
+          "description": "Finish third or better for native completion credit.",
+          "description_i18n": {
+            "en": "Finish third or better for native completion credit.",
+            "pt": "Termine em terceiro ou melhor para registrar a conclusão nativa."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "pastimes-and-social-goals",
+      "title": "Required pastimes and social goals",
+      "title_i18n": {
+        "en": "Required pastimes and social goals",
+        "pt": "Passatempos e objetivos sociais exigidos"
+      },
+      "items": [
+        {
+          "key": "tennis-win",
+          "title": "Win a tennis match",
+          "title_i18n": {
+            "en": "Win a tennis match",
+            "pt": "Vença uma partida de tênis"
+          },
+          "description": "Win a completed match using the shortest available format; do not quit early.",
+          "description_i18n": {
+            "en": "Win a completed match using the shortest available format; do not quit early.",
+            "pt": "Vença uma partida completa usando o formato mais curto disponível; não abandone antes do fim."
+          }
+        },
+        {
+          "key": "golf-par",
+          "title": "Finish nine holes at par or better",
+          "title_i18n": {
+            "en": "Finish nine holes at par or better",
+            "pt": "Conclua nove buracos no par ou melhor"
+          },
+          "description": "Finish the full round at even par or below.",
+          "description_i18n": {
+            "en": "Finish the full round at even par or below.",
+            "pt": "Conclua a rodada completa no par ou abaixo dele."
+          }
+        },
+        {
+          "key": "darts-win",
+          "title": "Win a darts game",
+          "title_i18n": {
+            "en": "Win a darts game",
+            "pt": "Vença uma partida de dardos"
+          },
+          "description": "Win a completed game with a double-out.",
+          "description_i18n": {
+            "en": "Win a completed game with a double-out.",
+            "pt": "Vença uma partida completa terminando com uma dupla."
+          }
+        },
+        {
+          "key": "private-dance",
+          "title": "Receive a private dance",
+          "title_i18n": {
+            "en": "Receive a private dance",
+            "pt": "Assista a uma dança privada"
+          },
+          "description": "Complete this story-mode club activity.",
+          "description_i18n": {
+            "en": "Complete this story-mode club activity.",
+            "pt": "Conclua esta atividade do clube no modo história."
+          }
+        },
+        {
+          "key": "chop-fetch",
+          "title": "Walk Chop and play fetch",
+          "title_i18n": {
+            "en": "Walk Chop and play fetch",
+            "pt": "Passeie com Chop e brinque de buscar"
+          },
+          "description": "Take Chop out as Franklin and complete fetch.",
+          "description_i18n": {
+            "en": "Take Chop out as Franklin and complete fetch.",
+            "pt": "Saia com Chop usando Franklin e brinque de buscar."
+          }
+        },
+        {
+          "key": "booty-call",
+          "title": "Complete a Booty Call",
+          "title_i18n": {
+            "en": "Complete a Booty Call",
+            "pt": "Conclua uma Booty Call"
+          },
+          "description": "Arrange and finish this story-mode contact activity.",
+          "description_i18n": {
+            "en": "Arrange and finish this story-mode contact activity.",
+            "pt": "Combine e conclua esta atividade de contato no modo história."
+          }
+        },
+        {
+          "key": "prostitute-service",
+          "title": "Complete the street service activity",
+          "title_i18n": {
+            "en": "Complete the street service activity",
+            "pt": "Conclua a atividade de serviço de rua"
+          },
+          "description": "Use the story-mode prostitute service for miscellaneous completion credit.",
+          "description_i18n": {
+            "en": "Use the story-mode prostitute service for miscellaneous completion credit.",
+            "pt": "Use o serviço de prostituição do modo história para registrar a atividade diversa."
+          }
+        },
+        {
+          "key": "store-hold-up",
+          "title": "Hold up a store in Story Mode",
+          "title_i18n": {
+            "en": "Hold up a store in Story Mode",
+            "pt": "Assalte uma loja no modo história"
+          },
+          "description": "Finish one store hold-up and escape.",
+          "description_i18n": {
+            "en": "Finish one store hold-up and escape.",
+            "pt": "Conclua um assalto a uma loja e escape."
+          }
+        },
+        {
+          "key": "cinema-visit",
+          "title": "Visit the cinema",
+          "title_i18n": {
+            "en": "Visit the cinema",
+            "pt": "Visite o cinema"
+          },
+          "description": "Attend a movie in Story Mode.",
+          "description_i18n": {
+            "en": "Attend a movie in Story Mode.",
+            "pt": "Assista a um filme no modo história."
+          }
+        },
+        {
+          "key": "friend-bar",
+          "title": "Friend outing: bar",
+          "title_i18n": {
+            "en": "Friend outing: bar",
+            "pt": "Passeio com amigo: bar"
+          },
+          "description": "Complete this activity during a friend outing.",
+          "description_i18n": {
+            "en": "Complete this activity during a friend outing.",
+            "pt": "Conclua esta atividade durante um passeio com amigo."
+          }
+        },
+        {
+          "key": "friend-cinema",
+          "title": "Friend outing: cinema",
+          "title_i18n": {
+            "en": "Friend outing: cinema",
+            "pt": "Passeio com amigo: cinema"
+          },
+          "description": "Complete this activity during a friend outing.",
+          "description_i18n": {
+            "en": "Complete this activity during a friend outing.",
+            "pt": "Conclua esta atividade durante um passeio com amigo."
+          }
+        },
+        {
+          "key": "friend-darts",
+          "title": "Friend outing: darts",
+          "title_i18n": {
+            "en": "Friend outing: darts",
+            "pt": "Passeio com amigo: dardos"
+          },
+          "description": "Complete this activity during a friend outing.",
+          "description_i18n": {
+            "en": "Complete this activity during a friend outing.",
+            "pt": "Conclua esta atividade durante um passeio com amigo."
+          }
+        },
+        {
+          "key": "friend-strip-club",
+          "title": "Friend outing: strip club",
+          "title_i18n": {
+            "en": "Friend outing: strip club",
+            "pt": "Passeio com amigo: clube de strip-tease"
+          },
+          "description": "Complete this activity during a friend outing.",
+          "description_i18n": {
+            "en": "Complete this activity during a friend outing.",
+            "pt": "Conclua esta atividade durante um passeio com amigo."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "properties-and-selected-extras",
+      "title": "Properties, family calls and selected extras",
+      "title_i18n": {
+        "en": "Properties, family calls and selected extras",
+        "pt": "Imóveis, chamadas familiares e extras selecionados"
+      },
+      "items": [
+        {
+          "key": "five-properties",
+          "title": "Own five qualifying properties",
+          "title_i18n": {
+            "en": "Own five qualifying properties",
+            "pt": "Possua cinco imóveis válidos"
+          },
+          "description": "Buy five properties credited by the native checklist.",
+          "description_i18n": {
+            "en": "Buy five properties credited by the native checklist.",
+            "pt": "Compre cinco imóveis reconhecidos pelo registro nativo."
+          }
+        },
+        {
+          "key": "website-vehicle",
+          "title": "Buy a vehicle through a website",
+          "title_i18n": {
+            "en": "Buy a vehicle through a website",
+            "pt": "Compre um veículo por um site"
+          },
+          "description": "Complete a story-mode website purchase; a bicycle qualifies.",
+          "description_i18n": {
+            "en": "Complete a story-mode website purchase; a bicycle qualifies.",
+            "pt": "Conclua uma compra por site no modo história; uma bicicleta é válida."
+          }
+        },
+        {
+          "key": "downtown-cab-private-fare",
+          "title": "Downtown Cab Co.: complete a private fare",
+          "title_i18n": {
+            "en": "Downtown Cab Co.: complete a private fare",
+            "pt": "Downtown Cab Co.: conclua uma corrida privada"
+          },
+          "description": "Buy the business as Franklin and answer a private-fare request.",
+          "description_i18n": {
+            "en": "Buy the business as Franklin and answer a private-fare request.",
+            "pt": "Compre a empresa com Franklin e atenda a um pedido de corrida privada."
+          }
+        },
+        {
+          "key": "mckenzie-arms-race",
+          "title": "McKenzie Field: complete the arms deliveries",
+          "title_i18n": {
+            "en": "McKenzie Field: complete the arms deliveries",
+            "pt": "McKenzie Field: conclua as entregas de armas"
+          },
+          "description": "Buy the hangar as Trevor; finish five ground and five air deliveries.",
+          "description_i18n": {
+            "en": "Buy the hangar as Trevor; finish five ground and five air deliveries.",
+            "pt": "Compre o hangar com Trevor; conclua cinco entregas terrestres e cinco aéreas."
+          }
+        },
+        {
+          "key": "the-good-husband",
+          "title": "The Good Husband",
+          "title_i18n": {
+            "en": "The Good Husband",
+            "pt": "The Good Husband"
+          },
+          "description": "Answer Amanda’s optional family request while available.",
+          "description_i18n": {
+            "en": "Answer Amanda’s optional family request while available.",
+            "pt": "Atenda ao pedido familiar opcional de Amanda enquanto estiver disponível."
+          }
+        },
+        {
+          "key": "doting-dad",
+          "title": "Doting Dad",
+          "title_i18n": {
+            "en": "Doting Dad",
+            "pt": "Doting Dad"
+          },
+          "description": "Answer Tracey’s optional family request while available.",
+          "description_i18n": {
+            "en": "Answer Tracey’s optional family request while available.",
+            "pt": "Atenda ao pedido familiar opcional de Tracey enquanto estiver disponível."
+          }
+        },
+        {
+          "key": "parenting-101",
+          "title": "Parenting 101",
+          "title_i18n": {
+            "en": "Parenting 101",
+            "pt": "Parenting 101"
+          },
+          "description": "Answer Jimmy’s optional family request while available.",
+          "description_i18n": {
+            "en": "Answer Jimmy’s optional family request while available.",
+            "pt": "Atenda ao pedido familiar opcional de Jimmy enquanto estiver disponível."
+          }
+        },
+        {
+          "key": "the-last-one",
+          "title": "The Last One",
+          "title_i18n": {
+            "en": "The Last One",
+            "pt": "The Last One"
+          },
+          "description": "Play Franklin’s stranger encounter after native 100% when available.",
+          "description_i18n": {
+            "en": "Play Franklin’s stranger encounter after native 100% when available.",
+            "pt": "Jogue o encontro de Franklin após os 100% nativos quando estiver disponível."
+          }
+        },
+        {
+          "key": "seventy-gold-medals",
+          "title": "Earn seventy mission gold medals",
+          "title_i18n": {
+            "en": "Earn seventy mission gold medals",
+            "pt": "Obtenha setenta medalhas de ouro em missões"
+          },
+          "description": "Combine story and Strangers and Freaks gold medals for Solid Gold, Baby!",
+          "description_i18n": {
+            "en": "Combine story and Strangers and Freaks gold medals for Solid Gold, Baby!",
+            "pt": "Some medalhas de ouro da história e de Strangers and Freaks para Solid Gold, Baby!"
+          },
+          "details": "Only story and Strangers and Freaks mission golds count toward seventy; golds in races, schools or other hobbies do not. Most mission criteria can be completed on separate replays, but partial quantities do not add: a headshot quota must be reached within one run. The five Rampages are an exception and require all gold criteria together in one attempt. Use the mission-results screen to plan the next replay.",
+          "details_i18n": {
+            "en": "Only story and Strangers and Freaks mission golds count toward seventy; golds in races, schools or other hobbies do not. Most mission criteria can be completed on separate replays, but partial quantities do not add: a headshot quota must be reached within one run. The five Rampages are an exception and require all gold criteria together in one attempt. Use the mission-results screen to plan the next replay.",
+            "pt": "Apenas ouros em missões da história e Strangers and Freaks contam para as setenta medalhas; ouros em corridas, escolas e outros passatempos não contam. A maioria dos critérios pode ser cumprida em repetições separadas, mas quantidades parciais não se somam: a cota de tiros na cabeça deve ser alcançada em uma tentativa. Os cinco Rampages são uma exceção e exigem todos os critérios de ouro juntos. Use a tela de resultados para planejar a repetição seguinte."
+          }
+        },
+        {
+          "key": "three-man-army",
+          "title": "Complete the Three Man Army outing",
+          "title_i18n": {
+            "en": "Complete the Three Man Army outing",
+            "pt": "Conclua o passeio de Three Man Army"
+          },
+          "description": "Keep all three protagonists together through the wanted-level trophy challenge.",
+          "description_i18n": {
+            "en": "Keep all three protagonists together through the wanted-level trophy challenge.",
+            "pt": "Mantenha os três protagonistas juntos no desafio de nível de procurado do troféu."
+          },
+          "details": "While off-mission, call both other protagonists before picking either one up so the first outing does not prevent inviting the third. Get all three into a durable four-seat vehicle, reach at least three wanted stars and stay alive together for three minutes. Preserve a pre-ending save or choose the ending that keeps everyone available; ordinary mission replays do not replace this free-roam outing.",
+          "details_i18n": {
+            "en": "While off-mission, call both other protagonists before picking either one up so the first outing does not prevent inviting the third. Get all three into a durable four-seat vehicle, reach at least three wanted stars and stay alive together for three minutes. Preserve a pre-ending save or choose the ending that keeps everyone available; ordinary mission replays do not replace this free-roam outing.",
+            "pt": "Fora de missão, ligue para os outros dois protagonistas antes de buscar qualquer um, para o primeiro passeio não impedir o convite ao terceiro. Coloque os três em um veículo resistente de quatro lugares, alcance pelo menos três estrelas de procurado e sobreviva com todos por três minutos. Preserve um salvamento anterior ao final ou escolha o final que mantém todos disponíveis; repetições comuns de missão não substituem este passeio no mundo aberto."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "collections-and-stunt-totals",
+      "title": "Collections and stunt totals",
+      "title_i18n": {
+        "en": "Collections and stunt totals",
+        "pt": "Coleções e totais de acrobacias"
+      },
+      "items": [
+        {
+          "key": "spaceship-parts",
+          "title": "Collect fifty Spaceship Parts",
+          "title_i18n": {
+            "en": "Collect fifty Spaceship Parts",
+            "pt": "Recolha cinquenta Spaceship Parts"
+          },
+          "description": "Find all parts for Omega; this aggregate task does not list every location.",
+          "description_i18n": {
+            "en": "Find all parts for Omega; this aggregate task does not list every location.",
+            "pt": "Encontre todas as peças para Omega; esta tarefa agregada não lista cada localização."
+          }
+        },
+        {
+          "key": "letter-scraps",
+          "title": "Collect fifty Letter Scraps",
+          "title_i18n": {
+            "en": "Collect fifty Letter Scraps",
+            "pt": "Recolha cinquenta Letter Scraps"
+          },
+          "description": "Finish the collection that unlocks A Starlet in Vinewood.",
+          "description_i18n": {
+            "en": "Finish the collection that unlocks A Starlet in Vinewood.",
+            "pt": "Conclua a coleção que libera A Starlet in Vinewood."
+          }
+        },
+        {
+          "key": "parachute-jumps",
+          "title": "Complete all thirteen parachute jumps",
+          "title_i18n": {
+            "en": "Complete all thirteen parachute jumps",
+            "pt": "Conclua os treze saltos de paraquedas"
+          },
+          "description": "Finish the required BASE and helicopter jump sets.",
+          "description_i18n": {
+            "en": "Finish the required BASE and helicopter jump sets.",
+            "pt": "Conclua os conjuntos exigidos de saltos BASE e de helicóptero."
+          }
+        },
+        {
+          "key": "fourteen-random-events",
+          "title": "Complete fourteen qualifying random events",
+          "title_i18n": {
+            "en": "Complete fourteen qualifying random events",
+            "pt": "Conclua catorze eventos aleatórios válidos"
+          },
+          "description": "Register any fourteen qualifying events, not every possible event.",
+          "description_i18n": {
+            "en": "Register any fourteen qualifying events, not every possible event.",
+            "pt": "Registre quaisquer catorze eventos válidos, sem exigir todos os existentes."
+          }
+        },
+        {
+          "key": "twenty-five-stunt-jumps",
+          "title": "Register twenty-five Stunt Jumps for native 100%",
+          "title_i18n": {
+            "en": "Register twenty-five Stunt Jumps for native 100%",
+            "pt": "Registre vinte e cinco Stunt Jumps para os 100% nativos"
+          },
+          "description": "Complete any twenty-five designated jumps.",
+          "description_i18n": {
+            "en": "Complete any twenty-five designated jumps.",
+            "pt": "Conclua quaisquer vinte e cinco saltos designados."
+          }
+        },
+        {
+          "key": "fifty-stunt-jumps",
+          "title": "Optional trophy: complete all fifty Stunt Jumps",
+          "title_i18n": {
+            "en": "Optional trophy: complete all fifty Stunt Jumps",
+            "pt": "Troféu opcional: conclua os cinquenta Stunt Jumps"
+          },
+          "description": "Go beyond the native minimum for Show Off.",
+          "description_i18n": {
+            "en": "Go beyond the native minimum for Show Off.",
+            "pt": "Supere o mínimo nativo para obter Show Off."
+          }
+        },
+        {
+          "key": "twenty-five-bridges",
+          "title": "Register twenty-five Under the Bridge challenges",
+          "title_i18n": {
+            "en": "Register twenty-five Under the Bridge challenges",
+            "pt": "Registre vinte e cinco desafios Under the Bridge"
+          },
+          "description": "Meet the native completion minimum.",
+          "description_i18n": {
+            "en": "Meet the native completion minimum.",
+            "pt": "Alcance o mínimo de conclusão nativa."
+          }
+        },
+        {
+          "key": "eight-knife-flights",
+          "title": "Register eight Knife Flights",
+          "title_i18n": {
+            "en": "Register eight Knife Flights",
+            "pt": "Registre oito Knife Flights"
+          },
+          "description": "Complete eight qualifying sideways-flight challenges for native 100%.",
+          "description_i18n": {
+            "en": "Complete eight qualifying sideways-flight challenges for native 100%.",
+            "pt": "Conclua oito desafios válidos de voo lateral para os 100% nativos."
+          }
+        },
+        {
+          "key": "close-shave-full-set",
+          "title": "Optional trophy: fifty bridges and fifteen Knife Flights",
+          "title_i18n": {
+            "en": "Optional trophy: fifty bridges and fifteen Knife Flights",
+            "pt": "Troféu opcional: cinquenta pontes e quinze Knife Flights"
+          },
+          "description": "Complete both full sets for Close Shave.",
+          "description_i18n": {
+            "en": "Complete both full sets for Close Shave.",
+            "pt": "Conclua os dois conjuntos completos para Close Shave."
+          }
+        },
+        {
+          "key": "nuclear-waste",
+          "title": "Optional trophy: collect thirty Nuclear Waste barrels",
+          "title_i18n": {
+            "en": "Optional trophy: collect thirty Nuclear Waste barrels",
+            "pt": "Troféu opcional: recolha trinta barris de Nuclear Waste"
+          },
+          "description": "Buy Sonar Collections Dock and finish its underwater collection.",
+          "description_i18n": {
+            "en": "Buy Sonar Collections Dock and finish its underwater collection.",
+            "pt": "Compre Sonar Collections Dock e conclua a coleção submarina."
+          }
+        },
+        {
+          "key": "submarine-pieces",
+          "title": "Optional: collect thirty Submarine Pieces",
+          "title_i18n": {
+            "en": "Optional: collect thirty Submarine Pieces",
+            "pt": "Opcional: recolha trinta Submarine Pieces"
+          },
+          "description": "Complete Abigail’s collection for her follow-up encounter.",
+          "description_i18n": {
+            "en": "Complete Abigail’s collection for her follow-up encounter.",
+            "pt": "Conclua a coleção de Abigail para liberar o encontro seguinte."
+          }
+        },
+        {
+          "key": "director-animals",
+          "title": "Optional Director Mode: unlock the animal actors",
+          "title_i18n": {
+            "en": "Optional Director Mode: unlock the animal actors",
+            "pt": "Director Mode opcional: libere os atores animais"
+          },
+          "description": "Unlock the twenty-one eligible land and bird actors through Story Mode peyote plants.",
+          "description_i18n": {
+            "en": "Unlock the twenty-one eligible land and bird actors through Story Mode peyote plants.",
+            "pt": "Libere os vinte e um atores terrestres e aves válidos pelos peiotes do modo história."
+          },
+          "details": "Story Mode has twenty-seven regular peyote plants, but the animal-actor trophy concerns the twenty-one land and bird transformations. The six underwater plants do not unlock selectable marine actors and are unnecessary for Cryptozoologist. Check the unlocked actor roster and enter Director Mode as an animal after completing the eligible set. This is separate from seasonal peyote availability in GTA Online and from native Story Mode 100%.",
+          "details_i18n": {
+            "en": "Story Mode has twenty-seven regular peyote plants, but the animal-actor trophy concerns the twenty-one land and bird transformations. The six underwater plants do not unlock selectable marine actors and are unnecessary for Cryptozoologist. Check the unlocked actor roster and enter Director Mode as an animal after completing the eligible set. This is separate from seasonal peyote availability in GTA Online and from native Story Mode 100%.",
+            "pt": "O modo história tem vinte e sete peiotes comuns, mas o troféu de atores animais considera as vinte e uma transformações terrestres e aves. Os seis peiotes submarinos não liberam atores marinhos selecionáveis e não são necessários para Cryptozoologist. Confira os atores liberados e entre no Director Mode como animal após concluir o conjunto válido. Isso é separado dos peiotes sazonais de GTA Online e dos 100% nativos do modo história."
+          }
+        },
+        {
+          "key": "verify-native-completion",
+          "title": "Verify native Story Mode 100%",
+          "title_i18n": {
+            "en": "Verify native Story Mode 100%",
+            "pt": "Confira os 100% nativos do modo história"
+          },
+          "description": "Check Stats > 100% Checklist; PSN completion also has separate online and DLC requirements.",
+          "description_i18n": {
+            "en": "Check Stats > 100% Checklist; PSN completion also has separate online and DLC requirements.",
+            "pt": "Confira Stats > 100% Checklist; a conclusão da PSN também tem requisitos online e de DLC separados."
+          },
+          "details": "The native tracker targets 69 mission credits, 20 qualifying Franklin stranger credits, 42 specific hobby entries, 14 random events and 16 miscellaneous objectives. Branching heist setups and short strand introductions explain why this guide’s task count differs. Bronze or a qualifying race placement is sufficient where specified. The trophy totals of fifty jumps, all bridge/knife flights, nuclear waste and seventy mission golds go beyond the native minimum. Online and DLC trophy groups are separate.",
+          "details_i18n": {
+            "en": "The native tracker targets 69 mission credits, 20 qualifying Franklin stranger credits, 42 specific hobby entries, 14 random events and 16 miscellaneous objectives. Branching heist setups and short strand introductions explain why this guide’s task count differs. Bronze or a qualifying race placement is sufficient where specified. The trophy totals of fifty jumps, all bridge/knife flights, nuclear waste and seventy mission golds go beyond the native minimum. Online and DLC trophy groups are separate.",
+            "pt": "O registro nativo exige 69 créditos de missões, 20 créditos válidos de desconhecidos de Franklin, 42 entradas específicas de passatempos, 14 eventos aleatórios e 16 objetivos diversos. Preparativos alternativos de golpes e introduções curtas de tramas explicam por que o número de tarefas deste guia é diferente. Bronze ou uma colocação válida basta onde indicado. Os troféus de cinquenta saltos, todas as pontes e voos laterais, resíduos nucleares e setenta ouros excedem o mínimo nativo. Os grupos online e de DLC são separados."
+          }
+        }
+      ],
+      "kind": "collectible"
+    },
+    {
+      "key": "alternative-ending-routes",
+      "title": "Alternative ending route",
+      "title_i18n": {
+        "en": "Alternative ending route",
+        "pt": "Rota de final alternativo"
+      },
+      "items": [
+        {
+          "key": "ending-a-prepare",
+          "title": "Ending A: prepare the replay",
+          "title_i18n": {
+            "en": "Ending A: prepare the replay",
+            "pt": "Final A: prepare a repetição"
+          },
+          "description": "Check the starting save and route requirements in Route details.",
+          "description_i18n": {
+            "en": "Check the starting save and route requirements in Route details.",
+            "pt": "Confira o salvamento inicial e os pré-requisitos nos detalhes da rota."
+          }
+        },
+        {
+          "key": "ending-a-play",
+          "title": "Ending A: follow this branch",
+          "title_i18n": {
+            "en": "Ending A: follow this branch",
+            "pt": "Final A: siga este caminho"
+          },
+          "description": "Make the route choice and finish the corresponding finale.",
+          "description_i18n": {
+            "en": "Make the route choice and finish the corresponding finale.",
+            "pt": "Faça a escolha desta rota e conclua o final correspondente."
+          }
+        },
+        {
+          "key": "ending-a-record",
+          "title": "Ending A: record the outcome",
+          "title_i18n": {
+            "en": "Ending A: record the outcome",
+            "pt": "Final A: registre o resultado"
+          },
+          "description": "Confirm that you experienced this ending; preserve any game saves you want to keep.",
+          "description_i18n": {
+            "en": "Confirm that you experienced this ending; preserve any game saves you want to keep.",
+            "pt": "Confirme que vivenciou este final; preserve os arquivos do jogo que deseja guardar."
+          }
+        },
+        {
+          "key": "ending-b-prepare",
+          "title": "Ending B: prepare the replay",
+          "title_i18n": {
+            "en": "Ending B: prepare the replay",
+            "pt": "Final B: prepare a repetição"
+          },
+          "description": "Check the starting save and route requirements in Route details.",
+          "description_i18n": {
+            "en": "Check the starting save and route requirements in Route details.",
+            "pt": "Confira o salvamento inicial e os pré-requisitos nos detalhes da rota."
+          }
+        },
+        {
+          "key": "ending-b-play",
+          "title": "Ending B: follow this branch",
+          "title_i18n": {
+            "en": "Ending B: follow this branch",
+            "pt": "Final B: siga este caminho"
+          },
+          "description": "Make the route choice and finish the corresponding finale.",
+          "description_i18n": {
+            "en": "Make the route choice and finish the corresponding finale.",
+            "pt": "Faça a escolha desta rota e conclua o final correspondente."
+          }
+        },
+        {
+          "key": "ending-b-record",
+          "title": "Ending B: record the outcome",
+          "title_i18n": {
+            "en": "Ending B: record the outcome",
+            "pt": "Final B: registre o resultado"
+          },
+          "description": "Confirm that you experienced this ending; preserve any game saves you want to keep.",
+          "description_i18n": {
+            "en": "Confirm that you experienced this ending; preserve any game saves you want to keep.",
+            "pt": "Confirme que vivenciou este final; preserve os arquivos do jogo que deseja guardar."
+          }
+        },
+        {
+          "key": "ending-c-prepare",
+          "title": "Ending C: prepare the replay",
+          "title_i18n": {
+            "en": "Ending C: prepare the replay",
+            "pt": "Final C: prepare a repetição"
+          },
+          "description": "Check the starting save and route requirements in Route details.",
+          "description_i18n": {
+            "en": "Check the starting save and route requirements in Route details.",
+            "pt": "Confira o salvamento inicial e os pré-requisitos nos detalhes da rota."
+          }
+        },
+        {
+          "key": "ending-c-play",
+          "title": "Ending C: follow this branch",
+          "title_i18n": {
+            "en": "Ending C: follow this branch",
+            "pt": "Final C: siga este caminho"
+          },
+          "description": "Make the route choice and finish the corresponding finale.",
+          "description_i18n": {
+            "en": "Make the route choice and finish the corresponding finale.",
+            "pt": "Faça a escolha desta rota e conclua o final correspondente."
+          }
+        },
+        {
+          "key": "ending-c-record",
+          "title": "Ending C: record the outcome",
+          "title_i18n": {
+            "en": "Ending C: record the outcome",
+            "pt": "Final C: registre o resultado"
+          },
+          "description": "Confirm that you experienced this ending; preserve any game saves you want to keep.",
+          "description_i18n": {
+            "en": "Confirm that you experienced this ending; preserve any game saves you want to keep.",
+            "pt": "Confirme que vivenciou este final; preserve os arquivos do jogo que deseja guardar."
+          }
+        }
+      ]
+    }
+  ],
+  "trophies": [
+    {
+      "key": "trophy-los-santos-legend",
+      "title": "Los Santos Legend",
+      "title_i18n": {
+        "en": "Los Santos Legend",
+        "pt": "Los Santos Legend"
+      },
+      "description": "Earn every base-list trophy, including the required GTA Online goals; DLC groups are excluded.",
+      "description_i18n": {
+        "en": "Earn every base-list trophy, including the required GTA Online goals; DLC groups are excluded.",
+        "pt": "Obtenha todos os troféus da lista básica, incluindo os objetivos exigidos de GTA Online; os grupos de DLC ficam excluídos."
+      },
+      "tier": "platinum"
+    },
+    {
+      "key": "trophy-welcome-to-los-santos",
+      "title": "Welcome to Los Santos",
+      "title_i18n": {
+        "en": "Welcome to Los Santos",
+        "pt": "Welcome to Los Santos"
+      },
+      "description": "Finish Franklin and Lamar.",
+      "description_i18n": {
+        "en": "Finish Franklin and Lamar.",
+        "pt": "Conclua Franklin and Lamar."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-a-friendship-resurrected",
+      "title": "A Friendship Resurrected",
+      "title_i18n": {
+        "en": "A Friendship Resurrected",
+        "pt": "A Friendship Resurrected"
+      },
+      "description": "Finish Fame or Shame.",
+      "description_i18n": {
+        "en": "Finish Fame or Shame.",
+        "pt": "Conclua Fame or Shame."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-a-fair-day-s-pay",
+      "title": "A Fair Day's Pay",
+      "title_i18n": {
+        "en": "A Fair Day's Pay",
+        "pt": "A Fair Day's Pay"
+      },
+      "description": "Finish Caida Libre.",
+      "description_i18n": {
+        "en": "Finish Caida Libre.",
+        "pt": "Conclua Caida Libre."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-the-moment-of-truth",
+      "title": "The Moment of Truth",
+      "title_i18n": {
+        "en": "The Moment of Truth",
+        "pt": "The Moment of Truth"
+      },
+      "description": "Finish Bury the Hatchet.",
+      "description_i18n": {
+        "en": "Finish Bury the Hatchet.",
+        "pt": "Conclua Bury the Hatchet."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-to-live-or-die-in-los-santos",
+      "title": "To Live or Die in Los Santos",
+      "title_i18n": {
+        "en": "To Live or Die in Los Santos",
+        "pt": "To Live or Die in Los Santos"
+      },
+      "description": "Finish one of the three chosen Story Mode finales.",
+      "description_i18n": {
+        "en": "Finish one of the three chosen Story Mode finales.",
+        "pt": "Conclua um dos três finais escolhidos do modo história."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "trophy-diamond-hard",
+      "title": "Diamond Hard",
+      "title_i18n": {
+        "en": "Diamond Hard",
+        "pt": "Diamond Hard"
+      },
+      "description": "Finish The Jewel Store Job with either approach.",
+      "description_i18n": {
+        "en": "Finish The Jewel Store Job with either approach.",
+        "pt": "Conclua The Jewel Store Job com qualquer abordagem."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-subversive",
+      "title": "Subversive",
+      "title_i18n": {
+        "en": "Subversive",
+        "pt": "Subversive"
+      },
+      "description": "Finish The Merryweather Heist with either approach.",
+      "description_i18n": {
+        "en": "Finish The Merryweather Heist with either approach.",
+        "pt": "Conclua The Merryweather Heist com qualquer abordagem."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-blitzed",
+      "title": "Blitzed",
+      "title_i18n": {
+        "en": "Blitzed",
+        "pt": "Blitzed"
+      },
+      "description": "Finish Blitz Play.",
+      "description_i18n": {
+        "en": "Finish Blitz Play.",
+        "pt": "Conclua Blitz Play."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-small-town-big-job",
+      "title": "Small Town, Big Job",
+      "title_i18n": {
+        "en": "Small Town, Big Job",
+        "pt": "Small Town, Big Job"
+      },
+      "description": "Finish The Paleto Score.",
+      "description_i18n": {
+        "en": "Finish The Paleto Score.",
+        "pt": "Conclua The Paleto Score."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-the-government-gimps",
+      "title": "The Government Gimps",
+      "title_i18n": {
+        "en": "The Government Gimps",
+        "pt": "The Government Gimps"
+      },
+      "description": "Finish The Bureau Raid with either approach.",
+      "description_i18n": {
+        "en": "Finish The Bureau Raid with either approach.",
+        "pt": "Conclua The Bureau Raid com qualquer abordagem."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-the-big-one",
+      "title": "The Big One!",
+      "title_i18n": {
+        "en": "The Big One!",
+        "pt": "The Big One!"
+      },
+      "description": "Finish The Big Score with either approach.",
+      "description_i18n": {
+        "en": "Finish The Big Score with either approach.",
+        "pt": "Conclua The Big Score com qualquer abordagem."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-solid-gold-baby",
+      "title": "Solid Gold, Baby!",
+      "title_i18n": {
+        "en": "Solid Gold, Baby!",
+        "pt": "Solid Gold, Baby!"
+      },
+      "description": "Earn seventy gold medals across story missions and Strangers and Freaks; hobby medals do not count.",
+      "description_i18n": {
+        "en": "Earn seventy gold medals across story missions and Strangers and Freaks; hobby medals do not count.",
+        "pt": "Obtenha setenta medalhas de ouro entre missões da história e Strangers and Freaks; medalhas de passatempos não contam."
+      },
+      "tier": "gold"
+    },
+    {
+      "key": "trophy-career-criminal",
+      "title": "Career Criminal",
+      "title_i18n": {
+        "en": "Career Criminal",
+        "pt": "Career Criminal"
+      },
+      "description": "Reach one hundred percent on the native Story Mode checklist.",
+      "description_i18n": {
+        "en": "Reach one hundred percent on the native Story Mode checklist.",
+        "pt": "Alcance cem por cento no registro nativo do modo história."
+      },
+      "tier": "gold"
+    },
+    {
+      "key": "trophy-san-andreas-sightseer",
+      "title": "San Andreas Sightseer",
+      "title_i18n": {
+        "en": "San Andreas Sightseer",
+        "pt": "San Andreas Sightseer"
+      },
+      "description": "Reveal the map across Los Santos and Blaine County.",
+      "description_i18n": {
+        "en": "Reveal the map across Los Santos and Blaine County.",
+        "pt": "Revele o mapa de Los Santos e Blaine County."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "trophy-all-s-fare-in-love-and-war",
+      "title": "All's Fare in Love and War",
+      "title_i18n": {
+        "en": "All's Fare in Love and War",
+        "pt": "All's Fare in Love and War"
+      },
+      "description": "Buy Downtown Cab Co. and finish one private-fare request as Franklin.",
+      "description_i18n": {
+        "en": "Buy Downtown Cab Co. and finish one private-fare request as Franklin.",
+        "pt": "Compre Downtown Cab Co. e conclua uma corrida privada com Franklin."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-tp-industries-arms-race",
+      "title": "TP Industries Arms Race",
+      "title_i18n": {
+        "en": "TP Industries Arms Race",
+        "pt": "TP Industries Arms Race"
+      },
+      "description": "Buy McKenzie Field Hangar; finish its five air and five ground deliveries.",
+      "description_i18n": {
+        "en": "Buy McKenzie Field Hangar; finish its five air and five ground deliveries.",
+        "pt": "Compre McKenzie Field Hangar e conclua suas cinco entregas aéreas e cinco terrestres."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-multi-disciplined",
+      "title": "Multi-Disciplined",
+      "title_i18n": {
+        "en": "Multi-Disciplined",
+        "pt": "Multi-Disciplined"
+      },
+      "description": "Earn gold in a shooting challenge, flight lesson, street race, off-road race, sea race and triathlon.",
+      "description_i18n": {
+        "en": "Earn gold in a shooting challenge, flight lesson, street race, off-road race, sea race and triathlon.",
+        "pt": "Obtenha ouro em um desafio de tiro, aula de voo, corrida de rua, corrida off-road, corrida marítima e triatlo."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-from-beyond-the-stars",
+      "title": "From Beyond the Stars",
+      "title_i18n": {
+        "en": "From Beyond the Stars",
+        "pt": "From Beyond the Stars"
+      },
+      "description": "Collect fifty spaceship parts and finish Omega’s return mission.",
+      "description_i18n": {
+        "en": "Collect fifty spaceship parts and finish Omega’s return mission.",
+        "pt": "Recolha cinquenta peças da nave e conclua a missão de retorno a Omega."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-a-mystery-solved",
+      "title": "A Mystery, Solved",
+      "title_i18n": {
+        "en": "A Mystery, Solved",
+        "pt": "A Mystery, Solved"
+      },
+      "description": "Collect fifty letter scraps and resolve A Starlet in Vinewood.",
+      "description_i18n": {
+        "en": "Collect fifty letter scraps and resolve A Starlet in Vinewood.",
+        "pt": "Recolha cinquenta fragmentos de carta e resolva A Starlet in Vinewood."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-waste-management",
+      "title": "Waste Management",
+      "title_i18n": {
+        "en": "Waste Management",
+        "pt": "Waste Management"
+      },
+      "description": "Buy Sonar Collections Dock and retrieve all thirty nuclear-waste barrels.",
+      "description_i18n": {
+        "en": "Buy Sonar Collections Dock and retrieve all thirty nuclear-waste barrels.",
+        "pt": "Compre Sonar Collections Dock e recupere os trinta barris de resíduos nucleares."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-red-mist",
+      "title": "Red Mist",
+      "title_i18n": {
+        "en": "Red Mist",
+        "pt": "Red Mist"
+      },
+      "description": "Finish Trevor’s five Rampages.",
+      "description_i18n": {
+        "en": "Finish Trevor’s five Rampages.",
+        "pt": "Conclua os cinco Rampages de Trevor."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-show-off",
+      "title": "Show Off",
+      "title_i18n": {
+        "en": "Show Off",
+        "pt": "Show Off"
+      },
+      "description": "Register successful completion of all fifty Stunt Jumps.",
+      "description_i18n": {
+        "en": "Register successful completion of all fifty Stunt Jumps.",
+        "pt": "Registre a conclusão dos cinquenta Stunt Jumps."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-kifflom",
+      "title": "Kifflom!",
+      "title_i18n": {
+        "en": "Kifflom!",
+        "pt": "Kifflom!"
+      },
+      "description": "Finish Michael’s Epsilon Program storyline through Unknowing the Truth.",
+      "description_i18n": {
+        "en": "Finish Michael’s Epsilon Program storyline through Unknowing the Truth.",
+        "pt": "Conclua a história de Michael com a Epsilon até Unknowing the Truth."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "trophy-three-man-army",
+      "title": "Three Man Army",
+      "title_i18n": {
+        "en": "Three Man Army",
+        "pt": "Three Man Army"
+      },
+      "description": "Keep Michael, Franklin and Trevor together off-mission while surviving three minutes at three wanted stars or more.",
+      "description_i18n": {
+        "en": "Keep Michael, Franklin and Trevor together off-mission while surviving three minutes at three wanted stars or more.",
+        "pt": "Mantenha Michael, Franklin e Trevor juntos fora de missão e sobreviva três minutos com três estrelas de procurado ou mais."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-out-of-your-depth",
+      "title": "Out of Your Depth",
+      "title_i18n": {
+        "en": "Out of Your Depth",
+        "pt": "Out of Your Depth"
+      },
+      "description": "Have the Story Mode protagonist killed by a shark.",
+      "description_i18n": {
+        "en": "Have the Story Mode protagonist killed by a shark.",
+        "pt": "Faça o protagonista do modo história ser morto por um tubarão."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-altruist-acolyte",
+      "title": "Altruist Acolyte",
+      "title_i18n": {
+        "en": "Altruist Acolyte",
+        "pt": "Altruist Acolyte"
+      },
+      "description": "As Trevor, deliver an eligible random-event passenger to the Altruist camp.",
+      "description_i18n": {
+        "en": "As Trevor, deliver an eligible random-event passenger to the Altruist camp.",
+        "pt": "Com Trevor, entregue um passageiro elegível de evento aleatório ao acampamento Altruist."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-a-lot-of-cheddar",
+      "title": "A Lot of Cheddar",
+      "title_i18n": {
+        "en": "A Lot of Cheddar",
+        "pt": "A Lot of Cheddar"
+      },
+      "description": "Accumulate two hundred million dollars in spending across the three protagonists.",
+      "description_i18n": {
+        "en": "Accumulate two hundred million dollars in spending across the three protagonists.",
+        "pt": "Acumule duzentos milhões de dólares em gastos entre os três protagonistas."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-trading-pure-alpha",
+      "title": "Trading Pure Alpha",
+      "title_i18n": {
+        "en": "Trading Pure Alpha",
+        "pt": "Trading Pure Alpha"
+      },
+      "description": "Sell stock for an overall profit on your investment.",
+      "description_i18n": {
+        "en": "Sell stock for an overall profit on your investment.",
+        "pt": "Venda ações obtendo lucro sobre o investimento."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-pimp-my-sidearm",
+      "title": "Pimp My Sidearm",
+      "title_i18n": {
+        "en": "Pimp My Sidearm",
+        "pt": "Pimp My Sidearm"
+      },
+      "description": "Buy every applicable modification for one weapon.",
+      "description_i18n": {
+        "en": "Buy every applicable modification for one weapon.",
+        "pt": "Compre todas as modificações aplicáveis a uma arma."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-wanted-alive-or-alive",
+      "title": "Wanted: Alive or Alive",
+      "title_i18n": {
+        "en": "Wanted: Alive or Alive",
+        "pt": "Wanted: Alive or Alive"
+      },
+      "description": "Return one of Maude’s bail-bond targets alive.",
+      "description_i18n": {
+        "en": "Return one of Maude’s bail-bond targets alive.",
+        "pt": "Entregue vivo um dos alvos de Maude."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-los-santos-customs",
+      "title": "Los Santos Customs",
+      "title_i18n": {
+        "en": "Los Santos Customs",
+        "pt": "Los Santos Customs"
+      },
+      "description": "Fully customize one suitable vehicle with the required modifications.",
+      "description_i18n": {
+        "en": "Fully customize one suitable vehicle with the required modifications.",
+        "pt": "Personalize completamente um veículo adequado com as modificações exigidas."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-close-shave",
+      "title": "Close Shave",
+      "title_i18n": {
+        "en": "Close Shave",
+        "pt": "Close Shave"
+      },
+      "description": "Finish all fifty Under the Bridge and fifteen Knife Flight challenges.",
+      "description_i18n": {
+        "en": "Finish all fifty Under the Bridge and fifteen Knife Flight challenges.",
+        "pt": "Conclua os cinquenta desafios Under the Bridge e os quinze Knife Flights."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-off-the-plane",
+      "title": "Off the Plane",
+      "title_i18n": {
+        "en": "Off the Plane",
+        "pt": "Off the Plane"
+      },
+      "description": "GTA Online: complete the introductory sequence.",
+      "description_i18n": {
+        "en": "GTA Online: complete the introductory sequence.",
+        "pt": "GTA Online: conclua a sequência introdutória."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-three-bit-gangster",
+      "title": "Three-Bit Gangster",
+      "title_i18n": {
+        "en": "Three-Bit Gangster",
+        "pt": "Three-Bit Gangster"
+      },
+      "description": "GTA Online: reach character rank twenty-five.",
+      "description_i18n": {
+        "en": "GTA Online: reach character rank twenty-five.",
+        "pt": "GTA Online: alcance o nível vinte e cinco do personagem."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-making-moves",
+      "title": "Making Moves",
+      "title_i18n": {
+        "en": "Making Moves",
+        "pt": "Making Moves"
+      },
+      "description": "GTA Online: reach character rank fifty.",
+      "description_i18n": {
+        "en": "GTA Online: reach character rank fifty.",
+        "pt": "GTA Online: alcance o nível cinquenta do personagem."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "trophy-above-the-law",
+      "title": "Above the Law",
+      "title_i18n": {
+        "en": "Above the Law",
+        "pt": "Above the Law"
+      },
+      "description": "GTA Online: reach character rank one hundred.",
+      "description_i18n": {
+        "en": "GTA Online: reach character rank one hundred.",
+        "pt": "GTA Online: alcance o nível cem do personagem."
+      },
+      "tier": "gold"
+    },
+    {
+      "key": "trophy-numero-uno",
+      "title": "Numero Uno",
+      "title_i18n": {
+        "en": "Numero Uno",
+        "pt": "Numero Uno"
+      },
+      "description": "GTA Online: register first place in every competitive activity type required by the trophy.",
+      "description_i18n": {
+        "en": "GTA Online: register first place in every competitive activity type required by the trophy.",
+        "pt": "GTA Online: registre o primeiro lugar em cada tipo de atividade competitiva exigido pelo troféu."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-the-midnight-club",
+      "title": "The Midnight Club",
+      "title_i18n": {
+        "en": "The Midnight Club",
+        "pt": "The Midnight Club"
+      },
+      "description": "GTA Online: win five races while driving custom vehicles.",
+      "description_i18n": {
+        "en": "GTA Online: win five races while driving custom vehicles.",
+        "pt": "GTA Online: vença cinco corridas usando veículos personalizados."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-unnatural-selection",
+      "title": "Unnatural Selection",
+      "title_i18n": {
+        "en": "Unnatural Selection",
+        "pt": "Unnatural Selection"
+      },
+      "description": "GTA Online: survive all ten waves of one Survival.",
+      "description_i18n": {
+        "en": "GTA Online: survive all ten waves of one Survival.",
+        "pt": "GTA Online: sobreviva às dez ondas de um Survival."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-backseat-driver",
+      "title": "Backseat Driver",
+      "title_i18n": {
+        "en": "Backseat Driver",
+        "pt": "Backseat Driver"
+      },
+      "description": "GTA Online: win a Rally race as the navigating co-driver.",
+      "description_i18n": {
+        "en": "GTA Online: win a Rally race as the navigating co-driver.",
+        "pt": "GTA Online: vença uma corrida Rally como copiloto navegador."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-run-like-the-wind",
+      "title": "Run Like The Wind",
+      "title_i18n": {
+        "en": "Run Like The Wind",
+        "pt": "Run Like The Wind"
+      },
+      "description": "GTA Online: survive until the bounty on your character expires.",
+      "description_i18n": {
+        "en": "GTA Online: survive until the bounty on your character expires.",
+        "pt": "GTA Online: sobreviva até a recompensa pelo seu personagem expirar."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-clean-sweep",
+      "title": "Clean Sweep",
+      "title_i18n": {
+        "en": "Clean Sweep",
+        "pt": "Clean Sweep"
+      },
+      "description": "GTA Online: finish a Gang Attack without dying while personally defeating at least ten enemies.",
+      "description_i18n": {
+        "en": "GTA Online: finish a Gang Attack without dying while personally defeating at least ten enemies.",
+        "pt": "GTA Online: conclua um Gang Attack sem morrer e derrote pessoalmente pelo menos dez inimigos."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-decorated",
+      "title": "Decorated",
+      "title_i18n": {
+        "en": "Decorated",
+        "pt": "Decorated"
+      },
+      "description": "GTA Online: earn thirty in-game Platinum Awards, distinct from PSN trophies.",
+      "description_i18n": {
+        "en": "GTA Online: earn thirty in-game Platinum Awards, distinct from PSN trophies.",
+        "pt": "GTA Online: obtenha trinta Platinum Awards do jogo, distintos dos troféus da PSN."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "trophy-stick-up-kid",
+      "title": "Stick Up Kid",
+      "title_i18n": {
+        "en": "Stick Up Kid",
+        "pt": "Stick Up Kid"
+      },
+      "description": "GTA Online: rob all twenty eligible stores.",
+      "description_i18n": {
+        "en": "GTA Online: rob all twenty eligible stores.",
+        "pt": "GTA Online: assalte as vinte lojas elegíveis."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-enjoy-your-stay",
+      "title": "Enjoy Your Stay",
+      "title_i18n": {
+        "en": "Enjoy Your Stay",
+        "pt": "Enjoy Your Stay"
+      },
+      "description": "GTA Online: complete the required introductory leisure, shopping and service activities.",
+      "description_i18n": {
+        "en": "GTA Online: complete the required introductory leisure, shopping and service activities.",
+        "pt": "GTA Online: conclua as atividades introdutórias exigidas de lazer, compras e serviços."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-crew-cut",
+      "title": "Crew Cut",
+      "title_i18n": {
+        "en": "Crew Cut",
+        "pt": "Crew Cut"
+      },
+      "description": "GTA Online: complete a job together with another member of your own Crew.",
+      "description_i18n": {
+        "en": "GTA Online: complete a job together with another member of your own Crew.",
+        "pt": "GTA Online: conclua um trabalho junto com outro integrante da sua própria Crew."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-full-refund",
+      "title": "Full Refund",
+      "title_i18n": {
+        "en": "Full Refund",
+        "pt": "Full Refund"
+      },
+      "description": "GTA Online: defeat the mugger who stole from your character.",
+      "description_i18n": {
+        "en": "GTA Online: defeat the mugger who stole from your character.",
+        "pt": "GTA Online: derrote o assaltante que roubou seu personagem."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-dialling-digits",
+      "title": "Dialling Digits",
+      "title_i18n": {
+        "en": "Dialling Digits",
+        "pt": "Dialling Digits"
+      },
+      "description": "GTA Online: request Merryweather’s backup helicopter service.",
+      "description_i18n": {
+        "en": "GTA Online: request Merryweather’s backup helicopter service.",
+        "pt": "GTA Online: solicite o serviço de helicóptero de apoio da Merryweather."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-american-dream",
+      "title": "American Dream",
+      "title_i18n": {
+        "en": "American Dream",
+        "pt": "American Dream"
+      },
+      "description": "GTA Online: own an apartment, a garage and an insured vehicle.",
+      "description_i18n": {
+        "en": "GTA Online: own an apartment, a garage and an insured vehicle.",
+        "pt": "GTA Online: possua um apartamento, uma garagem e um veículo segurado."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-a-new-perspective",
+      "title": "A New Perspective",
+      "title_i18n": {
+        "en": "A New Perspective",
+        "pt": "A New Perspective"
+      },
+      "description": "Accumulate fifteen hours playing GTA V in first-person view.",
+      "description_i18n": {
+        "en": "Accumulate fifteen hours playing GTA V in first-person view.",
+        "pt": "Acumule quinze horas jogando GTA V com a câmera em primeira pessoa."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-be-prepared",
+      "title": "Be Prepared",
+      "title_i18n": {
+        "en": "Be Prepared",
+        "pt": "Be Prepared"
+      },
+      "description": "GTA Online — Heists: finish one setup mission.",
+      "description_i18n": {
+        "en": "GTA Online — Heists: finish one setup mission.",
+        "pt": "GTA Online — Heists: conclua uma missão preparatória."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-in-the-name-of-science",
+      "title": "In the Name of Science",
+      "title_i18n": {
+        "en": "In the Name of Science",
+        "pt": "In the Name of Science"
+      },
+      "description": "GTA Online — Heists: finish The Humane Labs Raid and Series A Funding as leader or crew.",
+      "description_i18n": {
+        "en": "GTA Online — Heists: finish The Humane Labs Raid and Series A Funding as leader or crew.",
+        "pt": "GTA Online — Heists: conclua The Humane Labs Raid e Series A Funding como líder ou integrante."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-dead-presidents",
+      "title": "Dead Presidents",
+      "title_i18n": {
+        "en": "Dead Presidents",
+        "pt": "Dead Presidents"
+      },
+      "description": "GTA Online — Heists: finish The Fleeca Job and The Pacific Standard Job as leader or crew.",
+      "description_i18n": {
+        "en": "GTA Online — Heists: finish The Fleeca Job and The Pacific Standard Job as leader or crew.",
+        "pt": "GTA Online — Heists: conclua The Fleeca Job e The Pacific Standard Job como líder ou integrante."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-parole-day",
+      "title": "Parole Day",
+      "title_i18n": {
+        "en": "Parole Day",
+        "pt": "Parole Day"
+      },
+      "description": "GTA Online — Heists: finish The Prison Break as leader or crew.",
+      "description_i18n": {
+        "en": "GTA Online — Heists: finish The Prison Break as leader or crew.",
+        "pt": "GTA Online — Heists: conclua The Prison Break como líder ou integrante."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-shot-caller",
+      "title": "Shot Caller",
+      "title_i18n": {
+        "en": "Shot Caller",
+        "pt": "Shot Caller"
+      },
+      "description": "GTA Online — Heists: pay the setup cost to host a heist.",
+      "description_i18n": {
+        "en": "GTA Online — Heists: pay the setup cost to host a heist.",
+        "pt": "GTA Online — Heists: pague o custo preparatório para organizar um golpe."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-four-way",
+      "title": "Four Way",
+      "title_i18n": {
+        "en": "Four Way",
+        "pt": "Four Way"
+      },
+      "description": "GTA Online — Heists: as leader, assign every finale player a twenty-five-percent cut.",
+      "description_i18n": {
+        "en": "GTA Online — Heists: as leader, assign every finale player a twenty-five-percent cut.",
+        "pt": "GTA Online — Heists: como líder, destine vinte e cinco por cento do pagamento final a cada jogador."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-live-a-little",
+      "title": "Live a Little",
+      "title_i18n": {
+        "en": "Live a Little",
+        "pt": "Live a Little"
+      },
+      "description": "GTA Online — Heists: spend eight million dollars buying vehicles introduced by the Heists Update.",
+      "description_i18n": {
+        "en": "GTA Online — Heists: spend eight million dollars buying vehicles introduced by the Heists Update.",
+        "pt": "GTA Online — Heists: gaste oito milhões de dólares comprando veículos introduzidos pela Heists Update."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "trophy-can-t-touch-this",
+      "title": "Can't Touch This",
+      "title_i18n": {
+        "en": "Can't Touch This",
+        "pt": "Can't Touch This"
+      },
+      "description": "GTA Online — Heists: complete a finale without taking damage.",
+      "description_i18n": {
+        "en": "GTA Online — Heists: complete a finale without taking damage.",
+        "pt": "GTA Online — Heists: conclua uma final sem sofrer dano."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-mastermind",
+      "title": "Mastermind",
+      "title_i18n": {
+        "en": "Mastermind",
+        "pt": "Mastermind"
+      },
+      "description": "GTA Online — Heists: earn twenty-five platinum performance medals across setups and finales.",
+      "description_i18n": {
+        "en": "GTA Online — Heists: earn twenty-five platinum performance medals across setups and finales.",
+        "pt": "GTA Online — Heists: obtenha vinte e cinco medalhas de desempenho de platina entre preparativos e finais."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "trophy-vinewood-visionary",
+      "title": "Vinewood Visionary",
+      "title_i18n": {
+        "en": "Vinewood Visionary",
+        "pt": "Vinewood Visionary"
+      },
+      "description": "Editor group: create and export one video OR enter Director Mode five times.",
+      "description_i18n": {
+        "en": "Editor group: create and export one video OR enter Director Mode five times.",
+        "pt": "Grupo Editor: crie e exporte um vídeo OU entre no Director Mode cinco vezes."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-majestic",
+      "title": "Majestic",
+      "title_i18n": {
+        "en": "Majestic",
+        "pt": "Majestic"
+      },
+      "description": "Editor group: create and export ten videos OR enter Director Mode ten times.",
+      "description_i18n": {
+        "en": "Editor group: create and export ten videos OR enter Director Mode ten times.",
+        "pt": "Grupo Editor: crie e exporte dez vídeos OU entre no Director Mode dez vezes."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "trophy-humans-of-los-santos",
+      "title": "Humans of Los Santos",
+      "title_i18n": {
+        "en": "Humans of Los Santos",
+        "pt": "Humans of Los Santos"
+      },
+      "description": "Editor group: unlock every Special Character actor and enter Director Mode as one.",
+      "description_i18n": {
+        "en": "Editor group: unlock every Special Character actor and enter Director Mode as one.",
+        "pt": "Grupo Editor: libere todos os atores Special Characters e entre no Director Mode com um deles."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-first-time-director",
+      "title": "First Time Director",
+      "title_i18n": {
+        "en": "First Time Director",
+        "pt": "First Time Director"
+      },
+      "description": "Editor group: enter Director Mode with an unlocked actor.",
+      "description_i18n": {
+        "en": "Editor group: enter Director Mode with an unlocked actor.",
+        "pt": "Grupo Editor: entre no Director Mode com um ator liberado."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-animal-lover",
+      "title": "Animal Lover",
+      "title_i18n": {
+        "en": "Animal Lover",
+        "pt": "Animal Lover"
+      },
+      "description": "Editor group: enter Director Mode as an unlocked animal.",
+      "description_i18n": {
+        "en": "Editor group: enter Director Mode as an unlocked animal.",
+        "pt": "Grupo Editor: entre no Director Mode como um animal liberado."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-ensemble-piece",
+      "title": "Ensemble Piece",
+      "title_i18n": {
+        "en": "Ensemble Piece",
+        "pt": "Ensemble Piece"
+      },
+      "description": "Editor group: unlock all Story Characters and enter Director Mode as one.",
+      "description_i18n": {
+        "en": "Editor group: unlock all Story Characters and enter Director Mode as one.",
+        "pt": "Grupo Editor: libere todos os Story Characters e entre no Director Mode com um deles."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "trophy-cult-movie",
+      "title": "Cult Movie",
+      "title_i18n": {
+        "en": "Cult Movie",
+        "pt": "Cult Movie"
+      },
+      "description": "Editor group: enter Director Mode as Cris Formage.",
+      "description_i18n": {
+        "en": "Editor group: enter Director Mode as Cris Formage.",
+        "pt": "Grupo Editor: entre no Director Mode como Cris Formage."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-location-scout",
+      "title": "Location Scout",
+      "title_i18n": {
+        "en": "Location Scout",
+        "pt": "Location Scout"
+      },
+      "description": "Editor group: visit every location preset available in Director Mode.",
+      "description_i18n": {
+        "en": "Editor group: visit every location preset available in Director Mode.",
+        "pt": "Grupo Editor: visite todos os locais predefinidos disponíveis no Director Mode."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-method-actor",
+      "title": "Method Actor",
+      "title_i18n": {
+        "en": "Method Actor",
+        "pt": "Method Actor"
+      },
+      "description": "Editor group: enter Director Mode with one of your own GTA Online characters; online-character requirement.",
+      "description_i18n": {
+        "en": "Editor group: enter Director Mode with one of your own GTA Online characters; online-character requirement.",
+        "pt": "Grupo Editor: entre no Director Mode com um de seus personagens de GTA Online; exige personagem online."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-cryptozoologist",
+      "title": "Cryptozoologist",
+      "title_i18n": {
+        "en": "Cryptozoologist",
+        "pt": "Cryptozoologist"
+      },
+      "description": "Editor group: unlock all twenty-one eligible land and bird animal actors through Story Mode peyote plants, then enter Director Mode as an animal.",
+      "description_i18n": {
+        "en": "Editor group: unlock all twenty-one eligible land and bird animal actors through Story Mode peyote plants, then enter Director Mode as an animal.",
+        "pt": "Grupo Editor: libere os vinte e um atores animais terrestres e aves válidos pelos peiotes do modo história e entre no Director Mode como animal."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "trophy-getting-started",
+      "title": "Getting Started",
+      "title_i18n": {
+        "en": "Getting Started",
+        "pt": "Getting Started"
+      },
+      "description": "GTA Online — Doomsday: establish the operation to begin The Doomsday Heist.",
+      "description_i18n": {
+        "en": "GTA Online — Doomsday: establish the operation to begin The Doomsday Heist.",
+        "pt": "GTA Online — Doomsday: estabeleça a operação para iniciar The Doomsday Heist."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-the-data-breaches",
+      "title": "The Data Breaches",
+      "title_i18n": {
+        "en": "The Data Breaches",
+        "pt": "The Data Breaches"
+      },
+      "description": "GTA Online — Doomsday: finish Act I as leader or crew.",
+      "description_i18n": {
+        "en": "GTA Online — Doomsday: finish Act I as leader or crew.",
+        "pt": "GTA Online — Doomsday: conclua o Ato I como líder ou integrante."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-the-bogdan-problem",
+      "title": "The Bogdan Problem",
+      "title_i18n": {
+        "en": "The Bogdan Problem",
+        "pt": "The Bogdan Problem"
+      },
+      "description": "GTA Online — Doomsday: finish Act II as leader or crew.",
+      "description_i18n": {
+        "en": "GTA Online — Doomsday: finish Act II as leader or crew.",
+        "pt": "GTA Online — Doomsday: conclua o Ato II como líder ou integrante."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "trophy-the-doomsday-scenario",
+      "title": "The Doomsday Scenario",
+      "title_i18n": {
+        "en": "The Doomsday Scenario",
+        "pt": "The Doomsday Scenario"
+      },
+      "description": "GTA Online — Doomsday: finish Act III as leader or crew.",
+      "description_i18n": {
+        "en": "GTA Online — Doomsday: finish Act III as leader or crew.",
+        "pt": "GTA Online — Doomsday: conclua o Ato III como líder ou integrante."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "trophy-a-world-worth-saving",
+      "title": "A World Worth Saving",
+      "title_i18n": {
+        "en": "A World Worth Saving",
+        "pt": "A World Worth Saving"
+      },
+      "description": "GTA Online — Doomsday: finish all three acts as leader or crew.",
+      "description_i18n": {
+        "en": "GTA Online — Doomsday: finish all three acts as leader or crew.",
+        "pt": "GTA Online — Doomsday: conclua os três atos como líder ou integrante."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "trophy-orbital-obliteration",
+      "title": "Orbital Obliteration",
+      "title_i18n": {
+        "en": "Orbital Obliteration",
+        "pt": "Orbital Obliteration"
+      },
+      "description": "GTA Online — Doomsday: eliminate another player with the Orbital Cannon.",
+      "description_i18n": {
+        "en": "GTA Online — Doomsday: eliminate another player with the Orbital Cannon.",
+        "pt": "GTA Online — Doomsday: elimine outro jogador com o Orbital Cannon."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-elitist",
+      "title": "Elitist",
+      "title_i18n": {
+        "en": "Elitist",
+        "pt": "Elitist"
+      },
+      "description": "GTA Online — Doomsday: complete the Elite Challenge for each of the three act finales.",
+      "description_i18n": {
+        "en": "GTA Online — Doomsday: complete the Elite Challenge for each of the three act finales.",
+        "pt": "GTA Online — Doomsday: conclua o Elite Challenge da final de cada um dos três atos."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "trophy-masterminds",
+      "title": "Masterminds",
+      "title_i18n": {
+        "en": "Masterminds",
+        "pt": "Masterminds"
+      },
+      "description": "GTA Online — Doomsday: complete Criminal Mastermind II, III and IV with their required team sizes and rules.",
+      "description_i18n": {
+        "en": "GTA Online — Doomsday: complete Criminal Mastermind II, III and IV with their required team sizes and rules.",
+        "pt": "GTA Online — Doomsday: conclua Criminal Mastermind II, III e IV com os tamanhos de equipe e regras exigidos."
+      },
+      "tier": "silver"
+    }
+  ],
+  "hltb_id": "4064",
+  "hltb_main_hours": 32,
+  "hltb_main_extra_hours": 51,
+  "hltb_completionist_hours": 90,
+  "routes": [
+    {
+      "key": "ending-a",
+      "title": "Ending A",
+      "title_i18n": {
+        "en": "Ending A",
+        "pt": "Final A"
+      },
+      "details": "After The Big Score, preserve a manual save in a separate slot before Franklin makes the final decision. To establish this ending in a separate world state, load that pre-decision save, choose A (Kill Trevor) and complete Something Sensible. Follow Trevor through the chase and finish the industrial-site sequence. This removes Trevor from that saved world, affecting later character activities. Save the result to another slot if you want to retain it; keep the pre-decision save intact. If you only want to see the mission after finishing another ending, Game > Replay Mission offers the alternative finale, but replay does not replace the original world's ending. Mark only this route's goals when you actually experience it; the older generic ending checkbox does not prove which final you chose.",
+      "details_i18n": {
+        "en": "After The Big Score, preserve a manual save in a separate slot before Franklin makes the final decision. To establish this ending in a separate world state, load that pre-decision save, choose A (Kill Trevor) and complete Something Sensible. Follow Trevor through the chase and finish the industrial-site sequence. This removes Trevor from that saved world, affecting later character activities. Save the result to another slot if you want to retain it; keep the pre-decision save intact. If you only want to see the mission after finishing another ending, Game > Replay Mission offers the alternative finale, but replay does not replace the original world's ending. Mark only this route's goals when you actually experience it; the older generic ending checkbox does not prove which final you chose.",
+        "pt": "Depois de The Big Score, preserve um salvamento manual em outro espaço antes da decisão final de Franklin. Para estabelecer este final em um mundo salvo separado, carregue esse arquivo anterior, escolha A (matar Trevor) e conclua Something Sensible. Siga Trevor na perseguição e termine a sequência no local industrial. Isso remove Trevor daquele mundo salvo e afeta atividades posteriores do personagem. Se quiser guardar o resultado, use outro espaço e preserve o arquivo anterior à decisão. Se quiser apenas assistir à missão depois de outro final, Game > Replay Mission oferece a alternativa, mas a repetição não substitui o final do mundo original. Marque os objetivos desta rota somente ao vivenciá-la; a tarefa genérica antiga não comprova qual final foi escolhido."
+      },
+      "item_refs": [
+        {
+          "category_key": "alternative-ending-routes",
+          "item_key": "ending-a-prepare"
+        },
+        {
+          "category_key": "alternative-ending-routes",
+          "item_key": "ending-a-play"
+        },
+        {
+          "category_key": "alternative-ending-routes",
+          "item_key": "ending-a-record"
+        }
+      ],
+      "replay_from": {
+        "category_key": "bureau-and-personal-crises",
+        "item_key": "chosen-ending-something-sensible-the-times-come-the-third-way"
+      }
+    },
+    {
+      "key": "ending-b",
+      "title": "Ending B",
+      "title_i18n": {
+        "en": "Ending B",
+        "pt": "Final B"
+      },
+      "details": "Preserve a separate manual save after The Big Score and before Franklin's final choice. Load that pre-decision save to establish another saved world, select B (Kill Michael), then complete The Time's Come: pursue Michael and follow the confrontation through its final interaction. The late interaction does not provide a surviving-Michael version of this branch. Michael becomes unavailable in that saved world, so preserve your original/pre-decision slots for his remaining activities. An alternative finale accessed through Game > Replay Mission lets you experience the mission without changing your original world-state choice. Keep these guide checkmarks separate from the game's save files; switching a route in Xplore never loads or overwrites a game save.",
+      "details_i18n": {
+        "en": "Preserve a separate manual save after The Big Score and before Franklin's final choice. Load that pre-decision save to establish another saved world, select B (Kill Michael), then complete The Time's Come: pursue Michael and follow the confrontation through its final interaction. The late interaction does not provide a surviving-Michael version of this branch. Michael becomes unavailable in that saved world, so preserve your original/pre-decision slots for his remaining activities. An alternative finale accessed through Game > Replay Mission lets you experience the mission without changing your original world-state choice. Keep these guide checkmarks separate from the game's save files; switching a route in Xplore never loads or overwrites a game save.",
+        "pt": "Preserve um salvamento manual separado depois de The Big Score e antes da escolha final de Franklin. Carregue esse arquivo anterior para estabelecer outro mundo salvo, selecione B (matar Michael) e conclua The Time's Come: persiga Michael e siga o confronto até a última interação. A interação final não cria uma versão deste caminho em que Michael sobrevive. Michael fica indisponível naquele mundo salvo; preserve os espaços original e anterior à decisão para suas atividades restantes. A alternativa acessada em Game > Replay Mission permite vivenciar a missão sem mudar a escolha do mundo original. Separe as marcações do guia dos arquivos do jogo: trocar a rota no Xplore nunca carrega nem sobrescreve um salvamento."
+      },
+      "item_refs": [
+        {
+          "category_key": "alternative-ending-routes",
+          "item_key": "ending-b-prepare"
+        },
+        {
+          "category_key": "alternative-ending-routes",
+          "item_key": "ending-b-play"
+        },
+        {
+          "category_key": "alternative-ending-routes",
+          "item_key": "ending-b-record"
+        }
+      ],
+      "replay_from": {
+        "category_key": "bureau-and-personal-crises",
+        "item_key": "chosen-ending-something-sensible-the-times-come-the-third-way"
+      }
+    },
+    {
+      "key": "ending-c",
+      "title": "Ending C",
+      "title_i18n": {
+        "en": "Ending C",
+        "pt": "Final C"
+      },
+      "details": "Keep a separate pre-decision manual save after The Big Score, then choose C (Deathwish) as Franklin and complete The Third Way. Meet Lester, collect Lamar and survive the foundry confrontation with the three protagonists. Complete each assigned follow-up target, then bring the last target to the final meeting and finish the sequence. This branch keeps Michael, Franklin and Trevor available for post-story activities. Save this outcome in its own slot if preserving several world states. To view A or B afterward, use the finale entries in Game > Replay Mission or load your untouched pre-decision save; mission replay does not replace this world's ending. Any one ending is enough for campaign completion and the native 100% story requirement; all three routes are optional guide coverage across replays.",
+      "details_i18n": {
+        "en": "Keep a separate pre-decision manual save after The Big Score, then choose C (Deathwish) as Franklin and complete The Third Way. Meet Lester, collect Lamar and survive the foundry confrontation with the three protagonists. Complete each assigned follow-up target, then bring the last target to the final meeting and finish the sequence. This branch keeps Michael, Franklin and Trevor available for post-story activities. Save this outcome in its own slot if preserving several world states. To view A or B afterward, use the finale entries in Game > Replay Mission or load your untouched pre-decision save; mission replay does not replace this world's ending. Any one ending is enough for campaign completion and the native 100% story requirement; all three routes are optional guide coverage across replays.",
+        "pt": "Mantenha um salvamento manual separado depois de The Big Score e antes da decisão; com Franklin, escolha C (Deathwish) e conclua The Third Way. Encontre Lester, busque Lamar e sobreviva ao confronto na fundição com os três protagonistas. Conclua cada alvo posterior atribuído, leve o último alvo ao encontro final e termine a sequência. Esse caminho mantém Michael, Franklin e Trevor disponíveis para atividades após a história. Guarde o resultado em um espaço próprio se preservar vários mundos salvos. Para ver A ou B depois, use as entradas finais em Game > Replay Mission ou carregue seu arquivo anterior intacto; repetir uma missão não substitui o final deste mundo. Qualquer final basta para concluir a campanha e a parte da história exigida nos 100% nativos; as três rotas são cobertura opcional do guia ao longo de repetições."
+      },
+      "item_refs": [
+        {
+          "category_key": "alternative-ending-routes",
+          "item_key": "ending-c-prepare"
+        },
+        {
+          "category_key": "alternative-ending-routes",
+          "item_key": "ending-c-play"
+        },
+        {
+          "category_key": "alternative-ending-routes",
+          "item_key": "ending-c-record"
+        }
+      ],
+      "replay_from": {
+        "category_key": "bureau-and-personal-crises",
+        "item_key": "chosen-ending-something-sensible-the-times-come-the-third-way"
+      }
+    }
+  ]
+}

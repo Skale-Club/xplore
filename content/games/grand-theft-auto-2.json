@@ -1,0 +1,1661 @@
+{
+  "slug": "grand-theft-auto-2",
+  "title": "Grand Theft Auto 2",
+  "title_i18n": {
+    "en": "Grand Theft Auto 2",
+    "pt": "Grand Theft Auto 2"
+  },
+  "platform": "PC",
+  "cover_url": "/covers/grand-theft-auto-2.png",
+  "created_by": "dd5c4bf0-85ea-4986-9c04-b37e8c986150",
+  "categories": [
+    {
+      "key": "original-pc-foundations",
+      "title": "Original PC foundations",
+      "title_i18n": {
+        "en": "Original PC foundations",
+        "pt": "Fundamentos da versão original de PC"
+      },
+      "items": [
+        {
+          "key": "choose-original-pc-campaign",
+          "title": "Begin the original PC campaign",
+          "title_i18n": {
+            "en": "Begin the original PC campaign",
+            "pt": "Iniciar a campanha original de PC"
+          },
+          "description": "Use the 1999 PC district structure; this checklist does not cover console or handheld substitutions.",
+          "description_i18n": {
+            "en": "Use the 1999 PC district structure; this checklist does not cover console or handheld substitutions.",
+            "pt": "Siga a estrutura dos distritos no PC de 1999; este guia não abrange as substituições dos consoles ou portáteis."
+          }
+        },
+        {
+          "key": "complete-downtown-tutorial",
+          "title": "Complete Tutorial!",
+          "title_i18n": {
+            "en": "Complete Tutorial!",
+            "pt": "Concluir Tutorial!"
+          },
+          "description": "Follow the opening guide and collect the supplies while learning the gang indicators.",
+          "description_i18n": {
+            "en": "Follow the opening guide and collect the supplies while learning the gang indicators.",
+            "pt": "Siga o guia inicial e recolha os suprimentos enquanto aprende os indicadores das gangues."
+          }
+        },
+        {
+          "key": "check-pc-controls-and-messages",
+          "title": "Check controls and message recall",
+          "title_i18n": {
+            "en": "Check controls and message recall",
+            "pt": "Conferir controles e repetição de mensagens"
+          },
+          "description": "Check your configurable PC controls. F6 pauses and shows progress, F7 repeats the latest message and F9 shows your area name.",
+          "description_i18n": {
+            "en": "Check your configurable PC controls. F6 pauses and shows progress, F7 repeats the latest message and F9 shows your area name.",
+            "pt": "Confira os controles configuráveis de PC. F6 pausa e mostra o progresso, F7 repete a última mensagem e F9 mostra o nome da área."
+          }
+        },
+        {
+          "key": "understand-respect-phone-colors",
+          "title": "Understand respect and phone colors",
+          "title_i18n": {
+            "en": "Understand respect and phone colors",
+            "pt": "Entender o respeito e as cores dos telefones"
+          },
+          "description": "Check each gang's meter before choosing green, yellow or red work.",
+          "description_i18n": {
+            "en": "Check each gang's meter before choosing green, yellow or red work.",
+            "pt": "Confira o medidor de cada gangue antes de escolher trabalhos verdes, amarelos ou vermelhos."
+          },
+          "details": "The small colored lights beneath a gang meter show the phone tiers you can currently use: green needs the least respect, yellow more, and red the highest. Completing work or attacking that gang's enemy raises its opinion of you. Harming its own members or failing work can reverse that progress. Check all three meters before crossing a rival area; access to a red phone does not make the journey there safe. Each gang offers two green, three yellow and two red jobs.",
+          "details_i18n": {
+            "en": "The small colored lights beneath a gang meter show the phone tiers you can currently use: green needs the least respect, yellow more, and red the highest. Completing work or attacking that gang's enemy raises its opinion of you. Harming its own members or failing work can reverse that progress. Check all three meters before crossing a rival area; access to a red phone does not make the journey there safe. Each gang offers two green, three yellow and two red jobs.",
+            "pt": "As pequenas luzes coloridas sob o medidor da gangue indicam os níveis de telefone disponíveis: verde exige menos respeito, amarelo exige mais e vermelho exige o nível mais alto. Concluir trabalhos ou atacar o inimigo daquela gangue melhora sua relação com ela. Ferir seus integrantes ou falhar pode reverter esse progresso. Confira os três medidores antes de cruzar uma área rival; ter acesso ao telefone vermelho não torna o caminho seguro. Cada gangue oferece dois trabalhos verdes, três amarelos e dois vermelhos."
+          }
+        },
+        {
+          "key": "plan-score-and-multiplier",
+          "title": "Plan around score and multiplier",
+          "title_i18n": {
+            "en": "Plan around score and multiplier",
+            "pt": "Planejar a pontuação e o multiplicador"
+          },
+          "description": "Use successful jobs to build earning power rather than treating every contract as mandatory.",
+          "description_i18n": {
+            "en": "Use successful jobs to build earning power rather than treating every contract as mandatory.",
+            "pt": "Use trabalhos bem-sucedidos para aumentar os ganhos, sem tratar todos os contratos como obrigatórios."
+          },
+          "details": "A successful job raises the bonus multiplier, increasing later earnings. For example, a twenty-thousand base reward at a three-times multiplier gives sixty thousand. Early manageable jobs can therefore support a later high-paying contract. There is no required gang order: completing accessible work across several gangs or concentrating on one are both possible, but each changes your rival relationships. Pause to check the district target rather than assuming you must finish the entire optional job list.",
+          "details_i18n": {
+            "en": "A successful job raises the bonus multiplier, increasing later earnings. For example, a twenty-thousand base reward at a three-times multiplier gives sixty thousand. Early manageable jobs can therefore support a later high-paying contract. There is no required gang order: completing accessible work across several gangs or concentrating on one are both possible, but each changes your rival relationships. Pause to check the district target rather than assuming you must finish the entire optional job list.",
+            "pt": "Um trabalho concluído aumenta o multiplicador de bônus, elevando os ganhos seguintes. Por exemplo, uma recompensa básica de vinte mil com multiplicador de três rende sessenta mil. Trabalhos iniciais viáveis podem, assim, preparar um contrato mais lucrativo depois. Não existe uma ordem obrigatória de gangues: é possível distribuir os trabalhos ou concentrar-se em uma, mas cada escolha altera suas relações com os rivais. Pause para conferir a meta do distrito, sem presumir que precisa concluir toda a lista opcional."
+          }
+        },
+        {
+          "key": "locate-jesus-saves",
+          "title": "Locate Jesus Saves",
+          "title_i18n": {
+            "en": "Locate Jesus Saves",
+            "pt": "Localizar Jesus Saves"
+          },
+          "description": "Find the district church and understand its paid saving conditions before a long run.",
+          "description_i18n": {
+            "en": "Find the district church and understand its paid saving conditions before a long run.",
+            "pt": "Encontre a igreja do distrito e entenda as condições do salvamento pago antes de uma sessão longa."
+          },
+          "details": "Enter the church beneath the Jesus Saves sign while not on a job and with at least fifty thousand dollars available. Saving charges that amount; this is a location-based save, not a save-anywhere command. Listen for the confirmation before ending your session. If you cannot find the church, a TV Van's roof antenna points toward it. Avoid spending the reserve on vehicle upgrades immediately before you intend to save. Keep a cushion above the district target if you plan to spend money before taking its exit.",
+          "details_i18n": {
+            "en": "Enter the church beneath the Jesus Saves sign while not on a job and with at least fifty thousand dollars available. Saving charges that amount; this is a location-based save, not a save-anywhere command. Listen for the confirmation before ending your session. If you cannot find the church, a TV Van's roof antenna points toward it. Avoid spending the reserve on vehicle upgrades immediately before you intend to save. Keep a cushion above the district target if you plan to spend money before taking its exit.",
+            "pt": "Entre na igreja sob o letreiro Jesus Saves quando não estiver em um trabalho e tiver pelo menos cinquenta mil dólares disponíveis. O salvamento cobra esse valor; ele depende do local, não de um comando para salvar em qualquer lugar. Aguarde a confirmação antes de encerrar a sessão. Se não encontrar a igreja, a antena no teto de um TV Van aponta para ela. Evite gastar a reserva em melhorias de veículos pouco antes de salvar. Mantenha uma margem acima da meta do distrito se pretende gastar dinheiro antes de usar a saída."
+          }
+        },
+        {
+          "key": "prepare-hospital-police-recovery",
+          "title": "Prepare a recovery route",
+          "title_i18n": {
+            "en": "Prepare a recovery route",
+            "pt": "Preparar uma rota de recuperação"
+          },
+          "description": "Identify useful armor, weapons and police-clearing options for a setback.",
+          "description_i18n": {
+            "en": "Identify useful armor, weapons and police-clearing options for a setback.",
+            "pt": "Identifique coletes, armas e opções para despistar a polícia após um revés."
+          },
+          "details": "Death removes your equipment but preserves the bonus multiplier. Arrest removes weapons and halves that multiplier, although you retain your score. After either setback, rebuild your supplies before answering a difficult phone. The original campaign starts with five lives, with additional lives available as pickups. Treat a saved position as your recovery point rather than assuming each successful contract creates an automatic checkpoint. Failed jobs can be attempted again by returning to their phones; rebuild the required respect first if access has closed.",
+          "details_i18n": {
+            "en": "Death removes your equipment but preserves the bonus multiplier. Arrest removes weapons and halves that multiplier, although you retain your score. After either setback, rebuild your supplies before answering a difficult phone. The original campaign starts with five lives, with additional lives available as pickups. Treat a saved position as your recovery point rather than assuming each successful contract creates an automatic checkpoint. Failed jobs can be attempted again by returning to their phones; rebuild the required respect first if access has closed.",
+            "pt": "A morte remove seu equipamento, mas preserva o multiplicador de bônus. A prisão remove as armas e reduz esse multiplicador à metade, embora a pontuação permaneça. Após qualquer revés, reponha os suprimentos antes de atender um telefone difícil. A campanha original começa com cinco vidas, e outras podem ser encontradas como itens. Considere a posição salva seu ponto de recuperação, sem presumir que cada contrato concluído cria um checkpoint automático. Trabalhos falhados podem ser tentados novamente voltando aos telefones; recupere primeiro o respeito exigido caso o acesso tenha sido fechado."
+          }
+        },
+        {
+          "key": "separate-score-route-from-full-clear",
+          "title": "Separate the campaign from full job completion",
+          "title_i18n": {
+            "en": "Separate the campaign from full job completion",
+            "pt": "Separar a campanha da conclusão de todos os trabalhos"
+          },
+          "description": "The three score-based exits are the story route; all gang jobs and Final Jobs are optional extra goals.",
+          "description_i18n": {
+            "en": "The three score-based exits are the story route; all gang jobs and Final Jobs are optional extra goals.",
+            "pt": "As três saídas por pontuação formam a campanha; todos os trabalhos das gangues e os Final Jobs são metas extras opcionais."
+          }
+        }
+      ]
+    },
+    {
+      "key": "downtown-score-route",
+      "title": "Downtown score route",
+      "title_i18n": {
+        "en": "Downtown score route",
+        "pt": "Rota por pontuação de Downtown"
+      },
+      "items": [
+        {
+          "key": "downtown-read-target",
+          "title": "Read the 1,000,000 target",
+          "title_i18n": {
+            "en": "Read the 1,000,000 target",
+            "pt": "Conferir a meta de 1,000,000"
+          },
+          "description": "Pause and confirm this district's target before choosing work.",
+          "description_i18n": {
+            "en": "Pause and confirm this district's target before choosing work.",
+            "pt": "Pause e confira a meta deste distrito antes de escolher um trabalho."
+          }
+        },
+        {
+          "key": "downtown-identify-gangs",
+          "title": "Identify the three local gangs",
+          "title_i18n": {
+            "en": "Identify the three local gangs",
+            "pt": "Identificar as três gangues locais"
+          },
+          "description": "Locate the territories of Zaibatsu, Yakuza and Loonies.",
+          "description_i18n": {
+            "en": "Locate the territories of Zaibatsu, Yakuza and Loonies.",
+            "pt": "Localize os territórios de Zaibatsu, Yakuza e Loonies."
+          }
+        },
+        {
+          "key": "downtown-choose-accessible-jobs",
+          "title": "Choose accessible jobs",
+          "title_i18n": {
+            "en": "Choose accessible jobs",
+            "pt": "Escolher trabalhos acessíveis"
+          },
+          "description": "Begin with ringing phones and pick a manageable route for your current respect.",
+          "description_i18n": {
+            "en": "Begin with ringing phones and pick a manageable route for your current respect.",
+            "pt": "Comece pelos telefones que tocam e escolha uma rota compatível com seu respeito atual."
+          }
+        },
+        {
+          "key": "downtown-build-respect-and-score",
+          "title": "Build respect and score",
+          "title_i18n": {
+            "en": "Build respect and score",
+            "pt": "Aumentar o respeito e a pontuação"
+          },
+          "description": "Complete chosen contracts, monitor changing rival hostility and maintain your equipment.",
+          "description_i18n": {
+            "en": "Complete chosen contracts, monitor changing rival hostility and maintain your equipment.",
+            "pt": "Conclua os contratos escolhidos, acompanhe a hostilidade dos rivais e mantenha seu equipamento."
+          }
+        },
+        {
+          "key": "downtown-secure-progress",
+          "title": "Secure useful progress",
+          "title_i18n": {
+            "en": "Secure useful progress",
+            "pt": "Preservar o progresso útil"
+          },
+          "description": "Return to a safe saving opportunity with enough money when practical.",
+          "description_i18n": {
+            "en": "Return to a safe saving opportunity with enough money when practical.",
+            "pt": "Volte a uma oportunidade segura de salvamento com dinheiro suficiente quando for viável."
+          }
+        },
+        {
+          "key": "downtown-reach-score",
+          "title": "Reach 1,000,000 points",
+          "title_i18n": {
+            "en": "Reach 1,000,000 points",
+            "pt": "Alcançar 1,000,000 pontos"
+          },
+          "description": "Meet the district score gate; clearing every gang mission is a separate optional objective.",
+          "description_i18n": {
+            "en": "Meet the district score gate; clearing every gang mission is a separate optional objective.",
+            "pt": "Atinja a meta do distrito; concluir todas as missões das gangues é um objetivo opcional separado."
+          }
+        },
+        {
+          "key": "downtown-use-church-exit",
+          "title": "Use the Avalon church exit",
+          "title_i18n": {
+            "en": "Use the Avalon church exit",
+            "pt": "Usar a saída da igreja em Avalon"
+          },
+          "description": "Finish any active job and follow the exit marker to Jesus Saves; continue to the next district.",
+          "description_i18n": {
+            "en": "Finish any active job and follow the exit marker to Jesus Saves; continue to the next district.",
+            "pt": "Termine o trabalho ativo e siga a marcação de saída até Jesus Saves; avance ao próximo distrito."
+          },
+          "details": "The campaign thresholds are one million in Downtown, three million in Residential and five million in Industrial. Once you have the current target and no active job, follow the large exit marker back to the church. The Final Job is a different event, triggered by completing all twenty-one gang jobs in a district. You can take the score exit without doing that optional confrontation. Finish any optional district cleanup before leaving if you want it recorded in this run.",
+          "details_i18n": {
+            "en": "The campaign thresholds are one million in Downtown, three million in Residential and five million in Industrial. Once you have the current target and no active job, follow the large exit marker back to the church. The Final Job is a different event, triggered by completing all twenty-one gang jobs in a district. You can take the score exit without doing that optional confrontation. Finish any optional district cleanup before leaving if you want it recorded in this run.",
+            "pt": "As metas da campanha são um milhão em Downtown, três milhões em Residential e cinco milhões em Industrial. Ao atingir a meta atual e ficar sem trabalho ativo, siga a grande marcação de saída até a igreja. O Final Job é outro evento, iniciado após concluir os vinte e um trabalhos das gangues de um distrito. É possível usar a saída por pontuação sem fazer esse confronto opcional. Termine os extras do distrito antes de sair se quiser registrá-los nesta tentativa."
+          }
+        }
+      ]
+    },
+    {
+      "key": "residential-score-route",
+      "title": "Residential score route",
+      "title_i18n": {
+        "en": "Residential score route",
+        "pt": "Rota por pontuação de Residential"
+      },
+      "items": [
+        {
+          "key": "residential-read-target",
+          "title": "Read the 3,000,000 target",
+          "title_i18n": {
+            "en": "Read the 3,000,000 target",
+            "pt": "Conferir a meta de 3,000,000"
+          },
+          "description": "Pause and confirm this district's target before choosing work.",
+          "description_i18n": {
+            "en": "Pause and confirm this district's target before choosing work.",
+            "pt": "Pause e confira a meta deste distrito antes de escolher um trabalho."
+          }
+        },
+        {
+          "key": "residential-identify-gangs",
+          "title": "Identify the three local gangs",
+          "title_i18n": {
+            "en": "Identify the three local gangs",
+            "pt": "Identificar as três gangues locais"
+          },
+          "description": "Locate the territories of Zaibatsu, SRS Scientists and Rednecks.",
+          "description_i18n": {
+            "en": "Locate the territories of Zaibatsu, SRS Scientists and Rednecks.",
+            "pt": "Localize os territórios de Zaibatsu, cientistas SRS e Rednecks."
+          }
+        },
+        {
+          "key": "residential-choose-accessible-jobs",
+          "title": "Choose accessible jobs",
+          "title_i18n": {
+            "en": "Choose accessible jobs",
+            "pt": "Escolher trabalhos acessíveis"
+          },
+          "description": "Begin with ringing phones and pick a manageable route for your current respect.",
+          "description_i18n": {
+            "en": "Begin with ringing phones and pick a manageable route for your current respect.",
+            "pt": "Comece pelos telefones que tocam e escolha uma rota compatível com seu respeito atual."
+          }
+        },
+        {
+          "key": "residential-build-respect-and-score",
+          "title": "Build respect and score",
+          "title_i18n": {
+            "en": "Build respect and score",
+            "pt": "Aumentar o respeito e a pontuação"
+          },
+          "description": "Complete chosen contracts, monitor changing rival hostility and maintain your equipment.",
+          "description_i18n": {
+            "en": "Complete chosen contracts, monitor changing rival hostility and maintain your equipment.",
+            "pt": "Conclua os contratos escolhidos, acompanhe a hostilidade dos rivais e mantenha seu equipamento."
+          }
+        },
+        {
+          "key": "residential-secure-progress",
+          "title": "Secure useful progress",
+          "title_i18n": {
+            "en": "Secure useful progress",
+            "pt": "Preservar o progresso útil"
+          },
+          "description": "Return to a safe saving opportunity with enough money when practical.",
+          "description_i18n": {
+            "en": "Return to a safe saving opportunity with enough money when practical.",
+            "pt": "Volte a uma oportunidade segura de salvamento com dinheiro suficiente quando for viável."
+          }
+        },
+        {
+          "key": "residential-reach-score",
+          "title": "Reach 3,000,000 points",
+          "title_i18n": {
+            "en": "Reach 3,000,000 points",
+            "pt": "Alcançar 3,000,000 pontos"
+          },
+          "description": "Meet the district score gate; clearing every gang mission is a separate optional objective.",
+          "description_i18n": {
+            "en": "Meet the district score gate; clearing every gang mission is a separate optional objective.",
+            "pt": "Atinja a meta do distrito; concluir todas as missões das gangues é um objetivo opcional separado."
+          }
+        },
+        {
+          "key": "residential-use-church-exit",
+          "title": "Use the Morton church exit",
+          "title_i18n": {
+            "en": "Use the Morton church exit",
+            "pt": "Usar a saída da igreja em Morton"
+          },
+          "description": "Finish any active job and follow the exit marker to Jesus Saves; continue to the next district.",
+          "description_i18n": {
+            "en": "Finish any active job and follow the exit marker to Jesus Saves; continue to the next district.",
+            "pt": "Termine o trabalho ativo e siga a marcação de saída até Jesus Saves; avance ao próximo distrito."
+          }
+        }
+      ]
+    },
+    {
+      "key": "industrial-score-route",
+      "title": "Industrial score route",
+      "title_i18n": {
+        "en": "Industrial score route",
+        "pt": "Rota por pontuação de Industrial"
+      },
+      "items": [
+        {
+          "key": "industrial-read-target",
+          "title": "Read the 5,000,000 target",
+          "title_i18n": {
+            "en": "Read the 5,000,000 target",
+            "pt": "Conferir a meta de 5,000,000"
+          },
+          "description": "Pause and confirm this district's target before choosing work.",
+          "description_i18n": {
+            "en": "Pause and confirm this district's target before choosing work.",
+            "pt": "Pause e confira a meta deste distrito antes de escolher um trabalho."
+          }
+        },
+        {
+          "key": "industrial-identify-gangs",
+          "title": "Identify the three local gangs",
+          "title_i18n": {
+            "en": "Identify the three local gangs",
+            "pt": "Identificar as três gangues locais"
+          },
+          "description": "Locate the territories of Zaibatsu, Russians and Hare Krishna.",
+          "description_i18n": {
+            "en": "Locate the territories of Zaibatsu, Russians and Hare Krishna.",
+            "pt": "Localize os territórios de Zaibatsu, russos e Hare Krishna."
+          }
+        },
+        {
+          "key": "industrial-choose-accessible-jobs",
+          "title": "Choose accessible jobs",
+          "title_i18n": {
+            "en": "Choose accessible jobs",
+            "pt": "Escolher trabalhos acessíveis"
+          },
+          "description": "Begin with ringing phones and pick a manageable route for your current respect.",
+          "description_i18n": {
+            "en": "Begin with ringing phones and pick a manageable route for your current respect.",
+            "pt": "Comece pelos telefones que tocam e escolha uma rota compatível com seu respeito atual."
+          }
+        },
+        {
+          "key": "industrial-build-respect-and-score",
+          "title": "Build respect and score",
+          "title_i18n": {
+            "en": "Build respect and score",
+            "pt": "Aumentar o respeito e a pontuação"
+          },
+          "description": "Complete chosen contracts, monitor changing rival hostility and maintain your equipment.",
+          "description_i18n": {
+            "en": "Complete chosen contracts, monitor changing rival hostility and maintain your equipment.",
+            "pt": "Conclua os contratos escolhidos, acompanhe a hostilidade dos rivais e mantenha seu equipamento."
+          }
+        },
+        {
+          "key": "industrial-secure-progress",
+          "title": "Secure useful progress",
+          "title_i18n": {
+            "en": "Secure useful progress",
+            "pt": "Preservar o progresso útil"
+          },
+          "description": "Return to a safe saving opportunity with enough money when practical.",
+          "description_i18n": {
+            "en": "Return to a safe saving opportunity with enough money when practical.",
+            "pt": "Volte a uma oportunidade segura de salvamento com dinheiro suficiente quando for viável."
+          }
+        },
+        {
+          "key": "industrial-reach-score",
+          "title": "Reach 5,000,000 points",
+          "title_i18n": {
+            "en": "Reach 5,000,000 points",
+            "pt": "Alcançar 5,000,000 pontos"
+          },
+          "description": "Meet the district score gate; clearing every gang mission is a separate optional objective.",
+          "description_i18n": {
+            "en": "Meet the district score gate; clearing every gang mission is a separate optional objective.",
+            "pt": "Atinja a meta do distrito; concluir todas as missões das gangues é um objetivo opcional separado."
+          }
+        },
+        {
+          "key": "industrial-use-church-exit",
+          "title": "Use the Tedium church exit",
+          "title_i18n": {
+            "en": "Use the Tedium church exit",
+            "pt": "Usar a saída da igreja em Tedium"
+          },
+          "description": "Finish any active job and follow the exit marker to Jesus Saves; this completes the campaign.",
+          "description_i18n": {
+            "en": "Finish any active job and follow the exit marker to Jesus Saves; this completes the campaign.",
+            "pt": "Termine o trabalho ativo e siga a marcação de saída até Jesus Saves; isso conclui a campanha."
+          }
+        }
+      ]
+    },
+    {
+      "key": "downtown-yakuza",
+      "title": "Downtown: optional Yakuza jobs",
+      "title_i18n": {
+        "en": "Downtown: optional Yakuza jobs",
+        "pt": "Downtown: trabalhos opcionais dos Yakuza"
+      },
+      "items": [
+        {
+          "key": "downtown-yakuza-get-zitzaki",
+          "title": "Complete Get ZitZaki!",
+          "title_i18n": {
+            "en": "Complete Get ZitZaki!",
+            "pt": "Concluir Get ZitZaki!"
+          },
+          "description": "Optional green-phone job. Collect the requested vehicle and follow the contact handover.",
+          "description_i18n": {
+            "en": "Optional green-phone job. Collect the requested vehicle and follow the contact handover.",
+            "pt": "Trabalho opcional de telefone verde. Pegue o veículo solicitado e acompanhe a entrega ao contato."
+          }
+        },
+        {
+          "key": "downtown-yakuza-bank-robbery",
+          "title": "Complete Bank Robbery!",
+          "title_i18n": {
+            "en": "Complete Bank Robbery!",
+            "pt": "Concluir Bank Robbery!"
+          },
+          "description": "Optional green-phone job. Keep the escape vehicle available through the bank operation.",
+          "description_i18n": {
+            "en": "Optional green-phone job. Keep the escape vehicle available through the bank operation.",
+            "pt": "Trabalho opcional de telefone verde. Mantenha o veículo de fuga disponível durante a operação no banco."
+          }
+        },
+        {
+          "key": "downtown-yakuza-happy-gas-smash",
+          "title": "Complete Happy Gas Smash!",
+          "title_i18n": {
+            "en": "Complete Happy Gas Smash!",
+            "pt": "Concluir Happy Gas Smash!"
+          },
+          "description": "Optional yellow-phone job. Follow the marked gas-related objectives through the completion message.",
+          "description_i18n": {
+            "en": "Optional yellow-phone job. Follow the marked gas-related objectives through the completion message.",
+            "pt": "Trabalho opcional de telefone amarelo. Siga os objetivos marcados ligados ao gás até a mensagem de conclusão."
+          }
+        },
+        {
+          "key": "downtown-yakuza-get-gama-rei",
+          "title": "Complete Get Gama Rei!",
+          "title_i18n": {
+            "en": "Complete Get Gama Rei!",
+            "pt": "Concluir Get Gama Rei!"
+          },
+          "description": "Optional yellow-phone job. Protect the required passenger through the full extraction.",
+          "description_i18n": {
+            "en": "Optional yellow-phone job. Protect the required passenger through the full extraction.",
+            "pt": "Trabalho opcional de telefone amarelo. Proteja o passageiro exigido durante todo o resgate."
+          }
+        },
+        {
+          "key": "downtown-yakuza-follow-that-traitor",
+          "title": "Complete Follow That Traitor!",
+          "title_i18n": {
+            "en": "Complete Follow That Traitor!",
+            "pt": "Concluir Follow That Traitor!"
+          },
+          "description": "Optional yellow-phone job. Keep the marked suspect in sight until the objective changes.",
+          "description_i18n": {
+            "en": "Optional yellow-phone job. Keep the marked suspect in sight until the objective changes.",
+            "pt": "Trabalho opcional de telefone amarelo. Mantenha o suspeito marcado à vista até o objetivo mudar."
+          },
+          "details": "Follow the suspect on foot and keep enough distance to avoid alarming him. If he is comfortably in the middle of the screen, you are probably too close; use the edge of your view and the objective indicator to track his movement. Do not attack before he reveals the hideout. When the message changes, meet Refried Noodle, collect the offered weapon and follow the new target instruction. Finding the destination is only the first stage.",
+          "details_i18n": {
+            "en": "Follow the suspect on foot and keep enough distance to avoid alarming him. If he is comfortably in the middle of the screen, you are probably too close; use the edge of your view and the objective indicator to track his movement. Do not attack before he reveals the hideout. When the message changes, meet Refried Noodle, collect the offered weapon and follow the new target instruction. Finding the destination is only the first stage.",
+            "pt": "Siga o suspeito a pé e mantenha distância suficiente para não alertá-lo. Se ele estiver bem no centro da tela, você provavelmente se aproximou demais; acompanhe seu movimento pela borda da visão e pelo indicador do objetivo. Não ataque antes de ele revelar o esconderijo. Quando a mensagem mudar, encontre Refried Noodle, recolha a arma oferecida e siga a nova instrução de alvo. Encontrar o destino é apenas a primeira etapa."
+          }
+        },
+        {
+          "key": "downtown-yakuza-swat-van-swipe",
+          "title": "Complete SWAT Van Swipe!",
+          "title_i18n": {
+            "en": "Complete SWAT Van Swipe!",
+            "pt": "Concluir SWAT Van Swipe!"
+          },
+          "description": "Optional red-phone job. Prepare for the police response and preserve the required van.",
+          "description_i18n": {
+            "en": "Optional red-phone job. Prepare for the police response and preserve the required van.",
+            "pt": "Trabalho opcional de telefone vermelho. Prepare-se para a reação policial e preserve o furgão exigido."
+          }
+        },
+        {
+          "key": "downtown-yakuza-stop-the-tank",
+          "title": "Complete Stop the Tank!",
+          "title_i18n": {
+            "en": "Complete Stop the Tank!",
+            "pt": "Concluir Stop the Tank!"
+          },
+          "description": "Optional red-phone job. Review the supplied equipment before confronting the armored target.",
+          "description_i18n": {
+            "en": "Optional red-phone job. Review the supplied equipment before confronting the armored target.",
+            "pt": "Trabalho opcional de telefone vermelho. Confira o equipamento fornecido antes de enfrentar o alvo blindado."
+          },
+          "details": "Prepare a reasonably quick car before answering this red phone. Collect the Rocket Launcher supplied near the stairs, then reach the advancing tank before it destroys Johnny Zoo's cars. Deal with nearby soldiers without standing in the tank's line of fire. Fire from a position with room to retreat and keep clear of explosions. The objective is to stop the tank in time, not to take it for a leisurely drive around the district.",
+          "details_i18n": {
+            "en": "Prepare a reasonably quick car before answering this red phone. Collect the Rocket Launcher supplied near the stairs, then reach the advancing tank before it destroys Johnny Zoo's cars. Deal with nearby soldiers without standing in the tank's line of fire. Fire from a position with room to retreat and keep clear of explosions. The objective is to stop the tank in time, not to take it for a leisurely drive around the district.",
+            "pt": "Prepare um carro razoavelmente rápido antes de atender este telefone vermelho. Recolha o Rocket Launcher fornecido perto da escada e alcance o tanque em movimento antes de ele destruir os carros de Johnny Zoo. Lide com os soldados próximos sem ficar na linha de tiro do tanque. Dispare de uma posição com espaço para recuar e mantenha distância das explosões. O objetivo é deter o tanque a tempo, não usá-lo para passear pelo distrito."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "downtown-loonies",
+      "title": "Downtown: optional Loonies jobs",
+      "title_i18n": {
+        "en": "Downtown: optional Loonies jobs",
+        "pt": "Downtown: trabalhos opcionais dos Loonies"
+      },
+      "items": [
+        {
+          "key": "downtown-loonies-radio-za-za",
+          "title": "Complete Radio Za-Za!",
+          "title_i18n": {
+            "en": "Complete Radio Za-Za!",
+            "pt": "Concluir Radio Za-Za!"
+          },
+          "description": "Optional green-phone job. Follow the broadcast-related assignment through its final confirmation.",
+          "description_i18n": {
+            "en": "Optional green-phone job. Follow the broadcast-related assignment through its final confirmation.",
+            "pt": "Trabalho opcional de telefone verde. Siga o trabalho ligado à transmissão até a confirmação final."
+          }
+        },
+        {
+          "key": "downtown-loonies-pizza-cake",
+          "title": "Complete Pizza Cake!",
+          "title_i18n": {
+            "en": "Complete Pizza Cake!",
+            "pt": "Concluir Pizza Cake!"
+          },
+          "description": "Optional green-phone job. Read the delivery instructions before using the mission vehicle.",
+          "description_i18n": {
+            "en": "Optional green-phone job. Read the delivery instructions before using the mission vehicle.",
+            "pt": "Trabalho opcional de telefone verde. Leia as instruções de entrega antes de usar o veículo da missão."
+          }
+        },
+        {
+          "key": "downtown-loonies-who-s-mad",
+          "title": "Complete Who's Mad?",
+          "title_i18n": {
+            "en": "Complete Who's Mad?",
+            "pt": "Concluir Who's Mad?"
+          },
+          "description": "Optional yellow-phone job. Follow the marked contacts and changing objectives carefully.",
+          "description_i18n": {
+            "en": "Optional yellow-phone job. Follow the marked contacts and changing objectives carefully.",
+            "pt": "Trabalho opcional de telefone amarelo. Acompanhe com atenção os contatos marcados e as mudanças de objetivo."
+          }
+        },
+        {
+          "key": "downtown-loonies-destroy-j-lab",
+          "title": "Complete Destroy J-Lab!",
+          "title_i18n": {
+            "en": "Complete Destroy J-Lab!",
+            "pt": "Concluir Destroy J-Lab!"
+          },
+          "description": "Optional yellow-phone job. Prepare an escape route before committing to the laboratory attack.",
+          "description_i18n": {
+            "en": "Optional yellow-phone job. Prepare an escape route before committing to the laboratory attack.",
+            "pt": "Trabalho opcional de telefone amarelo. Prepare uma rota de fuga antes de iniciar o ataque ao laboratório."
+          }
+        },
+        {
+          "key": "downtown-loonies-dimentia-to-go",
+          "title": "Complete Dimentia To Go!",
+          "title_i18n": {
+            "en": "Complete Dimentia To Go!",
+            "pt": "Concluir Dimentia To Go!"
+          },
+          "description": "Optional yellow-phone job. Keep the requested gang vehicle intact through its handover.",
+          "description_i18n": {
+            "en": "Optional yellow-phone job. Keep the requested gang vehicle intact through its handover.",
+            "pt": "Trabalho opcional de telefone amarelo. Mantenha o carro solicitado da gangue intacto até a entrega."
+          }
+        },
+        {
+          "key": "downtown-loonies-taxi-drivers-must-die",
+          "title": "Complete Taxi Drivers Must Die!",
+          "title_i18n": {
+            "en": "Complete Taxi Drivers Must Die!",
+            "pt": "Concluir Taxi Drivers Must Die!"
+          },
+          "description": "Optional red-phone job. Check which targets count and continue until the mission confirms success.",
+          "description_i18n": {
+            "en": "Optional red-phone job. Check which targets count and continue until the mission confirms success.",
+            "pt": "Trabalho opcional de telefone vermelho. Confira quais alvos contam e prossiga até a missão confirmar o sucesso."
+          }
+        },
+        {
+          "key": "downtown-loonies-gang-war-a-go-go",
+          "title": "Complete Gang War A-Go-Go!",
+          "title_i18n": {
+            "en": "Complete Gang War A-Go-Go!",
+            "pt": "Concluir Gang War A-Go-Go!"
+          },
+          "description": "Optional red-phone job. Prepare weapons and armor before entering the extended gang fight.",
+          "description_i18n": {
+            "en": "Optional red-phone job. Prepare weapons and armor before entering the extended gang fight.",
+            "pt": "Trabalho opcional de telefone vermelho. Prepare armas e colete antes de entrar no confronto prolongado entre gangues."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "downtown-zaibatsu",
+      "title": "Downtown: optional Zaibatsu jobs",
+      "title_i18n": {
+        "en": "Downtown: optional Zaibatsu jobs",
+        "pt": "Downtown: trabalhos opcionais dos Zaibatsu"
+      },
+      "items": [
+        {
+          "key": "downtown-zaibatsu-cop-car-crush",
+          "title": "Complete Cop Car Crush!",
+          "title_i18n": {
+            "en": "Complete Cop Car Crush!",
+            "pt": "Concluir Cop Car Crush!"
+          },
+          "description": "Optional green-phone job. Acquire the required police vehicle and complete the crusher delivery.",
+          "description_i18n": {
+            "en": "Optional green-phone job. Acquire the required police vehicle and complete the crusher delivery.",
+            "pt": "Trabalho opcional de telefone verde. Obtenha o carro policial exigido e conclua a entrega ao triturador."
+          }
+        },
+        {
+          "key": "downtown-zaibatsu-wheeler-dealing",
+          "title": "Complete Wheeler-Dealing!",
+          "title_i18n": {
+            "en": "Complete Wheeler-Dealing!",
+            "pt": "Concluir Wheeler-Dealing!"
+          },
+          "description": "Optional green-phone job. Follow the requested vehicle assignments through their final handover.",
+          "description_i18n": {
+            "en": "Optional green-phone job. Follow the requested vehicle assignments through their final handover.",
+            "pt": "Trabalho opcional de telefone verde. Siga os trabalhos com os veículos solicitados até a entrega final."
+          }
+        },
+        {
+          "key": "downtown-zaibatsu-yutes-must-die",
+          "title": "Complete Yutes Must Die!",
+          "title_i18n": {
+            "en": "Complete Yutes Must Die!",
+            "pt": "Concluir Yutes Must Die!"
+          },
+          "description": "Optional yellow-phone job. Follow the marked gang operation and its final disposal instructions.",
+          "description_i18n": {
+            "en": "Optional yellow-phone job. Follow the marked gang operation and its final disposal instructions.",
+            "pt": "Trabalho opcional de telefone amarelo. Siga a operação marcada da gangue e as instruções finais de descarte."
+          }
+        },
+        {
+          "key": "downtown-zaibatsu-lick-those-loonies",
+          "title": "Complete Lick Those Loonies!",
+          "title_i18n": {
+            "en": "Complete Lick Those Loonies!",
+            "pt": "Concluir Lick Those Loonies!"
+          },
+          "description": "Optional yellow-phone job. Finish the rival-gang targets while watching the respect meters.",
+          "description_i18n": {
+            "en": "Optional yellow-phone job. Finish the rival-gang targets while watching the respect meters.",
+            "pt": "Trabalho opcional de telefone amarelo. Conclua os alvos da gangue rival acompanhando os medidores de respeito."
+          }
+        },
+        {
+          "key": "downtown-zaibatsu-big-bank-job",
+          "title": "Complete Big Bank Job!",
+          "title_i18n": {
+            "en": "Complete Big Bank Job!",
+            "pt": "Concluir Big Bank Job!"
+          },
+          "description": "Optional yellow-phone job. Follow the bank operation through every delivery and follow-up.",
+          "description_i18n": {
+            "en": "Optional yellow-phone job. Follow the bank operation through every delivery and follow-up.",
+            "pt": "Trabalho opcional de telefone amarelo. Acompanhe a operação no banco em todas as entregas e etapas seguintes."
+          }
+        },
+        {
+          "key": "downtown-zaibatsu-armored-car-clash",
+          "title": "Complete Armored Car Clash!",
+          "title_i18n": {
+            "en": "Complete Armored Car Clash!",
+            "pt": "Concluir Armored Car Clash!"
+          },
+          "description": "Optional red-phone job. Inspect the armored targets and choose a suitable approach.",
+          "description_i18n": {
+            "en": "Optional red-phone job. Inspect the armored targets and choose a suitable approach.",
+            "pt": "Trabalho opcional de telefone vermelho. Observe os alvos blindados e escolha uma abordagem adequada."
+          },
+          "details": "These mission cars resist ordinary gunfire, so do not empty your ammunition into them and assume the job is broken. A G4 armored van can ram the targets while giving you more protection than an ordinary car. Approach one target at a time, keep its movement blocked where possible and leave enough room to avoid the final explosion. Watch the mission timer and your own vehicle condition throughout the chase.",
+          "details_i18n": {
+            "en": "These mission cars resist ordinary gunfire, so do not empty your ammunition into them and assume the job is broken. A G4 armored van can ram the targets while giving you more protection than an ordinary car. Approach one target at a time, keep its movement blocked where possible and leave enough room to avoid the final explosion. Watch the mission timer and your own vehicle condition throughout the chase.",
+            "pt": "Os carros desta missão resistem aos tiros comuns; não gaste toda a munição neles presumindo que a missão travou. Um furgão blindado G4 permite colidir com os alvos com mais proteção que um carro comum. Enfrente um alvo por vez, bloqueie seu movimento quando possível e deixe espaço para evitar a explosão final. Acompanhe o cronômetro e o estado do seu veículo durante a perseguição."
+          }
+        },
+        {
+          "key": "downtown-zaibatsu-bank-van-theft",
+          "title": "Complete Bank Van Theft!",
+          "title_i18n": {
+            "en": "Complete Bank Van Theft!",
+            "pt": "Concluir Bank Van Theft!"
+          },
+          "description": "Optional red-phone job. Preserve the specified van through the final handover.",
+          "description_i18n": {
+            "en": "Optional red-phone job. Preserve the specified van through the final handover.",
+            "pt": "Trabalho opcional de telefone vermelho. Preserve o furgão indicado até a entrega final."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "residential-rednecks",
+      "title": "Residential: optional Redneck jobs",
+      "title_i18n": {
+        "en": "Residential: optional Redneck jobs",
+        "pt": "Residential: trabalhos opcionais dos Rednecks"
+      },
+      "items": [
+        {
+          "key": "residential-rednecks-double-cross-crush",
+          "title": "Complete Double-Cross Crush!",
+          "title_i18n": {
+            "en": "Complete Double-Cross Crush!",
+            "pt": "Concluir Double-Cross Crush!"
+          },
+          "description": "Optional green-phone job. Follow the requested pickup and crusher sequence.",
+          "description_i18n": {
+            "en": "Optional green-phone job. Follow the requested pickup and crusher sequence.",
+            "pt": "Trabalho opcional de telefone verde. Siga a sequência solicitada de coleta e entrega ao triturador."
+          }
+        },
+        {
+          "key": "residential-rednecks-blow-job",
+          "title": "Complete Blow Job!",
+          "title_i18n": {
+            "en": "Complete Blow Job!",
+            "pt": "Concluir Blow Job!"
+          },
+          "description": "Optional green-phone job. Read the explosive setup and move clear before the detonation.",
+          "description_i18n": {
+            "en": "Optional green-phone job. Read the explosive setup and move clear before the detonation.",
+            "pt": "Trabalho opcional de telefone verde. Leia a preparação dos explosivos e afaste-se antes da detonação."
+          }
+        },
+        {
+          "key": "residential-rednecks-benson-burner",
+          "title": "Complete Benson Burner!",
+          "title_i18n": {
+            "en": "Complete Benson Burner!",
+            "pt": "Concluir Benson Burner!"
+          },
+          "description": "Optional yellow-phone job. Follow the Benson-related objectives without abandoning the active chain.",
+          "description_i18n": {
+            "en": "Optional yellow-phone job. Follow the Benson-related objectives without abandoning the active chain.",
+            "pt": "Trabalho opcional de telefone amarelo. Siga os objetivos ligados ao Benson sem abandonar a sequência ativa."
+          }
+        },
+        {
+          "key": "residential-rednecks-greatest-hits",
+          "title": "Complete Greatest Hits!",
+          "title_i18n": {
+            "en": "Complete Greatest Hits!",
+            "pt": "Concluir Greatest Hits!"
+          },
+          "description": "Optional yellow-phone job. Plan the marked targets before starting a long journey.",
+          "description_i18n": {
+            "en": "Optional yellow-phone job. Plan the marked targets before starting a long journey.",
+            "pt": "Trabalho opcional de telefone amarelo. Planeje os alvos marcados antes de iniciar um trajeto longo."
+          }
+        },
+        {
+          "key": "residential-rednecks-tanks-giving",
+          "title": "Complete Tanks-Giving!",
+          "title_i18n": {
+            "en": "Complete Tanks-Giving!",
+            "pt": "Concluir Tanks-Giving!"
+          },
+          "description": "Optional yellow-phone job. Prepare your approach to the required armored vehicle.",
+          "description_i18n": {
+            "en": "Optional yellow-phone job. Prepare your approach to the required armored vehicle.",
+            "pt": "Trabalho opcional de telefone amarelo. Prepare sua aproximação ao blindado exigido."
+          }
+        },
+        {
+          "key": "residential-rednecks-gang-car-bang",
+          "title": "Complete Gang Car Bang!",
+          "title_i18n": {
+            "en": "Complete Gang Car Bang!",
+            "pt": "Concluir Gang Car Bang!"
+          },
+          "description": "Optional red-phone job. Track the requested gang vehicles and preserve your escape option.",
+          "description_i18n": {
+            "en": "Optional red-phone job. Track the requested gang vehicles and preserve your escape option.",
+            "pt": "Trabalho opcional de telefone vermelho. Acompanhe os carros solicitados das gangues e preserve uma opção de fuga."
+          }
+        },
+        {
+          "key": "residential-rednecks-penal-ties",
+          "title": "Complete Penal Ties!",
+          "title_i18n": {
+            "en": "Complete Penal Ties!",
+            "pt": "Concluir Penal Ties!"
+          },
+          "description": "Optional red-phone job. Prepare for the prison operation and read each change of objective.",
+          "description_i18n": {
+            "en": "Optional red-phone job. Prepare for the prison operation and read each change of objective.",
+            "pt": "Trabalho opcional de telefone vermelho. Prepare-se para a operação na prisão e leia cada mudança de objetivo."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "residential-srs",
+      "title": "Residential: optional SRS jobs",
+      "title_i18n": {
+        "en": "Residential: optional SRS jobs",
+        "pt": "Residential: trabalhos opcionais dos SRS"
+      },
+      "items": [
+        {
+          "key": "residential-srs-sink-or-swim",
+          "title": "Complete Sink or Swim!",
+          "title_i18n": {
+            "en": "Complete Sink or Swim!",
+            "pt": "Concluir Sink or Swim!"
+          },
+          "description": "Optional green-phone job. Follow the pickup and delivery conditions for the requested passengers.",
+          "description_i18n": {
+            "en": "Optional green-phone job. Follow the pickup and delivery conditions for the requested passengers.",
+            "pt": "Trabalho opcional de telefone verde. Siga as condições de coleta e entrega dos passageiros solicitados."
+          }
+        },
+        {
+          "key": "residential-srs-fake-truce",
+          "title": "Complete Fake Truce!",
+          "title_i18n": {
+            "en": "Complete Fake Truce!",
+            "pt": "Concluir Fake Truce!"
+          },
+          "description": "Optional green-phone job. Follow the meeting instructions and remain ready for the follow-up.",
+          "description_i18n": {
+            "en": "Optional green-phone job. Follow the meeting instructions and remain ready for the follow-up.",
+            "pt": "Trabalho opcional de telefone verde. Siga as instruções do encontro e prepare-se para a etapa seguinte."
+          }
+        },
+        {
+          "key": "residential-srs-labrat-s-plan",
+          "title": "Complete LaBrat's Plan!",
+          "title_i18n": {
+            "en": "Complete LaBrat's Plan!",
+            "pt": "Concluir LaBrat's Plan!"
+          },
+          "description": "Optional yellow-phone job. Read the plan before entering the target area.",
+          "description_i18n": {
+            "en": "Optional yellow-phone job. Read the plan before entering the target area.",
+            "pt": "Trabalho opcional de telefone amarelo. Leia o plano antes de entrar na área do alvo."
+          }
+        },
+        {
+          "key": "residential-srs-gran-pa-we-love-you",
+          "title": "Complete Gran'pa We Love You!",
+          "title_i18n": {
+            "en": "Complete Gran'pa We Love You!",
+            "pt": "Concluir Gran'pa We Love You!"
+          },
+          "description": "Optional yellow-phone job. Keep the requested transport available for the passenger pickup.",
+          "description_i18n": {
+            "en": "Optional yellow-phone job. Keep the requested transport available for the passenger pickup.",
+            "pt": "Trabalho opcional de telefone amarelo. Mantenha o transporte solicitado disponível para buscar o passageiro."
+          }
+        },
+        {
+          "key": "residential-srs-redneck-attack",
+          "title": "Complete Redneck Attack!",
+          "title_i18n": {
+            "en": "Complete Redneck Attack!",
+            "pt": "Concluir Redneck Attack!"
+          },
+          "description": "Optional yellow-phone job. Defend the objective until the mission timer completes.",
+          "description_i18n": {
+            "en": "Optional yellow-phone job. Defend the objective until the mission timer completes.",
+            "pt": "Trabalho opcional de telefone amarelo. Defenda o objetivo até o cronômetro da missão terminar."
+          }
+        },
+        {
+          "key": "residential-srs-taxi-traitor-test",
+          "title": "Complete Taxi Traitor Test!",
+          "title_i18n": {
+            "en": "Complete Taxi Traitor Test!",
+            "pt": "Concluir Taxi Traitor Test!"
+          },
+          "description": "Optional red-phone job. Complete the remote-control test and its follow-up assignments.",
+          "description_i18n": {
+            "en": "Optional red-phone job. Complete the remote-control test and its follow-up assignments.",
+            "pt": "Trabalho opcional de telefone vermelho. Conclua o teste por controle remoto e os trabalhos seguintes."
+          },
+          "details": "Collect the remote-control activation at the SRS test area. First complete five laps within the displayed test limit; smooth cornering matters more than correcting repeated collisions. The prototype exploding after the test is scripted, not automatically a failure. The next stage uses replacement remote taxis to collect the three marked suspects. Let each passenger board, then destroy that taxi as instructed and continue with the next one. Do not stop after passing the circuit.",
+          "details_i18n": {
+            "en": "Collect the remote-control activation at the SRS test area. First complete five laps within the displayed test limit; smooth cornering matters more than correcting repeated collisions. The prototype exploding after the test is scripted, not automatically a failure. The next stage uses replacement remote taxis to collect the three marked suspects. Let each passenger board, then destroy that taxi as instructed and continue with the next one. Do not stop after passing the circuit.",
+            "pt": "Recolha a ativação de controle remoto na área de testes dos SRS. Primeiro complete cinco voltas dentro do limite mostrado; fazer curvas suaves ajuda mais que corrigir colisões repetidas. A explosão do protótipo após o teste faz parte da sequência, não indica falha automática. A etapa seguinte usa outros táxis remotos para buscar os três suspeitos marcados. Deixe cada passageiro entrar, destrua aquele táxi conforme a instrução e prossiga ao seguinte. Não pare após concluir o circuito."
+          }
+        },
+        {
+          "key": "residential-srs-water-carry-on",
+          "title": "Complete Water Carry On!",
+          "title_i18n": {
+            "en": "Complete Water Carry On!",
+            "pt": "Concluir Water Carry On!"
+          },
+          "description": "Optional red-phone job. Follow the facility objectives and complete the escape.",
+          "description_i18n": {
+            "en": "Optional red-phone job. Follow the facility objectives and complete the escape.",
+            "pt": "Trabalho opcional de telefone vermelho. Siga os objetivos nas instalações e conclua a fuga."
+          },
+          "details": "Enter the water facility prepared for guarded walkways and collect the explosives supplied along the route. Clear the turbine area and destroy all four turbines from outside their blast radius. The follow-up target is a separate generator on the lower part of the dam, reached by returning toward the entrance and following the lower access route. After destroying it, leave the facility as directed; the turbine stage alone does not finish the mission.",
+          "details_i18n": {
+            "en": "Enter the water facility prepared for guarded walkways and collect the explosives supplied along the route. Clear the turbine area and destroy all four turbines from outside their blast radius. The follow-up target is a separate generator on the lower part of the dam, reached by returning toward the entrance and following the lower access route. After destroying it, leave the facility as directed; the turbine stage alone does not finish the mission.",
+            "pt": "Entre na instalação de água preparado para passarelas vigiadas e recolha os explosivos fornecidos no caminho. Limpe a área das turbinas e destrua as quatro fora do alcance das explosões. O alvo seguinte é um gerador separado na parte inferior da represa, acessível ao retornar na direção da entrada e seguir o acesso inferior. Após destruí-lo, saia das instalações conforme a instrução; a etapa das turbinas sozinha não conclui a missão."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "residential-zaibatsu",
+      "title": "Residential: optional Zaibatsu jobs",
+      "title_i18n": {
+        "en": "Residential: optional Zaibatsu jobs",
+        "pt": "Residential: trabalhos opcionais dos Zaibatsu"
+      },
+      "items": [
+        {
+          "key": "residential-zaibatsu-fire-truck-fun",
+          "title": "Complete Fire Truck Fun!",
+          "title_i18n": {
+            "en": "Complete Fire Truck Fun!",
+            "pt": "Concluir Fire Truck Fun!"
+          },
+          "description": "Optional green-phone job. Follow the emergency-vehicle instructions through the handover.",
+          "description_i18n": {
+            "en": "Optional green-phone job. Follow the emergency-vehicle instructions through the handover.",
+            "pt": "Trabalho opcional de telefone verde. Siga as instruções do veículo de emergência até a entrega."
+          }
+        },
+        {
+          "key": "residential-zaibatsu-science-friction",
+          "title": "Complete Science Friction!",
+          "title_i18n": {
+            "en": "Complete Science Friction!",
+            "pt": "Concluir Science Friction!"
+          },
+          "description": "Optional green-phone job. Follow the SRS-related objectives and read each new instruction.",
+          "description_i18n": {
+            "en": "Optional green-phone job. Follow the SRS-related objectives and read each new instruction.",
+            "pt": "Trabalho opcional de telefone verde. Siga os objetivos ligados aos SRS e leia cada nova instrução."
+          }
+        },
+        {
+          "key": "residential-zaibatsu-operation-z",
+          "title": "Complete Operation Z!",
+          "title_i18n": {
+            "en": "Complete Operation Z!",
+            "pt": "Concluir Operation Z!"
+          },
+          "description": "Optional yellow-phone job. Follow the coordinated operation and wait for each new instruction.",
+          "description_i18n": {
+            "en": "Optional yellow-phone job. Follow the coordinated operation and wait for each new instruction.",
+            "pt": "Trabalho opcional de telefone amarelo. Siga a operação coordenada e aguarde cada nova instrução."
+          }
+        },
+        {
+          "key": "residential-zaibatsu-valdez-alert",
+          "title": "Complete Valdez Alert!",
+          "title_i18n": {
+            "en": "Complete Valdez Alert!",
+            "pt": "Concluir Valdez Alert!"
+          },
+          "description": "Optional yellow-phone job. Respond to the marked threats without abandoning the main objective.",
+          "description_i18n": {
+            "en": "Optional yellow-phone job. Respond to the marked threats without abandoning the main objective.",
+            "pt": "Trabalho opcional de telefone amarelo. Responda às ameaças marcadas sem abandonar o objetivo principal."
+          }
+        },
+        {
+          "key": "residential-zaibatsu-law-enforcement-larceny",
+          "title": "Complete Law Enforcement Larceny!",
+          "title_i18n": {
+            "en": "Complete Law Enforcement Larceny!",
+            "pt": "Concluir Law Enforcement Larceny!"
+          },
+          "description": "Optional yellow-phone job. Prepare for escalating police resistance during the required thefts.",
+          "description_i18n": {
+            "en": "Optional yellow-phone job. Prepare for escalating police resistance during the required thefts.",
+            "pt": "Trabalho opcional de telefone amarelo. Prepare-se para a resistência crescente da polícia durante os roubos exigidos."
+          }
+        },
+        {
+          "key": "residential-zaibatsu-murder-in-the-mall",
+          "title": "Complete Murder in the Mall!",
+          "title_i18n": {
+            "en": "Complete Murder in the Mall!",
+            "pt": "Concluir Murder in the Mall!"
+          },
+          "description": "Optional red-phone job. Check the target rules and keep a recovery route open.",
+          "description_i18n": {
+            "en": "Optional red-phone job. Check the target rules and keep a recovery route open.",
+            "pt": "Trabalho opcional de telefone vermelho. Confira as regras dos alvos e mantenha uma rota de recuperação aberta."
+          },
+          "details": "The original PC objective requires one hundred SRS targets, and simply running them over does not satisfy the weapon-kill condition. A vehicle fitted with machine guns still allows qualifying shots while protecting you better than fighting on foot. Follow the counter rather than assuming the optional escorts will finish it. As SRS respect drops, their heavier weapons make the area much more dangerous. Retreat to repair or collect supplies when needed; restoring SRS respect by attacking their rivals can make a return less hazardous. Avoid adding a major police pursuit to the fight.",
+          "details_i18n": {
+            "en": "The original PC objective requires one hundred SRS targets, and simply running them over does not satisfy the weapon-kill condition. A vehicle fitted with machine guns still allows qualifying shots while protecting you better than fighting on foot. Follow the counter rather than assuming the optional escorts will finish it. As SRS respect drops, their heavier weapons make the area much more dangerous. Retreat to repair or collect supplies when needed; restoring SRS respect by attacking their rivals can make a return less hazardous. Avoid adding a major police pursuit to the fight.",
+            "pt": "O objetivo original de PC exige cem alvos SRS; simplesmente atropelá-los não cumpre a condição de abates com armas. Um veículo equipado com metralhadoras ainda permite disparos válidos e protege mais que combater a pé. Acompanhe o contador, sem presumir que os acompanhantes opcionais farão tudo. Conforme o respeito dos SRS cai, suas armas mais pesadas tornam a área muito mais perigosa. Recue para reparar ou buscar suprimentos quando necessário; recuperar o respeito dos SRS atacando seus rivais pode tornar o retorno menos arriscado. Evite somar uma grande perseguição policial ao confronto."
+          }
+        },
+        {
+          "key": "residential-zaibatsu-distraction-action",
+          "title": "Complete Distraction Action!",
+          "title_i18n": {
+            "en": "Complete Distraction Action!",
+            "pt": "Concluir Distraction Action!"
+          },
+          "description": "Optional red-phone job. Follow the trailer operation and keep the required vehicles usable.",
+          "description_i18n": {
+            "en": "Optional red-phone job. Follow the trailer operation and keep the required vehicles usable.",
+            "pt": "Trabalho opcional de telefone vermelho. Siga a operação com o reboque e mantenha os veículos exigidos em condições de uso."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "industrial-krishna",
+      "title": "Industrial: optional Hare Krishna jobs",
+      "title_i18n": {
+        "en": "Industrial: optional Hare Krishna jobs",
+        "pt": "Industrial: trabalhos opcionais dos Hare Krishna"
+      },
+      "items": [
+        {
+          "key": "industrial-krishna-deconstruction-yard",
+          "title": "Complete Deconstruction Yard!",
+          "title_i18n": {
+            "en": "Complete Deconstruction Yard!",
+            "pt": "Concluir Deconstruction Yard!"
+          },
+          "description": "Optional green-phone job. Follow the marked yard objectives and collect the requested equipment.",
+          "description_i18n": {
+            "en": "Optional green-phone job. Follow the marked yard objectives and collect the requested equipment.",
+            "pt": "Trabalho opcional de telefone verde. Siga os objetivos marcados no pátio e recolha o equipamento solicitado."
+          }
+        },
+        {
+          "key": "industrial-krishna-cop-car-scrap",
+          "title": "Complete Cop Car Scrap!",
+          "title_i18n": {
+            "en": "Complete Cop Car Scrap!",
+            "pt": "Concluir Cop Car Scrap!"
+          },
+          "description": "Optional green-phone job. Deliver the required police vehicles according to the crusher instructions.",
+          "description_i18n": {
+            "en": "Optional green-phone job. Deliver the required police vehicles according to the crusher instructions.",
+            "pt": "Trabalho opcional de telefone verde. Entregue os carros policiais exigidos conforme as instruções do triturador."
+          }
+        },
+        {
+          "key": "industrial-krishna-cossack-conversion",
+          "title": "Complete Cossack Conversion!",
+          "title_i18n": {
+            "en": "Complete Cossack Conversion!",
+            "pt": "Concluir Cossack Conversion!"
+          },
+          "description": "Optional yellow-phone job. Follow the transport and contact stages through their final confirmation.",
+          "description_i18n": {
+            "en": "Optional yellow-phone job. Follow the transport and contact stages through their final confirmation.",
+            "pt": "Trabalho opcional de telefone amarelo. Siga as etapas de transporte e contato até a confirmação final."
+          }
+        },
+        {
+          "key": "industrial-krishna-sunbeam-contract",
+          "title": "Complete Sunbeam Contract!",
+          "title_i18n": {
+            "en": "Complete Sunbeam Contract!",
+            "pt": "Concluir Sunbeam Contract!"
+          },
+          "description": "Optional yellow-phone job. Prepare for the marked targets and read the follow-up instructions.",
+          "description_i18n": {
+            "en": "Optional yellow-phone job. Prepare for the marked targets and read the follow-up instructions.",
+            "pt": "Trabalho opcional de telefone amarelo. Prepare-se para os alvos marcados e leia as instruções seguintes."
+          }
+        },
+        {
+          "key": "industrial-krishna-conversion-evasion",
+          "title": "Complete Conversion Evasion!",
+          "title_i18n": {
+            "en": "Complete Conversion Evasion!",
+            "pt": "Concluir Conversion Evasion!"
+          },
+          "description": "Optional yellow-phone job. Protect the requested extraction and keep your route clear.",
+          "description_i18n": {
+            "en": "Optional yellow-phone job. Protect the requested extraction and keep your route clear.",
+            "pt": "Trabalho opcional de telefone amarelo. Proteja o resgate solicitado e mantenha sua rota livre."
+          }
+        },
+        {
+          "key": "industrial-krishna-rooftop-rescue",
+          "title": "Complete Rooftop Rescue!",
+          "title_i18n": {
+            "en": "Complete Rooftop Rescue!",
+            "pt": "Concluir Rooftop Rescue!"
+          },
+          "description": "Optional red-phone job. Inspect the access route before attempting the rooftop extraction.",
+          "description_i18n": {
+            "en": "Optional red-phone job. Inspect the access route before attempting the rooftop extraction.",
+            "pt": "Trabalho opcional de telefone vermelho. Observe a rota de acesso antes de tentar o resgate na cobertura."
+          },
+          "details": "The locked containment entrance opens only after the three generators above it are destroyed. Leave the immediate entrance area and find the ramp on the building to the north; follow the elevated route, clearing guards and making the gaps carefully. Use the available Molotovs on the generators, then return to the opened entrance. Follow the rescued group to the limousines. Lead in the other limousine, clear the blocked route and keep the following car close enough to continue the escort.",
+          "details_i18n": {
+            "en": "The locked containment entrance opens only after the three generators above it are destroyed. Leave the immediate entrance area and find the ramp on the building to the north; follow the elevated route, clearing guards and making the gaps carefully. Use the available Molotovs on the generators, then return to the opened entrance. Follow the rescued group to the limousines. Lead in the other limousine, clear the blocked route and keep the following car close enough to continue the escort.",
+            "pt": "A entrada trancada do bloco abre somente após destruir os três geradores acima dela. Saia da área imediata da entrada e encontre a rampa no prédio ao norte; siga a rota elevada, eliminando guardas e atravessando os vãos com cuidado. Use os Molotovs disponíveis nos geradores e volte à entrada aberta. Acompanhe o grupo resgatado até as limusines. Conduza a outra limusine à frente, libere o caminho bloqueado e mantenha o carro que segue perto o bastante para continuar a escolta."
+          }
+        },
+        {
+          "key": "industrial-krishna-power-station",
+          "title": "Complete Power Station!",
+          "title_i18n": {
+            "en": "Complete Power Station!",
+            "pt": "Concluir Power Station!"
+          },
+          "description": "Optional red-phone job. Prepare supplies for the facility assault and its changing objectives.",
+          "description_i18n": {
+            "en": "Optional red-phone job. Prepare supplies for the facility assault and its changing objectives.",
+            "pt": "Trabalho opcional de telefone vermelho. Prepare suprimentos para o ataque às instalações e suas mudanças de objetivo."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "industrial-russians",
+      "title": "Industrial: optional Russian jobs",
+      "title_i18n": {
+        "en": "Industrial: optional Russian jobs",
+        "pt": "Industrial: trabalhos opcionais dos russos"
+      },
+      "items": [
+        {
+          "key": "industrial-russians-hot-dog-homicide",
+          "title": "Complete Hot Dog Homicide!",
+          "title_i18n": {
+            "en": "Complete Hot Dog Homicide!",
+            "pt": "Concluir Hot Dog Homicide!"
+          },
+          "description": "Optional green-phone job. Complete the transport operation and all subsequent deliveries.",
+          "description_i18n": {
+            "en": "Optional green-phone job. Complete the transport operation and all subsequent deliveries.",
+            "pt": "Trabalho opcional de telefone verde. Conclua a operação de transporte e todas as entregas seguintes."
+          },
+          "details": "The PC mission uses an ordinary Bus and passengers, unlike the altered PlayStation version. Obtain the Bus, wait at a stop until the required passengers board and continue only after Jerkov gives the next instruction. Deliver the Bus to the marked processing facility, then use the exterior access to reach the observation platform. Stay on the indicated platform until the message changes. Finally take the supplied Hot Dog Van to the diner garage; delivering the Bus is not the last step.",
+          "details_i18n": {
+            "en": "The PC mission uses an ordinary Bus and passengers, unlike the altered PlayStation version. Obtain the Bus, wait at a stop until the required passengers board and continue only after Jerkov gives the next instruction. Deliver the Bus to the marked processing facility, then use the exterior access to reach the observation platform. Stay on the indicated platform until the message changes. Finally take the supplied Hot Dog Van to the diner garage; delivering the Bus is not the last step.",
+            "pt": "A missão de PC usa um Bus comum e passageiros, diferentemente da versão alterada de PlayStation. Obtenha o ônibus, aguarde em uma parada até os passageiros exigidos embarcarem e prossiga apenas após a nova instrução de Jerkov. Entregue o ônibus na instalação marcada e use o acesso externo para alcançar a plataforma de observação. Permaneça na plataforma indicada até a mensagem mudar. Por fim, leve o Hot Dog Van fornecido à garagem do restaurante; entregar o ônibus não é a última etapa."
+          }
+        },
+        {
+          "key": "industrial-russians-mmm-russian-sailors",
+          "title": "Complete MMM, Russian Sailors!",
+          "title_i18n": {
+            "en": "Complete MMM, Russian Sailors!",
+            "pt": "Concluir MMM, Russian Sailors!"
+          },
+          "description": "Optional green-phone job. Use the requested vehicle and complete the passenger chain.",
+          "description_i18n": {
+            "en": "Optional green-phone job. Use the requested vehicle and complete the passenger chain.",
+            "pt": "Trabalho opcional de telefone verde. Use o veículo solicitado e conclua a sequência de passageiros."
+          }
+        },
+        {
+          "key": "industrial-russians-officer-down",
+          "title": "Complete Officer Down!",
+          "title_i18n": {
+            "en": "Complete Officer Down!",
+            "pt": "Concluir Officer Down!"
+          },
+          "description": "Optional yellow-phone job. Follow the police-related targets and changing wanted response.",
+          "description_i18n": {
+            "en": "Optional yellow-phone job. Follow the police-related targets and changing wanted response.",
+            "pt": "Trabalho opcional de telefone amarelo. Siga os alvos ligados à polícia e a mudança na intensidade da perseguição."
+          }
+        },
+        {
+          "key": "industrial-russians-karma-assassins",
+          "title": "Complete Karma Assassins!",
+          "title_i18n": {
+            "en": "Complete Karma Assassins!",
+            "pt": "Concluir Karma Assassins!"
+          },
+          "description": "Optional yellow-phone job. Track the marked enemy operation through its final objective.",
+          "description_i18n": {
+            "en": "Optional yellow-phone job. Track the marked enemy operation through its final objective.",
+            "pt": "Trabalho opcional de telefone amarelo. Acompanhe a operação inimiga marcada até seu objetivo final."
+          }
+        },
+        {
+          "key": "industrial-russians-tanks-a-lot",
+          "title": "Complete Tanks A Lot!",
+          "title_i18n": {
+            "en": "Complete Tanks A Lot!",
+            "pt": "Concluir Tanks A Lot!"
+          },
+          "description": "Optional yellow-phone job. Prepare for the armored-vehicle assignment and its handover.",
+          "description_i18n": {
+            "en": "Optional yellow-phone job. Prepare for the armored-vehicle assignment and its handover.",
+            "pt": "Trabalho opcional de telefone amarelo. Prepare-se para o trabalho com o blindado e sua entrega."
+          }
+        },
+        {
+          "key": "industrial-russians-vedic-massacre",
+          "title": "Complete Vedic Massacre!",
+          "title_i18n": {
+            "en": "Complete Vedic Massacre!",
+            "pt": "Concluir Vedic Massacre!"
+          },
+          "description": "Optional red-phone job. Stock supplies before entering the hostile mission area.",
+          "description_i18n": {
+            "en": "Optional red-phone job. Stock supplies before entering the hostile mission area.",
+            "pt": "Trabalho opcional de telefone vermelho. Reabasteça antes de entrar na área hostil da missão."
+          }
+        },
+        {
+          "key": "industrial-russians-super-grass-rescue",
+          "title": "Complete Super Grass Rescue!",
+          "title_i18n": {
+            "en": "Complete Super Grass Rescue!",
+            "pt": "Concluir Super Grass Rescue!"
+          },
+          "description": "Optional red-phone job. Protect the extraction and follow every requested transfer.",
+          "description_i18n": {
+            "en": "Optional red-phone job. Protect the extraction and follow every requested transfer.",
+            "pt": "Trabalho opcional de telefone vermelho. Proteja o resgate e siga todas as transferências solicitadas."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "industrial-zaibatsu",
+      "title": "Industrial: optional Zaibatsu jobs",
+      "title_i18n": {
+        "en": "Industrial: optional Zaibatsu jobs",
+        "pt": "Industrial: trabalhos opcionais dos Zaibatsu"
+      },
+      "items": [
+        {
+          "key": "industrial-zaibatsu-grand-theft-auto",
+          "title": "Complete Grand Theft Auto!",
+          "title_i18n": {
+            "en": "Complete Grand Theft Auto!",
+            "pt": "Concluir Grand Theft Auto!"
+          },
+          "description": "Optional green-phone job. Complete the requested vehicle thefts and garage deliveries.",
+          "description_i18n": {
+            "en": "Optional green-phone job. Complete the requested vehicle thefts and garage deliveries.",
+            "pt": "Trabalho opcional de telefone verde. Conclua os roubos dos veículos solicitados e as entregas na garagem."
+          }
+        },
+        {
+          "key": "industrial-zaibatsu-it-was-an-accident",
+          "title": "Complete It Was An Accident!",
+          "title_i18n": {
+            "en": "Complete It Was An Accident!",
+            "pt": "Concluir It Was An Accident!"
+          },
+          "description": "Optional green-phone job. Follow the sequence of special vehicles and contacts.",
+          "description_i18n": {
+            "en": "Optional green-phone job. Follow the sequence of special vehicles and contacts.",
+            "pt": "Trabalho opcional de telefone verde. Siga a sequência de veículos especiais e contatos."
+          }
+        },
+        {
+          "key": "industrial-zaibatsu-payback",
+          "title": "Complete Payback!",
+          "title_i18n": {
+            "en": "Complete Payback!",
+            "pt": "Concluir Payback!"
+          },
+          "description": "Optional yellow-phone job. Read the targets before entering hostile territory.",
+          "description_i18n": {
+            "en": "Optional yellow-phone job. Read the targets before entering hostile territory.",
+            "pt": "Trabalho opcional de telefone amarelo. Leia os alvos antes de entrar no território hostil."
+          }
+        },
+        {
+          "key": "industrial-zaibatsu-lock-out",
+          "title": "Complete Lock-Out!",
+          "title_i18n": {
+            "en": "Complete Lock-Out!",
+            "pt": "Concluir Lock-Out!"
+          },
+          "description": "Optional yellow-phone job. Follow the access instructions and maintain an escape vehicle.",
+          "description_i18n": {
+            "en": "Optional yellow-phone job. Follow the access instructions and maintain an escape vehicle.",
+            "pt": "Trabalho opcional de telefone amarelo. Siga as instruções de acesso e mantenha um veículo de fuga."
+          }
+        },
+        {
+          "key": "industrial-zaibatsu-gang-war",
+          "title": "Complete Gang War!",
+          "title_i18n": {
+            "en": "Complete Gang War!",
+            "pt": "Concluir Gang War!"
+          },
+          "description": "Optional yellow-phone job. Prepare for the gang confrontation and monitor rival hostility.",
+          "description_i18n": {
+            "en": "Optional yellow-phone job. Prepare for the gang confrontation and monitor rival hostility.",
+            "pt": "Trabalho opcional de telefone amarelo. Prepare-se para o confronto entre gangues e acompanhe a hostilidade rival."
+          }
+        },
+        {
+          "key": "industrial-zaibatsu-i-d-like-a-tank-please-bob",
+          "title": "Complete I'd Like A Tank Please, Bob!",
+          "title_i18n": {
+            "en": "Complete I'd Like A Tank Please, Bob!",
+            "pt": "Concluir I'd Like A Tank Please, Bob!"
+          },
+          "description": "Optional red-phone job. Follow the tank-acquisition operation through its final delivery.",
+          "description_i18n": {
+            "en": "Optional red-phone job. Follow the tank-acquisition operation through its final delivery.",
+            "pt": "Trabalho opcional de telefone vermelho. Siga a operação para obter o tanque até a entrega final."
+          }
+        },
+        {
+          "key": "industrial-zaibatsu-army-base-alert",
+          "title": "Complete Army Base Alert!",
+          "title_i18n": {
+            "en": "Complete Army Base Alert!",
+            "pt": "Concluir Army Base Alert!"
+          },
+          "description": "Optional red-phone job. Replenish supplies before committing to the military-base operation.",
+          "description_i18n": {
+            "en": "Optional red-phone job. Replenish supplies before committing to the military-base operation.",
+            "pt": "Trabalho opcional de telefone vermelho. Reponha os suprimentos antes de iniciar a operação na base militar."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "optional-district-final-jobs",
+      "title": "Optional district Final Jobs",
+      "title_i18n": {
+        "en": "Optional district Final Jobs",
+        "pt": "Final Jobs opcionais dos distritos"
+      },
+      "items": [
+        {
+          "key": "downtown-final-job",
+          "title": "Complete The Final Job! in Downtown",
+          "title_i18n": {
+            "en": "Complete The Final Job! in Downtown",
+            "pt": "Concluir The Final Job! em Downtown"
+          },
+          "description": "Finish all twenty-one gang jobs in this district to trigger its confrontation; this is not the score-exit requirement.",
+          "description_i18n": {
+            "en": "Finish all twenty-one gang jobs in this district to trigger its confrontation; this is not the score-exit requirement.",
+            "pt": "Termine os vinte e um trabalhos das gangues neste distrito para iniciar seu confronto; isso não é requisito da saída por pontuação."
+          }
+        },
+        {
+          "key": "residential-final-job",
+          "title": "Complete The Final Job! in Residential",
+          "title_i18n": {
+            "en": "Complete The Final Job! in Residential",
+            "pt": "Concluir The Final Job! em Residential"
+          },
+          "description": "Finish all twenty-one gang jobs in this district to trigger its confrontation; this is not the score-exit requirement.",
+          "description_i18n": {
+            "en": "Finish all twenty-one gang jobs in this district to trigger its confrontation; this is not the score-exit requirement.",
+            "pt": "Termine os vinte e um trabalhos das gangues neste distrito para iniciar seu confronto; isso não é requisito da saída por pontuação."
+          }
+        },
+        {
+          "key": "industrial-final-job",
+          "title": "Complete The Final Job! in Industrial",
+          "title_i18n": {
+            "en": "Complete The Final Job! in Industrial",
+            "pt": "Concluir The Final Job! em Industrial"
+          },
+          "description": "Finish all twenty-one gang jobs in this district to trigger its confrontation; this is not the score-exit requirement.",
+          "description_i18n": {
+            "en": "Finish all twenty-one gang jobs in this district to trigger its confrontation; this is not the score-exit requirement.",
+            "pt": "Termine os vinte e um trabalhos das gangues neste distrito para iniciar seu confronto; isso não é requisito da saída por pontuação."
+          },
+          "details": "Finishing the last of a district's twenty-one gang contracts automatically brings its three bosses after you. Prepare armor, ammunition and a usable vehicle before completing that last contract; a neutral area avoids adding hostile street patrols to the confrontation. Defeat the three attackers to finish this optional event. Each district has its own version. The campaign still uses the separate score-and-church exit, so neither this confrontation nor all sixty-three gang jobs is mandatory for a basic ending.",
+          "details_i18n": {
+            "en": "Finishing the last of a district's twenty-one gang contracts automatically brings its three bosses after you. Prepare armor, ammunition and a usable vehicle before completing that last contract; a neutral area avoids adding hostile street patrols to the confrontation. Defeat the three attackers to finish this optional event. Each district has its own version. The campaign still uses the separate score-and-church exit, so neither this confrontation nor all sixty-three gang jobs is mandatory for a basic ending.",
+            "pt": "Concluir o último dos vinte e um contratos de gangues de um distrito faz seus três chefes perseguirem você automaticamente. Prepare colete, munição e um veículo utilizável antes de terminar esse contrato; uma área neutra evita somar patrulhas hostis ao confronto. Derrote os três atacantes para concluir esse evento opcional. Cada distrito possui sua própria versão. A campanha continua usando a saída separada por pontuação na igreja; nem esse confronto nem todos os sessenta e três trabalhos são obrigatórios para o encerramento básico."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "selected-vehicle-and-skill-extras",
+      "title": "Selected vehicle and skill extras",
+      "title_i18n": {
+        "en": "Selected vehicle and skill extras",
+        "pt": "Seleção de extras com veículos e habilidade"
+      },
+      "items": [
+        {
+          "key": "try-taxi-passenger-work",
+          "title": "Try taxi passenger work",
+          "title_i18n": {
+            "en": "Try taxi passenger work",
+            "pt": "Experimentar o transporte de táxi"
+          },
+          "description": "Pick up a fare and complete a clean drop-off outside an active gang job.",
+          "description_i18n": {
+            "en": "Pick up a fare and complete a clean drop-off outside an active gang job.",
+            "pt": "Pegue um passageiro e faça uma entrega sem incidentes fora de um trabalho ativo de gangue."
+          }
+        },
+        {
+          "key": "learn-crusher-rewards",
+          "title": "Learn a useful crusher reward",
+          "title_i18n": {
+            "en": "Learn a useful crusher reward",
+            "pt": "Aprender uma recompensa útil do triturador"
+          },
+          "description": "Deliver a suitable vehicle and record the pickup it produces.",
+          "description_i18n": {
+            "en": "Deliver a suitable vehicle and record the pickup it produces.",
+            "pt": "Entregue um veículo adequado e anote o item que ele produz."
+          }
+        },
+        {
+          "key": "complete-wang-car-bonus",
+          "title": "Complete the Wang Car Bonus",
+          "title_i18n": {
+            "en": "Complete the Wang Car Bonus",
+            "pt": "Concluir o Wang Car Bonus"
+          },
+          "description": "Track the eight special cars in Residential as a separate optional vehicle hunt.",
+          "description_i18n": {
+            "en": "Track the eight special cars in Residential as a separate optional vehicle hunt.",
+            "pt": "Registre os oito carros especiais de Residential como uma busca opcional separada."
+          },
+          "details": "The eight numbered Wang Cars are hidden around Residential. Entering one transports you to the Wang Cars garage and lights its corresponding bay, so you do not need to drive every discovery back manually. Track the numbered bays to avoid repeating a found car. Some access routes use jumps or elevated paths; prepare a suitable vehicle before attempting those approaches. Completing all eight unlocks the bonus and special vehicles, but is not required for Residential's three-million-point exit.",
+          "details_i18n": {
+            "en": "The eight numbered Wang Cars are hidden around Residential. Entering one transports you to the Wang Cars garage and lights its corresponding bay, so you do not need to drive every discovery back manually. Track the numbered bays to avoid repeating a found car. Some access routes use jumps or elevated paths; prepare a suitable vehicle before attempting those approaches. Completing all eight unlocks the bonus and special vehicles, but is not required for Residential's three-million-point exit.",
+            "pt": "Os oito Wang Cars numerados ficam escondidos em Residential. Entrar em um deles transporta você à garagem Wang Cars e ilumina sua vaga correspondente, portanto não é preciso levar cada descoberta de volta dirigindo. Registre as vagas numeradas para evitar repetir um carro já encontrado. Alguns acessos usam saltos ou caminhos elevados; prepare um veículo adequado antes dessas aproximações. Encontrar os oito libera o bônus e veículos especiais, mas não é requisito da saída de Residential por três milhões de pontos."
+          }
+        },
+        {
+          "key": "practice-remote-control-handling",
+          "title": "Practice remote-control handling",
+          "title_i18n": {
+            "en": "Practice remote-control handling",
+            "pt": "Praticar a condução por controle remoto"
+          },
+          "description": "Use the relevant mission's practice stage to learn turns before attempting its follow-up.",
+          "description_i18n": {
+            "en": "Use the relevant mission's practice stage to learn turns before attempting its follow-up.",
+            "pt": "Use a etapa de teste da missão correspondente para aprender as curvas antes das tarefas seguintes."
+          }
+        },
+        {
+          "key": "prepare-one-clean-red-job",
+          "title": "Complete one carefully prepared red-phone job",
+          "title_i18n": {
+            "en": "Complete one carefully prepared red-phone job",
+            "pt": "Concluir um trabalho vermelho com boa preparação"
+          },
+          "description": "Bring armor, ammunition and a planned escape route rather than relying only on the phone color.",
+          "description_i18n": {
+            "en": "Bring armor, ammunition and a planned escape route rather than relying only on the phone color.",
+            "pt": "Leve colete, munição e uma rota de fuga planejada, sem confiar apenas na cor do telefone."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "aggregate-collectibles-and-completion",
+      "title": "Aggregate collection and completion goals",
+      "title_i18n": {
+        "en": "Aggregate collection and completion goals",
+        "pt": "Metas agregadas de coleta e conclusão"
+      },
+      "items": [
+        {
+          "key": "collect-downtown-fifty-tokens",
+          "title": "Collect Downtown's fifty GTA2 Tokens",
+          "title_i18n": {
+            "en": "Collect Downtown's fifty GTA2 Tokens",
+            "pt": "Coletar os cinquenta GTA2 Tokens de Downtown"
+          },
+          "description": "Use a separate location checklist; this guide does not list every token position.",
+          "description_i18n": {
+            "en": "Use a separate location checklist; this guide does not list every token position.",
+            "pt": "Use uma lista separada de locais; este guia não enumera a posição de cada ficha."
+          }
+        },
+        {
+          "key": "collect-residential-fifty-tokens",
+          "title": "Collect Residential's fifty GTA2 Tokens",
+          "title_i18n": {
+            "en": "Collect Residential's fifty GTA2 Tokens",
+            "pt": "Coletar os cinquenta GTA2 Tokens de Residential"
+          },
+          "description": "Track this district separately from the tokens already found Downtown.",
+          "description_i18n": {
+            "en": "Track this district separately from the tokens already found Downtown.",
+            "pt": "Registre este distrito separadamente das fichas já encontradas em Downtown."
+          }
+        },
+        {
+          "key": "collect-industrial-fifty-tokens",
+          "title": "Collect Industrial's fifty GTA2 Tokens",
+          "title_i18n": {
+            "en": "Collect Industrial's fifty GTA2 Tokens",
+            "pt": "Coletar os cinquenta GTA2 Tokens de Industrial"
+          },
+          "description": "Finish the original PC total of one hundred and fifty across the three districts.",
+          "description_i18n": {
+            "en": "Finish the original PC total of one hundred and fifty across the three districts.",
+            "pt": "Complete o total de cento e cinquenta da versão original de PC nos três distritos."
+          }
+        },
+        {
+          "key": "complete-downtown-twenty-frenzies",
+          "title": "Complete Downtown's twenty Kill Frenzies",
+          "title_i18n": {
+            "en": "Complete Downtown's twenty Kill Frenzies",
+            "pt": "Concluir os vinte Kill Frenzies de Downtown"
+          },
+          "description": "Follow each challenge's supplied weapon or vehicle and target rules.",
+          "description_i18n": {
+            "en": "Follow each challenge's supplied weapon or vehicle and target rules.",
+            "pt": "Siga as regras de arma ou veículo fornecido e de alvos de cada desafio."
+          }
+        },
+        {
+          "key": "complete-residential-twenty-frenzies",
+          "title": "Complete Residential's twenty Kill Frenzies",
+          "title_i18n": {
+            "en": "Complete Residential's twenty Kill Frenzies",
+            "pt": "Concluir os vinte Kill Frenzies de Residential"
+          },
+          "description": "Include vehicle-triggered challenges in your separate district checklist.",
+          "description_i18n": {
+            "en": "Include vehicle-triggered challenges in your separate district checklist.",
+            "pt": "Inclua os desafios iniciados por veículos em sua lista separada do distrito."
+          },
+          "details": "Each PC district has twenty Kill Frenzies, for sixty overall. Some start in vehicles; those carried on a Transporter must first be unloaded using a Truck Cab and a crane without a crusher. Follow the supplied weapon or vehicle and the actual target counter. On PC version 9.6 or earlier, saving after activating these Transporter-based challenges can make Resume Saved Status crash. Keep a recovery save before them and leave those specific challenges until just before the district exit on affected versions; this does not apply to every vehicle challenge.",
+          "details_i18n": {
+            "en": "Each PC district has twenty Kill Frenzies, for sixty overall. Some start in vehicles; those carried on a Transporter must first be unloaded using a Truck Cab and a crane without a crusher. Follow the supplied weapon or vehicle and the actual target counter. On PC version 9.6 or earlier, saving after activating these Transporter-based challenges can make Resume Saved Status crash. Keep a recovery save before them and leave those specific challenges until just before the district exit on affected versions; this does not apply to every vehicle challenge.",
+            "pt": "Cada distrito de PC possui vinte Kill Frenzies, totalizando sessenta. Alguns começam em veículos; os que estão num Transporter precisam ser descarregados com um Truck Cab e um guindaste sem triturador. Siga a arma ou o veículo fornecido e o contador correto. Na versão 9.6 de PC ou anterior, salvar após ativar esses desafios transportados pode fazer Resume Saved Status travar. Preserve um salvamento anterior e deixe esses desafios específicos para logo antes da saída do distrito nas versões afetadas; a condição não vale para todo desafio em veículo."
+          }
+        },
+        {
+          "key": "complete-industrial-twenty-frenzies",
+          "title": "Complete Industrial's twenty Kill Frenzies",
+          "title_i18n": {
+            "en": "Complete Industrial's twenty Kill Frenzies",
+            "pt": "Concluir os vinte Kill Frenzies de Industrial"
+          },
+          "description": "Track all twenty separately from campaign progress and gang jobs.",
+          "description_i18n": {
+            "en": "Track all twenty separately from campaign progress and gang jobs.",
+            "pt": "Registre os vinte separadamente do progresso da campanha e dos trabalhos das gangues."
+          }
+        },
+        {
+          "key": "review-bonus-stages-and-full-clear",
+          "title": "Review unlocked bonus stages and your full-clear record",
+          "title_i18n": {
+            "en": "Review unlocked bonus stages and your full-clear record",
+            "pt": "Revisar os níveis bônus liberados e seu registro completo"
+          },
+          "description": "Check bonus access and your job, token and frenzy records without inventing a native achievement list.",
+          "description_i18n": {
+            "en": "Check bonus access and your job, token and frenzy records without inventing a native achievement list.",
+            "pt": "Confira o acesso aos bônus e seus registros de trabalhos, fichas e desafios sem inventar uma lista de conquistas nativas."
+          }
+        }
+      ],
+      "kind": "collectible"
+    }
+  ],
+  "trophies": [],
+  "hltb_id": "4059",
+  "hltb_main_hours": 12,
+  "hltb_main_extra_hours": 20,
+  "hltb_completionist_hours": 27
+}

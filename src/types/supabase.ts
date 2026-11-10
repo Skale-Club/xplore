@@ -23,6 +23,8 @@ export interface Database {
           hltb_main_hours: number | null
           hltb_main_extra_hours: number | null
           hltb_completionist_hours: number | null
+          walkthrough_routes: Json
+          guides: Json
         }
         Insert: {
           id?: string
@@ -37,6 +39,8 @@ export interface Database {
           hltb_main_hours?: number | null
           hltb_main_extra_hours?: number | null
           hltb_completionist_hours?: number | null
+          walkthrough_routes?: Json
+          guides?: Json
         }
         Update: {
           id?: string
@@ -51,6 +55,8 @@ export interface Database {
           hltb_main_hours?: number | null
           hltb_main_extra_hours?: number | null
           hltb_completionist_hours?: number | null
+          walkthrough_routes?: Json
+          guides?: Json
         }
         Relationships: []
       }
@@ -127,6 +133,8 @@ export interface Database {
           title_i18n: Json
           description: string | null
           description_i18n: Json
+          details: string | null
+          details_i18n: Json
           image_url: string | null
           order_index: number
           created_at: string
@@ -139,6 +147,8 @@ export interface Database {
           title_i18n?: Json
           description?: string | null
           description_i18n?: Json
+          details?: string | null
+          details_i18n?: Json
           image_url?: string | null
           order_index?: number
           created_at?: string
@@ -151,6 +161,8 @@ export interface Database {
           title_i18n?: Json
           description?: string | null
           description_i18n?: Json
+          details?: string | null
+          details_i18n?: Json
           image_url?: string | null
           order_index?: number
           created_at?: string
@@ -170,18 +182,21 @@ export interface Database {
           user_id: string
           game_id: string
           added_at: string
+          selected_route_key: string | null
         }
         Insert: {
           id?: string
           user_id: string
           game_id: string
           added_at?: string
+          selected_route_key?: string | null
         }
         Update: {
           id?: string
           user_id?: string
           game_id?: string
           added_at?: string
+          selected_route_key?: string | null
         }
         Relationships: [
           {

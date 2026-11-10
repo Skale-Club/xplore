@@ -1,0 +1,1621 @@
+{
+  "slug": "metal-gear-solid-2-sons-of-liberty",
+  "title": "Metal Gear Solid 2: Sons of Liberty",
+  "title_i18n": {
+    "en": "Metal Gear Solid 2: Sons of Liberty",
+    "pt": "Metal Gear Solid 2: Sons of Liberty"
+  },
+  "platform": "PlayStation 2",
+  "cover_url": "/covers/metal-gear-solid-2-sons-of-liberty.png",
+  "created_by": "dd5c4bf0-85ea-4986-9c04-b37e8c986150",
+  "categories": [
+    {
+      "key": "tanker-infiltration",
+      "title": "Tanker: infiltration",
+      "title_i18n": {
+        "en": "Tanker: infiltration",
+        "pt": "Tanker: infiltração"
+      },
+      "items": [
+        {
+          "key": "start-full-story",
+          "title": "Start the Tanker–Plant story",
+          "title_i18n": {
+            "en": "Start the Tanker–Plant story",
+            "pt": "Iniciar a história Tanker–Plant"
+          },
+          "description": "Choose a story route that includes both chapters; this checklist covers the original PS2 Sons of Liberty campaign.",
+          "description_i18n": {
+            "en": "Choose a story route that includes both chapters; this checklist covers the original PS2 Sons of Liberty campaign.",
+            "pt": "Escolha uma rota que inclua os dois capítulos; esta lista cobre a campanha original de Sons of Liberty no PS2."
+          }
+        },
+        {
+          "key": "survey-aft-deck",
+          "title": "Survey the aft deck",
+          "title_i18n": {
+            "en": "Survey the aft deck",
+            "pt": "Observar o convés traseiro"
+          },
+          "description": "As Snake, check patrol routes from cover and avoid crossing a guard's direct line of sight.",
+          "description_i18n": {
+            "en": "As Snake, check patrol routes from cover and avoid crossing a guard's direct line of sight.",
+            "pt": "Como Snake, observe as patrulhas usando cobertura e evite cruzar a linha de visão dos guardas."
+          }
+        },
+        {
+          "key": "practice-m9-aim",
+          "title": "Practice the M9's tranquilizer aim",
+          "title_i18n": {
+            "en": "Practice the M9's tranquilizer aim",
+            "pt": "Praticar a mira tranquilizante da M9"
+          },
+          "description": "Use first-person aiming for a clear headshot; allow body hits time to take effect before approaching.",
+          "description_i18n": {
+            "en": "Use first-person aiming for a clear headshot; allow body hits time to take effect before approaching.",
+            "pt": "Use a mira em primeira pessoa para acertar a cabeça; espere o efeito dos tiros no corpo antes de se aproximar."
+          }
+        },
+        {
+          "key": "enter-tanker-interior",
+          "title": "Enter the tanker's interior",
+          "title_i18n": {
+            "en": "Enter the tanker's interior",
+            "pt": "Entrar no interior do navio"
+          },
+          "description": "Use the deck entrance and keep doors and corners between Snake and the patrols.",
+          "description_i18n": {
+            "en": "Use the deck entrance and keep doors and corners between Snake and the patrols.",
+            "pt": "Use a entrada do convés e mantenha portas e quinas entre Snake e as patrulhas."
+          }
+        },
+        {
+          "key": "climb-accommodation-decks",
+          "title": "Climb through the accommodation decks",
+          "title_i18n": {
+            "en": "Climb through the accommodation decks",
+            "pt": "Subir pelos conveses internos"
+          },
+          "description": "Follow the stairways toward the bridge, checking side rooms for supplies and avoiding security cameras.",
+          "description_i18n": {
+            "en": "Follow the stairways toward the bridge, checking side rooms for supplies and avoiding security cameras.",
+            "pt": "Siga as escadas até a ponte de comando, procurando suprimentos nas salas laterais e evitando câmeras."
+          }
+        },
+        {
+          "key": "inspect-bridge",
+          "title": "Inspect the bridge and reach the upper deck",
+          "title_i18n": {
+            "en": "Inspect the bridge and reach the upper deck",
+            "pt": "Examinar a ponte e chegar ao convés superior"
+          },
+          "description": "Enter the bridge for the story scene, then follow the route outside to confront the armed intruder.",
+          "description_i18n": {
+            "en": "Enter the bridge for the story scene, then follow the route outside to confront the armed intruder.",
+            "pt": "Entre na ponte para a cena e siga a rota externa para confrontar a intrusa armada."
+          }
+        }
+      ]
+    },
+    {
+      "key": "olga-and-engine-room",
+      "title": "Olga and the engine room",
+      "title_i18n": {
+        "en": "Olga and the engine room",
+        "pt": "Olga e a sala de máquinas"
+      },
+      "items": [
+        {
+          "key": "start-olga-fight",
+          "title": "Take cover against Olga",
+          "title_i18n": {
+            "en": "Take cover against Olga",
+            "pt": "Usar cobertura contra Olga"
+          },
+          "description": "Stay behind the deck's cover and watch which side she moves toward before exposing yourself.",
+          "description_i18n": {
+            "en": "Stay behind the deck's cover and watch which side she moves toward before exposing yourself.",
+            "pt": "Fique atrás das coberturas do convés e observe para que lado ela vai antes de se expor."
+          }
+        },
+        {
+          "key": "counter-olga-attacks",
+          "title": "Counter Olga's openings",
+          "title_i18n": {
+            "en": "Counter Olga's openings",
+            "pt": "Contra-atacar nas aberturas de Olga"
+          },
+          "description": "Aim during pauses in her fire, move away from grenades and avoid trading shots in the open.",
+          "description_i18n": {
+            "en": "Aim during pauses in her fire, move away from grenades and avoid trading shots in the open.",
+            "pt": "Mire nas pausas dos disparos, afaste-se das granadas e evite trocar tiros em campo aberto."
+          }
+        },
+        {
+          "key": "defeat-olga",
+          "title": "Defeat Olga",
+          "title_i18n": {
+            "en": "Defeat Olga",
+            "pt": "Derrotar Olga"
+          },
+          "description": "Keep landing accurate shots until her life or stamina runs out; the M9 supports a tranquilizer victory.",
+          "description_i18n": {
+            "en": "Keep landing accurate shots until her life or stamina runs out; the M9 supports a tranquilizer victory.",
+            "pt": "Continue acertando tiros até esgotar a vida ou o vigor dela; a M9 permite vencer com tranquilizantes."
+          }
+        },
+        {
+          "key": "collect-usp",
+          "title": "Collect the USP after the battle",
+          "title_i18n": {
+            "en": "Collect the USP after the battle",
+            "pt": "Pegar a USP após a batalha"
+          },
+          "description": "Recover the dropped firearm and check the deck for supplies before returning inside.",
+          "description_i18n": {
+            "en": "Recover the dropped firearm and check the deck for supplies before returning inside.",
+            "pt": "Recolha a arma caída e procure suprimentos no convés antes de voltar ao interior."
+          }
+        },
+        {
+          "key": "return-engine-room",
+          "title": "Return below to the engine room",
+          "title_i18n": {
+            "en": "Return below to the engine room",
+            "pt": "Voltar à sala de máquinas"
+          },
+          "description": "Backtrack through the interior and descend; use the new lethal weapon only when the route requires shooting equipment.",
+          "description_i18n": {
+            "en": "Backtrack through the interior and descend; use the new lethal weapon only when the route requires shooting equipment.",
+            "pt": "Volte pelos corredores e desça; use a nova arma letal quando a rota exigir destruir equipamentos."
+          }
+        },
+        {
+          "key": "disable-engine-semtex",
+          "title": "Disable the engine-room trap",
+          "title_i18n": {
+            "en": "Disable the engine-room trap",
+            "pt": "Desativar a armadilha da sala de máquinas"
+          },
+          "description": "Locate the infrared trap's control units in first person and shoot the units with the USP before crossing the wires.",
+          "description_i18n": {
+            "en": "Locate the infrared trap's control units in first person and shoot the units with the USP before crossing the wires.",
+            "pt": "Localize em primeira pessoa as unidades de controle da armadilha infravermelha e destrua-as com a USP antes de cruzar os fios."
+          },
+          "details": "Use the USP collected after Olga, not the tranquilizer M9: the small control units must be physically destroyed. Stop before the laser boundary and inspect the corridor from different heights in first person. Shoot the control units rather than the explosive blocks.\n\nA missing unit can be obscured from your first position, so shift your view instead of crossing to investigate. Advance only after the laser trap is disabled; this is a disarming puzzle, not a test of running through quickly.",
+          "details_i18n": {
+            "en": "Use the USP collected after Olga, not the tranquilizer M9: the small control units must be physically destroyed. Stop before the laser boundary and inspect the corridor from different heights in first person. Shoot the control units rather than the explosive blocks.\n\nA missing unit can be obscured from your first position, so shift your view instead of crossing to investigate. Advance only after the laser trap is disabled; this is a disarming puzzle, not a test of running through quickly.",
+            "pt": "Use a USP obtida após Olga, não a M9 tranquilizante: os pequenos controles precisam ser destruídos. Pare antes dos feixes e examine o corredor em primeira pessoa por diferentes alturas. Atire nos controles, não nos blocos explosivos.\n\nUm controle pode estar escondido no primeiro ângulo; mude a visão em vez de atravessar para procurar. Só avance depois de desativar a armadilha. É um puzzle de desarme, não uma passagem para atravessar correndo."
+          }
+        }
+      ]
+    },
+    {
+      "key": "tanker-holds-and-evidence",
+      "title": "Tanker holds and RAY evidence",
+      "title_i18n": {
+        "en": "Tanker holds and RAY evidence",
+        "pt": "Porões do navio e provas de RAY"
+      },
+      "items": [
+        {
+          "key": "reach-crew-ambush",
+          "title": "Reach the corridor ambush",
+          "title_i18n": {
+            "en": "Reach the corridor ambush",
+            "pt": "Chegar à emboscada no corredor"
+          },
+          "description": "Continue below the engine room until the guards block the passage; gather nearby ammunition before advancing.",
+          "description_i18n": {
+            "en": "Continue below the engine room until the guards block the passage; gather nearby ammunition before advancing.",
+            "pt": "Continue abaixo da sala de máquinas até os guardas bloquearem a passagem; junte munição próxima antes de avançar."
+          }
+        },
+        {
+          "key": "survive-corridor-shootout",
+          "title": "Survive the corridor shootout",
+          "title_i18n": {
+            "en": "Survive the corridor shootout",
+            "pt": "Sobreviver ao tiroteio no corredor"
+          },
+          "description": "Fire from cover, watch for enemies changing positions and clear the group before entering the holds.",
+          "description_i18n": {
+            "en": "Fire from cover, watch for enemies changing positions and clear the group before entering the holds.",
+            "pt": "Atire da cobertura, observe inimigos mudando de posição e elimine o grupo antes de entrar nos porões."
+          }
+        },
+        {
+          "key": "cross-first-hold",
+          "title": "Cross the first troop hold",
+          "title_i18n": {
+            "en": "Cross the first troop hold",
+            "pt": "Atravessar o primeiro porão de tropas"
+          },
+          "description": "Move quietly behind the assembled Marines and avoid walking across noisy floor sections.",
+          "description_i18n": {
+            "en": "Move quietly behind the assembled Marines and avoid walking across noisy floor sections.",
+            "pt": "Passe silenciosamente atrás dos fuzileiros reunidos e evite os trechos de piso barulhento."
+          }
+        },
+        {
+          "key": "cross-second-hold",
+          "title": "Cross the projector hold",
+          "title_i18n": {
+            "en": "Cross the projector hold",
+            "pt": "Atravessar o porão dos projetores"
+          },
+          "description": "Watch the Marines turn toward the active screen and pass behind them while their attention is elsewhere.",
+          "description_i18n": {
+            "en": "Watch the Marines turn toward the active screen and pass behind them while their attention is elsewhere.",
+            "pt": "Observe os fuzileiros se virarem para a tela ativa e passe por trás enquanto olham para outro lado."
+          }
+        },
+        {
+          "key": "photograph-ray-front",
+          "title": "Photograph RAY from the front",
+          "title_i18n": {
+            "en": "Photograph RAY from the front",
+            "pt": "Fotografar RAY de frente"
+          },
+          "description": "Equip the Camera and frame a clear front view of Metal Gear RAY in the final hold.",
+          "description_i18n": {
+            "en": "Equip the Camera and frame a clear front view of Metal Gear RAY in the final hold.",
+            "pt": "Equipe a Câmera e enquadre uma vista frontal nítida de Metal Gear RAY no último porão."
+          }
+        },
+        {
+          "key": "photograph-ray-angles",
+          "title": "Photograph RAY's front-left and front-right views",
+          "title_i18n": {
+            "en": "Photograph RAY's front-left and front-right views",
+            "pt": "Fotografar as vistas frontal esquerda e direita de RAY"
+          },
+          "description": "Take separate clear shots from the two front angles; avoid filling the frame with nearby Marines.",
+          "description_i18n": {
+            "en": "Take separate clear shots from the two front angles; avoid filling the frame with nearby Marines.",
+            "pt": "Faça fotos separadas dos dois ângulos frontais; evite que os fuzileiros próximos ocupem o enquadramento."
+          }
+        },
+        {
+          "key": "photograph-marines-marking",
+          "title": "Photograph the MARINES marking",
+          "title_i18n": {
+            "en": "Photograph the MARINES marking",
+            "pt": "Fotografar a inscrição MARINES"
+          },
+          "description": "Move to a suitable side angle, look up at the machine and capture the lettering clearly.",
+          "description_i18n": {
+            "en": "Move to a suitable side angle, look up at the machine and capture the lettering clearly.",
+            "pt": "Procure um ângulo lateral adequado, olhe para cima e fotografe a inscrição na máquina com nitidez."
+          }
+        },
+        {
+          "key": "upload-tanker-evidence",
+          "title": "Upload the four required photographs",
+          "title_i18n": {
+            "en": "Upload the four required photographs",
+            "pt": "Enviar as quatro fotografias exigidas"
+          },
+          "description": "Use the hold's computer terminal and let Otacon check the evidence; retake any rejected angle before continuing to the Tanker ending.",
+          "description_i18n": {
+            "en": "Use the hold's computer terminal and let Otacon check the evidence; retake any rejected angle before continuing to the Tanker ending.",
+            "pt": "Use o terminal do porão e deixe Otacon conferir as provas; refaça os ângulos rejeitados antes do final de Tanker."
+          },
+          "details": "The required set is four distinct photographs: RAY from the front, front-left and front-right, plus a readable close-up of the MARINES marking. Move to each angle; rotating the camera from one spot does not guarantee a different accepted view. Keep the robot clearly framed and avoid filling the image with a Marine.\n\nCheck your stored shots before using the terminal so you do not overwrite a needed angle. Let Otacon review the upload, then retake only the missing or rejected views and submit again.",
+          "details_i18n": {
+            "en": "The required set is four distinct photographs: RAY from the front, front-left and front-right, plus a readable close-up of the MARINES marking. Move to each angle; rotating the camera from one spot does not guarantee a different accepted view. Keep the robot clearly framed and avoid filling the image with a Marine.\n\nCheck your stored shots before using the terminal so you do not overwrite a needed angle. Let Otacon review the upload, then retake only the missing or rejected views and submit again.",
+            "pt": "O conjunto exigido tem quatro fotos diferentes: RAY de frente, diagonal esquerda e diagonal direita, mais um enquadramento legível da inscrição MARINES. Vá até cada ângulo; apenas girar a câmera no mesmo lugar não garante outra vista aceita. Enquadre bem o robô e evite preencher a imagem com um soldado.\n\nConfira as fotos armazenadas antes de usar o terminal para não sobrescrever um ângulo necessário. Deixe Otacon analisar o envio e refaça as vistas ausentes ou recusadas antes de enviar novamente."
+          }
+        }
+      ]
+    },
+    {
+      "key": "plant-entry-and-pliskin",
+      "title": "Plant: arrival and Pliskin",
+      "title_i18n": {
+        "en": "Plant: arrival and Pliskin",
+        "pt": "Plant: chegada e Pliskin"
+      },
+      "items": [
+        {
+          "key": "enter-strut-a",
+          "title": "Enter Strut A as Raiden",
+          "title_i18n": {
+            "en": "Enter Strut A as Raiden",
+            "pt": "Entrar na Strut A como Raiden"
+          },
+          "description": "Move from the sea dock into the facility and follow the mission briefing without rushing past patrols.",
+          "description_i18n": {
+            "en": "Move from the sea dock into the facility and follow the mission briefing without rushing past patrols.",
+            "pt": "Saia do cais para a instalação e acompanhe as instruções da missão sem avançar descuidadamente pelas patrulhas."
+          }
+        },
+        {
+          "key": "activate-first-node",
+          "title": "Register at the first node",
+          "title_i18n": {
+            "en": "Register at the first node",
+            "pt": "Registrar-se no primeiro terminal"
+          },
+          "description": "Use the node to enter the requested profile information and download the area's map.",
+          "description_i18n": {
+            "en": "Use the node to enter the requested profile information and download the area's map.",
+            "pt": "Use o terminal para informar os dados solicitados e baixar o mapa da área."
+          }
+        },
+        {
+          "key": "ride-plant-elevator",
+          "title": "Ride the elevator to the roof",
+          "title_i18n": {
+            "en": "Ride the elevator to the roof",
+            "pt": "Subir ao telhado pelo elevador"
+          },
+          "description": "Reach the upper facility and check the map before choosing the connecting bridge.",
+          "description_i18n": {
+            "en": "Reach the upper facility and check the map before choosing the connecting bridge.",
+            "pt": "Alcance a parte superior da instalação e confira o mapa antes de escolher a ponte de ligação."
+          }
+        },
+        {
+          "key": "reach-strut-b",
+          "title": "Cross toward Strut B",
+          "title_i18n": {
+            "en": "Cross toward Strut B",
+            "pt": "Atravessar até a Strut B"
+          },
+          "description": "Use the connecting bridge carefully, checking guards and cameras before entering the transformer area.",
+          "description_i18n": {
+            "en": "Use the connecting bridge carefully, checking guards and cameras before entering the transformer area.",
+            "pt": "Use a ponte de ligação com cuidado, observando guardas e câmeras antes de entrar na área dos transformadores."
+          }
+        },
+        {
+          "key": "meet-pliskin",
+          "title": "Meet Iroquois Pliskin",
+          "title_i18n": {
+            "en": "Meet Iroquois Pliskin",
+            "pt": "Conhecer Iroquois Pliskin"
+          },
+          "description": "Follow the encounter in Strut B and collect the equipment and information he provides.",
+          "description_i18n": {
+            "en": "Follow the encounter in Strut B and collect the equipment and information he provides.",
+            "pt": "Acompanhe o encontro na Strut B e recolha os equipamentos e informações fornecidos por ele."
+          }
+        },
+        {
+          "key": "reach-stillman",
+          "title": "Reach Stillman in Strut C",
+          "title_i18n": {
+            "en": "Reach Stillman in Strut C",
+            "pt": "Encontrar Stillman na Strut C"
+          },
+          "description": "Continue through Shell 1 to the dining hall and speak to the bomb-disposal specialist.",
+          "description_i18n": {
+            "en": "Continue through Shell 1 to the dining hall and speak to the bomb-disposal specialist.",
+            "pt": "Continue pela Shell 1 até o refeitório e converse com o especialista em desarmamento de bombas."
+          }
+        }
+      ]
+    },
+    {
+      "key": "stillman-bomb-disposal",
+      "title": "Stillman's bomb-disposal assignment",
+      "title_i18n": {
+        "en": "Stillman's bomb-disposal assignment",
+        "pt": "A missão de desarmamento de Stillman"
+      },
+      "items": [
+        {
+          "key": "collect-coolant-sensor",
+          "title": "Collect Coolant and Sensor A",
+          "title_i18n": {
+            "en": "Collect Coolant and Sensor A",
+            "pt": "Pegar Coolant e Sensor A"
+          },
+          "description": "Accept Stillman's equipment, equip Sensor A and use its scent display to narrow down each bomb's location.",
+          "description_i18n": {
+            "en": "Accept Stillman's equipment, equip Sensor A and use its scent display to narrow down each bomb's location.",
+            "pt": "Aceite os equipamentos de Stillman, equipe Sensor A e use o indicador de odor para localizar cada bomba."
+          }
+        },
+        {
+          "key": "freeze-strut-c-bombs",
+          "title": "Freeze the Strut C explosives",
+          "title_i18n": {
+            "en": "Freeze the Strut C explosives",
+            "pt": "Congelar os explosivos da Strut C"
+          },
+          "description": "Search the restrooms and inspect high surfaces in first person; spray each located C4 until it is completely frozen.",
+          "description_i18n": {
+            "en": "Search the restrooms and inspect high surfaces in first person; spray each located C4 until it is completely frozen.",
+            "pt": "Procure nos banheiros e examine superfícies altas em primeira pessoa; borrife cada C4 até congelar por completo."
+          }
+        },
+        {
+          "key": "freeze-strut-b-bombs",
+          "title": "Search Strut B for C4",
+          "title_i18n": {
+            "en": "Search Strut B for C4",
+            "pt": "Procurar C4 na Strut B"
+          },
+          "description": "Use the sensor in the transformer room and check behind obstructions and doors before marking this area clear.",
+          "description_i18n": {
+            "en": "Use the sensor in the transformer room and check behind obstructions and doors before marking this area clear.",
+            "pt": "Use o sensor na sala dos transformadores e confira atrás de obstáculos e portas antes de concluir a área."
+          }
+        },
+        {
+          "key": "freeze-strut-a-bombs",
+          "title": "Search Strut A for C4",
+          "title_i18n": {
+            "en": "Search Strut A for C4",
+            "pt": "Procurar C4 na Strut A"
+          },
+          "description": "Inspect the pump room from low and first-person viewpoints, following the sensor rather than firing at the bomb.",
+          "description_i18n": {
+            "en": "Inspect the pump room from low and first-person viewpoints, following the sensor rather than firing at the bomb.",
+            "pt": "Examine a sala de bombas d'água de ângulos baixos e em primeira pessoa, seguindo o sensor em vez de atirar no explosivo."
+          }
+        },
+        {
+          "key": "freeze-strut-f-bombs",
+          "title": "Search Strut F for C4",
+          "title_i18n": {
+            "en": "Search Strut F for C4",
+            "pt": "Procurar C4 na Strut F"
+          },
+          "description": "Inspect the warehouse's stacked containers and use upper and lower routes to reach the sensor's source.",
+          "description_i18n": {
+            "en": "Inspect the warehouse's stacked containers and use upper and lower routes to reach the sensor's source.",
+            "pt": "Examine os contêineres do armazém e use as rotas superior e inferior para alcançar a origem do sinal."
+          }
+        },
+        {
+          "key": "freeze-strut-e-bombs",
+          "title": "Search Strut E for C4",
+          "title_i18n": {
+            "en": "Search Strut E for C4",
+            "pt": "Procurar C4 na Strut E"
+          },
+          "description": "Check the parcel facilities and accessible exterior areas, including the heliport; clear every signal for your chosen difficulty.",
+          "description_i18n": {
+            "en": "Check the parcel facilities and accessible exterior areas, including the heliport; clear every signal for your chosen difficulty.",
+            "pt": "Confira as instalações de encomendas e áreas externas acessíveis, incluindo o heliporto; remova todos os sinais da dificuldade escolhida."
+          }
+        },
+        {
+          "key": "freeze-strut-d-bombs",
+          "title": "Search Strut D for C4",
+          "title_i18n": {
+            "en": "Search Strut D for C4",
+            "pt": "Procurar C4 na Strut D"
+          },
+          "description": "Check the sediment-pool walkways and lower viewpoints; finish all required Shell 1 bombs before leaving the assignment.",
+          "description_i18n": {
+            "en": "Check the sediment-pool walkways and lower viewpoints; finish all required Shell 1 bombs before leaving the assignment.",
+            "pt": "Confira as passarelas dos tanques de sedimentação e os ângulos inferiores; termine todas as bombas exigidas na Shell 1."
+          }
+        },
+        {
+          "key": "collect-sensor-b",
+          "title": "Retrieve Sensor B from Strut C",
+          "title_i18n": {
+            "en": "Retrieve Sensor B from Strut C",
+            "pt": "Pegar Sensor B na Strut C"
+          },
+          "description": "After Stillman's new warning, collect the second sensor from his storage room and equip it for the odorless bomb.",
+          "description_i18n": {
+            "en": "After Stillman's new warning, collect the second sensor from his storage room and equip it for the odorless bomb.",
+            "pt": "Após o novo aviso de Stillman, pegue o segundo sensor no depósito dele e equipe-o para localizar a bomba sem odor."
+          }
+        },
+        {
+          "key": "freeze-dock-bomb",
+          "title": "Freeze the large Strut A dock bomb",
+          "title_i18n": {
+            "en": "Freeze the large Strut A dock bomb",
+            "pt": "Congelar a grande bomba no cais da Strut A"
+          },
+          "description": "Return to the starting sea dock before the timer expires; use Sensor B's sound to locate and freeze the hidden device.",
+          "description_i18n": {
+            "en": "Return to the starting sea dock before the timer expires; use Sensor B's sound to locate and freeze the hidden device.",
+            "pt": "Volte ao cais inicial antes de acabar o tempo; use o som de Sensor B para localizar e congelar o dispositivo escondido."
+          },
+          "details": "This device is different from the scented C4 in the earlier assignment. Retrieve Sensor B from Stillman's storage room in Strut C, then return to the Strut A sea dock where Raiden began. Equip Sensor B and use its changing sound to narrow down the target beneath the dock structure.\n\nGet a clear spraying angle without entering the water, switch to Coolant and keep spraying until the device is completely frozen. If the timer is tight, follow the direct route and leave optional rooms for later.",
+          "details_i18n": {
+            "en": "This device is different from the scented C4 in the earlier assignment. Retrieve Sensor B from Stillman's storage room in Strut C, then return to the Strut A sea dock where Raiden began. Equip Sensor B and use its changing sound to narrow down the target beneath the dock structure.\n\nGet a clear spraying angle without entering the water, switch to Coolant and keep spraying until the device is completely frozen. If the timer is tight, follow the direct route and leave optional rooms for later.",
+            "pt": "Este dispositivo é diferente dos C4 com cheiro da tarefa anterior. Pegue o Sensor B no depósito de Stillman em Strut C e volte ao cais de Strut A, onde Raiden começou. Equipe o Sensor B e use a mudança no som para localizar o alvo sob a estrutura do cais.\n\nProcure um ângulo livre para borrifar sem entrar na água, troque para Coolant e continue até congelar completamente o dispositivo. Se o tempo estiver curto, siga direto e deixe as salas opcionais para depois."
+          }
+        }
+      ]
+    },
+    {
+      "key": "fortune-and-fatman",
+      "title": "Fortune and Fatman",
+      "title_i18n": {
+        "en": "Fortune and Fatman",
+        "pt": "Fortune e Fatman"
+      },
+      "items": [
+        {
+          "key": "survive-fortune",
+          "title": "Survive Fortune's attack",
+          "title_i18n": {
+            "en": "Survive Fortune's attack",
+            "pt": "Sobreviver ao ataque de Fortune"
+          },
+          "description": "Use the dock's cover and keep moving between safe positions; conserve ammunition because direct shots cannot resolve this encounter.",
+          "description_i18n": {
+            "en": "Use the dock's cover and keep moving between safe positions; conserve ammunition because direct shots cannot resolve this encounter.",
+            "pt": "Use a cobertura do cais e alterne entre posições seguras; economize munição, pois tiros diretos não resolvem este encontro."
+          }
+        },
+        {
+          "key": "answer-heliport-threat",
+          "title": "Answer Fatman's heliport challenge",
+          "title_i18n": {
+            "en": "Answer Fatman's heliport challenge",
+            "pt": "Atender ao desafio de Fatman no heliporto"
+          },
+          "description": "After leaving Fortune, follow the new warning and return to Strut E's heliport before the deadline.",
+          "description_i18n": {
+            "en": "After leaving Fortune, follow the new warning and return to Strut E's heliport before the deadline.",
+            "pt": "Após deixar Fortune, siga o novo aviso e volte ao heliporto da Strut E antes do prazo."
+          }
+        },
+        {
+          "key": "prepare-fatman-arena",
+          "title": "Prepare for Fatman's arena",
+          "title_i18n": {
+            "en": "Prepare for Fatman's arena",
+            "pt": "Preparar-se para a arena de Fatman"
+          },
+          "description": "Check ammunition and healing supplies before approaching the center; keep Coolant available for quick equipment changes.",
+          "description_i18n": {
+            "en": "Check ammunition and healing supplies before approaching the center; keep Coolant available for quick equipment changes.",
+            "pt": "Confira munição e cura antes de se aproximar do centro; mantenha Coolant pronto para trocas rápidas de equipamento."
+          }
+        },
+        {
+          "key": "freeze-fatman-c4",
+          "title": "Freeze Fatman's planted C4",
+          "title_i18n": {
+            "en": "Freeze Fatman's planted C4",
+            "pt": "Congelar os C4 colocados por Fatman"
+          },
+          "description": "Watch where he stops, locate every active bomb and freeze them before concentrating on attacks.",
+          "description_i18n": {
+            "en": "Watch where he stops, locate every active bomb and freeze them before concentrating on attacks.",
+            "pt": "Observe onde ele para, localize todas as bombas ativas e congele-as antes de se concentrar em atacar."
+          }
+        },
+        {
+          "key": "knock-fatman-down",
+          "title": "Knock Fatman down and punish the opening",
+          "title_i18n": {
+            "en": "Knock Fatman down and punish the opening",
+            "pt": "Derrubar Fatman e aproveitar a abertura"
+          },
+          "description": "Shoot or strike him to make him fall, then aim at his exposed head; resume bomb disposal whenever another timer appears.",
+          "description_i18n": {
+            "en": "Shoot or strike him to make him fall, then aim at his exposed head; resume bomb disposal whenever another timer appears.",
+            "pt": "Atire ou golpeie para derrubá-lo e mire na cabeça exposta; volte ao desarmamento sempre que surgir outro cronômetro."
+          }
+        },
+        {
+          "key": "defeat-fatman",
+          "title": "Defeat Fatman",
+          "title_i18n": {
+            "en": "Defeat Fatman",
+            "pt": "Derrotar Fatman"
+          },
+          "description": "Balance headshots and bomb disposal until his life or stamina is exhausted; avoid chasing him past an active bomb.",
+          "description_i18n": {
+            "en": "Balance headshots and bomb disposal until his life or stamina is exhausted; avoid chasing him past an active bomb.",
+            "pt": "Alterne tiros na cabeça e desarmamento até esgotar a vida ou o vigor dele; evite persegui-lo deixando uma bomba ativa."
+          }
+        },
+        {
+          "key": "freeze-final-fatman-bomb",
+          "title": "Find Fatman's final bomb",
+          "title_i18n": {
+            "en": "Find Fatman's final bomb",
+            "pt": "Encontrar a última bomba de Fatman"
+          },
+          "description": "After the fight, drag his body aside and freeze the device underneath before the final countdown expires.",
+          "description_i18n": {
+            "en": "After the fight, drag his body aside and freeze the device underneath before the final countdown expires.",
+            "pt": "Após a luta, arraste o corpo para o lado e congele o dispositivo embaixo dele antes de acabar a última contagem."
+          },
+          "details": "The countdown continues after Fatman falls. Equip Coolant before searching. Grab his body and move it far enough to reveal the C4 beneath him, then let go and crouch if necessary to spray the device. Keep spraying until the bomb is fully frozen.\n\nCollect optional items only after the timer is gone; picking up a dog tag does not disarm the bomb.",
+          "details_i18n": {
+            "en": "The countdown continues after Fatman falls. Equip Coolant before searching. Grab his body and move it far enough to reveal the C4 beneath him, then let go and crouch if necessary to spray the device. Keep spraying until the bomb is fully frozen.\n\nCollect optional items only after the timer is gone; picking up a dog tag does not disarm the bomb.",
+            "pt": "A contagem continua depois que Fatman cai. Equipe Coolant antes de procurar. Segure o corpo e mova-o o suficiente para revelar o C4 embaixo dele; solte-o e agache, se necessário, para borrifar o dispositivo. Continue até a bomba ficar completamente congelada.\n\nPegue os itens opcionais depois que o cronômetro sumir; recolher uma dog tag não desarma a bomba."
+          }
+        }
+      ]
+    },
+    {
+      "key": "ninja-disguise-and-ames",
+      "title": "The Ninja, disguise and Ames",
+      "title_i18n": {
+        "en": "The Ninja, disguise and Ames",
+        "pt": "O Ninja, o disfarce e Ames"
+      },
+      "items": [
+        {
+          "key": "meet-cyborg-ninja",
+          "title": "Meet the cyborg Ninja",
+          "title_i18n": {
+            "en": "Meet the cyborg Ninja",
+            "pt": "Encontrar o Ninja ciborgue"
+          },
+          "description": "Leave the heliport and follow the encounter to receive the disguise and new access card.",
+          "description_i18n": {
+            "en": "Leave the heliport and follow the encounter to receive the disguise and new access card.",
+            "pt": "Saia do heliporto e acompanhe o encontro para receber o disfarce e o novo cartão de acesso."
+          }
+        },
+        {
+          "key": "retrieve-ak-warehouse",
+          "title": "Retrieve the AKS-74u in Strut F",
+          "title_i18n": {
+            "en": "Retrieve the AKS-74u in Strut F",
+            "pt": "Pegar a AKS-74u na Strut F"
+          },
+          "description": "Use the new card to search the warehouse's accessible rooms; the rifle is part of the Shell 1 disguise.",
+          "description_i18n": {
+            "en": "Use the new card to search the warehouse's accessible rooms; the rifle is part of the Shell 1 disguise.",
+            "pt": "Use o novo cartão para procurar nas salas acessíveis do armazém; o rifle faz parte do disfarce da Shell 1."
+          }
+        },
+        {
+          "key": "equip-shell-one-disguise",
+          "title": "Equip the B.D.U. and AKS-74u",
+          "title_i18n": {
+            "en": "Equip the B.D.U. and AKS-74u",
+            "pt": "Equipar B.D.U. e AKS-74u"
+          },
+          "description": "Wear the uniform and hold the rifle before entering Shell 1 Core; avoid suspicious behavior near guards.",
+          "description_i18n": {
+            "en": "Wear the uniform and hold the rifle before entering Shell 1 Core; avoid suspicious behavior near guards.",
+            "pt": "Vista o uniforme e segure o rifle antes de entrar no Núcleo da Shell 1; evite agir de forma suspeita perto dos guardas."
+          }
+        },
+        {
+          "key": "enter-shell-one-core",
+          "title": "Enter Shell 1 Core",
+          "title_i18n": {
+            "en": "Enter Shell 1 Core",
+            "pt": "Entrar no Núcleo da Shell 1"
+          },
+          "description": "Pass the security checkpoint in disguise and use the elevator to reach the computer-room floor.",
+          "description_i18n": {
+            "en": "Pass the security checkpoint in disguise and use the elevator to reach the computer-room floor.",
+            "pt": "Passe pelo controle de segurança disfarçado e use o elevador para chegar ao andar da sala de computadores."
+          }
+        },
+        {
+          "key": "retrieve-directional-mic",
+          "title": "Retrieve the Directional Microphone",
+          "title_i18n": {
+            "en": "Retrieve the Directional Microphone",
+            "pt": "Pegar o Microfone Direcional"
+          },
+          "description": "Search the B2 computer room, collect the microphone and return by elevator to the B1 hostage floor.",
+          "description_i18n": {
+            "en": "Search the B2 computer room, collect the microphone and return by elevator to the B1 hostage floor.",
+            "pt": "Procure na sala de computadores de B2, pegue o microfone e volte de elevador ao andar B1 dos reféns."
+          }
+        },
+        {
+          "key": "identify-ames",
+          "title": "Identify Ames among the hostages",
+          "title_i18n": {
+            "en": "Identify Ames among the hostages",
+            "pt": "Identificar Ames entre os reféns"
+          },
+          "description": "Listen to individual hostages with the Directional Microphone; use the pacemaker sound to identify Ames and speak to him.",
+          "description_i18n": {
+            "en": "Listen to individual hostages with the Directional Microphone; use the pacemaker sound to identify Ames and speak to him.",
+            "pt": "Escute os reféns com o Microfone Direcional; use o som do marca-passo para identificar Ames e conversar com ele."
+          },
+          "details": "Enter the hostage area with the B.D.U. disguise and AKS-74u prepared. The Directional Microphone is in Shell 1 Core B2; bring it to B1 and listen to hostages individually. Ames has an electronic pacemaker sound mixed with his heartbeat, so identify the sound rather than assuming a fixed seat.\n\nKeep the microphone aimed at the matching hostage and use the action command to call him. Watch the patrolling guard while searching. During the later warning, restore the AKS-74u promptly so the missing rifle does not expose your disguise.",
+          "details_i18n": {
+            "en": "Enter the hostage area with the B.D.U. disguise and AKS-74u prepared. The Directional Microphone is in Shell 1 Core B2; bring it to B1 and listen to hostages individually. Ames has an electronic pacemaker sound mixed with his heartbeat, so identify the sound rather than assuming a fixed seat.\n\nKeep the microphone aimed at the matching hostage and use the action command to call him. Watch the patrolling guard while searching. During the later warning, restore the AKS-74u promptly so the missing rifle does not expose your disguise.",
+            "pt": "Entre na área dos reféns com o disfarce B.D.U. e a AKS-74u preparados. O Microfone Direcional fica em Shell 1 Core B2; leve-o ao B1 e escute cada refém. Ames tem um som eletrônico de marca-passo junto das batidas, portanto identifique o som em vez de presumir uma cadeira fixa.\n\nMantenha o microfone apontado ao refém correto e use o comando de ação para chamá-lo. Observe o guarda durante a busca. No aviso posterior, reequipe a AKS-74u rapidamente para a ausência do rifle não denunciar o disfarce."
+          }
+        },
+        {
+          "key": "leave-hostage-area",
+          "title": "Listen to the conversation and escape",
+          "title_i18n": {
+            "en": "Listen to the conversation and escape",
+            "pt": "Ouvir a conversa e escapar"
+          },
+          "description": "Follow Ames's instructions to eavesdrop, then restore your disguise equipment when prompted and leave after the confrontation.",
+          "description_i18n": {
+            "en": "Follow Ames's instructions to eavesdrop, then restore your disguise equipment when prompted and leave after the confrontation.",
+            "pt": "Siga as instruções de Ames para escutar a conversa, reequipe o disfarce quando solicitado e saia após o confronto."
+          }
+        }
+      ]
+    },
+    {
+      "key": "connecting-bridge-and-harrier",
+      "title": "The connecting bridge and Harrier",
+      "title_i18n": {
+        "en": "The connecting bridge and Harrier",
+        "pt": "A ponte de ligação e o Harrier"
+      },
+      "items": [
+        {
+          "key": "prepare-sniper-equipment",
+          "title": "Collect the PSG1 before the bridge",
+          "title_i18n": {
+            "en": "Collect the PSG1 before the bridge",
+            "pt": "Pegar a PSG1 antes da ponte"
+          },
+          "description": "Return to Strut F with the newly upgraded access card and collect the sniper rifle and ammunition.",
+          "description_i18n": {
+            "en": "Return to Strut F with the newly upgraded access card and collect the sniper rifle and ammunition.",
+            "pt": "Volte à Strut F com o cartão de acesso atualizado e pegue o rifle de precisão e munição."
+          }
+        },
+        {
+          "key": "reach-shell-one-two-bridge",
+          "title": "Reach the Shell 1–2 connecting bridge",
+          "title_i18n": {
+            "en": "Reach the Shell 1–2 connecting bridge",
+            "pt": "Chegar à ponte entre Shell 1 e Shell 2"
+          },
+          "description": "Follow the route toward Shell 2 and stop before entering the explosive trap.",
+          "description_i18n": {
+            "en": "Follow the route toward Shell 2 and stop before entering the explosive trap.",
+            "pt": "Siga a rota até a Shell 2 e pare antes de entrar na armadilha explosiva."
+          }
+        },
+        {
+          "key": "locate-bridge-control-units",
+          "title": "Locate every bridge control unit",
+          "title_i18n": {
+            "en": "Locate every bridge control unit",
+            "pt": "Localizar todas as unidades de controle da ponte"
+          },
+          "description": "Inspect the structure, distant surfaces and moving surveillance equipment in first person; use zoom to spot hidden control units.",
+          "description_i18n": {
+            "en": "Inspect the structure, distant surfaces and moving surveillance equipment in first person; use zoom to spot hidden control units.",
+            "pt": "Examine a estrutura, superfícies distantes e equipamentos móveis de vigilância em primeira pessoa; use o zoom para localizar unidades escondidas."
+          }
+        },
+        {
+          "key": "disable-bridge-explosives",
+          "title": "Disable the bridge explosives",
+          "title_i18n": {
+            "en": "Disable the bridge explosives",
+            "pt": "Desativar os explosivos da ponte"
+          },
+          "description": "Shoot the control units rather than the explosive charges; cross only after the trap has been disarmed.",
+          "description_i18n": {
+            "en": "Shoot the control units rather than the explosive charges; cross only after the trap has been disarmed.",
+            "pt": "Atire nas unidades de controle, não nas cargas explosivas; atravesse somente depois de desarmar a armadilha."
+          },
+          "details": "Stop before crossing and inspect the bridge from your safe side. Use first-person zoom to search railings, supports and the surveillance equipment for the control units. Shoot the control units rather than the explosive charges.\n\nIf the trap remains active, scan again from a different angle instead of walking into the wires. Their placement can vary with difficulty, so use the scene itself rather than a fixed count.",
+          "details_i18n": {
+            "en": "Stop before crossing and inspect the bridge from your safe side. Use first-person zoom to search railings, supports and the surveillance equipment for the control units. Shoot the control units rather than the explosive charges.\n\nIf the trap remains active, scan again from a different angle instead of walking into the wires. Their placement can vary with difficulty, so use the scene itself rather than a fixed count.",
+            "pt": "Pare antes de atravessar e observe a ponte do lado seguro. Use a visão em primeira pessoa e a mira ampliada para procurar unidades de controle nos corrimãos, suportes e equipamentos de vigilância. Acerte as unidades de controle, em vez das cargas explosivas.\n\nSe a armadilha continuar ativa, procure de outro ângulo em vez de avançar sobre os fios. A disposição pode variar com a dificuldade; confira o cenário sem depender de uma contagem fixa."
+          }
+        },
+        {
+          "key": "collect-stinger",
+          "title": "Collect the Stinger during the attack",
+          "title_i18n": {
+            "en": "Collect the Stinger during the attack",
+            "pt": "Pegar o Stinger durante o ataque"
+          },
+          "description": "When the Harrier battle begins, recover the launcher and nearby ammunition, using the stairs and structure as cover.",
+          "description_i18n": {
+            "en": "When the Harrier battle begins, recover the launcher and nearby ammunition, using the stairs and structure as cover.",
+            "pt": "Quando começar a batalha do Harrier, pegue o lançador e munição próxima, usando escadas e a estrutura como cobertura."
+          }
+        },
+        {
+          "key": "shoot-harrier-openings",
+          "title": "Lock on during the Harrier's openings",
+          "title_i18n": {
+            "en": "Lock on during the Harrier's openings",
+            "pt": "Travar a mira nas aberturas do Harrier"
+          },
+          "description": "Track the aircraft with the Stinger, fire after lock-on and move out of its attack path instead of standing exposed.",
+          "description_i18n": {
+            "en": "Track the aircraft with the Stinger, fire after lock-on and move out of its attack path instead of standing exposed.",
+            "pt": "Acompanhe a aeronave com o Stinger, dispare após travar a mira e saia da linha de ataque em vez de ficar exposto."
+          }
+        },
+        {
+          "key": "defeat-harrier",
+          "title": "Defeat the Harrier",
+          "title_i18n": {
+            "en": "Defeat the Harrier",
+            "pt": "Derrotar o Harrier"
+          },
+          "description": "Use supplies delivered during the fight and keep alternating cover with missile shots until the aircraft falls.",
+          "description_i18n": {
+            "en": "Use supplies delivered during the fight and keep alternating cover with missile shots until the aircraft falls.",
+            "pt": "Use os suprimentos entregues durante a luta e alterne cobertura e disparos de mísseis até derrubar a aeronave."
+          }
+        }
+      ]
+    },
+    {
+      "key": "shell-two-and-president",
+      "title": "Shell 2 and the President",
+      "title_i18n": {
+        "en": "Shell 2 and the President",
+        "pt": "Shell 2 e o Presidente"
+      },
+      "items": [
+        {
+          "key": "cross-damaged-bridge",
+          "title": "Cross the damaged route into Shell 2",
+          "title_i18n": {
+            "en": "Cross the damaged route into Shell 2",
+            "pt": "Atravessar a rota danificada até a Shell 2"
+          },
+          "description": "Use ledges, hanging and careful movement where the bridge has collapsed; check the next foothold before dropping.",
+          "description_i18n": {
+            "en": "Use ledges, hanging and careful movement where the bridge has collapsed; check the next foothold before dropping.",
+            "pt": "Use beiradas, suspensão e movimentos cuidadosos onde a ponte caiu; confira o próximo apoio antes de soltar."
+          }
+        },
+        {
+          "key": "enter-shell-two-core",
+          "title": "Enter Shell 2 Core",
+          "title_i18n": {
+            "en": "Enter Shell 2 Core",
+            "pt": "Entrar no Núcleo da Shell 2"
+          },
+          "description": "Follow the exterior route into the core and investigate why the President's room cannot be reached directly.",
+          "description_i18n": {
+            "en": "Follow the exterior route into the core and investigate why the President's room cannot be reached directly.",
+            "pt": "Siga a rota externa até o núcleo e descubra por que a sala do Presidente não pode ser acessada diretamente."
+          }
+        },
+        {
+          "key": "inspect-electric-floor",
+          "title": "Identify the electrified floor problem",
+          "title_i18n": {
+            "en": "Identify the electrified floor problem",
+            "pt": "Identificar o problema do piso eletrificado"
+          },
+          "description": "Stop short of the dangerous floor and listen to the mission guidance about cutting power from another route.",
+          "description_i18n": {
+            "en": "Stop short of the dangerous floor and listen to the mission guidance about cutting power from another route.",
+            "pt": "Pare antes do piso perigoso e ouça as orientações sobre cortar a energia por outro caminho."
+          }
+        },
+        {
+          "key": "retrieve-nikita",
+          "title": "Retrieve the Nikita launcher",
+          "title_i18n": {
+            "en": "Retrieve the Nikita launcher",
+            "pt": "Pegar o lançador Nikita"
+          },
+          "description": "Search the flooded B1 route for the remote-controlled missile launcher; watch the oxygen gauge while swimming.",
+          "description_i18n": {
+            "en": "Search the flooded B1 route for the remote-controlled missile launcher; watch the oxygen gauge while swimming.",
+            "pt": "Procure o lançador de mísseis controlados remotamente na rota alagada de B1; observe o oxigênio ao nadar."
+          }
+        },
+        {
+          "key": "cut-president-room-power",
+          "title": "Cut power to the President's room",
+          "title_i18n": {
+            "en": "Cut power to the President's room",
+            "pt": "Cortar a energia da sala do Presidente"
+          },
+          "description": "Launch a Nikita missile through the ventilation route and hit the electrical control panel, keeping the missile away from the President.",
+          "description_i18n": {
+            "en": "Launch a Nikita missile through the ventilation route and hit the electrical control panel, keeping the missile away from the President.",
+            "pt": "Lance um míssil Nikita pela ventilação e acerte o painel elétrico, mantendo o míssil longe do Presidente."
+          },
+          "details": "Remain on the safe side of the electrified floor. With the Nikita, launch toward the ventilation opening and steer through the duct until the missile reaches the room with the electrical panel. The objective is the panel, not the President; avoid his position and do not fire blindly into him.\n\nIf a missile hits the duct wall, adjust the launch position and make slower turns. Once the control panel is destroyed, leave the missile view and confirm the electricity is off before walking across.",
+          "details_i18n": {
+            "en": "Remain on the safe side of the electrified floor. With the Nikita, launch toward the ventilation opening and steer through the duct until the missile reaches the room with the electrical panel. The objective is the panel, not the President; avoid his position and do not fire blindly into him.\n\nIf a missile hits the duct wall, adjust the launch position and make slower turns. Once the control panel is destroyed, leave the missile view and confirm the electricity is off before walking across.",
+            "pt": "Fique no lado seguro do piso eletrificado. Com a Nikita, dispare em direção à abertura de ventilação e conduza pelo duto até a sala do painel elétrico. O alvo é o painel, não o presidente; evite a posição dele e não atire às cegas contra seu corpo.\n\nSe o míssil bater no duto, ajuste a posição do disparo e faça curvas mais lentas. Após destruir o painel, saia da visão do míssil e confirme que a eletricidade desligou antes de atravessar."
+          }
+        },
+        {
+          "key": "meet-president-johnson",
+          "title": "Meet President Johnson",
+          "title_i18n": {
+            "en": "Meet President Johnson",
+            "pt": "Encontrar o Presidente Johnson"
+          },
+          "description": "Cross the safe floor, enter his room and complete the conversation to receive the next access upgrade and objective.",
+          "description_i18n": {
+            "en": "Cross the safe floor, enter his room and complete the conversation to receive the next access upgrade and objective.",
+            "pt": "Atravesse o piso seguro, entre na sala e termine a conversa para receber a próxima liberação de acesso e objetivo."
+          }
+        },
+        {
+          "key": "return-flooded-levels",
+          "title": "Return to the flooded lower levels",
+          "title_i18n": {
+            "en": "Return to the flooded lower levels",
+            "pt": "Voltar aos andares inferiores alagados"
+          },
+          "description": "Follow the new objective toward Emma, gathering underwater supplies only when you have enough oxygen to return.",
+          "description_i18n": {
+            "en": "Follow the new objective toward Emma, gathering underwater supplies only when you have enough oxygen to return.",
+            "pt": "Siga o novo objetivo até Emma, recolhendo itens submersos somente quando houver oxigênio para voltar."
+          }
+        }
+      ]
+    },
+    {
+      "key": "vamp-and-emma",
+      "title": "Vamp and the rescue of Emma",
+      "title_i18n": {
+        "en": "Vamp and the rescue of Emma",
+        "pt": "Vamp e o resgate de Emma"
+      },
+      "items": [
+        {
+          "key": "navigate-flooded-core",
+          "title": "Navigate the flooded core",
+          "title_i18n": {
+            "en": "Navigate the flooded core",
+            "pt": "Percorrer o núcleo alagado"
+          },
+          "description": "Use the map and underwater openings to reach the filtration area; pause in air pockets before oxygen becomes critical.",
+          "description_i18n": {
+            "en": "Use the map and underwater openings to reach the filtration area; pause in air pockets before oxygen becomes critical.",
+            "pt": "Use o mapa e as aberturas submersas até a área de filtragem; pare nas bolsas de ar antes de o oxigênio ficar crítico."
+          }
+        },
+        {
+          "key": "enter-vamp-arena",
+          "title": "Enter Vamp's filtration chamber",
+          "title_i18n": {
+            "en": "Enter Vamp's filtration chamber",
+            "pt": "Entrar na câmara de filtragem de Vamp"
+          },
+          "description": "Gather ammunition at the perimeter and avoid falling into the central pool.",
+          "description_i18n": {
+            "en": "Gather ammunition at the perimeter and avoid falling into the central pool.",
+            "pt": "Junte munição nas bordas e evite cair no tanque central."
+          }
+        },
+        {
+          "key": "avoid-vamp-knives",
+          "title": "Avoid Vamp's knives and rushes",
+          "title_i18n": {
+            "en": "Avoid Vamp's knives and rushes",
+            "pt": "Evitar as facas e investidas de Vamp"
+          },
+          "description": "Keep moving when he attacks, then aim during recovery; watch for attacks that pin Raiden in place.",
+          "description_i18n": {
+            "en": "Keep moving when he attacks, then aim during recovery; watch for attacks that pin Raiden in place.",
+            "pt": "Continue se movendo quando ele atacar e mire na recuperação; cuidado com ataques que imobilizam Raiden."
+          }
+        },
+        {
+          "key": "defeat-vamp",
+          "title": "Defeat Vamp",
+          "title_i18n": {
+            "en": "Defeat Vamp",
+            "pt": "Derrotar Vamp"
+          },
+          "description": "Land shots during vulnerable pauses and conserve healing; a tranquilizer approach can exhaust his stamina instead of his life.",
+          "description_i18n": {
+            "en": "Land shots during vulnerable pauses and conserve healing; a tranquilizer approach can exhaust his stamina instead of his life.",
+            "pt": "Acerte tiros nas pausas vulneráveis e economize cura; tranquilizantes podem esgotar o vigor em vez da vida."
+          }
+        },
+        {
+          "key": "find-emma-locker",
+          "title": "Find Emma in the locker room",
+          "title_i18n": {
+            "en": "Find Emma in the locker room",
+            "pt": "Encontrar Emma no vestiário"
+          },
+          "description": "Continue through the newly accessible route and inspect the lockers to locate her.",
+          "description_i18n": {
+            "en": "Continue through the newly accessible route and inspect the lockers to locate her.",
+            "pt": "Continue pela rota liberada e examine os armários para encontrá-la."
+          }
+        },
+        {
+          "key": "escort-emma-underwater",
+          "title": "Escort Emma through the flooded route",
+          "title_i18n": {
+            "en": "Escort Emma through the flooded route",
+            "pt": "Escoltar Emma pela rota alagada"
+          },
+          "description": "Hold her hand to guide her through the water, follow the map and replenish oxygen before each long section.",
+          "description_i18n": {
+            "en": "Hold her hand to guide her through the water, follow the map and replenish oxygen before each long section.",
+            "pt": "Segure a mão dela para guiá-la pela água, siga o mapa e reponha oxigênio antes de cada trecho longo."
+          },
+          "details": "Plan the next air stop before taking Emma into the flooded passage. Use the hand-holding action to guide her, keep the route visible on the map and move deliberately through openings rather than circling in a large room. Her oxygen also matters; Raiden surviving alone does not complete the escort.\n\nSurface at usable air pockets before attempting another long stretch. If you become disoriented, return to the last safe air pocket and recheck the route instead of spending the remaining oxygen exploring a dead end.",
+          "details_i18n": {
+            "en": "Plan the next air stop before taking Emma into the flooded passage. Use the hand-holding action to guide her, keep the route visible on the map and move deliberately through openings rather than circling in a large room. Her oxygen also matters; Raiden surviving alone does not complete the escort.\n\nSurface at usable air pockets before attempting another long stretch. If you become disoriented, return to the last safe air pocket and recheck the route instead of spending the remaining oxygen exploring a dead end.",
+            "pt": "Planeje a próxima parada de ar antes de levar Emma à passagem inundada. Use o comando de segurar a mão para guiá-la, acompanhe o mapa e atravesse as aberturas com cuidado, sem ficar dando voltas numa sala grande. O oxigênio dela também importa; Raiden sobreviver sozinho não conclui a escolta.\n\nReabasteça em bolsões de ar utilizáveis antes de outra travessia longa. Se perder a orientação, volte ao último ponto seguro e reveja a rota, em vez de gastar o oxigênio restante explorando um caminho sem saída."
+          }
+        },
+        {
+          "key": "clear-emma-insect-obstacle",
+          "title": "Clear the insects blocking Emma",
+          "title_i18n": {
+            "en": "Clear the insects blocking Emma",
+            "pt": "Remover os insetos que bloqueiam Emma"
+          },
+          "description": "Use Coolant on the insects near the elevator route, then return for Emma and guide her past safely.",
+          "description_i18n": {
+            "en": "Use Coolant on the insects near the elevator route, then return for Emma and guide her past safely.",
+            "pt": "Use Coolant nos insetos perto da rota do elevador e volte para conduzir Emma em segurança."
+          }
+        }
+      ]
+    },
+    {
+      "key": "emma-oil-fence-escort",
+      "title": "Emma's oil-fence crossing",
+      "title_i18n": {
+        "en": "Emma's oil-fence crossing",
+        "pt": "A travessia de Emma pela barreira de óleo"
+      },
+      "items": [
+        {
+          "key": "reach-strut-l",
+          "title": "Reach the route to Strut L",
+          "title_i18n": {
+            "en": "Reach the route to Strut L",
+            "pt": "Chegar à rota para a Strut L"
+          },
+          "description": "Escort Emma along the lower exterior route and put out the blocking fire with Coolant.",
+          "description_i18n": {
+            "en": "Escort Emma along the lower exterior route and put out the blocking fire with Coolant.",
+            "pt": "Escolte Emma pela rota externa inferior e apague com Coolant o fogo que bloqueia o caminho."
+          }
+        },
+        {
+          "key": "prepare-sniper-position",
+          "title": "Prepare the sniper position",
+          "title_i18n": {
+            "en": "Prepare the sniper position",
+            "pt": "Preparar a posição de atirador"
+          },
+          "description": "Equip the PSG1 and check ammunition; use Pentazemin if you need to steady the scope.",
+          "description_i18n": {
+            "en": "Equip the PSG1 and check ammunition; use Pentazemin if you need to steady the scope.",
+            "pt": "Equipe a PSG1 e confira a munição; use Pentazemin se precisar estabilizar a mira."
+          }
+        },
+        {
+          "key": "scout-oil-fence",
+          "title": "Scout Emma's crossing route",
+          "title_i18n": {
+            "en": "Scout Emma's crossing route",
+            "pt": "Observar a rota de travessia de Emma"
+          },
+          "description": "Scan ahead through the scope for guards, surveillance drones and explosives before she reaches them.",
+          "description_i18n": {
+            "en": "Scan ahead through the scope for guards, surveillance drones and explosives before she reaches them.",
+            "pt": "Examine pelo visor os guardas, drones de vigilância e explosivos antes que ela os alcance."
+          }
+        },
+        {
+          "key": "cover-emma-first-section",
+          "title": "Cover Emma's first crossing",
+          "title_i18n": {
+            "en": "Cover Emma's first crossing",
+            "pt": "Cobrir o primeiro trecho de Emma"
+          },
+          "description": "Eliminate threats from a distance while keeping your shots clear of Emma's body.",
+          "description_i18n": {
+            "en": "Eliminate threats from a distance while keeping your shots clear of Emma's body.",
+            "pt": "Elimine as ameaças à distância, mantendo os disparos longe do corpo de Emma."
+          }
+        },
+        {
+          "key": "coordinate-sniper-support",
+          "title": "Coordinate with Snake's support",
+          "title_i18n": {
+            "en": "Coordinate with Snake's support",
+            "pt": "Coordenar o apoio de Snake"
+          },
+          "description": "Listen to the Codec guidance, keep scanning both near and far walkways and use the available support rather than abandoning your position.",
+          "description_i18n": {
+            "en": "Listen to the Codec guidance, keep scanning both near and far walkways and use the available support rather than abandoning your position.",
+            "pt": "Ouça as orientações pelo Codec, observe passarelas próximas e distantes e use o apoio disponível sem abandonar a posição."
+          }
+        },
+        {
+          "key": "resolve-vamp-hostage-shot",
+          "title": "Stop Vamp while he holds Emma",
+          "title_i18n": {
+            "en": "Stop Vamp while he holds Emma",
+            "pt": "Deter Vamp enquanto segura Emma"
+          },
+          "description": "Wait for a clear angle and aim at Vamp's exposed head, avoiding Emma as the target shifts.",
+          "description_i18n": {
+            "en": "Wait for a clear angle and aim at Vamp's exposed head, avoiding Emma as the target shifts.",
+            "pt": "Espere um ângulo livre e mire na cabeça exposta de Vamp, evitando Emma enquanto o alvo se move."
+          },
+          "details": "Use the sniper rifle from your covering position and steady the scope before committing to the shot. Vamp is partly hidden behind Emma; track his exposed head and wait for a clean separation. A shot at the center of the combined silhouettes can hit the person you are protecting.\n\nStop firing when Emma blocks the angle, reacquire Vamp and shoot during the next opening. This encounter is an accuracy check rather than a reason to spray ammunition; the later story scene is not evidence that you should shoot Emma.",
+          "details_i18n": {
+            "en": "Use the sniper rifle from your covering position and steady the scope before committing to the shot. Vamp is partly hidden behind Emma; track his exposed head and wait for a clean separation. A shot at the center of the combined silhouettes can hit the person you are protecting.\n\nStop firing when Emma blocks the angle, reacquire Vamp and shoot during the next opening. This encounter is an accuracy check rather than a reason to spray ammunition; the later story scene is not evidence that you should shoot Emma.",
+            "pt": "Use o rifle de precisão da posição de cobertura e estabilize a mira antes de disparar. Vamp fica parcialmente escondido atrás de Emma; acompanhe a cabeça exposta e espere uma separação clara. Um tiro no centro das duas silhuetas pode acertar quem você está protegendo.\n\nPare de atirar quando Emma cobrir o ângulo, reencontre Vamp e dispare na próxima abertura. O encontro exige precisão, não uma sequência de tiros. A cena posterior da história não significa que você deva atirar em Emma."
+          }
+        },
+        {
+          "key": "reach-computer-room-emma",
+          "title": "Reach the Shell 1 computer room",
+          "title_i18n": {
+            "en": "Reach the Shell 1 computer room",
+            "pt": "Chegar à sala de computadores da Shell 1"
+          },
+          "description": "Follow the instruction to return after the crossing and reunite with the group in the computer room.",
+          "description_i18n": {
+            "en": "Follow the instruction to return after the crossing and reunite with the group in the computer room.",
+            "pt": "Siga a instrução de voltar após a travessia e reencontre o grupo na sala de computadores."
+          }
+        },
+        {
+          "key": "finish-emma-sequence",
+          "title": "Complete Emma's computer-room sequence",
+          "title_i18n": {
+            "en": "Complete Emma's computer-room sequence",
+            "pt": "Concluir a sequência de Emma na sala de computadores"
+          },
+          "description": "Watch the upload attempt and ensuing scenes, then follow Snake's plan for entering Arsenal Gear.",
+          "description_i18n": {
+            "en": "Watch the upload attempt and ensuing scenes, then follow Snake's plan for entering Arsenal Gear.",
+            "pt": "Acompanhe a tentativa de envio e as cenas seguintes; depois siga o plano de Snake para entrar em Arsenal Gear."
+          }
+        }
+      ]
+    },
+    {
+      "key": "arsenal-capture-and-escape",
+      "title": "Arsenal Gear: capture and escape",
+      "title_i18n": {
+        "en": "Arsenal Gear: capture and escape",
+        "pt": "Arsenal Gear: captura e fuga"
+      },
+      "items": [
+        {
+          "key": "survive-first-interrogation",
+          "title": "Survive the Arsenal interrogation",
+          "title_i18n": {
+            "en": "Survive the Arsenal interrogation",
+            "pt": "Sobreviver ao interrogatório em Arsenal"
+          },
+          "description": "When Solidus chokes Raiden, use the displayed resistance action repeatedly to preserve oxygen until the scene advances.",
+          "description_i18n": {
+            "en": "When Solidus chokes Raiden, use the displayed resistance action repeatedly to preserve oxygen until the scene advances.",
+            "pt": "Quando Solidus sufocar Raiden, repita a ação de resistência indicada na tela para preservar o oxigênio até a cena avançar."
+          }
+        },
+        {
+          "key": "listen-to-olga",
+          "title": "Listen to Olga's explanation",
+          "title_i18n": {
+            "en": "Listen to Olga's explanation",
+            "pt": "Ouvir a explicação de Olga"
+          },
+          "description": "Follow the captivity scenes and wait for the opportunity to leave the restraint.",
+          "description_i18n": {
+            "en": "Follow the captivity scenes and wait for the opportunity to leave the restraint.",
+            "pt": "Acompanhe as cenas do cativeiro e espere a oportunidade de sair da contenção."
+          }
+        },
+        {
+          "key": "escape-without-equipment",
+          "title": "Escape the holding area without equipment",
+          "title_i18n": {
+            "en": "Escape the holding area without equipment",
+            "pt": "Escapar da área de detenção sem equipamentos"
+          },
+          "description": "Move quietly through Arsenal's corridors, using cover and crawl spaces because your weapons are unavailable.",
+          "description_i18n": {
+            "en": "Move quietly through Arsenal's corridors, using cover and crawl spaces because your weapons are unavailable.",
+            "pt": "Avance silenciosamente pelos corredores de Arsenal, usando cobertura e passagens baixas porque suas armas estão indisponíveis."
+          }
+        },
+        {
+          "key": "continue-through-codec-breakdown",
+          "title": "Continue through the Codec breakdown",
+          "title_i18n": {
+            "en": "Continue through the Codec breakdown",
+            "pt": "Continuar durante a falha do Codec"
+          },
+          "description": "Keep following the accessible route despite the Colonel's erratic calls; do not treat his instruction to stop playing as a required action.",
+          "description_i18n": {
+            "en": "Keep following the accessible route despite the Colonel's erratic calls; do not treat his instruction to stop playing as a required action.",
+            "pt": "Continue pela rota acessível apesar das chamadas estranhas do Coronel; não trate a ordem de parar de jogar como uma ação obrigatória."
+          }
+        },
+        {
+          "key": "reunite-with-snake",
+          "title": "Reunite with Snake",
+          "title_i18n": {
+            "en": "Reunite with Snake",
+            "pt": "Reencontrar Snake"
+          },
+          "description": "Reach the meeting area and complete the conversation to recover your equipment and receive the HF Blade.",
+          "description_i18n": {
+            "en": "Reach the meeting area and complete the conversation to recover your equipment and receive the HF Blade.",
+            "pt": "Chegue à área do encontro e termine a conversa para recuperar os equipamentos e receber a HF Blade."
+          }
+        },
+        {
+          "key": "practice-hf-blade",
+          "title": "Practice the HF Blade controls",
+          "title_i18n": {
+            "en": "Practice the HF Blade controls",
+            "pt": "Praticar os controles da HF Blade"
+          },
+          "description": "Use the safe interval to test slashes, thrusts and guarding with the original PS2 controls before the next fight.",
+          "description_i18n": {
+            "en": "Use the safe interval to test slashes, thrusts and guarding with the original PS2 controls before the next fight.",
+            "pt": "Use o intervalo seguro para testar cortes, estocadas e defesa com os controles originais do PS2 antes da próxima luta."
+          }
+        },
+        {
+          "key": "fight-tengu-corridor",
+          "title": "Fight through the Tengu corridor",
+          "title_i18n": {
+            "en": "Fight through the Tengu corridor",
+            "pt": "Abrir caminho pelo corredor de Tengus"
+          },
+          "description": "Advance alongside Snake, guard against blades and prioritize enemies firing from a distance.",
+          "description_i18n": {
+            "en": "Advance alongside Snake, guard against blades and prioritize enemies firing from a distance.",
+            "pt": "Avance ao lado de Snake, defenda-se das lâminas e priorize os inimigos que atiram à distância."
+          }
+        },
+        {
+          "key": "survive-tengu-assault",
+          "title": "Survive the next Tengu assault",
+          "title_i18n": {
+            "en": "Survive the next Tengu assault",
+            "pt": "Sobreviver ao ataque seguinte dos Tengus"
+          },
+          "description": "Keep Snake supported, gather supplies during openings and clear the remaining attackers to advance into Arsenal's next sequence.",
+          "description_i18n": {
+            "en": "Keep Snake supported, gather supplies during openings and clear the remaining attackers to advance into Arsenal's next sequence.",
+            "pt": "Ajude Snake, junte suprimentos nas aberturas e derrote os atacantes restantes para avançar à próxima sequência de Arsenal."
+          }
+        }
+      ]
+    },
+    {
+      "key": "metal-gear-ray-battle",
+      "title": "The Metal Gear RAY battle",
+      "title_i18n": {
+        "en": "The Metal Gear RAY battle",
+        "pt": "A batalha contra os Metal Gear RAY"
+      },
+      "items": [
+        {
+          "key": "prepare-ray-arena",
+          "title": "Prepare the Stinger for the RAY battle",
+          "title_i18n": {
+            "en": "Prepare the Stinger for the RAY battle",
+            "pt": "Preparar o Stinger para a batalha de RAY"
+          },
+          "description": "Equip the launcher, locate ammunition pickups and watch the machines before settling into an attack rhythm.",
+          "description_i18n": {
+            "en": "Equip the launcher, locate ammunition pickups and watch the machines before settling into an attack rhythm.",
+            "pt": "Equipe o lançador, localize a munição disponível e observe as máquinas antes de estabelecer um ritmo de ataque."
+          }
+        },
+        {
+          "key": "expose-ray-mouth",
+          "title": "Stun a RAY and expose its mouth",
+          "title_i18n": {
+            "en": "Stun a RAY and expose its mouth",
+            "pt": "Atordoar um RAY e expor sua boca"
+          },
+          "description": "Lock on to a knee and fire, then aim at the opened mouth for the damaging follow-up.",
+          "description_i18n": {
+            "en": "Lock on to a knee and fire, then aim at the opened mouth for the damaging follow-up.",
+            "pt": "Trave a mira em um joelho e dispare; depois mire na boca aberta para o ataque seguinte causar mais dano."
+          },
+          "details": "Treat each opening as a two-shot sequence: lock the Stinger onto a knee, fire to make the RAY stagger, then shift the target to its opened mouth and fire again. A knee hit creates the opening; repeatedly hitting armor without the mouth follow-up wastes opportunities.\n\nLeave the aiming view to dodge incoming attacks, then rebuild the sequence. Watch the other RAYs as well as the one on the platform. The number you must defeat varies with difficulty, so continue until the encounter itself advances.",
+          "details_i18n": {
+            "en": "Treat each opening as a two-shot sequence: lock the Stinger onto a knee, fire to make the RAY stagger, then shift the target to its opened mouth and fire again. A knee hit creates the opening; repeatedly hitting armor without the mouth follow-up wastes opportunities.\n\nLeave the aiming view to dodge incoming attacks, then rebuild the sequence. Watch the other RAYs as well as the one on the platform. The number you must defeat varies with difficulty, so continue until the encounter itself advances.",
+            "pt": "Trate cada abertura como uma sequência de dois tiros: trave o Stinger num joelho, dispare para desequilibrar o RAY, mude o alvo para a boca aberta e atire de novo. O acerto no joelho cria a abertura; insistir na armadura sem aproveitar a boca desperdiça oportunidades.\n\nSaia da mira para desviar dos ataques e recomece a sequência. Observe também os outros RAYs, não apenas o da plataforma. A quantidade exigida muda com a dificuldade; continue até o próprio encontro avançar."
+          }
+        },
+        {
+          "key": "avoid-ray-missiles",
+          "title": "Avoid missiles and water-cannon attacks",
+          "title_i18n": {
+            "en": "Avoid missiles and water-cannon attacks",
+            "pt": "Evitar mísseis e canhões de água"
+          },
+          "description": "Keep moving when missiles approach and sidestep the sweeping attacks; stop aiming when movement is safer.",
+          "description_i18n": {
+            "en": "Keep moving when missiles approach and sidestep the sweeping attacks; stop aiming when movement is safer.",
+            "pt": "Mantenha-se em movimento quando os mísseis chegarem e saia dos ataques de varredura; pare de mirar quando for mais seguro se mover."
+          }
+        },
+        {
+          "key": "continue-ray-waves",
+          "title": "Continue until the RAY encounter ends",
+          "title_i18n": {
+            "en": "Continue until the RAY encounter ends",
+            "pt": "Continuar até o fim do confronto com RAY"
+          },
+          "description": "Repeat knee-to-mouth attacks and collect ammunition between openings; the required number of machines depends on difficulty.",
+          "description_i18n": {
+            "en": "Repeat knee-to-mouth attacks and collect ammunition between openings; the required number of machines depends on difficulty.",
+            "pt": "Repita os ataques do joelho à boca e pegue munição nas aberturas; o número de máquinas exigido depende da dificuldade."
+          }
+        },
+        {
+          "key": "survive-second-choke",
+          "title": "Survive Solidus's next choke",
+          "title_i18n": {
+            "en": "Survive Solidus's next choke",
+            "pt": "Sobreviver ao novo estrangulamento de Solidus"
+          },
+          "description": "After the battle and story scenes, repeat the on-screen resistance action during the next choke sequence.",
+          "description_i18n": {
+            "en": "After the battle and story scenes, repeat the on-screen resistance action during the next choke sequence.",
+            "pt": "Após a batalha e as cenas, repita a ação de resistência exibida durante a nova sequência de estrangulamento."
+          }
+        }
+      ]
+    },
+    {
+      "key": "solidus-and-the-ending",
+      "title": "Solidus and the ending",
+      "title_i18n": {
+        "en": "Solidus and the ending",
+        "pt": "Solidus e o final"
+      },
+      "items": [
+        {
+          "key": "follow-federal-hall-scenes",
+          "title": "Follow the Federal Hall revelations",
+          "title_i18n": {
+            "en": "Follow the Federal Hall revelations",
+            "pt": "Acompanhar as revelações em Federal Hall"
+          },
+          "description": "Watch the events after Arsenal reaches Manhattan and prepare for the final one-on-one duel.",
+          "description_i18n": {
+            "en": "Watch the events after Arsenal reaches Manhattan and prepare for the final one-on-one duel.",
+            "pt": "Acompanhe os acontecimentos após Arsenal chegar a Manhattan e prepare-se para o último duelo."
+          }
+        },
+        {
+          "key": "guard-against-solidus",
+          "title": "Guard against Solidus's sword attacks",
+          "title_i18n": {
+            "en": "Guard against Solidus's sword attacks",
+            "pt": "Defender-se dos golpes de Solidus"
+          },
+          "description": "Face him with the HF Blade ready, block his combinations and avoid committing to long attacks while he can counter.",
+          "description_i18n": {
+            "en": "Face him with the HF Blade ready, block his combinations and avoid committing to long attacks while he can counter.",
+            "pt": "Encare-o com a HF Blade pronta, bloqueie as sequências e evite ataques longos enquanto ele puder contra-atacar."
+          }
+        },
+        {
+          "key": "punish-solidus-recovery",
+          "title": "Attack during Solidus's recovery",
+          "title_i18n": {
+            "en": "Attack during Solidus's recovery",
+            "pt": "Atacar durante a recuperação de Solidus"
+          },
+          "description": "Move away from his charges and fire trails, then land short sword combinations after he misses.",
+          "description_i18n": {
+            "en": "Move away from his charges and fire trails, then land short sword combinations after he misses.",
+            "pt": "Afaste-se das investidas e rastros de fogo e acerte sequências curtas de espada depois que ele errar."
+          }
+        },
+        {
+          "key": "defeat-solidus",
+          "title": "Defeat Solidus",
+          "title_i18n": {
+            "en": "Defeat Solidus",
+            "pt": "Derrotar Solidus"
+          },
+          "description": "Adapt when his movement changes in the later phase; keep guarding and punishing clear openings until the duel ends.",
+          "description_i18n": {
+            "en": "Adapt when his movement changes in the later phase; keep guarding and punishing clear openings until the duel ends.",
+            "pt": "Adapte-se à mudança de movimento na fase seguinte; continue defendendo e aproveitando aberturas até terminar o duelo."
+          }
+        },
+        {
+          "key": "watch-ending-and-save",
+          "title": "Watch the ending and preserve clear data",
+          "title_i18n": {
+            "en": "Watch the ending and preserve clear data",
+            "pt": "Ver o final e salvar os dados de conclusão"
+          },
+          "description": "Watch the closing scenes and credits, review your results and save the completed-game data when prompted.",
+          "description_i18n": {
+            "en": "Watch the closing scenes and credits, review your results and save the completed-game data when prompted.",
+            "pt": "Veja as cenas finais e os créditos, confira os resultados e salve os dados de conclusão quando solicitado."
+          }
+        }
+      ]
+    },
+    {
+      "key": "optional-gameplay-challenges",
+      "title": "Optional gameplay challenges",
+      "title_i18n": {
+        "en": "Optional gameplay challenges",
+        "pt": "Desafios opcionais de jogabilidade"
+      },
+      "items": [
+        {
+          "key": "olga-stamina-victory",
+          "title": "Defeat Olga by stamina depletion",
+          "title_i18n": {
+            "en": "Defeat Olga by stamina depletion",
+            "pt": "Derrotar Olga esgotando o vigor"
+          },
+          "description": "On a replay or separate save, use the M9 throughout the fight; this is a personal challenge, not a PS2 trophy.",
+          "description_i18n": {
+            "en": "On a replay or separate save, use the M9 throughout the fight; this is a personal challenge, not a PS2 trophy.",
+            "pt": "Em uma repetição ou arquivo separado, use a M9 durante toda a luta; é um desafio pessoal, não um troféu de PS2."
+          }
+        },
+        {
+          "key": "fatman-stamina-victory",
+          "title": "Defeat Fatman by stamina depletion",
+          "title_i18n": {
+            "en": "Defeat Fatman by stamina depletion",
+            "pt": "Derrotar Fatman esgotando o vigor"
+          },
+          "description": "Use tranquilizer headshots after knockdowns while still freezing every active bomb.",
+          "description_i18n": {
+            "en": "Use tranquilizer headshots after knockdowns while still freezing every active bomb.",
+            "pt": "Use tiros tranquilizantes na cabeça após derrubá-lo, sem deixar de congelar todas as bombas ativas."
+          }
+        },
+        {
+          "key": "vamp-stamina-victory",
+          "title": "Defeat the filtration-room Vamp by stamina depletion",
+          "title_i18n": {
+            "en": "Defeat the filtration-room Vamp by stamina depletion",
+            "pt": "Derrotar Vamp na filtragem esgotando o vigor"
+          },
+          "description": "Use the M9 during his vulnerable pauses in the filtration-room duel and keep enough ammunition for the full fight.",
+          "description_i18n": {
+            "en": "Use the M9 during his vulnerable pauses in the filtration-room duel and keep enough ammunition for the full fight.",
+            "pt": "Use a M9 nas pausas vulneráveis do duelo na filtragem e mantenha munição suficiente para toda a luta."
+          }
+        },
+        {
+          "key": "complete-clean-tanker-section",
+          "title": "Cross a Tanker patrol section without an alert",
+          "title_i18n": {
+            "en": "Cross a Tanker patrol section without an alert",
+            "pt": "Atravessar uma área de patrulha de Tanker sem alerta"
+          },
+          "description": "Choose a normal patrol area, plan the guard cycle and reach its exit unseen; exclude scripted combat from this local goal.",
+          "description_i18n": {
+            "en": "Choose a normal patrol area, plan the guard cycle and reach its exit unseen; exclude scripted combat from this local goal.",
+            "pt": "Escolha uma área comum de patrulha, planeje o ciclo dos guardas e alcance a saída sem ser visto; exclua combates obrigatórios desta meta local."
+          }
+        },
+        {
+          "key": "complete-clean-plant-section",
+          "title": "Cross a Plant patrol section without an alert",
+          "title_i18n": {
+            "en": "Cross a Plant patrol section without an alert",
+            "pt": "Atravessar uma área de patrulha de Plant sem alerta"
+          },
+          "description": "Pick an accessible strut and use the node map, cover and distractions to pass through without triggering an alert.",
+          "description_i18n": {
+            "en": "Pick an accessible strut and use the node map, cover and distractions to pass through without triggering an alert.",
+            "pt": "Escolha uma strut acessível e use o mapa do terminal, coberturas e distrações para atravessá-la sem acionar alerta."
+          }
+        },
+        {
+          "key": "review-end-results",
+          "title": "Review a completed run's results",
+          "title_i18n": {
+            "en": "Review a completed run's results",
+            "pt": "Revisar os resultados de uma campanha concluída"
+          },
+          "description": "Record your time, alerts, kills and healing use, then choose one statistic to improve on a later replay; no specific rank is required here.",
+          "description_i18n": {
+            "en": "Record your time, alerts, kills and healing use, then choose one statistic to improve on a later replay; no specific rank is required here.",
+            "pt": "Anote tempo, alertas, mortes e curas e escolha um indicador para melhorar numa repetição; esta meta não exige uma classificação específica."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "dog-tag-collection",
+      "title": "Optional dog-tag collection",
+      "title_i18n": {
+        "en": "Optional dog-tag collection",
+        "pt": "Coleta opcional de identificações militares"
+      },
+      "items": [
+        {
+          "key": "learn-guard-hold-up",
+          "title": "Collect a guard's dog tag",
+          "title_i18n": {
+            "en": "Collect a guard's dog tag",
+            "pt": "Obter a identificação militar de um guarda"
+          },
+          "description": "Approach undetected, hold the guard at gunpoint and threaten him from the front until he drops his tag; tougher guards may require a warning shot with a lethal gun.",
+          "description_i18n": {
+            "en": "Approach undetected, hold the guard at gunpoint and threaten him from the front until he drops his tag; tougher guards may require a warning shot with a lethal gun.",
+            "pt": "Aproxime-se sem ser visto, renda o guarda com uma arma e ameace-o pela frente até soltar a identificação; guardas resistentes podem exigir um tiro de aviso com arma letal."
+          }
+        },
+        {
+          "key": "collect-olga-tag",
+          "title": "Collect Olga's dog tag",
+          "title_i18n": {
+            "en": "Collect Olga's dog tag",
+            "pt": "Pegar a identificação militar de Olga"
+          },
+          "description": "After her defeat, lift and lower her unconscious body to make the tag drop, then pick it up before leaving the deck.",
+          "description_i18n": {
+            "en": "After her defeat, lift and lower her unconscious body to make the tag drop, then pick it up before leaving the deck.",
+            "pt": "Após derrotá-la, erga e abaixe o corpo inconsciente para fazer a identificação cair; pegue-a antes de sair do convés."
+          }
+        },
+        {
+          "key": "collect-stillman-tag",
+          "title": "Collect Stillman's tag from Fatman",
+          "title_i18n": {
+            "en": "Collect Stillman's tag from Fatman",
+            "pt": "Pegar a identificação de Stillman com Fatman"
+          },
+          "description": "After Fatman's defeat, lift and lower his body for the tag; prioritize freezing the hidden final bomb before spending extra time searching.",
+          "description_i18n": {
+            "en": "After Fatman's defeat, lift and lower his body for the tag; prioritize freezing the hidden final bomb before spending extra time searching.",
+            "pt": "Após derrotar Fatman, erga e abaixe o corpo para obter a identificação; priorize congelar a última bomba escondida antes de demorar na busca."
+          }
+        },
+        {
+          "key": "track-tags-by-chapter",
+          "title": "Track Tanker and Plant tags separately",
+          "title_i18n": {
+            "en": "Track Tanker and Plant tags separately",
+            "pt": "Acompanhar separadamente as identificações de Tanker e Plant"
+          },
+          "description": "Use the Dog Tag Viewer to check collected entries for each chapter and difficulty; this is an aggregate tracking goal, not a list of every guard.",
+          "description_i18n": {
+            "en": "Use the Dog Tag Viewer to check collected entries for each chapter and difficulty; this is an aggregate tracking goal, not a list of every guard.",
+            "pt": "Use o Dog Tag Viewer para conferir registros de cada capítulo e dificuldade; esta é uma meta conjunta de acompanhamento, não uma lista de todos os guardas."
+          }
+        },
+        {
+          "key": "expand-tags-across-difficulties",
+          "title": "Expand the collection on other difficulties",
+          "title_i18n": {
+            "en": "Expand the collection on other difficulties",
+            "pt": "Ampliar a coleção em outras dificuldades"
+          },
+          "description": "Continue from compatible clear data and revisit chapter/difficulty sets supported by your PS2 release; confirm saved entries in the viewer rather than using later-edition trophy thresholds.",
+          "description_i18n": {
+            "en": "Continue from compatible clear data and revisit chapter/difficulty sets supported by your PS2 release; confirm saved entries in the viewer rather than using later-edition trophy thresholds.",
+            "pt": "Continue com dados de conclusão compatíveis e revisite os conjuntos de capítulos e dificuldades da sua edição de PS2; confirme os registros no visor sem usar metas de troféus de edições posteriores."
+          }
+        }
+      ],
+      "kind": "collectible"
+    }
+  ],
+  "trophies": [],
+  "hltb_id": "5910",
+  "hltb_main_hours": 13,
+  "hltb_main_extra_hours": 15,
+  "hltb_completionist_hours": 29
+}

@@ -23,24 +23,28 @@
 // require a per-user authenticated session), so unlike HLTB these are always
 // curator-entered by hand, never auto-fetched.
 //
-// HowLongToBeat completion times (optional `hltb_id`, `hltb_main_hours`,
-// `hltb_main_extra_hours`, `hltb_completionist_hours`) are looked up once per
-// game — the (unofficial) HLTB API is never called at page-request time. On
-// import, if a game has no cached `hltb_id` yet, the importer looks it up and
-// writes the result back into the content file, so it becomes the cached,
-// hand-editable source of truth. `--skip-hltb` disables lookups entirely
-// (offline/CI); `--refresh-hltb` forces a re-fetch even when already cached.
+// HowLongToBeat is enriched for every game by default, then cached in its
+// content file. Only an exact normalized title/platform match with positive
+// finite times is accepted. Missing caches retry; failed refreshes preserve
+// existing data. --refresh-hltb rechecks; --skip-hltb is for explicit offline
+// or test runs. The app never calls HLTB at page-request time.
 // A lookup miss or API failure is non-fatal and never blocks the checklist
 // import itself.
 //
 // Uses SUPABASE_SECRET_KEY (service role, bypasses RLS) — server-side only.
 
 import { createClient } from "@supabase/supabase-js";
+import { validateGuides, validateGuideArray } from "./guides.mjs";
 import { mkdir, readFile, readdir, writeFile } from "node:fs/promises";
 import { existsSync } from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import { hltbClient, lookupHltb } from "./hltb.mjs";
+import { hltbClient, lookupHltb, hltbCacheFields, shouldLookupHltb, mergeHltbCache } from "./hltb.mjs";
+import { validateRoutes } from "./routes.mjs";
+
+// Optional top-level routes contain parent+item key references. Validate before
+// writing, preserve omitted metadata, and keep frozen keys during export.
+// See docs/catalog/alternate-endings.md for replay and spoiler requirements.
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const CONTENT_DIR = path.resolve(__dirname, "../../content/games");
@@ -87,6 +91,13 @@ function uniqueKey(base, taken) {
   return key;
 }
 
+function exportKey(existing, fallback, taken) {
+  if (!existing) return uniqueKey(toKey(fallback), taken);
+  if (taken.has(existing)) fail(`Duplicate stored key "${existing}".`);
+  taken.add(existing);
+  return existing;
+}
+
 // checklist_categories.kind: main story, side quest, or collectibles. Omitted
 // in a content file means "story".
 const CATEGORY_KINDS = ["story", "side", "collectible"];
@@ -104,20 +115,18 @@ async function exportGame(slug) {
   const { data: game, error: gErr } = await db
     .from("games")
     .select(
-      "id, slug, title, title_i18n, platform, cover_url, created_by, hltb_id, hltb_main_hours, hltb_main_extra_hours, hltb_completionist_hours"
+      "id, slug, title, title_i18n, platform, cover_url, created_by, hltb_id, hltb_main_hours, hltb_main_extra_hours, hltb_completionist_hours, walkthrough_routes, guides"
     )
     .eq("slug", slug)
     .maybeSingle();
   if (gErr) fail(gErr.message);
   if (!game) fail(`No game with slug "${slug}".`);
 
-  // export is a bootstrap/recovery tool: it regenerates stable keys from English
-  // titles (deterministic) rather than reading the `key` column, so it works
-  // even before the stable-keys migration is applied. After bootstrap the
-  // content file is authoritative — edit it, don't re-export.
+  // Keep frozen keys: route/checkpoint references must survive a round trip.
+  // Only legacy rows without a key receive a generated bootstrap key.
   const { data: cats, error: cErr } = await db
     .from("checklist_categories")
-    .select("id, kind, title, title_i18n, order_index")
+    .select("id, key, kind, title, title_i18n, order_index")
     .eq("game_id", game.id)
     .order("order_index");
   if (cErr) fail(cErr.message);
@@ -127,7 +136,7 @@ async function exportGame(slug) {
     ? await db
         .from("checklist_items")
         .select(
-          "id, category_id, title, title_i18n, description, description_i18n, image_url, order_index"
+          "id, key, category_id, title, title_i18n, description, description_i18n, details, details_i18n, image_url, order_index"
         )
         .in("category_id", catIds)
         .order("order_index")
@@ -136,14 +145,14 @@ async function exportGame(slug) {
 
   const { data: trophyRows, error: tErr } = await db
     .from("trophies")
-    .select("id, title, title_i18n, description, description_i18n, tier, order_index")
+    .select("id, key, title, title_i18n, description, description_i18n, tier, order_index")
     .eq("game_id", game.id)
     .order("order_index");
   if (tErr) fail(tErr.message);
 
   const trophyKeys = new Set();
   const trophies = trophyRows.map((tr) => ({
-    key: uniqueKey(toKey(eng(tr.title_i18n, tr.title)), trophyKeys),
+    key: exportKey(tr.key, eng(tr.title_i18n, tr.title), trophyKeys),
     title: tr.title,
     title_i18n: tr.title_i18n ?? {},
     description: tr.description ?? null,
@@ -157,16 +166,23 @@ async function exportGame(slug) {
     const catItems = items
       .filter((it) => it.category_id === c.id)
       .map((it) => ({
-        key: uniqueKey(toKey(eng(it.title_i18n, it.title)), itemKeys),
+        key: exportKey(it.key, eng(it.title_i18n, it.title), itemKeys),
         title: it.title,
         title_i18n: it.title_i18n ?? {},
         description: it.description ?? null,
         description_i18n: it.description_i18n ?? {},
+        // Omit empty guidance so older files remain compact.
+        ...(it.details?.trim() || Object.values(it.details_i18n ?? {}).some(
+          (value) => typeof value === "string" && value.trim()
+        ) ? {
+          ...(it.details != null ? { details: it.details } : {}),
+          details_i18n: it.details_i18n ?? {},
+        } : {}),
         // Only emit when set, so image-less games stay clean in the file.
         ...(it.image_url ? { image_url: it.image_url } : {}),
       }));
     return {
-      key: uniqueKey(toKey(eng(c.title_i18n, c.title)), catKeys),
+      key: exportKey(c.key, eng(c.title_i18n, c.title), catKeys),
       // Only emit non-default kinds, so story-only games stay clean.
       ...(c.kind && c.kind !== "story" ? { kind: c.kind } : {}),
       title: c.title,
@@ -182,15 +198,10 @@ async function exportGame(slug) {
     platform: game.platform,
     cover_url: game.cover_url ?? null,
     created_by: game.created_by ?? null,
-    // Only emit when a lookup has run, so games not yet enriched stay clean.
-    ...(game.hltb_id
-      ? {
-          hltb_id: game.hltb_id,
-          hltb_main_hours: game.hltb_main_hours,
-          hltb_main_extra_hours: game.hltb_main_extra_hours,
-          hltb_completionist_hours: game.hltb_completionist_hours,
-        }
-      : {}),
+    // Export only a usable cache, never a failed/null lookup marker.
+    ...(hltbCacheFields(game) ?? {}),
+    ...(game.walkthrough_routes?.length ? { routes: game.walkthrough_routes } : {}),
+    ...(game.guides?.length ? { guides: validateGuideArray(game.guides) } : {}),
     categories,
     trophies,
   };
@@ -213,7 +224,7 @@ async function importGames(slug, { dryRun, prune, skipHltb, refreshHltb }) {
   const db = client();
   // One client per run so its auth-token cache is shared across every game
   // in a bulk `games:import` instead of re-authenticating each time.
-  const hltb = skipHltb ? null : hltbClient();
+  const hltb = skipHltb ? null : await hltbClient();
   const files = slug
     ? [path.join(CONTENT_DIR, `${slug}.json`)]
     : (await readdir(CONTENT_DIR).catch(() => []))
@@ -221,6 +232,12 @@ async function importGames(slug, { dryRun, prune, skipHltb, refreshHltb }) {
         .map((f) => path.join(CONTENT_DIR, f));
 
   if (!files.length) fail(`No content files found in ${CONTENT_DIR}.`);
+
+  // Validate every guide document before HLTB cache files or DB rows can change.
+  for (const file of files) {
+    if (!existsSync(file)) fail(`Content file not found: ${file}`);
+    validateGuides(JSON.parse(await readFile(file, "utf8")));
+  }
 
   const tally = {
     games: 0,
@@ -236,35 +253,21 @@ async function importGames(slug, { dryRun, prune, skipHltb, refreshHltb }) {
 
   for (const file of files) {
     if (!existsSync(file)) fail(`Content file not found: ${file}`);
-    const doc = JSON.parse(await readFile(file, "utf8"));
+    let doc = JSON.parse(await readFile(file, "utf8"));
+    const routes = validateRoutes(doc);
+    const guides = validateGuides(doc);
     console.log(`\n▸ ${doc.slug}`);
 
-    // --- HLTB enrichment (cached in the content file, fetched once) ---
-    if (hltb) {
-      const alreadyCached = Object.prototype.hasOwnProperty.call(doc, "hltb_id");
-      if (!alreadyCached || refreshHltb) {
-        const title = eng(doc.title_i18n, doc.title);
-        const result = await lookupHltb(hltb, title);
-        if (result) {
-          console.log(
-            `  HLTB: matched "${result.matchedName}" (#${result.hltb_id}) — ` +
-              `main ${result.hltb_main_hours ?? "?"}h / +extra ${result.hltb_main_extra_hours ?? "?"}h / ` +
-              `completionist ${result.hltb_completionist_hours ?? "?"}h`
-          );
-          doc.hltb_id = result.hltb_id;
-          doc.hltb_main_hours = result.hltb_main_hours;
-          doc.hltb_main_extra_hours = result.hltb_main_extra_hours;
-          doc.hltb_completionist_hours = result.hltb_completionist_hours;
-        } else {
-          console.log(`  HLTB: no match for "${title}"`);
-          doc.hltb_id = null;
-          doc.hltb_main_hours = null;
-          doc.hltb_main_extra_hours = null;
-          doc.hltb_completionist_hours = null;
-        }
-        if (!dryRun) {
-          await writeFile(file, JSON.stringify(doc, null, 2) + "\n", "utf8");
-        }
+    // Retry absent/failed caches; a failed refresh never clears good data.
+    if (hltb && shouldLookupHltb(doc, refreshHltb)) {
+      const title = eng(doc.title_i18n, doc.title);
+      const result = await lookupHltb(hltb, title, { platform: doc.platform });
+      if (result) {
+        console.log(`  HLTB: matched "${result.matchedName}" (${doc.platform}) — ${result.sourceUrl}`);
+        doc = mergeHltbCache(doc, result);
+        if (!dryRun) await writeFile(file, JSON.stringify(doc, null, 2) + "\n", "utf8");
+      } else {
+        console.log(`  HLTB: unavailable/unverified for "${title}" (${doc.platform}); existing cache preserved`);
       }
     }
 
@@ -281,10 +284,10 @@ async function importGames(slug, { dryRun, prune, skipHltb, refreshHltb }) {
       title_i18n: doc.title_i18n ?? {},
       platform: doc.platform,
       cover_url: doc.cover_url ?? null,
-      hltb_id: doc.hltb_id ?? null,
-      hltb_main_hours: doc.hltb_main_hours ?? null,
-      hltb_main_extra_hours: doc.hltb_main_extra_hours ?? null,
-      hltb_completionist_hours: doc.hltb_completionist_hours ?? null,
+      // Omit unusable fields so an existing DB cache survives failed lookups.
+      ...(hltbCacheFields(doc) ?? {}),
+      ...(routes !== undefined ? { walkthrough_routes: routes } : {}),
+      ...(guides !== undefined ? { guides } : {}),
     };
 
     let gameId;
@@ -396,6 +399,29 @@ async function importGames(slug, { dryRun, prune, skipHltb, refreshHltb }) {
         // field leaves UI-uploaded images untouched; setting null clears them.
         if (Object.prototype.hasOwnProperty.call(item, "image_url")) {
           ifields.image_url = item.image_url ?? null;
+        }
+        // Absence preserves owner-edited guidance, just like image_url above.
+        // Supplying either field replaces the complete guidance payload. A null
+        // fallback explicitly clears both fields, avoiding stale translations.
+        const hasDetails = Object.prototype.hasOwnProperty.call(item, "details");
+        const hasDetailsI18n = Object.prototype.hasOwnProperty.call(item, "details_i18n");
+        if (hasDetails || hasDetailsI18n) {
+          const translations = item.details_i18n ?? {};
+          if (hasDetails && item.details !== null && typeof item.details !== "string") {
+            fail(`Item "${item.key}" has invalid details; expected text or null.`);
+          }
+          if (typeof translations !== "object" || Array.isArray(translations) ||
+              Object.values(translations).some((value) => typeof value !== "string")) {
+            fail(`Item "${item.key}" has invalid details_i18n; expected a text map.`);
+          }
+          if (hasDetails && item.details === null) {
+            ifields.details = null;
+            ifields.details_i18n = {};
+          } else {
+            ifields.details_i18n = hasDetailsI18n ? translations : {};
+            ifields.details = hasDetails ? item.details :
+              translations.en || Object.values(translations).find((value) => value.trim()) || null;
+          }
         }
         if (im) {
           usedItem.add(im.id);

@@ -7,6 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
+    "test:walkthrough": "node --experimental-strip-types --test tests/walkthrough-navigation.test.mjs",
+    "test:routes": "node --experimental-strip-types --test tests/walkthrough-routes.test.mjs",
     "games:export": "node --env-file=.env.local scripts/games/sync.mjs export",
     "games:import": "node --env-file=.env.local scripts/games/sync.mjs import"
   },
@@ -31,7 +33,7 @@
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "16.2.10",
-    "hltb-client": "^1.0.1",
+    "hltb-client": "^1.1.0",
     "tailwindcss": "^4",
     "typescript": "^5"
   }

@@ -1,0 +1,1379 @@
+{
+  "slug": "metal-gear-solid-v-ground-zeroes",
+  "title": "Metal Gear Solid V: Ground Zeroes",
+  "title_i18n": {
+    "en": "Metal Gear Solid V: Ground Zeroes",
+    "pt": "Metal Gear Solid V: Ground Zeroes"
+  },
+  "platform": "PlayStation 4",
+  "cover_url": "/covers/metal-gear-solid-v-ground-zeroes.png",
+  "created_by": "dd5c4bf0-85ea-4986-9c04-b37e8c986150",
+  "categories": [
+    {
+      "key": "ps4-mission-preparation",
+      "title": "PS4 mission preparation",
+      "title_i18n": {
+        "en": "PS4 mission preparation",
+        "pt": "Preparação das missões no PS4"
+      },
+      "items": [
+        {
+          "key": "confirm-updated-ps4",
+          "title": "Confirm the updated PS4 edition",
+          "title_i18n": {
+            "en": "Confirm the updated PS4 edition",
+            "pt": "Confirmar a edição atualizada de PS4"
+          },
+          "description": "Use the installed game update for both Extra Ops; this entry covers Ground Zeroes separately from The Phantom Pain.",
+          "description_i18n": {
+            "en": "Use the installed game update for both Extra Ops; this entry covers Ground Zeroes separately from The Phantom Pain.",
+            "pt": "Use a atualização instalada para acessar as duas Extra Ops; este registro cobre Ground Zeroes separadamente de The Phantom Pain."
+          }
+        },
+        {
+          "key": "review-briefing-records",
+          "title": "Read the mission briefing",
+          "title_i18n": {
+            "en": "Read the mission briefing",
+            "pt": "Ler as informações da missão"
+          },
+          "description": "Review the background and target photographs before beginning the operation.",
+          "description_i18n": {
+            "en": "Review the background and target photographs before beginning the operation.",
+            "pt": "Consulte o contexto e as fotos dos alvos antes de iniciar a operação."
+          }
+        },
+        {
+          "key": "configure-stealth-controls",
+          "title": "Check movement and aiming controls",
+          "title_i18n": {
+            "en": "Check movement and aiming controls",
+            "pt": "Conferir os controles de movimento e mira"
+          },
+          "description": "Practice crouching, crawling, aiming and changing weapons near the insertion point.",
+          "description_i18n": {
+            "en": "Practice crouching, crawling, aiming and changing weapons near the insertion point.",
+            "pt": "Pratique agachar, rastejar, mirar e trocar de arma perto do ponto de entrada."
+          }
+        },
+        {
+          "key": "learn-binocular-marking",
+          "title": "Mark a patrol with binoculars",
+          "title_i18n": {
+            "en": "Mark a patrol with binoculars",
+            "pt": "Marcar uma patrulha com os binóculos"
+          },
+          "description": "Observe a guard long enough to mark him and watch his route before advancing.",
+          "description_i18n": {
+            "en": "Observe a guard long enough to mark him and watch his route before advancing.",
+            "pt": "Observe um guarda até marcá-lo e acompanhe sua rota antes de avançar."
+          }
+        },
+        {
+          "key": "check-idroid-in-cover",
+          "title": "Use the iDroid from cover",
+          "title_i18n": {
+            "en": "Use the iDroid from cover",
+            "pt": "Usar o iDroid sob cobertura"
+          },
+          "description": "Check the map and support menus from a concealed position; the battlefield continues moving.",
+          "description_i18n": {
+            "en": "Check the map and support menus from a concealed position; the battlefield continues moving.",
+            "pt": "Consulte o mapa e os menus de apoio em um esconderijo; o campo de batalha continua ativo."
+          }
+        },
+        {
+          "key": "protect-checkpoint-progress",
+          "title": "Recognize the autosave indicator",
+          "title_i18n": {
+            "en": "Recognize the autosave indicator",
+            "pt": "Reconhecer o indicador de salvamento automático"
+          },
+          "description": "Let checkpoint saves finish and distinguish restarting a checkpoint from restarting the entire mission.",
+          "description_i18n": {
+            "en": "Let checkpoint saves finish and distinguish restarting a checkpoint from restarting the entire mission.",
+            "pt": "Espere o salvamento dos checkpoints terminar e diferencie reiniciar um checkpoint de reiniciar toda a missão."
+          }
+        }
+      ]
+    },
+    {
+      "key": "ground-zeroes-prison-approach",
+      "title": "Ground Zeroes: prison approach",
+      "title_i18n": {
+        "en": "Ground Zeroes: prison approach",
+        "pt": "Ground Zeroes: aproximação da prisão"
+      },
+      "items": [
+        {
+          "key": "survey-camp-omega",
+          "title": "Survey Camp Omega",
+          "title_i18n": {
+            "en": "Survey Camp Omega",
+            "pt": "Observar Camp Omega"
+          },
+          "description": "Identify the prison area, searchlights and the road before choosing your first approach.",
+          "description_i18n": {
+            "en": "Identify the prison area, searchlights and the road before choosing your first approach.",
+            "pt": "Identifique a prisão, os holofotes e a estrada antes de escolher a aproximação inicial."
+          }
+        },
+        {
+          "key": "cross-outer-perimeter",
+          "title": "Cross the outer perimeter",
+          "title_i18n": {
+            "en": "Cross the outer perimeter",
+            "pt": "Cruzar o perímetro externo"
+          },
+          "description": "Use a gap in patrol coverage and keep out of the searchlights while entering the camp.",
+          "description_i18n": {
+            "en": "Use a gap in patrol coverage and keep out of the searchlights while entering the camp.",
+            "pt": "Aproveite uma brecha nas patrulhas e evite os holofotes ao entrar no acampamento."
+          }
+        },
+        {
+          "key": "practice-quiet-interrogation",
+          "title": "Question an isolated guard",
+          "title_i18n": {
+            "en": "Question an isolated guard",
+            "pt": "Interrogar um guarda isolado"
+          },
+          "description": "Approach quietly and use an interrogation to obtain useful local information.",
+          "description_i18n": {
+            "en": "Approach quietly and use an interrogation to obtain useful local information.",
+            "pt": "Aproxime-se em silêncio e interrogue um guarda para obter informações locais úteis."
+          }
+        },
+        {
+          "key": "reach-prison-compound",
+          "title": "Reach the prison compound",
+          "title_i18n": {
+            "en": "Reach the prison compound",
+            "pt": "Chegar ao complexo da prisão"
+          },
+          "description": "Reconnoiter the cages and nearby guards before committing to a rescue.",
+          "description_i18n": {
+            "en": "Reconnoiter the cages and nearby guards before committing to a rescue.",
+            "pt": "Examine as celas e os guardas próximos antes de iniciar o resgate."
+          }
+        },
+        {
+          "key": "reunite-with-chico",
+          "title": "Find Chico",
+          "title_i18n": {
+            "en": "Find Chico",
+            "pt": "Encontrar Chico"
+          },
+          "description": "Locate the target and follow the interaction prompt to begin his rescue.",
+          "description_i18n": {
+            "en": "Locate the target and follow the interaction prompt to begin his rescue.",
+            "pt": "Localize o alvo e siga a indicação de interação para iniciar o resgate."
+          }
+        },
+        {
+          "key": "carry-chico-to-safety",
+          "title": "Move Chico to a safe position",
+          "title_i18n": {
+            "en": "Move Chico to a safe position",
+            "pt": "Levar Chico a um local seguro"
+          },
+          "description": "Clear a route before carrying him away from the prison and listen to the new guidance.",
+          "description_i18n": {
+            "en": "Clear a route before carrying him away from the prison and listen to the new guidance.",
+            "pt": "Libere uma rota antes de carregá-lo para fora da prisão e ouça as novas orientações."
+          },
+          "details": "A straightforward first route is Chico before Paz. After opening his cage, carry him down toward the coastal pickup area and set him down when the objective requests it. Clear guards before lifting him again: carrying a passenger limits your ability to react. Use the iDroid to summon the helicopter to the chosen landing zone, then load Chico aboard. Do not board yourself while Paz still needs rescuing. Other captives can use the same pickup, but their rescue is optional.",
+          "details_i18n": {
+            "en": "A straightforward first route is Chico before Paz. After opening his cage, carry him down toward the coastal pickup area and set him down when the objective requests it. Clear guards before lifting him again: carrying a passenger limits your ability to react. Use the iDroid to summon the helicopter to the chosen landing zone, then load Chico aboard. Do not board yourself while Paz still needs rescuing. Other captives can use the same pickup, but their rescue is optional.",
+            "pt": "Uma rota inicial simples é resgatar Chico antes de Paz. Depois de abrir a cela, carregue-o em direção ao embarque na costa e coloque-o no chão quando o objetivo pedir. Afaste os guardas antes de levantá-lo novamente: carregar um passageiro limita sua reação. Chame o helicóptero pelo iDroid ao ponto escolhido e embarque Chico. Não entre enquanto Paz ainda precisar de resgate. Os outros prisioneiros podem usar o mesmo embarque, mas seus resgates são opcionais."
+          }
+        }
+      ]
+    },
+    {
+      "key": "ground-zeroes-first-extraction",
+      "title": "Ground Zeroes: first extraction",
+      "title_i18n": {
+        "en": "Ground Zeroes: first extraction",
+        "pt": "Ground Zeroes: primeira extração"
+      },
+      "items": [
+        {
+          "key": "select-first-landing-zone",
+          "title": "Select a helicopter landing zone",
+          "title_i18n": {
+            "en": "Select a helicopter landing zone",
+            "pt": "Escolher um ponto de pouso"
+          },
+          "description": "Compare the available pickup points with the security along your escape route.",
+          "description_i18n": {
+            "en": "Compare the available pickup points with the security along your escape route.",
+            "pt": "Compare os pontos de embarque disponíveis com a segurança da sua rota de fuga."
+          }
+        },
+        {
+          "key": "secure-first-pickup",
+          "title": "Secure the pickup area",
+          "title_i18n": {
+            "en": "Secure the pickup area",
+            "pt": "Proteger a área de embarque"
+          },
+          "description": "Check nearby patrols before calling the helicopter and keep the passenger out of enemy fire.",
+          "description_i18n": {
+            "en": "Check nearby patrols before calling the helicopter and keep the passenger out of enemy fire.",
+            "pt": "Verifique as patrulhas próximas antes de chamar o helicóptero e proteja o passageiro dos disparos."
+          }
+        },
+        {
+          "key": "extract-chico",
+          "title": "Extract Chico",
+          "title_i18n": {
+            "en": "Extract Chico",
+            "pt": "Extrair Chico"
+          },
+          "description": "Load Chico aboard the helicopter and wait for confirmation before returning inland.",
+          "description_i18n": {
+            "en": "Load Chico aboard the helicopter and wait for confirmation before returning inland.",
+            "pt": "Coloque Chico no helicóptero e espere a confirmação antes de voltar ao interior da base."
+          }
+        },
+        {
+          "key": "review-location-evidence",
+          "title": "Review the evidence about Paz",
+          "title_i18n": {
+            "en": "Review the evidence about Paz",
+            "pt": "Analisar as pistas sobre Paz"
+          },
+          "description": "Listen to the available recording and radio guidance to identify the next search area.",
+          "description_i18n": {
+            "en": "Listen to the available recording and radio guidance to identify the next search area.",
+            "pt": "Ouça a gravação disponível e as orientações por rádio para identificar a próxima área de busca."
+          }
+        },
+        {
+          "key": "approach-admin-building",
+          "title": "Approach the administration building",
+          "title_i18n": {
+            "en": "Approach the administration building",
+            "pt": "Aproximar-se do prédio administrativo"
+          },
+          "description": "Observe entrances, cameras and elevated patrols before entering the restricted compound.",
+          "description_i18n": {
+            "en": "Observe entrances, cameras and elevated patrols before entering the restricted compound.",
+            "pt": "Observe as entradas, as câmeras e as patrulhas elevadas antes de entrar no complexo restrito."
+          }
+        }
+      ]
+    },
+    {
+      "key": "ground-zeroes-paz-and-finale",
+      "title": "Ground Zeroes: Paz and extraction",
+      "title_i18n": {
+        "en": "Ground Zeroes: Paz and extraction",
+        "pt": "Ground Zeroes: Paz e extração"
+      },
+      "items": [
+        {
+          "key": "enter-admin-compound",
+          "title": "Enter the administration compound",
+          "title_i18n": {
+            "en": "Enter the administration compound",
+            "pt": "Entrar no complexo administrativo"
+          },
+          "description": "Choose a concealed entrance and avoid rushing through unfamiliar camera coverage.",
+          "description_i18n": {
+            "en": "Choose a concealed entrance and avoid rushing through unfamiliar camera coverage.",
+            "pt": "Escolha uma entrada discreta e evite atravessar às pressas uma área coberta por câmeras."
+          }
+        },
+        {
+          "key": "locate-paz",
+          "title": "Locate Paz",
+          "title_i18n": {
+            "en": "Locate Paz",
+            "pt": "Localizar Paz"
+          },
+          "description": "Search the indicated interior area and approach the objective without drawing reinforcements.",
+          "description_i18n": {
+            "en": "Search the indicated interior area and approach the objective without drawing reinforcements.",
+            "pt": "Explore a área interna indicada e aproxime-se do objetivo sem atrair reforços."
+          },
+          "details": "Use Chico's recording and Miller's guidance to narrow the search to the administration building. A practical approach uses a side entrance into the compound, then the stairs leading to the basement boiler area. Watch the camera and guards around the access rather than running straight downstairs. After reaching Paz, check your escape route again before lifting her. The route used to enter is only a starting plan: patrol coverage can change during the rescue.",
+          "details_i18n": {
+            "en": "Use Chico's recording and Miller's guidance to narrow the search to the administration building. A practical approach uses a side entrance into the compound, then the stairs leading to the basement boiler area. Watch the camera and guards around the access rather than running straight downstairs. After reaching Paz, check your escape route again before lifting her. The route used to enter is only a starting plan: patrol coverage can change during the rescue.",
+            "pt": "Use a gravação de Chico e as orientações de Miller para restringir a busca ao prédio administrativo. Uma aproximação prática usa uma entrada lateral do complexo e depois a escada até a área das caldeiras no subsolo. Observe a câmera e os guardas do acesso em vez de correr direto para a escada. Depois de encontrar Paz, examine novamente a fuga antes de levantá-la. A rota de entrada é apenas um plano inicial: as patrulhas podem mudar durante o resgate."
+          }
+        },
+        {
+          "key": "prepare-paz-escape",
+          "title": "Prepare a route out",
+          "title_i18n": {
+            "en": "Prepare a route out",
+            "pt": "Preparar uma rota de saída"
+          },
+          "description": "Recheck the compound before moving your passenger; the return journey may have different patrols.",
+          "description_i18n": {
+            "en": "Recheck the compound before moving your passenger; the return journey may have different patrols.",
+            "pt": "Examine novamente o complexo antes de mover a passageira; a volta pode ter patrulhas diferentes."
+          }
+        },
+        {
+          "key": "carry-paz-out",
+          "title": "Carry Paz out of the compound",
+          "title_i18n": {
+            "en": "Carry Paz out of the compound",
+            "pt": "Retirar Paz do complexo"
+          },
+          "description": "Move between cover and stop in a protected place if you need to deal with a patrol.",
+          "description_i18n": {
+            "en": "Move between cover and stop in a protected place if you need to deal with a patrol.",
+            "pt": "Avance entre coberturas e pare em um local protegido se precisar lidar com uma patrulha."
+          }
+        },
+        {
+          "key": "extract-paz",
+          "title": "Complete the final pickup",
+          "title_i18n": {
+            "en": "Complete the final pickup",
+            "pt": "Concluir o embarque final"
+          },
+          "description": "Reach your chosen landing zone, load the passenger and board when the objective permits.",
+          "description_i18n": {
+            "en": "Reach your chosen landing zone, load the passenger and board when the objective permits.",
+            "pt": "Chegue ao ponto de pouso escolhido, embarque a passageira e entre quando o objetivo permitir."
+          }
+        },
+        {
+          "key": "finish-ground-zeroes",
+          "title": "Finish Ground Zeroes",
+          "title_i18n": {
+            "en": "Finish Ground Zeroes",
+            "pt": "Concluir Ground Zeroes"
+          },
+          "description": "Continue through the concluding scenes and review the mission results after the credits.",
+          "description_i18n": {
+            "en": "Continue through the concluding scenes and review the mission results after the credits.",
+            "pt": "Acompanhe as cenas finais e consulte o resultado da missão após os créditos."
+          }
+        }
+      ]
+    },
+    {
+      "key": "eliminate-renegade-threat",
+      "title": "Side Op: Eliminate the Renegade Threat",
+      "title_i18n": {
+        "en": "Side Op: Eliminate the Renegade Threat",
+        "pt": "Side Op: Eliminate the Renegade Threat"
+      },
+      "items": [
+        {
+          "key": "start-renegade-side-op",
+          "title": "Read the renegade target briefing",
+          "title_i18n": {
+            "en": "Read the renegade target briefing",
+            "pt": "Ler as informações sobre os renegados"
+          },
+          "description": "Open the unlocked Side Op and compare both target photographs before entering the camp.",
+          "description_i18n": {
+            "en": "Open the unlocked Side Op and compare both target photographs before entering the camp.",
+            "pt": "Abra a Side Op desbloqueada e compare as fotos dos dois alvos antes de entrar na base."
+          }
+        },
+        {
+          "key": "identify-eye-finger",
+          "title": "Identify both targets",
+          "title_i18n": {
+            "en": "Identify both targets",
+            "pt": "Identificar os dois alvos"
+          },
+          "description": "Use reconnaissance to distinguish the targets from their escorts instead of firing at an uncertain contact.",
+          "description_i18n": {
+            "en": "Use reconnaissance to distinguish the targets from their escorts instead of firing at an uncertain contact.",
+            "pt": "Use o reconhecimento para distinguir os alvos dos acompanhantes antes de atacar um contato incerto."
+          }
+        },
+        {
+          "key": "resolve-first-renegade",
+          "title": "Deal with the first target",
+          "title_i18n": {
+            "en": "Deal with the first target",
+            "pt": "Lidar com o primeiro alvo"
+          },
+          "description": "Choose a lethal or nonlethal approach and keep nearby guards from interrupting it.",
+          "description_i18n": {
+            "en": "Choose a lethal or nonlethal approach and keep nearby guards from interrupting it.",
+            "pt": "Escolha uma abordagem letal ou não letal e impeça que os guardas próximos atrapalhem."
+          }
+        },
+        {
+          "key": "resolve-second-renegade",
+          "title": "Reach the second target",
+          "title_i18n": {
+            "en": "Reach the second target",
+            "pt": "Alcançar o segundo alvo"
+          },
+          "description": "Recheck patrol positions after the first objective and approach the remaining target carefully.",
+          "description_i18n": {
+            "en": "Recheck patrol positions after the first objective and approach the remaining target carefully.",
+            "pt": "Confira as patrulhas após o primeiro objetivo e aproxime-se do alvo restante com cuidado."
+          }
+        },
+        {
+          "key": "extract-both-renegades",
+          "title": "Try the live-extraction objective",
+          "title_i18n": {
+            "en": "Try the live-extraction objective",
+            "pt": "Tentar a extração dos dois alvos vivos"
+          },
+          "description": "Replay for the optional capture goal and verify that both targets leave the mission alive.",
+          "description_i18n": {
+            "en": "Replay for the optional capture goal and verify that both targets leave the mission alive.",
+            "pt": "Repita a missão para cumprir o objetivo opcional de captura e confirme a saída dos dois alvos vivos."
+          },
+          "details": "For Depth, both designated targets must survive and leave the mission with you. Use the target photographs and binoculars to avoid confusing them with escorts. Tranquilize or subdue each target, clear the surrounding guards and move the captive to an extraction route. Helicopter pickups are convenient; carrying a living target out in a vehicle also supports the capture objective. Do not replace a capture with a lethal shot just because the normal mission allows elimination. Verify both extractions before ending the operation.",
+          "details_i18n": {
+            "en": "For Depth, both designated targets must survive and leave the mission with you. Use the target photographs and binoculars to avoid confusing them with escorts. Tranquilize or subdue each target, clear the surrounding guards and move the captive to an extraction route. Helicopter pickups are convenient; carrying a living target out in a vehicle also supports the capture objective. Do not replace a capture with a lethal shot just because the normal mission allows elimination. Verify both extractions before ending the operation.",
+            "pt": "Para Depth, os dois alvos designados precisam sobreviver e sair da missão com você. Use as fotos e os binóculos para não confundi-los com os acompanhantes. Tranquilize ou domine cada alvo, afaste os guardas próximos e leve o prisioneiro à rota de extração. O helicóptero é conveniente; sair de veículo com um alvo vivo também serve para a captura. Não substitua a captura por um disparo letal só porque a missão comum permite eliminar os alvos. Confirme as duas extrações antes de encerrar."
+          }
+        },
+        {
+          "key": "clear-renegade-side-op",
+          "title": "Complete the Side Op",
+          "title_i18n": {
+            "en": "Complete the Side Op",
+            "pt": "Concluir a Side Op"
+          },
+          "description": "Leave the mission area after resolving both objectives and inspect the result screen.",
+          "description_i18n": {
+            "en": "Leave the mission area after resolving both objectives and inspect the result screen.",
+            "pt": "Saia da área da missão após resolver os dois objetivos e confira o resultado."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "intel-operative-rescue",
+      "title": "Side Op: Intel Operative Rescue",
+      "title_i18n": {
+        "en": "Side Op: Intel Operative Rescue",
+        "pt": "Side Op: Intel Operative Rescue"
+      },
+      "items": [
+        {
+          "key": "start-operative-rescue",
+          "title": "Begin Intel Operative Rescue",
+          "title_i18n": {
+            "en": "Begin Intel Operative Rescue",
+            "pt": "Iniciar Intel Operative Rescue"
+          },
+          "description": "Review the helicopter-support briefing and identify the weapons available during the flight.",
+          "description_i18n": {
+            "en": "Review the helicopter-support briefing and identify the weapons available during the flight.",
+            "pt": "Leia as instruções de apoio aéreo e identifique as armas disponíveis durante o voo."
+          }
+        },
+        {
+          "key": "protect-running-operative",
+          "title": "Protect the escaping operative",
+          "title_i18n": {
+            "en": "Protect the escaping operative",
+            "pt": "Proteger o agente em fuga"
+          },
+          "description": "Prioritize enemies threatening the operative and follow the helicopter's changing firing angles.",
+          "description_i18n": {
+            "en": "Prioritize enemies threatening the operative and follow the helicopter's changing firing angles.",
+            "pt": "Priorize os inimigos que ameaçam o agente e acompanhe os diferentes ângulos de tiro do helicóptero."
+          }
+        },
+        {
+          "key": "manage-revolver-reloads",
+          "title": "Manage reloads between threats",
+          "title_i18n": {
+            "en": "Manage reloads between threats",
+            "pt": "Gerenciar recargas entre ameaças"
+          },
+          "description": "Use short pauses in the action to reload rather than reaching the next group with an empty weapon.",
+          "description_i18n": {
+            "en": "Use short pauses in the action to reload rather than reaching the next group with an empty weapon.",
+            "pt": "Aproveite pequenas pausas para recarregar em vez de enfrentar o próximo grupo com a arma vazia."
+          }
+        },
+        {
+          "key": "complete-ground-rescue",
+          "title": "Complete the ground pickup",
+          "title_i18n": {
+            "en": "Complete the ground pickup",
+            "pt": "Concluir o resgate em terra"
+          },
+          "description": "When the mission changes pace, follow the objective and get the operative aboard safely.",
+          "description_i18n": {
+            "en": "When the mission changes pace, follow the objective and get the operative aboard safely.",
+            "pt": "Quando o ritmo da missão mudar, siga o objetivo e embarque o agente em segurança."
+          }
+        },
+        {
+          "key": "finish-aerial-extraction",
+          "title": "Finish the aerial extraction",
+          "title_i18n": {
+            "en": "Finish the aerial extraction",
+            "pt": "Concluir a extração aérea"
+          },
+          "description": "Respond to the final threats before checking the mission result.",
+          "description_i18n": {
+            "en": "Respond to the final threats before checking the mission result.",
+            "pt": "Enfrente as últimas ameaças antes de conferir o resultado da missão."
+          }
+        },
+        {
+          "key": "try-pacifist-rescue",
+          "title": "Replay for a pacifist rescue",
+          "title_i18n": {
+            "en": "Replay for a pacifist rescue",
+            "pt": "Repetir o resgate sem mortes"
+          },
+          "description": "Attempt the mission-specific nonlethal challenge and confirm the kill total afterward.",
+          "description_i18n": {
+            "en": "Attempt the mission-specific nonlethal challenge and confirm the kill total afterward.",
+            "pt": "Tente o desafio não letal específico da missão e confira o total de mortes ao terminar."
+          },
+          "details": "Use the nonlethal Uragan-5 revolver against human enemies throughout Intel Operative Rescue, including the crew of the hostile helicopter. Reload during travel gaps so the next attack does not catch you empty. The armored vehicle encounter can be resolved with the launcher without adding a personnel kill, but avoid blasting incapacitated soldiers nearby. The mission's scripted accidents differ from directly shooting an enemy with a lethal weapon. Check the final kill count rather than assuming every visible casualty invalidated the run.",
+          "details_i18n": {
+            "en": "Use the nonlethal Uragan-5 revolver against human enemies throughout Intel Operative Rescue, including the crew of the hostile helicopter. Reload during travel gaps so the next attack does not catch you empty. The armored vehicle encounter can be resolved with the launcher without adding a personnel kill, but avoid blasting incapacitated soldiers nearby. The mission's scripted accidents differ from directly shooting an enemy with a lethal weapon. Check the final kill count rather than assuming every visible casualty invalidated the run.",
+            "pt": "Use o revólver não letal Uragan-5 contra os inimigos humanos em Intel Operative Rescue, inclusive a tripulação do helicóptero inimigo. Recarregue nos intervalos do deslocamento para não enfrentar o próximo ataque sem munição. O confronto com o veículo blindado pode ser resolvido com o lança-foguetes sem acrescentar uma morte de pessoal, mas evite atingir soldados incapacitados por perto. Os acidentes previstos pela missão diferem de atirar diretamente em alguém com arma letal. Confira o total final de mortes em vez de presumir que toda baixa visível invalidou a tentativa."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "classified-intel-acquisition",
+      "title": "Side Op: Classified Intel Acquisition",
+      "title_i18n": {
+        "en": "Side Op: Classified Intel Acquisition",
+        "pt": "Side Op: Classified Intel Acquisition"
+      },
+      "items": [
+        {
+          "key": "start-classified-intel",
+          "title": "Begin the intelligence operation",
+          "title_i18n": {
+            "en": "Begin the intelligence operation",
+            "pt": "Iniciar a operação de inteligência"
+          },
+          "description": "Read the contact briefing and study the administration area's access routes.",
+          "description_i18n": {
+            "en": "Read the contact briefing and study the administration area's access routes.",
+            "pt": "Leia as informações sobre o contato e examine os acessos à área administrativa."
+          }
+        },
+        {
+          "key": "ride-entry-truck",
+          "title": "Use the starting truck",
+          "title_i18n": {
+            "en": "Use the starting truck",
+            "pt": "Usar o caminhão inicial"
+          },
+          "description": "Observe the driver's route and remain concealed while entering the restricted area.",
+          "description_i18n": {
+            "en": "Observe the driver's route and remain concealed while entering the restricted area.",
+            "pt": "Observe a rota do motorista e permaneça escondido ao entrar na área restrita."
+          }
+        },
+        {
+          "key": "find-undercover-contact",
+          "title": "Investigate the undercover contact",
+          "title_i18n": {
+            "en": "Investigate the undercover contact",
+            "pt": "Investigar o contato infiltrado"
+          },
+          "description": "Compare the photograph with nearby soldiers and approach the intended contact discreetly.",
+          "description_i18n": {
+            "en": "Compare the photograph with nearby soldiers and approach the intended contact discreetly.",
+            "pt": "Compare a foto com os soldados próximos e aproxime-se do contato indicado discretamente."
+          }
+        },
+        {
+          "key": "recover-objective-recording",
+          "title": "Recover the objective recording",
+          "title_i18n": {
+            "en": "Recover the objective recording",
+            "pt": "Recuperar a gravação do objetivo"
+          },
+          "description": "Retrieve the requested intelligence and wait for the mission to acknowledge it.",
+          "description_i18n": {
+            "en": "Retrieve the requested intelligence and wait for the mission to acknowledge it.",
+            "pt": "Recupere a informação solicitada e espere o reconhecimento do objetivo."
+          }
+        },
+        {
+          "key": "finish-truck-exfiltration",
+          "title": "Try a truck exfiltration",
+          "title_i18n": {
+            "en": "Try a truck exfiltration",
+            "pt": "Tentar a saída de caminhão"
+          },
+          "description": "Plan a quiet departure aboard the truck and check the special completion condition.",
+          "description_i18n": {
+            "en": "Plan a quiet departure aboard the truck and check the special completion condition.",
+            "pt": "Planeje uma saída discreta a bordo do caminhão e confira a condição especial de conclusão."
+          },
+          "details": "Remain in the starting truck until it reaches the administration area. Leave only when the surroundings are safe, recover the objective tape from the watchtower and return to the truck's cargo bed. Wait for the driver to resume his route and carry you outside the mission boundary. Calling the helicopter or leaving on foot finishes a different escape and will not satisfy Infiltration. Avoid provoking a search that prevents the driver from following his normal route.",
+          "details_i18n": {
+            "en": "Remain in the starting truck until it reaches the administration area. Leave only when the surroundings are safe, recover the objective tape from the watchtower and return to the truck's cargo bed. Wait for the driver to resume his route and carry you outside the mission boundary. Calling the helicopter or leaving on foot finishes a different escape and will not satisfy Infiltration. Avoid provoking a search that prevents the driver from following his normal route.",
+            "pt": "Permaneça no caminhão inicial até ele chegar à área administrativa. Saia apenas quando os arredores estiverem seguros, recupere a fita do objetivo na torre de vigilância e volte à carroceria. Espere o motorista retomar a rota e levá-lo para fora do limite da missão. Chamar o helicóptero ou sair a pé conclui outra fuga e não cumpre Infiltration. Evite provocar uma busca que impeça o motorista de seguir o percurso normal."
+          }
+        },
+        {
+          "key": "investigate-second-recording",
+          "title": "Investigate the additional recording",
+          "title_i18n": {
+            "en": "Investigate the additional recording",
+            "pt": "Investigar a gravação adicional"
+          },
+          "description": "Use a separate collection run to follow the remaining intelligence leads before leaving.",
+          "description_i18n": {
+            "en": "Use a separate collection run to follow the remaining intelligence leads before leaving.",
+            "pt": "Use uma tentativa dedicada à coleta para seguir as pistas restantes antes de sair."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "destroy-anti-air-emplacements",
+      "title": "Side Op: Destroy the Anti-Air Emplacements",
+      "title_i18n": {
+        "en": "Side Op: Destroy the Anti-Air Emplacements",
+        "pt": "Side Op: Destroy the Anti-Air Emplacements"
+      },
+      "items": [
+        {
+          "key": "survey-anti-air-objectives",
+          "title": "Survey the anti-aircraft objectives",
+          "title_i18n": {
+            "en": "Survey the anti-aircraft objectives",
+            "pt": "Observar os objetivos antiaéreos"
+          },
+          "description": "Mark the required emplacements and plan a route between them before triggering major destruction.",
+          "description_i18n": {
+            "en": "Mark the required emplacements and plan a route between them before triggering major destruction.",
+            "pt": "Marque as posições exigidas e planeje uma rota entre elas antes de iniciar grandes explosões."
+          }
+        },
+        {
+          "key": "prepare-demolition-route",
+          "title": "Prepare the demolition route",
+          "title_i18n": {
+            "en": "Prepare the demolition route",
+            "pt": "Preparar a rota de demolição"
+          },
+          "description": "Check your explosives, nearby guards and escape options before committing to the attack.",
+          "description_i18n": {
+            "en": "Check your explosives, nearby guards and escape options before committing to the attack.",
+            "pt": "Confira os explosivos, os guardas e as opções de fuga antes de iniciar o ataque."
+          }
+        },
+        {
+          "key": "rescue-anti-air-prisoners",
+          "title": "Attempt the prisoner-rescue objective",
+          "title_i18n": {
+            "en": "Attempt the prisoner-rescue objective",
+            "pt": "Tentar o objetivo de resgate dos prisioneiros"
+          },
+          "description": "Search for captives and arrange helicopter pickups during a dedicated rescue run.",
+          "description_i18n": {
+            "en": "Search for captives and arrange helicopter pickups during a dedicated rescue run.",
+            "pt": "Procure os prisioneiros e organize os embarques de helicóptero em uma tentativa dedicada ao resgate."
+          },
+          "details": "Extraction requires four helicopter rescues in this Side Op: three captives in the eastern prison camp and one in the administration basement where Paz was held. Handle these before completing the demolition sequence, which adds pressure and a timed departure. Carry them to the coastal pickup and confirm every passenger has boarded. Vehicle escape alone does not replace the trophy's helicopter requirement. After the four rescues, return to the emplacements and finish the remaining mission objectives.",
+          "details_i18n": {
+            "en": "Extraction requires four helicopter rescues in this Side Op: three captives in the eastern prison camp and one in the administration basement where Paz was held. Handle these before completing the demolition sequence, which adds pressure and a timed departure. Carry them to the coastal pickup and confirm every passenger has boarded. Vehicle escape alone does not replace the trophy's helicopter requirement. After the four rescues, return to the emplacements and finish the remaining mission objectives.",
+            "pt": "Extraction exige quatro resgates de helicóptero nesta Side Op: três prisioneiros nas celas do leste e um no subsolo administrativo onde Paz estava. Resolva isso antes de concluir a sequência de demolição, que aumenta a pressão e impõe uma saída com tempo limitado. Leve-os ao embarque na costa e confirme a entrada de cada passageiro. Fugir de veículo não substitui a exigência de helicóptero do troféu. Após os quatro resgates, volte às posições antiaéreas e conclua os objetivos restantes."
+          }
+        },
+        {
+          "key": "destroy-required-emplacements",
+          "title": "Destroy the required emplacements",
+          "title_i18n": {
+            "en": "Destroy the required emplacements",
+            "pt": "Destruir as posições exigidas"
+          },
+          "description": "Confirm each destroyed objective on the mission display rather than assuming every explosion counted.",
+          "description_i18n": {
+            "en": "Confirm each destroyed objective on the mission display rather than assuming every explosion counted.",
+            "pt": "Confirme cada objetivo destruído na tela da missão em vez de presumir que toda explosão contou."
+          }
+        },
+        {
+          "key": "respond-reinforcement-objective",
+          "title": "Respond to the new combat objective",
+          "title_i18n": {
+            "en": "Respond to the new combat objective",
+            "pt": "Cumprir o novo objetivo de combate"
+          },
+          "description": "Keep suitable equipment available for the escalation and obey the updated radio orders.",
+          "description_i18n": {
+            "en": "Keep suitable equipment available for the escalation and obey the updated radio orders.",
+            "pt": "Guarde equipamento adequado para a escalada e siga as novas ordens por rádio."
+          }
+        },
+        {
+          "key": "leave-anti-air-operation",
+          "title": "Leave before the operation closes",
+          "title_i18n": {
+            "en": "Leave before the operation closes",
+            "pt": "Sair antes do encerramento da operação"
+          },
+          "description": "Complete the remaining objectives and escape within the time shown by the mission.",
+          "description_i18n": {
+            "en": "Complete the remaining objectives and escape within the time shown by the mission.",
+            "pt": "Conclua os objetivos restantes e fuja dentro do tempo indicado pela missão."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "deja-vu-extra-op",
+      "title": "Extra Op: Déjà-Vu",
+      "title_i18n": {
+        "en": "Extra Op: Déjà-Vu",
+        "pt": "Extra Op: Déjà-Vu"
+      },
+      "items": [
+        {
+          "key": "unlock-deja-vu",
+          "title": "Unlock Déjà-Vu",
+          "title_i18n": {
+            "en": "Unlock Déjà-Vu",
+            "pt": "Desbloquear Déjà-Vu"
+          },
+          "description": "Complete the relevant collection goal and check the Extra Ops menu after finishing the main mission.",
+          "description_i18n": {
+            "en": "Complete the relevant collection goal and check the Extra Ops menu after finishing the main mission.",
+            "pt": "Cumpra o objetivo de coleta correspondente e confira o menu de Extra Ops após concluir a missão principal."
+          }
+        },
+        {
+          "key": "review-deja-vu-photographs",
+          "title": "Review the scene photographs",
+          "title_i18n": {
+            "en": "Review the scene photographs",
+            "pt": "Examinar as fotos das cenas"
+          },
+          "description": "Use the supplied photographs as clues and preserve objects that may be needed later.",
+          "description_i18n": {
+            "en": "Use the supplied photographs as clues and preserve objects that may be needed later.",
+            "pt": "Use as fotos fornecidas como pistas e preserve os objetos que poderão ser necessários depois."
+          }
+        },
+        {
+          "key": "recreate-first-memory-scenes",
+          "title": "Recreate the first memory scenes",
+          "title_i18n": {
+            "en": "Recreate the first memory scenes",
+            "pt": "Recriar as primeiras cenas de lembrança"
+          },
+          "description": "Investigate matching viewpoints and wait for each scene confirmation before moving on.",
+          "description_i18n": {
+            "en": "Investigate matching viewpoints and wait for each scene confirmation before moving on.",
+            "pt": "Investigue os pontos de vista correspondentes e espere a confirmação de cada cena antes de continuar."
+          }
+        },
+        {
+          "key": "recreate-all-seven-scenes",
+          "title": "Recreate all seven scenes",
+          "title_i18n": {
+            "en": "Recreate all seven scenes",
+            "pt": "Recriar as sete cenas"
+          },
+          "description": "Track the complete scene set in one run rather than ending as soon as extraction becomes possible.",
+          "description_i18n": {
+            "en": "Track the complete scene set in one run rather than ending as soon as extraction becomes possible.",
+            "pt": "Acompanhe o conjunto completo de cenas em uma tentativa em vez de sair assim que a fuga for liberada."
+          },
+          "details": "The seven photo objectives involve the surveillance camera, helicopter, searchlight item, Moai, blackout, jeep and armored vehicle. Match the photo's viewing position and wait for confirmation; simply looking at an object from afar may not count. Keep the camera, vehicle and other scene props intact until their scenes register. The generator switch and jeep route require interaction rather than observation alone. Recreate the full set before following the special exit route. The optional quiz is a separate follow-up challenge, not a substitute for any scene.",
+          "details_i18n": {
+            "en": "The seven photo objectives involve the surveillance camera, helicopter, searchlight item, Moai, blackout, jeep and armored vehicle. Match the photo's viewing position and wait for confirmation; simply looking at an object from afar may not count. Keep the camera, vehicle and other scene props intact until their scenes register. The generator switch and jeep route require interaction rather than observation alone. Recreate the full set before following the special exit route. The optional quiz is a separate follow-up challenge, not a substitute for any scene.",
+            "pt": "Os sete objetivos das fotos envolvem a câmera de vigilância, o helicóptero, o item entre holofotes, o Moai, o apagão, o jipe e o blindado. Reproduza o ponto de vista da foto e espere a confirmação; apenas olhar de longe pode não contar. Preserve a câmera, o veículo e os demais elementos até registrar suas cenas. O interruptor do gerador e o trajeto de jipe exigem interação, não apenas observação. Recrie o conjunto completo antes de seguir a saída especial. O quiz opcional é um desafio posterior separado e não substitui nenhuma cena."
+          }
+        },
+        {
+          "key": "finish-deja-vu-challenge",
+          "title": "Finish the nostalgic challenge",
+          "title_i18n": {
+            "en": "Finish the nostalgic challenge",
+            "pt": "Concluir o desafio nostálgico"
+          },
+          "description": "Follow the mission's special exit instructions and attempt the optional quiz when offered.",
+          "description_i18n": {
+            "en": "Follow the mission's special exit instructions and attempt the optional quiz when offered.",
+            "pt": "Siga as instruções especiais de saída e tente o quiz opcional quando ele for oferecido."
+          }
+        },
+        {
+          "key": "try-deja-vu-hard",
+          "title": "Revisit Déjà-Vu on Hard",
+          "title_i18n": {
+            "en": "Revisit Déjà-Vu on Hard",
+            "pt": "Revisitar Déjà-Vu no Difícil"
+          },
+          "description": "Use a later run for the higher difficulty and its additional completion rewards.",
+          "description_i18n": {
+            "en": "Use a later run for the higher difficulty and its additional completion rewards.",
+            "pt": "Use uma tentativa posterior para a dificuldade maior e suas recompensas adicionais."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "jamais-vu-extra-op",
+      "title": "Extra Op: Jamais Vu",
+      "title_i18n": {
+        "en": "Extra Op: Jamais Vu",
+        "pt": "Extra Op: Jamais Vu"
+      },
+      "items": [
+        {
+          "key": "access-jamais-vu-ps4",
+          "title": "Access Jamais Vu on updated PS4",
+          "title_i18n": {
+            "en": "Access Jamais Vu on updated PS4",
+            "pt": "Acessar Jamais Vu no PS4 atualizado"
+          },
+          "description": "Check the installed update and Extra Ops list; this mission is also available on PS4 after the cross-platform update.",
+          "description_i18n": {
+            "en": "Check the installed update and Extra Ops list; this mission is also available on PS4 after the cross-platform update.",
+            "pt": "Confira a atualização instalada e a lista de Extra Ops; esta missão também está disponível no PS4 após a atualização entre plataformas."
+          }
+        },
+        {
+          "key": "learn-bioroid-identification",
+          "title": "Learn the target-identification mechanic",
+          "title_i18n": {
+            "en": "Learn the target-identification mechanic",
+            "pt": "Aprender a identificar os alvos"
+          },
+          "description": "Listen to the briefing and inspect contacts carefully before deciding how to neutralize them.",
+          "description_i18n": {
+            "en": "Listen to the briefing and inspect contacts carefully before deciding how to neutralize them.",
+            "pt": "Ouça as instruções e examine os contatos com cuidado antes de decidir como neutralizá-los."
+          },
+          "details": "This updated PS4 Extra Op is accessed through the XOF-patch unlock route after the main mission; it is not limited to the original Xbox release. During infiltration, inspect soldiers with binoculars: ordinary humans appear blue, while the green-glowing contacts are Snatchers. Neutralize humans nonlethally and eliminate the disguised machines. Track the remaining targets before returning to the helicopter, then prepare for the defense sequence.",
+          "details_i18n": {
+            "en": "This updated PS4 Extra Op is accessed through the XOF-patch unlock route after the main mission; it is not limited to the original Xbox release. During infiltration, inspect soldiers with binoculars: ordinary humans appear blue, while the green-glowing contacts are Snatchers. Neutralize humans nonlethally and eliminate the disguised machines. Track the remaining targets before returning to the helicopter, then prepare for the defense sequence.",
+            "pt": "Esta Extra Op do PS4 atualizado usa o desbloqueio dos emblemas XOF após a missão principal; ela não se limita à edição original de Xbox. Durante a infiltração, examine os soldados pelos binóculos: humanos comuns aparecem em azul, enquanto os contatos com brilho verde são Snatchers. Neutralize os humanos sem matá-los e elimine as máquinas disfarçadas. Acompanhe os alvos restantes antes de voltar ao helicóptero e prepare-se para a sequência de defesa."
+          }
+        },
+        {
+          "key": "clear-jamais-vu-infiltration",
+          "title": "Clear the infiltration objectives",
+          "title_i18n": {
+            "en": "Clear the infiltration objectives",
+            "pt": "Cumprir os objetivos de infiltração"
+          },
+          "description": "Track the remaining targets and avoid treating every soldier as the same type of enemy.",
+          "description_i18n": {
+            "en": "Track the remaining targets and avoid treating every soldier as the same type of enemy.",
+            "pt": "Acompanhe os alvos restantes e evite tratar todos os soldados como o mesmo tipo de inimigo."
+          }
+        },
+        {
+          "key": "prepare-jamais-vu-extraction",
+          "title": "Prepare the extraction attempt",
+          "title_i18n": {
+            "en": "Prepare the extraction attempt",
+            "pt": "Preparar a tentativa de extração"
+          },
+          "description": "Resupply and check cover before approaching the pickup objective.",
+          "description_i18n": {
+            "en": "Resupply and check cover before approaching the pickup objective.",
+            "pt": "Reabasteça e confira as coberturas antes de se aproximar do objetivo de embarque."
+          }
+        },
+        {
+          "key": "finish-jamais-vu-defense",
+          "title": "Finish the final defense",
+          "title_i18n": {
+            "en": "Finish the final defense",
+            "pt": "Concluir a defesa final"
+          },
+          "description": "Respond to the new waves, protect the extraction and finish the updated mission's result screen.",
+          "description_i18n": {
+            "en": "Respond to the new waves, protect the extraction and finish the updated mission's result screen.",
+            "pt": "Enfrente as novas ondas, proteja a extração e conclua a missão até a tela de resultado."
+          }
+        },
+        {
+          "key": "replay-jamais-vu-cleanly",
+          "title": "Replay Jamais Vu more cleanly",
+          "title_i18n": {
+            "en": "Replay Jamais Vu more cleanly",
+            "pt": "Repetir Jamais Vu com mais precisão"
+          },
+          "description": "Improve identification and infiltration in a later run without making this extra mission a story requirement.",
+          "description_i18n": {
+            "en": "Improve identification and infiltration in a later run without making this extra mission a story requirement.",
+            "pt": "Melhore a identificação e a infiltração em outra tentativa sem tratar esta missão extra como requisito da história."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "aggregate-patches-and-recordings",
+      "title": "Aggregate patches and recordings",
+      "title_i18n": {
+        "en": "Aggregate patches and recordings",
+        "pt": "Emblemas e gravações: metas agregadas"
+      },
+      "items": [
+        {
+          "key": "collect-nine-xof-patches",
+          "title": "Collect all nine XOF patches",
+          "title_i18n": {
+            "en": "Collect all nine XOF patches",
+            "pt": "Coletar os nove emblemas XOF"
+          },
+          "description": "Use a dedicated main-mission search and verify the complete set; this is an aggregate goal, not nine individual location markers.",
+          "description_i18n": {
+            "en": "Use a dedicated main-mission search and verify the complete set; this is an aggregate goal, not nine individual location markers.",
+            "pt": "Faça uma busca dedicada na missão principal e confira o conjunto completo; esta é uma meta agregada, não nove marcadores individuais."
+          }
+        },
+        {
+          "key": "recover-unusual-xof-patch",
+          "title": "Investigate the unusual XOF patch",
+          "title_i18n": {
+            "en": "Investigate the unusual XOF patch",
+            "pt": "Investigar o emblema XOF incomum"
+          },
+          "description": "If the normal search leaves one patch missing, inspect the optional guidance for the special interaction.",
+          "description_i18n": {
+            "en": "If the normal search leaves one patch missing, inspect the optional guidance for the special interaction.",
+            "pt": "Se a busca comum deixar um emblema faltando, consulte a orientação opcional sobre a interação especial."
+          },
+          "details": "One of the nine patches is attached to Snake rather than lying at a normal search location. Find an open, safe patch of ground, go prone, aim and roll repeatedly until the short discovery sequence plays. Pick up the dislodged patch afterward; triggering the sequence alone does not replace collecting it. The other eight are ordinary pickups around Camp Omega during Ground Zeroes. Reach a checkpoint to preserve collection progress, then finish the main mission to receive the related unlocks.",
+          "details_i18n": {
+            "en": "One of the nine patches is attached to Snake rather than lying at a normal search location. Find an open, safe patch of ground, go prone, aim and roll repeatedly until the short discovery sequence plays. Pick up the dislodged patch afterward; triggering the sequence alone does not replace collecting it. The other eight are ordinary pickups around Camp Omega during Ground Zeroes. Reach a checkpoint to preserve collection progress, then finish the main mission to receive the related unlocks.",
+            "pt": "Um dos nove emblemas está preso a Snake, em vez de estar em um ponto comum de busca. Encontre um trecho aberto e seguro, deite-se, mire e role repetidamente até ocorrer a breve cena de descoberta. Recolha o emblema solto em seguida; apenas acionar a cena não substitui a coleta. Os outros oito são itens comuns espalhados por Camp Omega durante Ground Zeroes. Alcance um checkpoint para preservar a coleta e termine a missão principal para receber os desbloqueios correspondentes."
+          }
+        },
+        {
+          "key": "collect-main-mission-recordings",
+          "title": "Collect the main-mission recordings",
+          "title_i18n": {
+            "en": "Collect the main-mission recordings",
+            "pt": "Coletar as gravações da missão principal"
+          },
+          "description": "Plan separate searches when needed and compare your tape list after each successful pickup.",
+          "description_i18n": {
+            "en": "Plan separate searches when needed and compare your tape list after each successful pickup.",
+            "pt": "Planeje buscas separadas quando necessário e compare a lista de fitas após cada coleta salva."
+          },
+          "details": "Some main-mission recordings depend on rescue order, so use separate collection runs instead of forcing everything into your first clear. Chico's Tape 5 is available near the basement approach before rescuing Chico; returning afterward can miss its window. The escaped prisoner's rescue awards another recording, while other tapes are physical pickups in the camp. Check each named entry in your library and reach a checkpoint after pickups. Restart the mission when a timing-dependent tape is absent; the loss is recoverable.",
+          "details_i18n": {
+            "en": "Some main-mission recordings depend on rescue order, so use separate collection runs instead of forcing everything into your first clear. Chico's Tape 5 is available near the basement approach before rescuing Chico; returning afterward can miss its window. The escaped prisoner's rescue awards another recording, while other tapes are physical pickups in the camp. Check each named entry in your library and reach a checkpoint after pickups. Restart the mission when a timing-dependent tape is absent; the loss is recoverable.",
+            "pt": "Algumas gravações da missão principal dependem da ordem dos resgates; use tentativas separadas em vez de tentar reunir tudo na primeira conclusão. Chico's Tape 5 fica perto do acesso ao subsolo antes do resgate de Chico; voltar depois pode perder essa oportunidade. O resgate do prisioneiro fugitivo concede outra gravação, enquanto outras fitas são itens físicos na base. Confira os nomes na coleção e alcance um checkpoint após coletá-las. Reinicie a missão se uma fita condicionada ao momento não aparecer; a perda pode ser recuperada."
+          }
+        },
+        {
+          "key": "collect-side-op-recordings",
+          "title": "Collect the Side Op recordings",
+          "title_i18n": {
+            "en": "Collect the Side Op recordings",
+            "pt": "Coletar as gravações das Side Ops"
+          },
+          "description": "Check the four Side Ops for their mission-specific pickups and earned recordings.",
+          "description_i18n": {
+            "en": "Check the four Side Ops for their mission-specific pickups and earned recordings.",
+            "pt": "Procure nas quatro Side Ops suas gravações específicas, coletadas ou recebidas como recompensa."
+          }
+        },
+        {
+          "key": "collect-extra-op-recordings",
+          "title": "Collect the Extra Op recordings",
+          "title_i18n": {
+            "en": "Collect the Extra Op recordings",
+            "pt": "Coletar as gravações das Extra Ops"
+          },
+          "description": "Check both updated Extra Ops for music tapes while keeping the original PS4 trophy scope separate.",
+          "description_i18n": {
+            "en": "Check both updated Extra Ops for music tapes while keeping the original PS4 trophy scope separate.",
+            "pt": "Procure fitas musicais nas duas Extra Ops atualizadas, distinguindo o escopo dos troféus originais de PS4."
+          }
+        },
+        {
+          "key": "claim-hard-completion-recording",
+          "title": "Claim the Hard-completion recording",
+          "title_i18n": {
+            "en": "Claim the Hard-completion recording",
+            "pt": "Obter a gravação de conclusão no Difícil"
+          },
+          "description": "Complete the required original mission set on Hard and inspect the resulting tape reward.",
+          "description_i18n": {
+            "en": "Complete the required original mission set on Hard and inspect the resulting tape reward.",
+            "pt": "Conclua o conjunto original de missões exigidas no Difícil e confira a fita recebida."
+          }
+        },
+        {
+          "key": "audit-recording-library",
+          "title": "Audit the recording library",
+          "title_i18n": {
+            "en": "Audit the recording library",
+            "pt": "Conferir a coleção de gravações"
+          },
+          "description": "Compare named entries in the cassette and record menus; selected guidance here does not enumerate every tape location.",
+          "description_i18n": {
+            "en": "Compare named entries in the cassette and record menus; selected guidance here does not enumerate every tape location.",
+            "pt": "Compare os nomes nos menus de fitas e registros; as orientações selecionadas aqui não enumeram todas as localizações."
+          }
+        }
+      ],
+      "kind": "collectible"
+    },
+    {
+      "key": "optional-rescue-trials-and-ranks",
+      "title": "Optional rescues, trials and ranks",
+      "title_i18n": {
+        "en": "Optional rescues, trials and ranks",
+        "pt": "Resgates, desafios e classificações opcionais"
+      },
+      "items": [
+        {
+          "key": "rescue-execution-prisoner",
+          "title": "Rescue the threatened prisoner",
+          "title_i18n": {
+            "en": "Rescue the threatened prisoner",
+            "pt": "Resgatar o prisioneiro ameaçado"
+          },
+          "description": "Return to Ground Zeroes for the time-sensitive optional rescue and confirm the helicopter extraction.",
+          "description_i18n": {
+            "en": "Return to Ground Zeroes for the time-sensitive optional rescue and confirm the helicopter extraction.",
+            "pt": "Volte a Ground Zeroes para o resgate opcional sensível ao tempo e confirme a extração de helicóptero."
+          },
+          "details": "Do this early in a dedicated Ground Zeroes run rather than after a long search. Beyond the initial perimeter, investigate the refugee camp with white tents on the western side; the escaped prisoner is inside a small wooden shelter. Neutralize immediate threats, carry him to a safe landing zone and put him aboard the helicopter. Finding or releasing him alone is insufficient: the special objective needs a successful extraction. Finish any other collection plans afterward.",
+          "details_i18n": {
+            "en": "Do this early in a dedicated Ground Zeroes run rather than after a long search. Beyond the initial perimeter, investigate the refugee camp with white tents on the western side; the escaped prisoner is inside a small wooden shelter. Neutralize immediate threats, carry him to a safe landing zone and put him aboard the helicopter. Finding or releasing him alone is insufficient: the special objective needs a successful extraction. Finish any other collection plans afterward.",
+            "pt": "Faça isso cedo em uma tentativa dedicada a Ground Zeroes, em vez de deixar para depois de uma longa busca. Após o perímetro inicial, investigue o acampamento de tendas brancas no lado oeste; o prisioneiro fugitivo está em um pequeno abrigo de madeira. Neutralize as ameaças imediatas, leve-o a um ponto seguro e embarque-o no helicóptero. Apenas encontrá-lo ou libertá-lo não basta: o objetivo especial exige uma extração concluída. Deixe outros planos de coleta para depois."
+          }
+        },
+        {
+          "key": "extract-prison-compound-captives",
+          "title": "Extract the other prison captives",
+          "title_i18n": {
+            "en": "Extract the other prison captives",
+            "pt": "Extrair os outros prisioneiros das celas"
+          },
+          "description": "Plan additional pickups without abandoning passenger safety or the main rescue objectives.",
+          "description_i18n": {
+            "en": "Plan additional pickups without abandoning passenger safety or the main rescue objectives.",
+            "pt": "Planeje embarques adicionais sem comprometer a segurança dos passageiros nem os resgates principais."
+          }
+        },
+        {
+          "key": "earn-first-s-rank",
+          "title": "Earn a first S rank",
+          "title_i18n": {
+            "en": "Earn a first S rank",
+            "pt": "Obter a primeira classificação S"
+          },
+          "description": "Pick a familiar mission, study the score breakdown and improve one major weakness at a time.",
+          "description_i18n": {
+            "en": "Pick a familiar mission, study the score breakdown and improve one major weakness at a time.",
+            "pt": "Escolha uma missão conhecida, examine a pontuação e melhore um ponto fraco importante de cada vez."
+          }
+        },
+        {
+          "key": "earn-original-mission-s-ranks",
+          "title": "Earn S ranks across the original mission set",
+          "title_i18n": {
+            "en": "Earn S ranks across the original mission set",
+            "pt": "Obter classificação S no conjunto original de missões"
+          },
+          "description": "Record an S rank in the main mission, four Side Ops and Déjà-Vu for the native PS4 trophy objective.",
+          "description_i18n": {
+            "en": "Record an S rank in the main mission, four Side Ops and Déjà-Vu for the native PS4 trophy objective.",
+            "pt": "Registre classificação S na missão principal, nas quatro Side Ops e em Déjà-Vu para o objetivo do troféu nativo de PS4."
+          }
+        },
+        {
+          "key": "unlock-normal-trials",
+          "title": "Unlock the Normal trials",
+          "title_i18n": {
+            "en": "Unlock the Normal trials",
+            "pt": "Desbloquear os desafios do Normal"
+          },
+          "description": "Open each mission's trial records and complete the prerequisite marking challenge where applicable.",
+          "description_i18n": {
+            "en": "Open each mission's trial records and complete the prerequisite marking challenge where applicable.",
+            "pt": "Abra os registros de desafios de cada missão e conclua o desafio prévio de marcação quando houver."
+          }
+        },
+        {
+          "key": "unlock-hard-trials",
+          "title": "Unlock the Hard trials",
+          "title_i18n": {
+            "en": "Unlock the Hard trials",
+            "pt": "Desbloquear os desafios do Difícil"
+          },
+          "description": "Use the Hard trial records to identify the replay needed to open the remaining entries.",
+          "description_i18n": {
+            "en": "Use the Hard trial records to identify the replay needed to open the remaining entries.",
+            "pt": "Use os registros de desafios do Difícil para identificar a repetição necessária para abrir os registros restantes."
+          }
+        },
+        {
+          "key": "complete-original-trial-unlocks",
+          "title": "Verify all original trial unlocks",
+          "title_i18n": {
+            "en": "Verify all original trial unlocks",
+            "pt": "Conferir todos os desafios originais desbloqueados"
+          },
+          "description": "Check both difficulties for the original PS4 mission set; unlocking trials differs from topping every score.",
+          "description_i18n": {
+            "en": "Check both difficulties for the original PS4 mission set; unlocking trials differs from topping every score.",
+            "pt": "Confira as duas dificuldades do conjunto original de PS4; desbloquear desafios é diferente de liderar todas as pontuações."
+          },
+          "details": "For most original missions, clear Normal once, then complete its fastest-marking trial by identifying every enemy. Avoid killing an unmarked guard, which makes that trial impossible in the current attempt. Clear Hard to open its completion-time trial, then finish another Hard run to unlock the remaining entries. Intel Operative Rescue is the on-rails exception and does not use the normal binocular-marking routine. Check both difficulty lists for Ground Zeroes, four Side Ops and Déjà-Vu. Jamais Vu's additional records are optional for the original PS4 Unlocked trophy; online ranking is unnecessary. For S ranks, Normal is sufficient: reduce wasted time, avoid kills and disable Reflex for its score bonus.",
+          "details_i18n": {
+            "en": "For most original missions, clear Normal once, then complete its fastest-marking trial by identifying every enemy. Avoid killing an unmarked guard, which makes that trial impossible in the current attempt. Clear Hard to open its completion-time trial, then finish another Hard run to unlock the remaining entries. Intel Operative Rescue is the on-rails exception and does not use the normal binocular-marking routine. Check both difficulty lists for Ground Zeroes, four Side Ops and Déjà-Vu. Jamais Vu's additional records are optional for the original PS4 Unlocked trophy; online ranking is unnecessary. For S ranks, Normal is sufficient: reduce wasted time, avoid kills and disable Reflex for its score bonus.",
+            "pt": "Na maioria das missões originais, conclua o Normal uma vez e depois cumpra o desafio de marcação rápida identificando todos os inimigos. Evite matar um guarda ainda não marcado, o que inviabiliza esse desafio na tentativa atual. Conclua o Difícil para abrir seu desafio de tempo e termine outra tentativa nessa dificuldade para liberar os registros restantes. Intel Operative Rescue é a exceção sobre trilhos e não usa a rotina comum de marcação por binóculos. Confira as duas dificuldades de Ground Zeroes, das quatro Side Ops e de Déjà-Vu. Os registros adicionais de Jamais Vu são opcionais para o troféu original Unlocked de PS4; rankings online são desnecessários. Para classificação S, o Normal basta: reduza o tempo perdido, evite mortes e desative Reflex para receber seu bônus de pontuação."
+          }
+        },
+        {
+          "key": "keep-goals-offline",
+          "title": "Finish with local mission records",
+          "title_i18n": {
+            "en": "Finish with local mission records",
+            "pt": "Concluir com os registros locais das missões"
+          },
+          "description": "Use local results and trophies; ended Ground Zeroes online services, leaderboards and save uploading are outside these goals.",
+          "description_i18n": {
+            "en": "Use local results and trophies; ended Ground Zeroes online services, leaderboards and save uploading are outside these goals.",
+            "pt": "Use resultados locais e troféus; os serviços online encerrados de Ground Zeroes, rankings e envio de save ficam fora destas metas."
+          }
+        }
+      ],
+      "kind": "side"
+    }
+  ],
+  "trophies": [
+    {
+      "key": "reunion",
+      "title": "Reunion",
+      "title_i18n": {
+        "en": "Reunion",
+        "pt": "Reunion"
+      },
+      "description": "Reach either Chico or Paz during Ground Zeroes.",
+      "description_i18n": {
+        "en": "Reach either Chico or Paz during Ground Zeroes.",
+        "pt": "Encontre Chico ou Paz durante Ground Zeroes."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "downfall",
+      "title": "Downfall",
+      "title_i18n": {
+        "en": "Downfall",
+        "pt": "Downfall"
+      },
+      "description": "Complete the Ground Zeroes story mission.",
+      "description_i18n": {
+        "en": "Complete the Ground Zeroes story mission.",
+        "pt": "Conclua a missão principal Ground Zeroes."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "genesis",
+      "title": "Genesis",
+      "title_i18n": {
+        "en": "Genesis",
+        "pt": "Genesis"
+      },
+      "description": "Finish any Side Op or Extra Op.",
+      "description_i18n": {
+        "en": "Finish any Side Op or Extra Op.",
+        "pt": "Conclua uma Side Op ou Extra Op."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "accomplished",
+      "title": "Accomplished",
+      "title_i18n": {
+        "en": "Accomplished",
+        "pt": "Accomplished"
+      },
+      "description": "Finish the original PS4 mission set: Ground Zeroes, four Side Ops and Déjà-Vu; Jamais Vu is not required.",
+      "description_i18n": {
+        "en": "Finish the original PS4 mission set: Ground Zeroes, four Side Ops and Déjà-Vu; Jamais Vu is not required.",
+        "pt": "Conclua o conjunto original de PS4: Ground Zeroes, quatro Side Ops e Déjà-Vu; Jamais Vu não é exigida."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "skilled",
+      "title": "Skilled",
+      "title_i18n": {
+        "en": "Skilled",
+        "pt": "Skilled"
+      },
+      "description": "Receive an S rank on one mission.",
+      "description_i18n": {
+        "en": "Receive an S rank on one mission.",
+        "pt": "Obtenha classificação S em uma missão."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "hero",
+      "title": "Hero",
+      "title_i18n": {
+        "en": "Hero",
+        "pt": "Hero"
+      },
+      "description": "Record S ranks in Ground Zeroes, the four Side Ops and Déjà-Vu; the later Jamais Vu addition is optional.",
+      "description_i18n": {
+        "en": "Record S ranks in Ground Zeroes, the four Side Ops and Déjà-Vu; the later Jamais Vu addition is optional.",
+        "pt": "Registre classificação S em Ground Zeroes, nas quatro Side Ops e em Déjà-Vu; a adição posterior Jamais Vu é opcional."
+      },
+      "tier": "gold"
+    },
+    {
+      "key": "rescue",
+      "title": "Rescue",
+      "title_i18n": {
+        "en": "Rescue",
+        "pt": "Rescue"
+      },
+      "description": "Evacuate the prisoner threatened with execution in Ground Zeroes by helicopter.",
+      "description_i18n": {
+        "en": "Evacuate the prisoner threatened with execution in Ground Zeroes by helicopter.",
+        "pt": "Extraia de helicóptero o prisioneiro ameaçado de execução em Ground Zeroes."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "depth",
+      "title": "Depth",
+      "title_i18n": {
+        "en": "Depth",
+        "pt": "Depth"
+      },
+      "description": "Finish Eliminate the Renegade Threat with both designated targets extracted alive.",
+      "description_i18n": {
+        "en": "Finish Eliminate the Renegade Threat with both designated targets extracted alive.",
+        "pt": "Conclua Eliminate the Renegade Threat extraindo os dois alvos vivos."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "pacifist",
+      "title": "Pacifist",
+      "title_i18n": {
+        "en": "Pacifist",
+        "pt": "Pacifist"
+      },
+      "description": "Finish Intel Operative Rescue without a player-attributed enemy kill.",
+      "description_i18n": {
+        "en": "Finish Intel Operative Rescue without a player-attributed enemy kill.",
+        "pt": "Conclua Intel Operative Rescue sem mortes de inimigos atribuídas ao jogador."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "infiltration",
+      "title": "Infiltration",
+      "title_i18n": {
+        "en": "Infiltration",
+        "pt": "Infiltration"
+      },
+      "description": "Leave Classified Intel Acquisition aboard the truck after obtaining the objective.",
+      "description_i18n": {
+        "en": "Leave Classified Intel Acquisition aboard the truck after obtaining the objective.",
+        "pt": "Saia de Classified Intel Acquisition a bordo do caminhão depois de obter o objetivo."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "extraction",
+      "title": "Extraction",
+      "title_i18n": {
+        "en": "Extraction",
+        "pt": "Extraction"
+      },
+      "description": "Evacuate all four prisoners by helicopter in Destroy the Anti-Air Emplacements.",
+      "description_i18n": {
+        "en": "Evacuate all four prisoners by helicopter in Destroy the Anti-Air Emplacements.",
+        "pt": "Extraia os quatro prisioneiros de helicóptero em Destroy the Anti-Air Emplacements."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "reminiscence",
+      "title": "Reminiscence",
+      "title_i18n": {
+        "en": "Reminiscence",
+        "pt": "Reminiscence"
+      },
+      "description": "Register all seven photo scenes during Déjà-Vu.",
+      "description_i18n": {
+        "en": "Register all seven photo scenes during Déjà-Vu.",
+        "pt": "Registre as sete cenas das fotos durante Déjà-Vu."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "unlocked",
+      "title": "Unlocked",
+      "title_i18n": {
+        "en": "Unlocked",
+        "pt": "Unlocked"
+      },
+      "description": "Open every trial in both difficulties for the original PS4 mission set; online scores and Jamais Vu trials are unnecessary.",
+      "description_i18n": {
+        "en": "Open every trial in both difficulties for the original PS4 mission set; online scores and Jamais Vu trials are unnecessary.",
+        "pt": "Libere todos os desafios nas duas dificuldades do conjunto original de PS4; pontuações online e desafios de Jamais Vu são desnecessários."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "information",
+      "title": "Information",
+      "title_i18n": {
+        "en": "Information",
+        "pt": "Information"
+      },
+      "description": "Complete the cassette collection required by the original PS4 trophy, including recordings earned as rewards.",
+      "description_i18n": {
+        "en": "Complete the cassette collection required by the original PS4 trophy, including recordings earned as rewards.",
+        "pt": "Complete a coleção de fitas exigida pelo troféu original de PS4, incluindo as gravações recebidas como recompensa."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "insignia",
+      "title": "Insignia",
+      "title_i18n": {
+        "en": "Insignia",
+        "pt": "Insignia"
+      },
+      "description": "Recover the complete set of nine XOF patches during Ground Zeroes and finish the mission.",
+      "description_i18n": {
+        "en": "Recover the complete set of nine XOF patches during Ground Zeroes and finish the mission.",
+        "pt": "Recupere os nove emblemas XOF durante Ground Zeroes e conclua a missão."
+      },
+      "tier": "bronze"
+    }
+  ],
+  "hltb_id": "17291",
+  "hltb_main_hours": 2,
+  "hltb_main_extra_hours": 7,
+  "hltb_completionist_hours": 21
+}
