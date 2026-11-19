@@ -45,7 +45,7 @@ export function GameHero({
             width={80}
             height={80}
             priority
-            className="size-14 shrink-0 rounded object-cover shadow-lg ring-1 ring-white/10 sm:size-20"
+            className="size-14 shrink-0 rounded bg-muted/50 object-contain shadow-lg ring-1 ring-white/10 sm:size-20"
           />
         )}
 

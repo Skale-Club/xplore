@@ -8,6 +8,10 @@
   "platform": "Nintendo Switch 2",
   "cover_url": "/covers/the-legend-of-zelda-ocarina-of-time-remake.png",
   "created_by": "dd5c4bf0-85ea-4986-9c04-b37e8c986150",
+  "hltb_id": "187305",
+  "hltb_main_hours": 17,
+  "hltb_main_extra_hours": 21,
+  "hltb_completionist_hours": 26,
   "categories": [
     {
       "key": "kokiri-forest",
@@ -170,7 +174,12 @@
             "en": "Stun her eye with the Slingshot when it glows red, then strike while she's down.",
             "pt": "Atordoe o olho dela com o Estilingue quando ficar vermelho e ataque enquanto ela estiver caída."
           },
-          "image_url": "https://www.youtube.com/watch?v=k1letHogXTM"
+          "image_url": "https://www.youtube.com/watch?v=k1letHogXTM",
+          "details": "Keep the Slingshot equipped and watch for an exposed eye rather than firing into her protecting limbs. Land the stun, switch to the sword and attack while she is down. Back away when she recovers instead of remaining directly beneath her next movement.\n\nWhen she climbs above you, keep looking upward and wait for another visible opening. Deal with larvae that interfere with aiming before returning to the boss. If a seed hits the armor without producing a stun, reposition and wait; repeated blind shots only waste the ammunition needed to create a real damage window.",
+          "details_i18n": {
+            "en": "Keep the Slingshot equipped and watch for an exposed eye rather than firing into her protecting limbs. Land the stun, switch to the sword and attack while she is down. Back away when she recovers instead of remaining directly beneath her next movement.\n\nWhen she climbs above you, keep looking upward and wait for another visible opening. Deal with larvae that interfere with aiming before returning to the boss. If a seed hits the armor without producing a stun, reposition and wait; repeated blind shots only waste the ammunition needed to create a real damage window.",
+            "pt": "Mantenha o Estilingue equipado e espere o olho ficar exposto, sem atirar nos membros que o protegem. Acerte o atordoamento, troque para a espada e ataque enquanto ela estiver caída. Recue quando se recuperar, em vez de permanecer embaixo do próximo movimento.\n\nQuando ela subir, continue olhando para cima e espere outra abertura visível. Elimine larvas que atrapalhem a mira antes de voltar ao chefe. Se uma semente acertar a armadura sem atordoar, mude de posição e espere; disparos às cegas só gastam a munição necessária para criar uma abertura real."
+          }
         },
         {
           "key": "claim-the-heart-container",
@@ -754,7 +763,12 @@
             "en": "Boomerang the tentacles holding it to the ceiling, then clear the jellyfish and strike the body.",
             "pt": "Acerte com o Bumerangue os tentáculos que o prendem ao teto, depois elimine as águas-vivas e ataque o corpo."
           },
-          "image_url": "https://www.youtube.com/watch?v=5uJUVtrQaAk"
+          "image_url": "https://www.youtube.com/watch?v=5uJUVtrQaAk",
+          "details": "Use the Boomerang to cut every attachment joining Barinade to the ceiling while avoiding its electrical attacks. Once the body comes loose, stay outside the rotating jellyfish ring. When the ring pauses, stun the jellyfish with the Boomerang and use the opening to clear them with the sword.\n\nAfter their protection is gone, target the exposed orange weak point with the Boomerang to stun Barinade itself. Move in for a short sword combination and retreat before it recovers. Repeat this stun-and-attack cycle rather than striking the protected body or active jellyfish.",
+          "details_i18n": {
+            "en": "Use the Boomerang to cut every attachment joining Barinade to the ceiling while avoiding its electrical attacks. Once the body comes loose, stay outside the rotating jellyfish ring. When the ring pauses, stun the jellyfish with the Boomerang and use the opening to clear them with the sword.\n\nAfter their protection is gone, target the exposed orange weak point with the Boomerang to stun Barinade itself. Move in for a short sword combination and retreat before it recovers. Repeat this stun-and-attack cycle rather than striking the protected body or active jellyfish.",
+            "pt": "Use o Bumerangue para cortar todas as ligações de Barinade com o teto enquanto evita os ataques elétricos. Quando o corpo se soltar, fique fora do anel giratório de águas-vivas. Na pausa do anel, atordoe as águas-vivas com o Bumerangue e aproveite para eliminá-las com a espada.\n\nApós remover a proteção, acerte o ponto fraco laranja exposto com o Bumerangue para atordoar o próprio Barinade. Aproxime-se para uma combinação curta e recue antes da recuperação. Repita o ciclo, sem atacar o corpo protegido nem as águas-vivas ainda ativas."
+          }
         },
         {
           "key": "claim-the-heart-container",
@@ -1007,7 +1021,12 @@
             "en": "Joelle, Beth, Amy and Meg each guard a flame that brings back the central elevator.",
             "pt": "Joelle, Beth, Amy e Meg guardam cada uma uma chama que faz o elevador central voltar."
           },
-          "image_url": "https://www.youtube.com/watch?v=UP9Qo4IKwAs"
+          "image_url": "https://www.youtube.com/watch?v=UP9Qo4IKwAs",
+          "details": "Keep the Fairy Bow ready while exploring the routes off the main hall. When you find a sister's painting, shoot it to release the Poe, then fight her to restore the corresponding flame. Return to the central hall between routes to check which torches are still dark.\n\nFor the final purple sister, block the incoming magic and identify the ghost carrying the lantern among her copies. Shoot that target to create a sword opening rather than attacking every image. Follow the encounter's changing pattern until the copies collapse and all four flames are restored, allowing the central lift to operate.",
+          "details_i18n": {
+            "en": "Keep the Fairy Bow ready while exploring the routes off the main hall. When you find a sister's painting, shoot it to release the Poe, then fight her to restore the corresponding flame. Return to the central hall between routes to check which torches are still dark.\n\nFor the final purple sister, block the incoming magic and identify the ghost carrying the lantern among her copies. Shoot that target to create a sword opening rather than attacking every image. Follow the encounter's changing pattern until the copies collapse and all four flames are restored, allowing the central lift to operate.",
+            "pt": "Mantenha o Arco das Fadas pronto ao explorar os caminhos da sala central. Ao encontrar a pintura de uma irmã, atire para libertar a Poe e enfrente-a para restaurar a chama correspondente. Volte à sala central entre as rotas para conferir quais tochas continuam apagadas.\n\nNa última irmã roxa, bloqueie a magia e identifique o fantasma com a lanterna entre as cópias. Acerte esse alvo para abrir uma oportunidade de espada, em vez de atacar todas as imagens. Acompanhe a mudança de padrão até as cópias desaparecerem e as quatro chamas voltarem, liberando o elevador central."
+          }
         },
         {
           "key": "defeat-phantom-ganon",
@@ -1362,7 +1381,12 @@
             "en": "Play it at the Triforce symbols to switch between the three water heights.",
             "pt": "Toque nos símbolos da Triforce para alternar entre as três alturas de água."
           },
-          "image_url": "https://www.youtube.com/watch?v=iSSB0LKTpig"
+          "image_url": "https://www.youtube.com/watch?v=iSSB0LKTpig",
+          "details": "Keep the Iron Boots and the ocarina accessible, and note the floor and nearby doors whenever you find a royal-family crest. Stand at the marked control and play Zelda's Lullaby, then check which corridors the new height exposes. A changed water level is a routing tool, not a permanent choice.\n\nExplore newly reachable passages before changing the level again. If a doorway is now underwater, use the boots to inspect it; remove them when you need to return to the surface. Use the map to distinguish unexplored rooms from routes merely blocked by the current water height, rather than repeatedly circling the same floor.",
+          "details_i18n": {
+            "en": "Keep the Iron Boots and the ocarina accessible, and note the floor and nearby doors whenever you find a royal-family crest. Stand at the marked control and play Zelda's Lullaby, then check which corridors the new height exposes. A changed water level is a routing tool, not a permanent choice.\n\nExplore newly reachable passages before changing the level again. If a doorway is now underwater, use the boots to inspect it; remove them when you need to return to the surface. Use the map to distinguish unexplored rooms from routes merely blocked by the current water height, rather than repeatedly circling the same floor.",
+            "pt": "Mantenha as Botas de Ferro e a ocarina acessíveis e anote o andar e as portas próximas ao encontrar um brasão da família real. Posicione-se no controle marcado e toque Zelda's Lullaby; depois veja quais corredores a nova altura revela. Mudar o nível é uma ferramenta de navegação, não uma escolha permanente.\n\nExplore os caminhos liberados antes de mudar a água novamente. Se uma porta ficou submersa, use as botas para examiná-la; tire-as para voltar à superfície. Use o mapa para distinguir salas não exploradas de rotas bloqueadas apenas pela altura atual da água, evitando dar voltas pelo mesmo andar."
+          }
         },
         {
           "key": "find-the-dungeon-map-and-the-compass",
@@ -1607,7 +1631,12 @@
             "en": "Wear the Lenses of Truth to see it, stun both hands, then hit the eye.",
             "pt": "Use as Lentes da Verdade para enxergá-lo, atordoe as duas mãos e acerte o olho."
           },
-          "image_url": "https://www.youtube.com/watch?v=2rw1Tu9vmHI"
+          "image_url": "https://www.youtube.com/watch?v=2rw1Tu9vmHI",
+          "details": "Enter with arrows available and keep the visibility aid ready for tracking the body. Watch the hands independently: move away from their slams and shoot them during clear aiming opportunities. Avoid spending all your arrows on hurried shots while the arena movement disrupts your aim.\n\nOnce the hands are disabled, aim at the central eye with the bow. A successful hit staggers the body and creates the opening for sword damage. Move in quickly, attack briefly and retreat as the hands rise again. Repeat the hand-to-eye sequence instead of chasing the body while its hands are still attacking.",
+          "details_i18n": {
+            "en": "Enter with arrows available and keep the visibility aid ready for tracking the body. Watch the hands independently: move away from their slams and shoot them during clear aiming opportunities. Avoid spending all your arrows on hurried shots while the arena movement disrupts your aim.\n\nOnce the hands are disabled, aim at the central eye with the bow. A successful hit staggers the body and creates the opening for sword damage. Move in quickly, attack briefly and retreat as the hands rise again. Repeat the hand-to-eye sequence instead of chasing the body while its hands are still attacking.",
+            "pt": "Entre com flechas disponíveis e mantenha o recurso de visão pronto para acompanhar o corpo. Observe as mãos separadamente: saia das pancadas e atire quando houver uma oportunidade clara. Evite gastar todas as flechas em disparos apressados enquanto o movimento da arena atrapalha a mira.\n\nQuando as mãos estiverem neutralizadas, mire no olho central com o arco. Um acerto desequilibra o corpo e abre a chance de usar a espada. Aproxime-se rapidamente, ataque brevemente e recue quando as mãos levantarem. Repita a sequência de mãos e olho, sem perseguir o corpo enquanto as mãos ainda atacam."
+          }
         },
         {
           "key": "claim-the-heart-container",
@@ -1798,7 +1827,12 @@
             "en": "Absorb one sister's blast with the Mirror Shield and fire it back at the other, then strike the merged witch.",
             "pt": "Absorva o ataque de uma irmã com o Escudo Espelhado e devolva na outra; depois ataque a bruxa fundida."
           },
-          "image_url": "https://www.youtube.com/watch?v=uNMNu1Uj6FU"
+          "image_url": "https://www.youtube.com/watch?v=uNMNu1Uj6FU",
+          "details": "During the separate-sister phase, raise the Mirror Shield and direct the incoming beam toward the other witch. Keep adjusting your aim rather than treating an ordinary block as sufficient; the reflected element must reach the opposing sister to advance the fight.\n\nAfter they merge, the shield works differently: collect three blasts of the same element, then aim the stored release at Twinrova. Avoid catching the opposite element while building that charge. When she is stunned and falls within reach, close the distance for sword attacks, then return to a defensive position and repeat the absorption cycle.",
+          "details_i18n": {
+            "en": "During the separate-sister phase, raise the Mirror Shield and direct the incoming beam toward the other witch. Keep adjusting your aim rather than treating an ordinary block as sufficient; the reflected element must reach the opposing sister to advance the fight.\n\nAfter they merge, the shield works differently: collect three blasts of the same element, then aim the stored release at Twinrova. Avoid catching the opposite element while building that charge. When she is stunned and falls within reach, close the distance for sword attacks, then return to a defensive position and repeat the absorption cycle.",
+            "pt": "Na fase das irmãs separadas, erga o Escudo Espelhado e direcione o feixe recebido à outra bruxa. Continue ajustando a mira, sem presumir que bloquear basta; o elemento refletido precisa alcançar a irmã oposta para avançar a luta.\n\nDepois da fusão, o escudo funciona de outra forma: acumule três ataques do mesmo elemento e mire a descarga guardada em Twinrova. Evite receber o elemento oposto enquanto carrega. Quando ela ficar atordoada e cair ao seu alcance, aproxime-se para atacar com a espada; depois volte a uma posição defensiva e repita o ciclo de absorção."
+          }
         },
         {
           "key": "claim-the-heart-container",

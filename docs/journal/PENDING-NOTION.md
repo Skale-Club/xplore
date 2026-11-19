@@ -1,20 +1,26 @@
 # Pending Notion journal entries
 
-The Xplore game tracker has no Journal hub/data source configured in AGENTS.md.
-A bounded Notion search returned unrelated pages (including Xplore Solar).
-Sync this record when the correct destination is identified; do not save it to Xpot.
+Journal: https://app.notion.com/p/413b7a686121810792b5f3100ca1a56c
+
+Data source: collection://595283c9-5b88-4d7e-a0b1-a2873c646ab9
+
+Latest: view://15f984b2-c333-4584-8987-a618a4a2e6b9
+
+The original fallback records and verified links from 2026-11-09 are preserved in `2026-11-09-synced.md`.
+
+Append new full entries here only when Notion is unavailable. Preserve any unsynced records until their Notion write and read-back are verified.
 
 ## 2026-11-09 — Migrate login to Google Identity Platform
 
 Recorded at: 2026-11-09 17:58 America/New_York.
-Target data source: unresolved; Xplore game tracker Journal.
+Target data source: Xplore game tracker Journal (see hub link above).
 
 ### Properties
 
 - Title: 2026-11-09 — Migrate login to Google Identity Platform
 - Date: 2026-11-09
 - Type: Feature
-- Area: Unassigned pending the destination schema; do not create new options.
+- Area: Auth
 - Status: Partial
 - Summary: Implement Google-only Firebase sign-in, hashed server sessions and a legacy UUID-preserving RLS migration. Local tests pass; signing-key configuration, development smoke testing and an approved production cutover remain pending.
 - Agent: Codex
@@ -22,7 +28,7 @@ Target data source: unresolved; Xplore game tracker Journal.
 - Repo / Branch: vanildodesouzajr/xplore / feat/google-identity
 - Commits / PR: Local implementation commit; no push or PR. Resolve with git log on this branch.
 - Tests: Eight targeted auth tests PASS (~3.5–5.7s); auth TypeScript subset PASS; changed-file ESLint PASS; lockfile dependency validation PASS; diff whitespace check PASS. Full exact-dependency build/browser flow not run.
-- Project: Unresolved in Notion.
+- Project: Xplore
 - Decision ID: Unassigned until the Journal prefix is configured.
 - Decision Status: Owner approved Google-only sign-in and reuse of Xpot's existing Google/Firebase project in chat. Production cutover is not approved.
 
@@ -96,4 +102,4 @@ Privately configure the accepted signing key; validate against the intended deve
 database with fake data. Run the exact-dependency checks and two-user browser flow on a
 machine with enough RAM. Obtain the owner's explicit approval before production cutover;
 follow docs/GOOGLE-IDENTITY.md for backup, rollout, old-session retirement and rollback.
-Sync this record to the correct Xplore Notion Journal once its location is known.
+Sync this record to the Xplore Notion Journal using the hub link above.

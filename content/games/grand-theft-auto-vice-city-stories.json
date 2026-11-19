@@ -1,0 +1,1711 @@
+{
+  "slug": "grand-theft-auto-vice-city-stories",
+  "title": "Grand Theft Auto: Vice City Stories",
+  "title_i18n": {
+    "en": "Grand Theft Auto: Vice City Stories",
+    "pt": "Grand Theft Auto: Vice City Stories"
+  },
+  "platform": "PlayStation Portable",
+  "cover_url": "/covers/grand-theft-auto-vice-city-stories.png",
+  "created_by": "dd5c4bf0-85ea-4986-9c04-b37e8c986150",
+  "categories": [
+    {
+      "key": "fort-baxter-and-phil",
+      "title": "Fort Baxter and Phil Cassidy",
+      "title_i18n": {
+        "en": "Fort Baxter and Phil Cassidy",
+        "pt": "Fort Baxter e Phil Cassidy"
+      },
+      "items": [
+        {
+          "key": "soldier",
+          "title": "Complete Soldier",
+          "title_i18n": {
+            "en": "Complete Soldier",
+            "pt": "Conclua Soldier"
+          },
+          "description": "Complete the opening assignment and return to the barracks.",
+          "description_i18n": {
+            "en": "Complete the opening assignment and return to the barracks.",
+            "pt": "Conclua o trabalho inicial e volte ao alojamento."
+          }
+        },
+        {
+          "key": "cleaning-house",
+          "title": "Complete Cleaning House",
+          "title_i18n": {
+            "en": "Complete Cleaning House",
+            "pt": "Conclua Cleaning House"
+          },
+          "description": "Recover the requested cargo and finish the delivery.",
+          "description_i18n": {
+            "en": "Recover the requested cargo and finish the delivery.",
+            "pt": "Recupere a carga solicitada e conclua a entrega."
+          }
+        },
+        {
+          "key": "conduct-unbecoming",
+          "title": "Complete Conduct Unbecoming",
+          "title_i18n": {
+            "en": "Complete Conduct Unbecoming",
+            "pt": "Conclua Conduct Unbecoming"
+          },
+          "description": "Follow Martinez's collection instructions and the return to base.",
+          "description_i18n": {
+            "en": "Follow Martinez's collection instructions and the return to base.",
+            "pt": "Siga as instruções de busca de Martinez e o retorno à base."
+          }
+        },
+        {
+          "key": "cholo-victory",
+          "title": "Complete Cholo Victory",
+          "title_i18n": {
+            "en": "Complete Cholo Victory",
+            "pt": "Conclua Cholo Victory"
+          },
+          "description": "Help Phil track the target and complete the pursuit.",
+          "description_i18n": {
+            "en": "Help Phil track the target and complete the pursuit.",
+            "pt": "Ajude Phil a localizar o alvo e conclua a perseguição."
+          }
+        },
+        {
+          "key": "boomshine-blowout",
+          "title": "Complete Boomshine Blowout",
+          "title_i18n": {
+            "en": "Complete Boomshine Blowout",
+            "pt": "Conclua Boomshine Blowout"
+          },
+          "description": "Complete the warehouse rescue before conditions deteriorate.",
+          "description_i18n": {
+            "en": "Complete the warehouse rescue before conditions deteriorate.",
+            "pt": "Conclua o resgate no depósito antes que as condições piorem."
+          },
+          "details": "Use the forklift to recover all four crates, placing each above the truck's tailgate before releasing it. Align the forks low enough to slide under a crate, then raise the load for unloading. Collapses block routes after deliveries, so check the next usable aisle rather than repeating the same path blindly. Avoid carrying the cargo through flames and monitor the Heat meter; speed without a secure pickup only wastes the remaining window.",
+          "details_i18n": {
+            "en": "Use the forklift to recover all four crates, placing each above the truck's tailgate before releasing it. Align the forks low enough to slide under a crate, then raise the load for unloading. Collapses block routes after deliveries, so check the next usable aisle rather than repeating the same path blindly. Avoid carrying the cargo through flames and monitor the Heat meter; speed without a secure pickup only wastes the remaining window.",
+            "pt": "Use a empilhadeira para recuperar as quatro caixas, colocando cada uma acima da plataforma traseira do caminhão antes de soltá-la. Alinhe os garfos baixos para entrar sob a caixa e levante a carga para descarregar. Desabamentos bloqueiam trajetos após as entregas; confira o próximo corredor disponível em vez de repetir o mesmo caminho às cegas. Evite levar a carga pelas chamas e acompanhe o medidor Heat; correr sem prender bem a caixa só desperdiça tempo."
+          }
+        },
+        {
+          "key": "truck-stop",
+          "title": "Complete Truck Stop",
+          "title_i18n": {
+            "en": "Complete Truck Stop",
+            "pt": "Conclua Truck Stop"
+          },
+          "description": "Prepare the crew and complete the moving cargo operation.",
+          "description_i18n": {
+            "en": "Prepare the crew and complete the moving cargo operation.",
+            "pt": "Prepare a equipe e conclua a operação com a carga em movimento."
+          }
+        }
+      ]
+    },
+    {
+      "key": "marty-and-louise",
+      "title": "Marty Williams and Louise",
+      "title_i18n": {
+        "en": "Marty Williams and Louise",
+        "pt": "Marty Williams e Louise"
+      },
+      "items": [
+        {
+          "key": "shakedown",
+          "title": "Complete Shakedown",
+          "title_i18n": {
+            "en": "Complete Shakedown",
+            "pt": "Conclua Shakedown"
+          },
+          "description": "Follow the shop intimidation conditions and protect the operation.",
+          "description_i18n": {
+            "en": "Follow the shop intimidation conditions and protect the operation.",
+            "pt": "Siga as condições de intimidação das lojas e proteja a operação."
+          }
+        },
+        {
+          "key": "fear-the-repo",
+          "title": "Complete Fear the Repo",
+          "title_i18n": {
+            "en": "Complete Fear the Repo",
+            "pt": "Conclua Fear the Repo"
+          },
+          "description": "Recover the marked vehicles and deliver them intact.",
+          "description_i18n": {
+            "en": "Recover the marked vehicles and deliver them intact.",
+            "pt": "Recupere os veículos marcados e entregue-os inteiros."
+          }
+        },
+        {
+          "key": "waking-up-the-neighbors",
+          "title": "Complete Waking Up the Neighbors",
+          "title_i18n": {
+            "en": "Complete Waking Up the Neighbors",
+            "pt": "Conclua Waking Up the Neighbors"
+          },
+          "description": "Prepare the requested equipment and complete the marked attacks.",
+          "description_i18n": {
+            "en": "Prepare the requested equipment and complete the marked attacks.",
+            "pt": "Prepare o equipamento solicitado e conclua os ataques marcados."
+          }
+        },
+        {
+          "key": "o-brothel-where-art-thou",
+          "title": "Complete O, Brothel, Where Art Thou?",
+          "title_i18n": {
+            "en": "Complete O, Brothel, Where Art Thou?",
+            "pt": "Conclua O, Brothel, Where Art Thou?"
+          },
+          "description": "Complete the guarded property operation.",
+          "description_i18n": {
+            "en": "Complete the guarded property operation.",
+            "pt": "Conclua a operação no imóvel vigiado."
+          }
+        },
+        {
+          "key": "got-protection",
+          "title": "Complete Got Protection?",
+          "title_i18n": {
+            "en": "Complete Got Protection?",
+            "pt": "Conclua Got Protection?"
+          },
+          "description": "Protect the workers and finish the changing transport objectives.",
+          "description_i18n": {
+            "en": "Protect the workers and finish the changing transport objectives.",
+            "pt": "Proteja as trabalhadoras e conclua os objetivos de transporte que mudam."
+          }
+        },
+        {
+          "key": "when-funday-comes",
+          "title": "Complete When Funday Comes",
+          "title_i18n": {
+            "en": "Complete When Funday Comes",
+            "pt": "Conclua When Funday Comes"
+          },
+          "description": "Win the quad-bike event with Louise.",
+          "description_i18n": {
+            "en": "Win the quad-bike event with Louise.",
+            "pt": "Vença o evento de quadriciclos com Louise."
+          }
+        },
+        {
+          "key": "marked-men",
+          "title": "Complete Marked Men",
+          "title_i18n": {
+            "en": "Complete Marked Men",
+            "pt": "Conclua Marked Men"
+          },
+          "description": "Protect Phil and complete the dangerous collection.",
+          "description_i18n": {
+            "en": "Protect Phil and complete the dangerous collection.",
+            "pt": "Proteja Phil e conclua a coleta perigosa."
+          }
+        },
+        {
+          "key": "takin-out-the-white-trash",
+          "title": "Complete Takin' Out the White-Trash",
+          "title_i18n": {
+            "en": "Complete Takin' Out the White-Trash",
+            "pt": "Conclua Takin' Out the White-Trash"
+          },
+          "description": "Support Louise through the trailer-park confrontation.",
+          "description_i18n": {
+            "en": "Support Louise through the trailer-park confrontation.",
+            "pt": "Apoie Louise durante o confronto no parque de trailers."
+          }
+        },
+        {
+          "key": "d-i-v-o-r-c-e",
+          "title": "Complete D.I.V.O.R.C.E.",
+          "title_i18n": {
+            "en": "Complete D.I.V.O.R.C.E.",
+            "pt": "Conclua D.I.V.O.R.C.E."
+          },
+          "description": "Complete the rescue and protect the escape.",
+          "description_i18n": {
+            "en": "Complete the rescue and protect the escape.",
+            "pt": "Conclua o resgate e proteja a fuga."
+          }
+        },
+        {
+          "key": "to-victor-the-spoils",
+          "title": "Complete To Victor, the Spoils",
+          "title_i18n": {
+            "en": "Complete To Victor, the Spoils",
+            "pt": "Conclua To Victor, the Spoils"
+          },
+          "description": "Complete the property takeover and its business introduction.",
+          "description_i18n": {
+            "en": "Complete the property takeover and its business introduction.",
+            "pt": "Conclua a tomada do imóvel e a introdução aos negócios."
+          }
+        }
+      ]
+    },
+    {
+      "key": "lance-and-umberto",
+      "title": "Lance arrives and Umberto's jobs",
+      "title_i18n": {
+        "en": "Lance arrives and Umberto's jobs",
+        "pt": "A chegada de Lance e os trabalhos de Umberto"
+      },
+      "items": [
+        {
+          "key": "jive-drive",
+          "title": "Complete Jive Drive",
+          "title_i18n": {
+            "en": "Complete Jive Drive",
+            "pt": "Conclua Jive Drive"
+          },
+          "description": "Protect the getaway through the extended pursuit.",
+          "description_i18n": {
+            "en": "Protect the getaway through the extended pursuit.",
+            "pt": "Proteja a fuga durante a perseguição prolongada."
+          }
+        },
+        {
+          "key": "hose-the-hoes",
+          "title": "Complete Hose the Hoes",
+          "title_i18n": {
+            "en": "Complete Hose the Hoes",
+            "pt": "Conclua Hose the Hoes"
+          },
+          "description": "Respond to Louise's emergency and complete the rescue.",
+          "description_i18n": {
+            "en": "Respond to Louise's emergency and complete the rescue.",
+            "pt": "Atenda à emergência de Louise e conclua o resgate."
+          }
+        },
+        {
+          "key": "robbing-the-cradle",
+          "title": "Complete Robbing the Cradle",
+          "title_i18n": {
+            "en": "Complete Robbing the Cradle",
+            "pt": "Conclua Robbing the Cradle"
+          },
+          "description": "Follow the surveillance and resolve the marked threat.",
+          "description_i18n": {
+            "en": "Follow the surveillance and resolve the marked threat.",
+            "pt": "Siga a vigilância e resolva a ameaça marcada."
+          }
+        },
+        {
+          "key": "nice-package",
+          "title": "Complete Nice Package",
+          "title_i18n": {
+            "en": "Complete Nice Package",
+            "pt": "Conclua Nice Package"
+          },
+          "description": "Recover and deliver the contested package.",
+          "description_i18n": {
+            "en": "Recover and deliver the contested package.",
+            "pt": "Recupere e entregue o pacote disputado."
+          }
+        },
+        {
+          "key": "balls",
+          "title": "Complete Balls",
+          "title_i18n": {
+            "en": "Complete Balls",
+            "pt": "Conclua Balls"
+          },
+          "description": "Complete Umberto's driving and pickup challenge.",
+          "description_i18n": {
+            "en": "Complete Umberto's driving and pickup challenge.",
+            "pt": "Conclua o desafio de direção e coleta de Umberto."
+          }
+        },
+        {
+          "key": "papi-don-t-screech",
+          "title": "Complete Papi Don't Screech",
+          "title_i18n": {
+            "en": "Complete Papi Don't Screech",
+            "pt": "Conclua Papi Don't Screech"
+          },
+          "description": "Transport the passenger while respecting the mission's driving conditions.",
+          "description_i18n": {
+            "en": "Transport the passenger while respecting the mission's driving conditions.",
+            "pt": "Transporte o passageiro respeitando as condições de direção da missão."
+          }
+        },
+        {
+          "key": "havana-good-time",
+          "title": "Complete Havana Good Time",
+          "title_i18n": {
+            "en": "Complete Havana Good Time",
+            "pt": "Conclua Havana Good Time"
+          },
+          "description": "Protect the operation and recover the requested supplies.",
+          "description_i18n": {
+            "en": "Protect the operation and recover the requested supplies.",
+            "pt": "Proteja a operação e recupere os suprimentos solicitados."
+          }
+        }
+      ]
+    },
+    {
+      "key": "forbes-and-mainland-exit",
+      "title": "Forbes and the mainland departure",
+      "title_i18n": {
+        "en": "Forbes and the mainland departure",
+        "pt": "Forbes e a saída do continente"
+      },
+      "items": [
+        {
+          "key": "the-audition",
+          "title": "Complete The Audition",
+          "title_i18n": {
+            "en": "Complete The Audition",
+            "pt": "Conclua The Audition"
+          },
+          "description": "Follow Lance's audition and complete the pursuit.",
+          "description_i18n": {
+            "en": "Follow Lance's audition and complete the pursuit.",
+            "pt": "Acompanhe o teste de Lance e conclua a perseguição."
+          }
+        },
+        {
+          "key": "money-for-nothing",
+          "title": "Complete Money for Nothing",
+          "title_i18n": {
+            "en": "Complete Money for Nothing",
+            "pt": "Conclua Money for Nothing"
+          },
+          "description": "Complete the van operation without losing the cargo.",
+          "description_i18n": {
+            "en": "Complete the van operation without losing the cargo.",
+            "pt": "Conclua a operação com a van sem perder a carga."
+          }
+        },
+        {
+          "key": "caught-as-an-act",
+          "title": "Complete Caught as an Act",
+          "title_i18n": {
+            "en": "Complete Caught as an Act",
+            "pt": "Conclua Caught as an Act"
+          },
+          "description": "Follow the pursuit through its changing vehicle stages.",
+          "description_i18n": {
+            "en": "Follow the pursuit through its changing vehicle stages.",
+            "pt": "Siga a perseguição nas mudanças de veículos."
+          }
+        },
+        {
+          "key": "leap-and-bound",
+          "title": "Complete Leap and Bound",
+          "title_i18n": {
+            "en": "Complete Leap and Bound",
+            "pt": "Conclua Leap and Bound"
+          },
+          "description": "Track the cargo operation and complete its recovery.",
+          "description_i18n": {
+            "en": "Track the cargo operation and complete its recovery.",
+            "pt": "Acompanhe a operação de carga e conclua a recuperação."
+          }
+        },
+        {
+          "key": "the-bum-deal",
+          "title": "Complete The Bum Deal",
+          "title_i18n": {
+            "en": "Complete The Bum Deal",
+            "pt": "Conclua The Bum Deal"
+          },
+          "description": "Follow the information lead and stop the departing target.",
+          "description_i18n": {
+            "en": "Follow the information lead and stop the departing target.",
+            "pt": "Siga a pista e detenha o alvo que está partindo."
+          }
+        },
+        {
+          "key": "snitch-hitch",
+          "title": "Complete Snitch Hitch",
+          "title_i18n": {
+            "en": "Complete Snitch Hitch",
+            "pt": "Conclua Snitch Hitch"
+          },
+          "description": "Complete the airport interception and recovery.",
+          "description_i18n": {
+            "en": "Complete the airport interception and recovery.",
+            "pt": "Conclua a interceptação e a recuperação no aeroporto."
+          }
+        },
+        {
+          "key": "from-zero-to-hero",
+          "title": "Complete From Zero to Hero",
+          "title_i18n": {
+            "en": "Complete From Zero to Hero",
+            "pt": "Conclua From Zero to Hero"
+          },
+          "description": "Complete the port operation and the crossing to the eastern island.",
+          "description_i18n": {
+            "en": "Complete the port operation and the crossing to the eastern island.",
+            "pt": "Conclua a operação no porto e a travessia até a ilha leste."
+          }
+        }
+      ]
+    },
+    {
+      "key": "ocean-beach-and-mendez",
+      "title": "Ocean Beach and the Mendez brothers",
+      "title_i18n": {
+        "en": "Ocean Beach and the Mendez brothers",
+        "pt": "Ocean Beach e os irmãos Mendez"
+      },
+      "items": [
+        {
+          "key": "brawn-of-the-dead",
+          "title": "Complete Brawn of the Dead",
+          "title_i18n": {
+            "en": "Complete Brawn of the Dead",
+            "pt": "Conclua Brawn of the Dead"
+          },
+          "description": "Complete the film work while following each staged objective.",
+          "description_i18n": {
+            "en": "Complete the film work while following each staged objective.",
+            "pt": "Conclua o trabalho de filmagem seguindo cada objetivo encenado."
+          }
+        },
+        {
+          "key": "accidents-will-happen",
+          "title": "Complete Accidents Will Happen",
+          "title_i18n": {
+            "en": "Complete Accidents Will Happen",
+            "pt": "Conclua Accidents Will Happen"
+          },
+          "description": "Complete Reni's driving sequence and protect the filming.",
+          "description_i18n": {
+            "en": "Complete Reni's driving sequence and protect the filming.",
+            "pt": "Conclua a sequência de direção de Reni e proteja a filmagem."
+          }
+        },
+        {
+          "key": "blitzkrieg",
+          "title": "Complete Blitzkrieg",
+          "title_i18n": {
+            "en": "Complete Blitzkrieg",
+            "pt": "Conclua Blitzkrieg"
+          },
+          "description": "Defend the business with Lance once the mission is available.",
+          "description_i18n": {
+            "en": "Defend the business with Lance once the mission is available.",
+            "pt": "Defenda o negócio com Lance quando a missão estiver disponível."
+          },
+          "details": "You need five owned empire sites before this mission can start. Clearing an enemy property is only the first step: purchase and establish your business afterward so it counts as owned. You do not need all thirty sites or every business reputation rank for this story gate. Arrive with armor and ammunition, then protect Lance and watch both approaches during the defense.",
+          "details_i18n": {
+            "en": "You need five owned empire sites before this mission can start. Clearing an enemy property is only the first step: purchase and establish your business afterward so it counts as owned. You do not need all thirty sites or every business reputation rank for this story gate. Arrive with armor and ammunition, then protect Lance and watch both approaches during the defense.",
+            "pt": "É preciso possuir cinco estabelecimentos para iniciar esta missão. Esvaziar um imóvel inimigo é apenas o primeiro passo: compre-o e instale seu negócio para registrá-lo como propriedade. Este bloqueio da história não exige os trinta imóveis nem todos os níveis de reputação. Chegue com colete e munição, proteja Lance e acompanhe os dois lados durante a defesa."
+          }
+        },
+        {
+          "key": "the-mugshot-longshot",
+          "title": "Complete The Mugshot Longshot",
+          "title_i18n": {
+            "en": "Complete The Mugshot Longshot",
+            "pt": "Conclua The Mugshot Longshot"
+          },
+          "description": "Obtain the requested photographs and finish the handover.",
+          "description_i18n": {
+            "en": "Obtain the requested photographs and finish the handover.",
+            "pt": "Obtenha as fotografias solicitadas e conclua a entrega."
+          }
+        },
+        {
+          "key": "hostile-takeover",
+          "title": "Complete Hostile Takeover",
+          "title_i18n": {
+            "en": "Complete Hostile Takeover",
+            "pt": "Conclua Hostile Takeover"
+          },
+          "description": "Prepare your business progress, then complete the Mendez property operation.",
+          "description_i18n": {
+            "en": "Prepare your business progress, then complete the Mendez property operation.",
+            "pt": "Prepare o progresso dos seus negócios e conclua a operação no imóvel dos Mendez."
+          },
+          "details": "For a PSP completionist save, build your own High Roller Drugs business after From Zero to Hero and before Hostile Takeover. Keep a separate save before that mission. A reported percentage-credit bug involves receiving the story's Drugs site before manually establishing the business type; this precaution avoids relying on the automatic award. Expand through the normal unlocked map rather than using early-island access exploits. If you already completed the mission, finish Skywolf and check the final percentage; the reported missing credit can be compensated there.",
+          "details_i18n": {
+            "en": "For a PSP completionist save, build your own High Roller Drugs business after From Zero to Hero and before Hostile Takeover. Keep a separate save before that mission. A reported percentage-credit bug involves receiving the story's Drugs site before manually establishing the business type; this precaution avoids relying on the automatic award. Expand through the normal unlocked map rather than using early-island access exploits. If you already completed the mission, finish Skywolf and check the final percentage; the reported missing credit can be compensated there.",
+            "pt": "Para um salvamento de 100% no PSP, construa seu próprio negócio Drugs de porte High Roller após From Zero to Hero e antes de Hostile Takeover. Mantenha um salvamento separado antes dessa missão. Há relatos de falha no crédito de porcentagem ao receber o imóvel Drugs da história antes de estabelecer manualmente esse tipo de negócio; essa precaução evita depender da concessão automática. Expanda pelo mapa liberado normalmente, sem explorar acessos antecipados à outra ilha. Se você já concluiu a missão, termine Skywolf e confira a porcentagem final; o crédito ausente relatado pode ser compensado nessa atividade."
+          }
+        },
+        {
+          "key": "unfriendly-competition",
+          "title": "Complete Unfriendly Competition",
+          "title_i18n": {
+            "en": "Complete Unfriendly Competition",
+            "pt": "Conclua Unfriendly Competition"
+          },
+          "description": "Resolve the rival operation and its follow-up threats.",
+          "description_i18n": {
+            "en": "Resolve the rival operation and its follow-up threats.",
+            "pt": "Resolva a operação rival e as ameaças seguintes."
+          }
+        },
+        {
+          "key": "high-wire",
+          "title": "Complete High Wire",
+          "title_i18n": {
+            "en": "Complete High Wire",
+            "pt": "Conclua High Wire"
+          },
+          "description": "Complete the helicopter lifting and transport assignment.",
+          "description_i18n": {
+            "en": "Complete the helicopter lifting and transport assignment.",
+            "pt": "Conclua o trabalho de içamento e transporte com helicóptero."
+          },
+          "details": "Approach each container slowly and place the helicopter's hanging magnet directly over its top. A captured load makes the aircraft much heavier, so gain safe clearance before turning and leave room beside nearby buildings. Follow the cargo-bay marker for the drop-off. Treat the later vehicle recovery as another careful pickup: stabilize above the target before lifting, rather than dragging the magnet sideways through obstacles.",
+          "details_i18n": {
+            "en": "Approach each container slowly and place the helicopter's hanging magnet directly over its top. A captured load makes the aircraft much heavier, so gain safe clearance before turning and leave room beside nearby buildings. Follow the cargo-bay marker for the drop-off. Treat the later vehicle recovery as another careful pickup: stabilize above the target before lifting, rather than dragging the magnet sideways through obstacles.",
+            "pt": "Aproxime-se devagar de cada contêiner e posicione o ímã pendurado no helicóptero diretamente sobre ele. A carga deixa a aeronave muito mais pesada; ganhe altura segura antes de virar e mantenha distância dos prédios próximos. Siga o marcador da área de carga para entregar. Trate a recuperação posterior do veículo como outro içamento cuidadoso: estabilize-se sobre o alvo antes de erguer, sem arrastar o ímã lateralmente pelos obstáculos."
+          }
+        }
+      ]
+    },
+    {
+      "key": "reni-gonzalez-and-lance",
+      "title": "Reni, Gonzalez and Lance",
+      "title_i18n": {
+        "en": "Reni, Gonzalez and Lance",
+        "pt": "Reni, Gonzalez e Lance"
+      },
+      "items": [
+        {
+          "key": "turn-on-tune-in-bug-out",
+          "title": "Complete Turn On, Tune In, Bug Out",
+          "title_i18n": {
+            "en": "Complete Turn On, Tune In, Bug Out",
+            "pt": "Conclua Turn On, Tune In, Bug Out"
+          },
+          "description": "Complete the communications operation and escape the response.",
+          "description_i18n": {
+            "en": "Complete the communications operation and escape the response.",
+            "pt": "Conclua a operação de comunicações e escape da reação."
+          }
+        },
+        {
+          "key": "the-colonel-s-coke",
+          "title": "Complete The Colonel's Coke",
+          "title_i18n": {
+            "en": "Complete The Colonel's Coke",
+            "pt": "Conclua The Colonel's Coke"
+          },
+          "description": "Protect the airborne cargo operation.",
+          "description_i18n": {
+            "en": "Protect the airborne cargo operation.",
+            "pt": "Proteja a operação aérea de carga."
+          }
+        },
+        {
+          "key": "kill-phil",
+          "title": "Complete Kill Phil",
+          "title_i18n": {
+            "en": "Complete Kill Phil",
+            "pt": "Conclua Kill Phil"
+          },
+          "description": "Protect the VIP through the transport assignment.",
+          "description_i18n": {
+            "en": "Protect the VIP through the transport assignment.",
+            "pt": "Proteja o VIP durante o trabalho de transporte."
+          }
+        },
+        {
+          "key": "say-cheese",
+          "title": "Complete Say Cheese",
+          "title_i18n": {
+            "en": "Complete Say Cheese",
+            "pt": "Conclua Say Cheese"
+          },
+          "description": "Complete the photographic route and its vehicle changes.",
+          "description_i18n": {
+            "en": "Complete the photographic route and its vehicle changes.",
+            "pt": "Conclua a rota fotográfica e suas mudanças de veículos."
+          }
+        },
+        {
+          "key": "home-s-on-the-range",
+          "title": "Complete Home's on the Range",
+          "title_i18n": {
+            "en": "Complete Home's on the Range",
+            "pt": "Conclua Home's on the Range"
+          },
+          "description": "Complete Gonzalez's target challenge.",
+          "description_i18n": {
+            "en": "Complete Gonzalez's target challenge.",
+            "pt": "Conclua o desafio de alvos de Gonzalez."
+          }
+        },
+        {
+          "key": "purple-haze",
+          "title": "Complete Purple Haze",
+          "title_i18n": {
+            "en": "Complete Purple Haze",
+            "pt": "Conclua Purple Haze"
+          },
+          "description": "Recover control of the cargo operation and finish the delivery.",
+          "description_i18n": {
+            "en": "Recover control of the cargo operation and finish the delivery.",
+            "pt": "Retome o controle da operação de carga e conclua a entrega."
+          }
+        },
+        {
+          "key": "kill-phil-part-2",
+          "title": "Complete Kill Phil: Part 2",
+          "title_i18n": {
+            "en": "Complete Kill Phil: Part 2",
+            "pt": "Conclua Kill Phil: Part 2"
+          },
+          "description": "Complete the guarded collection and protect the return.",
+          "description_i18n": {
+            "en": "Complete the guarded collection and protect the return.",
+            "pt": "Conclua a coleta vigiada e proteja o retorno."
+          }
+        },
+        {
+          "key": "taking-the-fall",
+          "title": "Complete Taking the Fall",
+          "title_i18n": {
+            "en": "Complete Taking the Fall",
+            "pt": "Conclua Taking the Fall"
+          },
+          "description": "Support Lance through the aerial attack.",
+          "description_i18n": {
+            "en": "Support Lance through the aerial attack.",
+            "pt": "Apoie Lance durante o ataque aéreo."
+          }
+        },
+        {
+          "key": "white-lies",
+          "title": "Complete White Lies",
+          "title_i18n": {
+            "en": "Complete White Lies",
+            "pt": "Conclua White Lies"
+          },
+          "description": "Recover the scattered cargo before the deadline.",
+          "description_i18n": {
+            "en": "Recover the scattered cargo before the deadline.",
+            "pt": "Recupere a carga espalhada antes do prazo."
+          }
+        },
+        {
+          "key": "where-it-hurts-most",
+          "title": "Complete Where It Hurts Most",
+          "title_i18n": {
+            "en": "Complete Where It Hurts Most",
+            "pt": "Conclua Where It Hurts Most"
+          },
+          "description": "Follow the urgent search and complete the rescue.",
+          "description_i18n": {
+            "en": "Follow the urgent search and complete the rescue.",
+            "pt": "Siga a busca urgente e conclua o resgate."
+          }
+        }
+      ]
+    },
+    {
+      "key": "diaz-and-mendez-war",
+      "title": "Diaz and the Mendez conflict",
+      "title_i18n": {
+        "en": "Diaz and the Mendez conflict",
+        "pt": "Diaz e o conflito com os Mendez"
+      },
+      "items": [
+        {
+          "key": "steal-the-deal",
+          "title": "Complete Steal the Deal",
+          "title_i18n": {
+            "en": "Complete Steal the Deal",
+            "pt": "Conclua Steal the Deal"
+          },
+          "description": "Track the target and recover the requested boat.",
+          "description_i18n": {
+            "en": "Track the target and recover the requested boat.",
+            "pt": "Acompanhe o alvo e recupere o barco solicitado."
+          }
+        },
+        {
+          "key": "the-exchange",
+          "title": "Complete The Exchange",
+          "title_i18n": {
+            "en": "Complete The Exchange",
+            "pt": "Conclua The Exchange"
+          },
+          "description": "Complete the exchange and protect the cargo afterward.",
+          "description_i18n": {
+            "en": "Complete the exchange and protect the cargo afterward.",
+            "pt": "Conclua a troca e proteja a carga depois."
+          }
+        },
+        {
+          "key": "farewell-to-arms",
+          "title": "Complete Farewell to Arms",
+          "title_i18n": {
+            "en": "Complete Farewell to Arms",
+            "pt": "Conclua Farewell to Arms"
+          },
+          "description": "Protect the convoy through its changing travel stages.",
+          "description_i18n": {
+            "en": "Protect the convoy through its changing travel stages.",
+            "pt": "Proteja o comboio durante as mudanças de trajeto."
+          }
+        },
+        {
+          "key": "burning-bridges",
+          "title": "Complete Burning Bridges",
+          "title_i18n": {
+            "en": "Complete Burning Bridges",
+            "pt": "Conclua Burning Bridges"
+          },
+          "description": "Survive the confrontation and complete the escape.",
+          "description_i18n": {
+            "en": "Survive the confrontation and complete the escape.",
+            "pt": "Sobreviva ao confronto e conclua a fuga."
+          }
+        },
+        {
+          "key": "blitzkrieg-strikes-again",
+          "title": "Complete Blitzkrieg Strikes Again",
+          "title_i18n": {
+            "en": "Complete Blitzkrieg Strikes Again",
+            "pt": "Conclua Blitzkrieg Strikes Again"
+          },
+          "description": "Defend the threatened businesses with Lance.",
+          "description_i18n": {
+            "en": "Defend the threatened businesses with Lance.",
+            "pt": "Defenda os negócios ameaçados com Lance."
+          },
+          "details": "Own at least seven empire sites to satisfy this later story gate; full empire completion remains optional for the ending. Bring a vehicle that can carry Lance and remain close enough to retrieve him between defenses. Clear each attack before leaving for the next marked business. Preserve his health and your transport instead of chasing unrelated attackers far from the objective.",
+          "details_i18n": {
+            "en": "Own at least seven empire sites to satisfy this later story gate; full empire completion remains optional for the ending. Bring a vehicle that can carry Lance and remain close enough to retrieve him between defenses. Clear each attack before leaving for the next marked business. Preserve his health and your transport instead of chasing unrelated attackers far from the objective.",
+            "pt": "Possua pelo menos sete estabelecimentos para cumprir este bloqueio posterior da história; completar todo o império continua opcional para chegar ao final. Leve um veículo que transporte Lance e fique perto o bastante para buscá-lo entre as defesas. Elimine cada ataque antes de partir para o próximo negócio marcado. Preserve a vida dele e seu transporte, sem perseguir inimigos distantes do objetivo."
+          }
+        },
+        {
+          "key": "lost-and-found",
+          "title": "Complete Lost and Found",
+          "title_i18n": {
+            "en": "Complete Lost and Found",
+            "pt": "Conclua Lost and Found"
+          },
+          "description": "Complete the airborne rescue and follow-up journey.",
+          "description_i18n": {
+            "en": "Complete the airborne rescue and follow-up journey.",
+            "pt": "Conclua o resgate aéreo e o trajeto seguinte."
+          }
+        },
+        {
+          "key": "so-long-schlong",
+          "title": "Complete So Long Schlong",
+          "title_i18n": {
+            "en": "Complete So Long Schlong",
+            "pt": "Conclua So Long Schlong"
+          },
+          "description": "Protect Reni through the final transport assignment.",
+          "description_i18n": {
+            "en": "Protect Reni through the final transport assignment.",
+            "pt": "Proteja Reni durante o último trabalho de transporte."
+          }
+        }
+      ]
+    },
+    {
+      "key": "final-operations",
+      "title": "Final operations and Last Stand",
+      "title_i18n": {
+        "en": "Final operations and Last Stand",
+        "pt": "Operações finais e Last Stand"
+      },
+      "items": [
+        {
+          "key": "domo-arigato-domestoboto",
+          "title": "Complete Domo Arigato Domestoboto",
+          "title_i18n": {
+            "en": "Complete Domo Arigato Domestoboto",
+            "pt": "Conclua Domo Arigato Domestoboto"
+          },
+          "description": "Complete the remote infiltration and return from the operation.",
+          "description_i18n": {
+            "en": "Complete the remote infiltration and return from the operation.",
+            "pt": "Conclua a infiltração remota e retorne da operação."
+          },
+          "details": "Answer Armando's household requests before continuing the search. Use the appropriate cleaning or grabber arm for chores, then switch to Comms to locate the basement safe. Its combination is 8423. After opening it, select the lighter arm to destroy the contents; opening the safe alone does not finish the job.",
+          "details_i18n": {
+            "en": "Answer Armando's household requests before continuing the search. Use the appropriate cleaning or grabber arm for chores, then switch to Comms to locate the basement safe. Its combination is 8423. After opening it, select the lighter arm to destroy the contents; opening the safe alone does not finish the job.",
+            "pt": "Atenda aos pedidos domésticos de Armando antes de continuar a busca. Use o braço de limpeza ou de coleta adequado para as tarefas e depois mude para Comms para localizar o cofre no porão. A combinação é 8423. Após abri-lo, selecione o braço com isqueiro para destruir o conteúdo; apenas abrir o cofre não conclui o trabalho."
+          }
+        },
+        {
+          "key": "in-the-air-tonight",
+          "title": "Complete In the Air Tonight",
+          "title_i18n": {
+            "en": "Complete In the Air Tonight",
+            "pt": "Conclua In the Air Tonight"
+          },
+          "description": "Protect the performance through every stage.",
+          "description_i18n": {
+            "en": "Protect the performance through every stage.",
+            "pt": "Proteja a apresentação durante todas as etapas."
+          }
+        },
+        {
+          "key": "light-my-pyre",
+          "title": "Complete Light My Pyre",
+          "title_i18n": {
+            "en": "Complete Light My Pyre",
+            "pt": "Conclua Light My Pyre"
+          },
+          "description": "Complete the pursuit and the guarded confrontation.",
+          "description_i18n": {
+            "en": "Complete the pursuit and the guarded confrontation.",
+            "pt": "Conclua a perseguição e o confronto vigiado."
+          },
+          "details": "Take the nearby motorcycle quickly and stay close to Lance during the pursuit. Attack the cars threatening him without placing him in your line of fire. At the mansion, replenish armor if needed and clear the exterior before entering. The flamethrower confrontation rewards lateral movement: circle out of the fire's path and shoot during openings instead of trading damage directly in front of the weapon.",
+          "details_i18n": {
+            "en": "Take the nearby motorcycle quickly and stay close to Lance during the pursuit. Attack the cars threatening him without placing him in your line of fire. At the mansion, replenish armor if needed and clear the exterior before entering. The flamethrower confrontation rewards lateral movement: circle out of the fire's path and shoot during openings instead of trading damage directly in front of the weapon.",
+            "pt": "Pegue rapidamente a moto próxima e mantenha-se perto de Lance na perseguição. Ataque os carros que o ameaçam sem colocá-lo na linha de tiro. Na mansão, reponha o colete se necessário e elimine os inimigos externos antes de entrar. No confronto com o lança-chamas, mova-se lateralmente: contorne o fogo e atire nas brechas, em vez de trocar dano diante da arma."
+          }
+        },
+        {
+          "key": "over-the-top",
+          "title": "Complete Over the Top",
+          "title_i18n": {
+            "en": "Complete Over the Top",
+            "pt": "Conclua Over the Top"
+          },
+          "description": "Recover the required aircraft and complete its delivery.",
+          "description_i18n": {
+            "en": "Recover the required aircraft and complete its delivery.",
+            "pt": "Recupere a aeronave exigida e conclua sua entrega."
+          }
+        },
+        {
+          "key": "last-stand",
+          "title": "Complete Last Stand",
+          "title_i18n": {
+            "en": "Complete Last Stand",
+            "pt": "Conclua Last Stand"
+          },
+          "description": "Complete the final assault and confrontation.",
+          "description_i18n": {
+            "en": "Complete the final assault and confrontation.",
+            "pt": "Conclua o ataque e o confronto finais."
+          },
+          "details": "Clear the upper-floor guards from the Hunter, then follow the stairwell objectives after the forced landing. Take the available supplies and fight room by room. When ordered to take cover from the helicopter, shelter behind the lockers and attack when the prompt changes. On the roof, use the stair structure for cover against the final opponents.",
+          "details_i18n": {
+            "en": "Clear the upper-floor guards from the Hunter, then follow the stairwell objectives after the forced landing. Take the available supplies and fight room by room. When ordered to take cover from the helicopter, shelter behind the lockers and attack when the prompt changes. On the roof, use the stair structure for cover against the final opponents.",
+            "pt": "Elimine os guardas dos andares superiores com o Hunter e siga os objetivos da escadaria após o pouso forçado. Pegue os suprimentos e avance cômodo por cômodo. Quando surgir a ordem de se proteger do helicóptero, abrigue-se atrás dos armários e ataque quando a instrução mudar. No terraço, use a estrutura da escada como proteção contra os adversários finais."
+          }
+        }
+      ]
+    },
+    {
+      "key": "empire-completion",
+      "title": "Optional: complete the business empire",
+      "title_i18n": {
+        "en": "Optional: complete the business empire",
+        "pt": "Opcional: complete o império de negócios"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "empire-thirty-sites",
+          "title": "Own all 30 empire sites",
+          "title_i18n": {
+            "en": "Own all 30 empire sites",
+            "pt": "Possua os 30 estabelecimentos"
+          },
+          "description": "Acquire every business site for the full empire goal, beyond the campaign's smaller ownership gates.",
+          "description_i18n": {
+            "en": "Acquire every business site for the full empire goal, beyond the campaign's smaller ownership gates.",
+            "pt": "Adquira todos os estabelecimentos para completar o império, além dos limites menores exigidos pela campanha."
+          },
+          "details": "Empire Building begins after To Victor, the Spoils. Provoke a takeover by destroying the marked gang vehicle, defeat the defenders and clear the marked equipment inside. Then buy the vacant site: winning the fight alone does not establish a business. New advanced business types become available after From Zero to Hero by taking suitable enemy businesses. For full completion, own thirty sites and create one High Roller business of each type; all thirty sites do not need maximum upgrades.",
+          "details_i18n": {
+            "en": "Empire Building begins after To Victor, the Spoils. Provoke a takeover by destroying the marked gang vehicle, defeat the defenders and clear the marked equipment inside. Then buy the vacant site: winning the fight alone does not establish a business. New advanced business types become available after From Zero to Hero by taking suitable enemy businesses. For full completion, own thirty sites and create one High Roller business of each type; all thirty sites do not need maximum upgrades.",
+            "pt": "Empire Building começa após To Victor, the Spoils. Provoque uma disputa destruindo o veículo marcado da gangue, derrote os defensores e destrua o equipamento indicado no interior. Depois compre o imóvel vazio: vencer a luta não instala um negócio. Os tipos avançados ficam disponíveis após From Zero to Hero, tomando negócios inimigos adequados. Para completar tudo, possua trinta imóveis e crie um negócio High Roller de cada tipo; não é necessário maximizar os trinta."
+          }
+        },
+        {
+          "key": "high-roller-protection",
+          "title": "High Roller: Protection Racket",
+          "title_i18n": {
+            "en": "High Roller: Protection Racket",
+            "pt": "High Roller: Protection Racket"
+          },
+          "description": "Build at least one High Roller Protection Racket business.",
+          "description_i18n": {
+            "en": "Build at least one High Roller Protection Racket business.",
+            "pt": "Construa pelo menos um negócio Protection Racket de porte High Roller."
+          }
+        },
+        {
+          "key": "high-roller-loan-shark",
+          "title": "High Roller: Loan Shark",
+          "title_i18n": {
+            "en": "High Roller: Loan Shark",
+            "pt": "High Roller: Loan Shark"
+          },
+          "description": "Build at least one High Roller Loan Shark business.",
+          "description_i18n": {
+            "en": "Build at least one High Roller Loan Shark business.",
+            "pt": "Construa pelo menos um negócio Loan Shark de porte High Roller."
+          }
+        },
+        {
+          "key": "high-roller-prostitution",
+          "title": "High Roller: Prostitution",
+          "title_i18n": {
+            "en": "High Roller: Prostitution",
+            "pt": "High Roller: Prostitution"
+          },
+          "description": "Build at least one High Roller Prostitution business.",
+          "description_i18n": {
+            "en": "Build at least one High Roller Prostitution business.",
+            "pt": "Construa pelo menos um negócio Prostitution de porte High Roller."
+          }
+        },
+        {
+          "key": "high-roller-drugs",
+          "title": "High Roller: Drugs",
+          "title_i18n": {
+            "en": "High Roller: Drugs",
+            "pt": "High Roller: Drugs"
+          },
+          "description": "Build at least one High Roller Drugs business and confirm its completion credit.",
+          "description_i18n": {
+            "en": "Build at least one High Roller Drugs business and confirm its completion credit.",
+            "pt": "Construa pelo menos um negócio Drugs de porte High Roller e confira o registro da conclusão."
+          }
+        },
+        {
+          "key": "high-roller-smuggling",
+          "title": "High Roller: Smuggling",
+          "title_i18n": {
+            "en": "High Roller: Smuggling",
+            "pt": "High Roller: Smuggling"
+          },
+          "description": "Build at least one High Roller Smuggling business.",
+          "description_i18n": {
+            "en": "Build at least one High Roller Smuggling business.",
+            "pt": "Construa pelo menos um negócio Smuggling de porte High Roller."
+          }
+        },
+        {
+          "key": "high-roller-robbery",
+          "title": "High Roller: Robbery",
+          "title_i18n": {
+            "en": "High Roller: Robbery",
+            "pt": "High Roller: Robbery"
+          },
+          "description": "Build at least one High Roller Robbery business.",
+          "description_i18n": {
+            "en": "Build at least one High Roller Robbery business.",
+            "pt": "Construa pelo menos um negócio Robbery de porte High Roller."
+          }
+        },
+        {
+          "key": "extortion-jobs",
+          "title": "Extortion: 15 jobs",
+          "title_i18n": {
+            "en": "Extortion: 15 jobs",
+            "pt": "Extortion: 15 trabalhos"
+          },
+          "description": "Finish fifteen Protection Racket jobs to reach the final reputation rank.",
+          "description_i18n": {
+            "en": "Finish fifteen Protection Racket jobs to reach the final reputation rank.",
+            "pt": "Termine quinze trabalhos de Protection Racket para alcançar o último nível de reputação."
+          }
+        },
+        {
+          "key": "loan-shark-jobs",
+          "title": "Loan Shark: 15 jobs",
+          "title_i18n": {
+            "en": "Loan Shark: 15 jobs",
+            "pt": "Loan Shark: 15 trabalhos"
+          },
+          "description": "Finish fifteen Loan Shark jobs.",
+          "description_i18n": {
+            "en": "Finish fifteen Loan Shark jobs.",
+            "pt": "Termine quinze trabalhos de Loan Shark."
+          }
+        },
+        {
+          "key": "pimping-jobs",
+          "title": "Pimping: 15 jobs",
+          "title_i18n": {
+            "en": "Pimping: 15 jobs",
+            "pt": "Pimping: 15 trabalhos"
+          },
+          "description": "Finish fifteen jobs for the Prostitution business.",
+          "description_i18n": {
+            "en": "Finish fifteen jobs for the Prostitution business.",
+            "pt": "Termine quinze trabalhos do negócio Prostitution."
+          }
+        },
+        {
+          "key": "drug-running-jobs",
+          "title": "Drug Running: 6 jobs",
+          "title_i18n": {
+            "en": "Drug Running: 6 jobs",
+            "pt": "Drug Running: 6 trabalhos"
+          },
+          "description": "Finish all six Drug Running jobs.",
+          "description_i18n": {
+            "en": "Finish all six Drug Running jobs.",
+            "pt": "Termine os seis trabalhos de Drug Running."
+          }
+        },
+        {
+          "key": "smuggling-jobs",
+          "title": "Smuggling: 6 jobs",
+          "title_i18n": {
+            "en": "Smuggling: 6 jobs",
+            "pt": "Smuggling: 6 trabalhos"
+          },
+          "description": "Finish all six Smuggling jobs.",
+          "description_i18n": {
+            "en": "Finish all six Smuggling jobs.",
+            "pt": "Termine os seis trabalhos de Smuggling."
+          }
+        },
+        {
+          "key": "robbery-jobs",
+          "title": "Robbery: 6 jobs",
+          "title_i18n": {
+            "en": "Robbery: 6 jobs",
+            "pt": "Robbery: 6 trabalhos"
+          },
+          "description": "Finish all six Robbery jobs.",
+          "description_i18n": {
+            "en": "Finish all six Robbery jobs.",
+            "pt": "Termine os seis trabalhos de Robbery."
+          }
+        }
+      ]
+    },
+    {
+      "key": "vehicle-services",
+      "title": "Emergency services, taxis and beach patrol",
+      "title_i18n": {
+        "en": "Emergency services, taxis and beach patrol",
+        "pt": "Serviços de emergência, táxis e patrulha da praia"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "vigilante-fifteen",
+          "title": "Vigilante: level 15",
+          "title_i18n": {
+            "en": "Vigilante: level 15",
+            "pt": "Vigilante: nível 15"
+          },
+          "description": "Complete level fifteen of Vigilante.",
+          "description_i18n": {
+            "en": "Complete level fifteen of Vigilante.",
+            "pt": "Conclua o nível quinze de Vigilante."
+          }
+        },
+        {
+          "key": "paramedic-fifteen",
+          "title": "Paramedic: level 15",
+          "title_i18n": {
+            "en": "Paramedic: level 15",
+            "pt": "Paramedic: nível 15"
+          },
+          "description": "Complete level fifteen of the ambulance service.",
+          "description_i18n": {
+            "en": "Complete level fifteen of the ambulance service.",
+            "pt": "Conclua o nível quinze do serviço de ambulância."
+          },
+          "details": "The ambulance holds three patients, so plan hospital returns when a level contains more than three. Stop gently to avoid hitting patients and keep the vehicle usable. Unlike Liberty City Stories, this service has progress checkpoints at levels five and ten. Confirm the checkpoint message before stopping and finish level fifteen for full credit; a level-twelve run is not enough in Vice City Stories.",
+          "details_i18n": {
+            "en": "The ambulance holds three patients, so plan hospital returns when a level contains more than three. Stop gently to avoid hitting patients and keep the vehicle usable. Unlike Liberty City Stories, this service has progress checkpoints at levels five and ten. Confirm the checkpoint message before stopping and finish level fifteen for full credit; a level-twelve run is not enough in Vice City Stories.",
+            "pt": "A ambulância leva três pacientes; planeje retornos ao hospital quando houver mais de três no nível. Pare com cuidado para não atropelá-los e preserve o veículo. Diferentemente de Liberty City Stories, este serviço tem checkpoints de progresso nos níveis cinco e dez. Confirme a mensagem antes de parar e conclua o nível quinze para registrar tudo; chegar ao nível doze não basta em Vice City Stories."
+          }
+        },
+        {
+          "key": "firefighter-fifteen",
+          "title": "Firefighter: level 15",
+          "title_i18n": {
+            "en": "Firefighter: level 15",
+            "pt": "Firefighter: nível 15"
+          },
+          "description": "Complete level fifteen of the fire service.",
+          "description_i18n": {
+            "en": "Complete level fifteen of the fire service.",
+            "pt": "Conclua o nível quinze do serviço de bombeiros."
+          }
+        },
+        {
+          "key": "taxi-five-thousand",
+          "title": "Taxi Driver: $5,000 or 50 fares",
+          "title_i18n": {
+            "en": "Taxi Driver: $5,000 or 50 fares",
+            "pt": "Taxi Driver: $5.000 ou 50 corridas"
+          },
+          "description": "Earn $5,000 in taxi work or deliver fifty fares; progress is cumulative, not one uninterrupted session.",
+          "description_i18n": {
+            "en": "Earn $5,000 in taxi work or deliver fifty fares; progress is cumulative, not one uninterrupted session.",
+            "pt": "Ganhe $5.000 no táxi ou transporte cinquenta passageiros; o progresso é cumulativo, sem exigir uma única sessão."
+          }
+        },
+        {
+          "key": "air-rescue-fifteen",
+          "title": "Air Rescue: level 15",
+          "title_i18n": {
+            "en": "Air Rescue: level 15",
+            "pt": "Air Rescue: nível 15"
+          },
+          "description": "Complete level fifteen of helicopter rescue.",
+          "description_i18n": {
+            "en": "Complete level fifteen of helicopter rescue.",
+            "pt": "Conclua o nível quinze do resgate com helicóptero."
+          },
+          "details": "Use an Air Ambulance from a hospital helipad and lower the rescue equipment carefully toward each marked patient. The apparatus can carry the full group of up to four patients, allowing one hospital return per level. Keep the helicopter clear of nearby structures during pickups. Progress checkpoints occur at levels five and ten; finish the fifteenth level rather than treating a checkpoint reward as full completion.",
+          "details_i18n": {
+            "en": "Use an Air Ambulance from a hospital helipad and lower the rescue equipment carefully toward each marked patient. The apparatus can carry the full group of up to four patients, allowing one hospital return per level. Keep the helicopter clear of nearby structures during pickups. Progress checkpoints occur at levels five and ten; finish the fifteenth level rather than treating a checkpoint reward as full completion.",
+            "pt": "Use uma Air Ambulance de um heliponto hospitalar e baixe o equipamento de resgate com cuidado até cada paciente marcado. O aparelho comporta o grupo inteiro de até quatro pacientes, permitindo um único retorno ao hospital por nível. Mantenha o helicóptero longe de estruturas durante as coletas. Há checkpoints nos níveis cinco e dez; termine o décimo quinto em vez de confundir a recompensa de um checkpoint com a conclusão total."
+          }
+        },
+        {
+          "key": "beach-patrol-fifteen",
+          "title": "Beach Patrol: level 15",
+          "title_i18n": {
+            "en": "Beach Patrol: level 15",
+            "pt": "Beach Patrol: nível 15"
+          },
+          "description": "Complete level fifteen of the beach service.",
+          "description_i18n": {
+            "en": "Complete level fifteen of the beach service.",
+            "pt": "Conclua o nível quinze do serviço de praia."
+          }
+        }
+      ]
+    },
+    {
+      "key": "special-activities",
+      "title": "Helicopter jobs and special challenges",
+      "title_i18n": {
+        "en": "Helicopter jobs and special challenges",
+        "pt": "Trabalhos de helicóptero e desafios especiais"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "vice-sights",
+          "title": "Vice Sights",
+          "title_i18n": {
+            "en": "Vice Sights",
+            "pt": "Vice Sights"
+          },
+          "description": "Finish all five sightseeing levels.",
+          "description_i18n": {
+            "en": "Finish all five sightseeing levels.",
+            "pt": "Termine os cinco níveis de passeios turísticos."
+          },
+          "details": "After From Zero to Hero, use the sightseeing Maverick at the airport. Maintain the Fun meter while traveling, then slow down and hover steadily inside each landmark marker so the tourists can take their photographs. Passing through at full speed does not complete a stop. Return to the airport after the route and complete all five levels.",
+          "details_i18n": {
+            "en": "After From Zero to Hero, use the sightseeing Maverick at the airport. Maintain the Fun meter while traveling, then slow down and hover steadily inside each landmark marker so the tourists can take their photographs. Passing through at full speed does not complete a stop. Return to the airport after the route and complete all five levels.",
+            "pt": "Após From Zero to Hero, use o Maverick de passeios no aeroporto. Mantenha o medidor Fun durante o trajeto, depois reduza e paire com estabilidade no marcador de cada atração para os turistas fotografarem. Passar em alta velocidade não conclui a parada. Volte ao aeroporto após a rota e conclua os cinco níveis."
+          }
+        },
+        {
+          "key": "fire-copter",
+          "title": "Fire Copter",
+          "title_i18n": {
+            "en": "Fire Copter",
+            "pt": "Fire Copter"
+          },
+          "description": "Finish all five firefighting-helicopter levels.",
+          "description_i18n": {
+            "en": "Finish all five firefighting-helicopter levels.",
+            "pt": "Termine os cinco níveis do helicóptero de combate a incêndios."
+          },
+          "details": "Start with the Armadillo at the Downtown fire station. Hover above the actual flames and release water in short bursts, confirming each fire is out before moving on. Long releases waste the limited supply. You can refill from the sea if necessary, but a careful approach and restrained drops reduce the need for that risky detour. Complete all five levels.",
+          "details_i18n": {
+            "en": "Start with the Armadillo at the Downtown fire station. Hover above the actual flames and release water in short bursts, confirming each fire is out before moving on. Long releases waste the limited supply. You can refill from the sea if necessary, but a careful approach and restrained drops reduce the need for that risky detour. Complete all five levels.",
+            "pt": "Comece com o Armadillo na estação de bombeiros de Downtown. Pare sobre as chamas e solte água em pequenas doses, confirmando que cada foco apagou antes de seguir. Soltar água por muito tempo desperdiça a reserva limitada. É possível reabastecer no mar, mas aproximações cuidadosas e descargas controladas reduzem a necessidade desse desvio arriscado. Conclua os cinco níveis."
+          }
+        },
+        {
+          "key": "phil-shooting-range",
+          "title": "Phil's Shooting Range",
+          "title_i18n": {
+            "en": "Phil's Shooting Range",
+            "pt": "Phil's Shooting Range"
+          },
+          "description": "Pass all five rounds of Phil's weapon challenge.",
+          "description_i18n": {
+            "en": "Pass all five rounds of Phil's weapon challenge.",
+            "pt": "Passe nas cinco rodadas do desafio de armas de Phil."
+          },
+          "details": "The challenge becomes available after Cleaning House at Phil's place. Each of its five rounds supplies a different weapon and limited ammunition. Shoot enemy targets, but avoid the friendly figures with raised hands: a friendly hit removes points. Learn the target pattern rather than firing indiscriminately, since failing a later round sends you back to the beginning.",
+          "details_i18n": {
+            "en": "The challenge becomes available after Cleaning House at Phil's place. Each of its five rounds supplies a different weapon and limited ammunition. Shoot enemy targets, but avoid the friendly figures with raised hands: a friendly hit removes points. Learn the target pattern rather than firing indiscriminately, since failing a later round sends you back to the beginning.",
+            "pt": "O desafio fica disponível após Cleaning House, na casa de Phil. Cada uma das cinco rodadas fornece uma arma diferente e munição limitada. Acerte os alvos inimigos e evite as figuras amigas com as mãos erguidas: atingir um aliado desconta pontos. Aprenda o padrão dos alvos em vez de atirar sem critério, pois falhar em uma rodada posterior faz recomeçar do início."
+          }
+        },
+        {
+          "key": "swingers-club",
+          "title": "Swinger's Club",
+          "title_i18n": {
+            "en": "Swinger's Club",
+            "pt": "Swinger's Club"
+          },
+          "description": "Beat the five-hundred-point high score in the golf challenge.",
+          "description_i18n": {
+            "en": "Beat the five-hundred-point high score in the golf challenge.",
+            "pt": "Supere o recorde de quinhentos pontos no desafio de golfe."
+          }
+        },
+        {
+          "key": "crash",
+          "title": "Crash!",
+          "title_i18n": {
+            "en": "Crash!",
+            "pt": "Crash!"
+          },
+          "description": "Cause more than $2,000 of credited damage in the Coach challenge.",
+          "description_i18n": {
+            "en": "Cause more than $2,000 of credited damage in the Coach challenge.",
+            "pt": "Cause mais de $2.000 de dano contabilizado no desafio com o Coach."
+          }
+        }
+      ]
+    },
+    {
+      "key": "checkpoint-challenges",
+      "title": "PSP checkpoint challenges",
+      "title_i18n": {
+        "en": "PSP checkpoint challenges",
+        "pt": "Desafios de checkpoints do PSP"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "playground-on-the-town",
+          "title": "Playground on the Town",
+          "title_i18n": {
+            "en": "Playground on the Town",
+            "pt": "Playground on the Town"
+          },
+          "description": "Clear the motorcycle course within its target time.",
+          "description_i18n": {
+            "en": "Clear the motorcycle course within its target time.",
+            "pt": "Conclua o circuito de moto dentro do tempo-alvo."
+          }
+        },
+        {
+          "key": "playground-on-the-point",
+          "title": "Playground on the Point",
+          "title_i18n": {
+            "en": "Playground on the Point",
+            "pt": "Playground on the Point"
+          },
+          "description": "Complete the checkpoint course within its target time.",
+          "description_i18n": {
+            "en": "Complete the checkpoint course within its target time.",
+            "pt": "Conclua o circuito de checkpoints dentro do tempo-alvo."
+          }
+        },
+        {
+          "key": "mashin-up-the-mall",
+          "title": "Mashin' Up the Mall",
+          "title_i18n": {
+            "en": "Mashin' Up the Mall",
+            "pt": "Mashin' Up the Mall"
+          },
+          "description": "Finish the mall checkpoint course.",
+          "description_i18n": {
+            "en": "Finish the mall checkpoint course.",
+            "pt": "Termine o circuito de checkpoints do shopping."
+          }
+        },
+        {
+          "key": "haiti-hover-race",
+          "title": "Haiti Hover Race",
+          "title_i18n": {
+            "en": "Haiti Hover Race",
+            "pt": "Haiti Hover Race"
+          },
+          "description": "Complete the hovercraft course within its target time.",
+          "description_i18n": {
+            "en": "Complete the hovercraft course within its target time.",
+            "pt": "Conclua o circuito de hovercraft dentro do tempo-alvo."
+          }
+        },
+        {
+          "key": "harbor-hover-race",
+          "title": "Harbor Hover Race",
+          "title_i18n": {
+            "en": "Harbor Hover Race",
+            "pt": "Harbor Hover Race"
+          },
+          "description": "Finish the harbor hovercraft course within its target time.",
+          "description_i18n": {
+            "en": "Finish the harbor hovercraft course within its target time.",
+            "pt": "Termine o circuito de hovercraft do porto dentro do tempo-alvo."
+          }
+        },
+        {
+          "key": "crims-on-wings",
+          "title": "Crims on Wings",
+          "title_i18n": {
+            "en": "Crims on Wings",
+            "pt": "Crims on Wings"
+          },
+          "description": "Complete the aircraft checkpoint course.",
+          "description_i18n": {
+            "en": "Complete the aircraft checkpoint course.",
+            "pt": "Conclua o circuito aéreo de checkpoints."
+          }
+        },
+        {
+          "key": "land-sea-and-air-ace",
+          "title": "Land, Sea and Air Ace",
+          "title_i18n": {
+            "en": "Land, Sea and Air Ace",
+            "pt": "Land, Sea and Air Ace"
+          },
+          "description": "Finish the multi-vehicle checkpoint course.",
+          "description_i18n": {
+            "en": "Finish the multi-vehicle checkpoint course.",
+            "pt": "Termine o circuito de checkpoints com vários veículos."
+          }
+        },
+        {
+          "key": "skywolf",
+          "title": "Skywolf",
+          "title_i18n": {
+            "en": "Skywolf",
+            "pt": "Skywolf"
+          },
+          "description": "Finish the Hunter challenge within four minutes.",
+          "description_i18n": {
+            "en": "Finish the Hunter challenge within four minutes.",
+            "pt": "Termine o desafio do Hunter em até quatro minutos."
+          },
+          "details": "Skywolf becomes available after Last Stand from the Hunter at the airport's eastern end. Alternate between checkpoint flying and destroying marked targets; simply reaching the next marker is insufficient during attack stages. Stabilize before firing at vehicles or boats and leave clearance above the water. Destroy every required target and reach the final checkpoint within four minutes.",
+          "details_i18n": {
+            "en": "Skywolf becomes available after Last Stand from the Hunter at the airport's eastern end. Alternate between checkpoint flying and destroying marked targets; simply reaching the next marker is insufficient during attack stages. Stabilize before firing at vehicles or boats and leave clearance above the water. Destroy every required target and reach the final checkpoint within four minutes.",
+            "pt": "Skywolf fica disponível após Last Stand, no Hunter da extremidade leste do aeroporto. Alterne entre passar por checkpoints e destruir os alvos marcados; apenas alcançar o próximo marcador não basta nas etapas de ataque. Estabilize-se antes de atirar em veículos ou barcos e mantenha distância da água. Destrua todos os alvos exigidos e alcance o checkpoint final em até quatro minutos."
+          }
+        }
+      ]
+    },
+    {
+      "key": "turismo-races",
+      "title": "Turismo street races",
+      "title_i18n": {
+        "en": "Turismo street races",
+        "pt": "Corridas de rua Turismo"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "escobar-run-way",
+          "title": "Escobar Run-Way",
+          "title_i18n": {
+            "en": "Escobar Run-Way",
+            "pt": "Escobar Run-Way"
+          },
+          "description": "Win the Escobar Run-Way Turismo race.",
+          "description_i18n": {
+            "en": "Win the Escobar Run-Way Turismo race.",
+            "pt": "Vença a corrida Turismo Escobar Run-Way."
+          }
+        },
+        {
+          "key": "downtown-showdown",
+          "title": "Downtown Showdown",
+          "title_i18n": {
+            "en": "Downtown Showdown",
+            "pt": "Downtown Showdown"
+          },
+          "description": "Win the Downtown Showdown Turismo race.",
+          "description_i18n": {
+            "en": "Win the Downtown Showdown Turismo race.",
+            "pt": "Vença a corrida Turismo Downtown Showdown."
+          }
+        },
+        {
+          "key": "port-sports",
+          "title": "Port Sports",
+          "title_i18n": {
+            "en": "Port Sports",
+            "pt": "Port Sports"
+          },
+          "description": "Win the Port Sports Turismo race.",
+          "description_i18n": {
+            "en": "Win the Port Sports Turismo race.",
+            "pt": "Vença a corrida Turismo Port Sports."
+          }
+        },
+        {
+          "key": "rum-and-salsa-sting",
+          "title": "Rum & Salsa Sting",
+          "title_i18n": {
+            "en": "Rum & Salsa Sting",
+            "pt": "Rum & Salsa Sting"
+          },
+          "description": "Win the Rum & Salsa Sting Turismo race.",
+          "description_i18n": {
+            "en": "Win the Rum & Salsa Sting Turismo race.",
+            "pt": "Vença a corrida Turismo Rum & Salsa Sting."
+          }
+        },
+        {
+          "key": "cuban-wheels",
+          "title": "Cuban Wheels",
+          "title_i18n": {
+            "en": "Cuban Wheels",
+            "pt": "Cuban Wheels"
+          },
+          "description": "Win the Cuban Wheels Turismo race.",
+          "description_i18n": {
+            "en": "Win the Cuban Wheels Turismo race.",
+            "pt": "Vença a corrida Turismo Cuban Wheels."
+          }
+        },
+        {
+          "key": "fools-rush",
+          "title": "Fools Rush",
+          "title_i18n": {
+            "en": "Fools Rush",
+            "pt": "Fools Rush"
+          },
+          "description": "Win the Fools Rush Turismo race.",
+          "description_i18n": {
+            "en": "Win the Fools Rush Turismo race.",
+            "pt": "Vença a corrida Turismo Fools Rush."
+          }
+        },
+        {
+          "key": "high-stakes-highway",
+          "title": "High Stakes Highway",
+          "title_i18n": {
+            "en": "High Stakes Highway",
+            "pt": "High Stakes Highway"
+          },
+          "description": "Win the High Stakes Highway Turismo race.",
+          "description_i18n": {
+            "en": "Win the High Stakes Highway Turismo race.",
+            "pt": "Vença a corrida Turismo High Stakes Highway."
+          }
+        },
+        {
+          "key": "asphalt-assault",
+          "title": "Asphalt Assault",
+          "title_i18n": {
+            "en": "Asphalt Assault",
+            "pt": "Asphalt Assault"
+          },
+          "description": "Win the Asphalt Assault Turismo race.",
+          "description_i18n": {
+            "en": "Win the Asphalt Assault Turismo race.",
+            "pt": "Vença a corrida Turismo Asphalt Assault."
+          }
+        },
+        {
+          "key": "supercharged-circuit",
+          "title": "Supercharged Circuit",
+          "title_i18n": {
+            "en": "Supercharged Circuit",
+            "pt": "Supercharged Circuit"
+          },
+          "description": "Win the Supercharged Circuit Turismo race.",
+          "description_i18n": {
+            "en": "Win the Supercharged Circuit Turismo race.",
+            "pt": "Vença a corrida Turismo Supercharged Circuit."
+          }
+        }
+      ]
+    },
+    {
+      "key": "time-trials-and-watersports",
+      "title": "Time trials and Watersports",
+      "title_i18n": {
+        "en": "Time trials and Watersports",
+        "pt": "Contrarrelógios e Watersports"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "quad-time-trials",
+          "title": "Quad Bike Time Trials: 4 courses",
+          "title_i18n": {
+            "en": "Quad Bike Time Trials: 4 courses",
+            "pt": "Quad Bike Time Trials: 4 circuitos"
+          },
+          "description": "Beat all four quad-bike courses at the dirt track.",
+          "description_i18n": {
+            "en": "Beat all four quad-bike courses at the dirt track.",
+            "pt": "Supere os quatro circuitos de quadriciclo na pista de terra."
+          }
+        },
+        {
+          "key": "bmx-time-trials",
+          "title": "BMX Time Trials: 8 courses",
+          "title_i18n": {
+            "en": "BMX Time Trials: 8 courses",
+            "pt": "BMX Time Trials: 8 circuitos"
+          },
+          "description": "Beat all eight BMX courses at the dirt track.",
+          "description_i18n": {
+            "en": "Beat all eight BMX courses at the dirt track.",
+            "pt": "Supere os oito circuitos de BMX na pista de terra."
+          }
+        },
+        {
+          "key": "sanchez-time-trials",
+          "title": "Sanchez Time Trials: 12 courses",
+          "title_i18n": {
+            "en": "Sanchez Time Trials: 12 courses",
+            "pt": "Sanchez Time Trials: 12 circuitos"
+          },
+          "description": "Beat all twelve Sanchez courses at the dirt track.",
+          "description_i18n": {
+            "en": "Beat all twelve Sanchez courses at the dirt track.",
+            "pt": "Supere os doze circuitos de Sanchez na pista de terra."
+          }
+        },
+        {
+          "key": "watersports",
+          "title": "Watersports: 8 courses",
+          "title_i18n": {
+            "en": "Watersports: 8 courses",
+            "pt": "Watersports: 8 circuitos"
+          },
+          "description": "Beat all eight Jetski time trials from the Prawn Island jetty.",
+          "description_i18n": {
+            "en": "Beat all eight Jetski time trials from the Prawn Island jetty.",
+            "pt": "Supere os oito contrarrelógios de Jetski iniciados no píer de Prawn Island."
+          }
+        }
+      ]
+    },
+    {
+      "key": "collections-and-impound",
+      "title": "Collections, impound lists and native 100%",
+      "title_i18n": {
+        "en": "Collections, impound lists and native 100%",
+        "pt": "Coleções, listas de apreensão e 100% nativos"
+      },
+      "kind": "collectible",
+      "items": [
+        {
+          "key": "red-balloons-ninety-nine",
+          "title": "Pop all 99 red balloons",
+          "title_i18n": {
+            "en": "Pop all 99 red balloons",
+            "pt": "Estoure os 99 balões vermelhos"
+          },
+          "description": "Find and shoot all ninety-nine balloons; this aggregate goal does not enumerate every location.",
+          "description_i18n": {
+            "en": "Find and shoot all ninety-nine balloons; this aggregate goal does not enumerate every location.",
+            "pt": "Encontre e acerte os noventa e nove balões; esta meta agregada não enumera cada localização."
+          }
+        },
+        {
+          "key": "rampages-thirty",
+          "title": "Complete all 30 PSP rampages",
+          "title_i18n": {
+            "en": "Complete all 30 PSP rampages",
+            "pt": "Conclua os 30 rampages do PSP"
+          },
+          "description": "Clear the original PSP set of thirty rampages.",
+          "description_i18n": {
+            "en": "Clear the original PSP set of thirty rampages.",
+            "pt": "Conclua o conjunto original de trinta rampages do PSP."
+          }
+        },
+        {
+          "key": "unique-jumps-thirty",
+          "title": "Complete all 30 PSP unique jumps",
+          "title_i18n": {
+            "en": "Complete all 30 PSP unique jumps",
+            "pt": "Conclua os 30 saltos únicos do PSP"
+          },
+          "description": "Register all thirty unique jumps in this edition.",
+          "description_i18n": {
+            "en": "Register all thirty unique jumps in this edition.",
+            "pt": "Registre os trinta saltos únicos desta edição."
+          }
+        },
+        {
+          "key": "impound-list-one",
+          "title": "Civil Asset Forfeiture Impound: list 1",
+          "title_i18n": {
+            "en": "Civil Asset Forfeiture Impound: list 1",
+            "pt": "Civil Asset Forfeiture Impound: lista 1"
+          },
+          "description": "Deliver all eight vehicles on the first impound list.",
+          "description_i18n": {
+            "en": "Deliver all eight vehicles on the first impound list.",
+            "pt": "Entregue os oito veículos da primeira lista de apreensão."
+          },
+          "details": "Check the impound's current list before searching. Deliver the requested models to their marked collection point and confirm each is accepted. The first three lists contain road vehicles, while the fourth requires eight watercraft at the waterside delivery point. Finish one list to advance to the next; collecting thirty-two arbitrary vehicles does not satisfy the four lists.",
+          "details_i18n": {
+            "en": "Check the impound's current list before searching. Deliver the requested models to their marked collection point and confirm each is accepted. The first three lists contain road vehicles, while the fourth requires eight watercraft at the waterside delivery point. Finish one list to advance to the next; collecting thirty-two arbitrary vehicles does not satisfy the four lists.",
+            "pt": "Confira a lista atual do pátio antes de procurar. Entregue os modelos solicitados no ponto de coleta indicado e confirme que cada um foi aceito. As três primeiras listas têm veículos terrestres; a quarta exige oito embarcações no ponto de entrega à beira da água. Termine uma lista para liberar a seguinte; reunir trinta e dois veículos quaisquer não substitui as quatro listas."
+          }
+        },
+        {
+          "key": "impound-list-two",
+          "title": "Civil Asset Forfeiture Impound: list 2",
+          "title_i18n": {
+            "en": "Civil Asset Forfeiture Impound: list 2",
+            "pt": "Civil Asset Forfeiture Impound: lista 2"
+          },
+          "description": "Deliver all eight vehicles on the second impound list.",
+          "description_i18n": {
+            "en": "Deliver all eight vehicles on the second impound list.",
+            "pt": "Entregue os oito veículos da segunda lista de apreensão."
+          }
+        },
+        {
+          "key": "impound-list-three",
+          "title": "Civil Asset Forfeiture Impound: list 3",
+          "title_i18n": {
+            "en": "Civil Asset Forfeiture Impound: list 3",
+            "pt": "Civil Asset Forfeiture Impound: lista 3"
+          },
+          "description": "Deliver all eight vehicles on the third impound list.",
+          "description_i18n": {
+            "en": "Deliver all eight vehicles on the third impound list.",
+            "pt": "Entregue os oito veículos da terceira lista de apreensão."
+          }
+        },
+        {
+          "key": "impound-list-four",
+          "title": "Civil Asset Forfeiture Impound: list 4",
+          "title_i18n": {
+            "en": "Civil Asset Forfeiture Impound: list 4",
+            "pt": "Civil Asset Forfeiture Impound: lista 4"
+          },
+          "description": "Deliver all eight watercraft on the final impound list.",
+          "description_i18n": {
+            "en": "Deliver all eight watercraft on the final impound list.",
+            "pt": "Entregue as oito embarcações da última lista de apreensão."
+          }
+        },
+        {
+          "key": "verify-native-completion",
+          "title": "Verify native 100% completion",
+          "title_i18n": {
+            "en": "Verify native 100% completion",
+            "pt": "Confira os 100% nativos"
+          },
+          "description": "Check the game's completion statistic after finishing the PSP single-player requirements.",
+          "description_i18n": {
+            "en": "Check the game's completion statistic after finishing the PSP single-player requirements.",
+            "pt": "Confira a porcentagem do jogo após concluir os requisitos do modo para um jogador no PSP."
+          }
+        }
+      ]
+    }
+  ],
+  "trophies": [],
+  "hltb_id": "4076",
+  "hltb_main_hours": 16,
+  "hltb_main_extra_hours": 24,
+  "hltb_completionist_hours": 40
+}

@@ -1,0 +1,2083 @@
+{
+  "slug": "the-legend-of-zelda-twilight-princess-hd",
+  "title": "The Legend of Zelda: Twilight Princess HD",
+  "title_i18n": {
+    "en": "The Legend of Zelda: Twilight Princess HD",
+    "pt": "The Legend of Zelda: Twilight Princess HD"
+  },
+  "platform": "Wii U",
+  "cover_url": "/covers/the-legend-of-zelda-twilight-princess-hd.png",
+  "created_by": "dd5c4bf0-85ea-4986-9c04-b37e8c986150",
+  "categories": [
+    {
+      "key": "ordon-and-wii-u-preparation",
+      "title": "Ordon Village and Wii U preparation",
+      "title_i18n": {
+        "en": "Ordon Village and Wii U preparation",
+        "pt": "Ordon Village e preparação no Wii U"
+      },
+      "items": [
+        {
+          "key": "choose-hd-difficulty",
+          "title": "Choose the HD difficulty and orientation",
+          "title_i18n": {
+            "en": "Choose the HD difficulty and orientation",
+            "pt": "Escolher a dificuldade e orientação HD"
+          },
+          "description": "Normal uses the GameCube world orientation; Hero Mode mirrors it. This guide covers Wii U HD without Wii motion-control requirements.",
+          "description_i18n": {
+            "en": "Normal uses the GameCube world orientation; Hero Mode mirrors it. This guide covers Wii U HD without Wii motion-control requirements.",
+            "pt": "Normal usa a orientação de mundo do GameCube; Hero Mode a espelha. Este guia cobre o HD de Wii U sem exigir os movimentos do Wii."
+          }
+        },
+        {
+          "key": "meet-ordon-residents",
+          "title": "Meet the Ordon residents",
+          "title_i18n": {
+            "en": "Meet the Ordon residents",
+            "pt": "Conhecer os moradores de Ordon"
+          },
+          "description": "Speak with the villagers and investigate their requests before leaving the settlement.",
+          "description_i18n": {
+            "en": "Speak with the villagers and investigate their requests before leaving the settlement.",
+            "pt": "Fale com os moradores e investigue os pedidos antes de sair do povoado."
+          }
+        },
+        {
+          "key": "practice-epona-herding",
+          "title": "Practice riding and goat herding",
+          "title_i18n": {
+            "en": "Practice riding and goat herding",
+            "pt": "Praticar montaria e pastoreio de cabras"
+          },
+          "description": "Learn Epona's movement and finish the ranch task using the on-screen controls.",
+          "description_i18n": {
+            "en": "Learn Epona's movement and finish the ranch task using the on-screen controls.",
+            "pt": "Aprenda a movimentação de Epona e conclua a tarefa do rancho com os comandos indicados."
+          }
+        },
+        {
+          "key": "resolve-fishing-and-cat-request",
+          "title": "Resolve the fishing and cat request",
+          "title_i18n": {
+            "en": "Resolve the fishing and cat request",
+            "pt": "Resolver o pedido da pescaria e do gato"
+          },
+          "description": "Follow the village clues to obtain a fishing rod and help the shopkeeper's situation.",
+          "description_i18n": {
+            "en": "Follow the village clues to obtain a fishing rod and help the shopkeeper's situation.",
+            "pt": "Siga as pistas para obter uma vara de pesca e ajudar na situação da lojista."
+          }
+        },
+        {
+          "key": "obtain-slingshot-wooden-sword",
+          "title": "Obtain the Slingshot and Wooden Sword",
+          "title_i18n": {
+            "en": "Obtain the Slingshot and Wooden Sword",
+            "pt": "Obter Slingshot e Wooden Sword"
+          },
+          "description": "Prepare the starting tools and practice aiming and sword attacks with the children.",
+          "description_i18n": {
+            "en": "Prepare the starting tools and practice aiming and sword attacks with the children.",
+            "pt": "Prepare as ferramentas iniciais e pratique a mira e os golpes com as crianças."
+          }
+        },
+        {
+          "key": "rescue-talo-in-woods",
+          "title": "Rescue Talo in the woods",
+          "title_i18n": {
+            "en": "Rescue Talo in the woods",
+            "pt": "Resgatar Talo na floresta"
+          },
+          "description": "Follow the trail into Faron Woods and clear the route to the missing child.",
+          "description_i18n": {
+            "en": "Follow the trail into Faron Woods and clear the route to the missing child.",
+            "pt": "Siga a trilha até Faron Woods e libere a rota até a criança desaparecida."
+          }
+        },
+        {
+          "key": "complete-ordon-departure-tasks",
+          "title": "Complete the departure preparations",
+          "title_i18n": {
+            "en": "Complete the departure preparations",
+            "pt": "Concluir os preparativos de partida"
+          },
+          "description": "Return to the ranch and follow the conversations concerning the journey and Epona.",
+          "description_i18n": {
+            "en": "Return to the ranch and follow the conversations concerning the journey and Epona.",
+            "pt": "Volte ao rancho e acompanhe as conversas sobre a viagem e Epona."
+          }
+        },
+        {
+          "key": "follow-ordon-spring-events",
+          "title": "Follow the Ordon Spring events",
+          "title_i18n": {
+            "en": "Follow the Ordon Spring events",
+            "pt": "Acompanhar os acontecimentos de Ordon Spring"
+          },
+          "description": "Visit the spring and continue through the sequence that changes Link's situation.",
+          "description_i18n": {
+            "en": "Visit the spring and continue through the sequence that changes Link's situation.",
+            "pt": "Visite a fonte e acompanhe a sequência que transforma a situação de Link."
+          }
+        }
+      ]
+    },
+    {
+      "key": "wolf-escape-and-faron-light",
+      "title": "Wolf escape and Faron’s light",
+      "title_i18n": {
+        "en": "Wolf escape and Faron’s light",
+        "pt": "Fuga como lobo e luz de Faron"
+      },
+      "items": [
+        {
+          "key": "escape-castle-cell",
+          "title": "Escape the castle cell as Wolf Link",
+          "title_i18n": {
+            "en": "Escape the castle cell as Wolf Link",
+            "pt": "Escapar da cela como Wolf Link"
+          },
+          "description": "Meet Midna and use the new form's movement to leave the locked cell.",
+          "description_i18n": {
+            "en": "Meet Midna and use the new form's movement to leave the locked cell.",
+            "pt": "Encontre Midna e use os movimentos da nova forma para sair da cela."
+          }
+        },
+        {
+          "key": "navigate-castle-waterways",
+          "title": "Navigate the castle waterways",
+          "title_i18n": {
+            "en": "Navigate the castle waterways",
+            "pt": "Atravessar os canais do castelo"
+          },
+          "description": "Use senses and Midna's guidance to investigate spirits, passages and elevated routes.",
+          "description_i18n": {
+            "en": "Use senses and Midna's guidance to investigate spirits, passages and elevated routes.",
+            "pt": "Use os sentidos e a orientação de Midna para investigar espíritos, passagens e rotas elevadas."
+          }
+        },
+        {
+          "key": "meet-zelda-tower",
+          "title": "Meet Zelda in the tower",
+          "title_i18n": {
+            "en": "Meet Zelda in the tower",
+            "pt": "Encontrar Zelda na torre"
+          },
+          "description": "Follow the rooftop route and hear the explanation before returning toward Ordon.",
+          "description_i18n": {
+            "en": "Follow the rooftop route and hear the explanation before returning toward Ordon.",
+            "pt": "Siga pelos telhados e ouça a explicação antes de voltar a Ordon."
+          }
+        },
+        {
+          "key": "recover-ordon-sword-shield",
+          "title": "Recover the Ordon Sword and Shield",
+          "title_i18n": {
+            "en": "Recover the Ordon Sword and Shield",
+            "pt": "Recuperar Ordon Sword e Ordon Shield"
+          },
+          "description": "Observe the village at night and use wolf abilities to obtain the equipment Midna requests.",
+          "description_i18n": {
+            "en": "Observe the village at night and use wolf abilities to obtain the equipment Midna requests.",
+            "pt": "Observe a vila à noite e use as habilidades de lobo para obter o equipamento pedido."
+          }
+        },
+        {
+          "key": "meet-ordona-enter-faron",
+          "title": "Meet Ordona and enter Faron's twilight",
+          "title_i18n": {
+            "en": "Meet Ordona and enter Faron's twilight",
+            "pt": "Encontrar Ordona e entrar no crepúsculo de Faron"
+          },
+          "description": "Resolve the spring encounter and continue through the twilight boundary.",
+          "description_i18n": {
+            "en": "Resolve the spring encounter and continue through the twilight boundary.",
+            "pt": "Resolva o confronto na fonte e atravesse o limite do crepúsculo."
+          }
+        },
+        {
+          "key": "collect-faron-twelve-tears",
+          "title": "Collect Faron's twelve Tears of Light",
+          "title_i18n": {
+            "en": "Collect Faron's twelve Tears of Light",
+            "pt": "Coletar as doze Tears of Light de Faron"
+          },
+          "description": "Use the HD Vessel of Light map and wolf senses to locate the twelve required tears.",
+          "description_i18n": {
+            "en": "Use the HD Vessel of Light map and wolf senses to locate the twelve required tears.",
+            "pt": "Use o mapa do Vessel of Light HD e os sentidos para localizar as doze lágrimas exigidas."
+          },
+          "details": "Use wolf senses to reveal insects, then collect the light they leave behind rather than leaving immediately after a kill. Check the map markers and look above ground level when an insect is not visible. HD requires 12 tears in each of the three restored provinces. For shadow-beast groups, isolate the first enemy and use Midna’s charged field to finish the remaining pair together; leaving one alive revives the others.",
+          "details_i18n": {
+            "en": "Use wolf senses to reveal insects, then collect the light they leave behind rather than leaving immediately after a kill. Check the map markers and look above ground level when an insect is not visible. HD requires 12 tears in each of the three restored provinces. For shadow-beast groups, isolate the first enemy and use Midna’s charged field to finish the remaining pair together; leaving one alive revives the others.",
+            "pt": "Use os sentidos de lobo para revelar os insetos e recolha a luz que deixam, sem sair imediatamente após derrotá-los. Confira as marcações do mapa e procure acima do chão quando não enxergar um inseto. A edição HD exige 12 lágrimas em cada uma das três províncias restauradas. Nos grupos de criaturas das sombras, isole o primeiro inimigo e use o campo carregado de Midna para finalizar os dois restantes juntos; deixar apenas um vivo ressuscita os outros."
+          }
+        },
+        {
+          "key": "restore-human-form-faron",
+          "title": "Restore Faron and Link's human form",
+          "title_i18n": {
+            "en": "Restore Faron and Link's human form",
+            "pt": "Restaurar Faron e a forma humana de Link"
+          },
+          "description": "Finish the light-spirit sequence and prepare for the Forest Temple route.",
+          "description_i18n": {
+            "en": "Finish the light-spirit sequence and prepare for the Forest Temple route.",
+            "pt": "Conclua a sequência do espírito da luz e prepare-se para a rota do Forest Temple."
+          }
+        }
+      ]
+    },
+    {
+      "key": "forest-temple",
+      "title": "Forest Temple",
+      "title_i18n": {
+        "en": "Forest Temple",
+        "pt": "Forest Temple"
+      },
+      "items": [
+        {
+          "key": "reach-forest-temple",
+          "title": "Reach the Forest Temple",
+          "title_i18n": {
+            "en": "Reach the Forest Temple",
+            "pt": "Alcançar o Forest Temple"
+          },
+          "description": "Follow the woods' reopened route and meet the swordsman who introduces the first Hidden Skill.",
+          "description_i18n": {
+            "en": "Follow the woods' reopened route and meet the swordsman who introduces the first Hidden Skill.",
+            "pt": "Siga a rota reaberta e encontre o espadachim que apresenta a primeira Hidden Skill."
+          }
+        },
+        {
+          "key": "rescue-temple-monkeys",
+          "title": "Rescue the trapped monkeys",
+          "title_i18n": {
+            "en": "Rescue the trapped monkeys",
+            "pt": "Resgatar os macacos presos"
+          },
+          "description": "Open their cages and track how the rescued companions help with the dungeon's gaps.",
+          "description_i18n": {
+            "en": "Open their cages and track how the rescued companions help with the dungeon's gaps.",
+            "pt": "Abra as gaiolas e observe como os companheiros ajudam nos vãos da masmorra."
+          }
+        },
+        {
+          "key": "explore-forest-explosive-routes",
+          "title": "Explore the explosive-obstacle rooms",
+          "title_i18n": {
+            "en": "Explore the explosive-obstacle rooms",
+            "pt": "Explorar as salas de obstáculos explosivos"
+          },
+          "description": "Inspect local creatures and environmental objects before forcing a blocked route.",
+          "description_i18n": {
+            "en": "Inspect local creatures and environmental objects before forcing a blocked route.",
+            "pt": "Examine as criaturas e os objetos locais antes de tentar forçar uma passagem."
+          }
+        },
+        {
+          "key": "defeat-ook-obtain-boomerang",
+          "title": "Defeat Ook and obtain the Gale Boomerang",
+          "title_i18n": {
+            "en": "Defeat Ook and obtain the Gale Boomerang",
+            "pt": "Derrotar Ook e obter o Gale Boomerang"
+          },
+          "description": "Complete the suspended-platform encounter and test the new wind tool.",
+          "description_i18n": {
+            "en": "Complete the suspended-platform encounter and test the new wind tool.",
+            "pt": "Vença o confronto nas plataformas suspensas e teste a ferramenta de vento."
+          }
+        },
+        {
+          "key": "finish-monkey-network",
+          "title": "Complete the monkey-assisted route",
+          "title_i18n": {
+            "en": "Complete the monkey-assisted route",
+            "pt": "Concluir a rota com ajuda dos macacos"
+          },
+          "description": "Revisit unreachable chambers with the Boomerang and finish the route to the boss key.",
+          "description_i18n": {
+            "en": "Revisit unreachable chambers with the Boomerang and finish the route to the boss key.",
+            "pt": "Revisite as câmaras inacessíveis com o Boomerang e conclua a rota da chave do chefe."
+          },
+          "details": "Revisit earlier rooms with the Gale Boomerang: it can activate wind mechanisms and carry useful objects across gaps. Some bridges must be turned before you can cross them. At the multi-fan gate, inspect the floor clue and lock onto the fans in its indicated order before throwing. Continue freeing monkeys until their combined help reaches the final route; a rescued monkey alone does not mean that branch is finished.",
+          "details_i18n": {
+            "en": "Revisit earlier rooms with the Gale Boomerang: it can activate wind mechanisms and carry useful objects across gaps. Some bridges must be turned before you can cross them. At the multi-fan gate, inspect the floor clue and lock onto the fans in its indicated order before throwing. Continue freeing monkeys until their combined help reaches the final route; a rescued monkey alone does not mean that branch is finished.",
+            "pt": "Revisite as salas anteriores com o Gale Boomerang: ele ativa mecanismos de vento e transporta objetos úteis sobre vãos. Algumas pontes precisam ser giradas antes da travessia. No portão com vários ventiladores, examine a pista no chão e selecione os alvos na ordem indicada antes de lançar. Continue libertando os macacos até que sua ajuda conjunta permita alcançar a rota final; resgatar um macaco não significa concluir toda aquela ramificação."
+          }
+        },
+        {
+          "key": "defeat-diababa",
+          "title": "Defeat Diababa",
+          "title_i18n": {
+            "en": "Defeat Diababa",
+            "pt": "Derrotar Diababa"
+          },
+          "description": "Use the dungeon's tools and helpers during the boss phases, then collect the reward.",
+          "description_i18n": {
+            "en": "Use the dungeon's tools and helpers during the boss phases, then collect the reward.",
+            "pt": "Use as ferramentas e os ajudantes nas fases do chefe e recolha a recompensa."
+          }
+        }
+      ]
+    },
+    {
+      "key": "eldin-twilight-and-kakariko",
+      "title": "Eldin’s twilight and Kakariko",
+      "title_i18n": {
+        "en": "Eldin’s twilight and Kakariko",
+        "pt": "Crepúsculo de Eldin e Kakariko"
+      },
+      "items": [
+        {
+          "key": "travel-eldin-boundary",
+          "title": "Travel to Eldin's twilight boundary",
+          "title_i18n": {
+            "en": "Travel to Eldin's twilight boundary",
+            "pt": "Viajar até o limite do crepúsculo de Eldin"
+          },
+          "description": "Follow the next regional objective and investigate the bridge obstruction along the route.",
+          "description_i18n": {
+            "en": "Follow the next regional objective and investigate the bridge obstruction along the route.",
+            "pt": "Siga o próximo objetivo regional e investigue a obstrução da ponte no caminho."
+          }
+        },
+        {
+          "key": "follow-child-scent",
+          "title": "Follow the children's scent",
+          "title_i18n": {
+            "en": "Follow the children's scent",
+            "pt": "Seguir o cheiro das crianças"
+          },
+          "description": "Use wolf senses to track the missing villagers toward Kakariko.",
+          "description_i18n": {
+            "en": "Use wolf senses to track the missing villagers toward Kakariko.",
+            "pt": "Use os sentidos de lobo para rastrear os moradores desaparecidos até Kakariko."
+          }
+        },
+        {
+          "key": "collect-eldin-twelve-tears",
+          "title": "Collect Eldin's twelve Tears of Light",
+          "title_i18n": {
+            "en": "Collect Eldin's twelve Tears of Light",
+            "pt": "Coletar as doze Tears of Light de Eldin"
+          },
+          "description": "Search Kakariko, its buildings and the mountain approach using the HD map targets.",
+          "description_i18n": {
+            "en": "Search Kakariko, its buildings and the mountain approach using the HD map targets.",
+            "pt": "Procure em Kakariko, nos prédios e no acesso da montanha seguindo os alvos do mapa HD."
+          }
+        },
+        {
+          "key": "meet-renado-and-children",
+          "title": "Meet Renado and the children",
+          "title_i18n": {
+            "en": "Meet Renado and the children",
+            "pt": "Encontrar Renado e as crianças"
+          },
+          "description": "Complete the restored-village conversation and inspect the Death Mountain route.",
+          "description_i18n": {
+            "en": "Complete the restored-village conversation and inspect the Death Mountain route.",
+            "pt": "Conclua a conversa na vila restaurada e examine a rota de Death Mountain."
+          }
+        },
+        {
+          "key": "learn-sumo-obtain-iron-boots",
+          "title": "Learn sumo and obtain the Iron Boots",
+          "title_i18n": {
+            "en": "Learn sumo and obtain the Iron Boots",
+            "pt": "Aprender sumô e obter as Iron Boots"
+          },
+          "description": "Follow the Ordon lead and complete the mayor's training before returning to the Gorons.",
+          "description_i18n": {
+            "en": "Follow the Ordon lead and complete the mayor's training before returning to the Gorons.",
+            "pt": "Siga a pista de Ordon e conclua o treinamento do prefeito antes de voltar aos Gorons."
+          }
+        },
+        {
+          "key": "rescue-colin-and-reach-mines",
+          "title": "Rescue Colin and reach the Goron challenge",
+          "title_i18n": {
+            "en": "Rescue Colin and reach the Goron challenge",
+            "pt": "Resgatar Colin e alcançar o desafio Goron"
+          },
+          "description": "Resolve the mounted rescue, then climb Death Mountain and complete the entry challenge.",
+          "description_i18n": {
+            "en": "Resolve the mounted rescue, then climb Death Mountain and complete the entry challenge.",
+            "pt": "Conclua o resgate montado, suba Death Mountain e vença o desafio de entrada."
+          }
+        }
+      ]
+    },
+    {
+      "key": "goron-mines",
+      "title": "Goron Mines",
+      "title_i18n": {
+        "en": "Goron Mines",
+        "pt": "Goron Mines"
+      },
+      "items": [
+        {
+          "key": "enter-goron-mines",
+          "title": "Enter the Goron Mines",
+          "title_i18n": {
+            "en": "Enter the Goron Mines",
+            "pt": "Entrar nas Goron Mines"
+          },
+          "description": "Inspect the lava hazards and the first mechanisms before committing to a crossing.",
+          "description_i18n": {
+            "en": "Inspect the lava hazards and the first mechanisms before committing to a crossing.",
+            "pt": "Examine os perigos de lava e os primeiros mecanismos antes de atravessar."
+          }
+        },
+        {
+          "key": "use-magnetic-iron-boots",
+          "title": "Use the magnetic Iron Boots routes",
+          "title_i18n": {
+            "en": "Use the magnetic Iron Boots routes",
+            "pt": "Usar as rotas magnéticas das Iron Boots"
+          },
+          "description": "Observe magnet timing and equip or remove the boots deliberately at each transition.",
+          "description_i18n": {
+            "en": "Observe magnet timing and equip or remove the boots deliberately at each transition.",
+            "pt": "Observe o tempo dos ímãs e equipe ou retire as botas deliberadamente nas transições."
+          }
+        },
+        {
+          "key": "meet-three-goron-elders",
+          "title": "Meet the three Goron elders",
+          "title_i18n": {
+            "en": "Meet the three Goron elders",
+            "pt": "Encontrar os três anciões Goron"
+          },
+          "description": "Follow the connected dungeon branches and collect the pieces of the boss key.",
+          "description_i18n": {
+            "en": "Follow the connected dungeon branches and collect the pieces of the boss key.",
+            "pt": "Siga pelas alas conectadas e recolha as partes da chave do chefe."
+          }
+        },
+        {
+          "key": "defeat-dangoro-obtain-bow",
+          "title": "Defeat Dangoro and obtain the Hero's Bow",
+          "title_i18n": {
+            "en": "Defeat Dangoro and obtain the Hero's Bow",
+            "pt": "Derrotar Dangoro e obter o Hero's Bow"
+          },
+          "description": "Complete the platform duel and claim the ranged weapon.",
+          "description_i18n": {
+            "en": "Complete the platform duel and claim the ranged weapon.",
+            "pt": "Conclua o duelo na plataforma e obtenha a arma de longo alcance."
+          }
+        },
+        {
+          "key": "open-mines-final-route",
+          "title": "Open the mines' final route",
+          "title_i18n": {
+            "en": "Open the mines' final route",
+            "pt": "Abrir a rota final das minas"
+          },
+          "description": "Revisit distant switches and assemble the key before entering the final chamber.",
+          "description_i18n": {
+            "en": "Revisit distant switches and assemble the key before entering the final chamber.",
+            "pt": "Revisite os interruptores distantes e reúna a chave antes da câmara final."
+          }
+        },
+        {
+          "key": "defeat-fyrus",
+          "title": "Defeat Fyrus",
+          "title_i18n": {
+            "en": "Defeat Fyrus",
+            "pt": "Derrotar Fyrus"
+          },
+          "description": "Read the armored boss's weak-point signals and use the optional guidance if progress stalls.",
+          "description_i18n": {
+            "en": "Read the armored boss's weak-point signals and use the optional guidance if progress stalls.",
+            "pt": "Observe os sinais do ponto fraco do chefe e consulte a orientação opcional se não avançar."
+          },
+          "details": "Keep enough distance to aim an arrow at the bright forehead gem. When Fyrus is stunned, grab a trailing ankle chain, equip the Iron Boots and pull against his movement until he falls. Release the chain and remove the boots so you can reach his head quickly for sword strikes. Repeat the cycle instead of trying to damage his armored body. Unequip the boots whenever you need to evade.",
+          "details_i18n": {
+            "en": "Keep enough distance to aim an arrow at the bright forehead gem. When Fyrus is stunned, grab a trailing ankle chain, equip the Iron Boots and pull against his movement until he falls. Release the chain and remove the boots so you can reach his head quickly for sword strikes. Repeat the cycle instead of trying to damage his armored body. Unequip the boots whenever you need to evade.",
+            "pt": "Mantenha distância suficiente para acertar com uma flecha a joia brilhante na testa. Quando Fyrus ficar atordoado, segure uma corrente presa ao tornozelo, equipe as Iron Boots e puxe contra seu movimento até derrubá-lo. Solte a corrente e retire as botas para alcançar rapidamente a cabeça e golpeá-la. Repita esse ciclo em vez de tentar ferir o corpo protegido. Tire as botas sempre que precisar desviar."
+          }
+        }
+      ]
+    },
+    {
+      "key": "lanayru-light-and-caravan",
+      "title": "Lanayru’s light and the caravan",
+      "title_i18n": {
+        "en": "Lanayru’s light and the caravan",
+        "pt": "Luz de Lanayru e a caravana"
+      },
+      "items": [
+        {
+          "key": "enter-lanayru-twilight",
+          "title": "Enter Lanayru's twilight",
+          "title_i18n": {
+            "en": "Enter Lanayru's twilight",
+            "pt": "Entrar no crepúsculo de Lanayru"
+          },
+          "description": "Follow the trail toward Castle Town and investigate the familiar scent.",
+          "description_i18n": {
+            "en": "Follow the trail toward Castle Town and investigate the familiar scent.",
+            "pt": "Siga a trilha até Castle Town e investigue o cheiro conhecido."
+          }
+        },
+        {
+          "key": "visit-telmas-bar-wolf",
+          "title": "Investigate Telma's Bar as a wolf",
+          "title_i18n": {
+            "en": "Investigate Telma's Bar as a wolf",
+            "pt": "Investigar Telma's Bar como lobo"
+          },
+          "description": "Use senses to learn what happened to Ilia and the injured Zora child.",
+          "description_i18n": {
+            "en": "Use senses to learn what happened to Ilia and the injured Zora child.",
+            "pt": "Use os sentidos para descobrir o que houve com Ilia e a criança Zora ferida."
+          }
+        },
+        {
+          "key": "reach-lake-hylia",
+          "title": "Reach Lake Hylia",
+          "title_i18n": {
+            "en": "Reach Lake Hylia",
+            "pt": "Alcançar Lake Hylia"
+          },
+          "description": "Follow the changed bridge and lake route and meet the regional light spirit.",
+          "description_i18n": {
+            "en": "Follow the changed bridge and lake route and meet the regional light spirit.",
+            "pt": "Siga pela rota alterada da ponte e do lago e encontre o espírito da luz."
+          }
+        },
+        {
+          "key": "restore-zoras-domain-water",
+          "title": "Restore the water at Zora's Domain",
+          "title_i18n": {
+            "en": "Restore the water at Zora's Domain",
+            "pt": "Restaurar a água de Zora's Domain"
+          },
+          "description": "Use the newly available wolf travel route and investigate the frozen water source.",
+          "description_i18n": {
+            "en": "Use the newly available wolf travel route and investigate the frozen water source.",
+            "pt": "Use a nova rota de viagem como lobo e investigue a fonte de água congelada."
+          }
+        },
+        {
+          "key": "collect-lanayru-twelve-tears",
+          "title": "Collect Lanayru's twelve Tears of Light",
+          "title_i18n": {
+            "en": "Collect Lanayru's twelve Tears of Light",
+            "pt": "Coletar as doze Tears of Light de Lanayru"
+          },
+          "description": "Search the lake, river and domain targets, including the final insect encounter.",
+          "description_i18n": {
+            "en": "Search the lake, river and domain targets, including the final insect encounter.",
+            "pt": "Procure os alvos no lago, rio e domínio, incluindo o confronto com o inseto final."
+          }
+        },
+        {
+          "key": "escort-telma-caravan",
+          "title": "Escort Telma's caravan",
+          "title_i18n": {
+            "en": "Escort Telma's caravan",
+            "pt": "Escoltar a caravana de Telma"
+          },
+          "description": "Return as a human and protect the wagon until the travelers reach Kakariko.",
+          "description_i18n": {
+            "en": "Return as a human and protect the wagon until the travelers reach Kakariko.",
+            "pt": "Volte como humano e proteja a carroça até a chegada a Kakariko."
+          },
+          "details": "Defeat the bridge rider with arrows aimed at his exposed body, then keep the wagon in sight. Lock onto a burning wagon with the Gale Boomerang to extinguish it. At junctions, stop the bomb-carrying birds before they divert the horse; repeatedly clearing only the ground riders will not fix that loop. Open the locked gates with the acquired key and let the wagon pass before following.",
+          "details_i18n": {
+            "en": "Defeat the bridge rider with arrows aimed at his exposed body, then keep the wagon in sight. Lock onto a burning wagon with the Gale Boomerang to extinguish it. At junctions, stop the bomb-carrying birds before they divert the horse; repeatedly clearing only the ground riders will not fix that loop. Open the locked gates with the acquired key and let the wagon pass before following.",
+            "pt": "Derrote o cavaleiro da ponte com flechas na parte exposta do corpo e mantenha a carroça à vista. Mire na carroça em chamas com o Gale Boomerang para apagar o fogo. Nas bifurcações, intercepte as aves com bombas antes que desviem o cavalo; derrotar repetidamente apenas os cavaleiros terrestres não resolve esse ciclo. Abra os portões trancados com a chave obtida e deixe a carroça passar antes de segui-la."
+          }
+        },
+        {
+          "key": "obtain-zora-armor-and-bombs",
+          "title": "Obtain Zora Armor and prepare water explosives",
+          "title_i18n": {
+            "en": "Obtain Zora Armor and prepare water explosives",
+            "pt": "Obter Zora Armor e preparar explosivos aquáticos"
+          },
+          "description": "Follow Rutela's request, inspect the graveyard route and buy suitable bombs for the lake entrance.",
+          "description_i18n": {
+            "en": "Follow Rutela's request, inspect the graveyard route and buy suitable bombs for the lake entrance.",
+            "pt": "Siga o pedido de Rutela, examine a rota do cemitério e compre bombas adequadas à entrada do lago."
+          }
+        }
+      ]
+    },
+    {
+      "key": "lakebed-temple",
+      "title": "Lakebed Temple",
+      "title_i18n": {
+        "en": "Lakebed Temple",
+        "pt": "Lakebed Temple"
+      },
+      "items": [
+        {
+          "key": "open-lakebed-entrance",
+          "title": "Open the Lakebed Temple entrance",
+          "title_i18n": {
+            "en": "Open the Lakebed Temple entrance",
+            "pt": "Abrir a entrada do Lakebed Temple"
+          },
+          "description": "Equip underwater protection and investigate the blocked entrance beneath the lake.",
+          "description_i18n": {
+            "en": "Equip underwater protection and investigate the blocked entrance beneath the lake.",
+            "pt": "Equipe a proteção subaquática e investigue a entrada bloqueada sob o lago."
+          }
+        },
+        {
+          "key": "inspect-central-staircase",
+          "title": "Inspect the central staircase",
+          "title_i18n": {
+            "en": "Inspect the central staircase",
+            "pt": "Examinar a escadaria central"
+          },
+          "description": "Learn how the handles redirect stairs and connect the dungeon's floors.",
+          "description_i18n": {
+            "en": "Learn how the handles redirect stairs and connect the dungeon's floors.",
+            "pt": "Aprenda como as alavancas redirecionam as escadas e conectam os andares."
+          }
+        },
+        {
+          "key": "restore-water-flow-branches",
+          "title": "Restore the first water-flow branch",
+          "title_i18n": {
+            "en": "Restore the first water-flow branch",
+            "pt": "Restaurar a primeira ala de fluxo de água"
+          },
+          "description": "Explore the first accessible upper route and follow its newly released stream toward the next encounter.",
+          "description_i18n": {
+            "en": "Explore the first accessible upper route and follow its newly released stream toward the next encounter.",
+            "pt": "Explore a primeira rota superior acessível e siga o novo fluxo até o próximo confronto."
+          }
+        },
+        {
+          "key": "defeat-deku-toad-obtain-clawshot",
+          "title": "Defeat Deku Toad and obtain the Clawshot",
+          "title_i18n": {
+            "en": "Defeat Deku Toad and obtain the Clawshot",
+            "pt": "Derrotar Deku Toad e obter o Clawshot"
+          },
+          "description": "Complete the mini-boss encounter and test the new tool on nearby anchors.",
+          "description_i18n": {
+            "en": "Complete the mini-boss encounter and test the new tool on nearby anchors.",
+            "pt": "Vença o minichefe e teste a nova ferramenta nos apoios próximos."
+          }
+        },
+        {
+          "key": "complete-clawshot-water-routes",
+          "title": "Complete the Clawshot water routes",
+          "title_i18n": {
+            "en": "Complete the Clawshot water routes",
+            "pt": "Concluir as rotas aquáticas de Clawshot"
+          },
+          "description": "Use the Clawshot to reach the remaining water-flow branch and revisit the moving machinery.",
+          "description_i18n": {
+            "en": "Use the Clawshot to reach the remaining water-flow branch and revisit the moving machinery.",
+            "pt": "Use a Clawshot para alcançar a outra ala de fluxo de água e revisite os mecanismos móveis."
+          },
+          "details": "Treat the central staircase as a water channel as well as a walkway. First release the water in the side towers, then return to the hub and pull the appropriate hanging handles to rotate the stairs toward the wing you need to flood. After obtaining the Clawshot, previously unreachable handles and ceiling targets become usable. Follow the flowing water to check your routing; changing the stairs without supplying water will not activate the destination machinery.",
+          "details_i18n": {
+            "en": "Treat the central staircase as a water channel as well as a walkway. First release the water in the side towers, then return to the hub and pull the appropriate hanging handles to rotate the stairs toward the wing you need to flood. After obtaining the Clawshot, previously unreachable handles and ceiling targets become usable. Follow the flowing water to check your routing; changing the stairs without supplying water will not activate the destination machinery.",
+            "pt": "Trate a escadaria central como um canal de água e também como passagem. Primeiro libere a água nas torres laterais; depois volte ao centro e puxe as alças suspensas adequadas para girar a escada em direção à ala que precisa inundar. Após obter a Clawshot, alças e alvos no teto antes inacessíveis tornam-se utilizáveis. Siga a corrente para conferir o trajeto; girar a escada sem fornecer água não ativa os mecanismos do destino."
+          }
+        },
+        {
+          "key": "recover-lakebed-big-key",
+          "title": "Recover the Lakebed Big Key",
+          "title_i18n": {
+            "en": "Recover the Lakebed Big Key",
+            "pt": "Recuperar a Big Key de Lakebed"
+          },
+          "description": "Finish the remaining water connections and prepare for the submerged arena.",
+          "description_i18n": {
+            "en": "Finish the remaining water connections and prepare for the submerged arena.",
+            "pt": "Conclua as conexões de água restantes e prepare-se para a arena submersa."
+          }
+        },
+        {
+          "key": "defeat-morpheel",
+          "title": "Defeat Morpheel",
+          "title_i18n": {
+            "en": "Defeat Morpheel",
+            "pt": "Derrotar Morpheel"
+          },
+          "description": "Track the boss's changing weak point and collect the reward after the full encounter.",
+          "description_i18n": {
+            "en": "Track the boss's changing weak point and collect the reward after the full encounter.",
+            "pt": "Acompanhe o ponto fraco variável e recolha a recompensa após o confronto completo."
+          }
+        }
+      ]
+    },
+    {
+      "key": "master-sword-and-resistance",
+      "title": "The Master Sword and the resistance",
+      "title_i18n": {
+        "en": "The Master Sword and the resistance",
+        "pt": "A Master Sword e a resistência"
+      },
+      "items": [
+        {
+          "key": "carry-midna-to-castle-town",
+          "title": "Carry Midna to Castle Town",
+          "title_i18n": {
+            "en": "Carry Midna to Castle Town",
+            "pt": "Leve Midna à Cidade do Castelo"
+          },
+          "description": "Follow the urgent objective after Lakebed Temple and seek a safe way into town.",
+          "description_i18n": {
+            "en": "Follow the urgent objective after Lakebed Temple and seek a safe way into town.",
+            "pt": "Siga o objetivo urgente após o Lakebed Temple e procure uma entrada segura para a cidade."
+          }
+        },
+        {
+          "key": "find-telmas-hidden-route",
+          "title": "Find Telma's hidden route",
+          "title_i18n": {
+            "en": "Find Telma's hidden route",
+            "pt": "Encontre a passagem de Telma"
+          },
+          "description": "Investigate the bar's surroundings and follow the helpful local contacts.",
+          "description_i18n": {
+            "en": "Investigate the bar's surroundings and follow the helpful local contacts.",
+            "pt": "Investigue os arredores do bar e siga os contatos dispostos a ajudar."
+          }
+        },
+        {
+          "key": "reach-zelda-again",
+          "title": "Reach Zelda again",
+          "title_i18n": {
+            "en": "Reach Zelda again",
+            "pt": "Volte a encontrar Zelda"
+          },
+          "description": "Use the rooftops and castle passages to complete the rescue journey.",
+          "description_i18n": {
+            "en": "Use the rooftops and castle passages to complete the rescue journey.",
+            "pt": "Atravesse os telhados e as passagens do castelo para concluir o resgate."
+          }
+        },
+        {
+          "key": "follow-sacred-grove-path",
+          "title": "Follow the Sacred Grove path",
+          "title_i18n": {
+            "en": "Follow the Sacred Grove path",
+            "pt": "Siga pela Sacred Grove"
+          },
+          "description": "Travel into Faron's deeper woodland and pursue the musical guide.",
+          "description_i18n": {
+            "en": "Travel into Faron's deeper woodland and pursue the musical guide.",
+            "pt": "Entre na mata mais profunda de Faron e siga o guia musical."
+          }
+        },
+        {
+          "key": "solve-grove-guardian-trial",
+          "title": "Complete the guardian trial",
+          "title_i18n": {
+            "en": "Complete the guardian trial",
+            "pt": "Conclua a prova dos guardiões"
+          },
+          "description": "Examine the entrance trial and open the way to the sacred pedestal.",
+          "description_i18n": {
+            "en": "Examine the entrance trial and open the way to the sacred pedestal.",
+            "pt": "Observe a prova da entrada e libere o caminho até o pedestal sagrado."
+          },
+          "details": "The two guardians react differently to each jump: one follows your direction while the other moves oppositely. Your goal is to place both on their marked starting platforms at the same time. Track all three positions, and use the edges of the board to stop a guardian while moving Link or the other statue. If the arrangement becomes confusing, ask to restart. A Wii or Hero Mode direction sequence must be mirrored for normal HD, so follow the board rather than an unqualified left/right list.",
+          "details_i18n": {
+            "en": "The two guardians react differently to each jump: one follows your direction while the other moves oppositely. Your goal is to place both on their marked starting platforms at the same time. Track all three positions, and use the edges of the board to stop a guardian while moving Link or the other statue. If the arrangement becomes confusing, ask to restart. A Wii or Hero Mode direction sequence must be mirrored for normal HD, so follow the board rather than an unqualified left/right list.",
+            "pt": "Os dois guardiões reagem de formas diferentes a cada salto: um segue sua direção, enquanto o outro se move no sentido oposto. O objetivo é colocar ambos nas plataformas iniciais marcadas ao mesmo tempo. Acompanhe as três posições e use as bordas do tabuleiro para impedir o avanço de um guardião enquanto move Link ou a outra estátua. Se perder o controle da disposição, peça para reiniciar. Sequências direcionais de Wii ou Hero Mode precisam ser espelhadas no HD normal; acompanhe o tabuleiro em vez de seguir uma lista sem indicação de versão."
+          }
+        },
+        {
+          "key": "claim-master-sword",
+          "title": "Claim the Master Sword",
+          "title_i18n": {
+            "en": "Claim the Master Sword",
+            "pt": "Obtenha a Master Sword"
+          },
+          "description": "Reach the pedestal and complete the scene that changes your travel options.",
+          "description_i18n": {
+            "en": "Reach the pedestal and complete the scene that changes your travel options.",
+            "pt": "Alcance o pedestal e conclua a cena que amplia suas opções de viagem."
+          }
+        },
+        {
+          "key": "meet-castle-town-resistance",
+          "title": "Meet the resistance",
+          "title_i18n": {
+            "en": "Meet the resistance",
+            "pt": "Conheça a resistência"
+          },
+          "description": "Return to Telma's bar and inspect the group's map for the desert lead.",
+          "description_i18n": {
+            "en": "Return to Telma's bar and inspect the group's map for the desert lead.",
+            "pt": "Volte ao bar de Telma e examine o mapa do grupo para obter a pista sobre o deserto."
+          }
+        }
+      ]
+    },
+    {
+      "key": "gerudo-desert-and-arbiters-grounds",
+      "title": "Gerudo Desert and Arbiter's Grounds",
+      "title_i18n": {
+        "en": "Gerudo Desert and Arbiter's Grounds",
+        "pt": "Gerudo Desert e Arbiter’s Grounds"
+      },
+      "items": [
+        {
+          "key": "obtain-aurus-memo",
+          "title": "Obtain Auru's introduction",
+          "title_i18n": {
+            "en": "Obtain Auru's introduction",
+            "pt": "Obtenha a indicação de Auru"
+          },
+          "description": "Find Auru near Lake Hylia and follow his instructions for reaching the desert.",
+          "description_i18n": {
+            "en": "Find Auru near Lake Hylia and follow his instructions for reaching the desert.",
+            "pt": "Encontre Auru perto do Lake Hylia e siga suas instruções para chegar ao deserto."
+          }
+        },
+        {
+          "key": "launch-to-gerudo-desert",
+          "title": "Launch to Gerudo Desert",
+          "title_i18n": {
+            "en": "Launch to Gerudo Desert",
+            "pt": "Viaje para Gerudo Desert"
+          },
+          "description": "Speak with Fyer using the introduction and prepare for a long desert crossing.",
+          "description_i18n": {
+            "en": "Speak with Fyer using the introduction and prepare for a long desert crossing.",
+            "pt": "Fale com Fyer usando a indicação e prepare-se para atravessar o deserto."
+          }
+        },
+        {
+          "key": "open-desert-warp-route",
+          "title": "Open a desert warp route",
+          "title_i18n": {
+            "en": "Open a desert warp route",
+            "pt": "Abra uma rota de teletransporte no deserto"
+          },
+          "description": "Clear the shadow encounter and inspect the large displaced structure nearby.",
+          "description_i18n": {
+            "en": "Clear the shadow encounter and inspect the large displaced structure nearby.",
+            "pt": "Vença o encontro com criaturas das sombras e examine a grande estrutura deslocada nas proximidades."
+          }
+        },
+        {
+          "key": "clear-bulblin-camp",
+          "title": "Clear the Bulblin camp",
+          "title_i18n": {
+            "en": "Clear the Bulblin camp",
+            "pt": "Atravesse o acampamento Bulblin"
+          },
+          "description": "Work through the camp, recover its key and face the mounted leader's rematch.",
+          "description_i18n": {
+            "en": "Work through the camp, recover its key and face the mounted leader's rematch.",
+            "pt": "Avance pelo acampamento, recupere sua chave e enfrente a revanche do líder montado."
+          }
+        },
+        {
+          "key": "track-four-temple-poes",
+          "title": "Track the temple's four Poes",
+          "title_i18n": {
+            "en": "Track the temple's four Poes",
+            "pt": "Rastreie os quatro Poes do templo"
+          },
+          "description": "Enter Arbiter's Grounds and investigate the vanished flames using both forms.",
+          "description_i18n": {
+            "en": "Enter Arbiter's Grounds and investigate the vanished flames using both forms.",
+            "pt": "Entre em Arbiter’s Grounds e investigue as chamas desaparecidas usando as duas formas."
+          },
+          "details": "Defeat the first Poe in wolf form with senses active and learn its scent. Follow the scent trails from the central chamber, checking different floors rather than assuming every trail remains on the same level. Use human tools to solve the physical rooms, then return to wolf form to expose each Poe. Bring all four flames back before expecting the central route to open. Returning to the hub between branches makes missing trails easier to identify.",
+          "details_i18n": {
+            "en": "Defeat the first Poe in wolf form with senses active and learn its scent. Follow the scent trails from the central chamber, checking different floors rather than assuming every trail remains on the same level. Use human tools to solve the physical rooms, then return to wolf form to expose each Poe. Bring all four flames back before expecting the central route to open. Returning to the hub between branches makes missing trails easier to identify.",
+            "pt": "Derrote o primeiro Poe como lobo com os sentidos ativos e memorize seu cheiro. Siga os rastros a partir da câmara central, conferindo diferentes andares em vez de presumir que todos ficam no mesmo nível. Use as ferramentas humanas para resolver as salas físicas e volte à forma de lobo para revelar cada Poe. Recupere as quatro chamas antes de esperar a abertura da passagem central. Retornar ao centro entre as ramificações facilita encontrar o rastro que falta."
+          }
+        },
+        {
+          "key": "defeat-death-sword",
+          "title": "Defeat Death Sword",
+          "title_i18n": {
+            "en": "Defeat Death Sword",
+            "pt": "Derrote Death Sword"
+          },
+          "description": "Read the miniboss's changing behavior and obtain the Spinner.",
+          "description_i18n": {
+            "en": "Read the miniboss's changing behavior and obtain the Spinner.",
+            "pt": "Observe as mudanças de comportamento do minichefe e obtenha o Spinner."
+          }
+        },
+        {
+          "key": "explore-spinner-rails",
+          "title": "Explore the Spinner rails",
+          "title_i18n": {
+            "en": "Explore the Spinner rails",
+            "pt": "Explore os trilhos do Spinner"
+          },
+          "description": "Use the new tool to reach the remaining chambers and the boss route.",
+          "description_i18n": {
+            "en": "Use the new tool to reach the remaining chambers and the boss route.",
+            "pt": "Use a nova ferramenta para alcançar as câmaras restantes e a rota do chefe."
+          }
+        },
+        {
+          "key": "defeat-stallord-and-inspect-mirror",
+          "title": "Defeat Stallord and inspect the mirror",
+          "title_i18n": {
+            "en": "Defeat Stallord and inspect the mirror",
+            "pt": "Derrote Stallord e examine o espelho"
+          },
+          "description": "Finish the dungeon, then climb to the Mirror Chamber and receive the next objective.",
+          "description_i18n": {
+            "en": "Finish the dungeon, then climb to the Mirror Chamber and receive the next objective.",
+            "pt": "Conclua o templo, suba à Mirror Chamber e receba o próximo objetivo."
+          },
+          "details": "In the first phase, ride the Spinner around the arena and strike the exposed spine while avoiding the intervening skeletons. After the arena changes, use the central Spinner slot to raise the structure. Ride the wall rails upward and jump between them when incoming attacks threaten your path. When you reach the exposed head, jump across to knock it down and attack with the sword. Re-enter the rail circuit for the next opening.",
+          "details_i18n": {
+            "en": "In the first phase, ride the Spinner around the arena and strike the exposed spine while avoiding the intervening skeletons. After the arena changes, use the central Spinner slot to raise the structure. Ride the wall rails upward and jump between them when incoming attacks threaten your path. When you reach the exposed head, jump across to knock it down and attack with the sword. Re-enter the rail circuit for the next opening.",
+            "pt": "Na primeira etapa, percorra a arena com o Spinner e ataque a coluna exposta, evitando os esqueletos no caminho. Quando a arena mudar, use o encaixe central do Spinner para elevar a estrutura. Suba pelos trilhos das paredes e salte entre eles quando os ataques ameaçarem sua rota. Ao alcançar a cabeça exposta, salte até ela para derrubá-la e ataque com a espada. Volte ao circuito de trilhos para criar a próxima abertura."
+          }
+        }
+      ]
+    },
+    {
+      "key": "snowpeak-ruins",
+      "title": "Snowpeak Ruins",
+      "title_i18n": {
+        "en": "Snowpeak Ruins",
+        "pt": "Snowpeak Ruins"
+      },
+      "items": [
+        {
+          "key": "follow-asheis-snowpeak-lead",
+          "title": "Follow Ashei's Snowpeak lead",
+          "title_i18n": {
+            "en": "Follow Ashei's Snowpeak lead",
+            "pt": "Siga a pista de Ashei sobre Snowpeak"
+          },
+          "description": "Check the resistance map and meet Ashei at the mountain entrance.",
+          "description_i18n": {
+            "en": "Check the resistance map and meet Ashei at the mountain entrance.",
+            "pt": "Consulte o mapa da resistência e encontre Ashei na entrada da montanha."
+          }
+        },
+        {
+          "key": "consult-ralis-about-fish",
+          "title": "Consult Ralis about the fish",
+          "title_i18n": {
+            "en": "Consult Ralis about the fish",
+            "pt": "Consulte Ralis sobre o peixe"
+          },
+          "description": "Show the sketch to the Zora prince and obtain the fishing aid for this route.",
+          "description_i18n": {
+            "en": "Show the sketch to the Zora prince and obtain the fishing aid for this route.",
+            "pt": "Mostre o desenho ao príncipe Zora e obtenha o auxílio de pesca necessário para a rota."
+          }
+        },
+        {
+          "key": "track-reekfish-scent",
+          "title": "Track the Reekfish scent",
+          "title_i18n": {
+            "en": "Track the Reekfish scent",
+            "pt": "Siga o cheiro do Reekfish"
+          },
+          "description": "Catch the relevant fish, record its scent as a wolf and climb toward Snowpeak.",
+          "description_i18n": {
+            "en": "Catch the relevant fish, record its scent as a wolf and climb toward Snowpeak.",
+            "pt": "Pesque o peixe indicado, memorize seu cheiro como lobo e suba em direção a Snowpeak."
+          }
+        },
+        {
+          "key": "follow-yeto-to-ruins",
+          "title": "Follow Yeto to the ruins",
+          "title_i18n": {
+            "en": "Follow Yeto to the ruins",
+            "pt": "Siga Yeto até as ruínas"
+          },
+          "description": "Meet the mountain resident and complete the descent to his home.",
+          "description_i18n": {
+            "en": "Meet the mountain resident and complete the descent to his home.",
+            "pt": "Encontre o morador da montanha e complete a descida até sua casa."
+          }
+        },
+        {
+          "key": "explore-yetas-map-route",
+          "title": "Explore Yeta's map route",
+          "title_i18n": {
+            "en": "Explore Yeta's map route",
+            "pt": "Explore a rota do mapa de Yeta"
+          },
+          "description": "Follow the household's changing directions while opening access through the mansion.",
+          "description_i18n": {
+            "en": "Follow the household's changing directions while opening access through the mansion.",
+            "pt": "Siga as indicações atualizadas dos moradores enquanto abre passagem pela mansão."
+          }
+        },
+        {
+          "key": "defeat-darkhammer",
+          "title": "Defeat Darkhammer",
+          "title_i18n": {
+            "en": "Defeat Darkhammer",
+            "pt": "Derrote Darkhammer"
+          },
+          "description": "Overcome the armored miniboss and collect the Ball and Chain.",
+          "description_i18n": {
+            "en": "Overcome the armored miniboss and collect the Ball and Chain.",
+            "pt": "Vença o minichefe de armadura e recolha a Ball and Chain."
+          }
+        },
+        {
+          "key": "open-bedroom-route",
+          "title": "Open the bedroom route",
+          "title_i18n": {
+            "en": "Open the bedroom route",
+            "pt": "Abra o caminho até o quarto"
+          },
+          "description": "Work through the ice, cannon and block chambers to obtain the final key.",
+          "description_i18n": {
+            "en": "Work through the ice, cannon and block chambers to obtain the final key.",
+            "pt": "Atravesse as salas de gelo, canhões e blocos para obter a chave final."
+          },
+          "details": "Snowpeak’s cannons need a cannonball placed inside followed by a bomb; turn the cannon toward the obstruction before firing. To move a ball through a wall, lower the transfer mechanism with its lever, place the ball on it, cross through the door and operate the receiving lever. The Ball and Chain breaks thick ice that blocks later routes. In sliding-block rooms, plan the final approach to the floor switch before pushing: a block stops only against another obstacle.",
+          "details_i18n": {
+            "en": "Snowpeak’s cannons need a cannonball placed inside followed by a bomb; turn the cannon toward the obstruction before firing. To move a ball through a wall, lower the transfer mechanism with its lever, place the ball on it, cross through the door and operate the receiving lever. The Ball and Chain breaks thick ice that blocks later routes. In sliding-block rooms, plan the final approach to the floor switch before pushing: a block stops only against another obstacle.",
+            "pt": "Os canhões de Snowpeak precisam receber uma bala e depois uma bomba; vire o canhão na direção da obstrução antes de disparar. Para transferir uma bala através da parede, abaixe o mecanismo com a alavanca, coloque a bala, atravesse a porta e acione a alavanca do outro lado. A Ball and Chain quebra o gelo espesso que bloqueia rotas posteriores. Nas salas de blocos deslizantes, planeje a aproximação final ao interruptor: cada bloco só para ao encontrar um obstáculo."
+          }
+        },
+        {
+          "key": "defeat-blizzeta",
+          "title": "Defeat Blizzeta",
+          "title_i18n": {
+            "en": "Defeat Blizzeta",
+            "pt": "Derrote Blizzeta"
+          },
+          "description": "Complete the mansion's boss encounter and secure the next mirror fragment.",
+          "description_i18n": {
+            "en": "Complete the mansion's boss encounter and secure the next mirror fragment.",
+            "pt": "Conclua a luta contra o chefe da mansão e recupere o próximo fragmento do espelho."
+          }
+        }
+      ]
+    },
+    {
+      "key": "sacred-grove-and-temple-of-time",
+      "title": "Sacred Grove and Temple of Time",
+      "title_i18n": {
+        "en": "Sacred Grove and Temple of Time",
+        "pt": "Sacred Grove e Temple of Time"
+      },
+      "items": [
+        {
+          "key": "follow-rusls-forest-lead",
+          "title": "Follow Rusl's forest lead",
+          "title_i18n": {
+            "en": "Follow Rusl's forest lead",
+            "pt": "Siga a pista de Rusl na floresta"
+          },
+          "description": "Return to the resistance and locate Rusl on the Faron route.",
+          "description_i18n": {
+            "en": "Return to the resistance and locate Rusl on the Faron route.",
+            "pt": "Volte à resistência e encontre Rusl no caminho de Faron."
+          }
+        },
+        {
+          "key": "return-to-sacred-grove",
+          "title": "Return to the Sacred Grove",
+          "title_i18n": {
+            "en": "Return to the Sacred Grove",
+            "pt": "Volte à Sacred Grove"
+          },
+          "description": "Use the available companion to cross the gap and pursue the woodland guide again.",
+          "description_i18n": {
+            "en": "Use the available companion to cross the gap and pursue the woodland guide again.",
+            "pt": "Use a companhia disponível para atravessar o vão e siga novamente o guia da floresta."
+          }
+        },
+        {
+          "key": "open-the-time-gateway",
+          "title": "Open the time gateway",
+          "title_i18n": {
+            "en": "Open the time gateway",
+            "pt": "Abra a passagem do tempo"
+          },
+          "description": "Investigate the pedestal and gateway to enter the ancient temple.",
+          "description_i18n": {
+            "en": "Investigate the pedestal and gateway to enter the ancient temple.",
+            "pt": "Investigue o pedestal e a passagem para entrar no templo antigo."
+          }
+        },
+        {
+          "key": "inspect-the-missing-statue",
+          "title": "Inspect the missing statue",
+          "title_i18n": {
+            "en": "Inspect the missing statue",
+            "pt": "Examine a estátua ausente"
+          },
+          "description": "Read the entrance arrangement and begin climbing toward its missing counterpart.",
+          "description_i18n": {
+            "en": "Read the entrance arrangement and begin climbing toward its missing counterpart.",
+            "pt": "Observe a disposição da entrada e comece a subir em busca da peça ausente."
+          }
+        },
+        {
+          "key": "climb-temple-mechanisms",
+          "title": "Climb the temple mechanisms",
+          "title_i18n": {
+            "en": "Climb the temple mechanisms",
+            "pt": "Suba pelos mecanismos do templo"
+          },
+          "description": "Use switches, scales and movable objects to reach the upper chambers.",
+          "description_i18n": {
+            "en": "Use switches, scales and movable objects to reach the upper chambers.",
+            "pt": "Use interruptores, balanças e objetos móveis para alcançar as câmaras superiores."
+          }
+        },
+        {
+          "key": "defeat-darknut-obtain-rod",
+          "title": "Defeat the Darknut and obtain the rod",
+          "title_i18n": {
+            "en": "Defeat the Darknut and obtain the rod",
+            "pt": "Derrote o Darknut e obtenha o bastão"
+          },
+          "description": "Finish the armored duel and collect the Dominion Rod.",
+          "description_i18n": {
+            "en": "Finish the armored duel and collect the Dominion Rod.",
+            "pt": "Vença o duelo contra o guerreiro de armadura e recolha a Dominion Rod."
+          }
+        },
+        {
+          "key": "escort-the-great-statue",
+          "title": "Escort the great statue",
+          "title_i18n": {
+            "en": "Escort the great statue",
+            "pt": "Escolte a grande estátua"
+          },
+          "description": "Bring the recovered statue through the temple and finish the entrance arrangement.",
+          "description_i18n": {
+            "en": "Bring the recovered statue through the temple and finish the entrance arrangement.",
+            "pt": "Conduza a estátua recuperada pelo templo e complete a disposição da entrada."
+          },
+          "details": "Activate the large statue with the Dominion Rod and guide it back down through the temple. Its hammer breaks barriers that Link cannot remove himself. Use the bell transfer points to move it between the marked locations, and keep it clear of moving hazards. At the balance scales, distribute the small metal statues as counterweights before attempting the crossing. If the large statue stops following, reposition Link and reactivate it rather than leaving it behind on another floor.",
+          "details_i18n": {
+            "en": "Activate the large statue with the Dominion Rod and guide it back down through the temple. Its hammer breaks barriers that Link cannot remove himself. Use the bell transfer points to move it between the marked locations, and keep it clear of moving hazards. At the balance scales, distribute the small metal statues as counterweights before attempting the crossing. If the large statue stops following, reposition Link and reactivate it rather than leaving it behind on another floor.",
+            "pt": "Ative a grande estátua com a Dominion Rod e conduza-a de volta pelos andares do templo. Seu martelo quebra barreiras que Link não consegue remover sozinho. Use os pontos de transferência com sinos para levá-la entre os locais marcados e evite deixá-la no caminho de obstáculos móveis. Nas balanças, distribua as pequenas estátuas metálicas como contrapesos antes de atravessar. Se a grande estátua parar de seguir, reposicione Link e reative-a em vez de abandoná-la em outro andar."
+          }
+        },
+        {
+          "key": "defeat-armogohma",
+          "title": "Defeat Armogohma",
+          "title_i18n": {
+            "en": "Defeat Armogohma",
+            "pt": "Derrote Armogohma"
+          },
+          "description": "Complete the boss encounter and recover another mirror fragment.",
+          "description_i18n": {
+            "en": "Complete the boss encounter and recover another mirror fragment.",
+            "pt": "Conclua a luta contra o chefe e recupere outro fragmento do espelho."
+          }
+        }
+      ]
+    },
+    {
+      "key": "ilias-memory-and-sky-book",
+      "title": "Ilia's memory and the Ancient Sky Book",
+      "title_i18n": {
+        "en": "Ilia's memory and the Ancient Sky Book",
+        "pt": "A memória de Ilia e o Ancient Sky Book"
+      },
+      "items": [
+        {
+          "key": "deliver-renados-letter",
+          "title": "Deliver Renado's letter",
+          "title_i18n": {
+            "en": "Deliver Renado's letter",
+            "pt": "Entregue a carta de Renado"
+          },
+          "description": "Visit the sanctuary and take the new request to Telma.",
+          "description_i18n": {
+            "en": "Visit the sanctuary and take the new request to Telma.",
+            "pt": "Visite o santuário e leve o novo pedido a Telma."
+          }
+        },
+        {
+          "key": "follow-the-invoice-lead",
+          "title": "Follow the invoice lead",
+          "title_i18n": {
+            "en": "Follow the invoice lead",
+            "pt": "Siga a pista da fatura"
+          },
+          "description": "Visit the town doctor with Telma's document and investigate the missing object.",
+          "description_i18n": {
+            "en": "Visit the town doctor with Telma's document and investigate the missing object.",
+            "pt": "Visite o médico da cidade com o documento de Telma e investigue o objeto desaparecido."
+          }
+        },
+        {
+          "key": "recover-wooden-statue",
+          "title": "Recover the wooden statue",
+          "title_i18n": {
+            "en": "Recover the wooden statue",
+            "pt": "Recupere a estátua de madeira"
+          },
+          "description": "Follow the local animal's lead and recover the object connected to Ilia.",
+          "description_i18n": {
+            "en": "Follow the local animal's lead and recover the object connected to Ilia.",
+            "pt": "Siga a pista do animal da região e recupere o objeto ligado a Ilia."
+          },
+          "details": "Show Telma’s invoice to the doctor, then inspect the spilled medicine as a wolf to learn its scent. Follow it to Louise outside Telma’s bar. Her lead only becomes actionable at night: leave by Castle Town’s south exit and defeat the skeletal dog pack to recover the Wooden Statue. Bring it to Ilia to advance the memory quest. If the field seems empty during daytime, the time condition is the missing prerequisite.",
+          "details_i18n": {
+            "en": "Show Telma’s invoice to the doctor, then inspect the spilled medicine as a wolf to learn its scent. Follow it to Louise outside Telma’s bar. Her lead only becomes actionable at night: leave by Castle Town’s south exit and defeat the skeletal dog pack to recover the Wooden Statue. Bring it to Ilia to advance the memory quest. If the field seems empty during daytime, the time condition is the missing prerequisite.",
+            "pt": "Mostre a fatura de Telma ao médico e examine o remédio derramado como lobo para memorizar seu cheiro. Siga o rastro até Louise, fora do bar de Telma. A pista dela só pode ser resolvida à noite: saia pelo portão sul da Cidade do Castelo e derrote a matilha de cães esqueléticos para recuperar a Wooden Statue. Leve-a a Ilia para avançar na missão da memória. Se o campo estiver vazio durante o dia, falta cumprir a condição de horário."
+          }
+        },
+        {
+          "key": "find-hidden-village",
+          "title": "Find the Hidden Village",
+          "title_i18n": {
+            "en": "Find the Hidden Village",
+            "pt": "Encontre a Hidden Village"
+          },
+          "description": "Return the statue, then follow the new route opened through Darbus.",
+          "description_i18n": {
+            "en": "Return the statue, then follow the new route opened through Darbus.",
+            "pt": "Devolva a estátua e siga a nova rota aberta por Darbus."
+          }
+        },
+        {
+          "key": "clear-hidden-village",
+          "title": "Clear the Hidden Village",
+          "title_i18n": {
+            "en": "Clear the Hidden Village",
+            "pt": "Liberte a Hidden Village"
+          },
+          "description": "Deal with the village's occupying enemies and speak with its resident.",
+          "description_i18n": {
+            "en": "Deal with the village's occupying enemies and speak with its resident.",
+            "pt": "Derrote os inimigos que ocupam a vila e converse com sua moradora."
+          }
+        },
+        {
+          "key": "restore-ilias-memory",
+          "title": "Restore Ilia's memory",
+          "title_i18n": {
+            "en": "Restore Ilia's memory",
+            "pt": "Restaure a memória de Ilia"
+          },
+          "description": "Deliver the recovered keepsake and complete the reunion in Kakariko.",
+          "description_i18n": {
+            "en": "Deliver the recovered keepsake and complete the reunion in Kakariko.",
+            "pt": "Entregue a lembrança recuperada e conclua o reencontro em Kakariko."
+          }
+        },
+        {
+          "key": "obtain-ancient-sky-book",
+          "title": "Obtain the Ancient Sky Book",
+          "title_i18n": {
+            "en": "Obtain the Ancient Sky Book",
+            "pt": "Obtenha o Ancient Sky Book"
+          },
+          "description": "Revisit Impaz with the relevant ancient tool and collect the new record.",
+          "description_i18n": {
+            "en": "Revisit Impaz with the relevant ancient tool and collect the new record.",
+            "pt": "Volte a visitar Impaz com a ferramenta antiga pertinente e receba o novo registro."
+          }
+        },
+        {
+          "key": "restore-dominion-rod",
+          "title": "Restore the Dominion Rod",
+          "title_i18n": {
+            "en": "Restore the Dominion Rod",
+            "pt": "Restaure a Dominion Rod"
+          },
+          "description": "Consult Shad in Renado's basement and follow his investigation.",
+          "description_i18n": {
+            "en": "Consult Shad in Renado's basement and follow his investigation.",
+            "pt": "Consulte Shad no porão de Renado e acompanhe sua investigação."
+          }
+        },
+        {
+          "key": "complete-six-sky-characters",
+          "title": "Complete the six sky characters",
+          "title_i18n": {
+            "en": "Complete the six sky characters",
+            "pt": "Complete os seis símbolos celestes"
+          },
+          "description": "Visit the marked owl statues and finish the book's missing entries.",
+          "description_i18n": {
+            "en": "Visit the marked owl statues and finish the book's missing entries.",
+            "pt": "Visite as estátuas de coruja marcadas e complete os registros ausentes do livro."
+          }
+        },
+        {
+          "key": "uncover-the-sky-cannon",
+          "title": "Uncover the sky cannon",
+          "title_i18n": {
+            "en": "Uncover the sky cannon",
+            "pt": "Encontre o canhão celeste"
+          },
+          "description": "Bring the completed record to Shad and inspect the newly accessible chamber.",
+          "description_i18n": {
+            "en": "Bring the completed record to Shad and inspect the newly accessible chamber.",
+            "pt": "Leve o registro completo a Shad e examine a câmara recém-aberta."
+          }
+        },
+        {
+          "key": "transport-and-repair-cannon",
+          "title": "Transport and repair the cannon",
+          "title_i18n": {
+            "en": "Transport and repair the cannon",
+            "pt": "Transporte e conserte o canhão"
+          },
+          "description": "Arrange transport to Lake Hylia and ask Fyer to restore the machine.",
+          "description_i18n": {
+            "en": "Arrange transport to Lake Hylia and ask Fyer to restore the machine.",
+            "pt": "Organize o transporte até o Lake Hylia e peça a Fyer para restaurar a máquina."
+          },
+          "details": "After Ilia recovers her memory, show the Dominion Rod to Impaz to obtain the Ancient Sky Book. Shad’s basement reading restores the rod; use it on the six marked owl statues and collect the characters beneath them. Return to Shad with the completed book. Once the cannon room is open, speak to Shad so he leaves before asking Midna to warp the cannon. At Lake Hylia, pay Fyer 300 rupees for repairs, then reach the cannon’s rear entry with the Clawshot.",
+          "details_i18n": {
+            "en": "After Ilia recovers her memory, show the Dominion Rod to Impaz to obtain the Ancient Sky Book. Shad’s basement reading restores the rod; use it on the six marked owl statues and collect the characters beneath them. Return to Shad with the completed book. Once the cannon room is open, speak to Shad so he leaves before asking Midna to warp the cannon. At Lake Hylia, pay Fyer 300 rupees for repairs, then reach the cannon’s rear entry with the Clawshot.",
+            "pt": "Depois que Ilia recuperar a memória, mostre a Dominion Rod a Impaz para obter o Ancient Sky Book. A leitura de Shad no porão restaura o bastão; use-o nas seis estátuas de coruja marcadas e recolha os símbolos sob elas. Volte a Shad com o livro completo. Quando a sala do canhão estiver aberta, fale com Shad para que ele saia antes de pedir o transporte a Midna. No Lake Hylia, pague 300 rupees a Fyer pelo conserto e alcance a entrada traseira com a Clawshot."
+          }
+        },
+        {
+          "key": "launch-to-city-in-sky",
+          "title": "Launch to the City in the Sky",
+          "title_i18n": {
+            "en": "Launch to the City in the Sky",
+            "pt": "Viaje para a City in the Sky"
+          },
+          "description": "Use the repaired cannon and prepare to explore the airborne settlement.",
+          "description_i18n": {
+            "en": "Use the repaired cannon and prepare to explore the airborne settlement.",
+            "pt": "Use o canhão consertado e prepare-se para explorar a povoação aérea."
+          }
+        }
+      ]
+    },
+    {
+      "key": "city-in-the-sky",
+      "title": "City in the Sky",
+      "title_i18n": {
+        "en": "City in the Sky",
+        "pt": "City in the Sky"
+      },
+      "items": [
+        {
+          "key": "meet-ooccoo-in-the-sky",
+          "title": "Meet Ooccoo in the sky",
+          "title_i18n": {
+            "en": "Meet Ooccoo in the sky",
+            "pt": "Encontre Ooccoo no céu"
+          },
+          "description": "Explore the landing area, note the shop and enter the aerial dungeon.",
+          "description_i18n": {
+            "en": "Explore the landing area, note the shop and enter the aerial dungeon.",
+            "pt": "Explore a área de chegada, localize a loja e entre no templo aéreo."
+          }
+        },
+        {
+          "key": "cross-the-windy-wings",
+          "title": "Cross the windy wings",
+          "title_i18n": {
+            "en": "Cross the windy wings",
+            "pt": "Atravesse as alas ventosas"
+          },
+          "description": "Navigate the broken bridges and wind machinery while expanding your map.",
+          "description_i18n": {
+            "en": "Navigate the broken bridges and wind machinery while expanding your map.",
+            "pt": "Atravesse as pontes danificadas e os mecanismos de vento enquanto amplia o mapa."
+          }
+        },
+        {
+          "key": "reach-the-aeralfos-arena",
+          "title": "Reach the Aeralfos arena",
+          "title_i18n": {
+            "en": "Reach the Aeralfos arena",
+            "pt": "Alcance a arena de Aeralfos"
+          },
+          "description": "Follow the accessible clawshot targets through the outer rooms.",
+          "description_i18n": {
+            "en": "Follow the accessible clawshot targets through the outer rooms.",
+            "pt": "Siga os alvos de Clawshot acessíveis pelas salas externas."
+          }
+        },
+        {
+          "key": "obtain-double-clawshots",
+          "title": "Obtain the Double Clawshots",
+          "title_i18n": {
+            "en": "Obtain the Double Clawshots",
+            "pt": "Obtenha as Double Clawshots"
+          },
+          "description": "Win the aerial miniboss encounter and collect the upgraded tool.",
+          "description_i18n": {
+            "en": "Win the aerial miniboss encounter and collect the upgraded tool.",
+            "pt": "Vença o minichefe aéreo e recolha a ferramenta aprimorada."
+          }
+        },
+        {
+          "key": "connect-the-distant-towers",
+          "title": "Connect the distant towers",
+          "title_i18n": {
+            "en": "Connect the distant towers",
+            "pt": "Conecte as torres distantes"
+          },
+          "description": "Explore the newly reachable paths and moving targets around the city.",
+          "description_i18n": {
+            "en": "Explore the newly reachable paths and moving targets around the city.",
+            "pt": "Explore os caminhos recém-acessíveis e os alvos móveis ao redor da cidade."
+          }
+        },
+        {
+          "key": "restore-the-central-fan",
+          "title": "Restore the central fan",
+          "title_i18n": {
+            "en": "Restore the central fan",
+            "pt": "Reative o ventilador central"
+          },
+          "description": "Work through the upper mechanisms and obtain access to the boss tower.",
+          "description_i18n": {
+            "en": "Work through the upper mechanisms and obtain access to the boss tower.",
+            "pt": "Avance pelos mecanismos superiores e obtenha acesso à torre do chefe."
+          },
+          "details": "With Double Clawshots, remain attached to one target while aiming at the next; extend or retract the chain to align the shot through gates and gaps. In the upper central area, activate the hanging switch with the Iron Boots. To reach the lower central fan switch, hang from the ceiling grating and lower Link through the opening instead of simply dropping to the floor. Clawshot the lower hanging switch and add the boots’ weight to start the large fan.",
+          "details_i18n": {
+            "en": "With Double Clawshots, remain attached to one target while aiming at the next; extend or retract the chain to align the shot through gates and gaps. In the upper central area, activate the hanging switch with the Iron Boots. To reach the lower central fan switch, hang from the ceiling grating and lower Link through the opening instead of simply dropping to the floor. Clawshot the lower hanging switch and add the boots’ weight to start the large fan.",
+            "pt": "Com as Double Clawshots, permaneça preso a um alvo enquanto mira no próximo; estenda ou recolha a corrente para alinhar o disparo através de portões e vãos. Na parte central superior, ative o interruptor suspenso com as Iron Boots. Para alcançar o interruptor do ventilador central inferior, pendure-se na grade do teto e desça pela abertura, sem simplesmente cair até o chão. Agarre o interruptor inferior com a Clawshot e acrescente o peso das botas para ligar o grande ventilador."
+          }
+        },
+        {
+          "key": "defeat-argorok",
+          "title": "Defeat Argorok",
+          "title_i18n": {
+            "en": "Defeat Argorok",
+            "pt": "Derrote Argorok"
+          },
+          "description": "Complete the stormy aerial battle and recover the final mirror fragment.",
+          "description_i18n": {
+            "en": "Complete the stormy aerial battle and recover the final mirror fragment.",
+            "pt": "Conclua a batalha aérea durante a tempestade e recupere o último fragmento do espelho."
+          }
+        }
+      ]
+    },
+    {
+      "key": "mirror-and-palace-of-twilight",
+      "title": "The mirror and Palace of Twilight",
+      "title_i18n": {
+        "en": "The mirror and Palace of Twilight",
+        "pt": "O espelho e o Palace of Twilight"
+      },
+      "items": [
+        {
+          "key": "reassemble-the-mirror",
+          "title": "Reassemble the mirror",
+          "title_i18n": {
+            "en": "Reassemble the mirror",
+            "pt": "Reconstitua o espelho"
+          },
+          "description": "Return to the Mirror Chamber and complete the gathering of its fragments.",
+          "description_i18n": {
+            "en": "Return to the Mirror Chamber and complete the gathering of its fragments.",
+            "pt": "Volte à Mirror Chamber e conclua a reunião dos fragmentos."
+          }
+        },
+        {
+          "key": "enter-the-twilight-realm",
+          "title": "Enter the Twilight Realm",
+          "title_i18n": {
+            "en": "Enter the Twilight Realm",
+            "pt": "Entre no Twilight Realm"
+          },
+          "description": "Use the restored passage and inspect the palace approach.",
+          "description_i18n": {
+            "en": "Use the restored passage and inspect the palace approach.",
+            "pt": "Use a passagem restaurada e examine os acessos ao palácio."
+          }
+        },
+        {
+          "key": "explore-the-first-palace-wing",
+          "title": "Explore the first palace wing",
+          "title_i18n": {
+            "en": "Explore the first palace wing",
+            "pt": "Explore a primeira ala do palácio"
+          },
+          "description": "Navigate the twilight fog and defeat the guardian within the first wing.",
+          "description_i18n": {
+            "en": "Navigate the twilight fog and defeat the guardian within the first wing.",
+            "pt": "Atravesse a névoa do crepúsculo e derrote o guardião da primeira ala."
+          }
+        },
+        {
+          "key": "return-the-first-sol",
+          "title": "Return the first Sol",
+          "title_i18n": {
+            "en": "Return the first Sol",
+            "pt": "Traga o primeiro Sol"
+          },
+          "description": "Recover the wing's source of light and bring it back to the entrance area.",
+          "description_i18n": {
+            "en": "Recover the wing's source of light and bring it back to the entrance area.",
+            "pt": "Recupere a fonte de luz da ala e leve-a de volta à entrada."
+          }
+        },
+        {
+          "key": "return-the-second-sol",
+          "title": "Return the second Sol",
+          "title_i18n": {
+            "en": "Return the second Sol",
+            "pt": "Traga o segundo Sol"
+          },
+          "description": "Explore the other wing and complete its transport challenge.",
+          "description_i18n": {
+            "en": "Explore the other wing and complete its transport challenge.",
+            "pt": "Explore a outra ala e conclua seu desafio de transporte."
+          },
+          "details": "In each wing, defeat the phantom guardian before taking the Sol. Carry its light into the dark fog to clear a safe path, and place it in the floor recess when you need the raised stairs. Climb quickly, then retrieve the sphere with the Clawshot. The pursuing hand can be stunned temporarily with attacks, giving you time to move; do not spend that pause exploring unrelated corners. Return both Sols to their entrance sockets to empower the Master Sword.",
+          "details_i18n": {
+            "en": "In each wing, defeat the phantom guardian before taking the Sol. Carry its light into the dark fog to clear a safe path, and place it in the floor recess when you need the raised stairs. Climb quickly, then retrieve the sphere with the Clawshot. The pursuing hand can be stunned temporarily with attacks, giving you time to move; do not spend that pause exploring unrelated corners. Return both Sols to their entrance sockets to empower the Master Sword.",
+            "pt": "Em cada ala, derrote o guardião fantasmagórico antes de recolher o Sol. Leve sua luz até a névoa escura para abrir uma passagem segura e coloque-o no encaixe do chão quando precisar elevar a escada. Suba rapidamente e recupere a esfera com a Clawshot. A mão que o persegue pode ser atordoada temporariamente com ataques, dando tempo para avançar; não gaste essa pausa explorando cantos sem relação com a rota. Devolva os dois Sols aos encaixes da entrada para fortalecer a Master Sword."
+          }
+        },
+        {
+          "key": "open-the-central-palace",
+          "title": "Open the central palace",
+          "title_i18n": {
+            "en": "Open the central palace",
+            "pt": "Abra o palácio central"
+          },
+          "description": "Use the changed conditions at the entrance to reach the main structure.",
+          "description_i18n": {
+            "en": "Use the changed conditions at the entrance to reach the main structure.",
+            "pt": "Aproveite as novas condições da entrada para alcançar a estrutura principal."
+          }
+        },
+        {
+          "key": "climb-to-zants-chamber",
+          "title": "Climb to Zant's chamber",
+          "title_i18n": {
+            "en": "Climb to Zant's chamber",
+            "pt": "Suba até a câmara de Zant"
+          },
+          "description": "Clear the central rooms, obtain the final key and prepare your equipment.",
+          "description_i18n": {
+            "en": "Clear the central rooms, obtain the final key and prepare your equipment.",
+            "pt": "Atravesse as salas centrais, obtenha a chave final e prepare o equipamento."
+          }
+        },
+        {
+          "key": "defeat-zant",
+          "title": "Defeat Zant",
+          "title_i18n": {
+            "en": "Defeat Zant",
+            "pt": "Derrote Zant"
+          },
+          "description": "Complete the changing arenas and return to Hyrule when the confrontation ends.",
+          "description_i18n": {
+            "en": "Complete the changing arenas and return to Hyrule when the confrontation ends.",
+            "pt": "Vença as arenas que se transformam e retorne a Hyrule após o confronto."
+          },
+          "details": "Match each arena to the tool it recalls. Use the Gale Boomerang in the Forest arena; on the rocking Goron platform, anchor with Iron Boots and remove them to attack during recovery. Underwater, wear Zora Armor and Iron Boots, then pull Zant from the open mask with the Clawshot. In the pillar arena, knock him down by rolling into his support. Use the Ball and Chain on his foot in the icy arena. In the final sword phase, defend through the spinning attack and punish his exhausted pause.",
+          "details_i18n": {
+            "en": "Match each arena to the tool it recalls. Use the Gale Boomerang in the Forest arena; on the rocking Goron platform, anchor with Iron Boots and remove them to attack during recovery. Underwater, wear Zora Armor and Iron Boots, then pull Zant from the open mask with the Clawshot. In the pillar arena, knock him down by rolling into his support. Use the Ball and Chain on his foot in the icy arena. In the final sword phase, defend through the spinning attack and punish his exhausted pause.",
+            "pt": "Associe cada arena à ferramenta que ela relembra. Use o Gale Boomerang na arena da floresta; na plataforma instável dos Gorons, firme-se com as Iron Boots e retire-as para atacar durante a recuperação. Sob a água, vista Zora Armor e Iron Boots e puxe Zant da máscara aberta com a Clawshot. Na arena dos pilares, derrube-o rolando contra seu apoio. Use a Ball and Chain no pé dele na arena de gelo. Na etapa final de espadas, defenda-se do giro e ataque durante a pausa de cansaço."
+          }
+        }
+      ]
+    },
+    {
+      "key": "hyrule-castle-and-finale",
+      "title": "Hyrule Castle and the finale",
+      "title_i18n": {
+        "en": "Hyrule Castle and the finale",
+        "pt": "Hyrule Castle e o confronto final"
+      },
+      "items": [
+        {
+          "key": "enter-hyrule-castle",
+          "title": "Enter Hyrule Castle",
+          "title_i18n": {
+            "en": "Enter Hyrule Castle",
+            "pt": "Entre em Hyrule Castle"
+          },
+          "description": "Approach the castle after the palace and open its final barrier.",
+          "description_i18n": {
+            "en": "Approach the castle after the palace and open its final barrier.",
+            "pt": "Aproxime-se do castelo após o palácio e abra sua última barreira."
+          }
+        },
+        {
+          "key": "clear-the-castle-courtyards",
+          "title": "Clear the castle courtyards",
+          "title_i18n": {
+            "en": "Clear the castle courtyards",
+            "pt": "Atravesse os pátios do castelo"
+          },
+          "description": "Explore the outer grounds and settle the remaining Bulblin encounter.",
+          "description_i18n": {
+            "en": "Explore the outer grounds and settle the remaining Bulblin encounter.",
+            "pt": "Explore os terrenos externos e conclua o último confronto com os Bulblins."
+          }
+        },
+        {
+          "key": "find-the-upper-castle-route",
+          "title": "Find the upper castle route",
+          "title_i18n": {
+            "en": "Find the upper castle route",
+            "pt": "Encontre a rota para o alto do castelo"
+          },
+          "description": "Use the map, keys and both forms to find a safe route through the interior.",
+          "description_i18n": {
+            "en": "Use the map, keys and both forms to find a safe route through the interior.",
+            "pt": "Use o mapa, as chaves e as duas formas para encontrar uma rota segura pelo interior."
+          }
+        },
+        {
+          "key": "recover-castle-big-key",
+          "title": "Recover the castle Big Key",
+          "title_i18n": {
+            "en": "Recover the castle Big Key",
+            "pt": "Recupere a Big Key do castelo"
+          },
+          "description": "Overcome the upper defenses and unlock the way to the throne room.",
+          "description_i18n": {
+            "en": "Overcome the upper defenses and unlock the way to the throne room.",
+            "pt": "Supere as defesas superiores e abra o caminho até a sala do trono."
+          }
+        },
+        {
+          "key": "complete-the-throne-room-battle",
+          "title": "Complete the throne-room battle",
+          "title_i18n": {
+            "en": "Complete the throne-room battle",
+            "pt": "Vença a batalha da sala do trono"
+          },
+          "description": "Read the opponent's attacks and handle the opening phase of the finale.",
+          "description_i18n": {
+            "en": "Read the opponent's attacks and handle the opening phase of the finale.",
+            "pt": "Observe os ataques do adversário e supere a primeira etapa do confronto final."
+          }
+        },
+        {
+          "key": "face-the-beast-phase",
+          "title": "Face the beast phase",
+          "title_i18n": {
+            "en": "Face the beast phase",
+            "pt": "Enfrente a etapa da fera"
+          },
+          "description": "Adjust your form and equipment to the encounter's next stage.",
+          "description_i18n": {
+            "en": "Adjust your form and equipment to the encounter's next stage.",
+            "pt": "Adapte sua forma e seu equipamento à próxima etapa da luta."
+          }
+        },
+        {
+          "key": "complete-the-mounted-pursuit",
+          "title": "Complete the mounted pursuit",
+          "title_i18n": {
+            "en": "Complete the mounted pursuit",
+            "pt": "Conclua a perseguição montada"
+          },
+          "description": "Stay with your companion and create openings during the horseback battle.",
+          "description_i18n": {
+            "en": "Stay with your companion and create openings during the horseback battle.",
+            "pt": "Acompanhe sua aliada e crie oportunidades durante a batalha a cavalo."
+          }
+        },
+        {
+          "key": "win-the-final-duel",
+          "title": "Win the final duel",
+          "title_i18n": {
+            "en": "Win the final duel",
+            "pt": "Vença o duelo final"
+          },
+          "description": "Finish the last sword encounter and watch the ending and credits.",
+          "description_i18n": {
+            "en": "Finish the last sword encounter and watch the ending and credits.",
+            "pt": "Conclua o último confronto de espadas e assista ao desfecho e aos créditos."
+          },
+          "details": "Return the throne-room energy ball with sword swings rather than trying to approach immediately. Against the beast, use arrows to stun its forehead until that tactic is countered, then switch to wolf form and meet its charge with the grab prompt; throw it aside and attack the exposed belly. During the mounted phase, keep the enemy targeted so Zelda can land a light arrow, then close in for sword hits. In the final duel, defend, use your learned sword techniques and follow the on-screen clash and finishing prompts.",
+          "details_i18n": {
+            "en": "Return the throne-room energy ball with sword swings rather than trying to approach immediately. Against the beast, use arrows to stun its forehead until that tactic is countered, then switch to wolf form and meet its charge with the grab prompt; throw it aside and attack the exposed belly. During the mounted phase, keep the enemy targeted so Zelda can land a light arrow, then close in for sword hits. In the final duel, defend, use your learned sword techniques and follow the on-screen clash and finishing prompts.",
+            "pt": "Rebata a esfera de energia da sala do trono com golpes de espada em vez de tentar se aproximar imediatamente. Contra a fera, use flechas para atordoar a testa até que essa tática seja bloqueada; depois vire lobo e intercepte a investida com o comando de agarrar, arremesse-a e ataque o ventre exposto. Na etapa montada, mantenha o inimigo como alvo para Zelda acertar uma flecha de luz e aproxime-se para golpear. No duelo final, defenda-se, use as técnicas aprendidas e siga os comandos de choque de espadas e finalização."
+          }
+        }
+      ]
+    },
+    {
+      "key": "selected-side-quests",
+      "title": "Selected side quests",
+      "title_i18n": {
+        "en": "Selected side quests",
+        "pt": "Missões secundárias selecionadas"
+      },
+      "items": [
+        {
+          "key": "help-agitha-start-collection",
+          "title": "Help Agitha start her collection",
+          "title_i18n": {
+            "en": "Help Agitha start her collection",
+            "pt": "Ajude Agitha a iniciar a coleção"
+          },
+          "description": "Visit her Castle Town home with a golden bug and receive the first reward.",
+          "description_i18n": {
+            "en": "Visit her Castle Town home with a golden bug and receive the first reward.",
+            "pt": "Visite sua casa na Cidade do Castelo com um inseto dourado e receba a primeira recompensa."
+          }
+        },
+        {
+          "key": "help-jovani-with-poe-souls",
+          "title": "Help Jovani with Poe Souls",
+          "title_i18n": {
+            "en": "Help Jovani with Poe Souls",
+            "pt": "Ajude Jovani com as almas dos Poes"
+          },
+          "description": "Return with the requested milestones and check the rewards available from him and Gengle.",
+          "description_i18n": {
+            "en": "Return with the requested milestones and check the rewards available from him and Gengle.",
+            "pt": "Retorne ao atingir as metas solicitadas e confira as recompensas dele e de Gengle."
+          }
+        },
+        {
+          "key": "fund-malo-marts-bridge-project",
+          "title": "Fund Malo Mart's bridge project",
+          "title_i18n": {
+            "en": "Fund Malo Mart's bridge project",
+            "pt": "Financie o projeto da ponte do Malo Mart"
+          },
+          "description": "Speak with the Gorons in Kakariko and contribute toward restoring the trade route.",
+          "description_i18n": {
+            "en": "Speak with the Gorons in Kakariko and contribute toward restoring the trade route.",
+            "pt": "Fale com os Gorons em Kakariko e contribua para restaurar a rota comercial."
+          }
+        },
+        {
+          "key": "complete-hot-springwater-delivery",
+          "title": "Complete the hot springwater delivery",
+          "title_i18n": {
+            "en": "Complete the hot springwater delivery",
+            "pt": "Conclua a entrega de água termal"
+          },
+          "description": "Accept the barrel delivery from the Goron elder and reach the waiting customer.",
+          "description_i18n": {
+            "en": "Accept the barrel delivery from the Goron elder and reach the waiting customer.",
+            "pt": "Aceite a entrega do barril do ancião Goron e alcance o cliente que o aguarda."
+          },
+          "details": "After the bridge project, accept the elder’s barrel delivery near Kakariko. Carry the barrel across the field to the exhausted Goron by the restored bridge before the water cools. Avoid enemy attacks and detours; restarting the delivery is safer than wandering with a nearly cold barrel. When close enough, throw the barrel onto the Goron rather than setting it beside him. Completing this request reduces the later Castle Town shop funding requirement, so check it before making the full donation.",
+          "details_i18n": {
+            "en": "After the bridge project, accept the elder’s barrel delivery near Kakariko. Carry the barrel across the field to the exhausted Goron by the restored bridge before the water cools. Avoid enemy attacks and detours; restarting the delivery is safer than wandering with a nearly cold barrel. When close enough, throw the barrel onto the Goron rather than setting it beside him. Completing this request reduces the later Castle Town shop funding requirement, so check it before making the full donation.",
+            "pt": "Depois do projeto da ponte, aceite a entrega do barril do ancião perto de Kakariko. Atravesse o campo até o Goron exausto junto à ponte restaurada antes que a água esfrie. Evite ataques e desvios; reiniciar a entrega é melhor que continuar vagando com o barril quase frio. Ao chegar perto, arremesse o barril sobre o Goron em vez de deixá-lo ao lado. Concluir esse pedido reduz o financiamento posterior da loja da Cidade do Castelo; confira essa opção antes de doar a quantia completa."
+          }
+        },
+        {
+          "key": "open-castle-town-malo-mart",
+          "title": "Open Castle Town's Malo Mart",
+          "title_i18n": {
+            "en": "Open Castle Town's Malo Mart",
+            "pt": "Abra o Malo Mart na Cidade do Castelo"
+          },
+          "description": "Finish the shop's funding project and inspect the newly affordable stock.",
+          "description_i18n": {
+            "en": "Finish the shop's funding project and inspect the newly affordable stock.",
+            "pt": "Conclua o financiamento da loja e examine os produtos com preços reduzidos."
+          }
+        },
+        {
+          "key": "play-hidden-village-cat-game",
+          "title": "Play the Hidden Village cat game",
+          "title_i18n": {
+            "en": "Play the Hidden Village cat game",
+            "pt": "Participe da brincadeira dos gatos"
+          },
+          "description": "Return after the village rescue and investigate its optional animal challenge.",
+          "description_i18n": {
+            "en": "Return after the village rescue and investigate its optional animal challenge.",
+            "pt": "Volte após o resgate da vila e investigue seu desafio opcional com os animais."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "selected-upgrades-and-minigames",
+      "title": "Selected upgrades and minigames",
+      "title_i18n": {
+        "en": "Selected upgrades and minigames",
+        "pt": "Melhorias e minijogos selecionados"
+      },
+      "items": [
+        {
+          "key": "learn-all-seven-hidden-skills",
+          "title": "Learn all seven Hidden Skills",
+          "title_i18n": {
+            "en": "Learn all seven Hidden Skills",
+            "pt": "Aprenda as sete Hidden Skills"
+          },
+          "description": "Find the howling stones and follow the Golden Wolf meetings as your route expands.",
+          "description_i18n": {
+            "en": "Find the howling stones and follow the Golden Wolf meetings as your route expands.",
+            "pt": "Encontre as pedras uivantes e acompanhe os encontros com o Golden Wolf conforme novas rotas se abrem."
+          }
+        },
+        {
+          "key": "complete-star-game-rounds",
+          "title": "Complete the STAR Game rounds",
+          "title_i18n": {
+            "en": "Complete the STAR Game rounds",
+            "pt": "Conclua as rodadas do STAR Game"
+          },
+          "description": "Visit the Castle Town tent and return with later equipment for the harder course.",
+          "description_i18n": {
+            "en": "Visit the Castle Town tent and return with later equipment for the harder course.",
+            "pt": "Visite a tenda da Cidade do Castelo e retorne com equipamentos posteriores para o percurso avançado."
+          }
+        },
+        {
+          "key": "help-iza-and-improve-bomb-capacity",
+          "title": "Help Iza and improve bomb capacity",
+          "title_i18n": {
+            "en": "Help Iza and improve bomb capacity",
+            "pt": "Ajude Iza e amplie a capacidade de bombas"
+          },
+          "description": "Clear the river obstruction, then attempt the boat course's reward target.",
+          "description_i18n": {
+            "en": "Clear the river obstruction, then attempt the boat course's reward target.",
+            "pt": "Libere a obstrução do rio e tente atingir a meta de recompensa do percurso de barco."
+          }
+        },
+        {
+          "key": "try-plumms-balloon-course",
+          "title": "Try Plumm's balloon course",
+          "title_i18n": {
+            "en": "Try Plumm's balloon course",
+            "pt": "Experimente o percurso de balões de Plumm"
+          },
+          "description": "Start the aerial fruit-balloon challenge near Lake Hylia and aim for its reward.",
+          "description_i18n": {
+            "en": "Start the aerial fruit-balloon challenge near Lake Hylia and aim for its reward.",
+            "pt": "Inicie o desafio aéreo dos balões de frutas perto do Lake Hylia e busque sua recompensa."
+          }
+        },
+        {
+          "key": "race-the-snowpeak-residents",
+          "title": "Race the Snowpeak residents",
+          "title_i18n": {
+            "en": "Race the Snowpeak residents",
+            "pt": "Dispute corridas com os moradores de Snowpeak"
+          },
+          "description": "Return after the mansion and complete the available snowboard races.",
+          "description_i18n": {
+            "en": "Return after the mansion and complete the available snowboard races.",
+            "pt": "Volte após a mansão e conclua as corridas de snowboard disponíveis."
+          }
+        },
+        {
+          "key": "visit-henas-fishing-hole",
+          "title": "Visit Hena's Fishing Hole",
+          "title_i18n": {
+            "en": "Visit Hena's Fishing Hole",
+            "pt": "Visite o Fishing Hole de Hena"
+          },
+          "description": "Try lure fishing and inspect the optional activities around the fishing pond.",
+          "description_i18n": {
+            "en": "Try lure fishing and inspect the optional activities around the fishing pond.",
+            "pt": "Experimente a pesca com isca artificial e examine as atividades opcionais ao redor do lago."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "aggregate-collection-goals",
+      "title": "Aggregate collection goals",
+      "title_i18n": {
+        "en": "Aggregate collection goals",
+        "pt": "Metas gerais de coleção"
+      },
+      "items": [
+        {
+          "key": "collect-forty-five-heart-pieces",
+          "title": "Collect all 45 Pieces of Heart",
+          "title_i18n": {
+            "en": "Collect all 45 Pieces of Heart",
+            "pt": "Reúna as 45 Pieces of Heart"
+          },
+          "description": "Track dungeon and overworld rewards; five pieces form one Heart Container. This is an aggregate goal.",
+          "description_i18n": {
+            "en": "Track dungeon and overworld rewards; five pieces form one Heart Container. This is an aggregate goal.",
+            "pt": "Acompanhe as recompensas dos templos e do mundo; cinco peças formam um Heart Container. Esta é uma meta geral."
+          }
+        },
+        {
+          "key": "collect-twenty-four-golden-bugs",
+          "title": "Collect all 24 golden bugs",
+          "title_i18n": {
+            "en": "Collect all 24 golden bugs",
+            "pt": "Reúna os 24 insetos dourados"
+          },
+          "description": "Find both sexes of the twelve species and deliver the full collection to Agitha.",
+          "description_i18n": {
+            "en": "Find both sexes of the twelve species and deliver the full collection to Agitha.",
+            "pt": "Encontre os dois sexos das doze espécies e entregue a coleção completa a Agitha."
+          }
+        },
+        {
+          "key": "collect-sixty-poe-souls",
+          "title": "Collect all 60 Poe Souls",
+          "title_i18n": {
+            "en": "Collect all 60 Poe Souls",
+            "pt": "Reúna as 60 almas dos Poes"
+          },
+          "description": "Use wolf senses to track the full collection, including dungeon and optional-cave souls.",
+          "description_i18n": {
+            "en": "Use wolf senses to track the full collection, including dungeon and optional-cave souls.",
+            "pt": "Use os sentidos de lobo para completar a coleção, incluindo almas de templos e da caverna opcional."
+          }
+        },
+        {
+          "key": "collect-fifty-hd-stamps",
+          "title": "Collect all 50 HD stamps",
+          "title_i18n": {
+            "en": "Collect all 50 HD stamps",
+            "pt": "Reúna os 50 selos da edição HD"
+          },
+          "description": "Find the local in-game stamp rewards. Miiverse posting has ended; collecting them remains possible.",
+          "description_i18n": {
+            "en": "Find the local in-game stamp rewards. Miiverse posting has ended; collecting them remains possible.",
+            "pt": "Encontre as recompensas locais de selos. As publicações no Miiverse foram encerradas; ainda é possível coletá-los."
+          }
+        },
+        {
+          "key": "obtain-four-empty-bottles",
+          "title": "Obtain all four bottles",
+          "title_i18n": {
+            "en": "Obtain all four bottles",
+            "pt": "Obtenha os quatro frascos"
+          },
+          "description": "Check story rewards, fishing and optional shop purchases to complete your bottle inventory.",
+          "description_i18n": {
+            "en": "Check story rewards, fishing and optional shop purchases to complete your bottle inventory.",
+            "pt": "Confira recompensas da história, pesca e compras opcionais para completar o inventário de frascos."
+          }
+        },
+        {
+          "key": "review-collection-with-fortune-teller",
+          "title": "Review missing heart rewards",
+          "title_i18n": {
+            "en": "Review missing heart rewards",
+            "pt": "Revise as recompensas de coração restantes"
+          },
+          "description": "Use the Castle Town fortune teller's love readings to identify remaining heart-piece leads.",
+          "description_i18n": {
+            "en": "Use the Castle Town fortune teller's love readings to identify remaining heart-piece leads.",
+            "pt": "Use as leituras de amor da vidente da Cidade do Castelo para identificar pistas das peças de coração restantes."
+          }
+        }
+      ],
+      "kind": "collectible"
+    },
+    {
+      "key": "optional-combat-challenges",
+      "title": "Optional combat challenges",
+      "title_i18n": {
+        "en": "Optional combat challenges",
+        "pt": "Desafios opcionais de combate"
+      },
+      "items": [
+        {
+          "key": "prepare-for-cave-of-ordeals",
+          "title": "Prepare for the Cave of Ordeals",
+          "title_i18n": {
+            "en": "Prepare for the Cave of Ordeals",
+            "pt": "Prepare-se para a Cave of Ordeals"
+          },
+          "description": "Bring a late-game equipment set and stock healing supplies before entering the desert cave.",
+          "description_i18n": {
+            "en": "Bring a late-game equipment set and stock healing supplies before entering the desert cave.",
+            "pt": "Leve os equipamentos do fim da aventura e abasteça os itens de cura antes de entrar na caverna do deserto."
+          }
+        },
+        {
+          "key": "clear-fifty-ordeals-floors",
+          "title": "Clear all 50 Cave of Ordeals floors",
+          "title_i18n": {
+            "en": "Clear all 50 Cave of Ordeals floors",
+            "pt": "Conclua os 50 andares da Cave of Ordeals"
+          },
+          "description": "Treat the full gauntlet as an optional endurance goal and claim the final reward.",
+          "description_i18n": {
+            "en": "Treat the full gauntlet as an optional endurance goal and claim the final reward.",
+            "pt": "Encare o percurso completo como uma meta opcional de resistência e receba a recompensa final."
+          },
+          "details": "Enter with the late-game tools, a full health bar and stocked bottles; some deeper floors require equipment obtained well after the cave first becomes accessible. Survey each room from its entry ledge before dropping into combat, and remove ranged threats before heavy melee enemies. Use wolf senses to check for buried recovery hearts and claim the three Poe Souls when encountered. The fiftieth floor completes the gauntlet. This is the ordinary Cave of Ordeals, separate from the Wolf Link amiibo’s optional Cave of Shadows.",
+          "details_i18n": {
+            "en": "Enter with the late-game tools, a full health bar and stocked bottles; some deeper floors require equipment obtained well after the cave first becomes accessible. Survey each room from its entry ledge before dropping into combat, and remove ranged threats before heavy melee enemies. Use wolf senses to check for buried recovery hearts and claim the three Poe Souls when encountered. The fiftieth floor completes the gauntlet. This is the ordinary Cave of Ordeals, separate from the Wolf Link amiibo’s optional Cave of Shadows.",
+            "pt": "Entre com as ferramentas do fim da aventura, a vida cheia e frascos abastecidos; alguns andares profundos exigem equipamentos obtidos muito depois da primeira oportunidade de entrar. Observe cada sala da plataforma de entrada antes de descer e elimine ameaças à distância antes dos inimigos pesados. Use os sentidos de lobo para procurar corações enterrados e recolha as três almas de Poes ao encontrá-las. O quinquagésimo andar conclui o desafio. Esta é a Cave of Ordeals comum, separada da Cave of Shadows opcional do amiibo Wolf Link."
+          }
+        },
+        {
+          "key": "recover-ordeals-collection-rewards",
+          "title": "Recover the cave's collection rewards",
+          "title_i18n": {
+            "en": "Recover the cave's collection rewards",
+            "pt": "Recolha as recompensas de coleção da caverna"
+          },
+          "description": "Check the cave's Poe and stamp rewards before considering those collections complete.",
+          "description_i18n": {
+            "en": "Check the cave's Poe and stamp rewards before considering those collections complete.",
+            "pt": "Confira as recompensas de Poes e selos da caverna antes de considerar essas coleções completas."
+          }
+        },
+        {
+          "key": "try-optional-hero-mode",
+          "title": "Try optional Hero Mode",
+          "title_i18n": {
+            "en": "Try optional Hero Mode",
+            "pt": "Experimente o Hero Mode opcional"
+          },
+          "description": "Start a separate challenge file if desired; its mirrored world and tougher recovery are optional.",
+          "description_i18n": {
+            "en": "Start a separate challenge file if desired; its mirrored world and tougher recovery are optional.",
+            "pt": "Inicie um arquivo separado se desejar; o mundo espelhado e a recuperação mais difícil são opcionais."
+          }
+        },
+        {
+          "key": "try-amiibo-cave-of-shadows",
+          "title": "Try the amiibo Cave of Shadows if available",
+          "title_i18n": {
+            "en": "Try the amiibo Cave of Shadows if available",
+            "pt": "Experimente a Cave of Shadows com amiibo, se disponível"
+          },
+          "description": "Only if you own the compatible Wolf Link amiibo, try this separate optional wolf challenge.",
+          "description_i18n": {
+            "en": "Only if you own the compatible Wolf Link amiibo, try this separate optional wolf challenge.",
+            "pt": "Somente se possuir o amiibo Wolf Link compatível, experimente este desafio separado e opcional de lobo."
+          }
+        },
+        {
+          "key": "practice-safe-armored-duels",
+          "title": "Practice safe armored duels",
+          "title_i18n": {
+            "en": "Practice safe armored duels",
+            "pt": "Pratique duelos seguros contra armaduras"
+          },
+          "description": "Use learned sword techniques to finish difficult encounters while conserving healing items.",
+          "description_i18n": {
+            "en": "Use learned sword techniques to finish difficult encounters while conserving healing items.",
+            "pt": "Use as técnicas de espada aprendidas para vencer confrontos difíceis poupando itens de cura."
+          }
+        }
+      ],
+      "kind": "side"
+    }
+  ],
+  "trophies": [],
+  "hltb_id": "33835",
+  "hltb_main_hours": 30,
+  "hltb_main_extra_hours": 39,
+  "hltb_completionist_hours": 44
+}

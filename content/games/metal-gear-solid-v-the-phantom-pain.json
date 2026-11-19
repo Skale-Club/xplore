@@ -1,0 +1,2642 @@
+{
+  "slug": "metal-gear-solid-v-the-phantom-pain",
+  "title": "Metal Gear Solid V: The Phantom Pain",
+  "title_i18n": {
+    "en": "Metal Gear Solid V: The Phantom Pain",
+    "pt": "Metal Gear Solid V: The Phantom Pain"
+  },
+  "platform": "PlayStation 4",
+  "cover_url": "/covers/metal-gear-solid-v-the-phantom-pain.png",
+  "created_by": "dd5c4bf0-85ea-4986-9c04-b37e8c986150",
+  "categories": [
+    {
+      "key": "deployment-preparation",
+      "title": "Deployment preparation",
+      "title_i18n": {
+        "en": "Deployment preparation",
+        "pt": "Preparação para o deslocamento"
+      },
+      "items": [
+        {
+          "key": "confirm-ps4-scope",
+          "title": "Start the PS4 campaign",
+          "title_i18n": {
+            "en": "Start the PS4 campaign",
+            "pt": "Começar a campanha no PS4"
+          },
+          "description": "This route covers The Phantom Pain; Ground Zeroes is a separate game. Optional replay operations and selected Side Ops have their own categories.",
+          "description_i18n": {
+            "en": "This route covers The Phantom Pain; Ground Zeroes is a separate game. Optional replay operations and selected Side Ops have their own categories.",
+            "pt": "Este roteiro cobre The Phantom Pain; Ground Zeroes é outro jogo. Repetições opcionais e Side Ops selecionadas têm categorias próprias."
+          }
+        },
+        {
+          "key": "review-idroid-orders",
+          "title": "Read the mission briefing",
+          "title_i18n": {
+            "en": "Read the mission briefing",
+            "pt": "Ler as instruções da missão"
+          },
+          "description": "Inspect objectives, landing zones and equipment costs in the iDroid before confirming each deployment.",
+          "description_i18n": {
+            "en": "Inspect objectives, landing zones and equipment costs in the iDroid before confirming each deployment.",
+            "pt": "Confira objetivos, zonas de pouso e custos dos equipamentos no iDroid antes de confirmar cada deslocamento."
+          }
+        },
+        {
+          "key": "practice-stealth-observation",
+          "title": "Practice observation before movement",
+          "title_i18n": {
+            "en": "Practice observation before movement",
+            "pt": "Praticar observação antes de se mover"
+          },
+          "description": "Use binoculars from cover to mark threats and plan both an entry route and an extraction route.",
+          "description_i18n": {
+            "en": "Use binoculars from cover to mark threats and plan both an entry route and an extraction route.",
+            "pt": "Use binóculos protegido para marcar ameaças e planejar uma rota de entrada e outra de extração."
+          }
+        },
+        {
+          "key": "learn-nonlethal-recovery",
+          "title": "Learn nonlethal takedowns",
+          "title_i18n": {
+            "en": "Learn nonlethal takedowns",
+            "pt": "Aprender neutralizações não letais"
+          },
+          "description": "Practice CQC and tranquilizer use, remembering that unconscious or sleeping guards can recover or be found.",
+          "description_i18n": {
+            "en": "Practice CQC and tranquilizer use, remembering that unconscious or sleeping guards can recover or be found.",
+            "pt": "Pratique CQC e uso de tranquilizantes; lembre-se de que guardas inconscientes ou adormecidos podem acordar ou ser encontrados."
+          }
+        },
+        {
+          "key": "manage-suppressors-resupply",
+          "title": "Manage suppressors and supplies",
+          "title_i18n": {
+            "en": "Manage suppressors and supplies",
+            "pt": "Controlar supressores e suprimentos"
+          },
+          "description": "Check ammunition and suppressor wear before an infiltration; request supplies from a safe position when needed.",
+          "description_i18n": {
+            "en": "Check ammunition and suppressor wear before an infiltration; request supplies from a safe position when needed.",
+            "pt": "Confira munição e desgaste dos supressores antes de uma infiltração; peça suprimentos de uma posição segura quando necessário."
+          }
+        },
+        {
+          "key": "separate-first-clear-goals",
+          "title": "Separate the first clear from completion cleanup",
+          "title_i18n": {
+            "en": "Separate the first clear from completion cleanup",
+            "pt": "Separar a primeira vitória das metas de conclusão"
+          },
+          "description": "Learn missions naturally first; replay later for tasks and S ranks rather than forcing every objective into one attempt.",
+          "description_i18n": {
+            "en": "Learn missions naturally first; replay later for tasks and S ranks rather than forcing every objective into one attempt.",
+            "pt": "Aprenda as missões na primeira tentativa; repita depois para tarefas e notas S em vez de tentar cumprir tudo de uma vez."
+          }
+        }
+      ]
+    },
+    {
+      "key": "awakening-diamond-dogs",
+      "title": "Operations 0–2: Awakening and Diamond Dogs",
+      "title_i18n": {
+        "en": "Operations 0–2: Awakening and Diamond Dogs",
+        "pt": "Operações 0–2: Despertar e Diamond Dogs"
+      },
+      "items": [
+        {
+          "key": "mission-00-hospital",
+          "title": "0 — Awakening: leave the hospital",
+          "title_i18n": {
+            "en": "0 — Awakening: leave the hospital",
+            "pt": "0 — Awakening: sair do hospital"
+          },
+          "description": "Follow the movement prompts and your guide, staying low when the escape sequence requires concealment.",
+          "description_i18n": {
+            "en": "Follow the movement prompts and your guide, staying low when the escape sequence requires concealment.",
+            "pt": "Siga as instruções de movimento e seu guia, mantendo-se abaixado quando a fuga exigir ocultação."
+          }
+        },
+        {
+          "key": "mission-00-escape",
+          "title": "0 — Awakening: complete the escape",
+          "title_i18n": {
+            "en": "0 — Awakening: complete the escape",
+            "pt": "0 — Awakening: concluir a fuga"
+          },
+          "description": "Continue through the evacuation and pursuit sequences until the opening operation is recorded as complete.",
+          "description_i18n": {
+            "en": "Continue through the evacuation and pursuit sequences until the opening operation is recorded as complete.",
+            "pt": "Avance pela evacuação e pelas perseguições até registrar a conclusão da operação inicial."
+          }
+        },
+        {
+          "key": "mission-01-locate",
+          "title": "1 — Phantom Limbs: locate the prisoner",
+          "title_i18n": {
+            "en": "1 — Phantom Limbs: locate the prisoner",
+            "pt": "1 — Phantom Limbs: localizar o prisioneiro"
+          },
+          "description": "Gather information in the search area and reconnoiter the village before entering guarded buildings.",
+          "description_i18n": {
+            "en": "Gather information in the search area and reconnoiter the village before entering guarded buildings.",
+            "pt": "Reúna informações na área de busca e observe a vila antes de entrar nos prédios vigiados."
+          }
+        },
+        {
+          "key": "mission-01-extract",
+          "title": "1 — Phantom Limbs: extract the objective",
+          "title_i18n": {
+            "en": "1 — Phantom Limbs: extract the objective",
+            "pt": "1 — Phantom Limbs: extrair o objetivo"
+          },
+          "description": "Carry Miller out, call an appropriate extraction and complete the return without abandoning him.",
+          "description_i18n": {
+            "en": "Carry Miller out, call an appropriate extraction and complete the return without abandoning him.",
+            "pt": "Carregue Miller para fora, solicite uma extração adequada e conclua o retorno sem abandoná-lo."
+          }
+        },
+        {
+          "key": "mission-02-fulton",
+          "title": "2 — Diamond Dogs: learn Fulton extraction",
+          "title_i18n": {
+            "en": "2 — Diamond Dogs: learn Fulton extraction",
+            "pt": "2 — Diamond Dogs: aprender a extração Fulton"
+          },
+          "description": "Follow Ocelot's Mother Base instructions and complete the extraction demonstration.",
+          "description_i18n": {
+            "en": "Follow Ocelot's Mother Base instructions and complete the extraction demonstration.",
+            "pt": "Siga as instruções de Ocelot na Mother Base e conclua a demonstração de extração."
+          }
+        },
+        {
+          "key": "mission-02-training",
+          "title": "2 — Diamond Dogs: finish the base tutorial",
+          "title_i18n": {
+            "en": "2 — Diamond Dogs: finish the base tutorial",
+            "pt": "2 — Diamond Dogs: terminar o tutorial da base"
+          },
+          "description": "Complete the remaining training prompts and inspect staff management before returning to the helicopter.",
+          "description_i18n": {
+            "en": "Complete the remaining training prompts and inspect staff management before returning to the helicopter.",
+            "pt": "Conclua as instruções restantes do treinamento e confira a gestão de pessoal antes de voltar ao helicóptero."
+          }
+        }
+      ]
+    },
+    {
+      "key": "afghanistan-first-contracts",
+      "title": "Operations 3–6: First Afghanistan contracts",
+      "title_i18n": {
+        "en": "Operations 3–6: First Afghanistan contracts",
+        "pt": "Operações 3–6: Primeiros contratos no Afeganistão"
+      },
+      "items": [
+        {
+          "key": "mission-03-recon",
+          "title": "3 — A Hero's Way: identify the commander",
+          "title_i18n": {
+            "en": "3 — A Hero's Way: identify the commander",
+            "pt": "3 — A Hero's Way: identificar o comandante"
+          },
+          "description": "Observe the target area and distinguish the commander from his guards before committing to an approach.",
+          "description_i18n": {
+            "en": "Observe the target area and distinguish the commander from his guards before committing to an approach.",
+            "pt": "Observe a área-alvo e diferencie o comandante dos guardas antes de escolher a aproximação."
+          }
+        },
+        {
+          "key": "mission-03-complete",
+          "title": "3 — A Hero's Way: complete the contract",
+          "title_i18n": {
+            "en": "3 — A Hero's Way: complete the contract",
+            "pt": "3 — A Hero's Way: concluir o contrato"
+          },
+          "description": "Neutralize the designated target and leave the hot zone; extraction is an alternative to killing when available.",
+          "description_i18n": {
+            "en": "Neutralize the designated target and leave the hot zone; extraction is an alternative to killing when available.",
+            "pt": "Neutralize o alvo indicado e saia da zona de conflito; a extração é uma alternativa à morte quando disponível."
+          }
+        },
+        {
+          "key": "mission-04-survey",
+          "title": "4 — C2W: survey the communications site",
+          "title_i18n": {
+            "en": "4 — C2W: survey the communications site",
+            "pt": "4 — C2W: observar o posto de comunicações"
+          },
+          "description": "Identify the communications equipment and patrol routes from a safe overlook.",
+          "description_i18n": {
+            "en": "Identify the communications equipment and patrol routes from a safe overlook.",
+            "pt": "Identifique os equipamentos de comunicação e as rotas de patrulha de um ponto de observação seguro."
+          }
+        },
+        {
+          "key": "mission-04-complete",
+          "title": "4 — C2W: disable communications",
+          "title_i18n": {
+            "en": "4 — C2W: disable communications",
+            "pt": "4 — C2W: desativar as comunicações"
+          },
+          "description": "Destroy the required communications capability and withdraw after the objective updates.",
+          "description_i18n": {
+            "en": "Destroy the required communications capability and withdraw after the objective updates.",
+            "pt": "Destrua a capacidade de comunicação exigida e recue após a atualização do objetivo."
+          }
+        },
+        {
+          "key": "mission-05-infiltrate",
+          "title": "5 — Over the Fence: enter the barracks",
+          "title_i18n": {
+            "en": "5 — Over the Fence: enter the barracks",
+            "pt": "5 — Over the Fence: entrar no quartel"
+          },
+          "description": "Scout Wakh Sind Barracks and find a route to the captive engineer without drawing a large search party.",
+          "description_i18n": {
+            "en": "Scout Wakh Sind Barracks and find a route to the captive engineer without drawing a large search party.",
+            "pt": "Observe o Quartel Wakh Sind e encontre uma rota até o engenheiro sem atrair uma grande equipe de busca."
+          }
+        },
+        {
+          "key": "mission-05-rescue",
+          "title": "5 — Over the Fence: rescue the engineer",
+          "title_i18n": {
+            "en": "5 — Over the Fence: rescue the engineer",
+            "pt": "5 — Over the Fence: resgatar o engenheiro"
+          },
+          "description": "Secure the prisoner and move him to a suitable extraction position before leaving the area.",
+          "description_i18n": {
+            "en": "Secure the prisoner and move him to a suitable extraction position before leaving the area.",
+            "pt": "Proteja o prisioneiro e leve-o a uma posição adequada para extração antes de sair da área."
+          }
+        },
+        {
+          "key": "mission-06-search",
+          "title": "6 — Where Do the Bees Sleep?: investigate the fort",
+          "title_i18n": {
+            "en": "6 — Where Do the Bees Sleep?: investigate the fort",
+            "pt": "6 — Where Do the Bees Sleep?: investigar a fortaleza"
+          },
+          "description": "Follow the leads to Da Smasei Laman and search its interior for the requested weapon.",
+          "description_i18n": {
+            "en": "Follow the leads to Da Smasei Laman and search its interior for the requested weapon.",
+            "pt": "Siga as pistas até Da Smasei Laman e procure a arma solicitada no interior."
+          }
+        },
+        {
+          "key": "mission-06-return",
+          "title": "6 — Where Do the Bees Sleep?: return with the weapon",
+          "title_i18n": {
+            "en": "6 — Where Do the Bees Sleep?: return with the weapon",
+            "pt": "6 — Where Do the Bees Sleep?: voltar com a arma"
+          },
+          "description": "Recover Honey Bee, respond to the encounter on the way out and leave with the mission objective secured.",
+          "description_i18n": {
+            "en": "Recover Honey Bee, respond to the encounter on the way out and leave with the mission objective secured.",
+            "pt": "Recupere Honey Bee, reaja ao encontro na saída e deixe a região com o objetivo assegurado."
+          }
+        }
+      ]
+    },
+    {
+      "key": "afghanistan-mobile-targets",
+      "title": "Operations 7–10: Mobile targets and rescues",
+      "title_i18n": {
+        "en": "Operations 7–10: Mobile targets and rescues",
+        "pt": "Operações 7–10: Alvos móveis e resgates"
+      },
+      "items": [
+        {
+          "key": "mission-07-track",
+          "title": "7 — Red Brass: track the officers",
+          "title_i18n": {
+            "en": "7 — Red Brass: track the officers",
+            "pt": "7 — Red Brass: acompanhar os oficiais"
+          },
+          "description": "Read the meeting intelligence and identify the routes used by the designated commanders.",
+          "description_i18n": {
+            "en": "Read the meeting intelligence and identify the routes used by the designated commanders.",
+            "pt": "Leia as informações da reunião e identifique as rotas usadas pelos comandantes indicados."
+          }
+        },
+        {
+          "key": "mission-07-complete",
+          "title": "7 — Red Brass: resolve all targets",
+          "title_i18n": {
+            "en": "7 — Red Brass: resolve all targets",
+            "pt": "7 — Red Brass: resolver todos os alvos"
+          },
+          "description": "Neutralize each designated officer and verify the objective list before leaving the hot zone.",
+          "description_i18n": {
+            "en": "Neutralize each designated officer and verify the objective list before leaving the hot zone.",
+            "pt": "Neutralize cada oficial indicado e confira a lista de objetivos antes de sair da zona de conflito."
+          }
+        },
+        {
+          "key": "mission-08-scout",
+          "title": "8 — Occupation Forces: scout the convoy route",
+          "title_i18n": {
+            "en": "8 — Occupation Forces: scout the convoy route",
+            "pt": "8 — Occupation Forces: observar a rota do comboio"
+          },
+          "description": "Identify the enemy column's route and prepare a position away from exposed village approaches.",
+          "description_i18n": {
+            "en": "Identify the enemy column's route and prepare a position away from exposed village approaches.",
+            "pt": "Identifique o trajeto da coluna inimiga e prepare uma posição longe das entradas expostas da vila."
+          }
+        },
+        {
+          "key": "mission-08-complete",
+          "title": "8 — Occupation Forces: stop the column",
+          "title_i18n": {
+            "en": "8 — Occupation Forces: stop the column",
+            "pt": "8 — Occupation Forces: deter a coluna"
+          },
+          "description": "Deal with the colonel and escort vehicles, then leave once all mandatory targets are accounted for.",
+          "description_i18n": {
+            "en": "Deal with the colonel and escort vehicles, then leave once all mandatory targets are accounted for.",
+            "pt": "Resolva o coronel e os veículos de escolta; depois saia quando todos os alvos obrigatórios estiverem contabilizados."
+          }
+        },
+        {
+          "key": "mission-09-prepare",
+          "title": "9 — Backup, Back Down: prepare anti-armor equipment",
+          "title_i18n": {
+            "en": "9 — Backup, Back Down: prepare anti-armor equipment",
+            "pt": "9 — Backup, Back Down: preparar equipamento antiblindagem"
+          },
+          "description": "Bring equipment suited to vehicles and study the road network before starting the timed assignment.",
+          "description_i18n": {
+            "en": "Bring equipment suited to vehicles and study the road network before starting the timed assignment.",
+            "pt": "Leve equipamentos adequados contra veículos e estude a malha de estradas antes da operação com tempo limitado."
+          }
+        },
+        {
+          "key": "mission-09-complete",
+          "title": "9 — Backup, Back Down: complete the timed operation",
+          "title_i18n": {
+            "en": "9 — Backup, Back Down: complete the timed operation",
+            "pt": "9 — Backup, Back Down: concluir a operação cronometrada"
+          },
+          "description": "Intercept hostile vehicles within the mission window and distinguish a first clear from the later all-vehicle task.",
+          "description_i18n": {
+            "en": "Intercept hostile vehicles within the mission window and distinguish a first clear from the later all-vehicle task.",
+            "pt": "Intercepte veículos hostis dentro do prazo e diferencie a primeira conclusão da tarefa posterior de atingir todos os veículos."
+          }
+        },
+        {
+          "key": "mission-10-follow",
+          "title": "10 — Angel With Broken Wings: locate the transport",
+          "title_i18n": {
+            "en": "10 — Angel With Broken Wings: locate the transport",
+            "pt": "10 — Angel With Broken Wings: localizar o transporte"
+          },
+          "description": "Find the injured prisoner and observe the transport situation before risking a loud assault.",
+          "description_i18n": {
+            "en": "Find the injured prisoner and observe the transport situation before risking a loud assault.",
+            "pt": "Encontre o prisioneiro ferido e observe a situação do transporte antes de arriscar um ataque ruidoso."
+          }
+        },
+        {
+          "key": "mission-10-rescue",
+          "title": "10 — Angel With Broken Wings: complete the rescue",
+          "title_i18n": {
+            "en": "10 — Angel With Broken Wings: complete the rescue",
+            "pt": "10 — Angel With Broken Wings: concluir o resgate"
+          },
+          "description": "Recover the main prisoner and secure a safe evacuation; extra prisoner tasks can be handled on a replay.",
+          "description_i18n": {
+            "en": "Recover the main prisoner and secure a safe evacuation; extra prisoner tasks can be handled on a replay.",
+            "pt": "Recupere o prisioneiro principal e garanta uma evacuação segura; tarefas com outros prisioneiros podem ficar para uma repetição."
+          }
+        }
+      ]
+    },
+    {
+      "key": "quiet-emmerich-route",
+      "title": "Operations 11–12: The ruins and Emmerich",
+      "title_i18n": {
+        "en": "Operations 11–12: The ruins and Emmerich",
+        "pt": "Operações 11–12: As ruínas e Emmerich"
+      },
+      "items": [
+        {
+          "key": "mission-11-duel",
+          "title": "11 — Cloaked in Silence: face the sniper",
+          "title_i18n": {
+            "en": "11 — Cloaked in Silence: face the sniper",
+            "pt": "11 — Cloaked in Silence: enfrentar a atiradora"
+          },
+          "description": "Use solid cover, observe firing positions and finish the ruins encounter; this is a recruitable-buddy branch.",
+          "description_i18n": {
+            "en": "Use solid cover, observe firing positions and finish the ruins encounter; this is a recruitable-buddy branch.",
+            "pt": "Use cobertura sólida, observe as posições de tiro e conclua o encontro nas ruínas; este é um desvio para recrutar uma companheira."
+          }
+        },
+        {
+          "key": "mission-11-outcome",
+          "title": "11 — Cloaked in Silence: choose the outcome",
+          "title_i18n": {
+            "en": "11 — Cloaked in Silence: choose the outcome",
+            "pt": "11 — Cloaked in Silence: escolher o desfecho"
+          },
+          "description": "Review Details before the final interaction if you want to keep the companion recruitment route available.",
+          "description_i18n": {
+            "en": "Review Details before the final interaction if you want to keep the companion recruitment route available.",
+            "pt": "Confira os Detalhes antes da interação final se quiser manter disponível a rota de recrutamento da companheira."
+          },
+          "details": "To recruit Quiet, defeat her but do not execute her in the final interaction. Leave with her by helicopter and continue the later base events, including Side Op 111 at the Medical Platform. Winning the duel alone does not immediately make her selectable. If you chose the lethal outcome, replay the normal Operation 11 and take the recruitment outcome instead; there is no need to erase campaign progress.",
+          "details_i18n": {
+            "en": "To recruit Quiet, defeat her but do not execute her in the final interaction. Leave with her by helicopter and continue the later base events, including Side Op 111 at the Medical Platform. Winning the duel alone does not immediately make her selectable. If you chose the lethal outcome, replay the normal Operation 11 and take the recruitment outcome instead; there is no need to erase campaign progress.",
+            "pt": "Para recrutar Quiet, vença a luta, mas não a execute na interação final. Saia com ela de helicóptero e avance pelos eventos posteriores da base, incluindo a Side Op 111 na Plataforma Médica. Vencer o duelo não a torna selecionável imediatamente. Se escolheu o desfecho letal, repita a Operação 11 normal e escolha o recrutamento; não é necessário apagar o progresso da campanha."
+          }
+        },
+        {
+          "key": "side-op-82-contact",
+          "title": "Side Op 82 — Make Contact with Emmerich",
+          "title_i18n": {
+            "en": "Side Op 82 — Make Contact with Emmerich",
+            "pt": "Side Op 82 — Fazer contato com Emmerich"
+          },
+          "description": "Follow the important Side Op toward Serak Power Plant to advance into the extraction operation.",
+          "description_i18n": {
+            "en": "Follow the important Side Op toward Serak Power Plant to advance into the extraction operation.",
+            "pt": "Siga a Side Op importante em direção à Usina Serak para avançar à operação de extração."
+          }
+        },
+        {
+          "key": "mission-12-find",
+          "title": "12 — Hellbound: reach Emmerich",
+          "title_i18n": {
+            "en": "12 — Hellbound: reach Emmerich",
+            "pt": "12 — Hellbound: chegar até Emmerich"
+          },
+          "description": "Infiltrate the marked facilities and locate the extraction target while watching vehicles and elevated guards.",
+          "description_i18n": {
+            "en": "Infiltrate the marked facilities and locate the extraction target while watching vehicles and elevated guards.",
+            "pt": "Infiltre-se nas instalações indicadas e localize o alvo de extração, atento a veículos e guardas elevados."
+          }
+        },
+        {
+          "key": "mission-12-evacuate",
+          "title": "12 — Hellbound: finish the evacuation",
+          "title_i18n": {
+            "en": "12 — Hellbound: finish the evacuation",
+            "pt": "12 — Hellbound: concluir a evacuação"
+          },
+          "description": "Carry the target to safety and adapt to the changing extraction situation before boarding the helicopter.",
+          "description_i18n": {
+            "en": "Carry the target to safety and adapt to the changing extraction situation before boarding the helicopter.",
+            "pt": "Carregue o alvo até um local seguro e adapte-se à mudança na extração antes de embarcar no helicóptero."
+          }
+        }
+      ]
+    },
+    {
+      "key": "africa-first-contracts",
+      "title": "Operations 13–16: The Angola–Zaire border",
+      "title_i18n": {
+        "en": "Operations 13–16: The Angola–Zaire border",
+        "pt": "Operações 13–16: Fronteira Angola–Zaire"
+      },
+      "items": [
+        {
+          "key": "mission-13-refinery",
+          "title": "13 — Pitch Dark: infiltrate the refinery",
+          "title_i18n": {
+            "en": "13 — Pitch Dark: infiltrate the refinery",
+            "pt": "13 — Pitch Dark: infiltrar a refinaria"
+          },
+          "description": "Study Mfinda Oilfield's patrols and locate the mission's industrial targets before causing an alarm.",
+          "description_i18n": {
+            "en": "Study Mfinda Oilfield's patrols and locate the mission's industrial targets before causing an alarm.",
+            "pt": "Observe as patrulhas de Mfinda Oilfield e localize os alvos industriais da missão antes de causar um alarme."
+          }
+        },
+        {
+          "key": "mission-13-complete",
+          "title": "13 — Pitch Dark: complete the sabotage",
+          "title_i18n": {
+            "en": "13 — Pitch Dark: complete the sabotage",
+            "pt": "13 — Pitch Dark: concluir a sabotagem"
+          },
+          "description": "Disable the required facility systems and leave the area after both main objectives register.",
+          "description_i18n": {
+            "en": "Disable the required facility systems and leave the area after both main objectives register.",
+            "pt": "Desative os sistemas exigidos das instalações e saia da área após registrar os dois objetivos principais."
+          }
+        },
+        {
+          "key": "mission-14-identify",
+          "title": "14 — Lingua Franca: identify the Viscount",
+          "title_i18n": {
+            "en": "14 — Lingua Franca: identify the Viscount",
+            "pt": "14 — Lingua Franca: identificar o Visconde"
+          },
+          "description": "Observe the interpreter's route and gather reliable identification before rescuing the main prisoner.",
+          "description_i18n": {
+            "en": "Observe the interpreter's route and gather reliable identification before rescuing the main prisoner.",
+            "pt": "Observe a rota do intérprete e confirme a identificação antes de resgatar o prisioneiro principal."
+          }
+        },
+        {
+          "key": "mission-14-rescue",
+          "title": "14 — Lingua Franca: extract the Viscount",
+          "title_i18n": {
+            "en": "14 — Lingua Franca: extract the Viscount",
+            "pt": "14 — Lingua Franca: extrair o Visconde"
+          },
+          "description": "Move the objective to safety; save the full interrogation-listening task for a deliberate replay.",
+          "description_i18n": {
+            "en": "Move the objective to safety; save the full interrogation-listening task for a deliberate replay.",
+            "pt": "Leve o objetivo a um local seguro; deixe a tarefa de ouvir todos os interrogatórios para uma repetição planejada."
+          },
+          "details": "For the optional interrogation-listening task, plan a separate replay. Let the interpreter and escort follow their normal schedule, stay outside their sight and hearing, and remain close enough to hear each exchange. Raising an alarm, moving prisoners early or interrupting the interpreter can break the sequence. Confirm task completion in the mission list before ending the run; rescuing the Viscount alone does not satisfy every conversation task.",
+          "details_i18n": {
+            "en": "For the optional interrogation-listening task, plan a separate replay. Let the interpreter and escort follow their normal schedule, stay outside their sight and hearing, and remain close enough to hear each exchange. Raising an alarm, moving prisoners early or interrupting the interpreter can break the sequence. Confirm task completion in the mission list before ending the run; rescuing the Viscount alone does not satisfy every conversation task.",
+            "pt": "Para a tarefa opcional de ouvir interrogatórios, planeje uma repetição separada. Deixe o intérprete e a escolta seguirem a rotina, permaneça fora da visão e audição deles e fique perto o suficiente para ouvir cada conversa. Um alarme, mover prisioneiros cedo ou interromper o intérprete pode quebrar a sequência. Confirme a conclusão na lista antes de encerrar; resgatar apenas o Visconde não cumpre todas as tarefas de conversa."
+          }
+        },
+        {
+          "key": "mission-15-survey",
+          "title": "15 — Footprints of Phantoms: survey the Walker Gears",
+          "title_i18n": {
+            "en": "15 — Footprints of Phantoms: survey the Walker Gears",
+            "pt": "15 — Footprints of Phantoms: observar os Walker Gears"
+          },
+          "description": "Locate the deployed machines and their guards before choosing destruction or extraction.",
+          "description_i18n": {
+            "en": "Locate the deployed machines and their guards before choosing destruction or extraction.",
+            "pt": "Localize as máquinas posicionadas e seus guardas antes de escolher entre destruição e extração."
+          }
+        },
+        {
+          "key": "mission-15-complete",
+          "title": "15 — Footprints of Phantoms: remove the machines",
+          "title_i18n": {
+            "en": "15 — Footprints of Phantoms: remove the machines",
+            "pt": "15 — Footprints of Phantoms: remover as máquinas"
+          },
+          "description": "Resolve all designated Walker Gears and leave after checking the mandatory objective list.",
+          "description_i18n": {
+            "en": "Resolve all designated Walker Gears and leave after checking the mandatory objective list.",
+            "pt": "Resolva todos os Walker Gears indicados e saia após conferir a lista de objetivos obrigatórios."
+          }
+        },
+        {
+          "key": "mission-16-track",
+          "title": "16 — Traitors' Caravan: find the truck",
+          "title_i18n": {
+            "en": "16 — Traitors' Caravan: find the truck",
+            "pt": "16 — Traitors' Caravan: encontrar o caminhão"
+          },
+          "description": "Follow the convoy intelligence, identify the correct transport and plan a protected approach.",
+          "description_i18n": {
+            "en": "Follow the convoy intelligence, identify the correct transport and plan a protected approach.",
+            "pt": "Siga as informações do comboio, identifique o transporte correto e planeje uma aproximação protegida."
+          }
+        },
+        {
+          "key": "mission-16-extract",
+          "title": "16 — Traitors' Caravan: extract the cargo truck",
+          "title_i18n": {
+            "en": "16 — Traitors' Caravan: extract the cargo truck",
+            "pt": "16 — Traitors' Caravan: extrair o caminhão de carga"
+          },
+          "description": "Preserve the required vehicle and respond to the encounter around it; Details offers recovery-oriented tactics.",
+          "description_i18n": {
+            "en": "Preserve the required vehicle and respond to the encounter around it; Details offers recovery-oriented tactics.",
+            "pt": "Preserve o veículo necessário e reaja ao encontro ao redor dele; os Detalhes trazem táticas para superar a situação."
+          },
+          "details": "The required cargo truck must survive. Bring a Fulton upgrade capable of lifting vehicles and prepare for the Skulls encounter before approaching it. Clear a safe opening, extract the truck when possible and then escape the hot zone; defeating every Skull is a separate task rather than the only route to a first clear. Avoid explosives beside the objective. If an extraction attempt fails, relocate and stabilize the situation instead of destroying the truck in crossfire.",
+          "details_i18n": {
+            "en": "The required cargo truck must survive. Bring a Fulton upgrade capable of lifting vehicles and prepare for the Skulls encounter before approaching it. Clear a safe opening, extract the truck when possible and then escape the hot zone; defeating every Skull is a separate task rather than the only route to a first clear. Avoid explosives beside the objective. If an extraction attempt fails, relocate and stabilize the situation instead of destroying the truck in crossfire.",
+            "pt": "O caminhão de carga necessário precisa sobreviver. Leve uma melhoria Fulton capaz de erguer veículos e prepare-se para os Skulls antes de se aproximar. Crie uma abertura segura, extraia o caminhão quando possível e escape da zona de conflito; derrotar todos os Skulls é uma tarefa separada, não a única forma de concluir a missão. Evite explosivos junto ao objetivo. Se a extração falhar, mude de posição e controle a situação em vez de destruir o caminhão no fogo cruzado."
+          }
+        }
+      ]
+    },
+    {
+      "key": "africa-rescue-investigation",
+      "title": "Operations 17–20: Rescues and investigation",
+      "title_i18n": {
+        "en": "Operations 17–20: Rescues and investigation",
+        "pt": "Operações 17–20: Resgates e investigação"
+      },
+      "items": [
+        {
+          "key": "mission-17-locate",
+          "title": "17 — Rescue the Intel Agents: find both agents",
+          "title_i18n": {
+            "en": "17 — Rescue the Intel Agents: find both agents",
+            "pt": "17 — Rescue the Intel Agents: encontrar os dois agentes"
+          },
+          "description": "Search the separate target areas promptly and keep track of which agent has already been secured.",
+          "description_i18n": {
+            "en": "Search the separate target areas promptly and keep track of which agent has already been secured.",
+            "pt": "Procure rapidamente nas áreas separadas e registre qual agente já foi protegido."
+          }
+        },
+        {
+          "key": "mission-17-extract",
+          "title": "17 — Rescue the Intel Agents: evacuate both",
+          "title_i18n": {
+            "en": "17 — Rescue the Intel Agents: evacuate both",
+            "pt": "17 — Rescue the Intel Agents: evacuar os dois"
+          },
+          "description": "Extract both designated agents, using a safe transport method for anyone whose condition requires it.",
+          "description_i18n": {
+            "en": "Extract both designated agents, using a safe transport method for anyone whose condition requires it.",
+            "pt": "Extraia os dois agentes indicados, usando transporte seguro para quem precisar por causa de sua condição."
+          }
+        },
+        {
+          "key": "mission-18-reach-mine",
+          "title": "18 — Blood Runs Deep: reach the mine",
+          "title_i18n": {
+            "en": "18 — Blood Runs Deep: reach the mine",
+            "pt": "18 — Blood Runs Deep: chegar à mina"
+          },
+          "description": "Handle the first assigned target, then infiltrate Kungenga Mine and investigate the remaining objective.",
+          "description_i18n": {
+            "en": "Handle the first assigned target, then infiltrate Kungenga Mine and investigate the remaining objective.",
+            "pt": "Resolva o primeiro alvo designado, infiltre-se na Mina Kungenga e investigue o objetivo restante."
+          }
+        },
+        {
+          "key": "mission-18-escort",
+          "title": "18 — Blood Runs Deep: complete the escort",
+          "title_i18n": {
+            "en": "18 — Blood Runs Deep: complete the escort",
+            "pt": "18 — Blood Runs Deep: concluir a escolta"
+          },
+          "description": "Keep the rescued group together, stop when patrols approach and account for everyone at the evacuation point.",
+          "description_i18n": {
+            "en": "Keep the rescued group together, stop when patrols approach and account for everyone at the evacuation point.",
+            "pt": "Mantenha o grupo resgatado unido, pare quando patrulhas se aproximarem e confira todos no ponto de evacuação."
+          }
+        },
+        {
+          "key": "mission-19-follow",
+          "title": "19 — On the Trail: follow the lead",
+          "title_i18n": {
+            "en": "19 — On the Trail: follow the lead",
+            "pt": "19 — On the Trail: seguir a pista"
+          },
+          "description": "Observe the subordinate's movements without prematurely disrupting the meeting you need to locate.",
+          "description_i18n": {
+            "en": "Observe the subordinate's movements without prematurely disrupting the meeting you need to locate.",
+            "pt": "Observe os movimentos do subordinado sem interromper antes da hora a reunião que precisa localizar."
+          }
+        },
+        {
+          "key": "mission-19-complete",
+          "title": "19 — On the Trail: resolve the commander",
+          "title_i18n": {
+            "en": "19 — On the Trail: resolve the commander",
+            "pt": "19 — On the Trail: resolver o comandante"
+          },
+          "description": "Confirm the main target's identity, neutralize him and leave the hot zone.",
+          "description_i18n": {
+            "en": "Confirm the main target's identity, neutralize him and leave the hot zone.",
+            "pt": "Confirme a identidade do alvo principal, neutralize-o e saia da zona de conflito."
+          }
+        },
+        {
+          "key": "mission-20-investigate",
+          "title": "20 — Voices: investigate Ngumba",
+          "title_i18n": {
+            "en": "20 — Voices: investigate Ngumba",
+            "pt": "20 — Voices: investigar Ngumba"
+          },
+          "description": "Follow the route into Ngumba Industrial Zone and search the interior for the designated target.",
+          "description_i18n": {
+            "en": "Follow the route into Ngumba Industrial Zone and search the interior for the designated target.",
+            "pt": "Siga a rota até a Zona Industrial Ngumba e procure o alvo indicado no interior."
+          }
+        },
+        {
+          "key": "mission-20-escape",
+          "title": "20 — Voices: complete the extraction sequence",
+          "title_i18n": {
+            "en": "20 — Voices: complete the extraction sequence",
+            "pt": "20 — Voices: concluir a sequência de extração"
+          },
+          "description": "Respond to the changing encounter and secure a safe exit instead of remaining in the open.",
+          "description_i18n": {
+            "en": "Respond to the changing encounter and secure a safe exit instead of remaining in the open.",
+            "pt": "Reaja à mudança no confronto e garanta uma saída segura em vez de permanecer exposto."
+          }
+        }
+      ]
+    },
+    {
+      "key": "africa-war-economy",
+      "title": "Operations 21–24: Airport and base response",
+      "title_i18n": {
+        "en": "Operations 21–24: Airport and base response",
+        "pt": "Operações 21–24: Aeroporto e resposta da base"
+      },
+      "items": [
+        {
+          "key": "mission-21-observe",
+          "title": "21 — The War Economy: observe the airport",
+          "title_i18n": {
+            "en": "21 — The War Economy: observe the airport",
+            "pt": "21 — The War Economy: observar o aeroporto"
+          },
+          "description": "Identify the CFA official and the visiting dealer while keeping distance from airport patrols.",
+          "description_i18n": {
+            "en": "Identify the CFA official and the visiting dealer while keeping distance from airport patrols.",
+            "pt": "Identifique o oficial da CFA e o negociador visitante mantendo distância das patrulhas do aeroporto."
+          }
+        },
+        {
+          "key": "mission-21-complete",
+          "title": "21 — The War Economy: complete the contract",
+          "title_i18n": {
+            "en": "21 — The War Economy: complete the contract",
+            "pt": "21 — The War Economy: concluir o contrato"
+          },
+          "description": "Resolve the designated official and withdraw; optional conversation and container tasks can wait for a replay.",
+          "description_i18n": {
+            "en": "Resolve the designated official and withdraw; optional conversation and container tasks can wait for a replay.",
+            "pt": "Resolva o oficial indicado e recue; conversas e tarefas com contêineres podem ficar para uma repetição."
+          }
+        },
+        {
+          "key": "mission-22-respond",
+          "title": "22 — Retake the Platform: respond to the emergency",
+          "title_i18n": {
+            "en": "22 — Retake the Platform: respond to the emergency",
+            "pt": "22 — Retake the Platform: responder à emergência"
+          },
+          "description": "When Mother Base calls, return for the platform incident; this interruption can occur during another operation.",
+          "description_i18n": {
+            "en": "When Mother Base calls, return for the platform incident; this interruption can occur during another operation.",
+            "pt": "Quando a Mother Base chamar, retorne para o incidente na plataforma; a interrupção pode ocorrer durante outra operação."
+          }
+        },
+        {
+          "key": "mission-22-complete",
+          "title": "22 — Retake the Platform: secure the platform",
+          "title_i18n": {
+            "en": "22 — Retake the Platform: secure the platform",
+            "pt": "22 — Retake the Platform: proteger a plataforma"
+          },
+          "description": "Complete the platform objective and finish the subsequent security-system briefing before resuming field work.",
+          "description_i18n": {
+            "en": "Complete the platform objective and finish the subsequent security-system briefing before resuming field work.",
+            "pt": "Conclua o objetivo da plataforma e acompanhe as instruções de segurança antes de retomar o trabalho em campo."
+          }
+        },
+        {
+          "key": "mission-23-approach",
+          "title": "23 — The White Mamba: approach the settlement",
+          "title_i18n": {
+            "en": "23 — The White Mamba: approach the settlement",
+            "pt": "23 — The White Mamba: aproximar-se do povoado"
+          },
+          "description": "Reconnoiter Masa Village and use equipment suited to a situation involving child soldiers.",
+          "description_i18n": {
+            "en": "Reconnoiter Masa Village and use equipment suited to a situation involving child soldiers.",
+            "pt": "Observe a Vila Masa e use equipamentos adequados a uma situação envolvendo crianças-soldado."
+          }
+        },
+        {
+          "key": "mission-23-complete",
+          "title": "23 — The White Mamba: extract the leader",
+          "title_i18n": {
+            "en": "23 — The White Mamba: extract the leader",
+            "pt": "23 — The White Mamba: extrair o líder"
+          },
+          "description": "Resolve the confrontation without lethal force and return with the designated leader.",
+          "description_i18n": {
+            "en": "Resolve the confrontation without lethal force and return with the designated leader.",
+            "pt": "Resolva o confronto sem força letal e volte com o líder indicado."
+          }
+        },
+        {
+          "key": "mission-24-search",
+          "title": "24 — Close Contact: locate the engineers",
+          "title_i18n": {
+            "en": "24 — Close Contact: locate the engineers",
+            "pt": "24 — Close Contact: localizar os engenheiros"
+          },
+          "description": "Search the assigned area and identify both engineers before patrols compromise the rescue.",
+          "description_i18n": {
+            "en": "Search the assigned area and identify both engineers before patrols compromise the rescue.",
+            "pt": "Vasculhe a área indicada e identifique os dois engenheiros antes que as patrulhas prejudiquem o resgate."
+          }
+        },
+        {
+          "key": "mission-24-rescue",
+          "title": "24 — Close Contact: evacuate both engineers",
+          "title_i18n": {
+            "en": "24 — Close Contact: evacuate both engineers",
+            "pt": "24 — Close Contact: evacuar os dois engenheiros"
+          },
+          "description": "Secure both objectives and complete their extractions before leaving the region.",
+          "description_i18n": {
+            "en": "Secure both objectives and complete their extractions before leaving the region.",
+            "pt": "Proteja os dois objetivos e conclua as extrações antes de deixar a região."
+          }
+        }
+      ]
+    },
+    {
+      "key": "outbreak-approach",
+      "title": "Operations 25–27: Urgent leads",
+      "title_i18n": {
+        "en": "Operations 25–27: Urgent leads",
+        "pt": "Operações 25–27: Pistas urgentes"
+      },
+      "items": [
+        {
+          "key": "mission-25-find",
+          "title": "25 — Aim True, Ye Vengeful: locate both targets",
+          "title_i18n": {
+            "en": "25 — Aim True, Ye Vengeful: locate both targets",
+            "pt": "25 — Aim True, Ye Vengeful: localizar os dois alvos"
+          },
+          "description": "Identify the child commander and captive officer, then plan a nonlethal recovery route.",
+          "description_i18n": {
+            "en": "Identify the child commander and captive officer, then plan a nonlethal recovery route.",
+            "pt": "Identifique o comandante infantil e o oficial cativo; depois planeje uma rota de recuperação não letal."
+          }
+        },
+        {
+          "key": "mission-25-complete",
+          "title": "25 — Aim True, Ye Vengeful: complete extraction",
+          "title_i18n": {
+            "en": "25 — Aim True, Ye Vengeful: complete extraction",
+            "pt": "25 — Aim True, Ye Vengeful: concluir a extração"
+          },
+          "description": "Recover both required targets without endangering the child and confirm the objective updates.",
+          "description_i18n": {
+            "en": "Recover both required targets without endangering the child and confirm the objective updates.",
+            "pt": "Recupere os dois alvos necessários sem colocar a criança em risco e confira as atualizações dos objetivos."
+          }
+        },
+        {
+          "key": "mission-26-identify",
+          "title": "26 — Hunting Down: identify the trafficker",
+          "title_i18n": {
+            "en": "26 — Hunting Down: identify the trafficker",
+            "pt": "26 — Hunting Down: identificar o traficante"
+          },
+          "description": "Track the mobile target through the search area, checking identification before starting a firefight.",
+          "description_i18n": {
+            "en": "Track the mobile target through the search area, checking identification before starting a firefight.",
+            "pt": "Acompanhe o alvo móvel pela área de busca e confirme sua identidade antes de iniciar um tiroteio."
+          }
+        },
+        {
+          "key": "mission-26-complete",
+          "title": "26 — Hunting Down: complete the contract",
+          "title_i18n": {
+            "en": "26 — Hunting Down: complete the contract",
+            "pt": "26 — Hunting Down: concluir o contrato"
+          },
+          "description": "Neutralize the designated trafficker and exit after the mission objective is confirmed.",
+          "description_i18n": {
+            "en": "Neutralize the designated trafficker and exit after the mission objective is confirmed.",
+            "pt": "Neutralize o traficante indicado e saia após a confirmação do objetivo da missão."
+          }
+        },
+        {
+          "key": "mission-27-locate",
+          "title": "27 — Root Cause: find the intel agent quickly",
+          "title_i18n": {
+            "en": "27 — Root Cause: find the intel agent quickly",
+            "pt": "27 — Root Cause: encontrar rapidamente o agente"
+          },
+          "description": "Move promptly toward the agent's reported position rather than treating the operation as an unrestricted search.",
+          "description_i18n": {
+            "en": "Move promptly toward the agent's reported position rather than treating the operation as an unrestricted search.",
+            "pt": "Avance rapidamente à posição informada do agente em vez de tratar a operação como uma busca sem limite."
+          }
+        },
+        {
+          "key": "mission-27-rescue",
+          "title": "27 — Root Cause: recover the agent",
+          "title_i18n": {
+            "en": "27 — Root Cause: recover the agent",
+            "pt": "27 — Root Cause: recuperar o agente"
+          },
+          "description": "Secure the fleeing objective and arrange evacuation before the situation deteriorates.",
+          "description_i18n": {
+            "en": "Secure the fleeing objective and arrange evacuation before the situation deteriorates.",
+            "pt": "Proteja o objetivo em fuga e organize a evacuação antes que a situação piore."
+          }
+        }
+      ]
+    },
+    {
+      "key": "code-talker-response",
+      "title": "Operations 28–29: Code Talker and the airport battle",
+      "title_i18n": {
+        "en": "Operations 28–29: Code Talker and the airport battle",
+        "pt": "Operações 28–29: Code Talker e a batalha do aeroporto"
+      },
+      "items": [
+        {
+          "key": "contain-base-epidemic",
+          "title": "Respond to the Mother Base epidemic",
+          "title_i18n": {
+            "en": "Respond to the Mother Base epidemic",
+            "pt": "Responder à epidemia na Mother Base"
+          },
+          "description": "Inspect the staff situation and use the quarantine menu while pursuing the next lead; the diagnostic clue is in Details.",
+          "description_i18n": {
+            "en": "Inspect the staff situation and use the quarantine menu while pursuing the next lead; the diagnostic clue is in Details.",
+            "pt": "Examine a situação do pessoal e use o menu de quarentena enquanto segue a próxima pista; a pista do diagnóstico está nos Detalhes."
+          },
+          "details": "For the first outbreak, compare the languages spoken by affected personnel. Kikongo is the shared clue: move staff who speak it into Quarantine, including apparently healthy speakers, then recheck new arrivals. Do not quarantine everyone who speaks an African language. Continue the Code Talker operations to resolve the outbreak through the story. This management response does not prevent the separate scripted events of Operation 43.",
+          "details_i18n": {
+            "en": "For the first outbreak, compare the languages spoken by affected personnel. Kikongo is the shared clue: move staff who speak it into Quarantine, including apparently healthy speakers, then recheck new arrivals. Do not quarantine everyone who speaks an African language. Continue the Code Talker operations to resolve the outbreak through the story. This management response does not prevent the separate scripted events of Operation 43.",
+            "pt": "Na primeira epidemia, compare os idiomas falados pelo pessoal afetado. Kikongo é a pista em comum: transfira para a Quarentena quem fala esse idioma, incluindo pessoas aparentemente saudáveis, e confira novos recrutas. Não coloque em quarentena todos que falam algum idioma africano. Continue as operações de Code Talker para resolver a epidemia pela história. Essa resposta de gestão não impede os eventos separados e roteirizados da Operação 43."
+          }
+        },
+        {
+          "key": "mission-28-approach",
+          "title": "28 — Code Talker: reach the mansion",
+          "title_i18n": {
+            "en": "28 — Code Talker: reach the mansion",
+            "pt": "28 — Code Talker: chegar à mansão"
+          },
+          "description": "Plan a protected route through the forest approach and reach the target inside the mansion.",
+          "description_i18n": {
+            "en": "Plan a protected route through the forest approach and reach the target inside the mansion.",
+            "pt": "Planeje uma rota protegida pela aproximação na floresta e chegue ao alvo dentro da mansão."
+          }
+        },
+        {
+          "key": "mission-28-extract",
+          "title": "28 — Code Talker: evacuate the target",
+          "title_i18n": {
+            "en": "28 — Code Talker: evacuate the target",
+            "pt": "28 — Code Talker: evacuar o alvo"
+          },
+          "description": "Carry the objective out and reassess patrol behavior before committing to an extraction point.",
+          "description_i18n": {
+            "en": "Carry the objective out and reassess patrol behavior before committing to an extraction point.",
+            "pt": "Carregue o objetivo para fora e reavalie o comportamento das patrulhas antes de escolher o ponto de extração."
+          }
+        },
+        {
+          "key": "mission-29-prepare",
+          "title": "29 — Metallic Archaea: prepare for the airport battle",
+          "title_i18n": {
+            "en": "29 — Metallic Archaea: prepare for the airport battle",
+            "pt": "29 — Metallic Archaea: preparar-se para a batalha do aeroporto"
+          },
+          "description": "Review armor, weapons and supply options before starting; this encounter demands sustained combat rather than a routine pickup.",
+          "description_i18n": {
+            "en": "Review armor, weapons and supply options before starting; this encounter demands sustained combat rather than a routine pickup.",
+            "pt": "Revise proteção, armas e suprimentos antes de começar; o encontro exige combate prolongado, não uma coleta rotineira."
+          }
+        },
+        {
+          "key": "mission-29-complete",
+          "title": "29 — Metallic Archaea: finish the encounter",
+          "title_i18n": {
+            "en": "29 — Metallic Archaea: finish the encounter",
+            "pt": "29 — Metallic Archaea: concluir o confronto"
+          },
+          "description": "Stay mobile, use cover and complete the confrontation before extracting the protected objective.",
+          "description_i18n": {
+            "en": "Stay mobile, use cover and complete the confrontation before extracting the protected objective.",
+            "pt": "Mantenha-se em movimento, use cobertura e conclua o confronto antes de extrair o objetivo protegido."
+          }
+        }
+      ]
+    },
+    {
+      "key": "chapter-one-conclusion",
+      "title": "Operations 30–31: Chapter 1 conclusion",
+      "title_i18n": {
+        "en": "Operations 30–31: Chapter 1 conclusion",
+        "pt": "Operações 30–31: Encerramento do Capítulo 1"
+      },
+      "items": [
+        {
+          "key": "mission-30-infiltrate",
+          "title": "30 — Skull Face: infiltrate OKB Zero",
+          "title_i18n": {
+            "en": "30 — Skull Face: infiltrate OKB Zero",
+            "pt": "30 — Skull Face: infiltrar OKB Zero"
+          },
+          "description": "Study each security layer and use covered routes through the facility instead of rushing every checkpoint.",
+          "description_i18n": {
+            "en": "Study each security layer and use covered routes through the facility instead of rushing every checkpoint.",
+            "pt": "Estude cada camada de segurança e use rotas protegidas pelas instalações em vez de correr por todos os postos."
+          }
+        },
+        {
+          "key": "mission-30-complete",
+          "title": "30 — Skull Face: reach the objective",
+          "title_i18n": {
+            "en": "30 — Skull Face: reach the objective",
+            "pt": "30 — Skull Face: chegar ao objetivo"
+          },
+          "description": "Continue to the designated meeting point and follow the story sequence through the operation's conclusion.",
+          "description_i18n": {
+            "en": "Continue to the designated meeting point and follow the story sequence through the operation's conclusion.",
+            "pt": "Avance até o ponto de encontro indicado e acompanhe a sequência da história até o encerramento da operação."
+          }
+        },
+        {
+          "key": "mission-31-loadout",
+          "title": "31 — Sahelanthropus: prepare heavy equipment",
+          "title_i18n": {
+            "en": "31 — Sahelanthropus: prepare heavy equipment",
+            "pt": "31 — Sahelanthropus: preparar equipamento pesado"
+          },
+          "description": "Bring upgraded anti-armor weapons and plan supply access before starting the major encounter.",
+          "description_i18n": {
+            "en": "Bring upgraded anti-armor weapons and plan supply access before starting the major encounter.",
+            "pt": "Leve armas antiblindagem melhoradas e planeje acesso a suprimentos antes de iniciar o grande confronto."
+          }
+        },
+        {
+          "key": "mission-31-battle",
+          "title": "31 — Sahelanthropus: complete the battle",
+          "title_i18n": {
+            "en": "31 — Sahelanthropus: complete the battle",
+            "pt": "31 — Sahelanthropus: concluir a batalha"
+          },
+          "description": "Respond to the machine's changing attacks and use the terrain to create recovery windows.",
+          "description_i18n": {
+            "en": "Respond to the machine's changing attacks and use the terrain to create recovery windows.",
+            "pt": "Reaja às mudanças nos ataques da máquina e use o terreno para criar oportunidades de recuperação."
+          },
+          "details": "Bring an upgraded rocket launcher, a reliable second weapon and a plan for repeated supply drops. Keep moving between terrain features when the machine attacks and collect resupplies only during a safe window. Destroy incoming projectiles when they threaten your position rather than tunneling on damage. In the later close-range sequence, react to the slow-motion opening promptly to stop the attack, then resume pressure. Improved equipment makes cleanup considerably easier than a rushed first clear.",
+          "details_i18n": {
+            "en": "Bring an upgraded rocket launcher, a reliable second weapon and a plan for repeated supply drops. Keep moving between terrain features when the machine attacks and collect resupplies only during a safe window. Destroy incoming projectiles when they threaten your position rather than tunneling on damage. In the later close-range sequence, react to the slow-motion opening promptly to stop the attack, then resume pressure. Improved equipment makes cleanup considerably easier than a rushed first clear.",
+            "pt": "Leve um lança-foguetes melhorado, uma segunda arma confiável e um plano para várias entregas de suprimentos. Mova-se entre acidentes do terreno durante os ataques e recolha suprimentos apenas em aberturas seguras. Destrua projéteis que ameacem sua posição em vez de pensar apenas no dano. Na sequência próxima do fim, reaja rapidamente à abertura em câmera lenta para interromper o ataque e retome a pressão. Equipamento melhor facilita bastante a repetição em comparação com uma primeira tentativa apressada."
+          }
+        },
+        {
+          "key": "view-first-chapter-ending",
+          "title": "View the Chapter 1 conclusion",
+          "title_i18n": {
+            "en": "View the Chapter 1 conclusion",
+            "pt": "Assistir ao encerramento do Capítulo 1"
+          },
+          "description": "Finish the ending sequence and review the new operations and Mother Base events that follow.",
+          "description_i18n": {
+            "en": "Finish the ending sequence and review the new operations and Mother Base events that follow.",
+            "pt": "Conclua a sequência de encerramento e confira as novas operações e os eventos seguintes da Mother Base."
+          }
+        }
+      ]
+    },
+    {
+      "key": "chapter-two-new-operations",
+      "title": "Chapter 2: New operations 32, 35, 38 and 41",
+      "title_i18n": {
+        "en": "Chapter 2: New operations 32, 35, 38 and 41",
+        "pt": "Capítulo 2: Novas operações 32, 35, 38 e 41"
+      },
+      "items": [
+        {
+          "key": "mission-32-search",
+          "title": "32 — To Know Too Much: search the desert",
+          "title_i18n": {
+            "en": "32 — To Know Too Much: search the desert",
+            "pt": "32 — To Know Too Much: procurar no deserto"
+          },
+          "description": "Move toward the reported intel-agent location promptly and inspect changes in enemy activity.",
+          "description_i18n": {
+            "en": "Move toward the reported intel-agent location promptly and inspect changes in enemy activity.",
+            "pt": "Avance rapidamente à posição informada do agente e observe mudanças na atividade inimiga."
+          }
+        },
+        {
+          "key": "mission-32-rescue",
+          "title": "32 — To Know Too Much: extract the agent",
+          "title_i18n": {
+            "en": "32 — To Know Too Much: extract the agent",
+            "pt": "32 — To Know Too Much: extrair o agente"
+          },
+          "description": "Secure the required agent, adapting your search if another force reaches him first.",
+          "description_i18n": {
+            "en": "Secure the required agent, adapting your search if another force reaches him first.",
+            "pt": "Proteja o agente necessário e adapte a busca se outra força chegar até ele primeiro."
+          }
+        },
+        {
+          "key": "mission-35-survey",
+          "title": "35 — Cursed Legacy: locate the containers",
+          "title_i18n": {
+            "en": "35 — Cursed Legacy: locate the containers",
+            "pt": "35 — Cursed Legacy: localizar os contêineres"
+          },
+          "description": "Inspect Lufwa Valley and verify both designated containers before beginning extraction.",
+          "description_i18n": {
+            "en": "Inspect Lufwa Valley and verify both designated containers before beginning extraction.",
+            "pt": "Examine o Vale Lufwa e confirme os dois contêineres indicados antes de iniciar a extração."
+          }
+        },
+        {
+          "key": "mission-35-extract",
+          "title": "35 — Cursed Legacy: extract both containers",
+          "title_i18n": {
+            "en": "35 — Cursed Legacy: extract both containers",
+            "pt": "35 — Cursed Legacy: extrair os dois contêineres"
+          },
+          "description": "Bring suitable cargo-extraction equipment and finish the remaining objective promptly once the situation escalates.",
+          "description_i18n": {
+            "en": "Bring suitable cargo-extraction equipment and finish the remaining objective promptly once the situation escalates.",
+            "pt": "Leve equipamento adequado à extração de carga e conclua o objetivo restante rapidamente quando a situação se intensificar."
+          }
+        },
+        {
+          "key": "mission-38-search",
+          "title": "38 — Extraordinary: identify the film canister",
+          "title_i18n": {
+            "en": "38 — Extraordinary: identify the film canister",
+            "pt": "38 — Extraordinary: identificar o rolo de filme"
+          },
+          "description": "Use local intelligence and search the designated ruins for the correct mission item.",
+          "description_i18n": {
+            "en": "Use local intelligence and search the designated ruins for the correct mission item.",
+            "pt": "Use informações locais e procure o item correto nas ruínas indicadas."
+          }
+        },
+        {
+          "key": "mission-38-complete",
+          "title": "38 — Extraordinary: leave with the film",
+          "title_i18n": {
+            "en": "38 — Extraordinary: leave with the film",
+            "pt": "38 — Extraordinary: sair com o filme"
+          },
+          "description": "Collect the objective and leave the hot zone, checking the task list before any later cleanup attempt.",
+          "description_i18n": {
+            "en": "Collect the objective and leave the hot zone, checking the task list before any later cleanup attempt.",
+            "pt": "Recolha o objetivo e saia da zona de conflito; confira a lista de tarefas antes de voltar para concluir pendências."
+          }
+        },
+        {
+          "key": "mission-41-plan",
+          "title": "41 — Proxy War Without End: plan vehicle interception",
+          "title_i18n": {
+            "en": "41 — Proxy War Without End: plan vehicle interception",
+            "pt": "41 — Proxy War Without End: planejar a interceptação"
+          },
+          "description": "Study the incoming vehicle routes and prepare anti-armor equipment for targets moving between positions.",
+          "description_i18n": {
+            "en": "Study the incoming vehicle routes and prepare anti-armor equipment for targets moving between positions.",
+            "pt": "Estude as rotas dos veículos que chegam e prepare equipamento antiblindagem para alvos que mudam de posição."
+          }
+        },
+        {
+          "key": "mission-41-complete",
+          "title": "41 — Proxy War Without End: resolve all targets",
+          "title_i18n": {
+            "en": "41 — Proxy War Without End: resolve all targets",
+            "pt": "41 — Proxy War Without End: resolver todos os alvos"
+          },
+          "description": "Track the mandatory vehicle objectives individually and confirm completion before withdrawing.",
+          "description_i18n": {
+            "en": "Track the mandatory vehicle objectives individually and confirm completion before withdrawing.",
+            "pt": "Acompanhe individualmente os objetivos obrigatórios com veículos e confirme a conclusão antes de recuar."
+          }
+        }
+      ]
+    },
+    {
+      "key": "chapter-two-final-events",
+      "title": "Chapter 2: Final events and Operation 46",
+      "title_i18n": {
+        "en": "Chapter 2: Final events and Operation 46",
+        "pt": "Capítulo 2: Eventos finais e Operação 46"
+      },
+      "items": [
+        {
+          "key": "advance-important-events",
+          "title": "Advance important Mother Base events",
+          "title_i18n": {
+            "en": "Advance important Mother Base events",
+            "pt": "Avançar os eventos importantes da Mother Base"
+          },
+          "description": "Complete yellow-marked operations, review yellow-marked tapes and return to base when called; difficult replays are tracked separately.",
+          "description_i18n": {
+            "en": "Complete yellow-marked operations, review yellow-marked tapes and return to base when called; difficult replays are tracked separately.",
+            "pt": "Conclua operações amarelas, confira fitas marcadas em amarelo e volte à base quando chamado; repetições difíceis estão separadas."
+          }
+        },
+        {
+          "key": "mission-43-enter",
+          "title": "43 — Shining Lights, Even in Death: respond",
+          "title_i18n": {
+            "en": "43 — Shining Lights, Even in Death: respond",
+            "pt": "43 — Shining Lights, Even in Death: responder"
+          },
+          "description": "When the urgent base event appears, follow the briefing and enter the designated facility.",
+          "description_i18n": {
+            "en": "When the urgent base event appears, follow the briefing and enter the designated facility.",
+            "pt": "Quando surgir o evento urgente da base, siga as instruções e entre nas instalações indicadas."
+          }
+        },
+        {
+          "key": "mission-43-complete",
+          "title": "43 — Shining Lights, Even in Death: complete the response",
+          "title_i18n": {
+            "en": "43 — Shining Lights, Even in Death: complete the response",
+            "pt": "43 — Shining Lights, Even in Death: concluir a resposta"
+          },
+          "description": "Follow the in-mission instructions through the full sequence and return to the command flow afterward.",
+          "description_i18n": {
+            "en": "Follow the in-mission instructions through the full sequence and return to the command flow afterward.",
+            "pt": "Siga as instruções durante toda a sequência e depois retome o fluxo de comando."
+          }
+        },
+        {
+          "key": "unlock-operation-46",
+          "title": "Make Operation 46 available",
+          "title_i18n": {
+            "en": "Make Operation 46 available",
+            "pt": "Liberar a Operação 46"
+          },
+          "description": "Continue the unique-operation and important-event route; consult Details if the final operation remains absent.",
+          "description_i18n": {
+            "en": "Continue the unique-operation and important-event route; consult Details if the final operation remains absent.",
+            "pt": "Continue pela rota de operações inéditas e eventos importantes; consulte os Detalhes se a operação final continuar ausente."
+          },
+          "details": "Complete the unique main operations available through the late Chapter 2 events, finish important yellow-marked Side Ops, review yellow-marked tapes and revisit Mother Base for the major cutscenes. Continue available Side Ops and return to the ACC/base if another event has not yet triggered. Operation 45 is not a prerequisite, and the Extreme, Subsistence and Total Stealth duplicates are not required to unlock 46. Keep base capacity developing normally; do not grind every challenge replay expecting it to replace the event chain.",
+          "details_i18n": {
+            "en": "Complete the unique main operations available through the late Chapter 2 events, finish important yellow-marked Side Ops, review yellow-marked tapes and revisit Mother Base for the major cutscenes. Continue available Side Ops and return to the ACC/base if another event has not yet triggered. Operation 45 is not a prerequisite, and the Extreme, Subsistence and Total Stealth duplicates are not required to unlock 46. Keep base capacity developing normally; do not grind every challenge replay expecting it to replace the event chain.",
+            "pt": "Conclua as operações principais inéditas disponíveis até os eventos finais do Capítulo 2, termine Side Ops importantes marcadas em amarelo, confira as fitas amarelas e revisite a Mother Base para as cenas principais. Continue as Side Ops disponíveis e volte ao ACC ou à base se outro evento ainda não surgir. A Operação 45 não é requisito; as repetições Extrema, Subsistência e Furtividade Total também não são necessárias para liberar a 46. Continue ampliando a capacidade da base normalmente; repetir desafios não substitui a sequência de eventos."
+          }
+        },
+        {
+          "key": "mission-46-complete",
+          "title": "46 — Truth: The Man Who Sold the World",
+          "title_i18n": {
+            "en": "46 — Truth: The Man Who Sold the World",
+            "pt": "46 — Truth: The Man Who Sold the World"
+          },
+          "description": "Complete the unlocked operation and watch its ending before returning to optional completion goals.",
+          "description_i18n": {
+            "en": "Complete the unlocked operation and watch its ending before returning to optional completion goals.",
+            "pt": "Conclua a operação liberada e assista ao encerramento antes de retomar metas opcionais de conclusão."
+          }
+        },
+        {
+          "key": "review-post-story-cleanup",
+          "title": "Review post-story completion goals",
+          "title_i18n": {
+            "en": "Review post-story completion goals",
+            "pt": "Revisar as metas após a história"
+          },
+          "description": "Continue using the existing mission list for optional replays, Side Ops and collections; no new save is needed for normal cleanup.",
+          "description_i18n": {
+            "en": "Continue using the existing mission list for optional replays, Side Ops and collections; no new save is needed for normal cleanup.",
+            "pt": "Continue usando a lista de missões para repetições, Side Ops e coleções; concluir pendências comuns não exige começar outro arquivo."
+          }
+        }
+      ]
+    },
+    {
+      "key": "mother-base-development",
+      "title": "Optional Mother Base development",
+      "title_i18n": {
+        "en": "Optional Mother Base development",
+        "pt": "Desenvolvimento opcional da Mother Base"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "recruit-useful-staff",
+          "title": "Recruit staff with useful skills",
+          "title_i18n": {
+            "en": "Recruit staff with useful skills",
+            "pt": "Recrutar pessoal com habilidades úteis"
+          },
+          "description": "Use the analyzer and Fulton to improve teams; check personnel skills instead of recruiting solely by headcount.",
+          "description_i18n": {
+            "en": "Use the analyzer and Fulton to improve teams; check personnel skills instead of recruiting solely by headcount.",
+            "pt": "Use o analisador e o Fulton para melhorar as equipes; confira habilidades em vez de recrutar apenas pela quantidade."
+          }
+        },
+        {
+          "key": "balance-unit-assignments",
+          "title": "Balance unit assignments",
+          "title_i18n": {
+            "en": "Balance unit assignments",
+            "pt": "Equilibrar a distribuição das equipes"
+          },
+          "description": "Review automatic assignments, waiting-room staff and unit requirements when a development project is blocked.",
+          "description_i18n": {
+            "en": "Review automatic assignments, waiting-room staff and unit requirements when a development project is blocked.",
+            "pt": "Revise a distribuição automática, a sala de espera e os requisitos das equipes quando um projeto estiver bloqueado."
+          }
+        },
+        {
+          "key": "expand-base-platforms",
+          "title": "Expand Mother Base platforms",
+          "title_i18n": {
+            "en": "Expand Mother Base platforms",
+            "pt": "Ampliar as plataformas da Mother Base"
+          },
+          "description": "Build capacity as teams fill up, reserving processed resources and GMP for the next useful expansion.",
+          "description_i18n": {
+            "en": "Build capacity as teams fill up, reserving processed resources and GMP for the next useful expansion.",
+            "pt": "Amplie a capacidade conforme as equipes encherem e reserve recursos processados e GMP para a próxima expansão útil."
+          }
+        },
+        {
+          "key": "develop-cargo-fulton",
+          "title": "Develop cargo-capable Fulton equipment",
+          "title_i18n": {
+            "en": "Develop cargo-capable Fulton equipment",
+            "pt": "Desenvolver o Fulton para cargas"
+          },
+          "description": "Unlock the extraction upgrades required for heavy objects before attempting container or vehicle recovery tasks.",
+          "description_i18n": {
+            "en": "Unlock the extraction upgrades required for heavy objects before attempting container or vehicle recovery tasks.",
+            "pt": "Libere melhorias de extração para objetos pesados antes de tentar tarefas com contêineres ou veículos."
+          }
+        },
+        {
+          "key": "protect-staff-morale",
+          "title": "Support staff morale and health",
+          "title_i18n": {
+            "en": "Support staff morale and health",
+            "pt": "Cuidar da moral e da saúde do pessoal"
+          },
+          "description": "Visit base, inspect sickbay and brig activity and address overcrowding rather than ignoring personnel warnings.",
+          "description_i18n": {
+            "en": "Visit base, inspect sickbay and brig activity and address overcrowding rather than ignoring personnel warnings.",
+            "pt": "Visite a base, confira a enfermaria e a prisão e resolva a superlotação em vez de ignorar avisos sobre o pessoal."
+          }
+        },
+        {
+          "key": "complete-key-dispatches",
+          "title": "Complete the key Combat Deployment chain",
+          "title_i18n": {
+            "en": "Complete the key Combat Deployment chain",
+            "pt": "Concluir a sequência de Deslocamentos de Combate importantes"
+          },
+          "description": "Send suitable teams on the important dispatch missions and inspect their rewards and success chances before committing personnel.",
+          "description_i18n": {
+            "en": "Send suitable teams on the important dispatch missions and inspect their rewards and success chances before committing personnel.",
+            "pt": "Envie equipes adequadas às missões importantes de deslocamento e confira recompensas e chances de sucesso antes de comprometer o pessoal."
+          }
+        },
+        {
+          "key": "develop-essential-gear",
+          "title": "Develop an affordable equipment plan",
+          "title_i18n": {
+            "en": "Develop an affordable equipment plan",
+            "pt": "Planejar equipamentos com custos viáveis"
+          },
+          "description": "Prioritize useful suppressors, reconnaissance tools and mission-specific weapons before spending resources on every available project.",
+          "description_i18n": {
+            "en": "Prioritize useful suppressors, reconnaissance tools and mission-specific weapons before spending resources on every available project.",
+            "pt": "Priorize supressores úteis, ferramentas de reconhecimento e armas adequadas às missões antes de gastar recursos em todos os projetos."
+          }
+        },
+        {
+          "key": "complete-base-platforms",
+          "title": "Finish the Mother Base platform buildout",
+          "title_i18n": {
+            "en": "Finish the Mother Base platform buildout",
+            "pt": "Concluir a expansão das plataformas da Mother Base"
+          },
+          "description": "For the full construction goal, complete every upgrade of the original base platforms; FOB expansion is separate.",
+          "description_i18n": {
+            "en": "For the full construction goal, complete every upgrade of the original base platforms; FOB expansion is separate.",
+            "pt": "Para a meta de construção completa, conclua todas as melhorias das plataformas da base original; a expansão FOB é separada."
+          }
+        }
+      ]
+    },
+    {
+      "key": "quiet-personal-route",
+      "title": "Quiet's optional route: Side Op 150 and Operation 45",
+      "title_i18n": {
+        "en": "Quiet's optional route: Side Op 150 and Operation 45",
+        "pt": "Rota opcional de Quiet: Side Op 150 e Operação 45"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "unlock-quiet-final-route",
+          "title": "Prepare Quiet's late-game route",
+          "title_i18n": {
+            "en": "Prepare Quiet's late-game route",
+            "pt": "Preparar a rota final de Quiet"
+          },
+          "description": "Raise the companion bond and complete the relevant story events; Details explains the branch's unlock conditions.",
+          "description_i18n": {
+            "en": "Raise the companion bond and complete the relevant story events; Details explains the branch's unlock conditions.",
+            "pt": "Aumente o vínculo com a companheira e conclua os eventos relevantes da história; os Detalhes explicam as condições de liberação."
+          },
+          "details": "Recruit Quiet, make her available as a buddy and raise her bond to maximum. Advance through Operation 43 and the late Mother Base event involving Emmerich. The Butterfly emblem can block this branch, so remove it if you want Side Op 150 to appear. Complete other active Side Ops in the relevant area if the list is crowded, then return to the ACC. Starting Side Op 150 leads directly into Operation 45, so equip a strong anti-armor loadout beforehand.",
+          "details_i18n": {
+            "en": "Recruit Quiet, make her available as a buddy and raise her bond to maximum. Advance through Operation 43 and the late Mother Base event involving Emmerich. The Butterfly emblem can block this branch, so remove it if you want Side Op 150 to appear. Complete other active Side Ops in the relevant area if the list is crowded, then return to the ACC. Starting Side Op 150 leads directly into Operation 45, so equip a strong anti-armor loadout beforehand.",
+            "pt": "Recrute Quiet, libere-a como companheira e aumente o vínculo ao máximo. Avance pela Operação 43 e pelo evento tardio da Mother Base envolvendo Emmerich. O emblema Butterfly pode bloquear esse desvio; remova-o se quiser liberar a Side Op 150. Conclua outras Side Ops ativas na área relevante se a lista estiver ocupada e volte ao ACC. Iniciar a Side Op 150 leva diretamente à Operação 45; prepare antes um conjunto forte contra blindados."
+          }
+        },
+        {
+          "key": "side-op-150-secure",
+          "title": "Side Op 150 — Secure Quiet",
+          "title_i18n": {
+            "en": "Side Op 150 — Secure Quiet",
+            "pt": "Side Op 150 — Proteger Quiet"
+          },
+          "description": "Start this important Side Op only when ready for the linked operation; review the preparation notes first.",
+          "description_i18n": {
+            "en": "Start this important Side Op only when ready for the linked operation; review the preparation notes first.",
+            "pt": "Comece esta Side Op importante quando estiver pronto para a operação seguinte; revise as notas de preparação primeiro."
+          }
+        },
+        {
+          "key": "mission-45-complete",
+          "title": "45 — A Quiet Exit",
+          "title_i18n": {
+            "en": "45 — A Quiet Exit",
+            "pt": "45 — A Quiet Exit"
+          },
+          "description": "Complete the extended combat and extraction sequence; this branch is separate from Operation 46's unlock route.",
+          "description_i18n": {
+            "en": "Complete the extended combat and extraction sequence; this branch is separate from Operation 46's unlock route.",
+            "pt": "Conclua a longa sequência de combate e extração; este desvio é separado da rota de liberação da Operação 46."
+          },
+          "details": "Bring your strongest practical launcher, protective equipment and enough GMP for resupply. Prioritize vehicles that threaten the defended position and change cover after firing; exposed trading against tank guns is dangerous. Request ammunition before running completely dry and use the building and terrain to break enemy fire. Continue through the entire extraction sequence after the combat. If preparation is inadequate and cargo Fulton is available, climb the materials container near the starting point, attach its Fulton and hold the ride prompt to leave with it. Improve equipment before returning.",
+          "details_i18n": {
+            "en": "Bring your strongest practical launcher, protective equipment and enough GMP for resupply. Prioritize vehicles that threaten the defended position and change cover after firing; exposed trading against tank guns is dangerous. Request ammunition before running completely dry and use the building and terrain to break enemy fire. Continue through the entire extraction sequence after the combat. If preparation is inadequate and cargo Fulton is available, climb the materials container near the starting point, attach its Fulton and hold the ride prompt to leave with it. Improve equipment before returning.",
+            "pt": "Leve o melhor lança-foguetes viável, proteção e GMP suficiente para suprimentos. Priorize veículos que ameaçam a posição defendida e mude de cobertura após disparar; trocar tiros exposto contra canhões de tanques é perigoso. Peça munição antes de acabar e use o prédio e o terreno para interromper o fogo inimigo. Avance por toda a sequência de extração após o combate. Se estiver despreparado e tiver Fulton para cargas, suba no contêiner de materiais perto do início, prenda o Fulton e segure o comando indicado para subir junto. Melhore os equipamentos antes de voltar."
+          }
+        },
+        {
+          "key": "quiet-reunion-option",
+          "title": "Review the updated companion-recovery option",
+          "title_i18n": {
+            "en": "Review the updated companion-recovery option",
+            "pt": "Revisar a opção atualizada de recuperar a companheira"
+          },
+          "description": "On an updated game, a post-branch recovery route exists; inspect Details if the companion is unavailable for cleanup.",
+          "description_i18n": {
+            "en": "On an updated game, a post-branch recovery route exists; inspect Details if the companion is unavailable for cleanup.",
+            "pt": "No jogo atualizado, existe uma rota de recuperação após esse desvio; consulte os Detalhes se a companheira não estiver disponível."
+          },
+          "details": "The updated PS4 game includes a recovery option added in version 1.06. After Operation 45, repeatedly complete the normal Operation 11 while sparing and extracting Quiet. Continue until the operation is labeled [Reunion], then complete that variant with the recruitment outcome. She returns with her developed equipment. This is an optional gameplay recovery feature and does not rewrite the campaign's ending scenes; older launch-version guides describing a permanent loss are outdated.",
+          "details_i18n": {
+            "en": "The updated PS4 game includes a recovery option added in version 1.06. After Operation 45, repeatedly complete the normal Operation 11 while sparing and extracting Quiet. Continue until the operation is labeled [Reunion], then complete that variant with the recruitment outcome. She returns with her developed equipment. This is an optional gameplay recovery feature and does not rewrite the campaign's ending scenes; older launch-version guides describing a permanent loss are outdated.",
+            "pt": "O jogo atualizado de PS4 inclui uma recuperação adicionada na versão 1.06. Após a Operação 45, conclua repetidamente a Operação 11 normal poupando e extraindo Quiet. Continue até a operação receber o nome [Reunion] e conclua essa variante escolhendo o recrutamento. Ela volta com seus equipamentos desenvolvidos. É um recurso opcional de recuperação para jogar e não reescreve as cenas finais da campanha; guias de lançamento que descrevem uma perda permanente estão desatualizados."
+          }
+        }
+      ]
+    },
+    {
+      "key": "optional-challenge-replays",
+      "title": "Optional challenge replays: Operations 33–50",
+      "title_i18n": {
+        "en": "Optional challenge replays: Operations 33–50",
+        "pt": "Repetições opcionais de desafio: Operações 33–50"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "mission-33-subsistence-c2w",
+          "title": "33 — [Subsistence] C2W",
+          "title_i18n": {
+            "en": "33 — [Subsistence] C2W",
+            "pt": "33 — [Subsistência] C2W"
+          },
+          "description": "Replay Operation 4 with on-site procurement restrictions; this challenge is not a prerequisite for the story ending.",
+          "description_i18n": {
+            "en": "Replay Operation 4 with on-site procurement restrictions; this challenge is not a prerequisite for the story ending.",
+            "pt": "Repita a Operação 4 com restrições e obtenção de equipamento no local; o desafio não é requisito para o final da história."
+          }
+        },
+        {
+          "key": "mission-34-extreme-backup",
+          "title": "34 — [Extreme] Backup, Back Down",
+          "title_i18n": {
+            "en": "34 — [Extreme] Backup, Back Down",
+            "pt": "34 — [Extrema] Backup, Back Down"
+          },
+          "description": "Replay Operation 9 with increased combat difficulty and plan vehicle interception before deploying.",
+          "description_i18n": {
+            "en": "Replay Operation 9 with increased combat difficulty and plan vehicle interception before deploying.",
+            "pt": "Repita a Operação 9 com dificuldade de combate elevada e planeje a interceptação dos veículos antes de partir."
+          }
+        },
+        {
+          "key": "mission-36-total-stealth-footprints",
+          "title": "36 — [Total Stealth] Footprints of Phantoms",
+          "title_i18n": {
+            "en": "36 — [Total Stealth] Footprints of Phantoms",
+            "pt": "36 — [Furtividade Total] Footprints of Phantoms"
+          },
+          "description": "Replay Operation 15 under strict detection rules, using observation and controlled movement to reach the machines.",
+          "description_i18n": {
+            "en": "Replay Operation 15 under strict detection rules, using observation and controlled movement to reach the machines.",
+            "pt": "Repita a Operação 15 com regras rígidas de detecção, usando observação e movimento controlado para chegar às máquinas."
+          }
+        },
+        {
+          "key": "mission-37-extreme-caravan",
+          "title": "37 — [Extreme] Traitors' Caravan",
+          "title_i18n": {
+            "en": "37 — [Extreme] Traitors' Caravan",
+            "pt": "37 — [Extrema] Traitors' Caravan"
+          },
+          "description": "Replay Operation 16 with stronger opposition and equipment suited to protecting the required truck.",
+          "description_i18n": {
+            "en": "Replay Operation 16 with stronger opposition and equipment suited to protecting the required truck.",
+            "pt": "Repita a Operação 16 com oposição mais forte e equipamento adequado para preservar o caminhão necessário."
+          }
+        },
+        {
+          "key": "mission-39-total-stealth-fence",
+          "title": "39 — [Total Stealth] Over the Fence",
+          "title_i18n": {
+            "en": "39 — [Total Stealth] Over the Fence",
+            "pt": "39 — [Furtividade Total] Over the Fence"
+          },
+          "description": "Replay Operation 5 without triggering detection, planning the prisoner's exit as carefully as your entry.",
+          "description_i18n": {
+            "en": "Replay Operation 5 without triggering detection, planning the prisoner's exit as carefully as your entry.",
+            "pt": "Repita a Operação 5 sem ser detectado, planejando a saída do prisioneiro com o mesmo cuidado da entrada."
+          }
+        },
+        {
+          "key": "mission-40-extreme-silence",
+          "title": "40 — [Extreme] Cloaked in Silence",
+          "title_i18n": {
+            "en": "40 — [Extreme] Cloaked in Silence",
+            "pt": "40 — [Extrema] Cloaked in Silence"
+          },
+          "description": "Replay the sniper duel with its higher-difficulty rules and use cover rather than relying on first-clear shortcuts.",
+          "description_i18n": {
+            "en": "Replay the sniper duel with its higher-difficulty rules and use cover rather than relying on first-clear shortcuts.",
+            "pt": "Repita o duelo de atiradores com as regras de dificuldade elevada e use cobertura em vez de depender de atalhos da primeira vitória."
+          }
+        },
+        {
+          "key": "mission-42-extreme-archaea",
+          "title": "42 — [Extreme] Metallic Archaea",
+          "title_i18n": {
+            "en": "42 — [Extreme] Metallic Archaea",
+            "pt": "42 — [Extrema] Metallic Archaea"
+          },
+          "description": "Replay Operation 29 with a durable loadout and a safe resupply plan.",
+          "description_i18n": {
+            "en": "Replay Operation 29 with a durable loadout and a safe resupply plan.",
+            "pt": "Repita a Operação 29 com equipamentos resistentes e um plano seguro de reabastecimento."
+          }
+        },
+        {
+          "key": "mission-44-total-stealth-pitch-dark",
+          "title": "44 — [Total Stealth] Pitch Dark",
+          "title_i18n": {
+            "en": "44 — [Total Stealth] Pitch Dark",
+            "pt": "44 — [Furtividade Total] Pitch Dark"
+          },
+          "description": "Replay Operation 13 with strict detection rules and a route that avoids exposure during sabotage.",
+          "description_i18n": {
+            "en": "Replay Operation 13 with strict detection rules and a route that avoids exposure during sabotage.",
+            "pt": "Repita a Operação 13 com regras rígidas de detecção e uma rota que evite exposição durante a sabotagem."
+          }
+        },
+        {
+          "key": "mission-47-total-stealth-economy",
+          "title": "47 — [Total Stealth] The War Economy",
+          "title_i18n": {
+            "en": "47 — [Total Stealth] The War Economy",
+            "pt": "47 — [Furtividade Total] The War Economy"
+          },
+          "description": "Replay Operation 21, identifying the official and leaving the airport without detection.",
+          "description_i18n": {
+            "en": "Replay Operation 21, identifying the official and leaving the airport without detection.",
+            "pt": "Repita a Operação 21, identificando o oficial e saindo do aeroporto sem ser detectado."
+          }
+        },
+        {
+          "key": "mission-48-extreme-code-talker",
+          "title": "48 — [Extreme] Code Talker",
+          "title_i18n": {
+            "en": "48 — [Extreme] Code Talker",
+            "pt": "48 — [Extrema] Code Talker"
+          },
+          "description": "Replay Operation 28 with a carefully planned forest crossing and protected evacuation.",
+          "description_i18n": {
+            "en": "Replay Operation 28 with a carefully planned forest crossing and protected evacuation.",
+            "pt": "Repita a Operação 28 com uma travessia planejada pela floresta e uma evacuação protegida."
+          }
+        },
+        {
+          "key": "mission-49-subsistence-occupation",
+          "title": "49 — [Subsistence] Occupation Forces",
+          "title_i18n": {
+            "en": "49 — [Subsistence] Occupation Forces",
+            "pt": "49 — [Subsistência] Occupation Forces"
+          },
+          "description": "Replay Operation 8 under on-site procurement restrictions; scout usable equipment before committing to the convoy.",
+          "description_i18n": {
+            "en": "Replay Operation 8 under on-site procurement restrictions; scout usable equipment before committing to the convoy.",
+            "pt": "Repita a Operação 8 com restrições e obtenção de equipamento no local; observe os recursos disponíveis antes de atacar o comboio."
+          }
+        },
+        {
+          "key": "mission-50-extreme-sahelanthropus",
+          "title": "50 — [Extreme] Sahelanthropus",
+          "title_i18n": {
+            "en": "50 — [Extreme] Sahelanthropus",
+            "pt": "50 — [Extrema] Sahelanthropus"
+          },
+          "description": "Replay the major machine battle after improving your weapons and learning its defensive timings.",
+          "description_i18n": {
+            "en": "Replay the major machine battle after improving your weapons and learning its defensive timings.",
+            "pt": "Repita a grande batalha contra a máquina após melhorar as armas e aprender o ritmo das defesas."
+          }
+        }
+      ]
+    },
+    {
+      "key": "selected-side-operations",
+      "title": "Selected Side Ops and companion goals",
+      "title_i18n": {
+        "en": "Selected Side Ops and companion goals",
+        "pt": "Side Ops e metas de companheiros selecionadas"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "side-op-01-interpreter",
+          "title": "Side Op 1 — Extract Interpreter (Russian)",
+          "title_i18n": {
+            "en": "Side Op 1 — Extract Interpreter (Russian)",
+            "pt": "Side Op 1 — Extrair intérprete de russo"
+          },
+          "description": "Extract the marked specialist to improve access to enemy information in Afghanistan.",
+          "description_i18n": {
+            "en": "Extract the marked specialist to improve access to enemy information in Afghanistan.",
+            "pt": "Extraia o especialista indicado para melhorar o acesso às informações dos inimigos no Afeganistão."
+          }
+        },
+        {
+          "key": "recruit-d-dog",
+          "title": "Recruit D-Dog",
+          "title_i18n": {
+            "en": "Recruit D-Dog",
+            "pt": "Recrutar D-Dog"
+          },
+          "description": "Investigate the puppy's calls during early Afghanistan deployments, extract him and revisit base as training progresses.",
+          "description_i18n": {
+            "en": "Investigate the puppy's calls during early Afghanistan deployments, extract him and revisit base as training progresses.",
+            "pt": "Investigue os chamados do filhote nas primeiras operações no Afeganistão, extraia-o e retorne à base conforme o treinamento avançar."
+          }
+        },
+        {
+          "key": "side-op-111-visit-quiet",
+          "title": "Side Op 111 — Visit Quiet",
+          "title_i18n": {
+            "en": "Side Op 111 — Visit Quiet",
+            "pt": "Side Op 111 — Visitar Quiet"
+          },
+          "description": "After the recruitment outcome, follow the available base event and visit the Medical Platform to advance buddy availability.",
+          "description_i18n": {
+            "en": "After the recruitment outcome, follow the available base event and visit the Medical Platform to advance buddy availability.",
+            "pt": "Após o desfecho de recrutamento, siga o evento disponível na base e visite a Plataforma Médica para avançar a liberação da companheira."
+          }
+        },
+        {
+          "key": "side-ops-107-109-gunsmith",
+          "title": "Side Ops 107–109 — Legendary Gunsmith",
+          "title_i18n": {
+            "en": "Side Ops 107–109 — Legendary Gunsmith",
+            "pt": "Side Ops 107–109 — Armeiro lendário"
+          },
+          "description": "Complete the three extraction requests in sequence and inspect the weapon-customization menu afterward.",
+          "description_i18n": {
+            "en": "Complete the three extraction requests in sequence and inspect the weapon-customization menu afterward.",
+            "pt": "Conclua os três pedidos de extração em sequência e confira depois o menu de personalização de armas."
+          },
+          "details": "After Operation 13, look for Side Ops 107, 108 and 109 and finish them in that order. Return to the ACC after each extraction. If the next request does not appear, complete other active Side Ops in its region to free the occupied location, then check again. After the final extraction, open Mother Base's Customize menu from the ACC. Parts become available through developed weapons; recruiting the gunsmith does not unlock every attachment automatically.",
+          "details_i18n": {
+            "en": "After Operation 13, look for Side Ops 107, 108 and 109 and finish them in that order. Return to the ACC after each extraction. If the next request does not appear, complete other active Side Ops in its region to free the occupied location, then check again. After the final extraction, open Mother Base's Customize menu from the ACC. Parts become available through developed weapons; recruiting the gunsmith does not unlock every attachment automatically.",
+            "pt": "Após a Operação 13, procure as Side Ops 107, 108 e 109 e conclua-as nessa ordem. Volte ao ACC após cada extração. Se o próximo pedido não surgir, conclua outras Side Ops ativas da região para liberar o local ocupado e confira novamente. Depois da última extração, abra o menu Personalizar da Mother Base no ACC. As peças vêm das armas desenvolvidas; recrutar o armeiro não libera todos os acessórios automaticamente."
+          }
+        },
+        {
+          "key": "side-op-49-ibis",
+          "title": "Side Op 49 — Capture the Legendary Ibis",
+          "title_i18n": {
+            "en": "Side Op 49 — Capture the Legendary Ibis",
+            "pt": "Side Op 49 — Capturar a íbis lendária"
+          },
+          "description": "Complete the animal capture when available and inspect the associated development unlock.",
+          "description_i18n": {
+            "en": "Complete the animal capture when available and inspect the associated development unlock.",
+            "pt": "Conclua a captura do animal quando disponível e confira a opção de desenvolvimento liberada."
+          }
+        },
+        {
+          "key": "side-op-50-jackal",
+          "title": "Side Op 50 — Capture the Legendary Jackal",
+          "title_i18n": {
+            "en": "Side Op 50 — Capture the Legendary Jackal",
+            "pt": "Side Op 50 — Capturar o chacal lendário"
+          },
+          "description": "Complete this later capture and review the extraction-device development it unlocks.",
+          "description_i18n": {
+            "en": "Complete this later capture and review the extraction-device development it unlocks.",
+            "pt": "Conclua esta captura posterior e confira o dispositivo de extração liberado para desenvolvimento."
+          }
+        },
+        {
+          "key": "side-ops-51-60-soldiers",
+          "title": "Side Ops 51–60 — Wandering Mother Base Soldiers",
+          "title_i18n": {
+            "en": "Side Ops 51–60 — Wandering Mother Base Soldiers",
+            "pt": "Side Ops 51–60 — Soldados errantes da Mother Base"
+          },
+          "description": "Recover the ten veterans as their operations appear and retain each photo reward for the related base thread.",
+          "description_i18n": {
+            "en": "Recover the ten veterans as their operations appear and retain each photo reward for the related base thread.",
+            "pt": "Recupere os dez veteranos conforme as operações surgirem e guarde cada foto para a história relacionada na base."
+          }
+        },
+        {
+          "key": "side-ops-mine-clearing",
+          "title": "Complete the Mine Clearing series",
+          "title_i18n": {
+            "en": "Complete the Mine Clearing series",
+            "pt": "Concluir a série de remoção de minas"
+          },
+          "description": "Use detection tools, approach cautiously and clear each listed Mine Clearing Side Op; this is an aggregate series goal.",
+          "description_i18n": {
+            "en": "Use detection tools, approach cautiously and clear each listed Mine Clearing Side Op; this is an aggregate series goal.",
+            "pt": "Use ferramentas de detecção, aproxime-se com cuidado e conclua cada Side Op de remoção de minas; esta é uma meta agregada da série."
+          }
+        },
+        {
+          "key": "side-ops-target-practice",
+          "title": "Side Ops 151–157 — Target Practice",
+          "title_i18n": {
+            "en": "Side Ops 151–157 — Target Practice",
+            "pt": "Side Ops 151–157 — Prática de tiro"
+          },
+          "description": "Complete each base platform's target course and learn the target positions before attempting a fast run.",
+          "description_i18n": {
+            "en": "Complete each base platform's target course and learn the target positions before attempting a fast run.",
+            "pt": "Conclua o percurso de alvos de cada plataforma e aprenda as posições antes de tentar uma rodada rápida."
+          }
+        },
+        {
+          "key": "complete-all-side-ops-goal",
+          "title": "Complete all 157 Side Ops",
+          "title_i18n": {
+            "en": "Complete all 157 Side Ops",
+            "pt": "Concluir todas as 157 Side Ops"
+          },
+          "description": "Use the in-game list for full completion; the named selections above do not enumerate every Side Op.",
+          "description_i18n": {
+            "en": "Use the in-game list for full completion; the named selections above do not enumerate every Side Op.",
+            "pt": "Use a lista do jogo para concluir tudo; as seleções nomeadas acima não enumeram todas as Side Ops."
+          }
+        }
+      ]
+    },
+    {
+      "key": "aggregate-collections",
+      "title": "Aggregate collection goals",
+      "title_i18n": {
+        "en": "Aggregate collection goals",
+        "pt": "Metas agregadas de coleção"
+      },
+      "kind": "collectible",
+      "items": [
+        {
+          "key": "collect-blueprints",
+          "title": "Collect all required blueprints",
+          "title_i18n": {
+            "en": "Collect all required blueprints",
+            "pt": "Obter todos os projetos necessários"
+          },
+          "description": "Track world finds, blueprint Side Ops and key dispatch rewards separately; this route is not an exhaustive location checklist.",
+          "description_i18n": {
+            "en": "Track world finds, blueprint Side Ops and key dispatch rewards separately; this route is not an exhaustive location checklist.",
+            "pt": "Acompanhe separadamente achados no mundo, Side Ops de projetos e recompensas de deslocamentos; este roteiro não lista todos os locais."
+          }
+        },
+        {
+          "key": "collect-key-items",
+          "title": "Collect all required key items",
+          "title_i18n": {
+            "en": "Collect all required key items",
+            "pt": "Obter todos os itens-chave necessários"
+          },
+          "description": "Review Database documentation and certificates, including rewards for repeated extraction, marking and mission mastery.",
+          "description_i18n": {
+            "en": "Review Database documentation and certificates, including rewards for repeated extraction, marking and mission mastery.",
+            "pt": "Revise a documentação do Banco de Dados e os certificados, incluindo recompensas por extrações, marcações e domínio das missões."
+          }
+        },
+        {
+          "key": "collect-invoices",
+          "title": "Collect the delivery invoices",
+          "title_i18n": {
+            "en": "Collect the delivery invoices",
+            "pt": "Obter as notas de entrega"
+          },
+          "description": "Inspect orange delivery points in both regions and track their unlocked destinations and associated certificates.",
+          "description_i18n": {
+            "en": "Inspect orange delivery points in both regions and track their unlocked destinations and associated certificates.",
+            "pt": "Examine os pontos de entrega laranja das duas regiões e acompanhe os destinos liberados e certificados relacionados."
+          }
+        },
+        {
+          "key": "collect-memento-photos",
+          "title": "Complete the memento-photo thread",
+          "title_i18n": {
+            "en": "Complete the memento-photo thread",
+            "pt": "Concluir a história das fotos de lembrança"
+          },
+          "description": "Bring the recovered photos to the Medical Platform and finish the related sequence; Details explains the final collection step.",
+          "description_i18n": {
+            "en": "Bring the recovered photos to the Medical Platform and finish the related sequence; Details explains the final collection step.",
+            "pt": "Leve as fotos recuperadas à Plataforma Médica e conclua a sequência relacionada; os Detalhes explicam a etapa final da coleção."
+          },
+          "details": "Complete the ten Wandering Mother Base Soldiers Side Ops, 51–60, for ten photos. Visit Paz's room on the Medical Platform and show the photos one at a time. Let her rest between visits; if waiting nearby does not advance the next conversation, return to the ACC and visit again. After presenting all ten, inspect the wall outside the room for the eleventh photo. Collect it and finish the remaining scene instead of assuming the ten Side Op rewards complete the set.",
+          "details_i18n": {
+            "en": "Complete the ten Wandering Mother Base Soldiers Side Ops, 51–60, for ten photos. Visit Paz's room on the Medical Platform and show the photos one at a time. Let her rest between visits; if waiting nearby does not advance the next conversation, return to the ACC and visit again. After presenting all ten, inspect the wall outside the room for the eleventh photo. Collect it and finish the remaining scene instead of assuming the ten Side Op rewards complete the set.",
+            "pt": "Conclua as dez Side Ops de Soldados Errantes da Mother Base, 51–60, para receber dez fotos. Visite o quarto de Paz na Plataforma Médica e mostre uma de cada vez. Deixe-a descansar entre visitas; se esperar por perto não avançar a conversa, volte ao ACC e retorne. Após apresentar as dez, examine a parede do lado de fora do quarto para encontrar a décima primeira foto. Recolha-a e conclua a cena restante; as dez recompensas das Side Ops não completam sozinhas o conjunto."
+          }
+        },
+        {
+          "key": "collect-animal-species",
+          "title": "Extract all 47 wild animal species",
+          "title_i18n": {
+            "en": "Extract all 47 wild animal species",
+            "pt": "Extrair as 47 espécies de animais selvagens"
+          },
+          "description": "Track species in the encyclopedia, using direct recovery and upgraded Capture Cages as appropriate.",
+          "description_i18n": {
+            "en": "Track species in the encyclopedia, using direct recovery and upgraded Capture Cages as appropriate.",
+            "pt": "Acompanhe as espécies na enciclopédia, usando recuperação direta e Gaiolas de Captura melhoradas conforme necessário."
+          },
+          "details": "Develop grade-4 Capture Cages before targeting rare species and track missing entries in the Wild Animals encyclopedia. Place cages in suitable habitats, then leave by helicopter so their results are processed; returning directly to the ACC through the pause menu does not substitute for that extraction. Large animals can be tranquilized and Fulton-extracted, while some small ones are picked up directly. Rare cage catches are random, so repeat the correct habitat instead of moving blindly between unrelated sites.",
+          "details_i18n": {
+            "en": "Develop grade-4 Capture Cages before targeting rare species and track missing entries in the Wild Animals encyclopedia. Place cages in suitable habitats, then leave by helicopter so their results are processed; returning directly to the ACC through the pause menu does not substitute for that extraction. Large animals can be tranquilized and Fulton-extracted, while some small ones are picked up directly. Rare cage catches are random, so repeat the correct habitat instead of moving blindly between unrelated sites.",
+            "pt": "Desenvolva Gaiolas de Captura de nível 4 antes de buscar espécies raras e confira os registros ausentes na enciclopédia de Animais Selvagens. Coloque gaiolas em habitats adequados e saia de helicóptero para processar os resultados; voltar diretamente ao ACC pelo menu de pausa não substitui essa extração. Animais grandes podem ser tranquilizados e extraídos por Fulton; alguns pequenos são recolhidos diretamente. Capturas raras nas gaiolas são aleatórias; repita o habitat correto em vez de mudar sem critério entre locais diferentes."
+          }
+        },
+        {
+          "key": "upgrade-capture-cages",
+          "title": "Develop the final Capture Cage grade",
+          "title_i18n": {
+            "en": "Develop the final Capture Cage grade",
+            "pt": "Desenvolver o último nível de Gaiola de Captura"
+          },
+          "description": "Upgrade cages before hunting rare species so the collection equipment can capture every required rarity.",
+          "description_i18n": {
+            "en": "Upgrade cages before hunting rare species so the collection equipment can capture every required rarity.",
+            "pt": "Melhore as gaiolas antes de buscar espécies raras para que o equipamento capture todas as raridades necessárias."
+          }
+        },
+        {
+          "key": "collect-story-tapes",
+          "title": "Review important cassette tapes",
+          "title_i18n": {
+            "en": "Review important cassette tapes",
+            "pt": "Conferir as fitas importantes"
+          },
+          "description": "Listen to yellow-marked story recordings and use the tape library to follow unresolved events.",
+          "description_i18n": {
+            "en": "Listen to yellow-marked story recordings and use the tape library to follow unresolved events.",
+            "pt": "Ouça as gravações da história marcadas em amarelo e use a biblioteca de fitas para acompanhar eventos pendentes."
+          }
+        },
+        {
+          "key": "track-mission-task-completion",
+          "title": "Complete every mission task",
+          "title_i18n": {
+            "en": "Complete every mission task",
+            "pt": "Concluir todas as tarefas de missão"
+          },
+          "description": "Use the in-game task list as the full checklist and complete separate replays for incompatible objectives.",
+          "description_i18n": {
+            "en": "Use the in-game task list as the full checklist and complete separate replays for incompatible objectives.",
+            "pt": "Use a lista de tarefas do jogo como registro completo e faça repetições separadas para objetivos incompatíveis."
+          }
+        },
+        {
+          "key": "track-s-rank-completion",
+          "title": "Earn S ranks on all ranked operations",
+          "title_i18n": {
+            "en": "Earn S ranks on all ranked operations",
+            "pt": "Obter nota S em todas as operações avaliadas"
+          },
+          "description": "Include the challenge replays; operations without a rank do not need an S rating. Guidance is in Details.",
+          "description_i18n": {
+            "en": "Include the challenge replays; operations without a rank do not need an S rating. Guidance is in Details.",
+            "pt": "Inclua as repetições de desafio; operações sem avaliação não precisam de nota S. Há orientação nos Detalhes."
+          },
+          "details": "An S rank requires 130,000 points. Fast, controlled clears are usually more effective than collecting every bonus task in one run; save task cleanup for separate replays. Review the equipment and support warnings before deploying, because certain powerful options cap the result at A. Operations 2, 22 and 43 have no rank. Include the twelve challenge variants when pursuing the all-missions trophy, rather than confusing that goal with the separate normal-operation costume unlock.",
+          "details_i18n": {
+            "en": "An S rank requires 130,000 points. Fast, controlled clears are usually more effective than collecting every bonus task in one run; save task cleanup for separate replays. Review the equipment and support warnings before deploying, because certain powerful options cap the result at A. Operations 2, 22 and 43 have no rank. Include the twelve challenge variants when pursuing the all-missions trophy, rather than confusing that goal with the separate normal-operation costume unlock.",
+            "pt": "A nota S exige 130.000 pontos. Conclusões rápidas e controladas costumam funcionar melhor do que reunir todas as tarefas extras de uma vez; deixe as pendências para repetições separadas. Confira os avisos de equipamento e apoio antes de partir, pois algumas opções poderosas limitam o resultado a A. As Operações 2, 22 e 43 não têm avaliação. Inclua as doze variantes de desafio na meta do troféu de todas as missões; ela não é o mesmo objetivo da roupa liberada pelas operações normais."
+          }
+        }
+      ]
+    },
+    {
+      "key": "optional-personal-online-goals",
+      "title": "Optional personal and online goals",
+      "title_i18n": {
+        "en": "Optional personal and online goals",
+        "pt": "Metas pessoais e online opcionais"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "maximize-companion-bonds",
+          "title": "Maximize the three companion bonds",
+          "title_i18n": {
+            "en": "Maximize the three companion bonds",
+            "pt": "Maximizar os três vínculos com companheiros"
+          },
+          "description": "Work toward maximum bonds with D-Horse, D-Dog and Quiet through safe deployments and useful field commands.",
+          "description_i18n": {
+            "en": "Work toward maximum bonds with D-Horse, D-Dog and Quiet through safe deployments and useful field commands.",
+            "pt": "Busque vínculo máximo com D-Horse, D-Dog e Quiet por meio de operações seguras e comandos úteis em campo."
+          }
+        },
+        {
+          "key": "complete-combat-unit-sortie",
+          "title": "Complete a Combat Unit sortie",
+          "title_i18n": {
+            "en": "Complete a Combat Unit sortie",
+            "pt": "Concluir uma operação com a Unidade de Combate"
+          },
+          "description": "Select a staff member instead of Snake for a suitable replay and finish the mission successfully.",
+          "description_i18n": {
+            "en": "Select a staff member instead of Snake for a suitable replay and finish the mission successfully.",
+            "pt": "Selecione um integrante em vez de Snake em uma repetição adequada e conclua a missão com sucesso."
+          }
+        },
+        {
+          "key": "complete-fob-infiltration",
+          "title": "Try an online FOB infiltration",
+          "title_i18n": {
+            "en": "Try an online FOB infiltration",
+            "pt": "Experimentar uma infiltração FOB online"
+          },
+          "description": "When the PS4 online service is accessible, complete the FOB introduction and enter an Infiltration mission; campaign progress does not require this goal.",
+          "description_i18n": {
+            "en": "When the PS4 online service is accessible, complete the FOB introduction and enter an Infiltration mission; campaign progress does not require this goal.",
+            "pt": "Quando o serviço online de PS4 estiver acessível, conclua a introdução FOB e entre em uma missão de Infiltração; esta meta não é necessária à campanha."
+          }
+        },
+        {
+          "key": "complete-nuclear-development",
+          "title": "Review the nuclear-development trophy goal",
+          "title_i18n": {
+            "en": "Review the nuclear-development trophy goal",
+            "pt": "Revisar a meta do troféu de desenvolvimento nuclear"
+          },
+          "description": "This optional resource-management objective has substantial in-game costs and consequences; inspect Details before committing.",
+          "description_i18n": {
+            "en": "This optional resource-management objective has substantial in-game costs and consequences; inspect Details before committing.",
+            "pt": "Este objetivo opcional de gestão tem custos e consequências significativos no jogo; consulte os Detalhes antes de confirmar."
+          },
+          "details": "After the relevant campaign progress, inspect Resources for the nuclear-development option and read its displayed requirements. Reserve the listed GMP and materials and allow the development timer to finish; resource pools and timing depend on the game's online/offline context. The trophy registers on completed development, not simply on placing an order. Nuclear ownership has major Heroism and security consequences, so pursue the Hero goal first if desired. Disposal is a separate action afterward. No MGO match or global disarmament cutscene is required for these two trophy conditions.",
+          "details_i18n": {
+            "en": "After the relevant campaign progress, inspect Resources for the nuclear-development option and read its displayed requirements. Reserve the listed GMP and materials and allow the development timer to finish; resource pools and timing depend on the game's online/offline context. The trophy registers on completed development, not simply on placing an order. Nuclear ownership has major Heroism and security consequences, so pursue the Hero goal first if desired. Disposal is a separate action afterward. No MGO match or global disarmament cutscene is required for these two trophy conditions.",
+            "pt": "Após avançar o suficiente na campanha, confira a opção de desenvolvimento nuclear em Recursos e leia os requisitos exibidos. Reserve o GMP e os materiais indicados e espere o cronômetro terminar; recursos e tempo dependem do contexto online ou offline do jogo. O troféu registra o desenvolvimento concluído, não apenas o pedido. Possuir uma arma nuclear afeta bastante o Heroísmo e a segurança; cumpra a meta Hero antes, se desejar. O descarte é outra ação posterior. Essas duas condições não exigem partida de MGO nem a cena de desarmamento global."
+          }
+        },
+        {
+          "key": "complete-nuclear-disposal",
+          "title": "Complete the nuclear-disposal trophy goal",
+          "title_i18n": {
+            "en": "Complete the nuclear-disposal trophy goal",
+            "pt": "Concluir a meta do troféu de desarmamento nuclear"
+          },
+          "description": "If pursuing this trophy, use the Resources menu to dispose of a weapon you possess and confirm the result.",
+          "description_i18n": {
+            "en": "If pursuing this trophy, use the Resources menu to dispose of a weapon you possess and confirm the result.",
+            "pt": "Se quiser este troféu, use o menu de Recursos para descartar uma arma que possui e confirme o resultado."
+          }
+        }
+      ]
+    }
+  ],
+  "trophies": [
+    {
+      "key": "legend",
+      "title": "Legend",
+      "title_i18n": {
+        "en": "Legend",
+        "pt": "Legend"
+      },
+      "description": "Unlock all other trophies in the PS4 list.",
+      "description_i18n": {
+        "en": "Unlock all other trophies in the PS4 list.",
+        "pt": "Desbloqueie todos os outros troféus da lista de PS4."
+      },
+      "tier": "platinum"
+    },
+    {
+      "key": "awakening",
+      "title": "Awakening",
+      "title_i18n": {
+        "en": "Awakening",
+        "pt": "Awakening"
+      },
+      "description": "Finish the prologue operation, Awakening.",
+      "description_i18n": {
+        "en": "Finish the prologue operation, Awakening.",
+        "pt": "Conclua a operação do prólogo, Awakening."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "phantom-limb",
+      "title": "Phantom Limb",
+      "title_i18n": {
+        "en": "Phantom Limb",
+        "pt": "Phantom Limb"
+      },
+      "description": "Complete Operation 1, Phantom Limbs.",
+      "description_i18n": {
+        "en": "Complete Operation 1, Phantom Limbs.",
+        "pt": "Conclua a Operação 1, Phantom Limbs."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "beekeeper",
+      "title": "Beekeeper",
+      "title_i18n": {
+        "en": "Beekeeper",
+        "pt": "Beekeeper"
+      },
+      "description": "Finish Operation 6, Where Do the Bees Sleep?.",
+      "description_i18n": {
+        "en": "Finish Operation 6, Where Do the Bees Sleep?.",
+        "pt": "Conclua a Operação 6, Where Do the Bees Sleep?."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "gears-turn",
+      "title": "Gears Turn",
+      "title_i18n": {
+        "en": "Gears Turn",
+        "pt": "Gears Turn"
+      },
+      "description": "Complete Operation 12, Hellbound.",
+      "description_i18n": {
+        "en": "Complete Operation 12, Hellbound.",
+        "pt": "Conclua a Operação 12, Hellbound."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "caravan",
+      "title": "Caravan",
+      "title_i18n": {
+        "en": "Caravan",
+        "pt": "Caravan"
+      },
+      "description": "Finish Operation 16, Traitors' Caravan.",
+      "description_i18n": {
+        "en": "Finish Operation 16, Traitors' Caravan.",
+        "pt": "Conclua a Operação 16, Traitors' Caravan."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "voices",
+      "title": "Voices",
+      "title_i18n": {
+        "en": "Voices",
+        "pt": "Voices"
+      },
+      "description": "Complete Operation 20, Voices.",
+      "description_i18n": {
+        "en": "Complete Operation 20, Voices.",
+        "pt": "Conclua a Operação 20, Voices."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "immortal",
+      "title": "Immortal",
+      "title_i18n": {
+        "en": "Immortal",
+        "pt": "Immortal"
+      },
+      "description": "Finish Operation 29, Metallic Archaea.",
+      "description_i18n": {
+        "en": "Finish Operation 29, Metallic Archaea.",
+        "pt": "Conclua a Operação 29, Metallic Archaea."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "skull",
+      "title": "Skull",
+      "title_i18n": {
+        "en": "Skull",
+        "pt": "Skull"
+      },
+      "description": "Complete Operation 31, Sahelanthropus.",
+      "description_i18n": {
+        "en": "Complete Operation 31, Sahelanthropus.",
+        "pt": "Conclua a Operação 31, Sahelanthropus."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "disappearance",
+      "title": "Disappearance",
+      "title_i18n": {
+        "en": "Disappearance",
+        "pt": "Disappearance"
+      },
+      "description": "Finish the optional companion branch in Operation 45, A Quiet Exit.",
+      "description_i18n": {
+        "en": "Finish the optional companion branch in Operation 45, A Quiet Exit.",
+        "pt": "Conclua a rota opcional da companheira na Operação 45, A Quiet Exit."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "truth",
+      "title": "Truth",
+      "title_i18n": {
+        "en": "Truth",
+        "pt": "Truth"
+      },
+      "description": "Complete Operation 46, Truth: The Man Who Sold the World.",
+      "description_i18n": {
+        "en": "Complete Operation 46, Truth: The Man Who Sold the World.",
+        "pt": "Conclua a Operação 46, Truth: The Man Who Sold the World."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "apprentice",
+      "title": "Apprentice",
+      "title_i18n": {
+        "en": "Apprentice",
+        "pt": "Apprentice"
+      },
+      "description": "Finish a mission while playing as a Combat Unit staff member instead of Snake.",
+      "description_i18n": {
+        "en": "Finish a mission while playing as a Combat Unit staff member instead of Snake.",
+        "pt": "Conclua uma missão jogando com um integrante da Unidade de Combate em vez de Snake."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "accomplished",
+      "title": "Accomplished",
+      "title_i18n": {
+        "en": "Accomplished",
+        "pt": "Accomplished"
+      },
+      "description": "Finish every main operation, including the difficulty-variant replays.",
+      "description_i18n": {
+        "en": "Finish every main operation, including the difficulty-variant replays.",
+        "pt": "Conclua todas as operações principais, incluindo as repetições com variações de dificuldade."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "executed",
+      "title": "Executed",
+      "title_i18n": {
+        "en": "Executed",
+        "pt": "Executed"
+      },
+      "description": "Satisfy every mission task across the main-operation list; separate replays can complete different tasks.",
+      "description_i18n": {
+        "en": "Satisfy every mission task across the main-operation list; separate replays can complete different tasks.",
+        "pt": "Cumpra todas as tarefas da lista de operações principais; repetições separadas podem concluir tarefas diferentes."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "elite",
+      "title": "Elite",
+      "title_i18n": {
+        "en": "Elite",
+        "pt": "Elite"
+      },
+      "description": "Earn S ratings on every ranked main operation, including the difficulty variants.",
+      "description_i18n": {
+        "en": "Earn S ratings on every ranked main operation, including the difficulty variants.",
+        "pt": "Obtenha nota S em todas as operações principais avaliadas, incluindo as variantes de dificuldade."
+      },
+      "tier": "gold"
+    },
+    {
+      "key": "undertaken",
+      "title": "Undertaken",
+      "title_i18n": {
+        "en": "Undertaken",
+        "pt": "Undertaken"
+      },
+      "description": "Finish any Side Op.",
+      "description_i18n": {
+        "en": "Finish any Side Op.",
+        "pt": "Conclua uma Side Op."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "cleared",
+      "title": "Cleared",
+      "title_i18n": {
+        "en": "Cleared",
+        "pt": "Cleared"
+      },
+      "description": "Finish the complete Mine Clearing Side Op series.",
+      "description_i18n": {
+        "en": "Finish the complete Mine Clearing Side Op series.",
+        "pt": "Conclua toda a série de Side Ops de remoção de minas."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "achieved",
+      "title": "Achieved",
+      "title_i18n": {
+        "en": "Achieved",
+        "pt": "Achieved"
+      },
+      "description": "Finish every one of the 157 Side Ops.",
+      "description_i18n": {
+        "en": "Finish every one of the 157 Side Ops.",
+        "pt": "Conclua cada uma das 157 Side Ops."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "captured",
+      "title": "Captured",
+      "title_i18n": {
+        "en": "Captured",
+        "pt": "Captured"
+      },
+      "description": "Secure a guard post or outpost by neutralizing its defending force.",
+      "description_i18n": {
+        "en": "Secure a guard post or outpost by neutralizing its defending force.",
+        "pt": "Tome um posto de guarda ou posto avançado neutralizando seus defensores."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "deployment",
+      "title": "Deployment",
+      "title_i18n": {
+        "en": "Deployment",
+        "pt": "Deployment"
+      },
+      "description": "Complete the full chain of key Combat Deployment missions.",
+      "description_i18n": {
+        "en": "Complete the full chain of key Combat Deployment missions.",
+        "pt": "Conclua toda a sequência de missões importantes de Deslocamento de Combate."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "intruder",
+      "title": "Intruder",
+      "title_i18n": {
+        "en": "Intruder",
+        "pt": "Intruder"
+      },
+      "description": "Enter an Infiltration FOB mission through the PS4 online service; this requires online access.",
+      "description_i18n": {
+        "en": "Enter an Infiltration FOB mission through the PS4 online service; this requires online access.",
+        "pt": "Entre em uma missão de Infiltração FOB pelo serviço online de PS4; é necessário acesso online."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "cry-havoc",
+      "title": "Cry Havoc",
+      "title_i18n": {
+        "en": "Cry Havoc",
+        "pt": "Cry Havoc"
+      },
+      "description": "Extract the puppy and advance D-Dog's training until he is selectable as a buddy.",
+      "description_i18n": {
+        "en": "Extract the puppy and advance D-Dog's training until he is selectable as a buddy.",
+        "pt": "Extraia o filhote e avance o treinamento de D-Dog até poder selecioná-lo como companheiro."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "speechless",
+      "title": "Speechless",
+      "title_i18n": {
+        "en": "Speechless",
+        "pt": "Speechless"
+      },
+      "description": "Recruit Quiet and advance the base events until she becomes selectable as a buddy.",
+      "description_i18n": {
+        "en": "Recruit Quiet and advance the base events until she becomes selectable as a buddy.",
+        "pt": "Recrute Quiet e avance os eventos da base até poder selecioná-la como companheira."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trusty-steed",
+      "title": "Trusty Steed",
+      "title_i18n": {
+        "en": "Trusty Steed",
+        "pt": "Trusty Steed"
+      },
+      "description": "Reach the maximum D-Horse bond.",
+      "description_i18n": {
+        "en": "Reach the maximum D-Horse bond.",
+        "pt": "Alcance o vínculo máximo com D-Horse."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "mans-best-friend",
+      "title": "Man's Best Friend",
+      "title_i18n": {
+        "en": "Man's Best Friend",
+        "pt": "Man's Best Friend"
+      },
+      "description": "Reach the maximum D-Dog bond.",
+      "description_i18n": {
+        "en": "Reach the maximum D-Dog bond.",
+        "pt": "Alcance o vínculo máximo com D-Dog."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "war-buddy",
+      "title": "War Buddy",
+      "title_i18n": {
+        "en": "War Buddy",
+        "pt": "War Buddy"
+      },
+      "description": "Reach the maximum Quiet bond.",
+      "description_i18n": {
+        "en": "Reach the maximum Quiet bond.",
+        "pt": "Alcance o vínculo máximo com Quiet."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "extraction",
+      "title": "Extraction",
+      "title_i18n": {
+        "en": "Extraction",
+        "pt": "Extraction"
+      },
+      "description": "Successfully recover an enemy soldier using Fulton.",
+      "description_i18n": {
+        "en": "Successfully recover an enemy soldier using Fulton.",
+        "pt": "Recupere um soldado inimigo com sucesso usando Fulton."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "interrogation",
+      "title": "Interrogation",
+      "title_i18n": {
+        "en": "Interrogation",
+        "pt": "Interrogation"
+      },
+      "description": "Obtain information by interrogating a restrained or held-up enemy.",
+      "description_i18n": {
+        "en": "Obtain information by interrogating a restrained or held-up enemy.",
+        "pt": "Obtenha informações interrogando um inimigo imobilizado ou rendido."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "to-the-rescue",
+      "title": "To The Rescue",
+      "title_i18n": {
+        "en": "To The Rescue",
+        "pt": "To The Rescue"
+      },
+      "description": "Successfully evacuate a female prisoner.",
+      "description_i18n": {
+        "en": "Successfully evacuate a female prisoner.",
+        "pt": "Evacue uma prisioneira com sucesso."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "platoon",
+      "title": "Platoon",
+      "title_i18n": {
+        "en": "Platoon",
+        "pt": "Platoon"
+      },
+      "description": "Build Mother Base personnel numbers to at least 50.",
+      "description_i18n": {
+        "en": "Build Mother Base personnel numbers to at least 50.",
+        "pt": "Aumente o pessoal da Mother Base até pelo menos 50 integrantes."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "battalion",
+      "title": "Battalion",
+      "title_i18n": {
+        "en": "Battalion",
+        "pt": "Battalion"
+      },
+      "description": "Build Mother Base personnel numbers to at least 250.",
+      "description_i18n": {
+        "en": "Build Mother Base personnel numbers to at least 250.",
+        "pt": "Aumente o pessoal da Mother Base até pelo menos 250 integrantes."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "army",
+      "title": "Army",
+      "title_i18n": {
+        "en": "Army",
+        "pt": "Army"
+      },
+      "description": "Bring all seven Mother Base teams or units to level 50 or higher.",
+      "description_i18n": {
+        "en": "Bring all seven Mother Base teams or units to level 50 or higher.",
+        "pt": "Leve as sete equipes ou unidades da Mother Base ao nível 50 ou superior."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "enhancement",
+      "title": "Enhancement",
+      "title_i18n": {
+        "en": "Enhancement",
+        "pt": "Enhancement"
+      },
+      "description": "Finish development of at least 50 equipment items.",
+      "description_i18n": {
+        "en": "Finish development of at least 50 equipment items.",
+        "pt": "Conclua o desenvolvimento de pelo menos 50 equipamentos."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "reinforcement",
+      "title": "Reinforcement",
+      "title_i18n": {
+        "en": "Reinforcement",
+        "pt": "Reinforcement"
+      },
+      "description": "Finish development of at least 100 equipment items.",
+      "description_i18n": {
+        "en": "Finish development of at least 100 equipment items.",
+        "pt": "Conclua o desenvolvimento de pelo menos 100 equipamentos."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "locked-and-loaded",
+      "title": "Locked and Loaded",
+      "title_i18n": {
+        "en": "Locked and Loaded",
+        "pt": "Locked and Loaded"
+      },
+      "description": "Finish development of at least 300 equipment items.",
+      "description_i18n": {
+        "en": "Finish development of at least 300 equipment items.",
+        "pt": "Conclua o desenvolvimento de pelo menos 300 equipamentos."
+      },
+      "tier": "gold"
+    },
+    {
+      "key": "architect",
+      "title": "Architect",
+      "title_i18n": {
+        "en": "Architect",
+        "pt": "Architect"
+      },
+      "description": "Finish every available platform upgrade on the original Mother Base; FOB construction is separate.",
+      "description_i18n": {
+        "en": "Finish every available platform upgrade on the original Mother Base; FOB construction is separate.",
+        "pt": "Conclua todas as melhorias de plataformas da Mother Base original; a construção FOB é separada."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "deterrence",
+      "title": "Deterrence",
+      "title_i18n": {
+        "en": "Deterrence",
+        "pt": "Deterrence"
+      },
+      "description": "Finish developing a nuclear weapon through the Resources menu.",
+      "description_i18n": {
+        "en": "Finish developing a nuclear weapon through the Resources menu.",
+        "pt": "Conclua o desenvolvimento de uma arma nuclear no menu de Recursos."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "disarmament",
+      "title": "Disarmament",
+      "title_i18n": {
+        "en": "Disarmament",
+        "pt": "Disarmament"
+      },
+      "description": "Use the Resources menu to dispose of a nuclear weapon in your possession.",
+      "description_i18n": {
+        "en": "Use the Resources menu to dispose of a nuclear weapon in your possession.",
+        "pt": "Use o menu de Recursos para descartar uma arma nuclear que esteja em sua posse."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "prosperity",
+      "title": "Prosperity",
+      "title_i18n": {
+        "en": "Prosperity",
+        "pt": "Prosperity"
+      },
+      "description": "Earn at least 10,000,000 GMP cumulatively; it does not need to be held at once.",
+      "description_i18n": {
+        "en": "Earn at least 10,000,000 GMP cumulatively; it does not need to be held at once.",
+        "pt": "Ganhe pelo menos 10.000.000 de GMP acumulados; não é necessário possuir tudo ao mesmo tempo."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "conservation",
+      "title": "Conservation",
+      "title_i18n": {
+        "en": "Conservation",
+        "pt": "Conservation"
+      },
+      "description": "Recover every wild animal species recorded by the game's collection goal.",
+      "description_i18n": {
+        "en": "Recover every wild animal species recorded by the game's collection goal.",
+        "pt": "Recupere todas as espécies de animais selvagens exigidas pela coleção do jogo."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "collector",
+      "title": "Collector",
+      "title_i18n": {
+        "en": "Collector",
+        "pt": "Collector"
+      },
+      "description": "Acquire the complete required blueprint and key-item collections.",
+      "description_i18n": {
+        "en": "Acquire the complete required blueprint and key-item collections.",
+        "pt": "Obtenha as coleções completas de projetos e itens-chave necessários."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "reminiscence",
+      "title": "Reminiscence",
+      "title_i18n": {
+        "en": "Reminiscence",
+        "pt": "Reminiscence"
+      },
+      "description": "Collect all eleven memento photos, including the final Medical Platform photo.",
+      "description_i18n": {
+        "en": "Collect all eleven memento photos, including the final Medical Platform photo.",
+        "pt": "Obtenha as onze fotos de lembrança, incluindo a foto final da Plataforma Médica."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "hero",
+      "title": "Hero",
+      "title_i18n": {
+        "en": "Hero",
+        "pt": "Hero"
+      },
+      "description": "Accumulate the Heroism and campaign progress needed to receive the Hero codename.",
+      "description_i18n": {
+        "en": "Accumulate the Heroism and campaign progress needed to receive the Hero codename.",
+        "pt": "Acumule o Heroísmo e o progresso da campanha necessários para receber o codinome Hero."
+      },
+      "tier": "silver"
+    }
+  ],
+  "hltb_id": "5918",
+  "hltb_main_hours": 46,
+  "hltb_main_extra_hours": 81,
+  "hltb_completionist_hours": 163
+}

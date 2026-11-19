@@ -62,7 +62,7 @@ settings still need to match the deployed origin.
 
 ## Migration and rollout status
 
-`supabase/migrations/20261109190000_google_identity.sql` is **not yet applied**. No Firebase
+`supabase/migrations/20261119120000_google_identity.sql` is **not yet applied**. No Firebase
 production configuration has been changed and production has not been migrated. The ignored
 local task environment reuses the existing Xpot Google/Firebase public client configuration
 with the owner's approval; `SUPABASE_JWT_SECRET` is still missing. Treat this

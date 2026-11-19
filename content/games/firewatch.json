@@ -1,0 +1,1092 @@
+{
+  "slug": "firewatch",
+  "title": "Firewatch",
+  "title_i18n": {
+    "en": "Firewatch",
+    "pt": "Firewatch"
+  },
+  "platform": "PlayStation 4",
+  "cover_url": "/covers/firewatch.png",
+  "created_by": "dd5c4bf0-85ea-4986-9c04-b37e8c986150",
+  "categories": [
+    {
+      "key": "prologue-and-two-forks",
+      "title": "Prologue: the journey to Two Forks",
+      "title_i18n": {
+        "en": "Prologue: the journey to Two Forks",
+        "pt": "Prólogo: a viagem até Two Forks"
+      },
+      "items": [
+        {
+          "key": "begin-updated-ps4-story",
+          "title": "Begin the updated PS4 story",
+          "title_i18n": {
+            "en": "Begin the updated PS4 story",
+            "pt": "Iniciar a história atualizada no PS4"
+          },
+          "description": "Play the main story; optional exploration and Audio Tour goals are tracked separately.",
+          "description_i18n": {
+            "en": "Play the main story; optional exploration and Audio Tour goals are tracked separately.",
+            "pt": "Jogue a história principal; exploração opcional e objetivos do Audio Tour são separados."
+          }
+        },
+        {
+          "key": "make-prologue-choices",
+          "title": "Make the prologue choices",
+          "title_i18n": {
+            "en": "Make the prologue choices",
+            "pt": "Fazer as escolhas do prólogo"
+          },
+          "description": "Read the opening scenes and choose Henry’s responses.",
+          "description_i18n": {
+            "en": "Read the opening scenes and choose Henry’s responses.",
+            "pt": "Leia as cenas iniciais e escolha as respostas de Henry."
+          }
+        },
+        {
+          "key": "hike-to-lookout",
+          "title": "Hike to the lookout",
+          "title_i18n": {
+            "en": "Hike to the lookout",
+            "pt": "Caminhar até a torre"
+          },
+          "description": "Follow the opening trail and complete the arrival sequence.",
+          "description_i18n": {
+            "en": "Follow the opening trail and complete the arrival sequence.",
+            "pt": "Siga a trilha inicial e conclua a sequência de chegada."
+          }
+        },
+        {
+          "key": "establish-radio-contact",
+          "title": "Establish radio contact",
+          "title_i18n": {
+            "en": "Establish radio contact",
+            "pt": "Estabelecer contato pelo rádio"
+          },
+          "description": "Answer the radio and settle into the lookout.",
+          "description_i18n": {
+            "en": "Answer the radio and settle into the lookout.",
+            "pt": "Atenda ao rádio e instale-se na torre."
+          }
+        }
+      ]
+    },
+    {
+      "key": "day-one-first-patrol",
+      "title": "Day 1: the first patrol",
+      "title_i18n": {
+        "en": "Day 1: the first patrol",
+        "pt": "Dia 1: a primeira ronda"
+      },
+      "items": [
+        {
+          "key": "orient-map-and-compass",
+          "title": "Orient the map and compass",
+          "title_i18n": {
+            "en": "Orient the map and compass",
+            "pt": "Orientar o mapa e a bússola"
+          },
+          "description": "Check the current objective before leaving Two Forks.",
+          "description_i18n": {
+            "en": "Check the current objective before leaving Two Forks.",
+            "pt": "Confira o objetivo atual antes de sair de Two Forks."
+          }
+        },
+        {
+          "key": "open-cache-three-zero-six",
+          "title": "Open Cache Box 306",
+          "title_i18n": {
+            "en": "Open Cache Box 306",
+            "pt": "Abrir a Cache Box 306"
+          },
+          "description": "Reach the marked cache and collect the useful equipment.",
+          "description_i18n": {
+            "en": "Reach the marked cache and collect the useful equipment.",
+            "pt": "Alcance o depósito marcado e recolha o equipamento útil."
+          },
+          "details": "Follow the trail toward Jonesy Lake to Cache Box 306. Set its four digits to 1234, open the lid and take the rope. Copy the map information while the box is open. Cache maps add trail knowledge; reading a map is different from taking the equipment needed at the next obstacle. Return to your own map to confirm the route before continuing.",
+          "details_i18n": {
+            "en": "Follow the trail toward Jonesy Lake to Cache Box 306. Set its four digits to 1234, open the lid and take the rope. Copy the map information while the box is open. Cache maps add trail knowledge; reading a map is different from taking the equipment needed at the next obstacle. Return to your own map to confirm the route before continuing.",
+            "pt": "Siga a trilha em direção a Jonesy Lake até a Cache Box 306. Ajuste os quatro dígitos para 1234, abra a tampa e pegue a corda. Copie as informações do mapa enquanto o depósito estiver aberto. Os mapas acrescentam conhecimento das trilhas; lê-los é diferente de pegar o equipamento necessário no próximo obstáculo. Confira a rota no seu mapa antes de continuar."
+          }
+        },
+        {
+          "key": "descend-cripple-gulch",
+          "title": "Descend at Cripple Gulch",
+          "title_i18n": {
+            "en": "Descend at Cripple Gulch",
+            "pt": "Descer em Cripple Gulch"
+          },
+          "description": "Use the marked rope interaction to continue the patrol.",
+          "description_i18n": {
+            "en": "Use the marked rope interaction to continue the patrol.",
+            "pt": "Use a interação marcada com a corda para continuar a ronda."
+          }
+        },
+        {
+          "key": "inspect-lakeside-campsite",
+          "title": "Inspect the lakeside campsite",
+          "title_i18n": {
+            "en": "Inspect the lakeside campsite",
+            "pt": "Examinar o acampamento junto ao lago"
+          },
+          "description": "Deal with the campsite hazards and report what you find.",
+          "description_i18n": {
+            "en": "Deal with the campsite hazards and report what you find.",
+            "pt": "Cuide dos riscos no acampamento e relate o que encontrar."
+          }
+        },
+        {
+          "key": "resolve-fireworks-report",
+          "title": "Resolve the fireworks report",
+          "title_i18n": {
+            "en": "Resolve the fireworks report",
+            "pt": "Resolver a ocorrência dos fogos"
+          },
+          "description": "Reach the people by the water and finish the encounter.",
+          "description_i18n": {
+            "en": "Reach the people by the water and finish the encounter.",
+            "pt": "Alcance as pessoas junto à água e conclua o encontro."
+          }
+        },
+        {
+          "key": "find-return-trail",
+          "title": "Find a return trail",
+          "title_i18n": {
+            "en": "Find a return trail",
+            "pt": "Encontrar uma trilha de volta"
+          },
+          "description": "Follow an available route back toward Two Forks.",
+          "description_i18n": {
+            "en": "Follow an available route back toward Two Forks.",
+            "pt": "Siga uma rota disponível de volta a Two Forks."
+          },
+          "details": "The damaged rope prevents an immediate return up the original descent. Take the eastern trail into Thunder Canyon and continue through Cave 452 toward the lookout. The locked interior gate is not an objective you can solve now; use the open passage through the cave. Check the map at junctions instead of repeatedly trying the broken climbing point.",
+          "details_i18n": {
+            "en": "The damaged rope prevents an immediate return up the original descent. Take the eastern trail into Thunder Canyon and continue through Cave 452 toward the lookout. The locked interior gate is not an objective you can solve now; use the open passage through the cave. Check the map at junctions instead of repeatedly trying the broken climbing point.",
+            "pt": "A corda danificada impede voltar imediatamente pela descida original. Pegue a trilha a leste para Thunder Canyon e atravesse Cave 452 em direção à torre. O portão interno trancado não é um objetivo que possa resolver agora; use a passagem aberta pela caverna. Confira o mapa nas bifurcações, em vez de insistir no ponto de escalada quebrado."
+          }
+        },
+        {
+          "key": "report-lookout-condition",
+          "title": "Report the lookout’s condition",
+          "title_i18n": {
+            "en": "Report the lookout’s condition",
+            "pt": "Relatar o estado da torre"
+          },
+          "description": "Inspect your destination and finish the evening radio conversation.",
+          "description_i18n": {
+            "en": "Inspect your destination and finish the evening radio conversation.",
+            "pt": "Examine seu destino e conclua a conversa de rádio da noite."
+          }
+        }
+      ]
+    },
+    {
+      "key": "day-two-lines-and-smoke",
+      "title": "Day 2: lines and smoke",
+      "title_i18n": {
+        "en": "Day 2: lines and smoke",
+        "pt": "Dia 2: fios e fumaça"
+      },
+      "items": [
+        {
+          "key": "answer-day-two-call",
+          "title": "Answer the morning call",
+          "title_i18n": {
+            "en": "Answer the morning call",
+            "pt": "Atender à chamada da manhã"
+          },
+          "description": "Check the new assignment with Delilah.",
+          "description_i18n": {
+            "en": "Check the new assignment with Delilah.",
+            "pt": "Confira a nova tarefa com Delilah."
+          }
+        },
+        {
+          "key": "survey-communication-line",
+          "title": "Survey the communication line",
+          "title_i18n": {
+            "en": "Survey the communication line",
+            "pt": "Examinar a linha de comunicação"
+          },
+          "description": "Follow the marked line and inspect the reported problem.",
+          "description_i18n": {
+            "en": "Follow the marked line and inspect the reported problem.",
+            "pt": "Siga a linha indicada e examine o problema relatado."
+          }
+        },
+        {
+          "key": "report-line-findings",
+          "title": "Report the line findings",
+          "title_i18n": {
+            "en": "Report the line findings",
+            "pt": "Relatar as descobertas na linha"
+          },
+          "description": "Discuss the evidence before following the next lead.",
+          "description_i18n": {
+            "en": "Discuss the evidence before following the next lead.",
+            "pt": "Converse sobre as evidências antes de seguir a próxima pista."
+          }
+        },
+        {
+          "key": "retrieve-hanging-backpack",
+          "title": "Retrieve the hanging backpack",
+          "title_i18n": {
+            "en": "Retrieve the hanging backpack",
+            "pt": "Recolher a mochila pendurada"
+          },
+          "description": "Examine the trail-side bag and take the equipment inside.",
+          "description_i18n": {
+            "en": "Examine the trail-side bag and take the equipment inside.",
+            "pt": "Examine a mochila junto à trilha e pegue o equipamento de dentro."
+          }
+        },
+        {
+          "key": "follow-new-smoke-report",
+          "title": "Follow the new smoke report",
+          "title_i18n": {
+            "en": "Follow the new smoke report",
+            "pt": "Seguir a nova ocorrência de fumaça"
+          },
+          "description": "Use the map to reach the next marked search area.",
+          "description_i18n": {
+            "en": "Use the map to reach the next marked search area.",
+            "pt": "Use o mapa para alcançar a próxima área de busca marcada."
+          }
+        },
+        {
+          "key": "restore-useful-rope-route",
+          "title": "Restore a useful rope route",
+          "title_i18n": {
+            "en": "Restore a useful rope route",
+            "pt": "Restabelecer uma rota útil com corda"
+          },
+          "description": "Install the replacement rope where prompted and continue downhill.",
+          "description_i18n": {
+            "en": "Install the replacement rope where prompted and continue downhill.",
+            "pt": "Instale a corda de reposição quando indicado e continue a descida."
+          }
+        },
+        {
+          "key": "inspect-smoke-source",
+          "title": "Inspect the source of the smoke",
+          "title_i18n": {
+            "en": "Inspect the source of the smoke",
+            "pt": "Examinar a origem da fumaça"
+          },
+          "description": "Search the site, examine its note and finish the radio report.",
+          "description_i18n": {
+            "en": "Search the site, examine its note and finish the radio report.",
+            "pt": "Vasculhe o local, examine o bilhete e conclua o relato pelo rádio."
+          }
+        }
+      ]
+    },
+    {
+      "key": "days-three-nine-and-fifteen",
+      "title": "Days 3, 9 and 15: lookout duties",
+      "title_i18n": {
+        "en": "Days 3, 9 and 15: lookout duties",
+        "pt": "Dias 3, 9 e 15: tarefas na torre"
+      },
+      "items": [
+        {
+          "key": "gather-repair-boards",
+          "title": "Day 3: gather repair boards",
+          "title_i18n": {
+            "en": "Day 3: gather repair boards",
+            "pt": "Dia 3: reunir tábuas para o reparo"
+          },
+          "description": "Collect the boards around the base of the lookout.",
+          "description_i18n": {
+            "en": "Collect the boards around the base of the lookout.",
+            "pt": "Recolha as tábuas ao redor da base da torre."
+          }
+        },
+        {
+          "key": "repair-lookout-window",
+          "title": "Day 3: repair the window",
+          "title_i18n": {
+            "en": "Day 3: repair the window",
+            "pt": "Dia 3: consertar a janela"
+          },
+          "description": "Return upstairs and finish the repair interaction.",
+          "description_i18n": {
+            "en": "Return upstairs and finish the repair interaction.",
+            "pt": "Volte ao andar superior e conclua a interação de reparo."
+          }
+        },
+        {
+          "key": "day-nine-radio-check",
+          "title": "Day 9: complete the radio check",
+          "title_i18n": {
+            "en": "Day 9: complete the radio check",
+            "pt": "Dia 9: concluir o contato pelo rádio"
+          },
+          "description": "Listen to Delilah and make your own conversation choices.",
+          "description_i18n": {
+            "en": "Listen to Delilah and make your own conversation choices.",
+            "pt": "Ouça Delilah e faça suas próprias escolhas na conversa."
+          }
+        },
+        {
+          "key": "day-fifteen-conversation",
+          "title": "Day 15: finish the conversation",
+          "title_i18n": {
+            "en": "Day 15: finish the conversation",
+            "pt": "Dia 15: terminar a conversa"
+          },
+          "description": "Respond to the scene until the story moves forward.",
+          "description_i18n": {
+            "en": "Respond to the scene until the story moves forward.",
+            "pt": "Responda à cena até a história avançar."
+          }
+        }
+      ]
+    },
+    {
+      "key": "days-thirty-three-and-sixty-four",
+      "title": "Days 33 and 64: supplies and lookout watch",
+      "title_i18n": {
+        "en": "Days 33 and 64: supplies and lookout watch",
+        "pt": "Dias 33 e 64: suprimentos e observação"
+      },
+      "items": [
+        {
+          "key": "reach-northern-supply-drop",
+          "title": "Day 33: reach the supply drop",
+          "title_i18n": {
+            "en": "Day 33: reach the supply drop",
+            "pt": "Dia 33: alcançar a entrega de suprimentos"
+          },
+          "description": "Follow the supply assignment to its marked location.",
+          "description_i18n": {
+            "en": "Follow the supply assignment to its marked location.",
+            "pt": "Siga a tarefa dos suprimentos até o local indicado."
+          }
+        },
+        {
+          "key": "collect-lookout-supplies",
+          "title": "Day 33: collect supplies",
+          "title_i18n": {
+            "en": "Day 33: collect supplies",
+            "pt": "Dia 33: recolher os suprimentos"
+          },
+          "description": "Open the drop and take the provisions for your lookout.",
+          "description_i18n": {
+            "en": "Open the drop and take the provisions for your lookout.",
+            "pt": "Abra a entrega e pegue as provisões da sua torre."
+          },
+          "details": "Henry's supplies are the middle portion of the delivery. Taking the other lookouts' provisions is optional and can add a Day 34 conversation; it is not required to finish the campaign or unlock its story trophies. If that extra scene does not appear, continue with the next playable day rather than searching for a missing mission.",
+          "details_i18n": {
+            "en": "Henry's supplies are the middle portion of the delivery. Taking the other lookouts' provisions is optional and can add a Day 34 conversation; it is not required to finish the campaign or unlock its story trophies. If that extra scene does not appear, continue with the next playable day rather than searching for a missing mission.",
+            "pt": "Os suprimentos de Henry ficam na porção central da entrega. Pegar as provisões das outras torres é opcional e pode acrescentar uma conversa no dia 34; isso não é necessário para terminar a campanha nem desbloquear seus troféus de história. Se essa cena extra não aparecer, siga para o próximo dia jogável, em vez de procurar uma missão ausente."
+          }
+        },
+        {
+          "key": "day-sixty-four-fire-watch",
+          "title": "Day 64: complete the fire watch",
+          "title_i18n": {
+            "en": "Day 64: complete the fire watch",
+            "pt": "Dia 64: concluir a observação do incêndio"
+          },
+          "description": "Observe the distant fire and finish the radio scene.",
+          "description_i18n": {
+            "en": "Observe the distant fire and finish the radio scene.",
+            "pt": "Observe o incêndio distante e conclua a cena pelo rádio."
+          }
+        }
+      ]
+    },
+    {
+      "key": "day-seventy-six-investigation",
+      "title": "Day 76: a new investigation",
+      "title_i18n": {
+        "en": "Day 76: a new investigation",
+        "pt": "Dia 76: uma nova investigação"
+      },
+      "items": [
+        {
+          "key": "return-to-jonesy-lake",
+          "title": "Return to Jonesy Lake",
+          "title_i18n": {
+            "en": "Return to Jonesy Lake",
+            "pt": "Voltar a Jonesy Lake"
+          },
+          "description": "Follow the day’s lakeside assignment.",
+          "description_i18n": {
+            "en": "Follow the day’s lakeside assignment.",
+            "pt": "Siga a tarefa do dia junto ao lago."
+          }
+        },
+        {
+          "key": "inspect-lakeside-discovery",
+          "title": "Inspect the lakeside discovery",
+          "title_i18n": {
+            "en": "Inspect the lakeside discovery",
+            "pt": "Examinar a descoberta junto ao lago"
+          },
+          "description": "Examine the object by the shore and report it.",
+          "description_i18n": {
+            "en": "Examine the object by the shore and report it.",
+            "pt": "Examine o objeto junto à margem e relate a descoberta."
+          }
+        },
+        {
+          "key": "investigate-nearby-noise",
+          "title": "Investigate the nearby noise",
+          "title_i18n": {
+            "en": "Investigate the nearby noise",
+            "pt": "Investigar o ruído próximo"
+          },
+          "description": "Follow the sound and inspect its source.",
+          "description_i18n": {
+            "en": "Follow the sound and inspect its source.",
+            "pt": "Siga o som e examine sua origem."
+          }
+        },
+        {
+          "key": "reach-wapiti-boundary",
+          "title": "Reach the Wapiti boundary",
+          "title_i18n": {
+            "en": "Reach the Wapiti boundary",
+            "pt": "Alcançar o limite de Wapiti"
+          },
+          "description": "Investigate the marked enclosure and report its access problem.",
+          "description_i18n": {
+            "en": "Investigate the marked enclosure and report its access problem.",
+            "pt": "Investigue a área cercada marcada e relate o problema de acesso."
+          }
+        },
+        {
+          "key": "cross-controlled-burn-area",
+          "title": "Cross the controlled-burn area",
+          "title_i18n": {
+            "en": "Cross the controlled-burn area",
+            "pt": "Atravessar a área de queimada controlada"
+          },
+          "description": "Follow the new objective south of Ruby River.",
+          "description_i18n": {
+            "en": "Follow the new objective south of Ruby River.",
+            "pt": "Siga o novo objetivo ao sul de Ruby River."
+          }
+        },
+        {
+          "key": "search-old-scout-camp",
+          "title": "Search the old scout camp",
+          "title_i18n": {
+            "en": "Search the old scout camp",
+            "pt": "Vasculhar o antigo acampamento escoteiro"
+          },
+          "description": "Explore the camp and collect the useful tool.",
+          "description_i18n": {
+            "en": "Explore the camp and collect the useful tool.",
+            "pt": "Explore o acampamento e recolha a ferramenta útil."
+          },
+          "details": "After reporting the locked Wapiti entrance, follow the marked lead across Ruby River to the old scout camp. Inspect the camp and take the axe from the nearby tree. Use it at the blocked trail and damaged tree to create the onward crossing. Finish the conversation on the return route: the story advances to the next day rather than requiring you to force the Wapiti gate immediately.",
+          "details_i18n": {
+            "en": "After reporting the locked Wapiti entrance, follow the marked lead across Ruby River to the old scout camp. Inspect the camp and take the axe from the nearby tree. Use it at the blocked trail and damaged tree to create the onward crossing. Finish the conversation on the return route: the story advances to the next day rather than requiring you to force the Wapiti gate immediately.",
+            "pt": "Depois de relatar a entrada trancada de Wapiti, siga a pista marcada atravessando Ruby River até o antigo acampamento escoteiro. Examine o local e pegue o machado na árvore próxima. Use-o na trilha bloqueada e na árvore danificada para abrir a travessia. Termine a conversa no caminho de volta: a história avança ao dia seguinte, em vez de exigir que force imediatamente o portão de Wapiti."
+          }
+        },
+        {
+          "key": "open-return-crossing",
+          "title": "Open the return crossing",
+          "title_i18n": {
+            "en": "Open the return crossing",
+            "pt": "Abrir a travessia de volta"
+          },
+          "description": "Use the new tool where prompted and complete the radio exchange.",
+          "description_i18n": {
+            "en": "Use the new tool where prompted and complete the radio exchange.",
+            "pt": "Use a nova ferramenta quando indicado e conclua a conversa pelo rádio."
+          }
+        }
+      ]
+    },
+    {
+      "key": "day-seventy-seven-new-route",
+      "title": "Day 77: a new route",
+      "title_i18n": {
+        "en": "Day 77: a new route",
+        "pt": "Dia 77: uma nova rota"
+      },
+      "items": [
+        {
+          "key": "follow-morning-instructions",
+          "title": "Follow the morning instructions",
+          "title_i18n": {
+            "en": "Follow the morning instructions",
+            "pt": "Seguir as instruções da manhã"
+          },
+          "description": "Examine the requested lookout reference and check the new destination.",
+          "description_i18n": {
+            "en": "Examine the requested lookout reference and check the new destination.",
+            "pt": "Examine a referência pedida na torre e confira o novo destino."
+          }
+        },
+        {
+          "key": "visit-cottonwood-creek",
+          "title": "Visit Cottonwood Creek",
+          "title_i18n": {
+            "en": "Visit Cottonwood Creek",
+            "pt": "Visitar Cottonwood Creek"
+          },
+          "description": "Retrieve the item requested over the radio.",
+          "description_i18n": {
+            "en": "Retrieve the item requested over the radio.",
+            "pt": "Recolha o item solicitado pelo rádio."
+          },
+          "details": "Use the flora poster and Delilah's directions to reach Cottonwood Creek. Near the large tree, cross the shallow creek to the small island and report your arrival. Open Cache Box 308 using the new radio combination, 5678, and take the replacement walkie-talkie. This cache does not use the ordinary 1234 supply-cache combination. Continue the radio exchange before returning to Wapiti.",
+          "details_i18n": {
+            "en": "Use the flora poster and Delilah's directions to reach Cottonwood Creek. Near the large tree, cross the shallow creek to the small island and report your arrival. Open Cache Box 308 using the new radio combination, 5678, and take the replacement walkie-talkie. This cache does not use the ordinary 1234 supply-cache combination. Continue the radio exchange before returning to Wapiti.",
+            "pt": "Use o cartaz de plantas e as orientações de Delilah para chegar a Cottonwood Creek. Perto da árvore grande, atravesse o riacho raso até a pequena ilha e relate sua chegada. Abra a Cache Box 308 com a nova combinação informada pelo rádio, 5678, e pegue o rádio substituto. Esse depósito não usa a combinação comum 1234. Conclua a conversa antes de voltar a Wapiti."
+          }
+        },
+        {
+          "key": "enter-wapiti-meadow",
+          "title": "Enter Wapiti Meadow",
+          "title_i18n": {
+            "en": "Enter Wapiti Meadow",
+            "pt": "Entrar em Wapiti Meadow"
+          },
+          "description": "Return to the enclosure and use your available equipment.",
+          "description_i18n": {
+            "en": "Return to the enclosure and use your available equipment.",
+            "pt": "Volte à área cercada e use o equipamento disponível."
+          }
+        },
+        {
+          "key": "inspect-wapiti-site",
+          "title": "Inspect the Wapiti site",
+          "title_i18n": {
+            "en": "Inspect the Wapiti site",
+            "pt": "Examinar o local de Wapiti"
+          },
+          "description": "Search the structures and examine the marked equipment.",
+          "description_i18n": {
+            "en": "Search the structures and examine the marked equipment.",
+            "pt": "Vasculhe as estruturas e examine o equipamento indicado."
+          }
+        },
+        {
+          "key": "use-wave-receiver",
+          "title": "Use the wave receiver",
+          "title_i18n": {
+            "en": "Use the wave receiver",
+            "pt": "Usar o receptor de ondas"
+          },
+          "description": "Follow the instrument’s signal and inspect the nearby findings.",
+          "description_i18n": {
+            "en": "Follow the instrument’s signal and inspect the nearby findings.",
+            "pt": "Siga o sinal do instrumento e examine as descobertas próximas."
+          },
+          "details": "Collect the wave receiver from the hard case in the tent. Turn slowly and compare the indicator lights; more lights and faster beeps mean the signal is stronger. Follow the stronger bearing while using actual paths around obstacles. Search the clutter near the source and inspect the documents you uncover, then report them. The instrument is directional guidance, not permission to climb every steep slope in a straight line.",
+          "details_i18n": {
+            "en": "Collect the wave receiver from the hard case in the tent. Turn slowly and compare the indicator lights; more lights and faster beeps mean the signal is stronger. Follow the stronger bearing while using actual paths around obstacles. Search the clutter near the source and inspect the documents you uncover, then report them. The instrument is directional guidance, not permission to climb every steep slope in a straight line.",
+            "pt": "Pegue o receptor de ondas na maleta dentro da tenda. Vire devagar e compare as luzes indicadoras; mais luzes e bipes mais rápidos significam um sinal mais forte. Siga essa direção usando os caminhos ao redor dos obstáculos. Examine os objetos junto à origem e os documentos que encontrar, depois relate a descoberta. O instrumento orienta a direção, mas não permite subir qualquer encosta íngreme em linha reta."
+          }
+        },
+        {
+          "key": "return-from-wapiti",
+          "title": "Return from Wapiti",
+          "title_i18n": {
+            "en": "Return from Wapiti",
+            "pt": "Voltar de Wapiti"
+          },
+          "description": "Leave by the available trail and continue the conversation.",
+          "description_i18n": {
+            "en": "Leave by the available trail and continue the conversation.",
+            "pt": "Saia pela trilha disponível e continue a conversa."
+          }
+        }
+      ]
+    },
+    {
+      "key": "day-seventy-seven-night",
+      "title": "Day 77: the night search",
+      "title_i18n": {
+        "en": "Day 77: the night search",
+        "pt": "Dia 77: a busca noturna"
+      },
+      "items": [
+        {
+          "key": "trace-night-signal",
+          "title": "Trace the night signal",
+          "title_i18n": {
+            "en": "Trace the night signal",
+            "pt": "Rastrear o sinal noturno"
+          },
+          "description": "Use the receiver to locate the next search point.",
+          "description_i18n": {
+            "en": "Use the receiver to locate the next search point.",
+            "pt": "Use o receptor para localizar o próximo ponto de busca."
+          }
+        },
+        {
+          "key": "inspect-night-search-object",
+          "title": "Inspect the search object",
+          "title_i18n": {
+            "en": "Inspect the search object",
+            "pt": "Examinar o objeto da busca"
+          },
+          "description": "Examine the object completely and keep the useful item.",
+          "description_i18n": {
+            "en": "Examine the object completely and keep the useful item.",
+            "pt": "Examine completamente o objeto e guarde o item útil."
+          }
+        },
+        {
+          "key": "finish-night-return",
+          "title": "Finish the night return",
+          "title_i18n": {
+            "en": "Finish the night return",
+            "pt": "Concluir o retorno noturno"
+          },
+          "description": "Return to the lookout and inspect what awaits there.",
+          "description_i18n": {
+            "en": "Return to the lookout and inspect what awaits there.",
+            "pt": "Volte à torre e examine o que encontrar lá."
+          },
+          "details": "Follow the receiver toward the small clearing near Medicine Wheel and inspect the hanging bag. After its alarm activates, search it again to obtain the cave key. Return to Two Forks rather than beginning the cave investigation early. Inspect the player attached to the lookout door, let the recording play and finish the radio conversation. This recording closes Day 77; it is not the optional Ol’ Shoshone song tape.",
+          "details_i18n": {
+            "en": "Follow the receiver toward the small clearing near Medicine Wheel and inspect the hanging bag. After its alarm activates, search it again to obtain the cave key. Return to Two Forks rather than beginning the cave investigation early. Inspect the player attached to the lookout door, let the recording play and finish the radio conversation. This recording closes Day 77; it is not the optional Ol’ Shoshone song tape.",
+            "pt": "Siga o receptor até a pequena clareira perto de Medicine Wheel e examine a mochila pendurada. Depois que o alarme tocar, vasculhe-a novamente para obter a chave da caverna. Volte a Two Forks, em vez de iniciar cedo a investigação da caverna. Examine o aparelho preso à porta da torre, deixe a gravação tocar e conclua a conversa pelo rádio. Essa gravação encerra o dia 77; não é a fita opcional da canção Ol’ Shoshone."
+          }
+        }
+      ]
+    },
+    {
+      "key": "day-seventy-eight-cave-route",
+      "title": "Day 78: the cave route",
+      "title_i18n": {
+        "en": "Day 78: the cave route",
+        "pt": "Dia 78: a rota da caverna"
+      },
+      "items": [
+        {
+          "key": "enter-cave-four-five-two",
+          "title": "Enter Cave 452",
+          "title_i18n": {
+            "en": "Enter Cave 452",
+            "pt": "Entrar em Cave 452"
+          },
+          "description": "Use the newly available access and explore carefully.",
+          "description_i18n": {
+            "en": "Use the newly available access and explore carefully.",
+            "pt": "Use o acesso recém-disponível e explore com cuidado."
+          }
+        },
+        {
+          "key": "find-cave-exit",
+          "title": "Find another way outside",
+          "title_i18n": {
+            "en": "Find another way outside",
+            "pt": "Encontrar outra saída"
+          },
+          "description": "Search the accessible passages for a way onward.",
+          "description_i18n": {
+            "en": "Search the accessible passages for a way onward.",
+            "pt": "Procure uma passagem adiante pelos caminhos acessíveis."
+          }
+        },
+        {
+          "key": "inspect-outdoor-hideout",
+          "title": "Inspect the outdoor hideout",
+          "title_i18n": {
+            "en": "Inspect the outdoor hideout",
+            "pt": "Examinar o abrigo ao ar livre"
+          },
+          "description": "Examine the site beyond the cave and collect useful equipment.",
+          "description_i18n": {
+            "en": "Examine the site beyond the cave and collect useful equipment.",
+            "pt": "Examine o local além da caverna e recolha o equipamento útil."
+          },
+          "details": "If the cave gate closes behind you, take the left passage and clear the loose rocks to reach the exterior. Explore the small hideout north of the exit. Move the handmade sign on the work surface to reveal the bundle of pitons and take them. These enable the marked descent and the deeper cave route. Return through the available paths and use the piton interaction at the cracked rock rather than searching for an unrelated key.",
+          "details_i18n": {
+            "en": "If the cave gate closes behind you, take the left passage and clear the loose rocks to reach the exterior. Explore the small hideout north of the exit. Move the handmade sign on the work surface to reveal the bundle of pitons and take them. These enable the marked descent and the deeper cave route. Return through the available paths and use the piton interaction at the cracked rock rather than searching for an unrelated key.",
+            "pt": "Se o portão da caverna fechar atrás de você, pegue a passagem da esquerda e retire as pedras soltas para alcançar o exterior. Explore o pequeno abrigo ao norte da saída. Mova a placa artesanal na superfície de trabalho para revelar o conjunto de pitons e pegue-o. Eles permitem a descida marcada e a rota mais profunda da caverna. Volte pelos caminhos disponíveis e use a interação do piton na rocha rachada, em vez de procurar outra chave."
+          }
+        },
+        {
+          "key": "return-to-deeper-cave",
+          "title": "Return to the deeper cave",
+          "title_i18n": {
+            "en": "Return to the deeper cave",
+            "pt": "Voltar à parte profunda da caverna"
+          },
+          "description": "Use the new equipment to reach the remaining objective.",
+          "description_i18n": {
+            "en": "Use the new equipment to reach the remaining objective.",
+            "pt": "Use o novo equipamento para alcançar o objetivo restante."
+          }
+        },
+        {
+          "key": "complete-cave-report",
+          "title": "Complete the cave report",
+          "title_i18n": {
+            "en": "Complete the cave report",
+            "pt": "Concluir o relato da caverna"
+          },
+          "description": "Inspect the final area and finish the conversation outside.",
+          "description_i18n": {
+            "en": "Inspect the final area and finish the conversation outside.",
+            "pt": "Examine a área final e conclua a conversa do lado de fora."
+          }
+        }
+      ]
+    },
+    {
+      "key": "day-seventy-nine-departure",
+      "title": "Day 79: departure",
+      "title_i18n": {
+        "en": "Day 79: departure",
+        "pt": "Dia 79: partida"
+      },
+      "items": [
+        {
+          "key": "answer-final-day-instructions",
+          "title": "Answer the final-day instructions",
+          "title_i18n": {
+            "en": "Answer the final-day instructions",
+            "pt": "Atender às instruções do último dia"
+          },
+          "description": "Speak with Delilah and check your current objective.",
+          "description_i18n": {
+            "en": "Speak with Delilah and check your current objective.",
+            "pt": "Converse com Delilah e confira seu objetivo atual."
+          }
+        },
+        {
+          "key": "follow-final-receiver-signal",
+          "title": "Follow the final receiver signal",
+          "title_i18n": {
+            "en": "Follow the final receiver signal",
+            "pt": "Seguir o último sinal do receptor"
+          },
+          "description": "Trace the new signal before heading to the evacuation point.",
+          "description_i18n": {
+            "en": "Trace the new signal before heading to the evacuation point.",
+            "pt": "Rastreie o novo sinal antes de ir ao ponto de evacuação."
+          }
+        },
+        {
+          "key": "inspect-final-search-site",
+          "title": "Inspect the final search site",
+          "title_i18n": {
+            "en": "Inspect the final search site",
+            "pt": "Examinar o último local de busca"
+          },
+          "description": "Examine the site and complete the associated radio exchange.",
+          "description_i18n": {
+            "en": "Examine the site and complete the associated radio exchange.",
+            "pt": "Examine o local e conclua a conversa de rádio correspondente."
+          }
+        },
+        {
+          "key": "reach-thorofare-lookout",
+          "title": "Reach Thorofare Lookout",
+          "title_i18n": {
+            "en": "Reach Thorofare Lookout",
+            "pt": "Alcançar Thorofare Lookout"
+          },
+          "description": "Follow the evacuation route and complete the crossing.",
+          "description_i18n": {
+            "en": "Follow the evacuation route and complete the crossing.",
+            "pt": "Siga a rota de evacuação e conclua a travessia."
+          },
+          "details": "Finish the final signal investigation first, then head toward the northern evacuation route. Use the marked trails to reach the cable car and cross to Thorofare Lookout. Enter the tower and use the radio headset to finish the conversation before leaving for the helicopter. Complete any desired optional exploration before committing to this departure; the ending is not a route back into the summer’s earlier story scenes.",
+          "details_i18n": {
+            "en": "Finish the final signal investigation first, then head toward the northern evacuation route. Use the marked trails to reach the cable car and cross to Thorofare Lookout. Enter the tower and use the radio headset to finish the conversation before leaving for the helicopter. Complete any desired optional exploration before committing to this departure; the ending is not a route back into the summer’s earlier story scenes.",
+            "pt": "Termine primeiro a investigação do último sinal e depois siga pela rota de evacuação ao norte. Use as trilhas marcadas para alcançar o teleférico e atravessar até Thorofare Lookout. Entre na torre e use o fone do rádio para terminar a conversa antes de sair em direção ao helicóptero. Conclua antes de partir qualquer exploração opcional desejada; o final não é uma rota de volta às cenas anteriores da história."
+          }
+        },
+        {
+          "key": "complete-evacuation",
+          "title": "Complete the evacuation",
+          "title_i18n": {
+            "en": "Complete the evacuation",
+            "pt": "Concluir a evacuação"
+          },
+          "description": "Finish the final interaction and let the ending play.",
+          "description_i18n": {
+            "en": "Finish the final interaction and let the ending play.",
+            "pt": "Conclua a última interação e acompanhe o encerramento."
+          }
+        }
+      ]
+    },
+    {
+      "key": "optional-exploration-and-audio-tour",
+      "title": "Optional exploration and Audio Tour",
+      "title_i18n": {
+        "en": "Optional exploration and Audio Tour",
+        "pt": "Exploração opcional e Audio Tour"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "adopt-pet-turtle",
+          "title": "Love Turts: adopt a turtle",
+          "title_i18n": {
+            "en": "Love Turts: adopt a turtle",
+            "pt": "Love Turts: adotar uma tartaruga"
+          },
+          "description": "Find a turtle and complete the adoption interaction.",
+          "description_i18n": {
+            "en": "Find a turtle and complete the adoption interaction.",
+            "pt": "Encontre uma tartaruga e conclua a interação de adoção."
+          },
+          "details": "A convenient story opportunity is Day 2 near Cache Box 309: search west of the cache for a turtle resting on a rock between trees. Pick it up, then hold Circle to keep/adopt it; looking at it and putting it down does not perform the adoption. No particular name is required. With the current patch, this optional trophy can also be recovered in Free Roam instead of restarting the entire campaign.",
+          "details_i18n": {
+            "en": "A convenient story opportunity is Day 2 near Cache Box 309: search west of the cache for a turtle resting on a rock between trees. Pick it up, then hold Circle to keep/adopt it; looking at it and putting it down does not perform the adoption. No particular name is required. With the current patch, this optional trophy can also be recovered in Free Roam instead of restarting the entire campaign.",
+            "pt": "Uma oportunidade conveniente na história é o dia 2, perto da Cache Box 309: procure a oeste do depósito uma tartaruga sobre uma pedra entre árvores. Pegue-a e segure Circle para guardar/adotar; apenas olhar e colocá-la no chão não realiza a adoção. Nenhum nome específico é exigido. Com a atualização atual, este troféu opcional também pode ser recuperado em Free Roam, sem reiniciar toda a campanha."
+          }
+        },
+        {
+          "key": "raccoon-carter-encounter",
+          "title": "The Life and Times of Raccoon Carter",
+          "title_i18n": {
+            "en": "The Life and Times of Raccoon Carter",
+            "pt": "The Life and Times of Raccoon Carter"
+          },
+          "description": "Investigate the old cabin’s wildlife encounter.",
+          "description_i18n": {
+            "en": "Investigate the old cabin’s wildlife encounter.",
+            "pt": "Investigue o encontro com um animal na cabana antiga."
+          },
+          "details": "Use Day 77 for a convenient visit to the ruined cabin on the Beartooth Point side of the map. Go down into its dark lower room and open the old stove; the raccoon emerging and attacking triggers the trophy. Merely entering the cabin or inspecting its other items is insufficient. If the encounter was skipped during the story, the updated game allows recovery in Free Roam. This is optional exploration, not a separate story quest.",
+          "details_i18n": {
+            "en": "Use Day 77 for a convenient visit to the ruined cabin on the Beartooth Point side of the map. Go down into its dark lower room and open the old stove; the raccoon emerging and attacking triggers the trophy. Merely entering the cabin or inspecting its other items is insufficient. If the encounter was skipped during the story, the updated game allows recovery in Free Roam. This is optional exploration, not a separate story quest.",
+            "pt": "Use o dia 77 para uma visita conveniente à cabana em ruínas no lado do mapa de Beartooth Point. Desça ao cômodo escuro inferior e abra o fogão antigo; a saída e o ataque do guaxinim acionam o troféu. Apenas entrar na cabana ou examinar outros objetos não basta. Se perder o encontro na história, o jogo atualizado permite recuperá-lo em Free Roam. É exploração opcional, não uma missão separada da história."
+          }
+        },
+        {
+          "key": "bee-plot-mailbox",
+          "title": "Bee Plot: inspect the Wapiti mailbox",
+          "title_i18n": {
+            "en": "Bee Plot: inspect the Wapiti mailbox",
+            "pt": "Bee Plot: examinar a caixa de correio de Wapiti"
+          },
+          "description": "Check this optional interaction during the Day 77 visit.",
+          "description_i18n": {
+            "en": "Check this optional interaction during the Day 77 visit.",
+            "pt": "Confira esta interação opcional durante a visita do dia 77."
+          },
+          "details": "After collecting the new radio on Day 77, return to Wapiti and use the axe to open the fenced entrance. Immediately inside, open the lid of the WAPITI mailbox to trigger the bee sting. Breaking the gate itself is not the trophy action. Do this before advancing beyond the visit: the current PS4 guide still identifies Bee Plot as the optional trophy that cannot be recovered in Free Roam. If missed, use an earlier save or replay the story/Audio Tour to this point.",
+          "details_i18n": {
+            "en": "After collecting the new radio on Day 77, return to Wapiti and use the axe to open the fenced entrance. Immediately inside, open the lid of the WAPITI mailbox to trigger the bee sting. Breaking the gate itself is not the trophy action. Do this before advancing beyond the visit: the current PS4 guide still identifies Bee Plot as the optional trophy that cannot be recovered in Free Roam. If missed, use an earlier save or replay the story/Audio Tour to this point.",
+            "pt": "Depois de pegar o novo rádio no dia 77, volte a Wapiti e use o machado para abrir a entrada cercada. Logo do lado de dentro, abra a tampa da caixa de correio WAPITI para acionar a picada. Quebrar o portão não é a ação do troféu. Faça isso antes de avançar além da visita: o guia atual de PS4 ainda identifica Bee Plot como o troféu opcional que não pode ser recuperado em Free Roam. Se perdê-lo, use um arquivo anterior ou repita a história/Audio Tour até esse ponto."
+          }
+        },
+        {
+          "key": "ol-shoshone-song-tape",
+          "title": "Ol’ Shoshone: find the song tape",
+          "title_i18n": {
+            "en": "Ol’ Shoshone: find the song tape",
+            "pt": "Ol’ Shoshone: encontrar a fita da canção"
+          },
+          "description": "Find and keep the optional music recording.",
+          "description_i18n": {
+            "en": "Find and keep the optional music recording.",
+            "pt": "Encontre e guarde a gravação musical opcional."
+          },
+          "details": "With the axe available, Day 77 or 78 is a suitable story opportunity. Explore west of the old cabin near Beartooth Point, push through the gap in the bushes and chop the blocked trail. Search the clearing with the old seat, bottles and note for the cassette. Pick it up and hold Circle to keep it so the recording interaction completes. It is separate from the required story recordings. The updated PS4 version also allows this trophy in Free Roam.",
+          "details_i18n": {
+            "en": "With the axe available, Day 77 or 78 is a suitable story opportunity. Explore west of the old cabin near Beartooth Point, push through the gap in the bushes and chop the blocked trail. Search the clearing with the old seat, bottles and note for the cassette. Pick it up and hold Circle to keep it so the recording interaction completes. It is separate from the required story recordings. The updated PS4 version also allows this trophy in Free Roam.",
+            "pt": "Com o machado disponível, o dia 77 ou 78 é uma oportunidade adequada na história. Explore a oeste da cabana antiga perto de Beartooth Point, atravesse a abertura nos arbustos e corte o obstáculo da trilha. Procure a fita na clareira com assento antigo, garrafas e bilhete. Pegue-a e segure Circle para guardar, concluindo a interação da gravação. Ela é separada das gravações obrigatórias da história. A versão atualizada de PS4 também permite obter o troféu em Free Roam."
+          }
+        },
+        {
+          "key": "explore-audio-tour-commentary",
+          "title": "Explore the developer Audio Tour",
+          "title_i18n": {
+            "en": "Explore the developer Audio Tour",
+            "pt": "Explorar o Audio Tour dos desenvolvedores"
+          },
+          "description": "After finishing the story, try the optional developer commentary in Special Features. Free Roam also unlocks after the ending save.",
+          "description_i18n": {
+            "en": "After finishing the story, try the optional developer commentary in Special Features. Free Roam also unlocks after the ending save.",
+            "pt": "Depois de terminar a história, experimente os comentários opcionais dos desenvolvedores em Special Features. Free Roam também é liberado após o salvamento do final."
+          }
+        }
+      ]
+    },
+    {
+      "key": "optional-camera-roll",
+      "title": "Optional: the disposable camera",
+      "title_i18n": {
+        "en": "Optional: the disposable camera",
+        "pt": "Opcional: a câmera descartável"
+      },
+      "kind": "collectible",
+      "items": [
+        {
+          "key": "fill-disposable-camera-roll",
+          "title": "Shutter Bug: finish the camera roll",
+          "title_i18n": {
+            "en": "Shutter Bug: finish the camera roll",
+            "pt": "Shutter Bug: terminar o filme da câmera"
+          },
+          "description": "Use every remaining exposure in the disposable camera.",
+          "description_i18n": {
+            "en": "Use every remaining exposure in the disposable camera.",
+            "pt": "Use todas as exposições restantes da câmera descartável."
+          },
+          "details": "The hanging backpack found during Day 2 contains the disposable camera. Its usable roll has eighteen shots; take photographs until no exposures remain. You may photograph anything, so no particular subject list or eighteen separate locations is required. This is a single aggregate camera goal, not a checklist of all scenery. Complete it during your story visit or use the patched game’s recovery modes if you missed it; Audio Tour also permits the update trophies.",
+          "details_i18n": {
+            "en": "The hanging backpack found during Day 2 contains the disposable camera. Its usable roll has eighteen shots; take photographs until no exposures remain. You may photograph anything, so no particular subject list or eighteen separate locations is required. This is a single aggregate camera goal, not a checklist of all scenery. Complete it during your story visit or use the patched game’s recovery modes if you missed it; Audio Tour also permits the update trophies.",
+            "pt": "A mochila pendurada encontrada no dia 2 contém a câmera descartável. O filme utilizável oferece dezoito fotos; fotografe até não restarem exposições. Qualquer assunto serve, portanto não há lista específica de temas nem dezoito locais diferentes obrigatórios. Este é um objetivo agregado da câmera, não uma lista de todas as paisagens. Conclua-o durante a história ou use os modos de recuperação do jogo atualizado se perder a oportunidade; Audio Tour também permite os troféus da atualização."
+          }
+        }
+      ]
+    }
+  ],
+  "trophies": [
+    {
+      "key": "trophy-good-first-day",
+      "tier": "bronze",
+      "title": "\"Good first day.\"",
+      "title_i18n": {
+        "en": "\"Good first day.\"",
+        "pt": "\"Good first day.\""
+      },
+      "description": "Finish Day 1 and continue into the next morning.",
+      "description_i18n": {
+        "en": "Finish Day 1 and continue into the next morning.",
+        "pt": "Conclua o dia 1 e avance para a manhã seguinte."
+      }
+    },
+    {
+      "key": "trophy-back-to-work",
+      "tier": "silver",
+      "title": "\"Back to work.\"",
+      "title_i18n": {
+        "en": "\"Back to work.\"",
+        "pt": "\"Back to work.\""
+      },
+      "description": "Finish Day 2 and reach the following day.",
+      "description_i18n": {
+        "en": "Finish Day 2 and reach the following day.",
+        "pt": "Conclua o dia 2 e alcance o dia seguinte."
+      }
+    },
+    {
+      "key": "trophy-someone-out-here",
+      "tier": "gold",
+      "title": "\"Someone's out here.\"",
+      "title_i18n": {
+        "en": "\"Someone's out here.\"",
+        "pt": "\"Someone's out here.\""
+      },
+      "description": "Finish the Day 76 assignment.",
+      "description_i18n": {
+        "en": "Finish the Day 76 assignment.",
+        "pt": "Conclua a tarefa do dia 76."
+      }
+    },
+    {
+      "key": "trophy-burn-place-down",
+      "tier": "gold",
+      "title": "\"Burn the place down.\"",
+      "title_i18n": {
+        "en": "\"Burn the place down.\"",
+        "pt": "\"Burn the place down.\""
+      },
+      "description": "Finish the full Day 77 sequence, including its evening return.",
+      "description_i18n": {
+        "en": "Finish the full Day 77 sequence, including its evening return.",
+        "pt": "Conclua toda a sequência do dia 77, incluindo o retorno noturno."
+      }
+    },
+    {
+      "key": "trophy-firewatch-ending",
+      "tier": "gold",
+      "title": "Firewatch",
+      "title_i18n": {
+        "en": "Firewatch",
+        "pt": "Firewatch"
+      },
+      "description": "Complete Day 79 and the ending.",
+      "description_i18n": {
+        "en": "Complete Day 79 and the ending.",
+        "pt": "Conclua o dia 79 e o encerramento."
+      }
+    },
+    {
+      "key": "trophy-shutter-bug",
+      "tier": "bronze",
+      "title": "Shutter Bug",
+      "title_i18n": {
+        "en": "Shutter Bug",
+        "pt": "Shutter Bug"
+      },
+      "description": "Audio Tour update: use all eighteen available camera shots.",
+      "description_i18n": {
+        "en": "Audio Tour update: use all eighteen available camera shots.",
+        "pt": "Atualização Audio Tour: use as dezoito fotos disponíveis na câmera."
+      }
+    },
+    {
+      "key": "trophy-raccoon-carter",
+      "tier": "bronze",
+      "title": "The Life and Times of Raccoon Carter",
+      "title_i18n": {
+        "en": "The Life and Times of Raccoon Carter",
+        "pt": "The Life and Times of Raccoon Carter"
+      },
+      "description": "Audio Tour update: trigger the raccoon encounter in the old cabin.",
+      "description_i18n": {
+        "en": "Audio Tour update: trigger the raccoon encounter in the old cabin.",
+        "pt": "Atualização Audio Tour: acione o encontro com o guaxinim na cabana antiga."
+      }
+    },
+    {
+      "key": "trophy-bee-plot",
+      "tier": "bronze",
+      "title": "Bee Plot",
+      "title_i18n": {
+        "en": "Bee Plot",
+        "pt": "Bee Plot"
+      },
+      "description": "Audio Tour update: trigger the bee sting at the Wapiti mailbox.",
+      "description_i18n": {
+        "en": "Audio Tour update: trigger the bee sting at the Wapiti mailbox.",
+        "pt": "Atualização Audio Tour: acione a picada de abelha na caixa de correio de Wapiti."
+      }
+    },
+    {
+      "key": "trophy-love-turts",
+      "tier": "bronze",
+      "title": "Love Turts",
+      "title_i18n": {
+        "en": "Love Turts",
+        "pt": "Love Turts"
+      },
+      "description": "Audio Tour update: pick up a turtle and choose to keep it.",
+      "description_i18n": {
+        "en": "Audio Tour update: pick up a turtle and choose to keep it.",
+        "pt": "Atualização Audio Tour: pegue uma tartaruga e escolha ficar com ela."
+      }
+    },
+    {
+      "key": "trophy-ol-shoshone",
+      "tier": "bronze",
+      "title": "Ol' Shoshone",
+      "title_i18n": {
+        "en": "Ol' Shoshone",
+        "pt": "Ol' Shoshone"
+      },
+      "description": "Audio Tour update: find and keep the optional Ol’ Shoshone recording.",
+      "description_i18n": {
+        "en": "Audio Tour update: find and keep the optional Ol’ Shoshone recording.",
+        "pt": "Atualização Audio Tour: encontre e guarde a gravação opcional de Ol’ Shoshone."
+      }
+    }
+  ],
+  "hltb_id": "26806",
+  "hltb_main_hours": 4,
+  "hltb_main_extra_hours": 5,
+  "hltb_completionist_hours": 5
+}

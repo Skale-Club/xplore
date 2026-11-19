@@ -1,0 +1,993 @@
+{
+  "slug": "grand-theft-auto-london-1969",
+  "title": "Grand Theft Auto: London 1969",
+  "title_i18n": {
+    "en": "Grand Theft Auto: London 1969",
+    "pt": "Grand Theft Auto: London 1969"
+  },
+  "platform": "PC",
+  "cover_url": "/covers/grand-theft-auto-london-1969.png",
+  "created_by": "dd5c4bf0-85ea-4986-9c04-b37e8c986150",
+  "categories": [
+    {
+      "key": "pc-mission-pack-preparation",
+      "title": "PC mission-pack preparation",
+      "title_i18n": {
+        "en": "PC mission-pack preparation",
+        "pt": "Preparação do pacote de missões de PC"
+      },
+      "items": [
+        {
+          "key": "confirm-original-gta-dependency",
+          "title": "Confirm the original GTA dependency",
+          "title_i18n": {
+            "en": "Confirm the original GTA dependency",
+            "pt": "Confira a dependência do GTA original"
+          },
+          "description": "The original PC mission pack requires Grand Theft Auto installed; this entry covers London 1969 only.",
+          "description_i18n": {
+            "en": "The original PC mission pack requires Grand Theft Auto installed; this entry covers London 1969 only.",
+            "pt": "O pacote original de PC exige Grand Theft Auto instalado; esta entrada cobre apenas London 1969."
+          }
+        },
+        {
+          "key": "select-profile-and-pc-controls",
+          "title": "Select a profile and check PC controls",
+          "title_i18n": {
+            "en": "Select a profile and check PC controls",
+            "pt": "Selecione um perfil e confira os controles de PC"
+          },
+          "description": "Review movement, braking, vehicle entry and weapon selection before beginning.",
+          "description_i18n": {
+            "en": "Review movement, braking, vehicle entry and weapon selection before beginning.",
+            "pt": "Confira movimento, frenagem, entrada em veículos e seleção de armas antes de começar."
+          }
+        },
+        {
+          "key": "practice-driving-on-left",
+          "title": "Practice driving on the left",
+          "title_i18n": {
+            "en": "Practice driving on the left",
+            "pt": "Pratique dirigir pela esquerda"
+          },
+          "description": "Follow London's traffic direction and rehearse junctions before timed contracts.",
+          "description_i18n": {
+            "en": "Follow London's traffic direction and rehearse junctions before timed contracts.",
+            "pt": "Acompanhe o sentido do trânsito de Londres e pratique os cruzamentos antes dos contratos cronometrados."
+          },
+          "details": "Use the left-hand traffic lane when entering a road and look both ways before crossing a junction from the pavement. The top-down camera makes a familiar right-hand-driving turn easy to repeat by habit, especially after playing the original GTA cities. Rehearse a short route with gentle bends before taking a timer. If movement and countdowns are abnormally fast on a modern PC, check the original F8 frame limiter. This is a game-speed setting, not an extra difficulty mode.",
+          "details_i18n": {
+            "en": "Use the left-hand traffic lane when entering a road and look both ways before crossing a junction from the pavement. The top-down camera makes a familiar right-hand-driving turn easy to repeat by habit, especially after playing the original GTA cities. Rehearse a short route with gentle bends before taking a timer. If movement and countdowns are abnormally fast on a modern PC, check the original F8 frame limiter. This is a game-speed setting, not an extra difficulty mode.",
+            "pt": "Use a faixa de trânsito da esquerda ao entrar numa rua e olhe para os dois lados antes de atravessar um cruzamento a partir da calçada. A câmera superior facilita repetir por hábito uma curva do trânsito pela direita, especialmente depois das cidades do GTA original. Pratique uma rota curta com curvas suaves antes de enfrentar um cronômetro. Se movimento e contagem estiverem rápidos demais num PC moderno, confira o limitador original em F8. É uma configuração de velocidade, não um modo extra de dificuldade."
+          }
+        },
+        {
+          "key": "prepare-original-london-map",
+          "title": "Prepare the original London map",
+          "title_i18n": {
+            "en": "Prepare the original London map",
+            "pt": "Prepare o mapa original de Londres"
+          },
+          "description": "Use this expansion's districts and road layout rather than a later GTA or the London 1961 extras.",
+          "description_i18n": {
+            "en": "Use this expansion's districts and road layout rather than a later GTA or the London 1961 extras.",
+            "pt": "Use os bairros e as ruas desta expansão, sem recorrer a outro GTA ou aos extras de London 1961."
+          }
+        },
+        {
+          "key": "learn-message-recall",
+          "title": "Learn message recall",
+          "title_i18n": {
+            "en": "Learn message recall",
+            "pt": "Aprenda a consultar as mensagens"
+          },
+          "description": "Distinguish ordinary mission messages from the portable telegram instructions.",
+          "description_i18n": {
+            "en": "Distinguish ordinary mission messages from the portable telegram instructions.",
+            "pt": "Diferencie as mensagens comuns de missão das instruções do telegrama portátil."
+          },
+          "details": "The PC manual distinguishes F10 for the last ordinary message from F7 for the last portable telegram or pager message. F9 redisplays the district name, while F6 pauses and shows the current stage target. Recheck the destination, vehicle and passenger conditions before driving. The yellow arrow gives a general direction, not a road-by-road route; choose an actual bridge or street entrance using the London map. A message mentioning one district can still require you to follow the active destination marker precisely.",
+          "details_i18n": {
+            "en": "The PC manual distinguishes F10 for the last ordinary message from F7 for the last portable telegram or pager message. F9 redisplays the district name, while F6 pauses and shows the current stage target. Recheck the destination, vehicle and passenger conditions before driving. The yellow arrow gives a general direction, not a road-by-road route; choose an actual bridge or street entrance using the London map. A message mentioning one district can still require you to follow the active destination marker precisely.",
+            "pt": "O manual de PC diferencia F10, que repete a última mensagem comum, de F7, que repete o último telegrama ou recado do pager. F9 mostra novamente o bairro, enquanto F6 pausa e exibe a meta da etapa. Confira destino, veículo e passageiros antes de dirigir. A seta amarela fornece uma direção geral, não um percurso rua a rua; escolha uma ponte ou entrada real usando o mapa. Uma mensagem que cite determinado bairro ainda pode exigir seguir com precisão a marcação ativa."
+          }
+        },
+        {
+          "key": "understand-four-chapter-structure",
+          "title": "Understand the four-chapter structure",
+          "title_i18n": {
+            "en": "Understand the four-chapter structure",
+            "pt": "Entenda a estrutura de quatro capítulos"
+          },
+          "description": "The opening is a short job; the other three chapters use score targets and ending meetings.",
+          "description_i18n": {
+            "en": "The opening is a short job; the other three chapters use score targets and ending meetings.",
+            "pt": "A abertura é um trabalho curto; os outros três capítulos usam metas de pontos e encontros finais."
+          }
+        },
+        {
+          "key": "plan-lives-and-chapter-saves",
+          "title": "Plan lives and chapter saves",
+          "title_i18n": {
+            "en": "Plan lives and chapter saves",
+            "pt": "Planeje as vidas e os salvamentos por capítulo"
+          },
+          "description": "Prepare for sustained chapter attempts rather than expecting a save after every contract.",
+          "description_i18n": {
+            "en": "Prepare for sustained chapter attempts rather than expecting a save after every contract.",
+            "pt": "Prepare-se para tentativas contínuas por capítulo, sem esperar um salvamento após cada contrato."
+          },
+          "details": "A chapter starts with five lives, with extra lives available during play. Treat the stage as one sustained attempt: normal progress is saved on chapter completion, not after every phone contract. A failed job cannot simply be selected again in that same attempt, so use another available source of score when following the campaign route. For a personal all-jobs clear, restart the chapter if a required contract has failed. Emulator save states are separate features and are not assumed by this original-PC checklist.",
+          "details_i18n": {
+            "en": "A chapter starts with five lives, with extra lives available during play. Treat the stage as one sustained attempt: normal progress is saved on chapter completion, not after every phone contract. A failed job cannot simply be selected again in that same attempt, so use another available source of score when following the campaign route. For a personal all-jobs clear, restart the chapter if a required contract has failed. Emulator save states are separate features and are not assumed by this original-PC checklist.",
+            "pt": "Um capítulo começa com cinco vidas, e é possível obter vidas extras durante a partida. Trate a etapa como uma tentativa contínua: o progresso normal é salvo ao concluir o capítulo, não após cada contrato. Um trabalho fracassado não pode simplesmente ser escolhido novamente na mesma tentativa; use outra fonte de pontos ao seguir a campanha. Para concluir pessoalmente todos os trabalhos, reinicie o capítulo se um contrato necessário falhar. Estados de emulador são recursos separados e não são pressupostos neste guia do PC original."
+          }
+        },
+        {
+          "key": "separate-campaign-and-full-clear",
+          "title": "Separate campaign and full-clear goals",
+          "title_i18n": {
+            "en": "Separate campaign and full-clear goals",
+            "pt": "Separe a campanha da conclusão integral"
+          },
+          "description": "Score-and-ending progress is the campaign route; every extra job and Kill Frenzy is a separate optional goal.",
+          "description_i18n": {
+            "en": "Score-and-ending progress is the campaign route; every extra job and Kill Frenzy is a separate optional goal.",
+            "pt": "A rota da campanha segue pontos e encerramentos; todos os trabalhos extras e Kill Frenzies são metas opcionais separadas."
+          }
+        }
+      ]
+    },
+    {
+      "key": "boys-will-be-thieves",
+      "title": "Boys Will Be Thieves",
+      "title_i18n": {
+        "en": "Boys Will Be Thieves",
+        "pt": "Boys Will Be Thieves"
+      },
+      "items": [
+        {
+          "key": "boys-answer-opening-phone",
+          "title": "Answer the opening phonebox",
+          "title_i18n": {
+            "en": "Answer the opening phonebox",
+            "pt": "Atenda ao telefone inicial"
+          },
+          "description": "Read Harold Cartwright's request and identify the vehicle he wants.",
+          "description_i18n": {
+            "en": "Read Harold Cartwright's request and identify the vehicle he wants.",
+            "pt": "Leia o pedido de Harold Cartwright e identifique o veículo solicitado."
+          }
+        },
+        {
+          "key": "boys-locate-chelsea-scooter",
+          "title": "Locate the Chelsea scooter",
+          "title_i18n": {
+            "en": "Locate the Chelsea scooter",
+            "pt": "Localize a scooter em Chelsea"
+          },
+          "description": "Follow the objective to the parked Mod Scooter in central Chelsea.",
+          "description_i18n": {
+            "en": "Follow the objective to the parked Mod Scooter in central Chelsea.",
+            "pt": "Siga o objetivo até a Mod Scooter estacionada em central Chelsea."
+          }
+        },
+        {
+          "key": "boys-deliver-requested-scooter",
+          "title": "Deliver the requested scooter",
+          "title_i18n": {
+            "en": "Deliver the requested scooter",
+            "pt": "Entregue a scooter solicitada"
+          },
+          "description": "Protect the scooter and follow the actual destination marker through the delivery.",
+          "description_i18n": {
+            "en": "Protect the scooter and follow the actual destination marker through the delivery.",
+            "pt": "Proteja a scooter e siga a marcação real do destino até concluir a entrega."
+          },
+          "details": "Take the parked Mod Scooter from central Chelsea and deliver that specific vehicle rather than substituting another scooter found in traffic. The dialogue mentions Mile End, but the actual delivery marker leads to Harold’s place in southeast Soho; follow the active destination instead of searching the spoken district indefinitely. Approach the entrance carefully and allow the handover and conversation to finish. This introductory chapter has no separate score threshold, so there is no need to farm points before meeting Harold.",
+          "details_i18n": {
+            "en": "Take the parked Mod Scooter from central Chelsea and deliver that specific vehicle rather than substituting another scooter found in traffic. The dialogue mentions Mile End, but the actual delivery marker leads to Harold’s place in southeast Soho; follow the active destination instead of searching the spoken district indefinitely. Approach the entrance carefully and allow the handover and conversation to finish. This introductory chapter has no separate score threshold, so there is no need to farm points before meeting Harold.",
+            "pt": "Pegue a Mod Scooter estacionada em central Chelsea e entregue esse veículo específico, sem substituí-lo por outra scooter do trânsito. O diálogo menciona Mile End, mas a marcação real leva ao local de Harold em southeast Soho; siga o destino ativo em vez de procurar indefinidamente no bairro citado. Aproxime-se da entrada com cuidado e deixe a entrega e a conversa terminarem. Este capítulo introdutório não tem uma meta separada de pontos; não é necessário acumulá-los antes de encontrar Harold."
+          }
+        },
+        {
+          "key": "boys-complete-harold-meeting",
+          "title": "Complete Harold's meeting",
+          "title_i18n": {
+            "en": "Complete Harold's meeting",
+            "pt": "Conclua o encontro com Harold"
+          },
+          "description": "Finish the introductory job and its ending conversation; no score grind is required here.",
+          "description_i18n": {
+            "en": "Finish the introductory job and its ending conversation; no score grind is required here.",
+            "pt": "Conclua o trabalho introdutório e a conversa final; não é necessário acumular pontos aqui."
+          }
+        },
+        {
+          "key": "boys-confirm-mods-unlock",
+          "title": "Confirm Mods and Sods is unlocked",
+          "title_i18n": {
+            "en": "Confirm Mods and Sods is unlocked",
+            "pt": "Confirme a liberação de Mods and Sods"
+          },
+          "description": "Let the chapter finish and continue to the first full scoring stage.",
+          "description_i18n": {
+            "en": "Let the chapter finish and continue to the first full scoring stage.",
+            "pt": "Deixe o capítulo terminar e prossiga à primeira etapa completa de pontuação."
+          }
+        }
+      ]
+    },
+    {
+      "key": "mods-and-sods",
+      "title": "Mods and Sods",
+      "title_i18n": {
+        "en": "Mods and Sods",
+        "pt": "Mods and Sods"
+      },
+      "items": [
+        {
+          "key": "mods-read-hundred-thousand-target",
+          "title": "Read the 100,000-point target",
+          "title_i18n": {
+            "en": "Read the 100,000-point target",
+            "pt": "Leia a meta de 100.000 pontos"
+          },
+          "description": "Begin Mods and Sods and confirm the target in the chapter display.",
+          "description_i18n": {
+            "en": "Begin Mods and Sods and confirm the target in the chapter display.",
+            "pt": "Comece Mods and Sods e confira a meta na tela do capítulo."
+          }
+        },
+        {
+          "key": "mods-find-southwest-city-phones",
+          "title": "Find the southwest City phoneboxes",
+          "title_i18n": {
+            "en": "Find the southwest City phoneboxes",
+            "pt": "Encontre os telefones de southwest City"
+          },
+          "description": "Inspect the four opening phoneboxes and choose available work.",
+          "description_i18n": {
+            "en": "Inspect the four opening phoneboxes and choose available work.",
+            "pt": "Examine os quatro telefones iniciais e escolha um trabalho disponível."
+          }
+        },
+        {
+          "key": "mods-complete-selected-phone-job",
+          "title": "Complete a selected phone job",
+          "title_i18n": {
+            "en": "Complete a selected phone job",
+            "pt": "Conclua um trabalho escolhido de telefone"
+          },
+          "description": "Follow the current contract through its changing objectives and payout.",
+          "description_i18n": {
+            "en": "Follow the current contract through its changing objectives and payout.",
+            "pt": "Acompanhe o contrato atual por seus objetivos sucessivos até o pagamento."
+          }
+        },
+        {
+          "key": "mods-read-follow-up-messages",
+          "title": "Read the follow-up messages",
+          "title_i18n": {
+            "en": "Read the follow-up messages",
+            "pt": "Leia as mensagens de continuação"
+          },
+          "description": "Check incoming walkie-talkie instructions before assuming your current task is over.",
+          "description_i18n": {
+            "en": "Check incoming walkie-talkie instructions before assuming your current task is over.",
+            "pt": "Confira as instruções recebidas por rádio antes de presumir que a tarefa terminou."
+          }
+        },
+        {
+          "key": "mods-plan-westminster-chelsea-routes",
+          "title": "Plan Westminster and Chelsea routes",
+          "title_i18n": {
+            "en": "Plan Westminster and Chelsea routes",
+            "pt": "Planeje as rotas de Westminster e Chelsea"
+          },
+          "description": "Use district labels and bridge approaches to reduce long detours.",
+          "description_i18n": {
+            "en": "Use district labels and bridge approaches to reduce long detours.",
+            "pt": "Use os nomes dos bairros e os acessos às pontes para reduzir desvios longos."
+          }
+        },
+        {
+          "key": "mods-build-score-multiplier",
+          "title": "Build the score multiplier",
+          "title_i18n": {
+            "en": "Build the score multiplier",
+            "pt": "Aumente o multiplicador de pontos"
+          },
+          "description": "Use successful work to improve later payouts while protecting the current run.",
+          "description_i18n": {
+            "en": "Use successful work to improve later payouts while protecting the current run.",
+            "pt": "Use trabalhos bem-sucedidos para melhorar os pagamentos posteriores e preservar a partida."
+          },
+          "details": "Each successful mission increases the Bonus Multiplier, so preserving a useful early streak makes the modest hundred-thousand-point target easier. The publisher’s London manual says death removes weapons but retains the multiplier, whereas arrest normally removes weapons and halves the multiplier while clearing the wanted level. A Get Out of Jail Free pickup protects against those arrest penalties. After a setback, inspect the inventory and current instructions before taking another contract; an objective may still expect a particular weapon or vehicle.",
+          "details_i18n": {
+            "en": "Each successful mission increases the Bonus Multiplier, so preserving a useful early streak makes the modest hundred-thousand-point target easier. The publisher’s London manual says death removes weapons but retains the multiplier, whereas arrest normally removes weapons and halves the multiplier while clearing the wanted level. A Get Out of Jail Free pickup protects against those arrest penalties. After a setback, inspect the inventory and current instructions before taking another contract; an objective may still expect a particular weapon or vehicle.",
+            "pt": "Cada missão bem-sucedida aumenta o Bonus Multiplier; preservar uma sequência inicial útil facilita alcançar os cem mil pontos. O manual de London informa que morrer remove as armas, mas mantém o multiplicador; a prisão normalmente remove as armas e reduz o multiplicador à metade enquanto encerra a perseguição. O item Get Out of Jail Free protege contra essas penalidades da prisão. Após um revés, confira o inventário e as instruções antes de aceitar outro contrato; um objetivo ainda pode exigir determinada arma ou veículo."
+          }
+        },
+        {
+          "key": "mods-select-extra-work-if-needed",
+          "title": "Select extra work if needed",
+          "title_i18n": {
+            "en": "Select extra work if needed",
+            "pt": "Escolha trabalho extra se necessário"
+          },
+          "description": "Consider available follow-ups or mission vehicles when more score is needed.",
+          "description_i18n": {
+            "en": "Consider available follow-ups or mission vehicles when more score is needed.",
+            "pt": "Considere continuações disponíveis ou veículos de missão quando precisar de mais pontos."
+          }
+        },
+        {
+          "key": "mods-reach-hundred-thousand",
+          "title": "Reach 100,000 points",
+          "title_i18n": {
+            "en": "Reach 100,000 points",
+            "pt": "Alcance 100.000 pontos"
+          },
+          "description": "Confirm the target and read the chapter-ending instruction.",
+          "description_i18n": {
+            "en": "Confirm the target and read the chapter-ending instruction.",
+            "pt": "Confirme a meta e leia a instrução de encerramento do capítulo."
+          }
+        },
+        {
+          "key": "mods-follow-final-meeting-marker",
+          "title": "Follow the final meeting marker",
+          "title_i18n": {
+            "en": "Follow the final meeting marker",
+            "pt": "Siga a marcação do encontro final"
+          },
+          "description": "Resolve any active objective and travel to the contact's indicated meeting.",
+          "description_i18n": {
+            "en": "Resolve any active objective and travel to the contact's indicated meeting.",
+            "pt": "Resolva o objetivo ativo e viaje ao encontro indicado pelo contato."
+          },
+          "details": "Once you reach one hundred thousand points, read the ending message and travel to Jack Parkinson’s meeting in the Mile End area. Use the marked building entrance rather than following the arrow through an inaccessible wall or courtyard. Let the final conversation finish so the chapter result and next stage are recorded. If you are completing every optional phone, radio and vehicle job, postpone this meeting until that separate ledger is finished; the score requirement does not demand all thirteen chapter jobs.",
+          "details_i18n": {
+            "en": "Once you reach one hundred thousand points, read the ending message and travel to Jack Parkinson’s meeting in the Mile End area. Use the marked building entrance rather than following the arrow through an inaccessible wall or courtyard. Let the final conversation finish so the chapter result and next stage are recorded. If you are completing every optional phone, radio and vehicle job, postpone this meeting until that separate ledger is finished; the score requirement does not demand all thirteen chapter jobs.",
+            "pt": "Ao alcançar cem mil pontos, leia a mensagem final e viaje ao encontro de Jack Parkinson na região de Mile End. Use a entrada do prédio marcado em vez de seguir a seta através de uma parede ou pátio inacessível. Deixe a conversa terminar para registrar o resultado e a etapa seguinte. Se estiver concluindo todos os trabalhos opcionais de telefone, rádio e veículo, adie o encontro até terminar esse registro separado; a meta de pontos não exige os treze trabalhos do capítulo."
+          }
+        },
+        {
+          "key": "mods-complete-chapter-ending",
+          "title": "Complete the Mods and Sods ending",
+          "title_i18n": {
+            "en": "Complete the Mods and Sods ending",
+            "pt": "Conclua o encerramento de Mods and Sods"
+          },
+          "description": "Finish the meeting scene and unlock Chelsea Smile.",
+          "description_i18n": {
+            "en": "Finish the meeting scene and unlock Chelsea Smile.",
+            "pt": "Termine a cena do encontro e libere Chelsea Smile."
+          }
+        }
+      ]
+    },
+    {
+      "key": "chelsea-smile",
+      "title": "Chelsea Smile",
+      "title_i18n": {
+        "en": "Chelsea Smile",
+        "pt": "Chelsea Smile"
+      },
+      "items": [
+        {
+          "key": "chelsea-read-two-hundred-thousand-target",
+          "title": "Read the 200,000-point target",
+          "title_i18n": {
+            "en": "Read the 200,000-point target",
+            "pt": "Leia a meta de 200.000 pontos"
+          },
+          "description": "Begin Chelsea Smile and inspect the chapter's new work opportunities.",
+          "description_i18n": {
+            "en": "Begin Chelsea Smile and inspect the chapter's new work opportunities.",
+            "pt": "Comece Chelsea Smile e confira as novas oportunidades do capítulo."
+          }
+        },
+        {
+          "key": "chelsea-find-northwest-bow-phones",
+          "title": "Find the northwest Bow phoneboxes",
+          "title_i18n": {
+            "en": "Find the northwest Bow phoneboxes",
+            "pt": "Encontre os telefones de northwest Bow"
+          },
+          "description": "Locate the three phoneboxes and read the contract you choose.",
+          "description_i18n": {
+            "en": "Locate the three phoneboxes and read the contract you choose.",
+            "pt": "Localize os três telefones e leia o contrato escolhido."
+          }
+        },
+        {
+          "key": "chelsea-finish-contract-continuations",
+          "title": "Finish a contract's continuations",
+          "title_i18n": {
+            "en": "Finish a contract's continuations",
+            "pt": "Conclua as continuações de um contrato"
+          },
+          "description": "Follow automatically supplied stages instead of stopping after the first payout or destination.",
+          "description_i18n": {
+            "en": "Follow automatically supplied stages instead of stopping after the first payout or destination.",
+            "pt": "Siga as etapas fornecidas automaticamente em vez de parar após o primeiro pagamento ou destino."
+          },
+          "details": "The three northwest Bow phoneboxes supply eight mission segments between them, rather than only three single jobs. Read each new message after a delivery or confrontation, since a contract can immediately continue with another target, vehicle or pickup. Keep the named vehicle until instructions release it, and wait for required passengers to board before leaving. For the ordinary campaign route, reaching two hundred thousand points and completing the ending is sufficient; the full eight-segment phone set belongs to the optional all-jobs goal.",
+          "details_i18n": {
+            "en": "The three northwest Bow phoneboxes supply eight mission segments between them, rather than only three single jobs. Read each new message after a delivery or confrontation, since a contract can immediately continue with another target, vehicle or pickup. Keep the named vehicle until instructions release it, and wait for required passengers to board before leaving. For the ordinary campaign route, reaching two hundred thousand points and completing the ending is sufficient; the full eight-segment phone set belongs to the optional all-jobs goal.",
+            "pt": "Os três telefones de northwest Bow fornecem oito segmentos de missão ao todo, não apenas três trabalhos isolados. Leia cada mensagem nova após uma entrega ou confronto, pois o contrato pode continuar imediatamente com outro alvo, veículo ou item. Mantenha o veículo indicado até as instruções permitirem trocá-lo e espere os passageiros exigidos embarcarem antes de partir. Na campanha normal, basta alcançar duzentos mil pontos e concluir o encerramento; os oito segmentos dos telefones fazem parte da meta opcional de todos os trabalhos."
+          }
+        },
+        {
+          "key": "chelsea-protect-special-vehicles",
+          "title": "Protect special mission vehicles",
+          "title_i18n": {
+            "en": "Protect special mission vehicles",
+            "pt": "Proteja os veículos especiais das missões"
+          },
+          "description": "Keep the named passenger or vehicle intact when a contract requires a specific delivery.",
+          "description_i18n": {
+            "en": "Keep the named passenger or vehicle intact when a contract requires a specific delivery.",
+            "pt": "Preserve o passageiro ou veículo indicado quando o contrato exigir uma entrega específica."
+          }
+        },
+        {
+          "key": "chelsea-prepare-timed-city-crossing",
+          "title": "Prepare a timed city crossing",
+          "title_i18n": {
+            "en": "Prepare a timed city crossing",
+            "pt": "Prepare uma travessia cronometrada"
+          },
+          "description": "Identify the destination approach before accelerating into unfamiliar streets.",
+          "description_i18n": {
+            "en": "Identify the destination approach before accelerating into unfamiliar streets.",
+            "pt": "Identifique o acesso ao destino antes de acelerar por ruas desconhecidas."
+          }
+        },
+        {
+          "key": "chelsea-check-walkie-follow-up",
+          "title": "Check the walkie-talkie follow-up",
+          "title_i18n": {
+            "en": "Check the walkie-talkie follow-up",
+            "pt": "Confira a continuação pelo rádio"
+          },
+          "description": "Read the later incoming assignment when its prerequisite work is resolved.",
+          "description_i18n": {
+            "en": "Read the later incoming assignment when its prerequisite work is resolved.",
+            "pt": "Leia a tarefa posterior recebida quando os trabalhos necessários forem resolvidos."
+          }
+        },
+        {
+          "key": "chelsea-close-remaining-score-gap",
+          "title": "Close the remaining score gap",
+          "title_i18n": {
+            "en": "Close the remaining score gap",
+            "pt": "Complete os pontos restantes"
+          },
+          "description": "Use manageable available contracts or vehicle work to approach the score target.",
+          "description_i18n": {
+            "en": "Use manageable available contracts or vehicle work to approach the score target.",
+            "pt": "Use contratos ou trabalhos de veículos viáveis para se aproximar da meta."
+          }
+        },
+        {
+          "key": "chelsea-reach-two-hundred-thousand",
+          "title": "Reach 200,000 points",
+          "title_i18n": {
+            "en": "Reach 200,000 points",
+            "pt": "Alcance 200.000 pontos"
+          },
+          "description": "Confirm sufficient score and inspect the next message.",
+          "description_i18n": {
+            "en": "Confirm sufficient score and inspect the next message.",
+            "pt": "Confirme que possui pontos suficientes e confira a mensagem seguinte."
+          }
+        },
+        {
+          "key": "chelsea-travel-to-ending-contact",
+          "title": "Travel to the ending contact",
+          "title_i18n": {
+            "en": "Travel to the ending contact",
+            "pt": "Viaje até o contato final"
+          },
+          "description": "Use the final marker and the actual road entrance to reach the meeting.",
+          "description_i18n": {
+            "en": "Use the final marker and the actual road entrance to reach the meeting.",
+            "pt": "Use a marcação final e a entrada real pela rua para alcançar o encontro."
+          }
+        },
+        {
+          "key": "chelsea-complete-chapter-ending",
+          "title": "Complete the Chelsea Smile ending",
+          "title_i18n": {
+            "en": "Complete the Chelsea Smile ending",
+            "pt": "Conclua o encerramento de Chelsea Smile"
+          },
+          "description": "Finish the concluding scene and unlock Dead Certainty.",
+          "description_i18n": {
+            "en": "Finish the concluding scene and unlock Dead Certainty.",
+            "pt": "Conclua a cena de encerramento e libere Dead Certainty."
+          }
+        }
+      ]
+    },
+    {
+      "key": "dead-certainty-and-finale",
+      "title": "Dead Certainty and the finale",
+      "title_i18n": {
+        "en": "Dead Certainty and the finale",
+        "pt": "Dead Certainty e o desfecho"
+      },
+      "items": [
+        {
+          "key": "dead-read-three-hundred-thousand-target",
+          "title": "Read the 300,000-point target",
+          "title_i18n": {
+            "en": "Read the 300,000-point target",
+            "pt": "Leia a meta de 300.000 pontos"
+          },
+          "description": "Begin the final chapter and confirm its score requirement.",
+          "description_i18n": {
+            "en": "Begin the final chapter and confirm its score requirement.",
+            "pt": "Comece o capítulo final e confira sua exigência de pontuação."
+          }
+        },
+        {
+          "key": "dead-find-west-angel-phones",
+          "title": "Find the West Angel phoneboxes",
+          "title_i18n": {
+            "en": "Find the West Angel phoneboxes",
+            "pt": "Encontre os telefones de West Angel"
+          },
+          "description": "Inspect the four starting phoneboxes and choose a contract.",
+          "description_i18n": {
+            "en": "Inspect the four starting phoneboxes and choose a contract.",
+            "pt": "Examine os quatro telefones iniciais e escolha um contrato."
+          }
+        },
+        {
+          "key": "dead-complete-selected-multipart-work",
+          "title": "Complete selected multipart work",
+          "title_i18n": {
+            "en": "Complete selected multipart work",
+            "pt": "Conclua trabalhos escolhidos com várias partes"
+          },
+          "description": "Follow each new instruction until the selected contract is resolved.",
+          "description_i18n": {
+            "en": "Follow each new instruction until the selected contract is resolved.",
+            "pt": "Siga cada nova instrução até resolver o contrato escolhido."
+          }
+        },
+        {
+          "key": "dead-review-combat-and-time-limits",
+          "title": "Review combat and time limits",
+          "title_i18n": {
+            "en": "Review combat and time limits",
+            "pt": "Confira as condições de combate e tempo"
+          },
+          "description": "Prepare equipment and a suitable vehicle before a contract's more demanding stage.",
+          "description_i18n": {
+            "en": "Prepare equipment and a suitable vehicle before a contract's more demanding stage.",
+            "pt": "Prepare equipamento e um veículo adequado antes da etapa mais exigente de um contrato."
+          },
+          "details": "One West Angel phone chain asks for two Mynis, then introduces a tuned red Myni test in northeast Bermondsey. Follow the individual delivery markers for the first cars before beginning the test. Stay with the red test car through its forty-second driving section, choosing open roads and avoiding collisions instead of taking tight shortcuts. Read the next instruction before swapping vehicles: the later Sweets Van armor demonstration is another stage of the same chain, not permission to wander away.",
+          "details_i18n": {
+            "en": "One West Angel phone chain asks for two Mynis, then introduces a tuned red Myni test in northeast Bermondsey. Follow the individual delivery markers for the first cars before beginning the test. Stay with the red test car through its forty-second driving section, choosing open roads and avoiding collisions instead of taking tight shortcuts. Read the next instruction before swapping vehicles: the later Sweets Van armor demonstration is another stage of the same chain, not permission to wander away.",
+            "pt": "Uma sequência de West Angel pede dois Mynis e depois apresenta o teste de um Myni vermelho modificado em northeast Bermondsey. Siga as marcações individuais de entrega dos primeiros carros antes do teste. Permaneça com o veículo vermelho durante a etapa de direção de quarenta segundos, escolhendo ruas abertas e evitando colisões em vez de atalhos apertados. Leia a instrução seguinte antes de trocar de veículo: a demonstração posterior de blindagem do Sweets Van é outra etapa da mesma sequência, não uma oportunidade para abandonar o trabalho."
+          }
+        },
+        {
+          "key": "dead-protect-required-passengers",
+          "title": "Protect required passengers",
+          "title_i18n": {
+            "en": "Protect required passengers",
+            "pt": "Proteja os passageiros exigidos"
+          },
+          "description": "Watch boarding and drop-off objectives rather than driving away as soon as a contact appears.",
+          "description_i18n": {
+            "en": "Watch boarding and drop-off objectives rather than driving away as soon as a contact appears.",
+            "pt": "Observe os objetivos de embarque e desembarque em vez de partir assim que um contato aparecer."
+          }
+        },
+        {
+          "key": "dead-select-vehicle-work-if-needed",
+          "title": "Select vehicle work if needed",
+          "title_i18n": {
+            "en": "Select vehicle work if needed",
+            "pt": "Escolha trabalhos de veículos se necessário"
+          },
+          "description": "Use available mission vehicles as another score source while keeping all-jobs goals optional.",
+          "description_i18n": {
+            "en": "Use available mission vehicles as another score source while keeping all-jobs goals optional.",
+            "pt": "Use veículos de missão disponíveis como outra fonte de pontos, mantendo a meta de todos os trabalhos como opcional."
+          }
+        },
+        {
+          "key": "dead-check-lives-and-multiplier",
+          "title": "Check lives and multiplier",
+          "title_i18n": {
+            "en": "Check lives and multiplier",
+            "pt": "Confira as vidas e o multiplicador"
+          },
+          "description": "Review the run's condition before committing to the final scoring push.",
+          "description_i18n": {
+            "en": "Review the run's condition before committing to the final scoring push.",
+            "pt": "Revise a condição da partida antes de iniciar a última etapa de pontuação."
+          }
+        },
+        {
+          "key": "dead-reach-three-hundred-thousand",
+          "title": "Reach 300,000 points",
+          "title_i18n": {
+            "en": "Reach 300,000 points",
+            "pt": "Alcance 300.000 pontos"
+          },
+          "description": "Meet the target and read the final objective carefully.",
+          "description_i18n": {
+            "en": "Meet the target and read the final objective carefully.",
+            "pt": "Cumpra a meta e leia com cuidado o objetivo final."
+          }
+        },
+        {
+          "key": "dead-complete-final-objective",
+          "title": "Complete the final objective",
+          "title_i18n": {
+            "en": "Complete the final objective",
+            "pt": "Conclua o objetivo final"
+          },
+          "description": "Follow the ending instructions through their actual completion rather than stopping at the score threshold.",
+          "description_i18n": {
+            "en": "Follow the ending instructions through their actual completion rather than stopping at the score threshold.",
+            "pt": "Siga as instruções finais até sua conclusão real, sem parar ao atingir a pontuação."
+          },
+          "details": "At three hundred thousand points, the ending requires a final vehicle confrontation rather than only standing at a meeting point. Look for the Crisp Twins’ distinctive light-green Crapi with a dark bonnet around the Mile End approach indicated by the red marker. The marker can indicate the route’s starting position while the car moves away, so check nearby roads if the exact arrow position is empty. Destroy the correct target, then allow the ending scene and credits to finish. This solution is separate from the optional all-contracts ledger.",
+          "details_i18n": {
+            "en": "At three hundred thousand points, the ending requires a final vehicle confrontation rather than only standing at a meeting point. Look for the Crisp Twins’ distinctive light-green Crapi with a dark bonnet around the Mile End approach indicated by the red marker. The marker can indicate the route’s starting position while the car moves away, so check nearby roads if the exact arrow position is empty. Destroy the correct target, then allow the ending scene and credits to finish. This solution is separate from the optional all-contracts ledger.",
+            "pt": "Ao alcançar trezentos mil pontos, o encerramento exige um confronto final com um veículo, não apenas chegar a um encontro. Procure o Crapi verde-claro dos Crisp Twins com capô escuro na aproximação de Mile End indicada pela marcação vermelha. Ela pode apontar o início do trajeto enquanto o carro se afasta; confira as ruas próximas se a posição exata estiver vazia. Destrua o alvo correto e deixe a cena final e os créditos terminarem. Esta solução é separada do registro opcional de todos os contratos."
+          }
+        },
+        {
+          "key": "dead-finish-campaign-results",
+          "title": "Finish the campaign and results",
+          "title_i18n": {
+            "en": "Finish the campaign and results",
+            "pt": "Conclua a campanha e confira os resultados"
+          },
+          "description": "Watch the final scene and credits, then review all four chapter milestones.",
+          "description_i18n": {
+            "en": "Watch the final scene and credits, then review all four chapter milestones.",
+            "pt": "Assista à cena final e aos créditos e depois revise as metas dos quatro capítulos."
+          }
+        }
+      ]
+    },
+    {
+      "key": "optional-complete-phone-and-radio-work",
+      "title": "Optional complete phone and radio work",
+      "title_i18n": {
+        "en": "Optional complete phone and radio work",
+        "pt": "Trabalhos completos opcionais de telefone e rádio"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "optional-mods-all-phoneboxes",
+          "title": "Finish all Mods and Sods phonebox jobs",
+          "title_i18n": {
+            "en": "Finish all Mods and Sods phonebox jobs",
+            "pt": "Conclua todos os trabalhos de telefone de Mods and Sods"
+          },
+          "description": "On a dedicated run, complete all four phonebox jobs rather than leaving at the score threshold.",
+          "description_i18n": {
+            "en": "On a dedicated run, complete all four phonebox jobs rather than leaving at the score threshold.",
+            "pt": "Numa partida dedicada, conclua os quatro trabalhos de telefone em vez de sair ao atingir a meta de pontos."
+          }
+        },
+        {
+          "key": "optional-mods-walkie-talkie-chain",
+          "title": "Finish the Mods and Sods walkie-talkie chain",
+          "title_i18n": {
+            "en": "Finish the Mods and Sods walkie-talkie chain",
+            "pt": "Conclua a sequência de rádio de Mods and Sods"
+          },
+          "description": "Track the six follow-up assignments and their actual completion messages.",
+          "description_i18n": {
+            "en": "Track the six follow-up assignments and their actual completion messages.",
+            "pt": "Acompanhe as seis tarefas seguintes e suas mensagens reais de conclusão."
+          }
+        },
+        {
+          "key": "optional-chelsea-phonebox-chains",
+          "title": "Finish the Chelsea Smile phonebox chains",
+          "title_i18n": {
+            "en": "Finish the Chelsea Smile phonebox chains",
+            "pt": "Conclua as sequências de telefone de Chelsea Smile"
+          },
+          "description": "Track all eight mission segments supplied by the three starting phoneboxes.",
+          "description_i18n": {
+            "en": "Track all eight mission segments supplied by the three starting phoneboxes.",
+            "pt": "Acompanhe os oito segmentos de missão fornecidos pelos três telefones iniciais."
+          }
+        },
+        {
+          "key": "optional-chelsea-hans-nemesis-follow-up",
+          "title": "Finish the Hans Nemesis follow-up",
+          "title_i18n": {
+            "en": "Finish the Hans Nemesis follow-up",
+            "pt": "Conclua a continuação de Hans Nemesis"
+          },
+          "description": "Follow the later Chelsea Smile radio assignment through its final objective.",
+          "description_i18n": {
+            "en": "Follow the later Chelsea Smile radio assignment through its final objective.",
+            "pt": "Siga a tarefa posterior de rádio de Chelsea Smile até seu objetivo final."
+          },
+          "details": "When the later radio assignment arrives, follow its marked vehicle chain rather than looking only for another ringing phone. The stolen ICBM has a seventy-five-second delivery to the northwest Brixton garage, so plan that road approach before driving the large truck. After the garage confrontation, follow the next markers to recover the codes from the specified cars, then return to the ICBM as instructed. Preserve those cars long enough to collect their objectives; destroying every marked vehicle can ruin the recovery.",
+          "details_i18n": {
+            "en": "When the later radio assignment arrives, follow its marked vehicle chain rather than looking only for another ringing phone. The stolen ICBM has a seventy-five-second delivery to the northwest Brixton garage, so plan that road approach before driving the large truck. After the garage confrontation, follow the next markers to recover the codes from the specified cars, then return to the ICBM as instructed. Preserve those cars long enough to collect their objectives; destroying every marked vehicle can ruin the recovery.",
+            "pt": "Quando a tarefa posterior chegar pelo rádio, siga a sequência de veículos marcada em vez de procurar apenas outro telefone tocando. O ICBM roubado tem uma entrega de setenta e cinco segundos até a garagem de northwest Brixton; planeje esse acesso antes de conduzir o caminhão grande. Após o confronto na garagem, siga as marcações para recuperar os códigos nos carros indicados e volte ao ICBM conforme solicitado. Preserve esses carros até obter seus objetivos; destruir todo veículo marcado pode arruinar a recuperação."
+          }
+        },
+        {
+          "key": "optional-dead-phonebox-chains",
+          "title": "Finish the Dead Certainty phonebox chains",
+          "title_i18n": {
+            "en": "Finish the Dead Certainty phonebox chains",
+            "pt": "Conclua as sequências de telefone de Dead Certainty"
+          },
+          "description": "Track all nine segments from the four West Angel phoneboxes on an optional full-clear run.",
+          "description_i18n": {
+            "en": "Track all nine segments from the four West Angel phoneboxes on an optional full-clear run.",
+            "pt": "Acompanhe os nove segmentos dos quatro telefones de West Angel numa partida opcional de conclusão integral."
+          }
+        }
+      ]
+    },
+    {
+      "key": "optional-london-vehicle-contracts",
+      "title": "Optional London vehicle contracts",
+      "title_i18n": {
+        "en": "Optional London vehicle contracts",
+        "pt": "Contratos opcionais com veículos de Londres"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "optional-mods-royal-stretch",
+          "title": "Mods and Sods: Royal Stretch",
+          "title_i18n": {
+            "en": "Mods and Sods: Royal Stretch",
+            "pt": "Mods and Sods: conclua Royal Stretch"
+          },
+          "description": "Find the mission limousine in North Chelsea and complete its passenger delivery.",
+          "description_i18n": {
+            "en": "Find the mission limousine in North Chelsea and complete its passenger delivery.",
+            "pt": "Encontre a limusine de missão em North Chelsea e conclua a entrega do passageiro."
+          }
+        },
+        {
+          "key": "optional-mods-crapi",
+          "title": "Mods and Sods: Crapi",
+          "title_i18n": {
+            "en": "Mods and Sods: Crapi",
+            "pt": "Mods and Sods: conclua Crapi"
+          },
+          "description": "Investigate the mission car in North Soho and follow its urgent passenger objective.",
+          "description_i18n": {
+            "en": "Investigate the mission car in North Soho and follow its urgent passenger objective.",
+            "pt": "Investigue o carro de missão em North Soho e siga o objetivo urgente do passageiro."
+          }
+        },
+        {
+          "key": "optional-mods-ranger",
+          "title": "Mods and Sods: Ranger",
+          "title_i18n": {
+            "en": "Mods and Sods: Ranger",
+            "pt": "Mods and Sods: conclua Ranger"
+          },
+          "description": "Find the mission Ranger near the Brixton hospital and read its instructions before driving away.",
+          "description_i18n": {
+            "en": "Find the mission Ranger near the Brixton hospital and read its instructions before driving away.",
+            "pt": "Encontre o Ranger de missão perto do hospital de Brixton e leia as instruções antes de partir."
+          }
+        },
+        {
+          "key": "optional-chelsea-copper",
+          "title": "Chelsea Smile: Copper",
+          "title_i18n": {
+            "en": "Chelsea Smile: Copper",
+            "pt": "Chelsea Smile: conclua Copper"
+          },
+          "description": "Find the mission car near Westminster Abbey and complete the marked delivery.",
+          "description_i18n": {
+            "en": "Find the mission car near Westminster Abbey and complete the marked delivery.",
+            "pt": "Encontre o carro de missão perto de Westminster Abbey e conclua a entrega indicada."
+          }
+        },
+        {
+          "key": "optional-chelsea-tanker",
+          "title": "Chelsea Smile: Tanker",
+          "title_i18n": {
+            "en": "Chelsea Smile: Tanker",
+            "pt": "Chelsea Smile: conclua Tanker"
+          },
+          "description": "Investigate the Tanker in central Bow and follow the delivery and safety instructions.",
+          "description_i18n": {
+            "en": "Investigate the Tanker in central Bow and follow the delivery and safety instructions.",
+            "pt": "Investigue o Tanker em central Bow e siga as instruções de entrega e segurança."
+          }
+        },
+        {
+          "key": "optional-chelsea-ranger",
+          "title": "Chelsea Smile: Ranger",
+          "title_i18n": {
+            "en": "Chelsea Smile: Ranger",
+            "pt": "Chelsea Smile: conclua Ranger"
+          },
+          "description": "Find the separate Ranger contract in southwest Bermondsey and deliver the vehicle.",
+          "description_i18n": {
+            "en": "Find the separate Ranger contract in southwest Bermondsey and deliver the vehicle.",
+            "pt": "Encontre o contrato separado do Ranger em southwest Bermondsey e entregue o veículo."
+          }
+        },
+        {
+          "key": "optional-dead-royal-pain",
+          "title": "Dead Certainty: Royal Pain",
+          "title_i18n": {
+            "en": "Dead Certainty: Royal Pain",
+            "pt": "Dead Certainty: conclua Royal Pain"
+          },
+          "description": "Find the mission tank in northwest Bow and complete its delivery objective.",
+          "description_i18n": {
+            "en": "Find the mission tank in northwest Bow and complete its delivery objective.",
+            "pt": "Encontre o tanque de missão em northwest Bow e conclua o objetivo de entrega."
+          }
+        },
+        {
+          "key": "optional-dead-sweets-van",
+          "title": "Dead Certainty: Sweets Van",
+          "title_i18n": {
+            "en": "Dead Certainty: Sweets Van",
+            "pt": "Dead Certainty: conclua Sweets Van"
+          },
+          "description": "Find the mission van in northwest Southwark and follow its marked route.",
+          "description_i18n": {
+            "en": "Find the mission van in northwest Southwark and follow its marked route.",
+            "pt": "Encontre a van de missão em northwest Southwark e siga a rota indicada."
+          }
+        },
+        {
+          "key": "optional-dead-double-decker",
+          "title": "Dead Certainty: Double Decker",
+          "title_i18n": {
+            "en": "Dead Certainty: Double Decker",
+            "pt": "Dead Certainty: conclua Double Decker"
+          },
+          "description": "Find the abandoned mission bus in southeast Hyde Park and complete its delivery.",
+          "description_i18n": {
+            "en": "Find the abandoned mission bus in southeast Hyde Park and complete its delivery.",
+            "pt": "Encontre o ônibus de missão abandonado em southeast Hyde Park e conclua sua entrega."
+          }
+        },
+        {
+          "key": "optional-dead-james-bomb-pc",
+          "title": "Dead Certainty: James Bomb, PC only",
+          "title_i18n": {
+            "en": "Dead Certainty: James Bomb, PC only",
+            "pt": "Dead Certainty: James Bomb, exclusivo do PC"
+          },
+          "description": "Investigate the special car in North Brixton for this PC-exclusive contract.",
+          "description_i18n": {
+            "en": "Investigate the special car in North Brixton for this PC-exclusive contract.",
+            "pt": "Investigue o carro especial em North Brixton para este contrato exclusivo do PC."
+          }
+        }
+      ]
+    },
+    {
+      "key": "aggregate-optional-completion-goals",
+      "title": "Aggregate optional completion goals",
+      "title_i18n": {
+        "en": "Aggregate optional completion goals",
+        "pt": "Metas gerais opcionais de conclusão"
+      },
+      "kind": "collectible",
+      "items": [
+        {
+          "key": "optional-mods-seven-kill-frenzies",
+          "title": "Complete Mods and Sods' seven Kill Frenzies",
+          "title_i18n": {
+            "en": "Complete Mods and Sods' seven Kill Frenzies",
+            "pt": "Conclua os sete Kill Frenzies de Mods and Sods"
+          },
+          "description": "Use a chapter-specific list and record successful challenges separately from pickup discovery.",
+          "description_i18n": {
+            "en": "Use a chapter-specific list and record successful challenges separately from pickup discovery.",
+            "pt": "Use uma lista própria do capítulo e registre os desafios bem-sucedidos separadamente da descoberta dos itens."
+          }
+        },
+        {
+          "key": "optional-chelsea-seven-kill-frenzies",
+          "title": "Complete Chelsea Smile's seven Kill Frenzies",
+          "title_i18n": {
+            "en": "Complete Chelsea Smile's seven Kill Frenzies",
+            "pt": "Conclua os sete Kill Frenzies de Chelsea Smile"
+          },
+          "description": "Prepare each challenge's actual weapon, target and time requirements before starting.",
+          "description_i18n": {
+            "en": "Prepare each challenge's actual weapon, target and time requirements before starting.",
+            "pt": "Prepare os requisitos reais de arma, alvo e tempo de cada desafio antes de começar."
+          },
+          "details": "The introduction has no Kill Frenzies; each of the other three chapters has seven, making twenty-one optional challenges. Inspect the surrounding roads before activating a pickup, then read the exact weapon, target and timer conditions. Some challenges count particular targets or damage instead of ordinary kills. Keep a separate note of successful results: finding a pickup or increasing the chapter’s secrets count does not by itself prove the challenge was completed. Full optional coverage requires the three chapter-specific sets, not repeating one chapter’s seven.",
+          "details_i18n": {
+            "en": "The introduction has no Kill Frenzies; each of the other three chapters has seven, making twenty-one optional challenges. Inspect the surrounding roads before activating a pickup, then read the exact weapon, target and timer conditions. Some challenges count particular targets or damage instead of ordinary kills. Keep a separate note of successful results: finding a pickup or increasing the chapter’s secrets count does not by itself prove the challenge was completed. Full optional coverage requires the three chapter-specific sets, not repeating one chapter’s seven.",
+            "pt": "A introdução não tem Kill Frenzies; cada um dos outros três capítulos tem sete, somando vinte e um desafios opcionais. Examine as ruas próximas antes de ativar um item e leia as condições exatas de arma, alvo e tempo. Alguns desafios contam tipos específicos de alvos ou dano, não mortes comuns. Anote os resultados bem-sucedidos separadamente: achar um item ou aumentar a contagem de segredos não comprova a conclusão do desafio. A meta completa exige os conjuntos dos três capítulos, não repetir os sete de apenas um."
+          }
+        },
+        {
+          "key": "optional-dead-seven-kill-frenzies",
+          "title": "Complete Dead Certainty's seven Kill Frenzies",
+          "title_i18n": {
+            "en": "Complete Dead Certainty's seven Kill Frenzies",
+            "pt": "Conclua os sete Kill Frenzies de Dead Certainty"
+          },
+          "description": "Treat the final chapter's seven challenges as a separate optional endurance goal.",
+          "description_i18n": {
+            "en": "Treat the final chapter's seven challenges as a separate optional endurance goal.",
+            "pt": "Trate os sete desafios do capítulo final como uma meta opcional separada de resistência."
+          }
+        },
+        {
+          "key": "optional-track-all-pc-jobs-and-endings",
+          "title": "Track all PC jobs and endings",
+          "title_i18n": {
+            "en": "Track all PC jobs and endings",
+            "pt": "Registre todos os trabalhos e finais do PC"
+          },
+          "description": "Use the aggregate checklist for 39 jobs and four ending sequences; individual phone-stage locations are not exhaustively listed here.",
+          "description_i18n": {
+            "en": "Use the aggregate checklist for 39 jobs and four ending sequences; individual phone-stage locations are not exhaustively listed here.",
+            "pt": "Use a lista geral para 39 trabalhos e quatro sequências finais; os locais individuais das etapas de telefone não são enumerados integralmente aqui."
+          },
+          "details": "This optional ledger counts thirty-nine playable PC jobs: one introductory scooter job, thirteen in Mods and Sods, twelve in Chelsea Smile and thirteen in Dead Certainty. The four chapter-ending sequences are tracked separately, explaining references that list forty-three missions when endings are included. The PC-only James Bomb contract is part of the final chapter’s vehicle set. Use a chapter-specific external checklist for every phone segment, radio assignment and vehicle trigger. There is no official percentage meter or native trophy for this community full-clear goal.",
+          "details_i18n": {
+            "en": "This optional ledger counts thirty-nine playable PC jobs: one introductory scooter job, thirteen in Mods and Sods, twelve in Chelsea Smile and thirteen in Dead Certainty. The four chapter-ending sequences are tracked separately, explaining references that list forty-three missions when endings are included. The PC-only James Bomb contract is part of the final chapter’s vehicle set. Use a chapter-specific external checklist for every phone segment, radio assignment and vehicle trigger. There is no official percentage meter or native trophy for this community full-clear goal.",
+            "pt": "Este registro opcional conta trinta e nove trabalhos jogáveis no PC: a introdução da scooter, treze em Mods and Sods, doze em Chelsea Smile e treze em Dead Certainty. As quatro sequências finais são acompanhadas separadamente, explicando referências que listam quarenta e três missões ao incluí-las. O contrato James Bomb exclusivo do PC integra os veículos do último capítulo. Use uma lista externa por capítulo para cada segmento de telefone, tarefa de rádio e veículo que inicia trabalho. Esta meta comunitária não tem porcentagem oficial nem troféu nativo."
+          }
+        },
+        {
+          "key": "optional-map-useful-london-pickups",
+          "title": "Map useful London pickups",
+          "title_i18n": {
+            "en": "Map useful London pickups",
+            "pt": "Mapeie os itens úteis de Londres"
+          },
+          "description": "Record weapons, armor, extra lives, multipliers and police aids for future chapter attempts.",
+          "description_i18n": {
+            "en": "Record weapons, armor, extra lives, multipliers and police aids for future chapter attempts.",
+            "pt": "Registre armas, coletes, vidas extras, multiplicadores e auxílios contra a polícia para futuras tentativas."
+          }
+        },
+        {
+          "key": "optional-review-four-chapter-ledger",
+          "title": "Review the four-chapter ledger",
+          "title_i18n": {
+            "en": "Review the four-chapter ledger",
+            "pt": "Revise o registro dos quatro capítulos"
+          },
+          "description": "Confirm the campaign endings and optional records independently; there is no native 100% completion meter or trophy list.",
+          "description_i18n": {
+            "en": "Confirm the campaign endings and optional records independently; there is no native 100% completion meter or trophy list.",
+            "pt": "Confira os finais da campanha e os registros opcionais separadamente; não há medidor nativo de 100% nem lista de troféus."
+          }
+        }
+      ]
+    }
+  ],
+  "trophies": [],
+  "hltb_id": "13060",
+  "hltb_main_hours": 5,
+  "hltb_main_extra_hours": 5,
+  "hltb_completionist_hours": 5
+}

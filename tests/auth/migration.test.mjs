@@ -57,7 +57,7 @@ test("Google cutover preserves UUIDs/progress and enforces identity, session and
       insert into public.user_item_progress (user_id, item_id, completed) values ('${owner}', 'cccccccc-cccc-4ccc-8ccc-cccccccccccc', true);
       insert into public.user_trophy_progress (user_id, trophy_id, completed) values ('${owner}', 'dddddddd-dddd-4ddd-8ddd-dddddddddddd', true);
     `);
-    await db.exec(await readFile(new URL("20261109190000_google_identity.sql", migrations), "utf8"));
+    await db.exec(await readFile(new URL("20261119120000_google_identity.sql", migrations), "utf8"));
     assert.equal(await resolve("firebase-owner", "owner@gmail.com"), owner);
     assert.equal(await resolve("firebase-owner", "changed@gmail.com"), owner);
     assert.equal(await resolve("firebase-owner", "owner@gmail.com"), owner);

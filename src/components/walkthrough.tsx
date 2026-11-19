@@ -3,6 +3,7 @@
 import {
   useCallback,
   useEffect,
+  useId,
   useMemo,
   useRef,
   useState,
@@ -15,9 +16,7 @@ import {
   ArrowRight,
   Check,
   CheckCheck,
-  Compass,
   EyeOff,
-  Gem,
   PartyPopper,
   RotateCcw,
   Search,
@@ -25,13 +24,18 @@ import {
 } from "lucide-react";
 import { computeCompletionPercent } from "@/lib/progress";
 import {
-  CHAPTER_KINDS,
   findNextStep,
   storyChapters,
   type ChapterKind,
 } from "@/lib/walkthrough";
+import { filterRouteSections, resolveRouteKey } from "@/lib/walkthrough-routes";
 import { useWalkthroughProgress } from "@/components/walkthrough-progress";
 import { StepMediaThumb } from "@/components/step-media";
+import { WalkthroughNavigation } from "@/components/walkthrough-navigation";
+import { useGameTabActive } from "@/components/game-tabs";
+import { resolveStoryPosition, type StoryPosition } from "@/lib/walkthrough-navigation";
+import { Dialog, DialogContent, DialogDescription, DialogTitle, DialogTrigger } from "@/components/ui/dialog";
+import { Info } from "lucide-react";
 import { t } from "@/i18n/format";
 import type { Dictionary } from "@/i18n/dictionaries/en";
 import { cn } from "@/lib/utils";
@@ -40,6 +44,7 @@ export type WalkthroughStep = {
   id: string;
   title: string;
   description: string | null;
+  details?: string | null;
   imageUrl: string | null;
   completed: boolean;
 };
@@ -99,13 +104,14 @@ function normalize(text: string) {
 const ADVANCE_DELAY_MS = 2200;
 
 export function Walkthrough({
-  sections,
+  sections: allSections,
   initialSectionId,
   resumeOnMount,
   labels,
   toggleAction,
   bulkAction,
   toolbarLeading,
+  saveRouteAction,
 }: {
   sections: WalkthroughChapter[];
   initialSectionId: string;
@@ -114,17 +120,42 @@ export function Walkthrough({
   labels: Labels;
   toggleAction: (itemId: string, completed: boolean) => Promise<void>;
   bulkAction: (itemIds: string[], completed: boolean) => Promise<void>;
+  saveRouteAction?: (key: string | null) => Promise<void>;
   /** Rendered at the start of the search row (the Walkthrough/Trophies switch). */
   toolbarLeading?: React.ReactNode;
 }) {
   const router = useRouter();
   const pathname = usePathname();
+  const isTabActive = useGameTabActive("detonado");
   const w = labels.walkthrough;
 
   // Completion lives in the shared provider (not in each row) so every counter
   // on the page — header ring, sidebar, chapter bar, "next up" — updates the
   // instant a step is ticked, before the server round trip finishes.
-  const { done, setDone, lastDoneId, setLastDoneId } = useWalkthroughProgress();
+  const { sections: applicableSections, done, setDone, lastDoneId, setLastDoneId, routes, routeKey, setRouteKey } = useWalkthroughProgress();
+  // The provider owns applicability; enrich its filtered IDs with the viewer DTO.
+  const sections = useMemo(() => {
+    const sources = new Map(allSections.map((section) => [section.id, section]));
+    return applicableSections.map((section) => {
+      const source = sources.get(section.id);
+      const ids = new Set(section.items.map((item) => item.id));
+      return source ? { ...source, items: source.items.filter((item) => ids.has(item.id)) } : null;
+    }).filter((section): section is WalkthroughChapter => section !== null);
+  }, [applicableSections, allSections]);
+  const [routeSaving, setRouteSaving] = useState(false);
+  const routeSaveLock = useRef(false);
+  const navigationEpoch = useRef(0);
+  const routeSelectId = useId();
+  const selectedRoute = routes.find((route) => route.key === routeKey);
+  const routeStorageKey = routes.length
+    ? `xplore:walkthrough:story:v2:${pathname}:${routeKey ?? "common"}`
+    : `xplore:walkthrough:story:v1:${pathname}`;
+  const chapterUrl = useCallback((id: string, key: string | null = routeKey) => {
+    const params = new URLSearchParams();
+    if (id) params.set("c", id);
+    if (routes.length) params.set("route", key ?? "common");
+    return `${pathname}?${params.toString()}`;
+  }, [pathname, routeKey, routes.length]);
   const [activeId, setActiveId] = useState(initialSectionId);
   const [query, setQuery] = useState("");
   const [error, setError] = useState<string | null>(null);
@@ -147,14 +178,15 @@ export function Walkthrough({
 
   const searchRef = useRef<HTMLInputElement>(null);
   const chapterRef = useRef<HTMLElement>(null);
-  const pillRefs = useRef(new Map<string, HTMLButtonElement>());
+  const storyPositionRef = useRef<StoryPosition | null>(null);
+  const restoreFrame = useRef<number | null>(null);
   const confirmTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
 
   const activeIndex = Math.max(
     0,
     sections.findIndex((section) => section.id === activeId)
   );
-  const active = sections[activeIndex];
+  const active = sections[activeIndex] ?? { id: "", kind: "story" as const, title: w.routeNoSteps, items: [] };
 
   const chapterStats = useMemo(
     () =>
@@ -180,24 +212,34 @@ export function Walkthrough({
       .filter((group) => group.items.length > 0);
   }, [sections, trimmedQuery]);
 
+  const rememberStoryPosition = useCallback(() => {
+      if (sections.some((section) => section.id === activeId && section.kind === "story")) {
+        const position = { chapterId: activeId, scrollY: window.scrollY };
+        storyPositionRef.current = position;
+        try {
+          window.sessionStorage.setItem(routeStorageKey, JSON.stringify(position));
+        } catch {
+          // Keep the in-memory return point when device storage is unavailable.
+        }
+      }
+  }, [sections, activeId, routeStorageKey]);
+
   const select = useCallback(
-    (id: string) => {
+    (id: string, preserveStoryPosition = false) => {
+      if (activeId !== id && !preserveStoryPosition) rememberStoryPosition();
       setActiveId(id);
       setConfirmClear(false);
       setLingering(new Set());
       setAdvance(null);
       // Persist across refresh without moving the scroll position.
-      router.replace(`${pathname}?c=${id}`, { scroll: false });
+      router.replace(chapterUrl(id), { scroll: false });
     },
-    [router, pathname]
+    [router, chapterUrl, activeId, rememberStoryPosition]
   );
 
-  // Keep the active chapter pill in view on the mobile strip.
-  useEffect(() => {
-    pillRefs.current
-      .get(active.id)
-      ?.scrollIntoView({ behavior: "smooth", block: "nearest", inline: "center" });
-  }, [active.id]);
+  useEffect(() => () => {
+    if (restoreFrame.current !== null) cancelAnimationFrame(restoreFrame.current);
+  }, []);
 
   // Resume / "Next up" / auto-advance: flash the target step, scrolling only
   // if it isn't already comfortably on screen.
@@ -216,13 +258,15 @@ export function Walkthrough({
 
   // Finishing a chapter queues a hop to the chapter holding the next step.
   useEffect(() => {
-    if (!advance) return;
+    if (!advance || !isTabActive) return;
+    const epoch = navigationEpoch.current;
     const timer = setTimeout(() => {
+      if (epoch !== navigationEpoch.current || !sections.some((section) => section.id === advance.chapterId && section.items.some((item) => item.id === advance.stepId))) return;
       select(advance.chapterId);
       setHighlightId(advance.stepId);
     }, ADVANCE_DELAY_MS);
     return () => clearTimeout(timer);
-  }, [advance, select]);
+  }, [advance, select, sections, isTabActive]);
 
   function advanceNow() {
     if (!advance) return;
@@ -233,11 +277,12 @@ export function Walkthrough({
   // Keyboard: ← / → switch chapters, "/" focuses search.
   useEffect(() => {
     function onKeyDown(event: KeyboardEvent) {
+      if (!isTabActive) return;
       if (event.defaultPrevented || event.metaKey || event.ctrlKey || event.altKey) return;
       const target = event.target as HTMLElement | null;
       if (
         target &&
-        (target.isContentEditable || /^(INPUT|TEXTAREA|SELECT)$/.test(target.tagName))
+        (target.isContentEditable || /^(INPUT|TEXTAREA|SELECT)$/.test(target.tagName) || target.closest('[role="dialog"]'))
       ) {
         return;
       }
@@ -257,7 +302,7 @@ export function Walkthrough({
     }
     window.addEventListener("keydown", onKeyDown);
     return () => window.removeEventListener("keydown", onKeyDown);
-  }, [activeIndex, sections, select, trimmedQuery]);
+  }, [activeIndex, sections, select, trimmedQuery, isTabActive]);
 
   function setSteps(ids: string[], completed: boolean) {
     if (ids.length === 0) return;
@@ -314,7 +359,7 @@ export function Walkthrough({
     });
   }
 
-  const activeStats = chapterStats[activeIndex];
+  const activeStats = chapterStats[activeIndex] ?? { done: 0, total: 0 };
   const chapterComplete = activeStats.total > 0 && activeStats.done === activeStats.total;
   const activePercent = computeCompletionPercent(activeStats.total, activeStats.done);
 
@@ -347,9 +392,6 @@ export function Walkthrough({
     sections.filter((section) => section.kind === "story").map((section, i) => [section.id, i])
   );
   const storyCount = storyIndex.size;
-  // Only label the groups when a game actually mixes kinds.
-  const hasKinds = storyCount < sections.length;
-  const firstKind = CHAPTER_KINDS.find((kind) => sections.some((s) => s.kind === kind));
   const chapterNumber = (section: WalkthroughChapter, index: number) =>
     (storyIndex.get(section.id) ?? index) + 1;
 
@@ -381,18 +423,90 @@ export function Walkthrough({
       />
     </button>
   ) : (
-    <p className="flex items-center gap-2 rounded-xl border border-success/30 bg-success/10 px-3 py-2.5 text-sm font-medium text-success animate-in fade-in zoom-in-95">
-      <PartyPopper className="size-4 shrink-0" aria-hidden />
-      {w.allDone}
+    <p className={cn("flex items-center gap-2 rounded-xl border px-3 py-2.5 text-sm font-medium", routes.length > 0 && !routeKey ? "text-muted-foreground" : "border-success/30 bg-success/10 text-success animate-in fade-in zoom-in-95")}>
+      {routes.length > 0 && !routeKey ? <Info className="size-4 shrink-0" aria-hidden /> : <PartyPopper className="size-4 shrink-0" aria-hidden />}
+      {routes.length === 0 ? w.allDone : !routeKey ? w.routeChoosePrompt : sections.every((section) => section.items.every((item) => done.has(item.id))) ? w.routeComplete : w.routeStoryComplete}
     </p>
   );
 
   // Picking a chapter while scrolled deep into a long one brings its top back
   // into view; otherwise the page stays put.
-  function openChapter(id: string) {
-    select(id);
+  function openChapter(id: string, fromDrawer = false, stepId?: string) {
+    setQuery("");
+    select(id, fromDrawer);
+    if (stepId && sections.some((section) => section.id === id && section.items.some((item) => item.id === stepId))) {
+      setLingering(new Set([stepId]));
+      setHighlightId(stepId);
+      return;
+    }
     const top = chapterRef.current?.getBoundingClientRect().top ?? 0;
     if (top < 0) chapterRef.current?.scrollIntoView({ behavior: "smooth", block: "start" });
+  }
+
+  function returnToStory() {
+    let candidate: unknown = storyPositionRef.current;
+    if (!candidate) {
+      try {
+        candidate = JSON.parse(window.sessionStorage.getItem(routeStorageKey) ?? "null");
+      } catch {
+        candidate = null;
+      }
+    }
+    const position = resolveStoryPosition(sections, candidate, nextStep?.section.id ?? initialSectionId);
+    if (!position) return;
+    setQuery("");
+    setHighlightId(null);
+    select(position.chapterId);
+    if (restoreFrame.current !== null) cancelAnimationFrame(restoreFrame.current);
+    restoreFrame.current = requestAnimationFrame(() => {
+      restoreFrame.current = requestAnimationFrame(() => {
+        window.scrollTo({ top: position.scrollY, behavior: "instant" });
+        restoreFrame.current = null;
+      });
+    });
+  }
+
+  async function chooseRoute(requestedKey: string | null) {
+    const key = resolveRouteKey(routes, requestedKey);
+    if (routeSaveLock.current || key === routeKey) return;
+    routeSaveLock.current = true;
+    setRouteSaving(true);
+    rememberStoryPosition();
+    const previous = { key: routeKey, activeId, position: storyPositionRef.current };
+    navigationEpoch.current++;
+    setAdvance(null);
+    setQuery("");
+    setHighlightId(null);
+    setLingering(new Set());
+    setConfirmClear(false);
+    if (confirmTimer.current) clearTimeout(confirmTimer.current);
+    if (restoreFrame.current !== null) cancelAnimationFrame(restoreFrame.current);
+    storyPositionRef.current = null;
+    setError(null);
+    const nextSections = filterRouteSections(allSections, routes, key);
+    const target = nextSections.find((section) => section.id === activeId)?.id
+      ?? findNextStep(storyChapters(nextSections), done, lastDoneId)?.section.id
+      ?? nextSections[0]?.id ?? "";
+    setRouteKey(key);
+    setActiveId(target);
+    router.replace(chapterUrl(target, key), { scroll: false });
+    try {
+      await saveRouteAction?.(key);
+    } catch {
+      navigationEpoch.current++;
+      setAdvance(null);
+      setQuery("");
+      setHighlightId(null);
+      setLingering(new Set());
+      setRouteKey(previous.key);
+      setActiveId(previous.activeId);
+      storyPositionRef.current = previous.position;
+      router.replace(chapterUrl(previous.activeId, previous.key), { scroll: false });
+      setError(w.routeSaveError);
+    } finally {
+      routeSaveLock.current = false;
+      setRouteSaving(false);
+    }
   }
 
   function goToChapter(index: number) {
@@ -417,6 +531,7 @@ export function Walkthrough({
       highlighted={highlightId === item.id}
       onToggle={(next) => setSteps([item.id], next)}
       mediaLabels={w}
+      onInspect={() => setAdvance(null)}
     />
   );
 
@@ -425,10 +540,34 @@ export function Walkthrough({
 
   return (
     <div className="flex flex-col gap-5">
+      <WalkthroughNavigation key={`mobile:${routeKey ?? "common"}`} mode="mobile" sections={sections} activeId={active.id} stats={chapterStats} labels={w} onChoose={openChapter} onReturn={returnToStory} onBeforeBrowse={() => { rememberStoryPosition(); setAdvance(null); }} onInspect={() => setAdvance(null)} />
+      {routes.length > 0 && (
+        <section aria-label={w.routeLabel} aria-busy={routeSaving} className="flex flex-col gap-3 rounded-xl border bg-card p-4">
+          <label htmlFor={routeSelectId} className="text-sm font-semibold">{w.routeLabel}</label>
+          <select id={routeSelectId} value={routeKey ?? "common"} disabled={routeSaving} onFocus={() => setAdvance(null)} onChange={(event) => void chooseRoute(event.target.value === "common" ? null : event.target.value)} className="min-h-11 w-full min-w-0 rounded-lg border bg-background px-3 text-base outline-none focus-visible:ring-3 focus-visible:ring-ring/50">
+            <option value="common">{w.routeCommonOption}</option>
+            {routes.map((route) => <option key={route.key} value={route.key}>{route.title}</option>)}
+          </select>
+          <p role="status" className="text-sm text-muted-foreground">{routeSaving ? w.routeSaving : selectedRoute ? t(w.routeSummary, { route: selectedRoute.title, percent: computeCompletionPercent(sections.reduce((sum, section) => sum + section.items.length, 0), sections.reduce((sum, section) => sum + section.items.filter((item) => done.has(item.id)).length, 0)) }) : w.routeChoosePrompt}</p>
+          <p className="text-xs text-muted-foreground">{w.routeCoverageNote}</p>
+          {selectedRoute && (
+            <div className="flex flex-col gap-2 sm:flex-row">
+              {selectedRoute.details && <Dialog onOpenChange={(open) => { if (open) setAdvance(null); }}>
+                <DialogTrigger render={<button type="button" className="inline-flex min-h-11 items-center justify-center gap-2 rounded-lg border px-3 text-sm font-medium outline-none hover:bg-muted focus-visible:ring-3 focus-visible:ring-ring/50" />}><Info className="size-4" aria-hidden />{w.routeDetails}</DialogTrigger>
+                <DialogContent closeLabel={w.close} className="max-h-[85dvh] overflow-y-auto sm:max-w-lg">
+                  <DialogTitle>{selectedRoute.title}</DialogTitle>
+                  <DialogDescription className="whitespace-pre-line text-base leading-relaxed">{selectedRoute.details}</DialogDescription>
+                </DialogContent>
+              </Dialog>}
+              {selectedRoute.replayFrom && sections.some((section) => section.id === selectedRoute.replayFrom?.chapterId && section.items.some((item) => item.id === selectedRoute.replayFrom?.itemId)) && <button type="button" disabled={routeSaving} onClick={() => { const checkpoint = selectedRoute.replayFrom; if (checkpoint) openChapter(checkpoint.chapterId, false, checkpoint.itemId); }} className="inline-flex min-h-11 items-center justify-center gap-2 rounded-lg border px-3 text-sm font-medium outline-none hover:bg-muted focus-visible:ring-3 focus-visible:ring-ring/50"><RotateCcw className="size-4" aria-hidden />{w.routeCheckpoint}</button>}
+            </div>
+          )}
+        </section>
+      )}
       {/* Toolbar: tab switch + search + hide completed (one row from md up) */}
       <div className="flex flex-wrap items-center gap-2 sm:gap-3">
         {toolbarLeading && (
-          <div className="w-full md:w-auto [&>[role=tablist]]:w-full md:[&>[role=tablist]]:w-auto">
+          <div onFocusCapture={() => setAdvance(null)} onClickCapture={() => setAdvance(null)} onKeyDownCapture={() => setAdvance(null)} className="w-full md:w-auto [&>[role=tablist]]:w-full md:[&>[role=tablist]]:w-auto">
             {toolbarLeading}
           </div>
         )}
@@ -441,6 +580,7 @@ export function Walkthrough({
             ref={searchRef}
             type="search"
             value={query}
+            onFocus={() => setAdvance(null)}
             onChange={(event) => setQuery(event.target.value)}
             onKeyDown={(event) => {
               if (event.key === "Escape") {
@@ -545,119 +685,8 @@ export function Walkthrough({
       ) : (
         <>
           <div className="flex flex-col gap-4 md:flex-row md:items-start md:gap-6">
-            {/* Desktop: chapter index */}
-            {/* The aside itself is sticky: its parent row is as tall as the
-                chapter, so it has room to stay pinned while the page scrolls. */}
-            <aside className="hidden md:sticky md:top-20 md:flex md:w-72 md:shrink-0 md:flex-col md:gap-2 md:self-start">
-              {nextUpCard}
-              {/* Height leaves room for the "Next up" card while staying shorter
-                  than the chapter card, so the whole aside can stay pinned. */}
-              <nav
-                aria-label={labels.chapters}
-                className="flex max-h-[calc(100dvh-15rem)] flex-col gap-1 overflow-y-auto overscroll-contain pr-1 pb-6 [mask-image:linear-gradient(to_bottom,black_calc(100%-48px),transparent)] [scrollbar-color:var(--border)_transparent] [scrollbar-width:thin]"
-              >
-                {CHAPTER_KINDS.map((kind) => {
-                  const group = sections
-                    .map((section, index) => ({ section, index }))
-                    .filter(({ section }) => section.kind === kind);
-                  if (group.length === 0) return null;
-                  return (
-                    <div key={kind} className="flex flex-col gap-1">
-                      {hasKinds && (
-                        <p
-                          className={cn(
-                            "px-3 pb-1 text-[11px] font-semibold tracking-wider text-muted-foreground uppercase",
-                            kind !== firstKind && "pt-4"
-                          )}
-                        >
-                          {w.kinds[kind]}
-                        </p>
-                      )}
-                      {group.map(({ section, index }) => {
-                  const stats = chapterStats[index];
-                  const complete = stats.total > 0 && stats.done === stats.total;
-                  const isActive = index === activeIndex;
-                  return (
-                    <button
-                      key={section.id}
-                      type="button"
-                      onClick={() => openChapter(section.id)}
-                      aria-current={isActive ? "step" : undefined}
-                      className={cn(
-                        "flex items-start gap-3 rounded-xl px-3 py-2.5 text-left outline-none transition-colors focus-visible:ring-3 focus-visible:ring-ring/40",
-                        isActive
-                          ? "bg-accent text-accent-foreground"
-                          : "text-muted-foreground hover:bg-muted/60 hover:text-foreground"
-                      )}
-                    >
-                      <ChapterBadge
-                        kind={section.kind}
-                        number={chapterNumber(section, index)}
-                        complete={complete}
-                        active={isActive}
-                      />
-                      <span className="flex min-w-0 flex-1 flex-col gap-1.5">
-                        <span className="text-[15px] leading-snug font-medium">
-                          {section.title}
-                        </span>
-                        <span className="flex items-center gap-2">
-                          <Bar
-                            percent={computeCompletionPercent(stats.total, stats.done)}
-                            complete={complete}
-                          />
-                          <span className="text-xs tabular-nums opacity-80">
-                            {stats.done}/{stats.total}
-                          </span>
-                        </span>
-                      </span>
-                    </button>
-                  );
-                      })}
-                    </div>
-                  );
-                })}
-              </nav>
-            </aside>
-
+            <WalkthroughNavigation key={`desktop:${routeKey ?? "common"}`} mode="desktop" sections={sections} activeId={active.id} stats={chapterStats} labels={w} onChoose={openChapter} onReturn={returnToStory} nextUp={nextUpCard} onInspect={() => setAdvance(null)} />
             <div className="md:hidden">{nextUpCard}</div>
-
-            {/* Mobile: horizontal chapter strip */}
-            <div className="-mx-4 flex gap-2 overflow-x-auto px-4 pb-1 [mask-image:linear-gradient(to_right,transparent,black_16px,black_calc(100%-40px),transparent)] md:hidden [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
-              {sections.map((section, index) => {
-                const stats = chapterStats[index];
-                const complete = stats.total > 0 && stats.done === stats.total;
-                const isActive = index === activeIndex;
-                return (
-                  <button
-                    key={section.id}
-                    ref={(el) => {
-                      if (el) pillRefs.current.set(section.id, el);
-                      else pillRefs.current.delete(section.id);
-                    }}
-                    type="button"
-                    onClick={() => openChapter(section.id)}
-                    aria-current={isActive ? "step" : undefined}
-                    className={cn(
-                      "flex shrink-0 items-center gap-2 rounded-full border py-1.5 pr-4 pl-1.5 text-[15px] transition-colors",
-                      isActive
-                        ? "border-primary/50 bg-accent font-medium text-accent-foreground"
-                        : "border-border text-muted-foreground"
-                    )}
-                  >
-                    <ChapterBadge
-                        kind={section.kind}
-                        number={chapterNumber(section, index)}
-                        complete={complete}
-                        active={isActive}
-                      />
-                    {section.title}
-                    <span className="text-xs tabular-nums opacity-70">
-                      {stats.done}/{stats.total}
-                    </span>
-                  </button>
-                );
-              })}
-            </div>
 
             {/* Active chapter */}
             <section
@@ -826,113 +855,45 @@ export function Walkthrough({
 }
 
 function StepRow({
-  item,
-  checked,
-  highlighted,
-  onToggle,
-  mediaLabels,
+  item, checked, highlighted, onToggle, mediaLabels, onInspect,
 }: {
   item: WalkthroughStep;
   checked: boolean;
   highlighted: boolean;
   onToggle: (next: boolean) => void;
-  mediaLabels: { viewImage: string; watchVideo: string };
+  mediaLabels: Dictionary["gameDetail"]["walkthrough"];
+  onInspect: () => void;
 }) {
-  const checkId = `step-check-${item.id}`;
   const titleId = `step-title-${item.id}`;
   return (
-    <li
-      id={`step-${item.id}`}
-      className={cn(
-        "scroll-mt-24 px-4 py-4 transition-colors duration-500 sm:px-6",
-        highlighted ? "bg-primary/15" : "hover:bg-muted/30"
-      )}
-    >
-      <div className="flex items-start gap-4">
-        <button
-          id={checkId}
-          type="button"
-          role="checkbox"
-          aria-checked={checked}
-          aria-labelledby={titleId}
-          onClick={() => onToggle(!checked)}
-          className={cn(
-            "mt-0.5 flex size-7 shrink-0 items-center justify-center rounded-lg border-2 outline-none transition-all duration-200 focus-visible:ring-3 focus-visible:ring-ring/50 active:scale-90",
-            checked
-              ? "border-primary bg-primary text-primary-foreground"
-              : "border-input bg-background/40 hover:border-primary/70"
-          )}
-        >
-          {checked && (
-            <Check
-              className="size-4.5 animate-in fade-in zoom-in-50 duration-200"
-              strokeWidth={3}
-              aria-hidden
-            />
-          )}
-        </button>
-        <label htmlFor={checkId} className="flex min-w-0 flex-1 cursor-pointer flex-col gap-1">
-          <span
-            id={titleId}
-            className={cn(
-              "text-base leading-snug font-medium transition-colors sm:text-[17px]",
-              checked &&
-                "text-muted-foreground line-through decoration-muted-foreground/40 decoration-2"
-            )}
-          >
-            {item.title}
-          </span>
-          {item.description && (
-            <span
-              className={cn(
-                "text-sm leading-relaxed text-muted-foreground sm:text-[15px]",
-                checked && "opacity-70"
-              )}
-            >
-              {item.description}
+    <li id={`step-${item.id}`} className={cn("scroll-mt-24 px-4 py-4 transition-colors duration-500 sm:px-6", highlighted ? "bg-primary/15" : "hover:bg-muted/30")}>
+      <div className="flex flex-col gap-3 md:flex-row md:items-start md:gap-4">
+        <div className="flex min-w-0 flex-1 items-start gap-2">
+          <button type="button" role="checkbox" aria-checked={checked} aria-labelledby={titleId} onClick={() => onToggle(!checked)} className="flex min-h-11 min-w-0 flex-1 items-start gap-3 rounded-lg p-1 text-left outline-none focus-visible:ring-3 focus-visible:ring-ring/50">
+            <span aria-hidden className={cn("mt-0.5 flex size-7 shrink-0 items-center justify-center rounded-lg border-2 transition-colors", checked ? "border-primary bg-primary text-primary-foreground" : "border-input bg-background/40")}>
+              {checked && <Check className="size-4.5" strokeWidth={3} />}
             </span>
+            <span className="flex min-w-0 flex-1 flex-col gap-1">
+              <span id={titleId} className={cn("text-base leading-snug font-medium wrap-break-word sm:text-[17px]", checked && "text-muted-foreground line-through decoration-muted-foreground/40 decoration-2")}>{item.title}</span>
+              {item.description && <span className={cn("text-sm leading-relaxed text-muted-foreground wrap-break-word sm:text-[15px]", checked && "opacity-70")}>{item.description}</span>}
+            </span>
+          </button>
+          {item.details?.trim() && (
+            <Dialog onOpenChange={(open) => { if (open) onInspect(); }}>
+              <DialogTrigger render={<button type="button" aria-label={t(mediaLabels.viewDetails, { title: item.title })} title={mediaLabels.details} className="flex size-11 shrink-0 items-center justify-center rounded-lg border text-muted-foreground outline-none hover:bg-muted hover:text-foreground focus-visible:ring-3 focus-visible:ring-ring/50" />}>
+                <Info className="size-5" aria-hidden />
+              </DialogTrigger>
+              <DialogContent closeLabel={mediaLabels.close} className="max-h-[85dvh] overflow-y-auto sm:max-w-xl">
+                <p className="text-xs font-semibold tracking-wide text-muted-foreground uppercase">{mediaLabels.details}</p>
+                <DialogTitle className="pr-7 leading-snug">{item.title}</DialogTitle>
+                <DialogDescription className="whitespace-pre-line wrap-break-word text-base leading-relaxed">{item.details}</DialogDescription>
+              </DialogContent>
+            </Dialog>
           )}
-        </label>
-        {item.imageUrl && (
-          <StepMediaThumb url={item.imageUrl} title={item.title} labels={mediaLabels} />
-        )}
+        </div>
+        {item.imageUrl && <StepMediaThumb url={item.imageUrl} title={item.title} labels={mediaLabels} onOpen={onInspect} />}
       </div>
     </li>
-  );
-}
-
-function ChapterBadge({
-  kind,
-  number,
-  complete,
-  active,
-}: {
-  kind: ChapterKind;
-  number: number;
-  complete: boolean;
-  active: boolean;
-}) {
-  return (
-    <span
-      className={cn(
-        "flex size-7 shrink-0 items-center justify-center rounded-full text-xs font-bold tabular-nums transition-colors",
-        complete
-          ? "bg-success text-success-foreground"
-          : active
-            ? "bg-primary text-primary-foreground"
-            : "bg-muted text-muted-foreground"
-      )}
-    >
-      {complete ? (
-        <Check className="size-4" strokeWidth={3} aria-hidden />
-      ) : kind === "side" ? (
-        <Compass className="size-4" aria-hidden />
-      ) : kind === "collectible" ? (
-        <Gem className="size-4" aria-hidden />
-      ) : (
-        number
-      )}
-    </span>
   );
 }
 

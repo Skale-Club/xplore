@@ -1,0 +1,1346 @@
+{
+  "slug": "grand-theft-auto",
+  "title": "Grand Theft Auto",
+  "title_i18n": {
+    "en": "Grand Theft Auto",
+    "pt": "Grand Theft Auto"
+  },
+  "platform": "PC",
+  "cover_url": "/covers/grand-theft-auto.png",
+  "created_by": "dd5c4bf0-85ea-4986-9c04-b37e8c986150",
+  "categories": [
+    {
+      "key": "original-pc-start-and-run-planning",
+      "title": "Original PC start and run planning",
+      "title_i18n": {
+        "en": "Original PC start and run planning",
+        "pt": "Início no PC original e planejamento da partida"
+      },
+      "items": [
+        {
+          "key": "select-original-pc-campaign",
+          "title": "Select the original PC campaign",
+          "title_i18n": {
+            "en": "Select the original PC campaign",
+            "pt": "Selecione a campanha original de PC"
+          },
+          "description": "This route covers the six 1997 campaign chapters, with optional completion goals kept separate.",
+          "description_i18n": {
+            "en": "This route covers the six 1997 campaign chapters, with optional completion goals kept separate.",
+            "pt": "Esta rota cobre os seis capítulos da campanha de 1997, com metas opcionais de conclusão separadas."
+          }
+        },
+        {
+          "key": "check-controls-and-game-speed",
+          "title": "Check controls and game speed",
+          "title_i18n": {
+            "en": "Check controls and game speed",
+            "pt": "Confira os controles e a velocidade do jogo"
+          },
+          "description": "Review your configured keys and confirm that driving and timers run at a playable pace.",
+          "description_i18n": {
+            "en": "Review your configured keys and confirm that driving and timers run at a playable pace.",
+            "pt": "Confira as teclas configuradas e confirme que direção e cronômetros funcionam em ritmo adequado."
+          },
+          "details": "Use the original PC setup to check movement, vehicle entry, braking and weapon selection before attempting a timed contract. If the whole game runs too quickly, the original frame limiter can be toggled with F8; do not interpret an accelerated timer as the intended difficulty. Practice a short circuit near the starting area and confirm that you can stop beside a phone without overshooting it. This guide does not require a modified control scheme or emulator save-state feature.",
+          "details_i18n": {
+            "en": "Use the original PC setup to check movement, vehicle entry, braking and weapon selection before attempting a timed contract. If the whole game runs too quickly, the original frame limiter can be toggled with F8; do not interpret an accelerated timer as the intended difficulty. Practice a short circuit near the starting area and confirm that you can stop beside a phone without overshooting it. This guide does not require a modified control scheme or emulator save-state feature.",
+            "pt": "Confira no programa de configuração original os comandos de movimento, entrada em veículos, frenagem e seleção de armas antes de tentar um contrato cronometrado. Se o jogo inteiro estiver rápido demais, o limitador original pode ser alternado com F8; não trate um cronômetro acelerado como a dificuldade prevista. Pratique um pequeno circuito perto do início e confirme que consegue parar junto a um telefone sem ultrapassá-lo. Este guia não exige comandos modificados nem salvamento de estado de emulador."
+          }
+        },
+        {
+          "key": "choose-player-and-first-level",
+          "title": "Choose a player and the first level",
+          "title_i18n": {
+            "en": "Choose a player and the first level",
+            "pt": "Escolha um personagem e o primeiro nível"
+          },
+          "description": "Select your profile and begin Gangsta Bang in Liberty City.",
+          "description_i18n": {
+            "en": "Select your profile and begin Gangsta Bang in Liberty City.",
+            "pt": "Selecione seu perfil e comece Gangsta Bang em Liberty City."
+          }
+        },
+        {
+          "key": "understand-score-based-progress",
+          "title": "Understand score-based progression",
+          "title_i18n": {
+            "en": "Understand score-based progression",
+            "pt": "Entenda o progresso por pontuação"
+          },
+          "description": "Reach each chapter's score target and follow its ending; completing every job is a separate optional goal.",
+          "description_i18n": {
+            "en": "Reach each chapter's score target and follow its ending; completing every job is a separate optional goal.",
+            "pt": "Alcance a meta de pontos de cada capítulo e siga seu encerramento; concluir todos os trabalhos é uma meta opcional separada."
+          }
+        },
+        {
+          "key": "prepare-city-map-reference",
+          "title": "Prepare a city-map reference",
+          "title_i18n": {
+            "en": "Prepare a city-map reference",
+            "pt": "Prepare uma referência do mapa da cidade"
+          },
+          "description": "Use the original city layout and district names to plan journeys before timed objectives.",
+          "description_i18n": {
+            "en": "Use the original city layout and district names to plan journeys before timed objectives.",
+            "pt": "Use a disposição original da cidade e os nomes dos bairros para planejar viagens antes de objetivos cronometrados."
+          }
+        },
+        {
+          "key": "read-pager-and-area-name",
+          "title": "Read the pager and area name",
+          "title_i18n": {
+            "en": "Read the pager and area name",
+            "pt": "Leia o pager e o nome da região"
+          },
+          "description": "Learn to recover the latest instruction and identify your current district.",
+          "description_i18n": {
+            "en": "Learn to recover the latest instruction and identify your current district.",
+            "pt": "Aprenda a consultar a instrução mais recente e identificar o bairro atual."
+          },
+          "details": "F7 recalls the latest pager message, F10 repeats the latest ordinary message and F9 redisplays the current district name in the original PC controls. Read the destination and any required vehicle or passenger before moving. The objective arrow indicates direction, not a navigable road route: a river, railway or building can lie between you and the target. Use the city map to choose a bridge or access road, then check the area name again after arriving. Rereading the message is safer than guessing from a disappearing line of text.",
+          "details_i18n": {
+            "en": "F7 recalls the latest pager message, F10 repeats the latest ordinary message and F9 redisplays the current district name in the original PC controls. Read the destination and any required vehicle or passenger before moving. The objective arrow indicates direction, not a navigable road route: a river, railway or building can lie between you and the target. Use the city map to choose a bridge or access road, then check the area name again after arriving. Rereading the message is safer than guessing from a disappearing line of text.",
+            "pt": "Nos comandos originais de PC, F7 repete a última mensagem do pager, F10 repete a última mensagem comum e F9 mostra novamente o bairro atual. Leia o destino e qualquer veículo ou passageiro exigido antes de partir. A seta indica a direção, não uma rota viária: rios, trilhos ou prédios podem separar você do alvo. Use o mapa para escolher uma ponte ou via de acesso e confira novamente o bairro ao chegar. Reler a mensagem é mais seguro que adivinhar por uma linha de texto que desapareceu."
+          }
+        },
+        {
+          "key": "learn-score-and-bonus-multiplier",
+          "title": "Learn the score and Bonus Multiplier",
+          "title_i18n": {
+            "en": "Learn the score and Bonus Multiplier",
+            "pt": "Entenda a pontuação e o Bonus Multiplier"
+          },
+          "description": "Watch how successful jobs change the value of later scoring actions.",
+          "description_i18n": {
+            "en": "Watch how successful jobs change the value of later scoring actions.",
+            "pt": "Observe como trabalhos bem-sucedidos alteram o valor das ações que rendem pontos depois."
+          },
+          "details": "Successful missions raise the Bonus Multiplier, increasing the value of later scoring actions; multiplier pickups can also improve it. Build a reliable early sequence instead of treating every minor scoring opportunity as equally valuable. An arrest normally cuts the multiplier in half, so an unnecessary pursuit can make the remaining target much slower to reach. Compare the displayed score with the chapter target after each payout. You can finish the chapter without completing every phone and vehicle mission.",
+          "details_i18n": {
+            "en": "Successful missions raise the Bonus Multiplier, increasing the value of later scoring actions; multiplier pickups can also improve it. Build a reliable early sequence instead of treating every minor scoring opportunity as equally valuable. An arrest normally cuts the multiplier in half, so an unnecessary pursuit can make the remaining target much slower to reach. Compare the displayed score with the chapter target after each payout. You can finish the chapter without completing every phone and vehicle mission.",
+            "pt": "Missões bem-sucedidas elevam o Bonus Multiplier, aumentando o valor das ações posteriores; itens de multiplicador também podem melhorá-lo. Construa uma sequência inicial confiável em vez de tratar toda pequena oportunidade como igualmente valiosa. Uma prisão normalmente corta o multiplicador pela metade; uma perseguição desnecessária pode tornar muito mais demorado alcançar a meta restante. Compare os pontos exibidos com o objetivo do capítulo após cada pagamento. É possível concluir o capítulo sem terminar todas as missões de telefones e veículos."
+          }
+        },
+        {
+          "key": "plan-finite-lives-and-restarts",
+          "title": "Plan around finite lives and restarts",
+          "title_i18n": {
+            "en": "Plan around finite lives and restarts",
+            "pt": "Planeje as vidas limitadas e os reinícios"
+          },
+          "description": "Treat each chapter as a sustained run and understand the cost of failure before starting.",
+          "description_i18n": {
+            "en": "Treat each chapter as a sustained run and understand the cost of failure before starting.",
+            "pt": "Trate cada capítulo como uma partida contínua e entenda o custo das falhas antes de começar."
+          },
+          "details": "The original campaign does not provide a normal save-anywhere checkpoint between contracts. Chapter completion records your progress and unlocks the next stage, but a failed mission cannot simply be selected for another attempt within the same run. Losing all lives ends the attempt and forces a chapter restart. For the score route, recover by choosing another available source of points. For an all-missions personal goal, a single failed required contract means restarting that chapter attempt. Keep those two goals distinct.",
+          "details_i18n": {
+            "en": "The original campaign does not provide a normal save-anywhere checkpoint between contracts. Chapter completion records your progress and unlocks the next stage, but a failed mission cannot simply be selected for another attempt within the same run. Losing all lives ends the attempt and forces a chapter restart. For the score route, recover by choosing another available source of points. For an all-missions personal goal, a single failed required contract means restarting that chapter attempt. Keep those two goals distinct.",
+            "pt": "A campanha original não oferece um ponto de salvamento comum a qualquer momento entre contratos. Concluir o capítulo registra o progresso e libera a etapa seguinte, mas uma missão fracassada não pode simplesmente ser escolhida de novo na mesma partida. Perder todas as vidas encerra a tentativa e exige reiniciar o capítulo. Na rota por pontuação, recupere-se escolhendo outra fonte disponível de pontos. Na meta pessoal de todas as missões, falhar num contrato necessário exige reiniciar aquela tentativa. Mantenha essas duas metas distintas."
+          }
+        },
+        {
+          "key": "locate-recovery-and-police-options",
+          "title": "Locate recovery and police options",
+          "title_i18n": {
+            "en": "Locate recovery and police options",
+            "pt": "Localize as opções de recuperação e polícia"
+          },
+          "description": "Notice hospitals, police stations, respray services and useful pickups during exploration.",
+          "description_i18n": {
+            "en": "Notice hospitals, police stations, respray services and useful pickups during exploration.",
+            "pt": "Observe hospitais, delegacias, serviços de pintura e itens úteis durante a exploração."
+          },
+          "details": "In the original PC manual, being killed sends you to a hospital, costs a life and removes your weapons while retaining the Bonus Multiplier. An arrest sends you to a police station, removes equipment and normally halves the multiplier while clearing police attention. A Get Outta Jail Free Card protects against the normal arrest penalties. After either setback, inspect your actual inventory and nearby roads before taking another job. Do not assume a respawn restores the weapon a contract expects you to carry.",
+          "details_i18n": {
+            "en": "In the original PC manual, being killed sends you to a hospital, costs a life and removes your weapons while retaining the Bonus Multiplier. An arrest sends you to a police station, removes equipment and normally halves the multiplier while clearing police attention. A Get Outta Jail Free Card protects against the normal arrest penalties. After either setback, inspect your actual inventory and nearby roads before taking another job. Do not assume a respawn restores the weapon a contract expects you to carry.",
+            "pt": "Segundo o manual original de PC, morrer leva ao hospital, consome uma vida e remove as armas, mas mantém o Bonus Multiplier. Ser preso leva à delegacia, remove o equipamento e normalmente reduz o multiplicador à metade enquanto encerra a perseguição. Um Get Outta Jail Free Card protege contra as penalidades normais da prisão. Após qualquer revés, confira o inventário real e as ruas próximas antes de aceitar outro trabalho. Não presuma que reaparecer devolva a arma exigida por um contrato."
+          }
+        },
+        {
+          "key": "distinguish-pc-mission-scope",
+          "title": "Distinguish the PC mission scope",
+          "title_i18n": {
+            "en": "Distinguish the PC mission scope",
+            "pt": "Entenda o conjunto de missões de PC"
+          },
+          "description": "PC has 90 mission segments across the campaign; the PS1 version omits two train-related jobs.",
+          "description_i18n": {
+            "en": "PC has 90 mission segments across the campaign; the PS1 version omits two train-related jobs.",
+            "pt": "O PC tem 90 segmentos de missão na campanha; a versão de PS1 omite dois trabalhos ligados a trens."
+          }
+        }
+      ]
+    },
+    {
+      "key": "gangsta-bang-liberty-city",
+      "title": "Liberty City: Gangsta Bang",
+      "title_i18n": {
+        "en": "Liberty City: Gangsta Bang",
+        "pt": "Liberty City: Gangsta Bang"
+      },
+      "items": [
+        {
+          "key": "gangsta-confirm-million-target",
+          "title": "Confirm the 1,000,000-point target",
+          "title_i18n": {
+            "en": "Confirm the 1,000,000-point target",
+            "pt": "Confira a meta de 1.000.000 de pontos"
+          },
+          "description": "Read the opening target and begin the first Liberty City run.",
+          "description_i18n": {
+            "en": "Read the opening target and begin the first Liberty City run.",
+            "pt": "Leia a meta inicial e comece a primeira partida em Liberty City."
+          }
+        },
+        {
+          "key": "gangsta-find-south-park-phones",
+          "title": "Find the South Park phones",
+          "title_i18n": {
+            "en": "Find the South Park phones",
+            "pt": "Encontre os telefones de South Park"
+          },
+          "description": "Inspect the opening phone group and choose an available contract.",
+          "description_i18n": {
+            "en": "Inspect the opening phone group and choose an available contract.",
+            "pt": "Examine o grupo inicial de telefones e escolha um contrato disponível."
+          }
+        },
+        {
+          "key": "gangsta-complete-selected-contract",
+          "title": "Complete a selected opening contract",
+          "title_i18n": {
+            "en": "Complete a selected opening contract",
+            "pt": "Conclua um contrato inicial escolhido"
+          },
+          "description": "Follow the actual pager objectives through the payout instead of leaving after the first instruction.",
+          "description_i18n": {
+            "en": "Follow the actual pager objectives through the payout instead of leaving after the first instruction.",
+            "pt": "Siga os objetivos reais do pager até o pagamento, sem sair após a primeira instrução."
+          }
+        },
+        {
+          "key": "gangsta-learn-nearby-return-roads",
+          "title": "Learn the nearby return roads",
+          "title_i18n": {
+            "en": "Learn the nearby return roads",
+            "pt": "Aprenda os caminhos próximos de retorno"
+          },
+          "description": "Connect South Park to the districts named by your active job.",
+          "description_i18n": {
+            "en": "Connect South Park to the districts named by your active job.",
+            "pt": "Conecte South Park aos bairros citados no trabalho ativo."
+          }
+        },
+        {
+          "key": "gangsta-note-safe-service-route",
+          "title": "Note a service route",
+          "title_i18n": {
+            "en": "Note a service route",
+            "pt": "Anote uma rota de serviço"
+          },
+          "description": "Identify a practical route to a respray garage or useful equipment before the next pursuit.",
+          "description_i18n": {
+            "en": "Identify a practical route to a respray garage or useful equipment before the next pursuit.",
+            "pt": "Identifique uma rota prática até uma oficina de pintura ou equipamento útil antes da próxima perseguição."
+          }
+        },
+        {
+          "key": "gangsta-build-reliable-multiplier",
+          "title": "Build a reliable multiplier",
+          "title_i18n": {
+            "en": "Build a reliable multiplier",
+            "pt": "Construa um multiplicador confiável"
+          },
+          "description": "Use successful work to improve scoring while keeping the current run viable.",
+          "description_i18n": {
+            "en": "Use successful work to improve scoring while keeping the current run viable.",
+            "pt": "Use trabalhos bem-sucedidos para melhorar a pontuação e preservar a partida atual."
+          }
+        },
+        {
+          "key": "gangsta-select-remaining-score-work",
+          "title": "Select work for the remaining score",
+          "title_i18n": {
+            "en": "Select work for the remaining score",
+            "pt": "Escolha trabalhos para os pontos restantes"
+          },
+          "description": "Choose another available phone or vehicle contract only as needed for the target.",
+          "description_i18n": {
+            "en": "Choose another available phone or vehicle contract only as needed for the target.",
+            "pt": "Escolha outro contrato disponível de telefone ou veículo conforme precisar para alcançar a meta."
+          }
+        },
+        {
+          "key": "gangsta-reach-million",
+          "title": "Reach 1,000,000 points",
+          "title_i18n": {
+            "en": "Reach 1,000,000 points",
+            "pt": "Alcance 1.000.000 de pontos"
+          },
+          "description": "Confirm the target is met and watch for the ending instruction.",
+          "description_i18n": {
+            "en": "Confirm the target is met and watch for the ending instruction.",
+            "pt": "Confirme que atingiu a meta e observe a instrução de encerramento."
+          }
+        },
+        {
+          "key": "gangsta-complete-level-ending",
+          "title": "Complete the Gangsta Bang ending",
+          "title_i18n": {
+            "en": "Complete the Gangsta Bang ending",
+            "pt": "Conclua o encerramento de Gangsta Bang"
+          },
+          "description": "Follow the ending marker and finish the meeting that unlocks Heist Almighty.",
+          "description_i18n": {
+            "en": "Follow the ending marker and finish the meeting that unlocks Heist Almighty.",
+            "pt": "Siga a marcação final e conclua o encontro que libera Heist Almighty."
+          },
+          "details": "After reaching one million points, read the new contact message and use its marker to find the final meeting in the Park district. Approach the actual alley entrance rather than driving directly toward the arrow through surrounding blocks. Finish the meeting scene to register completion and unlock Heist Almighty. If you are pursuing every optional contract, postpone this exit until your separate checklist is finished; reaching the score target is permission to leave, not proof that all jobs were completed.",
+          "details_i18n": {
+            "en": "After reaching one million points, read the new contact message and use its marker to find the final meeting in the Park district. Approach the actual alley entrance rather than driving directly toward the arrow through surrounding blocks. Finish the meeting scene to register completion and unlock Heist Almighty. If you are pursuing every optional contract, postpone this exit until your separate checklist is finished; reaching the score target is permission to leave, not proof that all jobs were completed.",
+            "pt": "Depois de alcançar um milhão de pontos, leia a nova mensagem e use a marcação para encontrar o encontro final no bairro Park. Procure a entrada real do beco em vez de dirigir diretamente para a seta através dos quarteirões. Termine a cena do encontro para registrar a conclusão e liberar Heist Almighty. Se estiver buscando todos os contratos opcionais, adie a saída até terminar sua lista separada; atingir a meta permite sair, mas não comprova a conclusão de todos os trabalhos."
+          }
+        }
+      ]
+    },
+    {
+      "key": "heist-almighty-liberty-city",
+      "title": "Liberty City: Heist Almighty",
+      "title_i18n": {
+        "en": "Liberty City: Heist Almighty",
+        "pt": "Liberty City: Heist Almighty"
+      },
+      "items": [
+        {
+          "key": "heist-begin-second-liberty-run",
+          "title": "Begin the second Liberty City run",
+          "title_i18n": {
+            "en": "Begin the second Liberty City run",
+            "pt": "Inicie a segunda partida de Liberty City"
+          },
+          "description": "Read Heist Almighty's 2,000,000-point target and its opening instructions.",
+          "description_i18n": {
+            "en": "Read Heist Almighty's 2,000,000-point target and its opening instructions.",
+            "pt": "Leia a meta de 2.000.000 de pontos de Heist Almighty e suas instruções iniciais."
+          }
+        },
+        {
+          "key": "heist-resolve-opening-objective",
+          "title": "Resolve the opening objective",
+          "title_i18n": {
+            "en": "Resolve the opening objective",
+            "pt": "Resolva o objetivo inicial"
+          },
+          "description": "Complete or resolve the active opening sequence before choosing your next job.",
+          "description_i18n": {
+            "en": "Complete or resolve the active opening sequence before choosing your next job.",
+            "pt": "Conclua ou resolva a sequência inicial ativa antes de escolher o próximo trabalho."
+          }
+        },
+        {
+          "key": "heist-locate-north-fort-law-phones",
+          "title": "Locate the North Fort Law phones",
+          "title_i18n": {
+            "en": "Locate the North Fort Law phones",
+            "pt": "Localize os telefones de North Fort Law"
+          },
+          "description": "Inspect the available phone work and read its full briefing.",
+          "description_i18n": {
+            "en": "Inspect the available phone work and read its full briefing.",
+            "pt": "Examine os trabalhos disponíveis nos telefones e leia todas as instruções."
+          }
+        },
+        {
+          "key": "heist-plan-cross-district-drive",
+          "title": "Plan a cross-district drive",
+          "title_i18n": {
+            "en": "Plan a cross-district drive",
+            "pt": "Planeje uma viagem entre bairros"
+          },
+          "description": "Check bridge approaches and destination districts before accepting a long timed trip.",
+          "description_i18n": {
+            "en": "Check bridge approaches and destination districts before accepting a long timed trip.",
+            "pt": "Confira os acessos das pontes e os bairros de destino antes de aceitar uma viagem longa cronometrada."
+          },
+          "details": "Liberty City routes are constrained by bridge approaches and elevated structures, so a target that looks close can require a longer road circuit. Check the starting district and destination before accelerating into an unfamiliar turn. On PC, trains offer another way across the city, but you must board and leave at stations; a moving train is not an immediate exit route to any point beneath its track. Preserve enough time for the walk from the arrival station to the actual objective.",
+          "details_i18n": {
+            "en": "Liberty City routes are constrained by bridge approaches and elevated structures, so a target that looks close can require a longer road circuit. Check the starting district and destination before accelerating into an unfamiliar turn. On PC, trains offer another way across the city, but you must board and leave at stations; a moving train is not an immediate exit route to any point beneath its track. Preserve enough time for the walk from the arrival station to the actual objective.",
+            "pt": "As rotas de Liberty City dependem dos acessos às pontes e das estruturas elevadas; um alvo aparentemente próximo pode exigir uma volta maior pelas ruas. Confira o bairro inicial e o destino antes de acelerar numa curva desconhecida. No PC, os trens oferecem outra forma de atravessar a cidade, mas é preciso embarcar e sair nas estações; um trem em movimento não permite descer imediatamente em qualquer ponto sob os trilhos. Reserve tempo para caminhar da estação de chegada até o objetivo real."
+          }
+        },
+        {
+          "key": "heist-prepare-equipment-for-next-job",
+          "title": "Prepare equipment for the next job",
+          "title_i18n": {
+            "en": "Prepare equipment for the next job",
+            "pt": "Prepare o equipamento para o próximo trabalho"
+          },
+          "description": "Rebuild a usable weapon supply before committing to another combat-heavy objective.",
+          "description_i18n": {
+            "en": "Rebuild a usable weapon supply before committing to another combat-heavy objective.",
+            "pt": "Reponha um arsenal útil antes de iniciar outro objetivo com muito combate."
+          }
+        },
+        {
+          "key": "heist-complete-selected-phone-work",
+          "title": "Complete selected phone work",
+          "title_i18n": {
+            "en": "Complete selected phone work",
+            "pt": "Conclua trabalhos escolhidos dos telefones"
+          },
+          "description": "Finish available contracts until their rewards provide a workable route toward the score gate.",
+          "description_i18n": {
+            "en": "Finish available contracts until their rewards provide a workable route toward the score gate.",
+            "pt": "Conclua contratos disponíveis até que as recompensas ofereçam uma rota viável para a meta de pontos."
+          }
+        },
+        {
+          "key": "heist-protect-late-run-progress",
+          "title": "Protect late-run progress",
+          "title_i18n": {
+            "en": "Protect late-run progress",
+            "pt": "Proteja o progresso avançado da partida"
+          },
+          "description": "Review lives, pursuit and multiplier before choosing the final scoring opportunity.",
+          "description_i18n": {
+            "en": "Review lives, pursuit and multiplier before choosing the final scoring opportunity.",
+            "pt": "Confira vidas, perseguição e multiplicador antes de escolher a última oportunidade de pontuar."
+          }
+        },
+        {
+          "key": "heist-reach-two-million",
+          "title": "Reach 2,000,000 points",
+          "title_i18n": {
+            "en": "Reach 2,000,000 points",
+            "pt": "Alcance 2.000.000 de pontos"
+          },
+          "description": "Meet the target and finish any currently active job state before seeking the ending.",
+          "description_i18n": {
+            "en": "Meet the target and finish any currently active job state before seeking the ending.",
+            "pt": "Cumpra a meta e resolva qualquer trabalho ativo antes de procurar o encerramento."
+          }
+        },
+        {
+          "key": "heist-complete-level-ending",
+          "title": "Complete the Heist Almighty ending",
+          "title_i18n": {
+            "en": "Complete the Heist Almighty ending",
+            "pt": "Conclua o encerramento de Heist Almighty"
+          },
+          "description": "Follow the final contact's instructions and unlock the first San Andreas chapter.",
+          "description_i18n": {
+            "en": "Follow the final contact's instructions and unlock the first San Andreas chapter.",
+            "pt": "Siga as instruções do contato final e libere o primeiro capítulo de San Andreas."
+          }
+        }
+      ]
+    },
+    {
+      "key": "mandarin-mayhem-san-andreas",
+      "title": "San Andreas: Mandarin Mayhem",
+      "title_i18n": {
+        "en": "San Andreas: Mandarin Mayhem",
+        "pt": "San Andreas: Mandarin Mayhem"
+      },
+      "items": [
+        {
+          "key": "mandarin-read-new-city-target",
+          "title": "Read the new city's target",
+          "title_i18n": {
+            "en": "Read the new city's target",
+            "pt": "Leia a meta da nova cidade"
+          },
+          "description": "Begin Mandarin Mayhem and confirm its 2,000,000-point requirement.",
+          "description_i18n": {
+            "en": "Begin Mandarin Mayhem and confirm its 2,000,000-point requirement.",
+            "pt": "Comece Mandarin Mayhem e confira a exigência de 2.000.000 de pontos."
+          }
+        },
+        {
+          "key": "mandarin-find-central-market-work",
+          "title": "Find Central Market work",
+          "title_i18n": {
+            "en": "Find Central Market work",
+            "pt": "Encontre trabalhos de Central Market"
+          },
+          "description": "Locate the initial phone group and choose one of Uncle Fu's available jobs.",
+          "description_i18n": {
+            "en": "Locate the initial phone group and choose one of Uncle Fu's available jobs.",
+            "pt": "Localize o grupo inicial de telefones e escolha um trabalho disponível de Uncle Fu."
+          }
+        },
+        {
+          "key": "mandarin-follow-multipart-contract",
+          "title": "Follow a multipart contract",
+          "title_i18n": {
+            "en": "Follow a multipart contract",
+            "pt": "Acompanhe um contrato com várias partes"
+          },
+          "description": "Continue reading after each objective because a phone can supply successive mission segments.",
+          "description_i18n": {
+            "en": "Continue reading after each objective because a phone can supply successive mission segments.",
+            "pt": "Continue lendo após cada objetivo, pois um telefone pode fornecer segmentos sucessivos de missão."
+          }
+        },
+        {
+          "key": "mandarin-learn-hill-and-road-connections",
+          "title": "Learn the hill and road connections",
+          "title_i18n": {
+            "en": "Learn the hill and road connections",
+            "pt": "Aprenda as conexões entre colinas e estradas"
+          },
+          "description": "Use district names and the city map to plan efficient routes through San Andreas.",
+          "description_i18n": {
+            "en": "Use district names and the city map to plan efficient routes through San Andreas.",
+            "pt": "Use os nomes dos bairros e o mapa para planejar rotas eficientes por San Andreas."
+          }
+        },
+        {
+          "key": "mandarin-check-later-work-if-needed",
+          "title": "Check later work if needed",
+          "title_i18n": {
+            "en": "Check later work if needed",
+            "pt": "Confira trabalhos posteriores se necessário"
+          },
+          "description": "Inspect newly available phone groups when the opening jobs no longer cover your score plan.",
+          "description_i18n": {
+            "en": "Inspect newly available phone groups when the opening jobs no longer cover your score plan.",
+            "pt": "Examine os grupos de telefones liberados quando os trabalhos iniciais não bastarem para seu plano de pontos."
+          },
+          "details": "The first phone set is in Central Market; the later North Sunview set becomes available after the initial Market mission chains have been attempted. A phone can continue into another segment automatically, so keep following its messages until that chain is resolved. If the later group is unavailable, inspect the initial phones for unfinished work instead of assuming your score is the unlock condition. Successful completion helps the multiplier, but the phone-group progression and the two-million-point level exit are separate checks.",
+          "details_i18n": {
+            "en": "The first phone set is in Central Market; the later North Sunview set becomes available after the initial Market mission chains have been attempted. A phone can continue into another segment automatically, so keep following its messages until that chain is resolved. If the later group is unavailable, inspect the initial phones for unfinished work instead of assuming your score is the unlock condition. Successful completion helps the multiplier, but the phone-group progression and the two-million-point level exit are separate checks.",
+            "pt": "O primeiro conjunto de telefones fica em Central Market; o conjunto posterior de North Sunview aparece depois que as sequências iniciais de Market foram tentadas. Um telefone pode continuar automaticamente em outro segmento; siga as mensagens até resolver aquela sequência. Se o grupo posterior estiver indisponível, confira os telefones iniciais em busca de trabalho pendente em vez de presumir que a pontuação seja a condição de liberação. Concluir com sucesso ajuda o multiplicador, mas o avanço entre grupos e a saída de dois milhões são verificações separadas."
+          }
+        },
+        {
+          "key": "mandarin-maintain-equipment-and-multiplier",
+          "title": "Maintain equipment and multiplier",
+          "title_i18n": {
+            "en": "Maintain equipment and multiplier",
+            "pt": "Mantenha o equipamento e o multiplicador"
+          },
+          "description": "Prepare the next job while preserving the value of earlier successful work.",
+          "description_i18n": {
+            "en": "Prepare the next job while preserving the value of earlier successful work.",
+            "pt": "Prepare o próximo trabalho preservando o valor das tarefas anteriores bem-sucedidas."
+          }
+        },
+        {
+          "key": "mandarin-close-score-gap",
+          "title": "Close the remaining score gap",
+          "title_i18n": {
+            "en": "Close the remaining score gap",
+            "pt": "Complete os pontos restantes"
+          },
+          "description": "Choose a viable available job rather than restarting solely because one phone contract failed.",
+          "description_i18n": {
+            "en": "Choose a viable available job rather than restarting solely because one phone contract failed.",
+            "pt": "Escolha um trabalho disponível viável em vez de reiniciar apenas porque um contrato de telefone falhou."
+          }
+        },
+        {
+          "key": "mandarin-reach-two-million",
+          "title": "Reach 2,000,000 points",
+          "title_i18n": {
+            "en": "Reach 2,000,000 points",
+            "pt": "Alcance 2.000.000 de pontos"
+          },
+          "description": "Confirm the target and read the ending message before crossing the city again.",
+          "description_i18n": {
+            "en": "Confirm the target and read the ending message before crossing the city again.",
+            "pt": "Confirme a meta e leia a mensagem final antes de atravessar a cidade novamente."
+          }
+        },
+        {
+          "key": "mandarin-complete-level-ending",
+          "title": "Complete the Mandarin Mayhem ending",
+          "title_i18n": {
+            "en": "Complete the Mandarin Mayhem ending",
+            "pt": "Conclua o encerramento de Mandarin Mayhem"
+          },
+          "description": "Reach the indicated final meeting and unlock Tequila Slammer.",
+          "description_i18n": {
+            "en": "Reach the indicated final meeting and unlock Tequila Slammer.",
+            "pt": "Alcance o encontro final indicado e libere Tequila Slammer."
+          }
+        }
+      ]
+    },
+    {
+      "key": "tequila-slammer-san-andreas",
+      "title": "San Andreas: Tequila Slammer",
+      "title_i18n": {
+        "en": "San Andreas: Tequila Slammer",
+        "pt": "San Andreas: Tequila Slammer"
+      },
+      "items": [
+        {
+          "key": "tequila-confirm-three-million-target",
+          "title": "Confirm the 3,000,000-point target",
+          "title_i18n": {
+            "en": "Confirm the 3,000,000-point target",
+            "pt": "Confira a meta de 3.000.000 de pontos"
+          },
+          "description": "Read Tequila Slammer's introduction and the increased scoring requirement.",
+          "description_i18n": {
+            "en": "Read Tequila Slammer's introduction and the increased scoring requirement.",
+            "pt": "Leia a apresentação de Tequila Slammer e a exigência maior de pontuação."
+          }
+        },
+        {
+          "key": "tequila-find-telephone-hill-work",
+          "title": "Find Telephone Hill work",
+          "title_i18n": {
+            "en": "Find Telephone Hill work",
+            "pt": "Encontre trabalhos de Telephone Hill"
+          },
+          "description": "Locate the opening phone group and inspect El Burro's available contracts.",
+          "description_i18n": {
+            "en": "Locate the opening phone group and inspect El Burro's available contracts.",
+            "pt": "Localize o grupo inicial de telefones e confira os contratos disponíveis de El Burro."
+          }
+        },
+        {
+          "key": "tequila-complete-selected-contract",
+          "title": "Complete a selected contract",
+          "title_i18n": {
+            "en": "Complete a selected contract",
+            "pt": "Conclua um contrato escolhido"
+          },
+          "description": "Follow the successive pager objectives and confirm the reward before changing plans.",
+          "description_i18n": {
+            "en": "Follow the successive pager objectives and confirm the reward before changing plans.",
+            "pt": "Siga os objetivos sucessivos do pager e confirme a recompensa antes de mudar os planos."
+          }
+        },
+        {
+          "key": "tequila-map-destination-approaches",
+          "title": "Map the destination approaches",
+          "title_i18n": {
+            "en": "Map the destination approaches",
+            "pt": "Mapeie os acessos aos destinos"
+          },
+          "description": "Plan the roads connecting the active districts before accepting another timed drive.",
+          "description_i18n": {
+            "en": "Plan the roads connecting the active districts before accepting another timed drive.",
+            "pt": "Planeje as estradas entre os bairros ativos antes de aceitar outra viagem cronometrada."
+          }
+        },
+        {
+          "key": "tequila-check-next-phone-group",
+          "title": "Check the next phone group if needed",
+          "title_i18n": {
+            "en": "Check the next phone group if needed",
+            "pt": "Confira o próximo grupo de telefones se necessário"
+          },
+          "description": "Look for additional work when the current group is exhausted and the score remains short.",
+          "description_i18n": {
+            "en": "Look for additional work when the current group is exhausted and the score remains short.",
+            "pt": "Procure novos trabalhos quando o grupo atual se esgotar e ainda faltarem pontos."
+          },
+          "details": "Begin with the North Telephone Hill phone group. The later Northeast Sailor’s Wharf group becomes available after the starting set has been attempted, so return to any unresolved initial contract when the new phones do not activate. Keep following automatic continuation messages within a contract. The intended chapter score target is three million points; this walkthrough follows that normal progression rather than relying on the unmarked-exit shortcut used by some speedruns. Complete the final contact sequence when you choose to leave.",
+          "details_i18n": {
+            "en": "Begin with the North Telephone Hill phone group. The later Northeast Sailor’s Wharf group becomes available after the starting set has been attempted, so return to any unresolved initial contract when the new phones do not activate. Keep following automatic continuation messages within a contract. The intended chapter score target is three million points; this walkthrough follows that normal progression rather than relying on the unmarked-exit shortcut used by some speedruns. Complete the final contact sequence when you choose to leave.",
+            "pt": "Comece pelo grupo de telefones de North Telephone Hill. O grupo posterior de Northeast Sailor’s Wharf fica disponível após tentar o conjunto inicial; volte aos contratos iniciais pendentes se os novos telefones não ativarem. Continue seguindo as mensagens automáticas dentro de um contrato. A meta prevista do capítulo é de três milhões de pontos; este guia segue esse progresso normal, sem depender do atalho de saída sem marcação usado em algumas corridas rápidas. Conclua a sequência do contato final quando decidir sair."
+          }
+        },
+        {
+          "key": "tequila-check-mission-vehicle-condition",
+          "title": "Check the mission vehicle's condition",
+          "title_i18n": {
+            "en": "Check the mission vehicle's condition",
+            "pt": "Confira a condição do veículo da missão"
+          },
+          "description": "Protect vehicles named by an objective and distinguish them from replaceable transport.",
+          "description_i18n": {
+            "en": "Protect vehicles named by an objective and distinguish them from replaceable transport.",
+            "pt": "Proteja os veículos citados pelo objetivo e diferencie-os do transporte que pode ser trocado."
+          }
+        },
+        {
+          "key": "tequila-plan-final-score-push",
+          "title": "Plan the final scoring push",
+          "title_i18n": {
+            "en": "Plan the final scoring push",
+            "pt": "Planeje a etapa final de pontuação"
+          },
+          "description": "Choose a manageable available objective with your remaining lives and equipment.",
+          "description_i18n": {
+            "en": "Choose a manageable available objective with your remaining lives and equipment.",
+            "pt": "Escolha um objetivo disponível viável com as vidas e o equipamento restantes."
+          }
+        },
+        {
+          "key": "tequila-reach-three-million",
+          "title": "Reach 3,000,000 points",
+          "title_i18n": {
+            "en": "Reach 3,000,000 points",
+            "pt": "Alcance 3.000.000 de pontos"
+          },
+          "description": "Meet the intended chapter target and read the final contact's message.",
+          "description_i18n": {
+            "en": "Meet the intended chapter target and read the final contact's message.",
+            "pt": "Cumpra a meta prevista do capítulo e leia a mensagem do contato final."
+          }
+        },
+        {
+          "key": "tequila-complete-level-ending",
+          "title": "Complete the Tequila Slammer ending",
+          "title_i18n": {
+            "en": "Complete the Tequila Slammer ending",
+            "pt": "Conclua o encerramento de Tequila Slammer"
+          },
+          "description": "Follow the final meeting instruction and unlock Vice City.",
+          "description_i18n": {
+            "en": "Follow the final meeting instruction and unlock Vice City.",
+            "pt": "Siga a instrução do encontro final e libere Vice City."
+          }
+        }
+      ]
+    },
+    {
+      "key": "bent-cop-blues-vice-city",
+      "title": "Vice City: Bent Cop Blues",
+      "title_i18n": {
+        "en": "Vice City: Bent Cop Blues",
+        "pt": "Vice City: Bent Cop Blues"
+      },
+      "items": [
+        {
+          "key": "bent-read-vice-city-target",
+          "title": "Read Vice City's opening target",
+          "title_i18n": {
+            "en": "Read Vice City's opening target",
+            "pt": "Leia a meta inicial de Vice City"
+          },
+          "description": "Begin Bent Cop Blues and confirm the 3,000,000-point goal.",
+          "description_i18n": {
+            "en": "Begin Bent Cop Blues and confirm the 3,000,000-point goal.",
+            "pt": "Comece Bent Cop Blues e confira a meta de 3.000.000 de pontos."
+          }
+        },
+        {
+          "key": "bent-find-east-vice-beach-phones",
+          "title": "Find the East Vice Beach phones",
+          "title_i18n": {
+            "en": "Find the East Vice Beach phones",
+            "pt": "Encontre os telefones de East Vice Beach"
+          },
+          "description": "Inspect the first phone group and read the available assignment.",
+          "description_i18n": {
+            "en": "Inspect the first phone group and read the available assignment.",
+            "pt": "Examine o primeiro grupo de telefones e leia a tarefa disponível."
+          }
+        },
+        {
+          "key": "bent-complete-selected-deever-job",
+          "title": "Complete selected work for Deever",
+          "title_i18n": {
+            "en": "Complete selected work for Deever",
+            "pt": "Conclua um trabalho escolhido de Deever"
+          },
+          "description": "Follow the contract's actual instructions through its completion message.",
+          "description_i18n": {
+            "en": "Follow the contract's actual instructions through its completion message.",
+            "pt": "Siga as instruções reais do contrato até a mensagem de conclusão."
+          }
+        },
+        {
+          "key": "bent-learn-vice-shores-connections",
+          "title": "Learn the Vice Shores connections",
+          "title_i18n": {
+            "en": "Learn the Vice Shores connections",
+            "pt": "Aprenda as conexões de Vice Shores"
+          },
+          "description": "Identify practical routes between the beach, inland roads and later phone groups.",
+          "description_i18n": {
+            "en": "Identify practical routes between the beach, inland roads and later phone groups.",
+            "pt": "Identifique rotas práticas entre a praia, as vias internas e os grupos posteriores de telefones."
+          }
+        },
+        {
+          "key": "bent-check-greek-heights-work",
+          "title": "Check Greek Heights work if needed",
+          "title_i18n": {
+            "en": "Check Greek Heights work if needed",
+            "pt": "Confira trabalhos de Greek Heights se necessário"
+          },
+          "description": "Inspect available work in the later districts when more score is required.",
+          "description_i18n": {
+            "en": "Inspect available work in the later districts when more score is required.",
+            "pt": "Confira os trabalhos disponíveis nos bairros posteriores quando precisar de mais pontos."
+          },
+          "details": "The three main groups are around East Vice Beach, Southwest Vice Shores and Southwest Greek Heights. An optional all-jobs run must also investigate the isolated phones in West Banana Grove, South Vice Beach, Northwest Vice Shores and Northeast Richman Heights. For ordinary campaign progress, use the jobs you can complete reliably to reach three million points; clearing every isolated phone is not an additional exit requirement. Match the district label to the original Vice City map before taking a timed objective.",
+          "details_i18n": {
+            "en": "The three main groups are around East Vice Beach, Southwest Vice Shores and Southwest Greek Heights. An optional all-jobs run must also investigate the isolated phones in West Banana Grove, South Vice Beach, Northwest Vice Shores and Northeast Richman Heights. For ordinary campaign progress, use the jobs you can complete reliably to reach three million points; clearing every isolated phone is not an additional exit requirement. Match the district label to the original Vice City map before taking a timed objective.",
+            "pt": "Os três grupos principais ficam em East Vice Beach, Southwest Vice Shores e Southwest Greek Heights. Uma partida opcional de todos os trabalhos também precisa investigar os telefones isolados em West Banana Grove, South Vice Beach, Northwest Vice Shores e Northeast Richman Heights. Para avançar normalmente na campanha, use os trabalhos que consegue concluir para alcançar três milhões; terminar todos os telefones isolados não é uma exigência adicional de saída. Confira o bairro no mapa original de Vice City antes de aceitar um objetivo cronometrado."
+          }
+        },
+        {
+          "key": "bent-prepare-recovery-route",
+          "title": "Prepare a recovery route",
+          "title_i18n": {
+            "en": "Prepare a recovery route",
+            "pt": "Prepare uma rota de recuperação"
+          },
+          "description": "Locate useful equipment and a workable escape route before another difficult objective.",
+          "description_i18n": {
+            "en": "Locate useful equipment and a workable escape route before another difficult objective.",
+            "pt": "Localize equipamentos úteis e uma rota de fuga viável antes de outro objetivo difícil."
+          }
+        },
+        {
+          "key": "bent-choose-final-reward-opportunity",
+          "title": "Choose the final reward opportunity",
+          "title_i18n": {
+            "en": "Choose the final reward opportunity",
+            "pt": "Escolha a última oportunidade de recompensa"
+          },
+          "description": "Use remaining available jobs to close the score gap without chasing every optional contract.",
+          "description_i18n": {
+            "en": "Use remaining available jobs to close the score gap without chasing every optional contract.",
+            "pt": "Use os trabalhos restantes para completar os pontos sem precisar buscar todos os contratos opcionais."
+          }
+        },
+        {
+          "key": "bent-reach-three-million",
+          "title": "Reach 3,000,000 points",
+          "title_i18n": {
+            "en": "Reach 3,000,000 points",
+            "pt": "Alcance 3.000.000 de pontos"
+          },
+          "description": "Confirm the target and finish or resolve the current mission state.",
+          "description_i18n": {
+            "en": "Confirm the target and finish or resolve the current mission state.",
+            "pt": "Confirme a meta e conclua ou resolva a missão atual."
+          }
+        },
+        {
+          "key": "bent-complete-level-ending",
+          "title": "Complete the Bent Cop Blues ending",
+          "title_i18n": {
+            "en": "Complete the Bent Cop Blues ending",
+            "pt": "Conclua o encerramento de Bent Cop Blues"
+          },
+          "description": "Follow the final meeting marker and unlock Rasta Blasta.",
+          "description_i18n": {
+            "en": "Follow the final meeting marker and unlock Rasta Blasta.",
+            "pt": "Siga a marcação do encontro final e libere Rasta Blasta."
+          }
+        }
+      ]
+    },
+    {
+      "key": "rasta-blasta-vice-city-finale",
+      "title": "Vice City: Rasta Blasta and the finale",
+      "title_i18n": {
+        "en": "Vice City: Rasta Blasta and the finale",
+        "pt": "Vice City: Rasta Blasta e o desfecho"
+      },
+      "items": [
+        {
+          "key": "rasta-begin-final-chapter",
+          "title": "Begin the final chapter",
+          "title_i18n": {
+            "en": "Begin the final chapter",
+            "pt": "Inicie o capítulo final"
+          },
+          "description": "Read Rasta Blasta's opening and its 5,000,000-point target.",
+          "description_i18n": {
+            "en": "Read Rasta Blasta's opening and its 5,000,000-point target.",
+            "pt": "Leia a abertura de Rasta Blasta e sua meta de 5.000.000 de pontos."
+          }
+        },
+        {
+          "key": "rasta-resolve-active-introduction",
+          "title": "Resolve the active introduction",
+          "title_i18n": {
+            "en": "Resolve the active introduction",
+            "pt": "Resolva a introdução ativa"
+          },
+          "description": "Read and resolve the job already active at the start before planning the wider run.",
+          "description_i18n": {
+            "en": "Read and resolve the job already active at the start before planning the wider run.",
+            "pt": "Leia e resolva o trabalho já ativo no começo antes de planejar o restante da partida."
+          }
+        },
+        {
+          "key": "rasta-inspect-main-phone-groups",
+          "title": "Inspect the main phone groups",
+          "title_i18n": {
+            "en": "Inspect the main phone groups",
+            "pt": "Examine os principais grupos de telefones"
+          },
+          "description": "Choose available work around Vice Beach, Vice Shores and Greek Heights as needed.",
+          "description_i18n": {
+            "en": "Choose available work around Vice Beach, Vice Shores and Greek Heights as needed.",
+            "pt": "Escolha trabalhos disponíveis em Vice Beach, Vice Shores e Greek Heights conforme precisar."
+          }
+        },
+        {
+          "key": "rasta-plan-long-cross-city-route",
+          "title": "Plan a long cross-city route",
+          "title_i18n": {
+            "en": "Plan a long cross-city route",
+            "pt": "Planeje uma rota longa pela cidade"
+          },
+          "description": "Use road connections and available PC transport to reduce unnecessary backtracking.",
+          "description_i18n": {
+            "en": "Use road connections and available PC transport to reduce unnecessary backtracking.",
+            "pt": "Use as conexões viárias e o transporte disponível no PC para reduzir retornos desnecessários."
+          }
+        },
+        {
+          "key": "rasta-control-pursuit-before-new-job",
+          "title": "Control pursuit before a new job",
+          "title_i18n": {
+            "en": "Control pursuit before a new job",
+            "pt": "Controle a perseguição antes de outro trabalho"
+          },
+          "description": "Avoid carrying an uncontrolled pursuit into an objective that needs a specific car or contact.",
+          "description_i18n": {
+            "en": "Avoid carrying an uncontrolled pursuit into an objective that needs a specific car or contact.",
+            "pt": "Evite levar uma perseguição descontrolada a um objetivo que exija um carro ou contato específico."
+          }
+        },
+        {
+          "key": "rasta-complete-selected-late-contracts",
+          "title": "Complete selected late contracts",
+          "title_i18n": {
+            "en": "Complete selected late contracts",
+            "pt": "Conclua contratos finais escolhidos"
+          },
+          "description": "Finish the available jobs that best support the remaining score requirement.",
+          "description_i18n": {
+            "en": "Finish the available jobs that best support the remaining score requirement.",
+            "pt": "Conclua os trabalhos disponíveis que melhor atendam aos pontos restantes."
+          }
+        },
+        {
+          "key": "rasta-review-final-run-status",
+          "title": "Review the final run's status",
+          "title_i18n": {
+            "en": "Review the final run's status",
+            "pt": "Revise a situação da partida final"
+          },
+          "description": "Check your lives, score, multiplier and current objective before committing to the last push.",
+          "description_i18n": {
+            "en": "Check your lives, score, multiplier and current objective before committing to the last push.",
+            "pt": "Confira vidas, pontos, multiplicador e objetivo atual antes de iniciar a última etapa."
+          }
+        },
+        {
+          "key": "rasta-reach-five-million",
+          "title": "Reach 5,000,000 points",
+          "title_i18n": {
+            "en": "Reach 5,000,000 points",
+            "pt": "Alcance 5.000.000 de pontos"
+          },
+          "description": "Meet the final target and watch for the chapter-ending instruction.",
+          "description_i18n": {
+            "en": "Meet the final target and watch for the chapter-ending instruction.",
+            "pt": "Cumpra a meta final e observe a instrução de encerramento do capítulo."
+          },
+          "details": "Rasta Blasta begins with an active introduction job. Resolve that job and any later active contract before expecting the ending marker to appear after five million points. If the score is already sufficient but there is no final marker, check the pager and current mission state first. Avoid answering another optional phone once you are ready to leave. Follow the final contact’s marker to the meeting and let its scene finish; the displayed score alone does not complete the campaign ending.",
+          "details_i18n": {
+            "en": "Rasta Blasta begins with an active introduction job. Resolve that job and any later active contract before expecting the ending marker to appear after five million points. If the score is already sufficient but there is no final marker, check the pager and current mission state first. Avoid answering another optional phone once you are ready to leave. Follow the final contact’s marker to the meeting and let its scene finish; the displayed score alone does not complete the campaign ending.",
+            "pt": "Rasta Blasta começa com um trabalho introdutório ativo. Resolva esse trabalho e qualquer contrato posterior em andamento antes de esperar a marcação final após cinco milhões de pontos. Se os pontos bastarem, mas a marcação não aparecer, confira primeiro o pager e a missão atual. Evite atender outro telefone opcional quando já estiver pronto para sair. Siga a marcação do contato final até o encontro e deixe a cena terminar; a pontuação exibida, sozinha, não conclui o desfecho da campanha."
+          }
+        },
+        {
+          "key": "rasta-complete-campaign-ending",
+          "title": "Complete the campaign ending",
+          "title_i18n": {
+            "en": "Complete the campaign ending",
+            "pt": "Conclua o encerramento da campanha"
+          },
+          "description": "Follow the final meeting, finish its scene and review the campaign results.",
+          "description_i18n": {
+            "en": "Follow the final meeting, finish its scene and review the campaign results.",
+            "pt": "Siga o encontro final, conclua a cena e confira os resultados da campanha."
+          }
+        }
+      ]
+    },
+    {
+      "key": "optional-complete-phone-routes",
+      "title": "Optional complete phone routes",
+      "title_i18n": {
+        "en": "Optional complete phone routes",
+        "pt": "Rotas completas opcionais dos telefones"
+      },
+      "items": [
+        {
+          "key": "optional-gangsta-phone-chain",
+          "title": "Finish the Gangsta Bang phone chain",
+          "title_i18n": {
+            "en": "Finish the Gangsta Bang phone chain",
+            "pt": "Conclua a sequência de telefones de Gangsta Bang"
+          },
+          "description": "On a dedicated completion run, finish every South Park phone job before taking the level exit.",
+          "description_i18n": {
+            "en": "On a dedicated completion run, finish every South Park phone job before taking the level exit.",
+            "pt": "Numa partida dedicada à conclusão, termine todos os trabalhos dos telefones de South Park antes de sair do nível."
+          }
+        },
+        {
+          "key": "optional-heist-phone-chain",
+          "title": "Finish the Heist Almighty phone chain",
+          "title_i18n": {
+            "en": "Finish the Heist Almighty phone chain",
+            "pt": "Conclua a sequência de telefones de Heist Almighty"
+          },
+          "description": "Record the opening sequence and every phone contract separately from the score-only goal.",
+          "description_i18n": {
+            "en": "Record the opening sequence and every phone contract separately from the score-only goal.",
+            "pt": "Registre a sequência inicial e cada contrato de telefone separadamente da meta de pontuação."
+          }
+        },
+        {
+          "key": "optional-mandarin-phone-chains",
+          "title": "Finish the Mandarin Mayhem phone chains",
+          "title_i18n": {
+            "en": "Finish the Mandarin Mayhem phone chains",
+            "pt": "Conclua as sequências de telefones de Mandarin Mayhem"
+          },
+          "description": "Track every segment from the Central Market and North Sunview phone groups.",
+          "description_i18n": {
+            "en": "Track every segment from the Central Market and North Sunview phone groups.",
+            "pt": "Acompanhe cada segmento dos grupos de telefones de Central Market e North Sunview."
+          }
+        },
+        {
+          "key": "optional-tequila-phone-chains",
+          "title": "Finish the Tequila Slammer phone chains",
+          "title_i18n": {
+            "en": "Finish the Tequila Slammer phone chains",
+            "pt": "Conclua as sequências de telefones de Tequila Slammer"
+          },
+          "description": "Track all Telephone Hill and Sailor's Wharf contract segments on a dedicated run.",
+          "description_i18n": {
+            "en": "Track all Telephone Hill and Sailor's Wharf contract segments on a dedicated run.",
+            "pt": "Acompanhe todos os segmentos de contratos de Telephone Hill e Sailor’s Wharf numa partida dedicada."
+          }
+        },
+        {
+          "key": "optional-bent-phone-chains",
+          "title": "Finish the Bent Cop Blues phone chains",
+          "title_i18n": {
+            "en": "Finish the Bent Cop Blues phone chains",
+            "pt": "Conclua as sequências de telefones de Bent Cop Blues"
+          },
+          "description": "Check the three main groups and the additional isolated phones rather than stopping at the score target.",
+          "description_i18n": {
+            "en": "Check the three main groups and the additional isolated phones rather than stopping at the score target.",
+            "pt": "Confira os três grupos principais e os telefones isolados adicionais, continuando além da meta de pontos."
+          }
+        },
+        {
+          "key": "optional-rasta-phone-chains",
+          "title": "Finish the Rasta Blasta phone chains",
+          "title_i18n": {
+            "en": "Finish the Rasta Blasta phone chains",
+            "pt": "Conclua as sequências de telefones de Rasta Blasta"
+          },
+          "description": "Record the introduction, main phone groups and later isolated-phone jobs before the final exit.",
+          "description_i18n": {
+            "en": "Record the introduction, main phone groups and later isolated-phone jobs before the final exit.",
+            "pt": "Registre a introdução, os grupos principais e os trabalhos de telefones isolados antes da saída final."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "optional-pc-vehicle-jobs",
+      "title": "Optional PC vehicle jobs",
+      "title_i18n": {
+        "en": "Optional PC vehicle jobs",
+        "pt": "Trabalhos opcionais com veículos no PC"
+      },
+      "items": [
+        {
+          "key": "optional-gangsta-counthash-job",
+          "title": "Investigate the PC Counthash job",
+          "title_i18n": {
+            "en": "Investigate the PC Counthash job",
+            "pt": "Investigue o trabalho do Counthash no PC"
+          },
+          "description": "Find the mission-triggering Counthash in Gangsta Bang and follow its instructions.",
+          "description_i18n": {
+            "en": "Find the mission-triggering Counthash in Gangsta Bang and follow its instructions.",
+            "pt": "Encontre o Counthash que inicia uma missão em Gangsta Bang e siga suas instruções."
+          }
+        },
+        {
+          "key": "optional-heist-itali-job",
+          "title": "Investigate the PC Itali job",
+          "title_i18n": {
+            "en": "Investigate the PC Itali job",
+            "pt": "Investigue o trabalho do Itali no PC"
+          },
+          "description": "Find the PC-specific vehicle contract in Heist Almighty and finish its objective.",
+          "description_i18n": {
+            "en": "Find the PC-specific vehicle contract in Heist Almighty and finish its objective.",
+            "pt": "Encontre o contrato de veículo específico do PC em Heist Almighty e conclua seu objetivo."
+          }
+        },
+        {
+          "key": "optional-gangsta-coach-job",
+          "title": "Complete the Coach contract",
+          "title_i18n": {
+            "en": "Complete the Coach contract",
+            "pt": "Conclua o contrato do Coach"
+          },
+          "description": "Investigate the mission Coach and prepare for the handling requirements in its briefing.",
+          "description_i18n": {
+            "en": "Investigate the mission Coach and prepare for the handling requirements in its briefing.",
+            "pt": "Investigue o Coach da missão e prepare-se para as exigências de direção das instruções."
+          },
+          "details": "Entering the special Coach in Northeast Fort Law starts a bomb-bus contract. Read the briefing before moving into traffic: once the bomb condition is active, dropping below the required fifty miles per hour risks detonation. Choose broad roads and gentle bends, leave room for the bus’s slow turning and avoid tight alleys or stationary queues. Continue following the pager until the danger is explicitly resolved. Do not assume that reaching an approximate district or abandoning the bus counts as a successful delivery.",
+          "details_i18n": {
+            "en": "Entering the special Coach in Northeast Fort Law starts a bomb-bus contract. Read the briefing before moving into traffic: once the bomb condition is active, dropping below the required fifty miles per hour risks detonation. Choose broad roads and gentle bends, leave room for the bus’s slow turning and avoid tight alleys or stationary queues. Continue following the pager until the danger is explicitly resolved. Do not assume that reaching an approximate district or abandoning the bus counts as a successful delivery.",
+            "pt": "Entrar no Coach especial de Northeast Fort Law inicia um contrato com um ônibus-bomba. Leia as instruções antes de entrar no trânsito: quando a condição da bomba estiver ativa, cair abaixo das cinquenta milhas por hora exigidas pode detoná-la. Escolha ruas largas e curvas suaves, reserve espaço para as curvas lentas do ônibus e evite becos ou filas paradas. Continue seguindo o pager até que o perigo seja explicitamente resolvido. Não presuma que chegar a um bairro aproximado ou abandonar o ônibus conte como entrega bem-sucedida."
+          }
+        },
+        {
+          "key": "optional-gangsta-taxi-job",
+          "title": "Complete the mission Taxi job",
+          "title_i18n": {
+            "en": "Complete the mission Taxi job",
+            "pt": "Conclua o trabalho do Taxi de missão"
+          },
+          "description": "Locate the specific mission vehicle and follow its passenger objective.",
+          "description_i18n": {
+            "en": "Locate the specific mission vehicle and follow its passenger objective.",
+            "pt": "Localize o veículo específico da missão e siga o objetivo envolvendo o passageiro."
+          }
+        },
+        {
+          "key": "optional-other-liberty-vehicle-jobs",
+          "title": "Finish the remaining Liberty City vehicle jobs",
+          "title_i18n": {
+            "en": "Finish the remaining Liberty City vehicle jobs",
+            "pt": "Conclua os outros trabalhos de veículos em Liberty City"
+          },
+          "description": "Use a PC chapter checklist to find the other marked mission vehicles; ordinary traffic cars do not all trigger jobs.",
+          "description_i18n": {
+            "en": "Use a PC chapter checklist to find the other marked mission vehicles; ordinary traffic cars do not all trigger jobs.",
+            "pt": "Use uma lista de capítulos do PC para achar os outros veículos de missão; nem todo carro do trânsito inicia um trabalho."
+          }
+        },
+        {
+          "key": "optional-record-all-pc-mission-segments",
+          "title": "Record all 90 PC mission segments",
+          "title_i18n": {
+            "en": "Record all 90 PC mission segments",
+            "pt": "Registre os 90 segmentos de missão do PC"
+          },
+          "description": "This aggregate completion goal includes phone segments, vehicle jobs and opening missions; locations are not individually enumerated here.",
+          "description_i18n": {
+            "en": "This aggregate completion goal includes phone segments, vehicle jobs and opening missions; locations are not individually enumerated here.",
+            "pt": "Esta meta geral inclui segmentos de telefones, trabalhos com veículos e missões iniciais; os locais não são enumerados individualmente aqui."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "optional-kill-frenzy-goals",
+      "title": "Optional Kill Frenzy goals",
+      "title_i18n": {
+        "en": "Optional Kill Frenzy goals",
+        "pt": "Metas opcionais de Kill Frenzy"
+      },
+      "items": [
+        {
+          "key": "optional-gangsta-kill-frenzies",
+          "title": "Complete Gangsta Bang's Kill Frenzies",
+          "title_i18n": {
+            "en": "Complete Gangsta Bang's Kill Frenzies",
+            "pt": "Conclua os Kill Frenzies de Gangsta Bang"
+          },
+          "description": "Track the first chapter's challenge pickups separately from its phone contracts.",
+          "description_i18n": {
+            "en": "Track the first chapter's challenge pickups separately from its phone contracts.",
+            "pt": "Acompanhe os desafios do primeiro capítulo separadamente dos contratos de telefone."
+          }
+        },
+        {
+          "key": "optional-heist-kill-frenzies",
+          "title": "Complete Heist Almighty's Kill Frenzies",
+          "title_i18n": {
+            "en": "Complete Heist Almighty's Kill Frenzies",
+            "pt": "Conclua os Kill Frenzies de Heist Almighty"
+          },
+          "description": "Use the second chapter's pickup layout rather than assuming the first run's locations are unchanged.",
+          "description_i18n": {
+            "en": "Use the second chapter's pickup layout rather than assuming the first run's locations are unchanged.",
+            "pt": "Use a disposição dos itens do segundo capítulo sem presumir que os locais da primeira partida sejam iguais."
+          }
+        },
+        {
+          "key": "optional-mandarin-kill-frenzies",
+          "title": "Complete Mandarin Mayhem's Kill Frenzies",
+          "title_i18n": {
+            "en": "Complete Mandarin Mayhem's Kill Frenzies",
+            "pt": "Conclua os Kill Frenzies de Mandarin Mayhem"
+          },
+          "description": "Prepare suitable routes before activating the San Andreas challenges.",
+          "description_i18n": {
+            "en": "Prepare suitable routes before activating the San Andreas challenges.",
+            "pt": "Prepare rotas adequadas antes de ativar os desafios de San Andreas."
+          }
+        },
+        {
+          "key": "optional-tequila-kill-frenzies",
+          "title": "Complete Tequila Slammer's Kill Frenzies",
+          "title_i18n": {
+            "en": "Complete Tequila Slammer's Kill Frenzies",
+            "pt": "Conclua os Kill Frenzies de Tequila Slammer"
+          },
+          "description": "Read each challenge's actual weapon, target and time conditions before committing.",
+          "description_i18n": {
+            "en": "Read each challenge's actual weapon, target and time conditions before committing.",
+            "pt": "Leia as condições reais de arma, alvo e tempo de cada desafio antes de começar."
+          }
+        },
+        {
+          "key": "optional-bent-kill-frenzies",
+          "title": "Complete Bent Cop Blues's Kill Frenzies",
+          "title_i18n": {
+            "en": "Complete Bent Cop Blues's Kill Frenzies",
+            "pt": "Conclua os Kill Frenzies de Bent Cop Blues"
+          },
+          "description": "Separate locating a pickup from successfully satisfying its challenge objective.",
+          "description_i18n": {
+            "en": "Separate locating a pickup from successfully satisfying its challenge objective.",
+            "pt": "Diferencie localizar um item de cumprir com sucesso o objetivo do desafio."
+          },
+          "details": "Scout the surroundings before taking a Kill Frenzy pickup, because it starts a timed challenge with its own weapon and target conditions. Read the actual objective: some ask for a specified kind of target or damage rather than a generic number of kills. Plan a route to suitable traffic or enemies while keeping an escape lane open. Record successful completion separately from merely finding or activating the pickup; a chapter’s secrets counter is not a reliable substitute for your challenge-result checklist.",
+          "details_i18n": {
+            "en": "Scout the surroundings before taking a Kill Frenzy pickup, because it starts a timed challenge with its own weapon and target conditions. Read the actual objective: some ask for a specified kind of target or damage rather than a generic number of kills. Plan a route to suitable traffic or enemies while keeping an escape lane open. Record successful completion separately from merely finding or activating the pickup; a chapter’s secrets counter is not a reliable substitute for your challenge-result checklist.",
+            "pt": "Examine os arredores antes de pegar um Kill Frenzy, pois ele inicia um desafio cronometrado com condições próprias de arma e alvo. Leia o objetivo real: alguns pedem um tipo específico de alvo ou dano, não uma quantidade genérica de mortes. Planeje uma rota até veículos ou inimigos adequados mantendo uma saída livre. Registre o sucesso separadamente de apenas encontrar ou ativar o item; a contagem de segredos do capítulo não substitui de forma confiável sua lista de resultados dos desafios."
+          }
+        },
+        {
+          "key": "optional-rasta-kill-frenzies",
+          "title": "Complete Rasta Blasta's Kill Frenzies",
+          "title_i18n": {
+            "en": "Complete Rasta Blasta's Kill Frenzies",
+            "pt": "Conclua os Kill Frenzies de Rasta Blasta"
+          },
+          "description": "Treat the final chapter's challenge set as an optional dedicated-run goal.",
+          "description_i18n": {
+            "en": "Treat the final chapter's challenge set as an optional dedicated-run goal.",
+            "pt": "Trate o conjunto de desafios do capítulo final como uma meta opcional para uma partida dedicada."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "aggregate-exploration-and-mastery",
+      "title": "Aggregate exploration and mastery",
+      "title_i18n": {
+        "en": "Aggregate exploration and mastery",
+        "pt": "Metas gerais de exploração e domínio"
+      },
+      "items": [
+        {
+          "key": "optional-explore-three-original-cities",
+          "title": "Explore the three original cities",
+          "title_i18n": {
+            "en": "Explore the three original cities",
+            "pt": "Explore as três cidades originais"
+          },
+          "description": "Learn the 1997 Liberty City, San Andreas and Vice City layouts rather than maps from later games.",
+          "description_i18n": {
+            "en": "Learn the 1997 Liberty City, San Andreas and Vice City layouts rather than maps from later games.",
+            "pt": "Aprenda os mapas de Liberty City, San Andreas e Vice City de 1997, em vez dos jogos posteriores."
+          }
+        },
+        {
+          "key": "optional-use-pc-train-routes",
+          "title": "Use the PC train routes",
+          "title_i18n": {
+            "en": "Use the PC train routes",
+            "pt": "Use as rotas de trem do PC"
+          },
+          "description": "Explore the rail services in Liberty City and Vice City; San Andreas has no operating tram route.",
+          "description_i18n": {
+            "en": "Explore the rail services in Liberty City and Vice City; San Andreas has no operating tram route.",
+            "pt": "Explore os serviços ferroviários de Liberty City e Vice City; San Andreas não tem uma linha de bonde em funcionamento."
+          },
+          "details": "Train services operate in the original PC Liberty City and Vice City, not San Andreas. Approach a station and board a passenger carriage when the train has stopped, using the ordinary vehicle-entry control. You cannot leave between stations, so identify the useful arrival stop before boarding during a timed job. The PC-only Counthash and Itali missions involve the train system and are absent from PS1 along with its trains. Use a PC mission checklist when pursuing all ninety segments.",
+          "details_i18n": {
+            "en": "Train services operate in the original PC Liberty City and Vice City, not San Andreas. Approach a station and board a passenger carriage when the train has stopped, using the ordinary vehicle-entry control. You cannot leave between stations, so identify the useful arrival stop before boarding during a timed job. The PC-only Counthash and Itali missions involve the train system and are absent from PS1 along with its trains. Use a PC mission checklist when pursuing all ninety segments.",
+            "pt": "Os trens funcionam em Liberty City e Vice City do PC original, não em San Andreas. Vá a uma estação e embarque num vagão de passageiros quando o trem parar, usando o comando comum de entrar em veículos. Não é possível sair entre estações; identifique uma parada útil antes de embarcar durante um trabalho cronometrado. As missões Counthash e Itali do PC envolvem o sistema ferroviário e não aparecem no PS1, que também não tem esses trens. Use uma lista de missões de PC ao buscar os noventa segmentos."
+          }
+        },
+        {
+          "key": "optional-map-useful-pickups",
+          "title": "Map useful pickups",
+          "title_i18n": {
+            "en": "Map useful pickups",
+            "pt": "Mapeie os itens úteis"
+          },
+          "description": "Record weapons, armor, multipliers, extra lives and escape aids for future chapter attempts.",
+          "description_i18n": {
+            "en": "Record weapons, armor, multipliers, extra lives and escape aids for future chapter attempts.",
+            "pt": "Registre armas, coletes, multiplicadores, vidas extras e auxílios de fuga para futuras tentativas."
+          }
+        },
+        {
+          "key": "optional-clear-selected-chapter-without-arrest",
+          "title": "Clear a selected chapter without arrest",
+          "title_i18n": {
+            "en": "Clear a selected chapter without arrest",
+            "pt": "Conclua um capítulo escolhido sem prisão"
+          },
+          "description": "Preserve the multiplier through a whole score-and-exit run as a personal challenge.",
+          "description_i18n": {
+            "en": "Preserve the multiplier through a whole score-and-exit run as a personal challenge.",
+            "pt": "Preserve o multiplicador durante uma partida completa até a saída como desafio pessoal."
+          }
+        },
+        {
+          "key": "optional-complete-full-side-goal-ledger",
+          "title": "Complete your optional goal ledger",
+          "title_i18n": {
+            "en": "Complete your optional goal ledger",
+            "pt": "Complete seu registro de metas opcionais"
+          },
+          "description": "Use an external checklist for the 90 PC mission segments and 70 Kill Frenzies; the game has no modern 100% completion meter.",
+          "description_i18n": {
+            "en": "Use an external checklist for the 90 PC mission segments and 70 Kill Frenzies; the game has no modern 100% completion meter.",
+            "pt": "Use uma lista externa para os 90 segmentos de missão do PC e os 70 Kill Frenzies; o jogo não tem uma barra moderna de conclusão de 100%."
+          }
+        },
+        {
+          "key": "optional-review-all-six-chapter-results",
+          "title": "Review all six chapter results",
+          "title_i18n": {
+            "en": "Review all six chapter results",
+            "pt": "Revise os resultados dos seis capítulos"
+          },
+          "description": "Confirm each score-and-ending milestone and keep optional mastery records distinct from campaign completion.",
+          "description_i18n": {
+            "en": "Confirm each score-and-ending milestone and keep optional mastery records distinct from campaign completion.",
+            "pt": "Confirme cada meta de pontos e encerramento e mantenha os registros de domínio separados da conclusão da campanha."
+          }
+        }
+      ],
+      "kind": "collectible"
+    }
+  ],
+  "trophies": [],
+  "hltb_id": "4058",
+  "hltb_main_hours": 13,
+  "hltb_main_extra_hours": 14,
+  "hltb_completionist_hours": 18
+}

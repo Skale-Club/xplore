@@ -1,0 +1,2399 @@
+{
+  "slug": "metal-gear-solid-delta-snake-eater",
+  "title": "Metal Gear Solid Δ: Snake Eater",
+  "title_i18n": {
+    "en": "Metal Gear Solid Δ: Snake Eater",
+    "pt": "Metal Gear Solid Δ: Snake Eater"
+  },
+  "platform": "PlayStation 5",
+  "cover_url": "/covers/metal-gear-solid-delta-snake-eater.png",
+  "created_by": "dd5c4bf0-85ea-4986-9c04-b37e8c986150",
+  "categories": [
+    {
+      "key": "virtuous-mission",
+      "title": "Virtuous Mission: the first infiltration",
+      "title_i18n": {
+        "en": "Virtuous Mission: the first infiltration",
+        "pt": "Missão Virtuosa: a primeira infiltração"
+      },
+      "items": [
+        {
+          "key": "choose-control-style",
+          "title": "Choose New Style or Legacy Style",
+          "title_i18n": {
+            "en": "Choose New Style or Legacy Style",
+            "pt": "Escolher New Style ou Legacy Style"
+          },
+          "description": "Review the PS5 control layout before starting; New Style uses a modern over-the-shoulder viewpoint, while Legacy recreates the older presentation.",
+          "description_i18n": {
+            "en": "Review the PS5 control layout before starting; New Style uses a modern over-the-shoulder viewpoint, while Legacy recreates the older presentation.",
+            "pt": "Confira o esquema de controles do PS5 antes de começar; New Style usa uma visão moderna sobre o ombro, enquanto Legacy recria a apresentação antiga."
+          }
+        },
+        {
+          "key": "recover-tree-backpack",
+          "title": "Recover the backpack from the tree",
+          "title_i18n": {
+            "en": "Recover the backpack from the tree",
+            "pt": "Recuperar a mochila na árvore"
+          },
+          "description": "At Dremuchij South, climb the marked tree and move along its branch to recover Snake's equipment.",
+          "description_i18n": {
+            "en": "At Dremuchij South, climb the marked tree and move along its branch to recover Snake's equipment.",
+            "pt": "Em Dremuchij South, suba na árvore indicada e siga pelo galho para recuperar o equipamento de Snake."
+          }
+        },
+        {
+          "key": "cross-dremuchij-swamp",
+          "title": "Cross Dremuchij Swampland",
+          "title_i18n": {
+            "en": "Cross Dremuchij Swampland",
+            "pt": "Atravessar o pântano de Dremuchij"
+          },
+          "description": "Stay on firm ground where possible, avoid crocodiles and collect food without lingering in deep mud.",
+          "description_i18n": {
+            "en": "Stay on firm ground where possible, avoid crocodiles and collect food without lingering in deep mud.",
+            "pt": "Prefira o terreno firme, evite crocodilos e colete comida sem permanecer na lama profunda."
+          }
+        },
+        {
+          "key": "scout-dremuchij-north",
+          "title": "Scout the northern forest",
+          "title_i18n": {
+            "en": "Scout the northern forest",
+            "pt": "Observar a floresta ao norte"
+          },
+          "description": "Use cover to study the first guards, crawl through vegetation and watch the camouflage index.",
+          "description_i18n": {
+            "en": "Use cover to study the first guards, crawl through vegetation and watch the camouflage index.",
+            "pt": "Use cobertura para observar os primeiros guardas, rasteje pela vegetação e acompanhe o índice de camuflagem."
+          }
+        },
+        {
+          "key": "cross-dolinovodno-bridge",
+          "title": "Cross the Dolinovodno bridge",
+          "title_i18n": {
+            "en": "Cross the Dolinovodno bridge",
+            "pt": "Atravessar a ponte de Dolinovodno"
+          },
+          "description": "Observe the patrol before entering the rope bridge and cross when its approach is clear.",
+          "description_i18n": {
+            "en": "Observe the patrol before entering the rope bridge and cross when its approach is clear.",
+            "pt": "Observe a patrulha antes de entrar na ponte de corda e atravesse quando o acesso estiver livre."
+          }
+        },
+        {
+          "key": "meet-sokolov-rassvet",
+          "title": "Find Sokolov at Rassvet",
+          "title_i18n": {
+            "en": "Find Sokolov at Rassvet",
+            "pt": "Encontrar Sokolov em Rassvet"
+          },
+          "description": "Search the ruined factory's rooms quietly and enter Sokolov's hiding place.",
+          "description_i18n": {
+            "en": "Search the ruined factory's rooms quietly and enter Sokolov's hiding place.",
+            "pt": "Examine silenciosamente as salas da fábrica em ruínas e entre no esconderijo de Sokolov."
+          }
+        },
+        {
+          "key": "resolve-ocelot-unit",
+          "title": "Follow the first Ocelot confrontation",
+          "title_i18n": {
+            "en": "Follow the first Ocelot confrontation",
+            "pt": "Acompanhar o primeiro confronto com Ocelot"
+          },
+          "description": "Watch Snake handle the confrontation at Rassvet, then follow Sokolov toward the extraction route.",
+          "description_i18n": {
+            "en": "Watch Snake handle the confrontation at Rassvet, then follow Sokolov toward the extraction route.",
+            "pt": "Acompanhe Snake resolver o confronto em Rassvet e siga Sokolov até a rota de extração."
+          }
+        },
+        {
+          "key": "finish-virtuous-mission",
+          "title": "Complete the failed extraction",
+          "title_i18n": {
+            "en": "Complete the failed extraction",
+            "pt": "Concluir a extração fracassada"
+          },
+          "description": "Return toward Dolinovodno and watch the bridge confrontation through the end of the mission.",
+          "description_i18n": {
+            "en": "Return toward Dolinovodno and watch the bridge confrontation through the end of the mission.",
+            "pt": "Volte em direção a Dolinovodno e acompanhe o confronto na ponte até o encerramento da missão."
+          }
+        }
+      ]
+    },
+    {
+      "key": "survival-basics",
+      "title": "Camouflage, food and treatment",
+      "title_i18n": {
+        "en": "Camouflage, food and treatment",
+        "pt": "Camuflagem, comida e tratamento"
+      },
+      "items": [
+        {
+          "key": "match-camouflage",
+          "title": "Match camouflage to the terrain",
+          "title_i18n": {
+            "en": "Match camouflage to the terrain",
+            "pt": "Combinar a camuflagem com o terreno"
+          },
+          "description": "Change uniform and face paint for the current surface; compare the index while crouched or prone before moving.",
+          "description_i18n": {
+            "en": "Change uniform and face paint for the current surface; compare the index while crouched or prone before moving.",
+            "pt": "Troque uniforme e pintura facial conforme o terreno; compare o índice agachado ou deitado antes de avançar."
+          }
+        },
+        {
+          "key": "manage-stamina",
+          "title": "Keep Snake's stamina supplied",
+          "title_i18n": {
+            "en": "Keep Snake's stamina supplied",
+            "pt": "Manter o vigor de Snake"
+          },
+          "description": "Gather or capture food and eat suitable supplies before stamina becomes low enough to affect performance.",
+          "description_i18n": {
+            "en": "Gather or capture food and eat suitable supplies before stamina becomes low enough to affect performance.",
+            "pt": "Recolha ou capture alimentos e coma antes de o vigor cair a ponto de prejudicar o desempenho."
+          }
+        },
+        {
+          "key": "check-food-condition",
+          "title": "Check food before eating",
+          "title_i18n": {
+            "en": "Check food before eating",
+            "pt": "Verificar a comida antes de comer"
+          },
+          "description": "Inspect stored food for spoilage and keep unfamiliar mushrooms or poisonous animals separate from reliable supplies.",
+          "description_i18n": {
+            "en": "Inspect stored food for spoilage and keep unfamiliar mushrooms or poisonous animals separate from reliable supplies.",
+            "pt": "Confira se os alimentos guardados estragaram e separe cogumelos desconhecidos ou animais venenosos das provisões confiáveis."
+          }
+        },
+        {
+          "key": "use-cure-menu",
+          "title": "Treat injuries in the Cure menu",
+          "title_i18n": {
+            "en": "Treat injuries in the Cure menu",
+            "pt": "Tratar ferimentos no menu Cure"
+          },
+          "description": "Inspect each injury and apply the needed treatment; restoring life alone does not remove an untreated wound.",
+          "description_i18n": {
+            "en": "Inspect each injury and apply the needed treatment; restoring life alone does not remove an untreated wound.",
+            "pt": "Examine cada lesão e aplique o tratamento necessário; recuperar vida não elimina um ferimento sem tratamento."
+          },
+          "details": "Open Cure after major damage, a poison hit or a difficult water crossing. Inspect the affected body part and apply the treatments shown for that injury rather than spending every medical item at once. Remove embedded objects when required and finish the listed steps.\n\nKeep food and healing separate in your planning: eating restores stamina, while untreated injuries can continue to limit recovery. Use the currently selected control layout to reach Cure; New Style and Legacy do not share every shortcut.",
+          "details_i18n": {
+            "en": "Open Cure after major damage, a poison hit or a difficult water crossing. Inspect the affected body part and apply the treatments shown for that injury rather than spending every medical item at once. Remove embedded objects when required and finish the listed steps.\n\nKeep food and healing separate in your planning: eating restores stamina, while untreated injuries can continue to limit recovery. Use the currently selected control layout to reach Cure; New Style and Legacy do not share every shortcut.",
+            "pt": "Abra Cure após dano forte, um golpe venenoso ou uma travessia difícil na água. Examine a parte afetada e aplique os tratamentos mostrados para a lesão, sem gastar todos os itens médicos de uma vez. Remova objetos encravados quando necessário e conclua as etapas indicadas.\n\nPlaneje comida e tratamento separadamente: comer restaura vigor, enquanto ferimentos sem tratamento podem continuar limitando a recuperação. Use os controles do estilo selecionado para acessar Cure; New Style e Legacy não compartilham todos os atalhos."
+          }
+        },
+        {
+          "key": "practice-cqc-safely",
+          "title": "Practice CQC on an isolated guard",
+          "title_i18n": {
+            "en": "Practice CQC on an isolated guard",
+            "pt": "Praticar CQC em um guarda isolado"
+          },
+          "description": "Approach quietly and follow your selected control style's prompts for restraining or throwing; avoid accidentally choosing a lethal action.",
+          "description_i18n": {
+            "en": "Approach quietly and follow your selected control style's prompts for restraining or throwing; avoid accidentally choosing a lethal action.",
+            "pt": "Aproxime-se em silêncio e siga os comandos do estilo escolhido para agarrar ou arremessar; evite selecionar uma ação letal por engano."
+          }
+        },
+        {
+          "key": "rotate-manual-saves",
+          "title": "Maintain rotating manual saves",
+          "title_i18n": {
+            "en": "Maintain rotating manual saves",
+            "pt": "Manter arquivos manuais alternados"
+          },
+          "description": "Save before boss arenas and one-way transitions; separate backups help recover missed collectibles without replaying the whole campaign.",
+          "description_i18n": {
+            "en": "Save before boss arenas and one-way transitions; separate backups help recover missed collectibles without replaying the whole campaign.",
+            "pt": "Salve antes de arenas de chefes e passagens sem retorno; cópias separadas ajudam a recuperar colecionáveis sem repetir toda a campanha."
+          }
+        }
+      ]
+    },
+    {
+      "key": "operation-snake-eater",
+      "title": "Operation Snake Eater: return to the jungle",
+      "title_i18n": {
+        "en": "Operation Snake Eater: return to the jungle",
+        "pt": "Operação Snake Eater: retorno à selva"
+      },
+      "items": [
+        {
+          "key": "return-dremuchij",
+          "title": "Return through Dremuchij",
+          "title_i18n": {
+            "en": "Return through Dremuchij",
+            "pt": "Voltar por Dremuchij"
+          },
+          "description": "Follow the new mission route through the forest and inspect the changed patrols rather than assuming the earlier route is safe.",
+          "description_i18n": {
+            "en": "Follow the new mission route through the forest and inspect the changed patrols rather than assuming the earlier route is safe.",
+            "pt": "Siga a nova rota pela floresta e observe as patrulhas alteradas, sem presumir que o caminho anterior esteja seguro."
+          }
+        },
+        {
+          "key": "recover-after-boss-encounter",
+          "title": "Regroup after meeting The Boss",
+          "title_i18n": {
+            "en": "Regroup after meeting The Boss",
+            "pt": "Reorganizar-se após encontrar The Boss"
+          },
+          "description": "Complete the confrontation, inspect your available equipment and continue toward the rendezvous.",
+          "description_i18n": {
+            "en": "Complete the confrontation, inspect your available equipment and continue toward the rendezvous.",
+            "pt": "Conclua o confronto, confira o equipamento disponível e continue até o encontro marcado."
+          }
+        },
+        {
+          "key": "revisit-dolinovodno",
+          "title": "Revisit Dolinovodno",
+          "title_i18n": {
+            "en": "Revisit Dolinovodno",
+            "pt": "Revisitar Dolinovodno"
+          },
+          "description": "Scout the river crossing again and use the terrain to avoid guards on the route to Rassvet.",
+          "description_i18n": {
+            "en": "Scout the river crossing again and use the terrain to avoid guards on the route to Rassvet.",
+            "pt": "Observe novamente a travessia do rio e use o terreno para evitar guardas no caminho de Rassvet."
+          }
+        },
+        {
+          "key": "meet-eva-rassvet",
+          "title": "Meet EVA at Rassvet",
+          "title_i18n": {
+            "en": "Meet EVA at Rassvet",
+            "pt": "Encontrar EVA em Rassvet"
+          },
+          "description": "Enter the rendezvous building and complete the overnight meeting to receive equipment and the next objective.",
+          "description_i18n": {
+            "en": "Enter the rendezvous building and complete the overnight meeting to receive equipment and the next objective.",
+            "pt": "Entre no prédio do encontro e conclua a reunião noturna para receber equipamentos e o próximo objetivo."
+          }
+        },
+        {
+          "key": "defeat-rassvet-ambush",
+          "title": "Escape the Rassvet ambush",
+          "title_i18n": {
+            "en": "Escape the Rassvet ambush",
+            "pt": "Escapar da emboscada em Rassvet"
+          },
+          "description": "Use windows, crawl spaces and cover to isolate attackers; check ammunition before leaving the ruins.",
+          "description_i18n": {
+            "en": "Use windows, crawl spaces and cover to isolate attackers; check ammunition before leaving the ruins.",
+            "pt": "Use janelas, passagens baixas e cobertura para separar os atacantes; confira a munição antes de deixar as ruínas."
+          }
+        },
+        {
+          "key": "reach-chyornyj-prud",
+          "title": "Cross Chyornyj Prud",
+          "title_i18n": {
+            "en": "Cross Chyornyj Prud",
+            "pt": "Atravessar Chyornyj Prud"
+          },
+          "description": "Pick a safe route through the swamp, avoid crocodiles and inspect Snake for leeches after leaving the water.",
+          "description_i18n": {
+            "en": "Pick a safe route through the swamp, avoid crocodiles and inspect Snake for leeches after leaving the water.",
+            "pt": "Escolha uma rota segura pelo pântano, evite crocodilos e procure sanguessugas em Snake após sair da água."
+          }
+        }
+      ]
+    },
+    {
+      "key": "bolshaya-and-ocelot",
+      "title": "Bolshaya Past and Ocelot",
+      "title_i18n": {
+        "en": "Bolshaya Past and Ocelot",
+        "pt": "Bolshaya Past e Ocelot"
+      },
+      "items": [
+        {
+          "key": "cross-bolshaya-traps",
+          "title": "Cross the Bolshaya Past defenses",
+          "title_i18n": {
+            "en": "Cross the Bolshaya Past defenses",
+            "pt": "Atravessar as defesas de Bolshaya Past"
+          },
+          "description": "Inspect fences and the ground for traps; crawl through safe gaps and avoid crossing exposed lanes near patrols.",
+          "description_i18n": {
+            "en": "Inspect fences and the ground for traps; crawl through safe gaps and avoid crossing exposed lanes near patrols.",
+            "pt": "Examine cercas e chão à procura de armadilhas; rasteje pelas aberturas seguras e evite faixas expostas perto das patrulhas."
+          }
+        },
+        {
+          "key": "search-bolshaya-base",
+          "title": "Search the forward base",
+          "title_i18n": {
+            "en": "Search the forward base",
+            "pt": "Explorar a base avançada"
+          },
+          "description": "Collect medical supplies, ammunition and useful equipment while watching the guard routes.",
+          "description_i18n": {
+            "en": "Collect medical supplies, ammunition and useful equipment while watching the guard routes.",
+            "pt": "Recolha suprimentos médicos, munição e equipamentos úteis enquanto observa as patrulhas."
+          }
+        },
+        {
+          "key": "prepare-ocelot-duel",
+          "title": "Prepare for Ocelot's duel",
+          "title_i18n": {
+            "en": "Prepare for Ocelot's duel",
+            "pt": "Preparar-se para o duelo de Ocelot"
+          },
+          "description": "Make a manual save before the ravine encounter and equip a weapon with enough ammunition for the fight.",
+          "description_i18n": {
+            "en": "Make a manual save before the ravine encounter and equip a weapon with enough ammunition for the fight.",
+            "pt": "Faça um salvamento manual antes do encontro na ravina e equipe uma arma com munição suficiente."
+          }
+        },
+        {
+          "key": "use-ocelot-cover",
+          "title": "Use cover against Ocelot",
+          "title_i18n": {
+            "en": "Use cover against Ocelot",
+            "pt": "Usar cobertura contra Ocelot"
+          },
+          "description": "Track his movements across the ravine, duck behind cover during his fire and aim during reload openings.",
+          "description_i18n": {
+            "en": "Track his movements across the ravine, duck behind cover during his fire and aim during reload openings.",
+            "pt": "Acompanhe os movimentos dele do outro lado da ravina, proteja-se durante os disparos e mire nas recargas."
+          }
+        },
+        {
+          "key": "avoid-ocelot-unit-interference",
+          "title": "Stay inside the duel's safe fighting space",
+          "title_i18n": {
+            "en": "Stay inside the duel's safe fighting space",
+            "pt": "Permanecer no espaço seguro do duelo"
+          },
+          "description": "Avoid approaching the enemy spectators and keep your attention on Ocelot's position instead of chasing the surrounding soldiers.",
+          "description_i18n": {
+            "en": "Avoid approaching the enemy spectators and keep your attention on Ocelot's position instead of chasing the surrounding soldiers.",
+            "pt": "Evite se aproximar dos espectadores inimigos e concentre-se na posição de Ocelot, sem perseguir os soldados ao redor."
+          }
+        },
+        {
+          "key": "defeat-ocelot",
+          "title": "Defeat Ocelot and enter the caves",
+          "title_i18n": {
+            "en": "Defeat Ocelot and enter the caves",
+            "pt": "Derrotar Ocelot e entrar nas cavernas"
+          },
+          "description": "Reduce his life or stamina, watch the conclusion and follow the forced route into Chyornaya Peschera.",
+          "description_i18n": {
+            "en": "Reduce his life or stamina, watch the conclusion and follow the forced route into Chyornaya Peschera.",
+            "pt": "Esgote a vida ou o vigor dele, acompanhe a conclusão e siga a rota obrigatória para Chyornaya Peschera."
+          }
+        }
+      ]
+    },
+    {
+      "key": "caves-and-the-pain",
+      "title": "Chyornaya Peschera and The Pain",
+      "title_i18n": {
+        "en": "Chyornaya Peschera and The Pain",
+        "pt": "Chyornaya Peschera e The Pain"
+      },
+      "items": [
+        {
+          "key": "navigate-dark-caves",
+          "title": "Navigate the dark cave passages",
+          "title_i18n": {
+            "en": "Navigate the dark cave passages",
+            "pt": "Percorrer as passagens escuras das cavernas"
+          },
+          "description": "Let your eyes adjust, use available light equipment and inspect side passages without losing track of the exit.",
+          "description_i18n": {
+            "en": "Let your eyes adjust, use available light equipment and inspect side passages without losing track of the exit.",
+            "pt": "Espere os olhos se adaptarem, use equipamentos de iluminação disponíveis e examine desvios sem perder a saída de vista."
+          }
+        },
+        {
+          "key": "recover-cave-supplies",
+          "title": "Recover supplies inside the caves",
+          "title_i18n": {
+            "en": "Recover supplies inside the caves",
+            "pt": "Recolher suprimentos nas cavernas"
+          },
+          "description": "Look for food, medical items and ammunition before dropping into the next arena.",
+          "description_i18n": {
+            "en": "Look for food, medical items and ammunition before dropping into the next arena.",
+            "pt": "Procure comida, itens médicos e munição antes de descer à próxima arena."
+          }
+        },
+        {
+          "key": "prepare-pain-arena",
+          "title": "Enter The Pain's water arena",
+          "title_i18n": {
+            "en": "Enter The Pain's water arena",
+            "pt": "Entrar na arena aquática de The Pain"
+          },
+          "description": "Use the rock platforms to orient yourself and keep the water available as an escape from the hornets.",
+          "description_i18n": {
+            "en": "Use the rock platforms to orient yourself and keep the water available as an escape from the hornets.",
+            "pt": "Use as plataformas de pedra para se orientar e mantenha a água como saída contra os vespões."
+          }
+        },
+        {
+          "key": "clear-pain-hornets",
+          "title": "Wait out The Pain's protective swarm",
+          "title_i18n": {
+            "en": "Wait out The Pain's protective swarm",
+            "pt": "Esperar a abertura no enxame protetor de The Pain"
+          },
+          "description": "Avoid wasting shots into his hornet shield; attack when the swarm opens and use the water when insects surround Snake.",
+          "description_i18n": {
+            "en": "Avoid wasting shots into his hornet shield; attack when the swarm opens and use the water when insects surround Snake.",
+            "pt": "Evite desperdiçar tiros no escudo de vespões; ataque quando o enxame abrir e use a água se os insetos cercarem Snake."
+          }
+        },
+        {
+          "key": "defeat-the-pain",
+          "title": "Defeat The Pain",
+          "title_i18n": {
+            "en": "Defeat The Pain",
+            "pt": "Derrotar The Pain"
+          },
+          "description": "Move between safe firing positions, avoid his explosive attacks and finish the fight by life or stamina depletion.",
+          "description_i18n": {
+            "en": "Move between safe firing positions, avoid his explosive attacks and finish the fight by life or stamina depletion.",
+            "pt": "Alterne posições seguras de tiro, evite ataques explosivos e termine a luta esgotando vida ou vigor."
+          }
+        },
+        {
+          "key": "leave-peschera",
+          "title": "Exit toward Ponizovje",
+          "title_i18n": {
+            "en": "Exit toward Ponizovje",
+            "pt": "Sair em direção a Ponizovje"
+          },
+          "description": "Inspect the arena for any earned reward before leaving, then follow the cave exit toward the waterway.",
+          "description_i18n": {
+            "en": "Inspect the arena for any earned reward before leaving, then follow the cave exit toward the waterway.",
+            "pt": "Procure na arena qualquer recompensa obtida antes de sair e siga pela saída da caverna até o canal."
+          }
+        }
+      ]
+    },
+    {
+      "key": "ponizovje-and-granin",
+      "title": "Ponizovje and Graniny Gorki",
+      "title_i18n": {
+        "en": "Ponizovje and Graniny Gorki",
+        "pt": "Ponizovje e Graniny Gorki"
+      },
+      "items": [
+        {
+          "key": "cross-ponizovje-waterway",
+          "title": "Cross the Ponizovje waterway",
+          "title_i18n": {
+            "en": "Cross the Ponizovje waterway",
+            "pt": "Atravessar o canal de Ponizovje"
+          },
+          "description": "Use the water and banks to avoid being seen; watch guards before approaching the warehouse exterior.",
+          "description_i18n": {
+            "en": "Use the water and banks to avoid being seen; watch guards before approaching the warehouse exterior.",
+            "pt": "Use a água e as margens para evitar ser visto; observe os guardas antes de se aproximar do armazém."
+          }
+        },
+        {
+          "key": "inspect-warehouse-approach",
+          "title": "Scout the warehouse approach",
+          "title_i18n": {
+            "en": "Scout the warehouse approach",
+            "pt": "Observar o acesso ao armazém"
+          },
+          "description": "Watch the story scene and survey the exterior before entering the guarded building.",
+          "description_i18n": {
+            "en": "Watch the story scene and survey the exterior before entering the guarded building.",
+            "pt": "Acompanhe a cena e examine o exterior antes de entrar no prédio vigiado."
+          }
+        },
+        {
+          "key": "cross-ponizovje-warehouse",
+          "title": "Cross the warehouse quietly",
+          "title_i18n": {
+            "en": "Cross the warehouse quietly",
+            "pt": "Atravessar o armazém em silêncio"
+          },
+          "description": "Use crates and upper walkways as cover and collect supplies without drawing a building-wide alert.",
+          "description_i18n": {
+            "en": "Use crates and upper walkways as cover and collect supplies without drawing a building-wide alert.",
+            "pt": "Use caixas e passarelas superiores como cobertura e recolha suprimentos sem provocar um alerta geral."
+          }
+        },
+        {
+          "key": "traverse-graniny-gorki-south",
+          "title": "Traverse Graniny Gorki South",
+          "title_i18n": {
+            "en": "Traverse Graniny Gorki South",
+            "pt": "Atravessar Graniny Gorki South"
+          },
+          "description": "Move cautiously through the forest and inspect the ground for traps on the approach to the laboratory.",
+          "description_i18n": {
+            "en": "Move cautiously through the forest and inspect the ground for traps on the approach to the laboratory.",
+            "pt": "Avance com cuidado pela floresta e procure armadilhas no chão durante a aproximação do laboratório."
+          }
+        },
+        {
+          "key": "enter-laboratory-grounds",
+          "title": "Enter the laboratory grounds",
+          "title_i18n": {
+            "en": "Enter the laboratory grounds",
+            "pt": "Entrar no terreno do laboratório"
+          },
+          "description": "Scout the perimeter, find an opening through the defenses and approach the building without an active alert.",
+          "description_i18n": {
+            "en": "Scout the perimeter, find an opening through the defenses and approach the building without an active alert.",
+            "pt": "Observe o perímetro, encontre uma passagem pelas defesas e aproxime-se do prédio sem alerta ativo."
+          }
+        },
+        {
+          "key": "use-scientist-disguise",
+          "title": "Use the Scientist disguise inside",
+          "title_i18n": {
+            "en": "Use the Scientist disguise inside",
+            "pt": "Usar o disfarce de Cientista no interior"
+          },
+          "description": "Equip the lab outfit, put weapons away and keep your distance from anyone who may recognize the disguise.",
+          "description_i18n": {
+            "en": "Equip the lab outfit, put weapons away and keep your distance from anyone who may recognize the disguise.",
+            "pt": "Vista o jaleco, guarde as armas e mantenha distância de quem possa reconhecer o disfarce."
+          }
+        },
+        {
+          "key": "meet-granin",
+          "title": "Meet Granin and obtain the key",
+          "title_i18n": {
+            "en": "Meet Granin and obtain the key",
+            "pt": "Encontrar Granin e obter a chave"
+          },
+          "description": "Find his office in the laboratory's lower area, complete the conversation and take the new route information before leaving.",
+          "description_i18n": {
+            "en": "Find his office in the laboratory's lower area, complete the conversation and take the new route information before leaving.",
+            "pt": "Encontre o escritório na área inferior do laboratório, conclua a conversa e obtenha as novas informações de rota antes de sair."
+          }
+        }
+      ]
+    },
+    {
+      "key": "the-fear-and-forest-exit",
+      "title": "The Fear and the forest exit",
+      "title_i18n": {
+        "en": "The Fear and the forest exit",
+        "pt": "The Fear e a saída da floresta"
+      },
+      "items": [
+        {
+          "key": "prepare-fear-rematch-route",
+          "title": "Return through the southern forest",
+          "title_i18n": {
+            "en": "Return through the southern forest",
+            "pt": "Voltar pela floresta ao sul"
+          },
+          "description": "Leave the laboratory and return to the trapped forest, keeping healing items and ammunition ready.",
+          "description_i18n": {
+            "en": "Leave the laboratory and return to the trapped forest, keeping healing items and ammunition ready.",
+            "pt": "Saia do laboratório e volte à floresta com armadilhas, mantendo cura e munição prontas."
+          }
+        },
+        {
+          "key": "treat-fear-opening-bolt",
+          "title": "Treat The Fear's opening wound",
+          "title_i18n": {
+            "en": "Treat The Fear's opening wound",
+            "pt": "Tratar o ferimento inicial de The Fear"
+          },
+          "description": "Use Cure to remove the bolt and treat poisoning before settling into the fight.",
+          "description_i18n": {
+            "en": "Use Cure to remove the bolt and treat poisoning before settling into the fight.",
+            "pt": "Use Cure para remover o virote e tratar o envenenamento antes de continuar a luta."
+          }
+        },
+        {
+          "key": "track-fear-in-trees",
+          "title": "Track The Fear among the branches",
+          "title_i18n": {
+            "en": "Track The Fear among the branches",
+            "pt": "Rastrear The Fear entre os galhos"
+          },
+          "description": "Use Thermal Goggles if available to follow his camouflage and watch the upper branches.",
+          "description_i18n": {
+            "en": "Use Thermal Goggles if available to follow his camouflage and watch the upper branches.",
+            "pt": "Use Óculos Térmicos, se disponíveis, para acompanhar a camuflagem dele e observe os galhos altos."
+          }
+        },
+        {
+          "key": "interrupt-fear-feeding",
+          "title": "Interrupt The Fear's feeding",
+          "title_i18n": {
+            "en": "Interrupt The Fear's feeding",
+            "pt": "Interromper a alimentação de The Fear"
+          },
+          "description": "When he searches for food, use the opening to attack; eating can restore his stamina and prolong a nonlethal fight.",
+          "description_i18n": {
+            "en": "When he searches for food, use the opening to attack; eating can restore his stamina and prolong a nonlethal fight.",
+            "pt": "Quando ele procurar comida, aproveite para atacar; comer pode restaurar o vigor dele e prolongar uma luta não letal."
+          }
+        },
+        {
+          "key": "defeat-the-fear",
+          "title": "Defeat The Fear",
+          "title_i18n": {
+            "en": "Defeat The Fear",
+            "pt": "Derrotar The Fear"
+          },
+          "description": "Avoid the forest traps, cure any renewed poisoning and keep landing shots during his exposed pauses.",
+          "description_i18n": {
+            "en": "Avoid the forest traps, cure any renewed poisoning and keep landing shots during his exposed pauses.",
+            "pt": "Evite as armadilhas da floresta, trate novos envenenamentos e continue acertando tiros nas pausas em que ele fica exposto."
+          }
+        },
+        {
+          "key": "open-ponizovje-route",
+          "title": "Use Granin's key to continue",
+          "title_i18n": {
+            "en": "Use Granin's key to continue",
+            "pt": "Usar a chave de Granin para continuar"
+          },
+          "description": "Return toward the warehouse route and unlock the previously blocked path toward Svyatogornyj.",
+          "description_i18n": {
+            "en": "Return toward the warehouse route and unlock the previously blocked path toward Svyatogornyj.",
+            "pt": "Volte em direção à rota do armazém e destranque o caminho antes bloqueado para Svyatogornyj."
+          }
+        }
+      ]
+    },
+    {
+      "key": "the-end-sniper-duel",
+      "title": "Sokrovenno and The End",
+      "title_i18n": {
+        "en": "Sokrovenno and The End",
+        "pt": "Sokrovenno e The End"
+      },
+      "items": [
+        {
+          "key": "prepare-sokrovenno",
+          "title": "Prepare for the sniper hunt",
+          "title_i18n": {
+            "en": "Prepare for the sniper hunt",
+            "pt": "Preparar-se para a caçada de atiradores"
+          },
+          "description": "Cross Svyatogornyj, collect food and ammunition and make a manual save before entering Sokrovenno.",
+          "description_i18n": {
+            "en": "Cross Svyatogornyj, collect food and ammunition and make a manual save before entering Sokrovenno.",
+            "pt": "Atravesse Svyatogornyj, junte comida e munição e salve manualmente antes de entrar em Sokrovenno."
+          }
+        },
+        {
+          "key": "learn-end-arenas",
+          "title": "Learn the connected forest arenas",
+          "title_i18n": {
+            "en": "Learn the connected forest arenas",
+            "pt": "Conhecer as arenas de floresta conectadas"
+          },
+          "description": "Check the map and exits so you can follow the duel between Sokrovenno's connected areas.",
+          "description_i18n": {
+            "en": "Check the map and exits so you can follow the duel between Sokrovenno's connected areas.",
+            "pt": "Confira o mapa e as saídas para acompanhar o duelo entre as áreas conectadas de Sokrovenno."
+          }
+        },
+        {
+          "key": "listen-for-the-end",
+          "title": "Locate The End by sound and scope glint",
+          "title_i18n": {
+            "en": "Locate The End by sound and scope glint",
+            "pt": "Localizar The End pelo som e pelo brilho da mira"
+          },
+          "description": "Use the Directional Microphone if collected, watch likely sniper positions and move after spotting his scope reflection.",
+          "description_i18n": {
+            "en": "Use the Directional Microphone if collected, watch likely sniper positions and move after spotting his scope reflection.",
+            "pt": "Use o Microfone Direcional, se obtido, observe posições prováveis e se mova após identificar o reflexo da mira."
+          }
+        },
+        {
+          "key": "follow-end-footprints",
+          "title": "Follow his tracks with Thermal Goggles",
+          "title_i18n": {
+            "en": "Follow his tracks with Thermal Goggles",
+            "pt": "Seguir os rastros com Óculos Térmicos"
+          },
+          "description": "Inspect the ground for footprints after he relocates; approach quietly instead of sprinting straight toward him.",
+          "description_i18n": {
+            "en": "Inspect the ground for footprints after he relocates; approach quietly instead of sprinting straight toward him.",
+            "pt": "Examine o chão à procura de pegadas quando ele mudar de posição; aproxime-se em silêncio em vez de correr diretamente até ele."
+          }
+        },
+        {
+          "key": "attack-end-then-relocate",
+          "title": "Attack and relocate",
+          "title_i18n": {
+            "en": "Attack and relocate",
+            "pt": "Atacar e mudar de posição"
+          },
+          "description": "Get a clear shot, avoid staying in the same exposed position and track his escape after each exchange.",
+          "description_i18n": {
+            "en": "Get a clear shot, avoid staying in the same exposed position and track his escape after each exchange.",
+            "pt": "Consiga um tiro livre, evite permanecer exposto no mesmo lugar e acompanhe a fuga dele após cada troca."
+          }
+        },
+        {
+          "key": "defeat-the-end",
+          "title": "Defeat The End in the sniper duel",
+          "title_i18n": {
+            "en": "Defeat The End in the sniper duel",
+            "pt": "Derrotar The End no duelo de atiradores"
+          },
+          "description": "Manage food and stamina throughout the hunt; use tranquilizers for a stamina victory or lethal fire for a life victory.",
+          "description_i18n": {
+            "en": "Manage food and stamina throughout the hunt; use tranquilizers for a stamina victory or lethal fire for a life victory.",
+            "pt": "Controle comida e vigor durante a caçada; use tranquilizantes para vencer por vigor ou tiros letais para vencer por vida."
+          },
+          "details": "Treat the duel as a search across connected maps. Begin by checking likely elevated positions with your eyes and Directional Microphone. Once he relocates, Thermal Goggles can reveal his footprints, letting you approach from a quieter angle.\n\nAvoid firing simply because you see foliage move. Confirm the target, take a controlled shot and relocate before his return fire. Replenish stamina as needed. For the normal duel route, stay in the encounter rather than relying on real-world clock tricks or an early kill, which can bypass the fight and its normal rewards.",
+          "details_i18n": {
+            "en": "Treat the duel as a search across connected maps. Begin by checking likely elevated positions with your eyes and Directional Microphone. Once he relocates, Thermal Goggles can reveal his footprints, letting you approach from a quieter angle.\n\nAvoid firing simply because you see foliage move. Confirm the target, take a controlled shot and relocate before his return fire. Replenish stamina as needed. For the normal duel route, stay in the encounter rather than relying on real-world clock tricks or an early kill, which can bypass the fight and its normal rewards.",
+            "pt": "Trate o duelo como uma busca por mapas conectados. Comece observando posições elevadas prováveis e usando o Microfone Direcional. Depois que ele mudar de lugar, os Óculos Térmicos podem revelar pegadas e permitir uma aproximação mais silenciosa.\n\nNão atire apenas porque a vegetação se mexeu. Confirme o alvo, faça um disparo controlado e mude de posição antes da resposta. Reponha vigor quando necessário. Para seguir o duelo normal, permaneça no encontro em vez de depender de truques com o relógio ou de uma eliminação antecipada, que podem pular a luta e suas recompensas normais."
+          }
+        },
+        {
+          "key": "leave-sokrovenno-ladder",
+          "title": "Leave Sokrovenno and climb the long ladder",
+          "title_i18n": {
+            "en": "Leave Sokrovenno and climb the long ladder",
+            "pt": "Sair de Sokrovenno e subir a longa escada"
+          },
+          "description": "Check the arena for rewards earned by your approach, then follow the tunnel and climb toward the mountain route.",
+          "description_i18n": {
+            "en": "Check the arena for rewards earned by your approach, then follow the tunnel and climb toward the mountain route.",
+            "pt": "Confira as recompensas obtidas conforme sua abordagem, siga pelo túnel e suba até a rota das montanhas."
+          }
+        }
+      ]
+    },
+    {
+      "key": "krasnogorje-mountains",
+      "title": "The Krasnogorje mountain route",
+      "title_i18n": {
+        "en": "The Krasnogorje mountain route",
+        "pt": "A rota montanhosa de Krasnogorje"
+      },
+      "items": [
+        {
+          "key": "enter-mountain-base",
+          "title": "Enter the mountain base",
+          "title_i18n": {
+            "en": "Enter the mountain base",
+            "pt": "Entrar na base da montanha"
+          },
+          "description": "Change camouflage for the rocky terrain and study the first patrols before climbing.",
+          "description_i18n": {
+            "en": "Change camouflage for the rocky terrain and study the first patrols before climbing.",
+            "pt": "Troque a camuflagem para o terreno rochoso e observe as primeiras patrulhas antes de subir."
+          }
+        },
+        {
+          "key": "use-mountain-trenches",
+          "title": "Use trenches and rock cover",
+          "title_i18n": {
+            "en": "Use trenches and rock cover",
+            "pt": "Usar trincheiras e rochas como cobertura"
+          },
+          "description": "Travel through protected routes and avoid stopping on skylines where guards can see your silhouette.",
+          "description_i18n": {
+            "en": "Travel through protected routes and avoid stopping on skylines where guards can see your silhouette.",
+            "pt": "Siga por rotas protegidas e evite parar no horizonte, onde os guardas podem ver sua silhueta."
+          }
+        },
+        {
+          "key": "avoid-aerial-patrols",
+          "title": "Avoid the aerial patrols",
+          "title_i18n": {
+            "en": "Avoid the aerial patrols",
+            "pt": "Evitar as patrulhas aéreas"
+          },
+          "description": "Watch search patterns and move between cover when the aircraft or flying guards face away.",
+          "description_i18n": {
+            "en": "Watch search patterns and move between cover when the aircraft or flying guards face away.",
+            "pt": "Observe os padrões de busca e vá entre coberturas quando aeronaves ou guardas voadores olharem para outro lado."
+          }
+        },
+        {
+          "key": "collect-mountain-supplies",
+          "title": "Restock on the mountain",
+          "title_i18n": {
+            "en": "Restock on the mountain",
+            "pt": "Reabastecer-se na montanha"
+          },
+          "description": "Search accessible storage areas for ammunition, food and medicine before the higher ascent.",
+          "description_i18n": {
+            "en": "Search accessible storage areas for ammunition, food and medicine before the higher ascent.",
+            "pt": "Procure munição, comida e remédios nos depósitos acessíveis antes de subir mais."
+          }
+        },
+        {
+          "key": "reach-krasnogorje-summit",
+          "title": "Reach the mountain summit",
+          "title_i18n": {
+            "en": "Reach the mountain summit",
+            "pt": "Chegar ao topo da montanha"
+          },
+          "description": "Move past the upper defenses and follow the objective into the summit ruins.",
+          "description_i18n": {
+            "en": "Move past the upper defenses and follow the objective into the summit ruins.",
+            "pt": "Passe pelas defesas superiores e siga o objetivo até as ruínas no topo."
+          }
+        },
+        {
+          "key": "meet-eva-summit",
+          "title": "Meet EVA in the summit ruins",
+          "title_i18n": {
+            "en": "Meet EVA in the summit ruins",
+            "pt": "Encontrar EVA nas ruínas do topo"
+          },
+          "description": "Complete the rendezvous and listen to the infiltration plan for Groznyj Grad.",
+          "description_i18n": {
+            "en": "Complete the rendezvous and listen to the infiltration plan for Groznyj Grad.",
+            "pt": "Conclua o encontro e ouça o plano de infiltração em Groznyj Grad."
+          }
+        },
+        {
+          "key": "descend-secret-tunnel",
+          "title": "Enter the tunnel beneath the ruins",
+          "title_i18n": {
+            "en": "Enter the tunnel beneath the ruins",
+            "pt": "Entrar no túnel sob as ruínas"
+          },
+          "description": "Use the route opened by the meeting and prepare before entering the underground boss area.",
+          "description_i18n": {
+            "en": "Use the route opened by the meeting and prepare before entering the underground boss area.",
+            "pt": "Use o caminho liberado pelo encontro e prepare-se antes de entrar na área subterrânea do chefe."
+          }
+        }
+      ]
+    },
+    {
+      "key": "the-fury",
+      "title": "The Fury's underground arena",
+      "title_i18n": {
+        "en": "The Fury's underground arena",
+        "pt": "A arena subterrânea de The Fury"
+      },
+      "items": [
+        {
+          "key": "prepare-fury-fight",
+          "title": "Prepare for The Fury",
+          "title_i18n": {
+            "en": "Prepare for The Fury",
+            "pt": "Preparar-se para The Fury"
+          },
+          "description": "Equip reliable weapons and medical supplies before stepping into the corridor arena.",
+          "description_i18n": {
+            "en": "Equip reliable weapons and medical supplies before stepping into the corridor arena.",
+            "pt": "Equipe armas confiáveis e suprimentos médicos antes de entrar na arena de corredores."
+          }
+        },
+        {
+          "key": "track-fury-corridors",
+          "title": "Track him through the corridors",
+          "title_i18n": {
+            "en": "Track him through the corridors",
+            "pt": "Rastreá-lo pelos corredores"
+          },
+          "description": "Use the parallel aisles to keep distance and listen for his movement instead of running blindly through flames.",
+          "description_i18n": {
+            "en": "Use the parallel aisles to keep distance and listen for his movement instead of running blindly through flames.",
+            "pt": "Use os corredores paralelos para manter distância e escute os movimentos dele em vez de atravessar chamas sem observar."
+          }
+        },
+        {
+          "key": "attack-fury-openings",
+          "title": "Attack during flamethrower pauses",
+          "title_i18n": {
+            "en": "Attack during flamethrower pauses",
+            "pt": "Atacar nas pausas do lança-chamas"
+          },
+          "description": "Fire when he stops spraying or turns away, then break line of sight before the next pass.",
+          "description_i18n": {
+            "en": "Fire when he stops spraying or turns away, then break line of sight before the next pass.",
+            "pt": "Atire quando ele parar de lançar fogo ou virar de costas e interrompa a linha de visão antes da próxima passagem."
+          }
+        },
+        {
+          "key": "managing-fury-burns",
+          "title": "Handle burns before they accumulate",
+          "title_i18n": {
+            "en": "Handle burns before they accumulate",
+            "pt": "Tratar queimaduras antes que se acumulem"
+          },
+          "description": "Move away from burning floor sections and check Cure when Snake is injured; avoid getting trapped at a dead end.",
+          "description_i18n": {
+            "en": "Move away from burning floor sections and check Cure when Snake is injured; avoid getting trapped at a dead end.",
+            "pt": "Afaste-se dos trechos em chamas e confira Cure quando Snake se ferir; evite ficar preso num beco sem saída."
+          }
+        },
+        {
+          "key": "defeat-the-fury",
+          "title": "Defeat The Fury and reach Groznyj Grad",
+          "title_i18n": {
+            "en": "Defeat The Fury and reach Groznyj Grad",
+            "pt": "Derrotar The Fury e chegar a Groznyj Grad"
+          },
+          "description": "Keep attacking from safe angles, watch the conclusion and follow the underground exit into the fortress.",
+          "description_i18n": {
+            "en": "Keep attacking from safe angles, watch the conclusion and follow the underground exit into the fortress.",
+            "pt": "Continue atacando de ângulos seguros, acompanhe a conclusão e siga pela saída subterrânea até a fortaleza."
+          }
+        }
+      ]
+    },
+    {
+      "key": "groznyj-grad-and-raikov",
+      "title": "Groznyj Grad and Raikov's disguise",
+      "title_i18n": {
+        "en": "Groznyj Grad and Raikov's disguise",
+        "pt": "Groznyj Grad e o disfarce de Raikov"
+      },
+      "items": [
+        {
+          "key": "scout-groznyj-perimeter",
+          "title": "Scout the fortress perimeter",
+          "title_i18n": {
+            "en": "Scout the fortress perimeter",
+            "pt": "Observar o perímetro da fortaleza"
+          },
+          "description": "Use crates and buildings to study patrols before crossing the large courtyards.",
+          "description_i18n": {
+            "en": "Use crates and buildings to study patrols before crossing the large courtyards.",
+            "pt": "Use caixas e prédios para observar as patrulhas antes de cruzar os grandes pátios."
+          }
+        },
+        {
+          "key": "find-weapons-lab-east",
+          "title": "Enter the Weapons Lab's East Wing",
+          "title_i18n": {
+            "en": "Enter the Weapons Lab's East Wing",
+            "pt": "Entrar na Ala Leste do Laboratório de Armas"
+          },
+          "description": "Find the eastern laboratory entrance and move through the interior without triggering an alert.",
+          "description_i18n": {
+            "en": "Find the eastern laboratory entrance and move through the interior without triggering an alert.",
+            "pt": "Encontre a entrada leste do laboratório e avance pelo interior sem provocar alerta."
+          }
+        },
+        {
+          "key": "identify-major-raikov",
+          "title": "Identify Major Raikov",
+          "title_i18n": {
+            "en": "Identify Major Raikov",
+            "pt": "Identificar o Major Raikov"
+          },
+          "description": "Locate the officer inside the lab and follow him at a distance until you can isolate him.",
+          "description_i18n": {
+            "en": "Locate the officer inside the lab and follow him at a distance until you can isolate him.",
+            "pt": "Localize o oficial no laboratório e siga-o à distância até conseguir isolá-lo."
+          }
+        },
+        {
+          "key": "subdue-raikov",
+          "title": "Subdue Raikov without raising the alarm",
+          "title_i18n": {
+            "en": "Subdue Raikov without raising the alarm",
+            "pt": "Neutralizar Raikov sem acionar alarme"
+          },
+          "description": "Use a tranquilizer or careful CQC when nearby guards cannot see the takedown.",
+          "description_i18n": {
+            "en": "Use a tranquilizer or careful CQC when nearby guards cannot see the takedown.",
+            "pt": "Use um tranquilizante ou CQC com cuidado quando os guardas próximos não puderem ver a ação."
+          }
+        },
+        {
+          "key": "carry-raikov-locker",
+          "title": "Carry Raikov to the locker area",
+          "title_i18n": {
+            "en": "Carry Raikov to the locker area",
+            "pt": "Levar Raikov até a área dos armários"
+          },
+          "description": "Move his unconscious body to the upstairs locker-room objective to obtain the officer uniform.",
+          "description_i18n": {
+            "en": "Move his unconscious body to the upstairs locker-room objective to obtain the officer uniform.",
+            "pt": "Leve o corpo inconsciente ao objetivo no vestiário do andar superior para obter o uniforme de oficial."
+          }
+        },
+        {
+          "key": "equip-officer-disguise",
+          "title": "Equip the Officer uniform and Mask",
+          "title_i18n": {
+            "en": "Equip the Officer uniform and Mask",
+            "pt": "Equipar o uniforme de Oficial e a Máscara"
+          },
+          "description": "Wear both parts of the Raikov disguise and keep weapons put away while passing through the restricted interior.",
+          "description_i18n": {
+            "en": "Wear both parts of the Raikov disguise and keep weapons put away while passing through the restricted interior.",
+            "pt": "Vista as duas partes do disfarce de Raikov e mantenha as armas guardadas ao passar pelo interior restrito."
+          }
+        },
+        {
+          "key": "reach-sokolov-lab",
+          "title": "Reach Sokolov through the restricted wing",
+          "title_i18n": {
+            "en": "Reach Sokolov through the restricted wing",
+            "pt": "Chegar a Sokolov pela ala restrita"
+          },
+          "description": "Use the disguise to pass the checkpoint, follow the route to Sokolov and complete the confrontation that leads to capture.",
+          "description_i18n": {
+            "en": "Use the disguise to pass the checkpoint, follow the route to Sokolov and complete the confrontation that leads to capture.",
+            "pt": "Use o disfarce para passar pelo controle, siga até Sokolov e acompanhe o confronto que leva à captura."
+          }
+        }
+      ]
+    },
+    {
+      "key": "prison-escape-and-sorrow",
+      "title": "Prison escape and The Sorrow",
+      "title_i18n": {
+        "en": "Prison escape and The Sorrow",
+        "pt": "Fuga da prisão e The Sorrow"
+      },
+      "items": [
+        {
+          "key": "survive-capture-scenes",
+          "title": "Survive the capture sequence",
+          "title_i18n": {
+            "en": "Survive the capture sequence",
+            "pt": "Sobreviver à sequência de captura"
+          },
+          "description": "Follow the interrogation scenes and inspect Snake's condition after he wakes in the cell.",
+          "description_i18n": {
+            "en": "Follow the interrogation scenes and inspect Snake's condition after he wakes in the cell.",
+            "pt": "Acompanhe as cenas de interrogatório e examine o estado de Snake quando ele despertar na cela."
+          }
+        },
+        {
+          "key": "inspect-cell-equipment",
+          "title": "Inspect the cell and available equipment",
+          "title_i18n": {
+            "en": "Inspect the cell and available equipment",
+            "pt": "Examinar a cela e o equipamento disponível"
+          },
+          "description": "Collect the Fork and inspect Cure for the concealed pill and transmitter; remove the transmitter before escaping.",
+          "description_i18n": {
+            "en": "Collect the Fork and inspect Cure for the concealed pill and transmitter; remove the transmitter before escaping.",
+            "pt": "Pegue o Garfo e examine Cure em busca da pílula escondida e do transmissor; remova o transmissor antes de fugir."
+          }
+        },
+        {
+          "key": "escape-cell-fake-death",
+          "title": "Escape the cell with a staged death",
+          "title_i18n": {
+            "en": "Escape the cell with a staged death",
+            "pt": "Fugir da cela simulando a morte"
+          },
+          "description": "Extract the Fake Death Pill with the Fork and use it. Wait for the guard to open the cell, then take the Revival Pill when he turns away and escape.",
+          "description_i18n": {
+            "en": "Extract the Fake Death Pill with the Fork and use it. Wait for the guard to open the cell, then take the Revival Pill when he turns away and escape.",
+            "pt": "Extraia a Fake Death Pill com o Garfo e use-a. Espere o guarda abrir a cela, tome a Revival Pill quando ele virar de costas e fuja."
+          }
+        },
+        {
+          "key": "reach-prison-drain",
+          "title": "Reach the drainage route",
+          "title_i18n": {
+            "en": "Reach the drainage route",
+            "pt": "Chegar à rota de drenagem"
+          },
+          "description": "Leave the cell area, avoid guards while under-equipped and follow the drainage path away from the fortress.",
+          "description_i18n": {
+            "en": "Leave the cell area, avoid guards while under-equipped and follow the drainage path away from the fortress.",
+            "pt": "Saia da área das celas, evite guardas enquanto estiver mal equipado e siga pela drenagem para fora da fortaleza."
+          }
+        },
+        {
+          "key": "escape-through-waterfall",
+          "title": "Escape through the waterfall",
+          "title_i18n": {
+            "en": "Escape through the waterfall",
+            "pt": "Escapar pela cachoeira"
+          },
+          "description": "Continue through the escape route and follow the final jump into the river.",
+          "description_i18n": {
+            "en": "Continue through the escape route and follow the final jump into the river.",
+            "pt": "Continue pela rota de fuga e siga o salto final até o rio."
+          }
+        },
+        {
+          "key": "walk-sorrows-river",
+          "title": "Walk The Sorrow's river",
+          "title_i18n": {
+            "en": "Walk The Sorrow's river",
+            "pt": "Percorrer o rio de The Sorrow"
+          },
+          "description": "Move upstream, avoid the apparitions and continue until reaching the end of the river encounter.",
+          "description_i18n": {
+            "en": "Move upstream, avoid the apparitions and continue until reaching the end of the river encounter.",
+            "pt": "Siga rio acima, evite as aparições e continue até alcançar o fim do encontro no rio."
+          }
+        },
+        {
+          "key": "revive-after-sorrow",
+          "title": "Use the Revival Pill after The Sorrow",
+          "title_i18n": {
+            "en": "Use the Revival Pill after The Sorrow",
+            "pt": "Usar a Revival Pill após The Sorrow"
+          },
+          "description": "At the apparent death screen, open the item menu and use the Revival Pill instead of selecting Continue.",
+          "description_i18n": {
+            "en": "At the apparent death screen, open the item menu and use the Revival Pill instead of selecting Continue.",
+            "pt": "Na aparente tela de morte, abra o menu de itens e use a Revival Pill em vez de selecionar Continue."
+          },
+          "details": "The apparent game-over screen is part of this encounter. Do not immediately choose Continue: access the item menu while the screen is active and select the Revival Pill to return Snake to the living world.\n\nIf you want to experience the full river sequence, walk to its far end before reviving. The apparitions reflect earlier kills, so a violent playthrough can make the crossing more crowded. This is not a conventional gunfight; conserve ammunition and concentrate on the path and the final item-menu action.",
+          "details_i18n": {
+            "en": "The apparent game-over screen is part of this encounter. Do not immediately choose Continue: access the item menu while the screen is active and select the Revival Pill to return Snake to the living world.\n\nIf you want to experience the full river sequence, walk to its far end before reviving. The apparitions reflect earlier kills, so a violent playthrough can make the crossing more crowded. This is not a conventional gunfight; conserve ammunition and concentrate on the path and the final item-menu action.",
+            "pt": "A aparente tela de fim de jogo faz parte do encontro. Não escolha Continue imediatamente: acesse o menu de itens enquanto a tela estiver ativa e selecione a Revival Pill para devolver Snake ao mundo dos vivos.\n\nSe quiser ver a sequência completa do rio, chegue ao fim antes de reviver. As aparições refletem mortes anteriores, então uma campanha violenta pode deixar a travessia mais cheia. Não é uma luta convencional de tiros; economize munição e concentre-se no caminho e na ação final pelo menu de itens."
+          }
+        }
+      ]
+    },
+    {
+      "key": "reunion-c3-and-volgin",
+      "title": "Reunion, C3 and Volgin",
+      "title_i18n": {
+        "en": "Reunion, C3 and Volgin",
+        "pt": "Reencontro, C3 e Volgin"
+      },
+      "items": [
+        {
+          "key": "reunite-eva-tikhogornyj",
+          "title": "Reunite with EVA at Tikhogornyj",
+          "title_i18n": {
+            "en": "Reunite with EVA at Tikhogornyj",
+            "pt": "Reencontrar EVA em Tikhogornyj"
+          },
+          "description": "Follow the waterfall route to the meeting place, recover your equipment and obtain the explosives.",
+          "description_i18n": {
+            "en": "Follow the waterfall route to the meeting place, recover your equipment and obtain the explosives.",
+            "pt": "Siga pela rota da cachoeira até o encontro, recupere os equipamentos e obtenha os explosivos."
+          }
+        },
+        {
+          "key": "return-to-weapons-lab",
+          "title": "Return to the Weapons Lab",
+          "title_i18n": {
+            "en": "Return to the Weapons Lab",
+            "pt": "Voltar ao Laboratório de Armas"
+          },
+          "description": "Re-enter Groznyj Grad, avoid the increased security and reach the Shagohod hangar.",
+          "description_i18n": {
+            "en": "Re-enter Groznyj Grad, avoid the increased security and reach the Shagohod hangar.",
+            "pt": "Entre novamente em Groznyj Grad, evite a segurança reforçada e alcance o hangar do Shagohod."
+          }
+        },
+        {
+          "key": "plant-four-c3-charges",
+          "title": "Plant C3 on all four fuel tanks",
+          "title_i18n": {
+            "en": "Plant C3 on all four fuel tanks",
+            "pt": "Colocar C3 nos quatro tanques de combustível"
+          },
+          "description": "Search both levels around the Shagohod and place a charge at each designated tank's attachment point.",
+          "description_i18n": {
+            "en": "Search both levels around the Shagohod and place a charge at each designated tank's attachment point.",
+            "pt": "Procure nos dois níveis ao redor do Shagohod e coloque uma carga no ponto indicado de cada tanque."
+          }
+        },
+        {
+          "key": "prepare-volgin-timer",
+          "title": "Prepare before the Volgin confrontation",
+          "title_i18n": {
+            "en": "Prepare before the Volgin confrontation",
+            "pt": "Preparar-se antes do confronto com Volgin"
+          },
+          "description": "Confirm the charges are planted and check medicine and ammunition before proceeding into the timed battle.",
+          "description_i18n": {
+            "en": "Confirm the charges are planted and check medicine and ammunition before proceeding into the timed battle.",
+            "pt": "Confirme que as cargas foram colocadas e confira remédios e munição antes da batalha com limite de tempo."
+          }
+        },
+        {
+          "key": "avoid-volgin-electricity",
+          "title": "Avoid Volgin's electrical defense",
+          "title_i18n": {
+            "en": "Avoid Volgin's electrical defense",
+            "pt": "Evitar a defesa elétrica de Volgin"
+          },
+          "description": "Keep your distance while he is charged and put away the weapon when electricity makes holding it dangerous.",
+          "description_i18n": {
+            "en": "Keep your distance while he is charged and put away the weapon when electricity makes holding it dangerous.",
+            "pt": "Mantenha distância enquanto ele estiver carregado e guarde a arma quando a eletricidade tornar perigoso segurá-la."
+          }
+        },
+        {
+          "key": "attack-volgin-openings",
+          "title": "Attack Volgin during recovery",
+          "title_i18n": {
+            "en": "Attack Volgin during recovery",
+            "pt": "Atacar Volgin na recuperação"
+          },
+          "description": "Dodge his attacks, circle toward his back and use short attacks during clear openings instead of firing into his electrical guard.",
+          "description_i18n": {
+            "en": "Dodge his attacks, circle toward his back and use short attacks during clear openings instead of firing into his electrical guard.",
+            "pt": "Desvie dos ataques, contorne até as costas e use golpes curtos nas aberturas em vez de atirar na defesa elétrica."
+          }
+        },
+        {
+          "key": "defeat-volgin-hangar",
+          "title": "Defeat Volgin in the hangar",
+          "title_i18n": {
+            "en": "Defeat Volgin in the hangar",
+            "pt": "Derrotar Volgin no hangar"
+          },
+          "description": "Reduce his life or stamina before the countdown expires and continue into the escape sequence.",
+          "description_i18n": {
+            "en": "Reduce his life or stamina before the countdown expires and continue into the escape sequence.",
+            "pt": "Esgote a vida ou o vigor dele antes de acabar o tempo e continue para a sequência de fuga."
+          }
+        }
+      ]
+    },
+    {
+      "key": "motorcycle-chase-and-shagohod",
+      "title": "The motorcycle chase and Shagohod",
+      "title_i18n": {
+        "en": "The motorcycle chase and Shagohod",
+        "pt": "A perseguição de moto e o Shagohod"
+      },
+      "items": [
+        {
+          "key": "board-eva-motorcycle",
+          "title": "Board EVA's motorcycle",
+          "title_i18n": {
+            "en": "Board EVA's motorcycle",
+            "pt": "Subir na moto de EVA"
+          },
+          "description": "Follow the escape scene and prepare to shoot from the sidecar while EVA drives.",
+          "description_i18n": {
+            "en": "Follow the escape scene and prepare to shoot from the sidecar while EVA drives.",
+            "pt": "Acompanhe a cena de fuga e prepare-se para atirar do sidecar enquanto EVA dirige."
+          }
+        },
+        {
+          "key": "clear-courtyard-roadblocks",
+          "title": "Clear the courtyard roadblocks",
+          "title_i18n": {
+            "en": "Clear the courtyard roadblocks",
+            "pt": "Abrir os bloqueios dos pátios"
+          },
+          "description": "Prioritize enemies blocking EVA's route and keep track of attackers approaching from the sides.",
+          "description_i18n": {
+            "en": "Prioritize enemies blocking EVA's route and keep track of attackers approaching from the sides.",
+            "pt": "Priorize os inimigos que bloqueiam o caminho de EVA e observe quem se aproxima pelos lados."
+          }
+        },
+        {
+          "key": "survive-runway-pursuit",
+          "title": "Survive the runway pursuit",
+          "title_i18n": {
+            "en": "Survive the runway pursuit",
+            "pt": "Sobreviver à perseguição na pista"
+          },
+          "description": "Aim at immediate threats during the moving sections and use each pause to reorient before the next wave.",
+          "description_i18n": {
+            "en": "Aim at immediate threats during the moving sections and use each pause to reorient before the next wave.",
+            "pt": "Mire nas ameaças imediatas durante o movimento e use cada pausa para se orientar antes da próxima onda."
+          }
+        },
+        {
+          "key": "protect-eva-through-chase",
+          "title": "Protect EVA through the remaining chase",
+          "title_i18n": {
+            "en": "Protect EVA through the remaining chase",
+            "pt": "Proteger EVA no restante da perseguição"
+          },
+          "description": "Watch her condition and deal with pursuing motorcycles or aerial enemies before they can maintain fire.",
+          "description_i18n": {
+            "en": "Watch her condition and deal with pursuing motorcycles or aerial enemies before they can maintain fire.",
+            "pt": "Observe o estado dela e enfrente motos perseguidoras ou inimigos aéreos antes que mantenham fogo contínuo."
+          }
+        },
+        {
+          "key": "shoot-bridge-c3",
+          "title": "Shoot the bridge's C3 at EVA's signal",
+          "title_i18n": {
+            "en": "Shoot the bridge's C3 at EVA's signal",
+            "pt": "Atirar no C3 da ponte ao sinal de EVA"
+          },
+          "description": "Equip the sniper rifle, locate the flashing C3 charges underneath the bridge and shoot every required charge at EVA's signal; the number depends on difficulty.",
+          "description_i18n": {
+            "en": "Equip the sniper rifle, locate the flashing C3 charges underneath the bridge and shoot every required charge at EVA's signal; the number depends on difficulty.",
+            "pt": "Equipe o rifle de precisão, localize as cargas de C3 piscando sob a ponte e acerte todas as necessárias ao sinal de EVA; a quantidade depende da dificuldade."
+          }
+        },
+        {
+          "key": "stop-shagohod-treads",
+          "title": "Stop the Shagohod with rocket fire",
+          "title_i18n": {
+            "en": "Stop the Shagohod with rocket fire",
+            "pt": "Parar o Shagohod com foguetes"
+          },
+          "description": "Use the RPG-7 on its screw-like treads so EVA can move into an attacking position.",
+          "description_i18n": {
+            "en": "Use the RPG-7 on its screw-like treads so EVA can move into an attacking position.",
+            "pt": "Use o RPG-7 nas esteiras em forma de rosca para EVA conseguir uma posição de ataque."
+          }
+        },
+        {
+          "key": "attack-shagohod-rear",
+          "title": "Attack the Shagohod's exposed rear",
+          "title_i18n": {
+            "en": "Attack the Shagohod's exposed rear",
+            "pt": "Atacar a traseira exposta do Shagohod"
+          },
+          "description": "Follow up on each stopped tread with a shot at the vulnerable rear; repeat as EVA circles the machine.",
+          "description_i18n": {
+            "en": "Follow up on each stopped tread with a shot at the vulnerable rear; repeat as EVA circles the machine.",
+            "pt": "Após parar uma esteira, acerte a parte traseira vulnerável; repita enquanto EVA contorna a máquina."
+          }
+        },
+        {
+          "key": "defeat-volgin-on-shagohod",
+          "title": "Defeat Volgin on the disabled Shagohod",
+          "title_i18n": {
+            "en": "Defeat Volgin on the disabled Shagohod",
+            "pt": "Derrotar Volgin sobre o Shagohod avariado"
+          },
+          "description": "When fighting on foot, stop the machine's movement and shoot the exposed Volgin during openings while avoiding its charges.",
+          "description_i18n": {
+            "en": "When fighting on foot, stop the machine's movement and shoot the exposed Volgin during openings while avoiding its charges.",
+            "pt": "Ao lutar a pé, interrompa o movimento da máquina e atire em Volgin exposto nas aberturas, evitando as investidas."
+          }
+        }
+      ]
+    },
+    {
+      "key": "eva-forest-escort",
+      "title": "EVA's forest escort",
+      "title_i18n": {
+        "en": "EVA's forest escort",
+        "pt": "Escolta de EVA pela floresta"
+      },
+      "items": [
+        {
+          "key": "survive-final-bike-section",
+          "title": "Survive the last motorcycle escape",
+          "title_i18n": {
+            "en": "Survive the last motorcycle escape",
+            "pt": "Sobreviver à última fuga de moto"
+          },
+          "description": "Continue covering EVA through the final moving section until the story forces a stop.",
+          "description_i18n": {
+            "en": "Continue covering EVA through the final moving section until the story forces a stop.",
+            "pt": "Continue protegendo EVA no último trecho em movimento até a parada obrigatória da história."
+          }
+        },
+        {
+          "key": "treat-eva-after-crash",
+          "title": "Treat EVA after the crash",
+          "title_i18n": {
+            "en": "Treat EVA after the crash",
+            "pt": "Tratar EVA após a queda"
+          },
+          "description": "Inspect her injuries in Cure and provide the required treatment before trying to advance.",
+          "description_i18n": {
+            "en": "Inspect her injuries in Cure and provide the required treatment before trying to advance.",
+            "pt": "Examine os ferimentos dela em Cure e aplique o tratamento necessário antes de tentar avançar."
+          }
+        },
+        {
+          "key": "feed-eva-for-escort",
+          "title": "Keep EVA fed during the escort",
+          "title_i18n": {
+            "en": "Keep EVA fed during the escort",
+            "pt": "Manter EVA alimentada durante a escolta"
+          },
+          "description": "Give her safe food when stamina is low and check that she can continue before moving farther ahead.",
+          "description_i18n": {
+            "en": "Give her safe food when stamina is low and check that she can continue before moving farther ahead.",
+            "pt": "Dê comida segura quando o vigor dela cair e confira se consegue continuar antes de se afastar."
+          }
+        },
+        {
+          "key": "escort-eva-through-forest",
+          "title": "Escort EVA through the forest",
+          "title_i18n": {
+            "en": "Escort EVA through the forest",
+            "pt": "Escoltar EVA pela floresta"
+          },
+          "description": "Move between cover, use follow or wait commands and clear nearby threats before bringing her forward.",
+          "description_i18n": {
+            "en": "Move between cover, use follow or wait commands and clear nearby threats before bringing her forward.",
+            "pt": "Avance entre coberturas, use comandos de seguir ou esperar e remova ameaças próximas antes de chamá-la."
+          }
+        },
+        {
+          "key": "reach-rokovoj-bereg",
+          "title": "Reach the final rendezvous route",
+          "title_i18n": {
+            "en": "Reach the final rendezvous route",
+            "pt": "Chegar à rota do último encontro"
+          },
+          "description": "Keep EVA away from the pursuing soldiers, finish the forest crossing and continue toward the flower field.",
+          "description_i18n": {
+            "en": "Keep EVA away from the pursuing soldiers, finish the forest crossing and continue toward the flower field.",
+            "pt": "Mantenha EVA longe dos soldados perseguidores, termine a travessia da floresta e continue até o campo de flores."
+          }
+        }
+      ]
+    },
+    {
+      "key": "the-boss-and-ending",
+      "title": "The Boss, escape and ending",
+      "title_i18n": {
+        "en": "The Boss, escape and ending",
+        "pt": "The Boss, fuga e final"
+      },
+      "items": [
+        {
+          "key": "prepare-final-flower-field",
+          "title": "Prepare before entering the flower field",
+          "title_i18n": {
+            "en": "Prepare before entering the flower field",
+            "pt": "Preparar-se antes de entrar no campo de flores"
+          },
+          "description": "Make a manual save, restore stamina and check ammunition before the final duel.",
+          "description_i18n": {
+            "en": "Make a manual save, restore stamina and check ammunition before the final duel.",
+            "pt": "Salve manualmente, restaure o vigor e confira a munição antes do último duelo."
+          }
+        },
+        {
+          "key": "blend-into-flower-field",
+          "title": "Blend into the flower field",
+          "title_i18n": {
+            "en": "Blend into the flower field",
+            "pt": "Camuflar-se no campo de flores"
+          },
+          "description": "Choose light camouflage suited to the field and watch for movement among the flowers.",
+          "description_i18n": {
+            "en": "Choose light camouflage suited to the field and watch for movement among the flowers.",
+            "pt": "Escolha camuflagem clara adequada ao campo e observe movimentos entre as flores."
+          }
+        },
+        {
+          "key": "counter-boss-cqc",
+          "title": "Counter The Boss's CQC",
+          "title_i18n": {
+            "en": "Counter The Boss's CQC",
+            "pt": "Contra-atacar o CQC de The Boss"
+          },
+          "description": "Face her approach, use the selected control style's counter timing and follow a successful throw with a brief attack.",
+          "description_i18n": {
+            "en": "Face her approach, use the selected control style's counter timing and follow a successful throw with a brief attack.",
+            "pt": "Encare a aproximação, use o tempo de contra-ataque do estilo escolhido e aproveite um arremesso bem-sucedido para atacar brevemente."
+          },
+          "details": "Keep The Boss in view and use the counter timing associated with the control style you chose. When she closes in, react to the CQC opportunity instead of holding a long attack. After a successful counter, use a short follow-up, then separate before she recovers.\n\nIf you prefer distance, break line of sight among the trees and wait for a clear opening. Manage the mission timer without rushing every exchange. For a stamina victory, keep follow-ups nonlethal; the story requires a separate final action after the duel regardless of which bar you depleted.",
+          "details_i18n": {
+            "en": "Keep The Boss in view and use the counter timing associated with the control style you chose. When she closes in, react to the CQC opportunity instead of holding a long attack. After a successful counter, use a short follow-up, then separate before she recovers.\n\nIf you prefer distance, break line of sight among the trees and wait for a clear opening. Manage the mission timer without rushing every exchange. For a stamina victory, keep follow-ups nonlethal; the story requires a separate final action after the duel regardless of which bar you depleted.",
+            "pt": "Mantenha The Boss à vista e use o tempo de contra-ataque do estilo de controle escolhido. Quando ela se aproximar, reaja à oportunidade de CQC em vez de iniciar um ataque longo. Após um contra-ataque bem-sucedido, faça uma ação curta e se afaste antes de ela se recuperar.\n\nSe preferir distância, interrompa a linha de visão entre as árvores e espere uma abertura clara. Controle o cronômetro sem apressar cada troca. Para vencer por vigor, mantenha os ataques não letais; a história exige uma ação final separada depois do duelo, independentemente da barra esgotada."
+          }
+        },
+        {
+          "key": "finish-boss-duel",
+          "title": "Win The Boss's timed duel",
+          "title_i18n": {
+            "en": "Win The Boss's timed duel",
+            "pt": "Vencer o duelo com tempo limitado de The Boss"
+          },
+          "description": "Alternate cover, counters and aimed shots, exhausting her life or stamina before the mission timer ends.",
+          "description_i18n": {
+            "en": "Alternate cover, counters and aimed shots, exhausting her life or stamina before the mission timer ends.",
+            "pt": "Alterne cobertura, contra-ataques e tiros mirados, esgotando a vida ou o vigor dela antes de acabar o tempo."
+          }
+        },
+        {
+          "key": "complete-final-decision",
+          "title": "Complete the final action in the field",
+          "title_i18n": {
+            "en": "Complete the final action in the field",
+            "pt": "Concluir a última ação no campo"
+          },
+          "description": "Watch the scene after the duel and perform the prompted final action to continue the extraction.",
+          "description_i18n": {
+            "en": "Watch the scene after the duel and perform the prompted final action to continue the extraction.",
+            "pt": "Acompanhe a cena após o duelo e execute a última ação solicitada para continuar a extração."
+          }
+        },
+        {
+          "key": "resolve-ocelot-plane",
+          "title": "Resolve Ocelot's final plane encounter",
+          "title_i18n": {
+            "en": "Resolve Ocelot's final plane encounter",
+            "pt": "Resolver o último encontro com Ocelot no avião"
+          },
+          "description": "Follow the revolver encounter's on-screen choices and let the escape sequence conclude.",
+          "description_i18n": {
+            "en": "Follow the revolver encounter's on-screen choices and let the escape sequence conclude.",
+            "pt": "Siga as escolhas exibidas no encontro com os revólveres e deixe a sequência de fuga terminar."
+          }
+        },
+        {
+          "key": "watch-epilogue-and-save",
+          "title": "Watch the epilogue and save clear data",
+          "title_i18n": {
+            "en": "Watch the epilogue and save clear data",
+            "pt": "Ver o epílogo e salvar a conclusão"
+          },
+          "description": "Watch the closing revelations, credits and final call; review the results and save completion data when prompted.",
+          "description_i18n": {
+            "en": "Watch the closing revelations, credits and final call; review the results and save completion data when prompted.",
+            "pt": "Veja as revelações finais, os créditos e a última ligação; confira os resultados e salve os dados de conclusão quando solicitado."
+          }
+        }
+      ]
+    },
+    {
+      "key": "selected-optional-challenges",
+      "title": "Selected optional gameplay goals",
+      "title_i18n": {
+        "en": "Selected optional gameplay goals",
+        "pt": "Metas opcionais selecionadas de jogabilidade"
+      },
+      "items": [
+        {
+          "key": "capture-animal-alive",
+          "title": "Capture an animal alive",
+          "title_i18n": {
+            "en": "Capture an animal alive",
+            "pt": "Capturar um animal vivo"
+          },
+          "description": "Use a suitable tranquilizer or trap and confirm a live specimen in the food inventory; this is a personal gameplay goal.",
+          "description_i18n": {
+            "en": "Use a suitable tranquilizer or trap and confirm a live specimen in the food inventory; this is a personal gameplay goal.",
+            "pt": "Use um tranquilizante ou armadilha apropriada e confira o animal vivo no inventário de comida; esta é uma meta pessoal de jogabilidade."
+          }
+        },
+        {
+          "key": "complete-full-treatment",
+          "title": "Complete a wound's treatment",
+          "title_i18n": {
+            "en": "Complete a wound's treatment",
+            "pt": "Concluir o tratamento de um ferimento"
+          },
+          "description": "Use the Cure screen to address every required part of one injury and confirm that no treatment step remains.",
+          "description_i18n": {
+            "en": "Use the Cure screen to address every required part of one injury and confirm that no treatment step remains.",
+            "pt": "Use a tela Cure para cumprir todas as partes necessárias do tratamento de uma lesão e confira se nada ficou pendente."
+          }
+        },
+        {
+          "key": "cross-patrol-without-alert",
+          "title": "Cross a patrol area without an alert",
+          "title_i18n": {
+            "en": "Cross a patrol area without an alert",
+            "pt": "Atravessar uma área patrulhada sem alerta"
+          },
+          "description": "Choose a regular infiltration area and reach its exit using camouflage, observation and distractions; scripted battles are outside this local goal.",
+          "description_i18n": {
+            "en": "Choose a regular infiltration area and reach its exit using camouflage, observation and distractions; scripted battles are outside this local goal.",
+            "pt": "Escolha uma área comum de infiltração e alcance a saída usando camuflagem, observação e distrações; batalhas obrigatórias ficam fora desta meta local."
+          }
+        },
+        {
+          "key": "ocelot-stamina-victory",
+          "title": "Defeat Ocelot by stamina depletion",
+          "title_i18n": {
+            "en": "Defeat Ocelot by stamina depletion",
+            "pt": "Derrotar Ocelot esgotando o vigor"
+          },
+          "description": "Use the Mk22 during his reload openings and finish the ravine duel without depleting his life bar.",
+          "description_i18n": {
+            "en": "Use the Mk22 during his reload openings and finish the ravine duel without depleting his life bar.",
+            "pt": "Use a Mk22 nas aberturas das recargas e termine o duelo da ravina sem esgotar a barra de vida dele."
+          }
+        },
+        {
+          "key": "end-stamina-victory",
+          "title": "Defeat The End by stamina depletion",
+          "title_i18n": {
+            "en": "Defeat The End by stamina depletion",
+            "pt": "Derrotar The End esgotando o vigor"
+          },
+          "description": "Track him through the forest and use tranquilizer attacks; inspect the arena for the reward after the duel.",
+          "description_i18n": {
+            "en": "Track him through the forest and use tranquilizer attacks; inspect the arena for the reward after the duel.",
+            "pt": "Rastreie-o pela floresta e use ataques tranquilizantes; procure a recompensa na arena após o duelo."
+          }
+        },
+        {
+          "key": "boss-stamina-victory",
+          "title": "Defeat The Boss by stamina depletion",
+          "title_i18n": {
+            "en": "Defeat The Boss by stamina depletion",
+            "pt": "Derrotar The Boss esgotando o vigor"
+          },
+          "description": "Use nonlethal CQC and tranquilizer follow-ups throughout the duel; the required story action afterward is separate from this fighting goal.",
+          "description_i18n": {
+            "en": "Use nonlethal CQC and tranquilizer follow-ups throughout the duel; the required story action afterward is separate from this fighting goal.",
+            "pt": "Use CQC não letal e tiros tranquilizantes durante o duelo; a ação obrigatória da história depois é separada desta meta de combate."
+          }
+        },
+        {
+          "key": "review-replay-results",
+          "title": "Review a completed run for replay goals",
+          "title_i18n": {
+            "en": "Review a completed run for replay goals",
+            "pt": "Revisar uma campanha concluída para planejar repetições"
+          },
+          "description": "Record your time, alerts and combat results, then choose one statistic to improve; this checklist does not require a specific ranking.",
+          "description_i18n": {
+            "en": "Record your time, alerts and combat results, then choose one statistic to improve; this checklist does not require a specific ranking.",
+            "pt": "Anote tempo, alertas e resultados de combate e escolha um indicador para melhorar; esta lista não exige uma classificação específica."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "aggregate-collectible-goals",
+      "title": "Optional aggregate collectible goals",
+      "title_i18n": {
+        "en": "Optional aggregate collectible goals",
+        "pt": "Metas opcionais conjuntas de colecionáveis"
+      },
+      "items": [
+        {
+          "key": "shoot-first-kerotan",
+          "title": "Shoot a Kerotan figure",
+          "title_i18n": {
+            "en": "Shoot a Kerotan figure",
+            "pt": "Atirar em uma figura Kerotan"
+          },
+          "description": "Look for a hidden green frog, shoot it and confirm its reaction; figures are activated by shooting, not by picking them up.",
+          "description_i18n": {
+            "en": "Look for a hidden green frog, shoot it and confirm its reaction; figures are activated by shooting, not by picking them up.",
+            "pt": "Procure um sapo verde escondido, atire e confirme sua reação; as figuras são ativadas por disparos, não por coleta manual."
+          }
+        },
+        {
+          "key": "shoot-all-kerotans",
+          "title": "Shoot all 64 Kerotan figures",
+          "title_i18n": {
+            "en": "Shoot all 64 Kerotan figures",
+            "pt": "Atirar nas 64 figuras Kerotan"
+          },
+          "description": "Use a separate location checklist across both missions and preserve saves before one-way sections, especially the chase; this is an aggregate goal.",
+          "description_i18n": {
+            "en": "Use a separate location checklist across both missions and preserve saves before one-way sections, especially the chase; this is an aggregate goal.",
+            "pt": "Use uma lista de localizações à parte nas duas missões e preserve salvamentos antes de trechos sem retorno, sobretudo a perseguição; esta é uma meta conjunta."
+          }
+        },
+        {
+          "key": "shoot-first-ga-ko",
+          "title": "Shoot a GA-KO figure",
+          "title_i18n": {
+            "en": "Shoot a GA-KO figure",
+            "pt": "Atirar em uma figura GA-KO"
+          },
+          "description": "Look for Delta's additional hidden duck figures and shoot one to activate it; these are distinct from the green Kerotans.",
+          "description_i18n": {
+            "en": "Look for Delta's additional hidden duck figures and shoot one to activate it; these are distinct from the green Kerotans.",
+            "pt": "Procure os patos escondidos adicionados em Delta e atire em um para ativá-lo; eles são diferentes dos Kerotans verdes."
+          }
+        },
+        {
+          "key": "shoot-all-ga-kos",
+          "title": "Shoot all 64 GA-KO figures",
+          "title_i18n": {
+            "en": "Shoot all 64 GA-KO figures",
+            "pt": "Atirar nas 64 figuras GA-KO"
+          },
+          "description": "Track the ducks separately from Kerotans, saving before missable transitions; this aggregate checkbox does not list every location.",
+          "description_i18n": {
+            "en": "Track the ducks separately from Kerotans, saving before missable transitions; this aggregate checkbox does not list every location.",
+            "pt": "Acompanhe os patos separadamente dos Kerotans e salve antes de passagens que podem impedir o retorno; esta marcação conjunta não lista todas as localizações."
+          }
+        },
+        {
+          "key": "collect-selected-camouflage",
+          "title": "Collect and test additional camouflage",
+          "title_i18n": {
+            "en": "Collect and test additional camouflage",
+            "pt": "Obter e testar camuflagens adicionais"
+          },
+          "description": "Find an optional uniform or earn a boss camouflage, then compare its practical effect; this is a selected milestone, not every edition or bonus outfit.",
+          "description_i18n": {
+            "en": "Find an optional uniform or earn a boss camouflage, then compare its practical effect; this is a selected milestone, not every edition or bonus outfit.",
+            "pt": "Encontre um uniforme opcional ou obtenha uma camuflagem de chefe e compare seu efeito; esta meta é uma seleção, não todos os trajes e bônus de cada edição."
+          }
+        },
+        {
+          "key": "collect-selected-face-paint",
+          "title": "Collect and test additional face paint",
+          "title_i18n": {
+            "en": "Collect and test additional face paint",
+            "pt": "Obter e testar pinturas faciais adicionais"
+          },
+          "description": "Find an optional face paint and compare its camouflage index in suitable terrain; no exhaustive paint-location list is included here.",
+          "description_i18n": {
+            "en": "Find an optional face paint and compare its camouflage index in suitable terrain; no exhaustive paint-location list is included here.",
+            "pt": "Encontre uma pintura facial opcional e compare seu índice no terreno adequado; esta lista não inclui todas as localizações de pinturas."
+          }
+        }
+      ],
+      "kind": "collectible"
+    }
+  ],
+  "trophies": [
+    {
+      "key": "endless-battle",
+      "title": "Endless Battle",
+      "title_i18n": {
+        "en": "Endless Battle",
+        "pt": "Endless Battle"
+      },
+      "description": "Unlock the other 45 trophies.",
+      "description_i18n": {
+        "en": "Unlock the other 45 trophies.",
+        "pt": "Desbloqueie os outros 45 troféus."
+      },
+      "tier": "platinum"
+    },
+    {
+      "key": "young-gun",
+      "title": "Young Gun",
+      "title_i18n": {
+        "en": "Young Gun",
+        "pt": "Young Gun"
+      },
+      "description": "Witness Ocelot being knocked unconscious.",
+      "description_i18n": {
+        "en": "Witness Ocelot being knocked unconscious.",
+        "pt": "Veja Ocelot ser nocauteado."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "pain-relief",
+      "title": "Pain Relief",
+      "title_i18n": {
+        "en": "Pain Relief",
+        "pt": "Pain Relief"
+      },
+      "description": "Defeat The Pain.",
+      "description_i18n": {
+        "en": "Defeat The Pain.",
+        "pt": "Derrote The Pain."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "if-it-bleeds-we-can-kill-it",
+      "title": "If It Bleeds, We Can Kill It",
+      "title_i18n": {
+        "en": "If It Bleeds, We Can Kill It",
+        "pt": "If It Bleeds, We Can Kill It"
+      },
+      "description": "Defeat The Fear.",
+      "description_i18n": {
+        "en": "Defeat The Fear.",
+        "pt": "Derrote The Fear."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "the-end",
+      "title": "The End",
+      "title_i18n": {
+        "en": "The End",
+        "pt": "The End"
+      },
+      "description": "Defeat The End.",
+      "description_i18n": {
+        "en": "Defeat The End.",
+        "pt": "Derrote The End."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "houston-we-had-a-problem",
+      "title": "Houston, We HAD a Problem",
+      "title_i18n": {
+        "en": "Houston, We HAD a Problem",
+        "pt": "Houston, We HAD a Problem"
+      },
+      "description": "Defeat The Fury.",
+      "description_i18n": {
+        "en": "Defeat The Fury.",
+        "pt": "Derrote The Fury."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "river-of-pain",
+      "title": "River of Pain",
+      "title_i18n": {
+        "en": "River of Pain",
+        "pt": "River of Pain"
+      },
+      "description": "Finish the encounter with The Sorrow.",
+      "description_i18n": {
+        "en": "Finish the encounter with The Sorrow.",
+        "pt": "Conclua o encontro com The Sorrow."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "grounded",
+      "title": "Grounded",
+      "title_i18n": {
+        "en": "Grounded",
+        "pt": "Grounded"
+      },
+      "description": "Defeat Volgin.",
+      "description_i18n": {
+        "en": "Defeat Volgin.",
+        "pt": "Derrote Volgin."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "shagadelic",
+      "title": "Shagadelic",
+      "title_i18n": {
+        "en": "Shagadelic",
+        "pt": "Shagadelic"
+      },
+      "description": "Destroy the Shagohod.",
+      "description_i18n": {
+        "en": "Destroy the Shagohod.",
+        "pt": "Destrua o Shagohod."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "the-patriot",
+      "title": "The Patriot",
+      "title_i18n": {
+        "en": "The Patriot",
+        "pt": "The Patriot"
+      },
+      "description": "Defeat The Boss.",
+      "description_i18n": {
+        "en": "Defeat The Boss.",
+        "pt": "Derrote The Boss."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "mama-said",
+      "title": "Mama Said",
+      "title_i18n": {
+        "en": "Mama Said",
+        "pt": "Mama Said"
+      },
+      "description": "Knock a guard unconscious with a CQC throw.",
+      "description_i18n": {
+        "en": "Knock a guard unconscious with a CQC throw.",
+        "pt": "Nocauteie um guarda com um arremesso de CQC."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "tell-me-where-the-bomb-is",
+      "title": "Tell Me Where the Bomb Is",
+      "title_i18n": {
+        "en": "Tell Me Where the Bomb Is",
+        "pt": "Tell Me Where the Bomb Is"
+      },
+      "description": "Question a captured enemy using CQC.",
+      "description_i18n": {
+        "en": "Question a captured enemy using CQC.",
+        "pt": "Interrogue um inimigo capturado usando CQC."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "like-he-just-doesn-t-care",
+      "title": "Like He Just Doesn't Care",
+      "title_i18n": {
+        "en": "Like He Just Doesn't Care",
+        "pt": "Like He Just Doesn't Care"
+      },
+      "description": "Threaten an enemy with a weapon to hold them up.",
+      "description_i18n": {
+        "en": "Threaten an enemy with a weapon to hold them up.",
+        "pt": "Renda um inimigo apontando uma arma para ele."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "don-t-touch-the-sides",
+      "title": "Don't Touch the Sides",
+      "title_i18n": {
+        "en": "Don't Touch the Sides",
+        "pt": "Don't Touch the Sides"
+      },
+      "description": "Extract a lodged bullet with the knife in Cure.",
+      "description_i18n": {
+        "en": "Extract a lodged bullet with the knife in Cure.",
+        "pt": "Extraia uma bala alojada usando a faca em Cure."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "ocelot-always-gets-his-man",
+      "title": "Ocelot Always Gets His Man",
+      "title_i18n": {
+        "en": "Ocelot Always Gets His Man",
+        "pt": "Ocelot Always Gets His Man"
+      },
+      "description": "Find Ocelot behind Snake during the presidential handshake.",
+      "description_i18n": {
+        "en": "Find Ocelot behind Snake during the presidential handshake.",
+        "pt": "Encontre Ocelot atrás de Snake durante o aperto de mão com o presidente."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "prince-charming",
+      "title": "Prince Charming",
+      "title_i18n": {
+        "en": "Prince Charming",
+        "pt": "Prince Charming"
+      },
+      "description": "Hit your first Kerotan figure.",
+      "description_i18n": {
+        "en": "Hit your first Kerotan figure.",
+        "pt": "Acerte sua primeira figura de Kerotan."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "ugly-duckling",
+      "title": "Ugly Duckling",
+      "title_i18n": {
+        "en": "Ugly Duckling",
+        "pt": "Ugly Duckling"
+      },
+      "description": "Hit your first GA-KO figure.",
+      "description_i18n": {
+        "en": "Hit your first GA-KO figure.",
+        "pt": "Acerte sua primeira figura de GA-KO."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "ralph-called",
+      "title": "Ralph Called",
+      "title_i18n": {
+        "en": "Ralph Called",
+        "pt": "Ralph Called"
+      },
+      "description": "Cause Snake to vomit.",
+      "description_i18n": {
+        "en": "Cause Snake to vomit.",
+        "pt": "Faça Snake vomitar."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "can-i-keep-it",
+      "title": "Can I Keep It?",
+      "title_i18n": {
+        "en": "Can I Keep It?",
+        "pt": "Can I Keep It?"
+      },
+      "description": "Take a living animal into captivity.",
+      "description_i18n": {
+        "en": "Take a living animal into captivity.",
+        "pt": "Capture um animal vivo."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "snake-eater",
+      "title": "Snake Eater",
+      "title_i18n": {
+        "en": "Snake Eater",
+        "pt": "Snake Eater"
+      },
+      "description": "Consume any snake as food.",
+      "description_i18n": {
+        "en": "Consume any snake as food.",
+        "pt": "Consuma uma cobra como alimento."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "foodie",
+      "title": "Foodie",
+      "title_i18n": {
+        "en": "Foodie",
+        "pt": "Foodie"
+      },
+      "description": "Add one entry to the Food Collection.",
+      "description_i18n": {
+        "en": "Add one entry to the Food Collection.",
+        "pt": "Adicione uma entrada à coleção de alimentos."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "a-good-man-is-hard-to-find",
+      "title": "A Good Man Is Hard to Find",
+      "title_i18n": {
+        "en": "A Good Man Is Hard to Find",
+        "pt": "A Good Man Is Hard to Find"
+      },
+      "description": "Reach exactly 100% camouflage visibility protection.",
+      "description_i18n": {
+        "en": "Reach exactly 100% camouflage visibility protection.",
+        "pt": "Alcance um índice de camuflagem de 100%."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "i-can-totally-see-you",
+      "title": "I Can Totally See You",
+      "title_i18n": {
+        "en": "I Can Totally See You",
+        "pt": "I Can Totally See You"
+      },
+      "description": "Reach at least 90% camouflage.",
+      "description_i18n": {
+        "en": "Reach at least 90% camouflage.",
+        "pt": "Alcance pelo menos 90% de camuflagem."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "time-paradox",
+      "title": "Time Paradox",
+      "title_i18n": {
+        "en": "Time Paradox",
+        "pt": "Time Paradox"
+      },
+      "description": "Trigger the paradox by killing young Ocelot.",
+      "description_i18n": {
+        "en": "Trigger the paradox by killing young Ocelot.",
+        "pt": "Provoque o paradoxo matando o jovem Ocelot."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "taste-the-poison",
+      "title": "Taste the poison!",
+      "title_i18n": {
+        "en": "Taste the poison!",
+        "pt": "Taste the poison!"
+      },
+      "description": "Toss a venomous animal at an enemy.",
+      "description_i18n": {
+        "en": "Toss a venomous animal at an enemy.",
+        "pt": "Arremesse um animal venenoso em um inimigo."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "cinephile",
+      "title": "Cinephile",
+      "title_i18n": {
+        "en": "Cinephile",
+        "pt": "Cinephile"
+      },
+      "description": "Hear Para-Medic's cinema conversation following a save.",
+      "description_i18n": {
+        "en": "Hear Para-Medic's cinema conversation following a save.",
+        "pt": "Ouça a conversa de Para-Medic sobre cinema após salvar."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "friendly-fire",
+      "title": "Friendly Fire",
+      "title_i18n": {
+        "en": "Friendly Fire",
+        "pt": "Friendly Fire"
+      },
+      "description": "Request artillery assistance by radio.",
+      "description_i18n": {
+        "en": "Request artillery assistance by radio.",
+        "pt": "Solicite apoio de artilharia pelo rádio."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "serenity-now",
+      "title": "Serenity Now",
+      "title_i18n": {
+        "en": "Serenity Now",
+        "pt": "Serenity Now"
+      },
+      "description": "Tune in to a healing-radio station.",
+      "description_i18n": {
+        "en": "Tune in to a healing-radio station.",
+        "pt": "Sintonize uma estação de rádio de cura."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "beekeeper",
+      "title": "Beekeeper",
+      "title_i18n": {
+        "en": "Beekeeper",
+        "pt": "Beekeeper"
+      },
+      "description": "Turn a swarm of bees against an enemy.",
+      "description_i18n": {
+        "en": "Turn a swarm of bees against an enemy.",
+        "pt": "Faça um enxame de abelhas atacar um inimigo."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "just-because",
+      "title": "Just Because",
+      "title_i18n": {
+        "en": "Just Because",
+        "pt": "Just Because"
+      },
+      "description": "Demolish an ammunition or food depot using TNT.",
+      "description_i18n": {
+        "en": "Demolish an ammunition or food depot using TNT.",
+        "pt": "Demola um depósito de munição ou comida usando TNT."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "mostly-dead",
+      "title": "Mostly Dead",
+      "title_i18n": {
+        "en": "Mostly Dead",
+        "pt": "Mostly Dead"
+      },
+      "description": "Take a pill that simulates death.",
+      "description_i18n": {
+        "en": "Take a pill that simulates death.",
+        "pt": "Tome uma pílula que simula a morte."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "you-snooze-you-lose",
+      "title": "You Snooze, You Lose",
+      "title_i18n": {
+        "en": "You Snooze, You Lose",
+        "pt": "You Snooze, You Lose"
+      },
+      "description": "Hold The End at gunpoint until he gives up an item.",
+      "description_i18n": {
+        "en": "Hold The End at gunpoint until he gives up an item.",
+        "pt": "Renda The End até ele entregar um item."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "the-early-end",
+      "title": "The Early End",
+      "title_i18n": {
+        "en": "The Early End",
+        "pt": "The Early End"
+      },
+      "description": "Eliminate The End before reaching his arena.",
+      "description_i18n": {
+        "en": "Eliminate The End before reaching his arena.",
+        "pt": "Elimine The End antes de chegar à arena dele."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "mud-scientist",
+      "title": "Mud Scientist",
+      "title_i18n": {
+        "en": "Mud Scientist",
+        "pt": "Mud Scientist"
+      },
+      "description": "Cover the Scientist disguise in dirt.",
+      "description_i18n": {
+        "en": "Cover the Scientist disguise in dirt.",
+        "pt": "Suje de lama o disfarce de cientista."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "war-has-changed",
+      "title": "War Has Changed",
+      "title_i18n": {
+        "en": "War Has Changed",
+        "pt": "War Has Changed"
+      },
+      "description": "Begin a playthrough with New Style selected.",
+      "description_i18n": {
+        "en": "Begin a playthrough with New Style selected.",
+        "pt": "Inicie uma partida com New Style selecionado."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "old-snake-new-tricks",
+      "title": "Old Snake, New Tricks",
+      "title_i18n": {
+        "en": "Old Snake, New Tricks",
+        "pt": "Old Snake, New Tricks"
+      },
+      "description": "Begin a playthrough with Legacy Style selected.",
+      "description_i18n": {
+        "en": "Begin a playthrough with Legacy Style selected.",
+        "pt": "Inicie uma partida com Legacy Style selecionado."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "paparazzo-snake",
+      "title": "Paparazzo Snake",
+      "title_i18n": {
+        "en": "Paparazzo Snake",
+        "pt": "Paparazzo Snake"
+      },
+      "description": "Activate the Photo Mode feature.",
+      "description_i18n": {
+        "en": "Activate the Photo Mode feature.",
+        "pt": "Ative o recurso Photo Mode."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "wax-on-wax-off",
+      "title": "Wax On, Wax Off",
+      "title_i18n": {
+        "en": "Wax On, Wax Off",
+        "pt": "Wax On, Wax Off"
+      },
+      "description": "Counter every CQC attack from The Boss during her fight.",
+      "description_i18n": {
+        "en": "Counter every CQC attack from The Boss during her fight.",
+        "pt": "Defenda todos os ataques de CQC de The Boss durante a luta."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "believe-it-or-not",
+      "title": "Believe It or Not",
+      "title_i18n": {
+        "en": "Believe It or Not",
+        "pt": "Believe It or Not"
+      },
+      "description": "Capture the rare tsuchinoko.",
+      "description_i18n": {
+        "en": "Capture the rare tsuchinoko.",
+        "pt": "Capture o raro tsuchinoko."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "it-ain-t-easy-being-green",
+      "title": "It Ain't Easy Being Green",
+      "title_i18n": {
+        "en": "It Ain't Easy Being Green",
+        "pt": "It Ain't Easy Being Green"
+      },
+      "description": "Register hits on the complete set of 64 Kerotans.",
+      "description_i18n": {
+        "en": "Register hits on the complete set of 64 Kerotans.",
+        "pt": "Registre acertos no conjunto completo de 64 Kerotans."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "it-s-duck-season",
+      "title": "It's Duck Season",
+      "title_i18n": {
+        "en": "It's Duck Season",
+        "pt": "It's Duck Season"
+      },
+      "description": "Register hits on the complete set of 64 GA-KOs.",
+      "description_i18n": {
+        "en": "Register hits on the complete set of 64 GA-KOs.",
+        "pt": "Registre acertos no conjunto completo de 64 GA-KOs."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "like-a-boss",
+      "title": "Like a Boss",
+      "title_i18n": {
+        "en": "Like a Boss",
+        "pt": "Like a Boss"
+      },
+      "description": "Finish the campaign at any difficulty setting.",
+      "description_i18n": {
+        "en": "Finish the campaign at any difficulty setting.",
+        "pt": "Conclua a campanha em qualquer dificuldade."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "peace-walker",
+      "title": "PEACE WALKER",
+      "title_i18n": {
+        "en": "PEACE WALKER",
+        "pt": "PEACE WALKER"
+      },
+      "description": "Complete a playthrough with zero human kills.",
+      "description_i18n": {
+        "en": "Complete a playthrough with zero human kills.",
+        "pt": "Conclua uma partida sem matar pessoas."
+      },
+      "tier": "gold"
+    },
+    {
+      "key": "gastronome",
+      "title": "Gastronome",
+      "title_i18n": {
+        "en": "Gastronome",
+        "pt": "Gastronome"
+      },
+      "description": "Fill the Food Collection to 100%.",
+      "description_i18n": {
+        "en": "Fill the Food Collection to 100%.",
+        "pt": "Complete 100% da coleção de alimentos."
+      },
+      "tier": "gold"
+    },
+    {
+      "key": "a-snake-has-many-skins",
+      "title": "A Snake Has Many Skins",
+      "title_i18n": {
+        "en": "A Snake Has Many Skins",
+        "pt": "A Snake Has Many Skins"
+      },
+      "description": "Complete the camouflage and face-paint collections.",
+      "description_i18n": {
+        "en": "Complete the camouflage and face-paint collections.",
+        "pt": "Complete as coleções de uniformes de camuflagem e pinturas faciais."
+      },
+      "tier": "gold"
+    },
+    {
+      "key": "foxhound",
+      "title": "FOXHOUND",
+      "title_i18n": {
+        "en": "FOXHOUND",
+        "pt": "FOXHOUND"
+      },
+      "description": "Earn the FOXHOUND end-of-game rank.",
+      "description_i18n": {
+        "en": "Earn the FOXHOUND end-of-game rank.",
+        "pt": "Obtenha a classificação FOXHOUND ao terminar o jogo."
+      },
+      "tier": "gold"
+    }
+  ],
+  "hltb_id": "129234",
+  "hltb_main_hours": 12,
+  "hltb_main_extra_hours": 16,
+  "hltb_completionist_hours": 26
+}

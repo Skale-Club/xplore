@@ -1,0 +1,1730 @@
+{
+  "slug": "the-legend-of-zelda-tears-of-the-kingdom",
+  "title": "The Legend of Zelda: Tears of the Kingdom",
+  "title_i18n": {
+    "en": "The Legend of Zelda: Tears of the Kingdom",
+    "pt": "The Legend of Zelda: Tears of the Kingdom"
+  },
+  "platform": "Nintendo Switch",
+  "cover_url": "/covers/the-legend-of-zelda-tears-of-the-kingdom.png",
+  "created_by": "dd5c4bf0-85ea-4986-9c04-b37e8c986150",
+  "categories": [
+    {
+      "key": "great-sky-island",
+      "title": "The Great Sky Island",
+      "title_i18n": {
+        "en": "The Great Sky Island",
+        "pt": "A Grande Ilha do Céu"
+      },
+      "items": [
+        {
+          "key": "explore-under-castle",
+          "title": "Follow Zelda beneath the castle",
+          "title_i18n": {
+            "en": "Follow Zelda beneath the castle",
+            "pt": "Seguir Zelda sob o castelo"
+          },
+          "description": "Explore the opening ruins and inspect the murals before continuing down the passage.",
+          "description_i18n": {
+            "en": "Explore the opening ruins and inspect the murals before continuing down the passage.",
+            "pt": "Explore as ruínas iniciais e examine os murais antes de continuar pela passagem."
+          }
+        },
+        {
+          "key": "wake-on-sky-island",
+          "title": "Wake on the Great Sky Island",
+          "title_i18n": {
+            "en": "Wake on the Great Sky Island",
+            "pt": "Despertar na Grande Ilha do Céu"
+          },
+          "description": "Collect the Purah Pad, basic clothes, food and a weapon; follow the route toward the Temple of Time.",
+          "description_i18n": {
+            "en": "Collect the Purah Pad, basic clothes, food and a weapon; follow the route toward the Temple of Time.",
+            "pt": "Pegue o Purah Pad, roupas básicas, comida e uma arma; siga a rota até o Templo do Tempo."
+          }
+        },
+        {
+          "key": "visit-closed-door",
+          "title": "Inspect the Temple of Time's door",
+          "title_i18n": {
+            "en": "Inspect the Temple of Time's door",
+            "pt": "Examinar a porta do Templo do Tempo"
+          },
+          "description": "Try the sealed entrance and speak to Rauru to begin The Closed Door.",
+          "description_i18n": {
+            "en": "Try the sealed entrance and speak to Rauru to begin The Closed Door.",
+            "pt": "Tente abrir a entrada selada e fale com Rauru para iniciar The Closed Door."
+          }
+        },
+        {
+          "key": "clear-ukouh",
+          "title": "Clear Ukouh Shrine",
+          "title_i18n": {
+            "en": "Clear Ukouh Shrine",
+            "pt": "Concluir o Santuário Ukouh"
+          },
+          "description": "Learn Ultrahand and build bridges or hook platforms to cross the shrine's gaps.",
+          "description_i18n": {
+            "en": "Learn Ultrahand and build bridges or hook platforms to cross the shrine's gaps.",
+            "pt": "Aprenda Ultrahand e construa pontes ou plataformas com ganchos para cruzar as aberturas."
+          }
+        },
+        {
+          "key": "clear-in-isa",
+          "title": "Clear In-isa Shrine",
+          "title_i18n": {
+            "en": "Clear In-isa Shrine",
+            "pt": "Concluir o Santuário In-isa"
+          },
+          "description": "Learn Fuse, strengthen a weapon with stone and combine arrows with materials for the trial.",
+          "description_i18n": {
+            "en": "Learn Fuse, strengthen a weapon with stone and combine arrows with materials for the trial.",
+            "pt": "Aprenda Fuse, reforce uma arma com pedra e combine flechas com materiais para resolver o teste."
+          }
+        },
+        {
+          "key": "clear-gutanbac",
+          "title": "Clear Gutanbac Shrine",
+          "title_i18n": {
+            "en": "Clear Gutanbac Shrine",
+            "pt": "Concluir o Santuário Gutanbac"
+          },
+          "description": "Cook cold-resistant food for the snowy route, then learn Ascend to pass through ceilings.",
+          "description_i18n": {
+            "en": "Cook cold-resistant food for the snowy route, then learn Ascend to pass through ceilings.",
+            "pt": "Cozinhe comida contra frio para a rota nevada e aprenda Ascend para atravessar tetos."
+          }
+        },
+        {
+          "key": "learn-recall",
+          "title": "Return to the Temple of Time",
+          "title_i18n": {
+            "en": "Return to the Temple of Time",
+            "pt": "Voltar ao Templo do Tempo"
+          },
+          "description": "Open the first seal and receive Recall; reverse the moving platforms to reach the inner door.",
+          "description_i18n": {
+            "en": "Open the first seal and receive Recall; reverse the moving platforms to reach the inner door.",
+            "pt": "Abra o primeiro selo e receba Recall; reverta as plataformas móveis para alcançar a porta interna."
+          }
+        },
+        {
+          "key": "clear-nachoyah",
+          "title": "Clear Nachoyah Shrine",
+          "title_i18n": {
+            "en": "Clear Nachoyah Shrine",
+            "pt": "Concluir o Santuário Nachoyah"
+          },
+          "description": "Fast-travel to the Room of Awakening and use Ascend and Recall to reach the fourth shrine and solve its timing puzzles.",
+          "description_i18n": {
+            "en": "Fast-travel to the Room of Awakening and use Ascend and Recall to reach the fourth shrine and solve its timing puzzles.",
+            "pt": "Viaje à Sala do Despertar e use Ascend e Recall para alcançar o quarto santuário e resolver seus enigmas de tempo."
+          },
+          "details": "Use Recall on a passing raft, then board it while its movement reverses. Repeat the idea at the waterfall: ride a reversed raft upward rather than trying to swim against the current. Wait on safe ground while selecting a moving object so you do not drift away during preparation.\n\nAt the final gate, watch the two hands until they overlap. Use Recall on one hand at that moment so both move together, keeping the gate open long enough to pass. If they separate too soon, cancel Recall and wait for another overlap instead of forcing the door.",
+          "details_i18n": {
+            "en": "Use Recall on a passing raft, then board it while its movement reverses. Repeat the idea at the waterfall: ride a reversed raft upward rather than trying to swim against the current. Wait on safe ground while selecting a moving object so you do not drift away during preparation.\n\nAt the final gate, watch the two hands until they overlap. Use Recall on one hand at that moment so both move together, keeping the gate open long enough to pass. If they separate too soon, cancel Recall and wait for another overlap instead of forcing the door.",
+            "pt": "Use Recall numa jangada que estiver passando e embarque enquanto ela se move ao contrário. Repita na cachoeira: suba numa jangada revertida em vez de tentar nadar contra a corrente. Espere em terreno seguro enquanto escolhe um objeto móvel para não se afastar durante a preparação.\n\nNa última grade, observe os dois ponteiros até se sobreporem. Use Recall em um deles nesse instante para ambos girarem juntos e manterem a grade aberta. Se separarem cedo demais, cancele Recall e espere outra sobreposição em vez de tentar forçar a porta."
+          }
+        },
+        {
+          "key": "leave-sky-island",
+          "title": "Open the heart door and descend",
+          "title_i18n": {
+            "en": "Open the heart door and descend",
+            "pt": "Abrir a porta de corações e descer"
+          },
+          "description": "Trade four Lights of Blessing for a heart, heal fully, open the temple door and finish the route before diving toward Hyrule.",
+          "description_i18n": {
+            "en": "Trade four Lights of Blessing for a heart, heal fully, open the temple door and finish the route before diving toward Hyrule.",
+            "pt": "Troque quatro Luzes da Bênção por um coração, cure-se, abra a porta e termine a rota antes de mergulhar rumo a Hyrule."
+          }
+        }
+      ]
+    },
+    {
+      "key": "lookout-landing",
+      "title": "Lookout Landing and the paraglider",
+      "title_i18n": {
+        "en": "Lookout Landing and the paraglider",
+        "pt": "Posto de Observação e paraglider"
+      },
+      "items": [
+        {
+          "key": "reach-lookout-landing",
+          "title": "Reach Lookout Landing",
+          "title_i18n": {
+            "en": "Reach Lookout Landing",
+            "pt": "Chegar ao Posto de Observação"
+          },
+          "description": "Land in water, then follow the objective to Purah at the settlement south of Hyrule Castle.",
+          "description_i18n": {
+            "en": "Land in water, then follow the objective to Purah at the settlement south of Hyrule Castle.",
+            "pt": "Pouse na água e siga o objetivo até Purah no povoado ao sul do Castelo de Hyrule."
+          }
+        },
+        {
+          "key": "meet-search-party",
+          "title": "Find the castle search party",
+          "title_i18n": {
+            "en": "Find the castle search party",
+            "pt": "Encontrar a equipe de busca do castelo"
+          },
+          "description": "Travel north to the castle approach and speak to Hoz at the gatehouse.",
+          "description_i18n": {
+            "en": "Travel north to the castle approach and speak to Hoz at the gatehouse.",
+            "pt": "Vá para o norte até a entrada do castelo e fale com Hoz na guarita."
+          }
+        },
+        {
+          "key": "report-to-purah",
+          "title": "Report the sighting to Purah",
+          "title_i18n": {
+            "en": "Report the sighting to Purah",
+            "pt": "Relatar a aparição a Purah"
+          },
+          "description": "Return to Lookout Landing after the encounter with Zelda and follow Purah's instructions.",
+          "description_i18n": {
+            "en": "Return to Lookout Landing after the encounter with Zelda and follow Purah's instructions.",
+            "pt": "Volte ao Posto de Observação após o encontro com Zelda e siga as instruções de Purah."
+          }
+        },
+        {
+          "key": "open-emergency-shelter",
+          "title": "Open the Emergency Shelter",
+          "title_i18n": {
+            "en": "Open the Emergency Shelter",
+            "pt": "Abrir o Abrigo de Emergência"
+          },
+          "description": "Speak to Scorpis, rest below ground and use the cooking pot and Goddess Statue.",
+          "description_i18n": {
+            "en": "Speak to Scorpis, rest below ground and use the cooking pot and Goddess Statue.",
+            "pt": "Fale com Scorpis, descanse no subsolo e use a panela e a Estátua da Deusa."
+          }
+        },
+        {
+          "key": "activate-first-tower",
+          "title": "Activate the Skyview Tower",
+          "title_i18n": {
+            "en": "Activate the Skyview Tower",
+            "pt": "Ativar a Torre de Mapeamento"
+          },
+          "description": "Meet Purah at the tower, receive the paraglider and launch to reveal the local surface and sky maps.",
+          "description_i18n": {
+            "en": "Meet Purah at the tower, receive the paraglider and launch to reveal the local surface and sky maps.",
+            "pt": "Encontre Purah na torre, receba o paraglider e seja lançado para revelar os mapas locais da superfície e do céu."
+          }
+        },
+        {
+          "key": "accept-regional-phenomena",
+          "title": "Accept Regional Phenomena",
+          "title_i18n": {
+            "en": "Accept Regional Phenomena",
+            "pt": "Aceitar Regional Phenomena"
+          },
+          "description": "Speak to Purah about the four disturbances; this guide suggests Wind, Fire, Water and Lightning, with freedom to reorder them.",
+          "description_i18n": {
+            "en": "Speak to Purah about the four disturbances; this guide suggests Wind, Fire, Water and Lightning, with freedom to reorder them.",
+            "pt": "Fale com Purah sobre os quatro fenômenos; o guia sugere Vento, Fogo, Água e Raio, com liberdade para mudar a ordem."
+          }
+        },
+        {
+          "key": "prepare-first-expedition",
+          "title": "Prepare your first expedition",
+          "title_i18n": {
+            "en": "Prepare your first expedition",
+            "pt": "Preparar a primeira expedição"
+          },
+          "description": "Fuse spare weapons, cook healing meals and activate nearby shrines before leaving the settlement.",
+          "description_i18n": {
+            "en": "Fuse spare weapons, cook healing meals and activate nearby shrines before leaving the settlement.",
+            "pt": "Funda armas reservas, cozinhe refeições de cura e ative santuários próximos antes de sair."
+          }
+        }
+      ]
+    },
+    {
+      "key": "first-depths-expedition",
+      "title": "Camera and the first Depths expedition",
+      "title_i18n": {
+        "en": "Camera and the first Depths expedition",
+        "pt": "Câmera e primeira expedição às Profundezas"
+      },
+      "items": [
+        {
+          "key": "accept-camera-work",
+          "title": "Begin Camera Work in the Depths",
+          "title_i18n": {
+            "en": "Begin Camera Work in the Depths",
+            "pt": "Iniciar Camera Work in the Depths"
+          },
+          "description": "Speak to Josha and Robbie at Lookout Landing and collect Brightbloom Seeds for the dark route.",
+          "description_i18n": {
+            "en": "Speak to Josha and Robbie at Lookout Landing and collect Brightbloom Seeds for the dark route.",
+            "pt": "Fale com Josha e Robbie no Posto de Observação e junte Sementes Luminosas para a rota escura."
+          }
+        },
+        {
+          "key": "enter-hyrule-field-chasm",
+          "title": "Descend through Hyrule Field Chasm",
+          "title_i18n": {
+            "en": "Descend through Hyrule Field Chasm",
+            "pt": "Descer pelo Abismo da Planície de Hyrule"
+          },
+          "description": "Glide safely to the floor; throw or shoot Brightbloom Seeds to illuminate your landing and path.",
+          "description_i18n": {
+            "en": "Glide safely to the floor; throw or shoot Brightbloom Seeds to illuminate your landing and path.",
+            "pt": "Plane até o chão com segurança; lance ou atire Sementes Luminosas para iluminar o pouso e o caminho."
+          }
+        },
+        {
+          "key": "activate-first-lightroot",
+          "title": "Activate the nearby Lightroot",
+          "title_i18n": {
+            "en": "Activate the nearby Lightroot",
+            "pt": "Ativar a Raiz de Luz próxima"
+          },
+          "description": "Touch the root to illuminate the area and create a return point; avoid walking across gloom.",
+          "description_i18n": {
+            "en": "Touch the root to illuminate the area and create a return point; avoid walking across gloom.",
+            "pt": "Toque na raiz para iluminar a área e criar um ponto de retorno; evite andar sobre o miasma."
+          }
+        },
+        {
+          "key": "find-robbie-depths",
+          "title": "Find Robbie and restore the Camera",
+          "title_i18n": {
+            "en": "Find Robbie and restore the Camera",
+            "pt": "Encontrar Robbie e restaurar a Câmera"
+          },
+          "description": "Follow his trail to Iayusus Lightroot and speak to him to unlock the Camera and Compendium.",
+          "description_i18n": {
+            "en": "Follow his trail to Iayusus Lightroot and speak to him to unlock the Camera and Compendium.",
+            "pt": "Siga o rastro até a Raiz Iayusus e fale com Robbie para liberar a Câmera e a Enciclopédia."
+          }
+        },
+        {
+          "key": "photograph-depths-statue",
+          "title": "Photograph the requested statue",
+          "title_i18n": {
+            "en": "Photograph the requested statue",
+            "pt": "Fotografar a estátua pedida"
+          },
+          "description": "Take the statue photo Robbie requests, show it to him and report to Josha on the surface.",
+          "description_i18n": {
+            "en": "Take the statue photo Robbie requests, show it to him and report to Josha on the surface.",
+            "pt": "Fotografe a estátua pedida por Robbie, mostre a foto e informe Josha na superfície."
+          }
+        },
+        {
+          "key": "plan-gloom-recovery",
+          "title": "Prepare gloom recovery supplies",
+          "title_i18n": {
+            "en": "Prepare gloom recovery supplies",
+            "pt": "Preparar suprimentos contra a miasma"
+          },
+          "description": "Cook Sundelions into sunny meals to restore gloom-damaged hearts; ordinary healing alone cannot restore the sealed hearts underground.",
+          "description_i18n": {
+            "en": "Cook Sundelions into sunny meals to restore gloom-damaged hearts; ordinary healing alone cannot restore the sealed hearts underground.",
+            "pt": "Cozinhe Sundelions em refeições radiantes para restaurar corações afetados pelo miasma; cura comum sozinha não restaura os corações bloqueados no subsolo."
+          }
+        }
+      ]
+    },
+    {
+      "key": "rito-and-wind-temple",
+      "title": "Tulin and the Wind Temple",
+      "title_i18n": {
+        "en": "Tulin and the Wind Temple",
+        "pt": "Tulin e o Templo do Vento"
+      },
+      "items": [
+        {
+          "key": "reach-rito-village",
+          "title": "Travel to Rito Village",
+          "title_i18n": {
+            "en": "Travel to Rito Village",
+            "pt": "Viajar até a Vila Rito"
+          },
+          "description": "Head northwest through the Lucky Clover Gazette area and prepare cold-resistant armor or meals.",
+          "description_i18n": {
+            "en": "Head northwest through the Lucky Clover Gazette area and prepare cold-resistant armor or meals.",
+            "pt": "Siga a noroeste pela região da Lucky Clover Gazette e prepare armadura ou refeições contra frio."
+          }
+        },
+        {
+          "key": "meet-tulin",
+          "title": "Speak to Tulin's family",
+          "title_i18n": {
+            "en": "Speak to Tulin's family",
+            "pt": "Conversar com a família de Tulin"
+          },
+          "description": "Meet Teba and Saki, then follow the search toward Hebra Trailhead Lodge.",
+          "description_i18n": {
+            "en": "Meet Teba and Saki, then follow the search toward Hebra Trailhead Lodge.",
+            "pt": "Encontre Teba e Saki e siga a busca até a cabana no início da trilha de Hebra."
+          }
+        },
+        {
+          "key": "find-tulin-cave",
+          "title": "Find Tulin in Hebra",
+          "title_i18n": {
+            "en": "Find Tulin in Hebra",
+            "pt": "Encontrar Tulin em Hebra"
+          },
+          "description": "Follow Harth's directions through Hebra South Summit Cave and continue to the mountaintop meeting.",
+          "description_i18n": {
+            "en": "Follow Harth's directions through Hebra South Summit Cave and continue to the mountaintop meeting.",
+            "pt": "Siga as instruções de Harth pela caverna do cume sul de Hebra e continue até o encontro na montanha."
+          }
+        },
+        {
+          "key": "recover-tulin-bow",
+          "title": "Recover Tulin's bow",
+          "title_i18n": {
+            "en": "Recover Tulin's bow",
+            "pt": "Recuperar o arco de Tulin"
+          },
+          "description": "Help him defeat the monsters and learn to trigger his gust while gliding.",
+          "description_i18n": {
+            "en": "Help him defeat the monsters and learn to trigger his gust while gliding.",
+            "pt": "Ajude-o a derrotar os monstros e aprenda a usar sua rajada ao planar."
+          }
+        },
+        {
+          "key": "climb-rising-islands",
+          "title": "Climb the Rising Island Chain",
+          "title_i18n": {
+            "en": "Climb the Rising Island Chain",
+            "pt": "Subir a Corrente de Ilhas Ascendentes"
+          },
+          "description": "Use ship sails as trampolines, combine glides with Tulin's gust and activate shrines along the ascent.",
+          "description_i18n": {
+            "en": "Use ship sails as trampolines, combine glides with Tulin's gust and activate shrines along the ascent.",
+            "pt": "Use velas de navios como trampolins, combine voos com a rajada de Tulin e ative santuários na subida."
+          }
+        },
+        {
+          "key": "enter-wind-temple",
+          "title": "Dive into the storm's center",
+          "title_i18n": {
+            "en": "Dive into the storm's center",
+            "pt": "Mergulhar no centro da tempestade"
+          },
+          "description": "Climb above the cloud and descend into its opening to reach the Wind Temple's central hatch.",
+          "description_i18n": {
+            "en": "Climb above the cloud and descend into its opening to reach the Wind Temple's central hatch.",
+            "pt": "Suba acima da nuvem e desça pela abertura até a escotilha central do Templo do Vento."
+          }
+        },
+        {
+          "key": "wind-five-locks",
+          "title": "Release the five Wind Temple locks",
+          "title_i18n": {
+            "en": "Release the five Wind Temple locks",
+            "pt": "Liberar as cinco travas do Templo do Vento"
+          },
+          "description": "Explore the deck, lower hull and roof openings; repair mechanisms with Ultrahand and blow Tulin's gust into each turbine.",
+          "description_i18n": {
+            "en": "Explore the deck, lower hull and roof openings; repair mechanisms with Ultrahand and blow Tulin's gust into each turbine.",
+            "pt": "Explore convés, casco inferior e aberturas do teto; repare mecanismos com Ultrahand e sopre a rajada de Tulin em cada turbina."
+          }
+        },
+        {
+          "key": "defeat-colgera",
+          "title": "Defeat Colgera",
+          "title_i18n": {
+            "en": "Defeat Colgera",
+            "pt": "Derrotar Colgera"
+          },
+          "description": "Break its three icy weak points from below with arrows or dive through exposed openings; avoid tornadoes in the later phase.",
+          "description_i18n": {
+            "en": "Break its three icy weak points from below with arrows or dive through exposed openings; avoid tornadoes in the later phase.",
+            "pt": "Quebre os três pontos de gelo por baixo com flechas ou mergulhe nas aberturas expostas; evite tornados na fase seguinte."
+          }
+        },
+        {
+          "key": "finish-wind-temple",
+          "title": "Receive Tulin's vow",
+          "title_i18n": {
+            "en": "Receive Tulin's vow",
+            "pt": "Receber o voto de Tulin"
+          },
+          "description": "Collect the Heart Container and speak to Tulin to finish the regional quest and gain his traveling avatar.",
+          "description_i18n": {
+            "en": "Collect the Heart Container and speak to Tulin to finish the regional quest and gain his traveling avatar.",
+            "pt": "Pegue o Recipiente de Coração e fale com Tulin para concluir a missão regional e obter seu avatar companheiro."
+          }
+        }
+      ]
+    },
+    {
+      "key": "goron-and-fire-temple",
+      "title": "Yunobo and the Fire Temple",
+      "title_i18n": {
+        "en": "Yunobo and the Fire Temple",
+        "pt": "Yunobo e o Templo do Fogo"
+      },
+      "items": [
+        {
+          "key": "reach-goron-city",
+          "title": "Reach Goron City",
+          "title_i18n": {
+            "en": "Reach Goron City",
+            "pt": "Chegar à Cidade Goron"
+          },
+          "description": "Travel northeast through Eldin and ask the residents about the marbled rock roast.",
+          "description_i18n": {
+            "en": "Travel northeast through Eldin and ask the residents about the marbled rock roast.",
+            "pt": "Viaje a nordeste por Eldin e pergunte aos moradores sobre a carne de pedra marmorizada."
+          }
+        },
+        {
+          "key": "prepare-fireproof-gear",
+          "title": "Prepare Flame Guard for the caves",
+          "title_i18n": {
+            "en": "Prepare Flame Guard for the caves",
+            "pt": "Preparar proteção contra chamas para as cavernas"
+          },
+          "description": "Obtain Flamebreaker armor or Fireproof Elixirs before entering burning caves; desert heat resistance has a different purpose.",
+          "description_i18n": {
+            "en": "Obtain Flamebreaker armor or Fireproof Elixirs before entering burning caves; desert heat resistance has a different purpose.",
+            "pt": "Obtenha armadura Flamebreaker ou Elixires à Prova de Fogo antes das cavernas em chamas; resistência ao calor do deserto tem outra função."
+          }
+        },
+        {
+          "key": "meet-yunobo-headquarters",
+          "title": "Meet Yunobo at headquarters",
+          "title_i18n": {
+            "en": "Meet Yunobo at headquarters",
+            "pt": "Encontrar Yunobo na sede"
+          },
+          "description": "Follow the quest to YunoboCo HQ and confront Yunobo in the nearby cave.",
+          "description_i18n": {
+            "en": "Follow the quest to YunoboCo HQ and confront Yunobo in the nearby cave.",
+            "pt": "Siga a missão até a sede da YunoboCo e confronte Yunobo na caverna próxima."
+          }
+        },
+        {
+          "key": "break-yunobo-mask",
+          "title": "Break Yunobo's mask",
+          "title_i18n": {
+            "en": "Break Yunobo's mask",
+            "pt": "Quebrar a máscara de Yunobo"
+          },
+          "description": "Dodge his charge so he hits a wall, then attack while he is stunned; afterward use his rolling power on marbled rocks.",
+          "description_i18n": {
+            "en": "Dodge his charge so he hits a wall, then attack while he is stunned; afterward use his rolling power on marbled rocks.",
+            "pt": "Desvie da investida para fazê-lo bater na parede e ataque enquanto estiver atordoado; depois use seu rolamento nas rochas marmorizadas."
+          }
+        },
+        {
+          "key": "defeat-moragia",
+          "title": "Climb Death Mountain and defeat Moragia",
+          "title_i18n": {
+            "en": "Climb Death Mountain and defeat Moragia",
+            "pt": "Subir a Montanha da Morte e derrotar Moragia"
+          },
+          "description": "Follow Yunobo to the crater, pilot the nearby wing device and launch him at the three heads.",
+          "description_i18n": {
+            "en": "Follow Yunobo to the crater, pilot the nearby wing device and launch him at the three heads.",
+            "pt": "Siga Yunobo até a cratera, pilote a asa próxima e lance-o contra as três cabeças."
+          }
+        },
+        {
+          "key": "reach-fire-temple",
+          "title": "Descend to the Fire Temple",
+          "title_i18n": {
+            "en": "Descend to the Fire Temple",
+            "pt": "Descer até o Templo do Fogo"
+          },
+          "description": "Dive into Death Mountain Chasm, activate lightroots and follow Yunobo toward the underground ruins.",
+          "description_i18n": {
+            "en": "Dive into Death Mountain Chasm, activate lightroots and follow Yunobo toward the underground ruins.",
+            "pt": "Mergulhe no Abismo da Montanha da Morte, ative raízes de luz e siga Yunobo até as ruínas subterrâneas."
+          }
+        },
+        {
+          "key": "fire-five-gongs",
+          "title": "Release the five Fire Temple locks",
+          "title_i18n": {
+            "en": "Release the five Fire Temple locks",
+            "pt": "Liberar as cinco travas do Templo do Fogo"
+          },
+          "description": "Use mine carts, track switches and water-created lava slabs to navigate floors; strike each gong with Yunobo.",
+          "description_i18n": {
+            "en": "Use mine carts, track switches and water-created lava slabs to navigate floors; strike each gong with Yunobo.",
+            "pt": "Use vagonetes, desvios e placas formadas por água na lava para percorrer os andares; acerte cada gongo com Yunobo."
+          }
+        },
+        {
+          "key": "defeat-marbled-gohma",
+          "title": "Defeat Marbled Gohma and free Yunobo",
+          "title_i18n": {
+            "en": "Defeat Marbled Gohma and free Yunobo",
+            "pt": "Derrotar Marbled Gohma e libertar Yunobo"
+          },
+          "description": "Roll Yunobo into its legs or ceiling position, climb to attack its eye and clear explosive rocks; take the heart and finish the sage scene.",
+          "description_i18n": {
+            "en": "Roll Yunobo into its legs or ceiling position, climb to attack its eye and clear explosive rocks; take the heart and finish the sage scene.",
+            "pt": "Lance Yunobo nas pernas ou na posição do teto, suba para atacar o olho e remova rochas explosivas; pegue o coração e conclua a cena do sábio."
+          },
+          "details": "Use Yunobo's rolling attack to break the legs supporting the boss. When it collapses, climb onto the body and strike the eye, then get away before the recovery throws you into danger. Keep enough stamina for the climb rather than spending it all while running around the arena.\n\nIn the ceiling phase, aim Yunobo up the curved arena wall so he reaches the boss overhead. If explosive rocks trap you, use his charge to open an escape before continuing the attack. Once the boss falls again, repeat the eye damage instead of attacking its armored body from the floor.",
+          "details_i18n": {
+            "en": "Use Yunobo's rolling attack to break the legs supporting the boss. When it collapses, climb onto the body and strike the eye, then get away before the recovery throws you into danger. Keep enough stamina for the climb rather than spending it all while running around the arena.\n\nIn the ceiling phase, aim Yunobo up the curved arena wall so he reaches the boss overhead. If explosive rocks trap you, use his charge to open an escape before continuing the attack. Once the boss falls again, repeat the eye damage instead of attacking its armored body from the floor.",
+            "pt": "Use o rolamento de Yunobo para quebrar as pernas que sustentam o chefe. Quando ele cair, suba no corpo e ataque o olho; afaste-se antes de a recuperação lançar você numa situação perigosa. Guarde vigor para escalar, sem gastar tudo correndo pela arena.\n\nNa fase do teto, mire Yunobo pela parede curva para ele alcançar o chefe acima. Se rochas explosivas cercarem você, use a investida dele para abrir uma saída antes de continuar. Quando o chefe cair novamente, repita os golpes no olho em vez de atacar a carapaça pelo chão."
+          }
+        }
+      ]
+    },
+    {
+      "key": "zora-and-water-temple",
+      "title": "Sidon and the Water Temple",
+      "title_i18n": {
+        "en": "Sidon and the Water Temple",
+        "pt": "Sidon e o Templo da Água"
+      },
+      "items": [
+        {
+          "key": "clean-zora-statue",
+          "title": "Clean the statue at Zora's Domain",
+          "title_i18n": {
+            "en": "Clean the statue at Zora's Domain",
+            "pt": "Limpar a estátua do Domínio Zora"
+          },
+          "description": "Use Splash Fruit or another water source on the sludge-covered statue and speak with Yona.",
+          "description_i18n": {
+            "en": "Use Splash Fruit or another water source on the sludge-covered statue and speak with Yona.",
+            "pt": "Use Splash Fruit ou outra fonte de água na estátua coberta de lodo e fale com Yona."
+          }
+        },
+        {
+          "key": "restore-zora-armor",
+          "title": "Restore the Zora Armor",
+          "title_i18n": {
+            "en": "Restore the Zora Armor",
+            "pt": "Restaurar a Armadura Zora"
+          },
+          "description": "Bring Yona an Ancient Arowana; look in the waters around Mipha Court, then equip the repaired armor.",
+          "description_i18n": {
+            "en": "Bring Yona an Ancient Arowana; look in the waters around Mipha Court, then equip the repaired armor.",
+            "pt": "Leve a Yona um Ancient Arowana; procure nas águas em torno de Mipha Court e equipe a armadura restaurada."
+          }
+        },
+        {
+          "key": "meet-sidon-and-jiahto",
+          "title": "Meet Sidon and investigate the slate",
+          "title_i18n": {
+            "en": "Meet Sidon and investigate the slate",
+            "pt": "Encontrar Sidon e investigar a placa"
+          },
+          "description": "Visit Mipha Court, then help Jiahto at Toto Lake repair the broken slate with Ultrahand.",
+          "description_i18n": {
+            "en": "Visit Mipha Court, then help Jiahto at Toto Lake repair the broken slate with Ultrahand.",
+            "pt": "Visite Mipha Court e ajude Jiahto no Lago Toto a reparar a placa quebrada com Ultrahand."
+          }
+        },
+        {
+          "key": "obtain-kings-scales",
+          "title": "Find King Dorephan",
+          "title_i18n": {
+            "en": "Find King Dorephan",
+            "pt": "Encontrar o Rei Dorephan"
+          },
+          "description": "Listen for clues from the children in the domain, find his refuge at Pristine Sanctum and obtain King's Scales.",
+          "description_i18n": {
+            "en": "Listen for clues from the children in the domain, find his refuge at Pristine Sanctum and obtain King's Scales.",
+            "pt": "Ouça as pistas das crianças no domínio, encontre o refúgio em Pristine Sanctum e obtenha King's Scales."
+          }
+        },
+        {
+          "key": "solve-watery-bridge",
+          "title": "Solve the watery bridge clue",
+          "title_i18n": {
+            "en": "Solve the watery bridge clue",
+            "pt": "Resolver a pista da ponte de água"
+          },
+          "description": "On Floating Scales Island, align the floating stones into a droplet shape and shoot a King's Scale-fused arrow through it.",
+          "description_i18n": {
+            "en": "On Floating Scales Island, align the floating stones into a droplet shape and shoot a King's Scale-fused arrow through it.",
+            "pt": "Na Floating Scales Island, alinhe as pedras flutuantes em uma gota e atire através dela uma flecha com King's Scale."
+          },
+          "details": "Obtain the King's Scales from Dorephan before traveling to Floating Scales Island. The puzzle is about your viewing angle: walk around the island and look at the loose rocks beyond its edge until their separate pieces form one droplet outline. You do not need to move those rocks with Ultrahand.\n\nOnce the opening is aligned, draw the bow, attach a King's Scale to an arrow and fire through the center of the droplet. Watch for the resulting light pillar before leaving; it confirms the clue has been solved and identifies the next place to investigate with Sidon.",
+          "details_i18n": {
+            "en": "Obtain the King's Scales from Dorephan before traveling to Floating Scales Island. The puzzle is about your viewing angle: walk around the island and look at the loose rocks beyond its edge until their separate pieces form one droplet outline. You do not need to move those rocks with Ultrahand.\n\nOnce the opening is aligned, draw the bow, attach a King's Scale to an arrow and fire through the center of the droplet. Watch for the resulting light pillar before leaving; it confirms the clue has been solved and identifies the next place to investigate with Sidon.",
+            "pt": "Obtenha as King's Scales com Dorephan antes de ir à Floating Scales Island. O enigma depende do ponto de vista: caminhe pela ilha e observe as pedras soltas além da borda até as partes formarem o contorno de uma gota. Não é preciso movê-las com Ultrahand.\n\nQuando a abertura estiver alinhada, prepare o arco, prenda uma King's Scale à flecha e atire pelo centro da gota. Observe o pilar de luz resultante antes de sair; ele confirma a solução e indica o próximo lugar a investigar com Sidon."
+          }
+        },
+        {
+          "key": "reach-wellspring-island",
+          "title": "Open the path to Wellspring Island",
+          "title_i18n": {
+            "en": "Open the path to Wellspring Island",
+            "pt": "Abrir o caminho até Wellspring Island"
+          },
+          "description": "Defeat the Sludge Like with Sidon, enter the whirlpool and clear the Ancient Zora Waterworks to restore the sky waterfall.",
+          "description_i18n": {
+            "en": "Defeat the Sludge Like with Sidon, enter the whirlpool and clear the Ancient Zora Waterworks to restore the sky waterfall.",
+            "pt": "Derrote o Sludge Like com Sidon, entre no redemoinho e resolva o Ancient Zora Waterworks para restaurar a cachoeira do céu."
+          }
+        },
+        {
+          "key": "water-four-faucets",
+          "title": "Activate the four Water Temple faucets",
+          "title_i18n": {
+            "en": "Activate the four Water Temple faucets",
+            "pt": "Ativar as quatro torneiras do Templo da Água"
+          },
+          "description": "Climb through Wellspring Island to the temple; solve its low-gravity puzzles and use Sidon's water strike on each wheel.",
+          "description_i18n": {
+            "en": "Climb through Wellspring Island to the temple; solve its low-gravity puzzles and use Sidon's water strike on each wheel.",
+            "pt": "Suba por Wellspring Island até o templo; resolva os enigmas de baixa gravidade e use o golpe de água de Sidon em cada roda."
+          }
+        },
+        {
+          "key": "defeat-mucktorok",
+          "title": "Defeat Mucktorok and receive Sidon's vow",
+          "title_i18n": {
+            "en": "Defeat Mucktorok and receive Sidon's vow",
+            "pt": "Derrotar Mucktorok e receber o voto de Sidon"
+          },
+          "description": "Wash away its sludge shell with Sidon or water items, chase the exposed creature and clear pools that obstruct movement.",
+          "description_i18n": {
+            "en": "Wash away its sludge shell with Sidon or water items, chase the exposed creature and clear pools that obstruct movement.",
+            "pt": "Remova a camada de lodo com Sidon ou itens de água, persiga a criatura exposta e limpe poças que atrapalham o movimento."
+          }
+        }
+      ]
+    },
+    {
+      "key": "gerudo-and-lightning-temple",
+      "title": "Riju and the Lightning Temple",
+      "title_i18n": {
+        "en": "Riju and the Lightning Temple",
+        "pt": "Riju e o Templo do Raio"
+      },
+      "items": [
+        {
+          "key": "reach-gerudo-shelter",
+          "title": "Find Gerudo Town's shelter",
+          "title_i18n": {
+            "en": "Find Gerudo Town's shelter",
+            "pt": "Encontrar o abrigo da Cidade Gerudo"
+          },
+          "description": "Prepare for hot days and cold nights, cross the sand shroud and locate the underground shelter in town.",
+          "description_i18n": {
+            "en": "Prepare for hot days and cold nights, cross the sand shroud and locate the underground shelter in town.",
+            "pt": "Prepare-se para dias quentes e noites frias, atravesse a cortina de areia e encontre o abrigo subterrâneo na cidade."
+          }
+        },
+        {
+          "key": "meet-riju-ruins",
+          "title": "Meet Riju in the North Gerudo Ruins",
+          "title_i18n": {
+            "en": "Meet Riju in the North Gerudo Ruins",
+            "pt": "Encontrar Riju nas Ruínas Gerudo do Norte"
+          },
+          "description": "Follow the residents' directions and practice using an arrow inside her lightning field to call a strike.",
+          "description_i18n": {
+            "en": "Follow the residents' directions and practice using an arrow inside her lightning field to call a strike.",
+            "pt": "Siga as orientações dos moradores e pratique atirar dentro do campo elétrico dela para chamar um raio."
+          }
+        },
+        {
+          "key": "defend-kara-kara",
+          "title": "Defend Kara Kara Bazaar",
+          "title_i18n": {
+            "en": "Defend Kara Kara Bazaar",
+            "pt": "Defender o Bazar Kara Kara"
+          },
+          "description": "Destroy the Gibdo groups with elemental attacks and protect the bazaar alongside Riju.",
+          "description_i18n": {
+            "en": "Destroy the Gibdo groups with elemental attacks and protect the bazaar alongside Riju.",
+            "pt": "Destrua os grupos de Gibdos com ataques elementais e proteja o bazar ao lado de Riju."
+          }
+        },
+        {
+          "key": "defend-gerudo-town",
+          "title": "Defend Gerudo Town",
+          "title_i18n": {
+            "en": "Defend Gerudo Town",
+            "pt": "Defender a Cidade Gerudo"
+          },
+          "description": "Assign defenses, destroy exposed hive cores with Riju's lightning and stop enemies reaching the town center.",
+          "description_i18n": {
+            "en": "Assign defenses, destroy exposed hive cores with Riju's lightning and stop enemies reaching the town center.",
+            "pt": "Organize as defesas, destrua os núcleos expostos das colmeias com os raios de Riju e impeça os inimigos de chegar ao centro."
+          }
+        },
+        {
+          "key": "solve-desert-pillars",
+          "title": "Solve the desert pillar riddle",
+          "title_i18n": {
+            "en": "Solve the desert pillar riddle",
+            "pt": "Resolver o enigma dos pilares do deserto"
+          },
+          "description": "Follow the mural's clues, align the beams between the three structures and trigger Riju's lightning at the central altar.",
+          "description_i18n": {
+            "en": "Follow the mural's clues, align the beams between the three structures and trigger Riju's lightning at the central altar.",
+            "pt": "Siga as pistas do mural, alinhe os feixes entre as três estruturas e use o raio de Riju no altar central."
+          }
+        },
+        {
+          "key": "enter-lightning-temple",
+          "title": "Enter the Lightning Temple",
+          "title_i18n": {
+            "en": "Enter the Lightning Temple",
+            "pt": "Entrar no Templo do Raio"
+          },
+          "description": "Drive off Queen Gibdo at the entrance, then follow the passages into the central elevator chamber.",
+          "description_i18n": {
+            "en": "Drive off Queen Gibdo at the entrance, then follow the passages into the central elevator chamber.",
+            "pt": "Afaste Queen Gibdo na entrada e siga pelas passagens até a sala do elevador central."
+          }
+        },
+        {
+          "key": "lightning-four-batteries",
+          "title": "Charge the four temple batteries",
+          "title_i18n": {
+            "en": "Charge the four temple batteries",
+            "pt": "Carregar as quatro baterias do templo"
+          },
+          "description": "Use mirrors and light beams to open routes, then strike each battery with Riju's lightning to power the elevator.",
+          "description_i18n": {
+            "en": "Use mirrors and light beams to open routes, then strike each battery with Riju's lightning to power the elevator.",
+            "pt": "Use espelhos e feixes de luz para abrir caminhos e acerte cada bateria com o raio de Riju para ligar o elevador."
+          }
+        },
+        {
+          "key": "defeat-queen-gibdo",
+          "title": "Defeat Queen Gibdo and receive Riju's vow",
+          "title_i18n": {
+            "en": "Defeat Queen Gibdo and receive Riju's vow",
+            "pt": "Derrotar Queen Gibdo e receber o voto de Riju"
+          },
+          "description": "Use lightning or other elements to weaken her armor, attack while vulnerable and destroy active hives during the second phase.",
+          "description_i18n": {
+            "en": "Use lightning or other elements to weaken her armor, attack while vulnerable and destroy active hives during the second phase.",
+            "pt": "Use raios ou outros elementos para enfraquecer a carapaça, ataque na abertura e destrua colmeias ativas na segunda fase."
+          },
+          "details": "Trigger Riju's lightning field and wait until it reaches Queen Gibdo before firing an arrow. The elemental hit weakens her protective state; approach for melee damage only when she is vulnerable, then retreat from tornadoes and sweeping attacks. Keep Riju nearby so another lightning attack is available.\n\nWhen the hives activate, use lightning on their exposed glowing cores to stop reinforcements. Destroying a hive also opens a shaft of light that helps against the smaller Gibdos. Clear space for yourself before resuming damage on the queen; chasing her while surrounded makes it harder to charge Riju's next attack.",
+          "details_i18n": {
+            "en": "Trigger Riju's lightning field and wait until it reaches Queen Gibdo before firing an arrow. The elemental hit weakens her protective state; approach for melee damage only when she is vulnerable, then retreat from tornadoes and sweeping attacks. Keep Riju nearby so another lightning attack is available.\n\nWhen the hives activate, use lightning on their exposed glowing cores to stop reinforcements. Destroying a hive also opens a shaft of light that helps against the smaller Gibdos. Clear space for yourself before resuming damage on the queen; chasing her while surrounded makes it harder to charge Riju's next attack.",
+            "pt": "Ative o campo elétrico de Riju e espere alcançar Queen Gibdo antes de atirar uma flecha. O golpe elemental enfraquece a proteção; aproxime-se para atacar somente quando ela estiver vulnerável e recue dos tornados e varreduras. Mantenha Riju perto para preparar outro raio.\n\nQuando as colmeias ativarem, use raios nos núcleos luminosos expostos para interromper os reforços. Destruir uma colmeia também abre um feixe de luz útil contra os Gibdos menores. Abra espaço antes de voltar a atacar a rainha; persegui-la cercado torna mais difícil preparar o próximo ataque de Riju."
+          }
+        }
+      ]
+    },
+    {
+      "key": "hyrule-castle-crisis",
+      "title": "The crisis at Hyrule Castle",
+      "title_i18n": {
+        "en": "The crisis at Hyrule Castle",
+        "pt": "A crise no Castelo de Hyrule"
+      },
+      "items": [
+        {
+          "key": "report-four-regions",
+          "title": "Report all four regions to Purah",
+          "title_i18n": {
+            "en": "Report all four regions to Purah",
+            "pt": "Relatar as quatro regiões a Purah"
+          },
+          "description": "Return after the four regional quests and follow her new lead toward the floating castle.",
+          "description_i18n": {
+            "en": "Return after the four regional quests and follow her new lead toward the floating castle.",
+            "pt": "Volte após as quatro missões regionais e siga a nova pista até o castelo flutuante."
+          }
+        },
+        {
+          "key": "prepare-castle-pursuit",
+          "title": "Prepare for the castle pursuit",
+          "title_i18n": {
+            "en": "Prepare for the castle pursuit",
+            "pt": "Preparar-se para a perseguição no castelo"
+          },
+          "description": "Carry strong fused weapons, arrows and gloom-recovery meals; activate a nearby return point.",
+          "description_i18n": {
+            "en": "Carry strong fused weapons, arrows and gloom-recovery meals; activate a nearby return point.",
+            "pt": "Leve armas fundidas fortes, flechas e refeições contro miasma; ative um ponto de retorno próximo."
+          }
+        },
+        {
+          "key": "follow-castle-zelda",
+          "title": "Follow Zelda's marked appearances",
+          "title_i18n": {
+            "en": "Follow Zelda's marked appearances",
+            "pt": "Seguir as aparições marcadas de Zelda"
+          },
+          "description": "Move between the marked castle rooms and defeat each ambush before the next objective appears.",
+          "description_i18n": {
+            "en": "Move between the marked castle rooms and defeat each ambush before the next objective appears.",
+            "pt": "Vá entre as salas marcadas do castelo e derrote cada emboscada até surgir o próximo objetivo."
+          }
+        },
+        {
+          "key": "reach-castle-sanctum",
+          "title": "Reach the castle Sanctum",
+          "title_i18n": {
+            "en": "Reach the castle Sanctum",
+            "pt": "Chegar ao Santuário Central do castelo"
+          },
+          "description": "Follow the final marker into the central chamber; this castle confrontation is separate from the game's finale.",
+          "description_i18n": {
+            "en": "Follow the final marker into the central chamber; this castle confrontation is separate from the game's finale.",
+            "pt": "Siga o último marcador até a câmara central; este confronto no castelo é separado do final do jogo."
+          }
+        },
+        {
+          "key": "defeat-phantom-ganon",
+          "title": "Defeat the Phantom Ganon group",
+          "title_i18n": {
+            "en": "Defeat the Phantom Ganon group",
+            "pt": "Derrotar o grupo de Phantom Ganon"
+          },
+          "description": "Focus one opponent at a time, dodge sword attacks and interrupt the spreading gloom when it threatens the arena.",
+          "description_i18n": {
+            "en": "Focus one opponent at a time, dodge sword attacks and interrupt the spreading gloom when it threatens the arena.",
+            "pt": "Concentre-se em um adversário por vez, desvie das espadas e interrompa o miasma que se espalha pela arena."
+          }
+        },
+        {
+          "key": "start-fifth-sage",
+          "title": "Return to Purah to seek the fifth sage",
+          "title_i18n": {
+            "en": "Return to Purah to seek the fifth sage",
+            "pt": "Voltar a Purah para buscar o quinto sábio"
+          },
+          "description": "Report the castle revelation and begin Find the Fifth Sage before returning to Kakariko.",
+          "description_i18n": {
+            "en": "Report the castle revelation and begin Find the Fifth Sage before returning to Kakariko.",
+            "pt": "Relate a revelação do castelo e inicie Find the Fifth Sage antes de voltar a Kakariko."
+          }
+        }
+      ]
+    },
+    {
+      "key": "ring-ruins-and-thunderhead",
+      "title": "Ring Ruins and the Thunderhead Isles",
+      "title_i18n": {
+        "en": "Ring Ruins and the Thunderhead Isles",
+        "pt": "Ruínas dos Anéis e Ilhas da Tempestade"
+      },
+      "items": [
+        {
+          "key": "meet-ring-ruins-team",
+          "title": "Meet Paya and Tauro at Kakariko",
+          "title_i18n": {
+            "en": "Meet Paya and Tauro at Kakariko",
+            "pt": "Encontrar Paya e Tauro em Kakariko"
+          },
+          "description": "After the castle crisis, speak to them to lift the restriction around the floating Ring Ruin.",
+          "description_i18n": {
+            "en": "After the castle crisis, speak to them to lift the restriction around the floating Ring Ruin.",
+            "pt": "Após a crise do castelo, fale com eles para liberar o acesso à Ruína do Anel flutuante."
+          }
+        },
+        {
+          "key": "photograph-ring-inscription",
+          "title": "Photograph the Ring Ruin inscription",
+          "title_i18n": {
+            "en": "Photograph the Ring Ruin inscription",
+            "pt": "Fotografar a inscrição da Ruína do Anel"
+          },
+          "description": "Use Ascend to enter the ruin, photograph the stone slab and show the image to Tauro.",
+          "description_i18n": {
+            "en": "Use Ascend to enter the ruin, photograph the stone slab and show the image to Tauro.",
+            "pt": "Use Ascend para entrar na ruína, fotografe a placa de pedra e mostre a imagem a Tauro."
+          }
+        },
+        {
+          "key": "travel-to-dracozu",
+          "title": "Follow Tauro to the Dracozu ruins",
+          "title_i18n": {
+            "en": "Follow Tauro to the Dracozu ruins",
+            "pt": "Seguir Tauro até as ruínas de Dracozu"
+          },
+          "description": "Visit the Faron research camp and follow the new lead to Dracozu Lake.",
+          "description_i18n": {
+            "en": "Visit the Faron research camp and follow the new lead to Dracozu Lake.",
+            "pt": "Visite o acampamento de pesquisa de Faron e siga a nova pista até o Lago Dracozu."
+          }
+        },
+        {
+          "key": "collect-charged-set",
+          "title": "Collect the complete Charged Set",
+          "title_i18n": {
+            "en": "Collect the complete Charged Set",
+            "pt": "Obter o conjunto Charged completo"
+          },
+          "description": "Search the ruins along Dracozu River for the shirt, trousers and headdress; keep all three pieces.",
+          "description_i18n": {
+            "en": "Search the ruins along Dracozu River for the shirt, trousers and headdress; keep all three pieces.",
+            "pt": "Procure nas ruínas ao longo do Rio Dracozu a camisa, a calça e o adorno de cabeça; guarde as três peças."
+          },
+          "details": "Collect all three pieces along the Dracozu River route and keep them together: the shirt, trousers and headdress. Use the quest clues and nearby ruins to find each chest.\n\nThe following ritual requires wearing the complete set and offering a Zonai Charge at the indicated altar. Owning the pieces without equipping them does not complete that step.",
+          "details_i18n": {
+            "en": "Collect all three pieces along the Dracozu River route and keep them together: the shirt, trousers and headdress. Use the quest clues and nearby ruins to find each chest.\n\nThe following ritual requires wearing the complete set and offering a Zonai Charge at the indicated altar. Owning the pieces without equipping them does not complete that step.",
+            "pt": "Reúna as três peças no caminho do Rio Dracozu: camisa, calças e adereço de cabeça. Use as pistas da missão e explore as ruínas próximas para encontrar os baús.\n\nO ritual seguinte exige vestir o conjunto completo e oferecer uma Carga Zonai no altar indicado. Ter as peças no inventário sem equipá-las não conclui essa etapa."
+          }
+        },
+        {
+          "key": "perform-dracozu-ritual",
+          "title": "Perform the Dracozu ritual",
+          "title_i18n": {
+            "en": "Perform the Dracozu ritual",
+            "pt": "Realizar o ritual de Dracozu"
+          },
+          "description": "Wear the complete Charged Set and offer a Zonai Charge at the altar indicated by the riddle to clear the sky route.",
+          "description_i18n": {
+            "en": "Wear the complete Charged Set and offer a Zonai Charge at the altar indicated by the riddle to clear the sky route.",
+            "pt": "Vista o conjunto Charged completo e ofereça uma Zonai Charge no altar indicado pelo enigma para abrir a rota no céu."
+          }
+        },
+        {
+          "key": "cross-thunderhead-isles",
+          "title": "Cross the Thunderhead Isles",
+          "title_i18n": {
+            "en": "Cross the Thunderhead Isles",
+            "pt": "Atravessar as Ilhas da Tempestade"
+          },
+          "description": "Follow the island mechanisms toward Dragonhead Island, unequipping lightning-attracting metal gear during storms.",
+          "description_i18n": {
+            "en": "Follow the island mechanisms toward Dragonhead Island, unequipping lightning-attracting metal gear during storms.",
+            "pt": "Siga os mecanismos das ilhas até Dragonhead Island e tire equipamentos metálicos que atraem raios durante tempestades."
+          }
+        },
+        {
+          "key": "open-dragonhead-door",
+          "title": "Open the Dragonhead Island door",
+          "title_i18n": {
+            "en": "Open the Dragonhead Island door",
+            "pt": "Abrir a porta de Dragonhead Island"
+          },
+          "description": "Have at least 10 permanent hearts and heal fully before pushing the door; temporary hearts cannot replace the requirement.",
+          "description_i18n": {
+            "en": "Have at least 10 permanent hearts and heal fully before pushing the door; temporary hearts cannot replace the requirement.",
+            "pt": "Tenha pelo menos 10 corações permanentes e cure-se antes de empurrar a porta; corações temporários não substituem o requisito."
+          }
+        },
+        {
+          "key": "follow-construct-head",
+          "title": "Follow the construct head's beam",
+          "title_i18n": {
+            "en": "Follow the construct head's beam",
+            "pt": "Seguir o feixe da cabeça do construto"
+          },
+          "description": "Interact with the relic, carry it with Ultrahand and follow its beam down to the Depths and Construct Factory.",
+          "description_i18n": {
+            "en": "Interact with the relic, carry it with Ultrahand and follow its beam down to the Depths and Construct Factory.",
+            "pt": "Interaja com a relíquia, carregue-a com Ultrahand e siga seu feixe até as Profundezas e a Fábrica de Construtos."
+          }
+        }
+      ]
+    },
+    {
+      "key": "construct-factory-and-spirit-temple",
+      "title": "The Construct Factory and Spirit Temple",
+      "title_i18n": {
+        "en": "The Construct Factory and Spirit Temple",
+        "pt": "Fábrica de Construtos e Templo do Espírito"
+      },
+      "items": [
+        {
+          "key": "place-construct-head",
+          "title": "Install the head at the factory",
+          "title_i18n": {
+            "en": "Install the head at the factory",
+            "pt": "Instalar a cabeça na fábrica"
+          },
+          "description": "Carry the relic to the central mold to reveal the four limb depots and begin assembling Mineru's construct.",
+          "description_i18n": {
+            "en": "Carry the relic to the central mold to reveal the four limb depots and begin assembling Mineru's construct.",
+            "pt": "Leve a relíquia ao molde central para revelar os quatro depósitos de membros e começar a montar o construto de Mineru."
+          }
+        },
+        {
+          "key": "retrieve-left-arm",
+          "title": "Retrieve the left arm",
+          "title_i18n": {
+            "en": "Retrieve the left arm",
+            "pt": "Recuperar o braço esquerdo"
+          },
+          "description": "Enter the Left-Arm Depot, activate the terminal and use its transport devices to carry the enclosed part out to the factory.",
+          "description_i18n": {
+            "en": "Enter the Left-Arm Depot, activate the terminal and use its transport devices to carry the enclosed part out to the factory.",
+            "pt": "Entre no Depósito do Braço Esquerdo, ative o terminal e use seus dispositivos para levar a peça embalada até a fábrica."
+          }
+        },
+        {
+          "key": "retrieve-right-arm",
+          "title": "Retrieve the right arm",
+          "title_i18n": {
+            "en": "Retrieve the right arm",
+            "pt": "Recuperar o braço direito"
+          },
+          "description": "Use the Right-Arm Depot's wheels and rails to transport the part safely, then return it to the central mold.",
+          "description_i18n": {
+            "en": "Use the Right-Arm Depot's wheels and rails to transport the part safely, then return it to the central mold.",
+            "pt": "Use rodas e trilhos do Depósito do Braço Direito para transportar a peça e levá-la ao molde central."
+          }
+        },
+        {
+          "key": "retrieve-left-leg",
+          "title": "Retrieve the left leg",
+          "title_i18n": {
+            "en": "Retrieve the left leg",
+            "pt": "Recuperar a perna esquerda"
+          },
+          "description": "Use the Left-Leg Depot's lifts and rockets to move the part through the exit and back to Mineru.",
+          "description_i18n": {
+            "en": "Use the Left-Leg Depot's lifts and rockets to move the part through the exit and back to Mineru.",
+            "pt": "Use elevadores e foguetes do Depósito da Perna Esquerda para mover a peça pela saída e devolvê-la a Mineru."
+          }
+        },
+        {
+          "key": "retrieve-right-leg",
+          "title": "Retrieve the right leg",
+          "title_i18n": {
+            "en": "Retrieve the right leg",
+            "pt": "Recuperar a perna direita"
+          },
+          "description": "Guide the Right-Leg Depot's suspended container along its route, then use a wing device to bring it back.",
+          "description_i18n": {
+            "en": "Guide the Right-Leg Depot's suspended container along its route, then use a wing device to bring it back.",
+            "pt": "Guie o contêiner suspenso do Depósito da Perna Direita pela rota e use uma asa para levá-lo de volta."
+          }
+        },
+        {
+          "key": "assemble-mineru",
+          "title": "Assemble and board Mineru's construct",
+          "title_i18n": {
+            "en": "Assemble and board Mineru's construct",
+            "pt": "Montar e subir no construto de Mineru"
+          },
+          "description": "Fit all four limbs into the central mold with Ultrahand, then board the completed construct and learn its controls.",
+          "description_i18n": {
+            "en": "Fit all four limbs into the central mold with Ultrahand, then board the completed construct and learn its controls.",
+            "pt": "Encaixe os quatro membros no molde central com Ultrahand, suba no construto completo e aprenda os controles."
+          }
+        },
+        {
+          "key": "reach-spirit-temple",
+          "title": "Travel to the Spirit Temple",
+          "title_i18n": {
+            "en": "Travel to the Spirit Temple",
+            "pt": "Viajar até o Templo do Espírito"
+          },
+          "description": "Follow the objective across gloom while riding Mineru; attach weapons and a back device at the supply stations.",
+          "description_i18n": {
+            "en": "Follow the objective across gloom while riding Mineru; attach weapons and a back device at the supply stations.",
+            "pt": "Siga o objetivo sobre o miasma montado em Mineru; equipe armas e um dispositivo traseiro nos postos de suprimentos."
+          }
+        },
+        {
+          "key": "defeat-seized-construct",
+          "title": "Defeat the Seized Construct",
+          "title_i18n": {
+            "en": "Defeat the Seized Construct",
+            "pt": "Derrotar o Construto Possuído"
+          },
+          "description": "Block attacks, stagger it and push it into the arena's electric fence; use attached ranged tools when it rises.",
+          "description_i18n": {
+            "en": "Block attacks, stagger it and push it into the arena's electric fence; use attached ranged tools when it rises.",
+            "pt": "Bloqueie os ataques, desequilibre-o e empurre-o contra a cerca elétrica; use ferramentas de longo alcance quando ele subir."
+          },
+          "details": "Remain aboard Mineru so the gloom-covered floor does not become the main threat. Face the enemy and block its attack, then answer with enough consecutive hits to knock it backward into the electric fence. Fence collisions are the important damage opportunity; isolated punches in the middle of the arena accomplish much less.\n\nKeep a usable attachment on Mineru's arms and create distance if your guard is broken. When the enemy rises or attacks from range, use an attached ranged device if available, or defend until it returns within reach. Resume the block, stagger and fence-push sequence rather than leaving Mineru to duel on foot.",
+          "details_i18n": {
+            "en": "Remain aboard Mineru so the gloom-covered floor does not become the main threat. Face the enemy and block its attack, then answer with enough consecutive hits to knock it backward into the electric fence. Fence collisions are the important damage opportunity; isolated punches in the middle of the arena accomplish much less.\n\nKeep a usable attachment on Mineru's arms and create distance if your guard is broken. When the enemy rises or attacks from range, use an attached ranged device if available, or defend until it returns within reach. Resume the block, stagger and fence-push sequence rather than leaving Mineru to duel on foot.",
+            "pt": "Permaneça montado em Mineru para o chão coberto de miasma não virar a principal ameaça. Encare o inimigo, bloqueie o ataque e responda com golpes consecutivos suficientes para empurrá-lo contra a cerca elétrica. As colisões com a cerca são a grande chance de dano; socos isolados no centro da arena rendem muito menos.\n\nMantenha acessórios úteis nos braços de Mineru e abra distância se sua defesa quebrar. Quando o inimigo subir ou atacar de longe, use um dispositivo de alcance, se houver, ou defenda até ele voltar. Retome a sequência de bloquear, desequilibrar e empurrar, sem abandonar Mineru para lutar a pé."
+          }
+        },
+        {
+          "key": "finish-spirit-temple",
+          "title": "Receive Mineru's vow",
+          "title_i18n": {
+            "en": "Receive Mineru's vow",
+            "pt": "Receber o voto de Mineru"
+          },
+          "description": "Take the Heart Container and finish the sage's account, then return to Purah with the fifth sage found.",
+          "description_i18n": {
+            "en": "Take the Heart Container and finish the sage's account, then return to Purah with the fifth sage found.",
+            "pt": "Pegue o Recipiente de Coração e ouça o relato da sábia; depois volte a Purah com o quinto sábio encontrado."
+          }
+        }
+      ]
+    },
+    {
+      "key": "dragons-tears",
+      "title": "The Dragon's Tears",
+      "title_i18n": {
+        "en": "The Dragon's Tears",
+        "pt": "As Lágrimas do Dragão"
+      },
+      "items": [
+        {
+          "key": "meet-impa-geoglyph",
+          "title": "Meet Impa near New Serenne Stable",
+          "title_i18n": {
+            "en": "Meet Impa near New Serenne Stable",
+            "pt": "Encontrar Impa perto do Estábulo New Serenne"
+          },
+          "description": "Find her beside the geoglyph and repair the balloon with Ultrahand to survey its design.",
+          "description_i18n": {
+            "en": "Find her beside the geoglyph and repair the balloon with Ultrahand to survey its design.",
+            "pt": "Encontre-a ao lado do geoglifo e conserte o balão com Ultrahand para observar o desenho."
+          }
+        },
+        {
+          "key": "find-first-dragon-tear",
+          "title": "Find the first Dragon's Tear",
+          "title_i18n": {
+            "en": "Find the first Dragon's Tear",
+            "pt": "Encontrar a primeira Lágrima do Dragão"
+          },
+          "description": "Inspect the geoglyph's filled-in tear shape for the small memory pool.",
+          "description_i18n": {
+            "en": "Inspect the geoglyph's filled-in tear shape for the small memory pool.",
+            "pt": "Examine a gota preenchida no desenho do geoglifo para encontrar a pequena poça de memória."
+          }
+        },
+        {
+          "key": "visit-forgotten-temple",
+          "title": "Visit the Forgotten Temple",
+          "title_i18n": {
+            "en": "Visit the Forgotten Temple",
+            "pt": "Visitar o Templo Esquecido"
+          },
+          "description": "Meet Impa inside and inspect the map room; the wall sequence suggests a chronological order for memories.",
+          "description_i18n": {
+            "en": "Meet Impa inside and inspect the map room; the wall sequence suggests a chronological order for memories.",
+            "pt": "Encontre Impa lá dentro e examine a sala do mapa; a sequência na parede sugere a ordem cronológica das memórias."
+          }
+        },
+        {
+          "key": "recover-eleven-geoglyphs",
+          "title": "Recover the eleven geoglyph tears",
+          "title_i18n": {
+            "en": "Recover the eleven geoglyph tears",
+            "pt": "Recuperar as onze lágrimas dos geoglifos"
+          },
+          "description": "Use the temple map to plan visits, inspect the filled tear in each design and track all eleven as one aggregate goal.",
+          "description_i18n": {
+            "en": "Use the temple map to plan visits, inspect the filled tear in each design and track all eleven as one aggregate goal.",
+            "pt": "Use o mapa do templo para planejar as visitas, examine a gota preenchida de cada desenho e acompanhe as onze como uma meta conjunta."
+          }
+        },
+        {
+          "key": "recover-final-dragon-tear",
+          "title": "Recover the final Dragon's Tear",
+          "title_i18n": {
+            "en": "Recover the final Dragon's Tear",
+            "pt": "Recuperar a última Lágrima do Dragão"
+          },
+          "description": "After the eleven geoglyph memories, follow the new marker to Rist Peninsula and examine the final pool.",
+          "description_i18n": {
+            "en": "After the eleven geoglyph memories, follow the new marker to Rist Peninsula and examine the final pool.",
+            "pt": "Após as onze memórias dos geoglifos, siga o novo marcador até a Península Rist e examine a última poça."
+          }
+        }
+      ]
+    },
+    {
+      "key": "destroy-ganondorf",
+      "title": "Destroy Ganondorf",
+      "title_i18n": {
+        "en": "Destroy Ganondorf",
+        "pt": "Destruir Ganondorf"
+      },
+      "items": [
+        {
+          "key": "prepare-gloom-finale",
+          "title": "Prepare for the Depths finale",
+          "title_i18n": {
+            "en": "Prepare for the Depths finale",
+            "pt": "Preparar-se para o final nas Profundezas"
+          },
+          "description": "Carry sunny meals, ordinary healing, strong fused weapons, shields and arrows; complete armor upgrades before descending.",
+          "description_i18n": {
+            "en": "Carry sunny meals, ordinary healing, strong fused weapons, shields and arrows; complete armor upgrades before descending.",
+            "pt": "Leve refeições radiantes, cura comum, armas fundidas fortes, escudos e flechas; termine as melhorias de armadura antes de descer."
+          }
+        },
+        {
+          "key": "return-hyrule-castle-chasm",
+          "title": "Descend through Hyrule Castle Chasm",
+          "title_i18n": {
+            "en": "Descend through Hyrule Castle Chasm",
+            "pt": "Descer pelo Abismo do Castelo de Hyrule"
+          },
+          "description": "Enter the chasm beneath the castle and use Brightbloom Seeds to scout the descending route.",
+          "description_i18n": {
+            "en": "Enter the chasm beneath the castle and use Brightbloom Seeds to scout the descending route.",
+            "pt": "Entre no abismo sob o castelo e use Sementes Luminosas para observar o caminho de descida."
+          }
+        },
+        {
+          "key": "cross-forgotten-foundation",
+          "title": "Cross the Forgotten Foundation",
+          "title_i18n": {
+            "en": "Cross the Forgotten Foundation",
+            "pt": "Atravessar a Fundação Esquecida"
+          },
+          "description": "Follow the caverns toward the opening-game ruins, managing gloom damage and avoiding optional enemy fights.",
+          "description_i18n": {
+            "en": "Follow the caverns toward the opening-game ruins, managing gloom damage and avoiding optional enemy fights.",
+            "pt": "Siga as cavernas até as ruínas do início do jogo, controlando o dano de miasma e evitando lutas opcionais."
+          }
+        },
+        {
+          "key": "prepare-final-descent",
+          "title": "Make your final preparations",
+          "title_i18n": {
+            "en": "Make your final preparations",
+            "pt": "Fazer os últimos preparativos"
+          },
+          "description": "Heal both damaged and empty hearts before the deep final drop; save before committing to the closing battles.",
+          "description_i18n": {
+            "en": "Heal both damaged and empty hearts before the deep final drop; save before committing to the closing battles.",
+            "pt": "Restaure corações danificados e vazios antes da última queda profunda; salve antes da sequência final de batalhas."
+          }
+        },
+        {
+          "key": "defeat-demon-kings-army",
+          "title": "Defeat the Demon King's Army",
+          "title_i18n": {
+            "en": "Defeat the Demon King's Army",
+            "pt": "Derrotar o Exército do Rei Demônio"
+          },
+          "description": "Handle each wave with the sages' help and conserve durable weapons for the boss fights that follow.",
+          "description_i18n": {
+            "en": "Handle each wave with the sages' help and conserve durable weapons for the boss fights that follow.",
+            "pt": "Enfrente cada onda com a ajuda dos sábios e preserve armas duráveis para os chefes seguintes."
+          }
+        },
+        {
+          "key": "defeat-ganondorf-duel",
+          "title": "Defeat Ganondorf in the duel",
+          "title_i18n": {
+            "en": "Defeat Ganondorf in the duel",
+            "pt": "Derrotar Ganondorf no duelo"
+          },
+          "description": "Learn his weapon patterns, dodge carefully and be ready to counter again when he evades your attacks.",
+          "description_i18n": {
+            "en": "Learn his weapon patterns, dodge carefully and be ready to counter again when he evades your attacks.",
+            "pt": "Aprenda os padrões das armas dele, desvie com cuidado e prepare um novo contra-ataque quando ele escapar dos seus golpes."
+          }
+        },
+        {
+          "key": "defeat-demon-dragon",
+          "title": "Defeat the Demon Dragon",
+          "title_i18n": {
+            "en": "Defeat the Demon Dragon",
+            "pt": "Derrotar o Dragão Demoníaco"
+          },
+          "description": "Use the Light Dragon to gain height, land near the glowing weak points and destroy them before attacking the head.",
+          "description_i18n": {
+            "en": "Use the Light Dragon to gain height, land near the glowing weak points and destroy them before attacking the head.",
+            "pt": "Use o Dragão da Luz para ganhar altura, pouse perto dos pontos luminosos e destrua-os antes de atacar a cabeça."
+          }
+        },
+        {
+          "key": "finish-ending",
+          "title": "Complete the rescue and watch the ending",
+          "title_i18n": {
+            "en": "Complete the rescue and watch the ending",
+            "pt": "Completar o resgate e assistir ao final"
+          },
+          "description": "Follow the final dive prompts and watch the credits; a starred save returns to before the finale for continued exploration.",
+          "description_i18n": {
+            "en": "Follow the final dive prompts and watch the credits; a starred save returns to before the finale for continued exploration.",
+            "pt": "Siga os comandos do último mergulho e veja os créditos; o arquivo com estrela retorna a antes do final para continuar explorando."
+          }
+        }
+      ]
+    },
+    {
+      "key": "optional-master-sword",
+      "title": "Optional: recovering the Master Sword",
+      "title_i18n": {
+        "en": "Optional: recovering the Master Sword",
+        "pt": "Opcional: recuperar a Espada Mestra"
+      },
+      "items": [
+        {
+          "key": "prepare-two-stamina-wheels",
+          "title": "Build two full permanent stamina wheels",
+          "title_i18n": {
+            "en": "Build two full permanent stamina wheels",
+            "pt": "Completar duas rodas permanentes de vigor"
+          },
+          "description": "Trade Lights of Blessing for five Stamina Vessels beyond the starting wheel; temporary yellow stamina does not count.",
+          "description_i18n": {
+            "en": "Trade Lights of Blessing for five Stamina Vessels beyond the starting wheel; temporary yellow stamina does not count.",
+            "pt": "Troque Luzes da Bênção por cinco Recipientes de Vigor além da roda inicial; vigor amarelo temporário não conta."
+          },
+          "details": "Count the permanent green wheels: you need two complete wheels in total. The starting wheel already counts, so obtain five Stamina Vessels to complete the second one. Each vessel costs four Lights of Blessing.\n\nTemporary yellow stamina from meals does not satisfy the sword requirement. Save stamina-restoring food for reaching the Light Dragon, and check the permanent upgrade before attempting the pull.",
+          "details_i18n": {
+            "en": "Count the permanent green wheels: you need two complete wheels in total. The starting wheel already counts, so obtain five Stamina Vessels to complete the second one. Each vessel costs four Lights of Blessing.\n\nTemporary yellow stamina from meals does not satisfy the sword requirement. Save stamina-restoring food for reaching the Light Dragon, and check the permanent upgrade before attempting the pull.",
+            "pt": "Conte as rodas verdes permanentes: são necessárias duas rodas completas no total. A roda inicial já conta; obtenha cinco Recipientes de Vigor para completar a segunda. Cada recipiente custa quatro Luzes da Bênção.\n\nO vigor amarelo temporário das refeições não atende ao requisito da espada. Guarde comida que restaura vigor para chegar ao Dragão da Luz e confira a melhoria permanente antes de tentar retirar a espada."
+          }
+        },
+        {
+          "key": "reach-korok-forest-depths",
+          "title": "Optional lead: reach Korok Forest",
+          "title_i18n": {
+            "en": "Optional lead: reach Korok Forest",
+            "pt": "Pista opcional: chegar à Floresta Korok"
+          },
+          "description": "Enter the Minshi Woods Chasm and approach the forest from the Depths; use Ascend beneath the forest's central area.",
+          "description_i18n": {
+            "en": "Enter the Minshi Woods Chasm and approach the forest from the Depths; use Ascend beneath the forest's central area.",
+            "pt": "Entre pelo Abismo da Floresta Minshi e aproxime-se por baixo; use Ascend sob a área central da floresta."
+          }
+        },
+        {
+          "key": "heal-great-deku-tree",
+          "title": "Optional lead: heal the Great Deku Tree",
+          "title_i18n": {
+            "en": "Optional lead: heal the Great Deku Tree",
+            "pt": "Pista opcional: curar a Grande Árvore Deku"
+          },
+          "description": "Descend into the tree's chasm, defeat the Gloom Hands and Phantom Ganon, then speak to the tree for a moving sword-location marker.",
+          "description_i18n": {
+            "en": "Descend into the tree's chasm, defeat the Gloom Hands and Phantom Ganon, then speak to the tree for a moving sword-location marker.",
+            "pt": "Desça no abismo da árvore, derrote as Mãos de Miasma e Phantom Ganon e fale com a árvore para marcar a localização móvel da espada."
+          }
+        },
+        {
+          "key": "board-light-dragon",
+          "title": "Reach the Light Dragon",
+          "title_i18n": {
+            "en": "Reach the Light Dragon",
+            "pt": "Alcançar o Dragão da Luz"
+          },
+          "description": "Use towers, sky islands or a flying device to land on its back; the Dragon's Tears also reveal this lead without requiring the forest quest.",
+          "description_i18n": {
+            "en": "Use towers, sky islands or a flying device to land on its back; the Dragon's Tears also reveal this lead without requiring the forest quest.",
+            "pt": "Use torres, ilhas ou um veículo voador para pousar nas costas; as Lágrimas do Dragão também revelam esta pista sem exigir a missão da floresta."
+          }
+        },
+        {
+          "key": "draw-master-sword",
+          "title": "Draw the Master Sword",
+          "title_i18n": {
+            "en": "Draw the Master Sword",
+            "pt": "Retirar a Espada Mestra"
+          },
+          "description": "With two full permanent wheels, hold the interaction on the dragon's head. Early retrieval is optional; the final dragon sequence supplies the sword if you skipped it.",
+          "description_i18n": {
+            "en": "With two full permanent wheels, hold the interaction on the dragon's head. Early retrieval is optional; the final dragon sequence supplies the sword if you skipped it.",
+            "pt": "Com duas rodas permanentes completas, mantenha a interação na cabeça do dragão. Recuperá-la antes é opcional; a sequência final do dragão fornece a espada se você não a buscou."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "selected-side-adventures",
+      "title": "Selected Side Adventures",
+      "title_i18n": {
+        "en": "Selected Side Adventures",
+        "pt": "Aventuras secundárias selecionadas"
+      },
+      "items": [
+        {
+          "key": "potential-princess-sightings",
+          "title": "Potential Princess Sightings!",
+          "title_i18n": {
+            "en": "Potential Princess Sightings!",
+            "pt": "Potential Princess Sightings! — Aparições da princesa"
+          },
+          "description": "Start with Traysi and Penn at Lucky Clover Gazette, complete Penn's stable investigations and return to Traysi to conclude the adventure.",
+          "description_i18n": {
+            "en": "Start with Traysi and Penn at Lucky Clover Gazette, complete Penn's stable investigations and return to Traysi to conclude the adventure.",
+            "pt": "Comece com Traysi e Penn na Lucky Clover Gazette, resolva as investigações nos estábulos e volte a Traysi para concluir a aventura."
+          }
+        },
+        {
+          "key": "serenade-to-great-fairy",
+          "title": "Serenade to a Great Fairy",
+          "title_i18n": {
+            "en": "Serenade to a Great Fairy",
+            "pt": "Serenade to a Great Fairy — Serenata para uma Grande Fada"
+          },
+          "description": "After joining the newspaper investigation, repair the troupe's wagon at Woodland Stable and tow it to Tera with a harnessed horse.",
+          "description_i18n": {
+            "en": "After joining the newspaper investigation, repair the troupe's wagon at Woodland Stable and tow it to Tera with a harnessed horse.",
+            "pt": "Após entrar na investigação do jornal, conserte a carroça da trupe no Estábulo da Floresta e leve-a até Tera com um cavalo equipado com arreio."
+          }
+        },
+        {
+          "key": "lurelin-restoration",
+          "title": "Lurelin Village Restoration Project",
+          "title_i18n": {
+            "en": "Lurelin Village Restoration Project",
+            "pt": "Lurelin Village Restoration Project — Reconstrução de Lurelin"
+          },
+          "description": "First clear the pirates, then bring Bolson 15 non-palm logs and 20 Hylian Rice; repair each marked building and attend the celebration.",
+          "description_i18n": {
+            "en": "First clear the pirates, then bring Bolson 15 non-palm logs and 20 Hylian Rice; repair each marked building and attend the celebration.",
+            "pt": "Primeiro expulse os piratas; leve a Bolson 15 troncos que não sejam de palmeira e 20 Hylian Rice; repare os prédios marcados e participe da festa."
+          }
+        },
+        {
+          "key": "letter-to-koyin",
+          "title": "A Letter to Koyin",
+          "title_i18n": {
+            "en": "A Letter to Koyin",
+            "pt": "A Letter to Koyin — Uma carta para Koyin"
+          },
+          "description": "At Hateno Pasture, retrieve the bottle from the pond with Ultrahand, return it to Koyin and visit her house for the cheese reward.",
+          "description_i18n": {
+            "en": "At Hateno Pasture, retrieve the bottle from the pond with Ultrahand, return it to Koyin and visit her house for the cheese reward.",
+            "pt": "No pasto de Hateno, retire a garrafa do lago com Ultrahand, devolva-a a Koyin e visite a casa para receber o queijo."
+          }
+        },
+        {
+          "key": "mayoral-election",
+          "title": "The Mayoral Election",
+          "title_i18n": {
+            "en": "The Mayoral Election",
+            "pt": "The Mayoral Election — A eleição para prefeito"
+          },
+          "description": "Finish Team Cece or Team Reede?, A New Signature Food, Cece's Secret and Reede's Secret; speak to Sophie on a clear day and claim Cece's reward.",
+          "description_i18n": {
+            "en": "Finish Team Cece or Team Reede?, A New Signature Food, Cece's Secret and Reede's Secret; speak to Sophie on a clear day and claim Cece's reward.",
+            "pt": "Conclua Team Cece or Team Reede?, A New Signature Food, Cece's Secret e Reede's Secret; fale com Sophie em um dia claro e receba a recompensa de Cece."
+          }
+        },
+        {
+          "key": "hateno-research-lab",
+          "title": "Hateno Village Research Lab",
+          "title_i18n": {
+            "en": "Hateno Village Research Lab",
+            "pt": "Hateno Village Research Lab — Laboratório de Hateno"
+          },
+          "description": "After a regional temple and A Mystery in the Depths, repair Robbie's balloon with Autobuild; meet him at Hateno and finish the Sensor trial and shrine search.",
+          "description_i18n": {
+            "en": "After a regional temple and A Mystery in the Depths, repair Robbie's balloon with Autobuild; meet him at Hateno and finish the Sensor trial and shrine search.",
+            "pt": "Após um templo regional e A Mystery in the Depths, repare o balão de Robbie com Autobuild; encontre-o em Hateno e conclua o teste do Sensor e a busca pelo santuário."
+          },
+          "details": "If Robbie will not leave Lookout Landing, check the prerequisites rather than traveling repeatedly to an empty lab. Complete a regional dungeon and Josha's A Mystery in the Depths, following the underground statue route to the Great Abandoned Central Mine to obtain Autobuild. Return to Josha and repair Robbie's balloon.\n\nSpeak to Robbie again, meet him at Hateno and walk slowly during the Sensor demonstration. Follow its signal to the shrine in the cave below the lab, then report back. If that shrine was already discovered, Robbie can acknowledge the earlier progress instead of requiring another search.",
+          "details_i18n": {
+            "en": "If Robbie will not leave Lookout Landing, check the prerequisites rather than traveling repeatedly to an empty lab. Complete a regional dungeon and Josha's A Mystery in the Depths, following the underground statue route to the Great Abandoned Central Mine to obtain Autobuild. Return to Josha and repair Robbie's balloon.\n\nSpeak to Robbie again, meet him at Hateno and walk slowly during the Sensor demonstration. Follow its signal to the shrine in the cave below the lab, then report back. If that shrine was already discovered, Robbie can acknowledge the earlier progress instead of requiring another search.",
+            "pt": "Se Robbie não sair do Posto de Observação, confira os requisitos em vez de visitar repetidamente um laboratório vazio. Conclua um templo regional e A Mystery in the Depths de Josha, seguindo as estátuas subterrâneas até a Great Abandoned Central Mine para obter Autobuild. Volte a Josha e repare o balão de Robbie.\n\nFale novamente com Robbie, encontre-o em Hateno e caminhe devagar na demonstração do Sensor. Siga o sinal até o santuário na caverna abaixo do laboratório e volte para informar. Se o santuário já foi descoberto, Robbie pode reconhecer esse progresso sem exigir outra busca."
+          }
+        },
+        {
+          "key": "who-goes-there",
+          "title": "Who Goes There?",
+          "title_i18n": {
+            "en": "Who Goes There?",
+            "pt": "Who Goes There? — Quem está aí?"
+          },
+          "description": "After a regional dungeon, speak to Jerrin in the Emergency Shelter, investigate the opened passage, find the Horned Statue and report back.",
+          "description_i18n": {
+            "en": "After a regional dungeon, speak to Jerrin in the Emergency Shelter, investigate the opened passage, find the Horned Statue and report back.",
+            "pt": "Após um templo regional, fale com Jerrin no Abrigo de Emergência, investigue a passagem aberta, encontre a Estátua Chifruda e volte para contar."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "selected-side-quests",
+      "title": "Selected Side Quests",
+      "title_i18n": {
+        "en": "Selected Side Quests",
+        "pt": "Missões secundárias selecionadas"
+      },
+      "items": [
+        {
+          "key": "gloom-borne-illness",
+          "title": "Gloom-Borne Illness",
+          "title_i18n": {
+            "en": "Gloom-Borne Illness",
+            "pt": "Gloom-Borne Illness — Doença causada pelo miasma"
+          },
+          "description": "Speak to Lasli in Kakariko; cook Hylian Rice, Fresh Milk and a Sundelion into Sunny Veggie Porridge and deliver it to restore the armor shop's normal prices.",
+          "description_i18n": {
+            "en": "Speak to Lasli in Kakariko; cook Hylian Rice, Fresh Milk and a Sundelion into Sunny Veggie Porridge and deliver it to restore the armor shop's normal prices.",
+            "pt": "Fale com Lasli em Kakariko; cozinhe Hylian Rice, Fresh Milk e um Sundelion para fazer Sunny Veggie Porridge e entregue o prato para normalizar os preços da loja de armaduras."
+          }
+        },
+        {
+          "key": "a-new-champions-tunic",
+          "title": "A New Champion's Tunic",
+          "title_i18n": {
+            "en": "A New Champion's Tunic",
+            "pt": "A New Champion's Tunic — Uma nova túnica de campeão"
+          },
+          "description": "Read Zelda's diary in the well behind her Hateno house, then light the two braziers beside the castle Sanctum's throne and open the revealed chest.",
+          "description_i18n": {
+            "en": "Read Zelda's diary in the well behind her Hateno house, then light the two braziers beside the castle Sanctum's throne and open the revealed chest.",
+            "pt": "Leia o diário de Zelda no poço atrás da casa em Hateno, acenda os dois braseiros junto ao trono no Santuário Central do castelo e abra o baú revelado."
+          }
+        },
+        {
+          "key": "the-incomplete-stable",
+          "title": "The Incomplete Stable",
+          "title_i18n": {
+            "en": "The Incomplete Stable",
+            "pt": "The Incomplete Stable — O estábulo inacabado"
+          },
+          "description": "After one regional dungeon and opening the Emergency Shelter, speak to Karson and Lester at Lookout Landing and fit the loose roof board with Ultrahand.",
+          "description_i18n": {
+            "en": "After one regional dungeon and opening the Emergency Shelter, speak to Karson and Lester at Lookout Landing and fit the loose roof board with Ultrahand.",
+            "pt": "Após um templo regional e a abertura do Abrigo de Emergência, fale com Karson e Lester no Posto de Observação e encaixe a tábua solta do telhado com Ultrahand."
+          }
+        },
+        {
+          "key": "spotting-spot",
+          "title": "Spotting Spot",
+          "title_i18n": {
+            "en": "Spotting Spot",
+            "pt": "Spotting Spot — À procura de Spot"
+          },
+          "description": "After The Incomplete Stable, ask Lester about Spot, tame the spotted horse southwest of Lookout Landing and bring it back to him.",
+          "description_i18n": {
+            "en": "After The Incomplete Stable, ask Lester about Spot, tame the spotted horse southwest of Lookout Landing and bring it back to him.",
+            "pt": "Após The Incomplete Stable, pergunte a Lester sobre Spot, dome o cavalo malhado a sudoeste do Posto de Observação e leve-o de volta."
+          }
+        },
+        {
+          "key": "dantzs-prize-cows",
+          "title": "Dantz's Prize Cows",
+          "title_i18n": {
+            "en": "Dantz's Prize Cows",
+            "pt": "Dantz's Prize Cows — As vacas premiadas de Dantz"
+          },
+          "description": "Bring Dantz three Acorns at Hateno Pasture and collect the Fresh Milk reward.",
+          "description_i18n": {
+            "en": "Bring Dantz three Acorns at Hateno Pasture and collect the Fresh Milk reward.",
+            "pt": "Leve três Acorns a Dantz no pasto de Hateno e receba Fresh Milk como recompensa."
+          }
+        },
+        {
+          "key": "where-are-the-wells",
+          "title": "Where Are the Wells?",
+          "title_i18n": {
+            "en": "Where Are the Wells?",
+            "pt": "Where Are the Wells? — Onde estão os poços?"
+          },
+          "description": "Meet Fera in a stable well, then report all 58 discovered wells to her at Lookout Landing Well; this is an aggregate quest goal.",
+          "description_i18n": {
+            "en": "Meet Fera in a stable well, then report all 58 discovered wells to her at Lookout Landing Well; this is an aggregate quest goal.",
+            "pt": "Encontre Fera em um poço de estábulo e depois relate os 58 poços descobertos no poço do Posto de Observação; esta é uma meta conjunta da missão."
+          }
+        },
+        {
+          "key": "mired-in-muck",
+          "title": "Mired in Muck",
+          "title_i18n": {
+            "en": "Mired in Muck",
+            "pt": "Mired in Muck — Preso no lodo"
+          },
+          "description": "Speak to Bazz near Upland Zorana Skyview Tower and wash the sludge away with Splash Fruit; if the regional quest already cleared it, speak to him to finish.",
+          "description_i18n": {
+            "en": "Speak to Bazz near Upland Zorana Skyview Tower and wash the sludge away with Splash Fruit; if the regional quest already cleared it, speak to him to finish.",
+            "pt": "Fale com Bazz perto da Torre Upland Zorana e lave o lodo com Splash Fruit; se a missão regional já o removeu, converse com ele para concluir."
+          }
+        },
+        {
+          "key": "a-crabulous-deal",
+          "title": "A Crabulous Deal",
+          "title_i18n": {
+            "en": "A Crabulous Deal",
+            "pt": "A Crabulous Deal — Um negócio de caranguejos"
+          },
+          "description": "After Sidon of the Zora, bring Cleff ten Bright-Eyed Crabs at Zora's Domain's general store and claim his Sapphire.",
+          "description_i18n": {
+            "en": "After Sidon of the Zora, bring Cleff ten Bright-Eyed Crabs at Zora's Domain's general store and claim his Sapphire.",
+            "pt": "Após Sidon of the Zora, leve dez Bright-Eyed Crabs a Cleff na loja do Domínio Zora e receba a Sapphire."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "aggregate-collectible-goals",
+      "title": "Optional aggregate collectible goals",
+      "title_i18n": {
+        "en": "Optional aggregate collectible goals",
+        "pt": "Metas opcionais conjuntas de colecionáveis"
+      },
+      "items": [
+        {
+          "key": "activate-all-skyview-towers",
+          "title": "Activate all 15 Skyview Towers",
+          "title_i18n": {
+            "en": "Activate all 15 Skyview Towers",
+            "pt": "Ativar as 15 Torres de Mapeamento"
+          },
+          "description": "Solve each tower's access problem to reveal every regional surface and sky map.",
+          "description_i18n": {
+            "en": "Solve each tower's access problem to reveal every regional surface and sky map.",
+            "pt": "Resolva o problema de acesso de cada torre para revelar todos os mapas regionais da superfície e do céu."
+          }
+        },
+        {
+          "key": "complete-all-shrines",
+          "title": "Complete all 152 shrines",
+          "title_i18n": {
+            "en": "Complete all 152 shrines",
+            "pt": "Concluir os 152 santuários"
+          },
+          "description": "Track surface and sky shrines together; this aggregate goal includes shrine quests and does not enumerate individual locations.",
+          "description_i18n": {
+            "en": "Track surface and sky shrines together; this aggregate goal includes shrine quests and does not enumerate individual locations.",
+            "pt": "Acompanhe os santuários da superfície e do céu; esta meta conjunta inclui missões de santuário e não enumera cada localização."
+          }
+        },
+        {
+          "key": "activate-all-lightroots",
+          "title": "Activate all 120 Lightroots",
+          "title_i18n": {
+            "en": "Activate all 120 Lightroots",
+            "pt": "Ativar as 120 Raízes de Luz"
+          },
+          "description": "Illuminate the Depths using a separate regional map; surface shrines help indicate corresponding root positions.",
+          "description_i18n": {
+            "en": "Illuminate the Depths using a separate regional map; surface shrines help indicate corresponding root positions.",
+            "pt": "Ilumine as Profundezas usando um mapa regional à parte; santuários da superfície ajudam a indicar as posições correspondentes das raízes."
+          }
+        },
+        {
+          "key": "collect-all-korok-seeds",
+          "title": "Optional long-term goal: collect 1,000 Korok Seeds",
+          "title_i18n": {
+            "en": "Optional long-term goal: collect 1,000 Korok Seeds",
+            "pt": "Meta opcional de longo prazo: obter 1.000 Sementes Korok"
+          },
+          "description": "Use a separate detailed checklist for hidden Koroks and friend reunions; this is an aggregate seed total, not 1,000 individually listed puzzles.",
+          "description_i18n": {
+            "en": "Use a separate detailed checklist for hidden Koroks and friend reunions; this is an aggregate seed total, not 1,000 individually listed puzzles.",
+            "pt": "Use uma lista detalhada à parte para Koroks escondidos e reencontros de amigos; este é o total conjunto de sementes, não 1.000 enigmas listados individualmente."
+          }
+        },
+        {
+          "key": "complete-hyrule-compendium",
+          "title": "Complete the Hyrule Compendium",
+          "title_i18n": {
+            "en": "Complete the Hyrule Compendium",
+            "pt": "Completar a Enciclopédia de Hyrule"
+          },
+          "description": "Photograph missing entries or buy available pictures from Robbie at the Hateno lab; use its category totals to check progress.",
+          "description_i18n": {
+            "en": "Photograph missing entries or buy available pictures from Robbie at the Hateno lab; use its category totals to check progress.",
+            "pt": "Fotografe registros ausentes ou compre imagens disponíveis de Robbie no laboratório de Hateno; use os totais por categoria para conferir o progresso."
+          }
+        }
+      ],
+      "kind": "collectible"
+    }
+  ],
+  "trophies": [],
+  "hltb_id": "72589",
+  "hltb_main_hours": 59,
+  "hltb_main_extra_hours": 118,
+  "hltb_completionist_hours": 248
+}

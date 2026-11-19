@@ -1,0 +1,2347 @@
+{
+  "slug": "mafia-definitive-edition",
+  "title": "Mafia: Definitive Edition",
+  "title_i18n": {
+    "en": "Mafia: Definitive Edition",
+    "pt": "Mafia: Definitive Edition"
+  },
+  "platform": "PlayStation 5",
+  "cover_url": "/covers/mafia-definitive-edition.png",
+  "created_by": "dd5c4bf0-85ea-4986-9c04-b37e8c986150",
+  "categories": [
+    {
+      "key": "chapter-an-offer-you-cant-refuse",
+      "items": [
+        {
+          "key": "choose-campaign-difficulty",
+          "title": "Begin the PS5 campaign",
+          "title_i18n": {
+            "en": "Begin the PS5 campaign",
+            "pt": "Iniciar a campanha no PS5"
+          },
+          "description": "Choose your intended difficulty before starting the story.",
+          "description_i18n": {
+            "en": "Choose your intended difficulty before starting the story.",
+            "pt": "Escolha a dificuldade desejada antes de iniciar a história."
+          },
+          "details": "Made Man requires a new campaign on Classic from beginning to ending without lowering difficulty. Clearing only the last chapter on Classic or combining Chapter Select clears does not replace that run. A gentler first playthrough followed by a separate Classic campaign is also valid. On Classic, reloading discards ammunition left in the magazine: use cover, watch flanks and reload at sensible breaks. Checkpoints allow retries; the campaign need not be completed without deaths.",
+          "details_i18n": {
+            "en": "Made Man requires a new campaign on Classic from beginning to ending without lowering difficulty. Clearing only the last chapter on Classic or combining Chapter Select clears does not replace that run. A gentler first playthrough followed by a separate Classic campaign is also valid. On Classic, reloading discards ammunition left in the magazine: use cover, watch flanks and reload at sensible breaks. Checkpoints allow retries; the campaign need not be completed without deaths.",
+            "pt": "Made Man exige iniciar uma nova campanha em Classic e mantê-la até o final sem reduzir a dificuldade. Concluir só o último capítulo em Classic ou juntar capítulos pelo Chapter Select não substitui essa campanha. Também é válido jogar primeiro em uma dificuldade mais tranquila e depois iniciar outra campanha em Classic. Nesse modo, recarregar descarta a munição restante no pente: use cobertura, observe os flancos e recarregue nas pausas adequadas. Os pontos de controle permitem tentativas; não é exigida uma campanha sem mortes."
+          }
+        },
+        {
+          "key": "escape-opening-pursuit",
+          "title": "Escape the opening pursuit",
+          "title_i18n": {
+            "en": "Escape the opening pursuit",
+            "pt": "Escapar da perseguição inicial"
+          },
+          "description": "Follow the passengers' directions and keep the taxi moving.",
+          "description_i18n": {
+            "en": "Follow the passengers' directions and keep the taxi moving.",
+            "pt": "Siga as instruções dos passageiros e mantenha o táxi em movimento."
+          }
+        },
+        {
+          "key": "complete-opening-dropoff",
+          "title": "Complete the opening drop-off",
+          "title_i18n": {
+            "en": "Complete the opening drop-off",
+            "pt": "Concluir a primeira entrega"
+          },
+          "description": "Lose the pursuers and finish the trip to the destination.",
+          "description_i18n": {
+            "en": "Lose the pursuers and finish the trip to the destination.",
+            "pt": "Despiste os perseguidores e termine a viagem ao destino."
+          }
+        }
+      ],
+      "title": "An Offer You Can't Refuse",
+      "title_i18n": {
+        "en": "An Offer You Can't Refuse",
+        "pt": "An Offer You Can't Refuse"
+      }
+    },
+    {
+      "key": "chapter-running-man",
+      "items": [
+        {
+          "key": "complete-taxi-shift",
+          "title": "Complete the taxi shift",
+          "title_i18n": {
+            "en": "Complete the taxi shift",
+            "pt": "Concluir o turno de táxi"
+          },
+          "description": "Transport the assigned passengers and follow their directions.",
+          "description_i18n": {
+            "en": "Transport the assigned passengers and follow their directions.",
+            "pt": "Transporte os passageiros indicados e siga suas instruções."
+          }
+        },
+        {
+          "key": "finish-shift-break",
+          "title": "Finish the shift's break",
+          "title_i18n": {
+            "en": "Finish the shift's break",
+            "pt": "Terminar a pausa do turno"
+          },
+          "description": "Continue the street-side scene after the shift.",
+          "description_i18n": {
+            "en": "Continue the street-side scene after the shift.",
+            "pt": "Continue a cena junto à rua depois do turno."
+          }
+        },
+        {
+          "key": "escape-running-man",
+          "title": "Complete Running Man",
+          "title_i18n": {
+            "en": "Complete Running Man",
+            "pt": "Concluir Running Man"
+          },
+          "description": "Use the available alleys and reach safety.",
+          "description_i18n": {
+            "en": "Use the available alleys and reach safety.",
+            "pt": "Use os becos disponíveis e alcance um local seguro."
+          }
+        }
+      ],
+      "title": "Running Man",
+      "title_i18n": {
+        "en": "Running Man",
+        "pt": "Running Man"
+      }
+    },
+    {
+      "key": "chapter-molotov-party",
+      "items": [
+        {
+          "key": "collect-vincenzo-equipment",
+          "title": "Collect Vincenzo's equipment",
+          "title_i18n": {
+            "en": "Collect Vincenzo's equipment",
+            "pt": "Recolher o equipamento de Vincenzo"
+          },
+          "description": "Prepare for the assignment before driving out.",
+          "description_i18n": {
+            "en": "Prepare for the assignment before driving out.",
+            "pt": "Prepare-se para o trabalho antes de sair de carro."
+          }
+        },
+        {
+          "key": "reach-morello-garage",
+          "title": "Reach the rival garage",
+          "title_i18n": {
+            "en": "Reach the rival garage",
+            "pt": "Alcançar a garagem rival"
+          },
+          "description": "Drive with Paulie and approach the marked entrance.",
+          "description_i18n": {
+            "en": "Drive with Paulie and approach the marked entrance.",
+            "pt": "Dirija com Paulie e aproxime-se da entrada marcada."
+          }
+        },
+        {
+          "key": "complete-garage-sabotage",
+          "title": "Complete the garage assignment",
+          "title_i18n": {
+            "en": "Complete the garage assignment",
+            "pt": "Concluir o trabalho na garagem"
+          },
+          "description": "Deal with the marked objectives and leave the yard.",
+          "description_i18n": {
+            "en": "Deal with the marked objectives and leave the yard.",
+            "pt": "Cuide dos objetivos marcados e saia do pátio."
+          }
+        },
+        {
+          "key": "return-from-molotov-party",
+          "title": "Return from Molotov Party",
+          "title_i18n": {
+            "en": "Return from Molotov Party",
+            "pt": "Voltar de Molotov Party"
+          },
+          "description": "Finish the escape and return to the bar.",
+          "description_i18n": {
+            "en": "Finish the escape and return to the bar.",
+            "pt": "Conclua a fuga e volte ao bar."
+          }
+        }
+      ],
+      "title": "Molotov Party",
+      "title_i18n": {
+        "en": "Molotov Party",
+        "pt": "Molotov Party"
+      }
+    },
+    {
+      "key": "chapter-ordinary-routine",
+      "items": [
+        {
+          "key": "make-collection-rounds",
+          "title": "Make the collection rounds",
+          "title_i18n": {
+            "en": "Make the collection rounds",
+            "pt": "Fazer a ronda de cobranças"
+          },
+          "description": "Visit the assigned businesses with the crew.",
+          "description_i18n": {
+            "en": "Visit the assigned businesses with the crew.",
+            "pt": "Visite os estabelecimentos indicados com a equipe."
+          }
+        },
+        {
+          "key": "search-countryside-motel",
+          "title": "Search the countryside stop",
+          "title_i18n": {
+            "en": "Search the countryside stop",
+            "pt": "Vasculhar a parada no interior"
+          },
+          "description": "Investigate the destination after the collection route changes.",
+          "description_i18n": {
+            "en": "Investigate the destination after the collection route changes.",
+            "pt": "Investigue o destino depois da mudança na rota de cobranças."
+          }
+        },
+        {
+          "key": "assist-crew-at-motel",
+          "title": "Assist the crew",
+          "title_i18n": {
+            "en": "Assist the crew",
+            "pt": "Ajudar a equipe"
+          },
+          "description": "Move through the building and secure the immediate objective.",
+          "description_i18n": {
+            "en": "Move through the building and secure the immediate objective.",
+            "pt": "Avance pelo prédio e assegure o objetivo imediato."
+          }
+        },
+        {
+          "key": "complete-ordinary-routine-pursuit",
+          "title": "Complete the pursuit",
+          "title_i18n": {
+            "en": "Complete the pursuit",
+            "pt": "Concluir a perseguição"
+          },
+          "description": "Keep the escaping vehicle in range and finish the chapter.",
+          "description_i18n": {
+            "en": "Keep the escaping vehicle in range and finish the chapter.",
+            "pt": "Mantenha o veículo em fuga ao alcance e termine o capítulo."
+          }
+        }
+      ],
+      "title": "Ordinary Routine",
+      "title_i18n": {
+        "en": "Ordinary Routine",
+        "pt": "Ordinary Routine"
+      }
+    },
+    {
+      "key": "chapter-fair-play",
+      "items": [
+        {
+          "key": "retrieve-race-car",
+          "title": "Retrieve the race car",
+          "title_i18n": {
+            "en": "Retrieve the race car",
+            "pt": "Recolher o carro de corrida"
+          },
+          "description": "Reach the track and collect the marked vehicle.",
+          "description_i18n": {
+            "en": "Reach the track and collect the marked vehicle.",
+            "pt": "Alcance o circuito e pegue o veículo marcado."
+          }
+        },
+        {
+          "key": "complete-lucas-race-car-trip",
+          "title": "Complete the workshop trip",
+          "title_i18n": {
+            "en": "Complete the workshop trip",
+            "pt": "Concluir a viagem à oficina"
+          },
+          "description": "Deliver the vehicle and return it within the assignment's limits.",
+          "description_i18n": {
+            "en": "Deliver the vehicle and return it within the assignment's limits.",
+            "pt": "Entregue o veículo e devolva-o dentro dos limites do trabalho."
+          }
+        },
+        {
+          "key": "win-fair-play-race",
+          "title": "Win the Fair Play race",
+          "title_i18n": {
+            "en": "Win the Fair Play race",
+            "pt": "Vencer a corrida de Fair Play"
+          },
+          "description": "Finish in first place to continue the campaign.",
+          "description_i18n": {
+            "en": "Finish in first place to continue the campaign.",
+            "pt": "Termine em primeiro para continuar a campanha."
+          },
+          "details": "Finish the three-lap race in first place overall. Brake before tight turns, release the brake as you turn and apply acceleration gradually; sharp steering under full power can spin the car. Learn where the track narrows and avoid exchanging impacts there. A controlled corner exit is more useful than entering too fast. Restart the checkpoint to practice if necessary. During a Made Man campaign, keep Classic selected rather than lowering difficulty to bypass the race.",
+          "details_i18n": {
+            "en": "Finish the three-lap race in first place overall. Brake before tight turns, release the brake as you turn and apply acceleration gradually; sharp steering under full power can spin the car. Learn where the track narrows and avoid exchanging impacts there. A controlled corner exit is more useful than entering too fast. Restart the checkpoint to practice if necessary. During a Made Man campaign, keep Classic selected rather than lowering difficulty to bypass the race.",
+            "pt": "Termine a corrida de três voltas em primeiro na classificação final. Freie antes das curvas fechadas, solte o freio ao virar e acelere gradualmente; virar bruscamente acelerando tudo pode rodar o carro. Aprenda onde a pista estreita e evite trocar batidas nesses pontos. Uma saída controlada de curva vale mais que entrar rápido demais. Reinicie o ponto de controle para praticar quando necessário. Durante uma campanha de Made Man, mantenha Classic, em vez de reduzir a dificuldade para passar da corrida."
+          }
+        },
+        {
+          "key": "finish-fair-play-evening",
+          "title": "Finish the Fair Play evening",
+          "title_i18n": {
+            "en": "Finish the Fair Play evening",
+            "pt": "Terminar a noite de Fair Play"
+          },
+          "description": "Find Paulie and finish the final drive; the optional detour is separate.",
+          "description_i18n": {
+            "en": "Find Paulie and finish the final drive; the optional detour is separate.",
+            "pt": "Encontre Paulie e termine a última viagem; o desvio opcional é separado."
+          }
+        }
+      ],
+      "title": "Fair Play",
+      "title_i18n": {
+        "en": "Fair Play",
+        "pt": "Fair Play"
+      }
+    },
+    {
+      "key": "chapter-sarah",
+      "items": [
+        {
+          "key": "escort-sarah-home",
+          "title": "Escort Sarah home",
+          "title_i18n": {
+            "en": "Escort Sarah home",
+            "pt": "Acompanhar Sarah até em casa"
+          },
+          "description": "Follow the walk and finish its conversations.",
+          "description_i18n": {
+            "en": "Follow the walk and finish its conversations.",
+            "pt": "Siga o passeio e conclua as conversas."
+          }
+        },
+        {
+          "key": "handle-street-confrontation",
+          "title": "Handle the street confrontation",
+          "title_i18n": {
+            "en": "Handle the street confrontation",
+            "pt": "Resolver o confronto na rua"
+          },
+          "description": "Use the combat prompts and protect your companion.",
+          "description_i18n": {
+            "en": "Use the combat prompts and protect your companion.",
+            "pt": "Use as indicações de combate e proteja sua companhia."
+          }
+        },
+        {
+          "key": "finish-sarah-chapter",
+          "title": "Finish Sarah",
+          "title_i18n": {
+            "en": "Finish Sarah",
+            "pt": "Concluir Sarah"
+          },
+          "description": "Continue to the destination and finish the scene.",
+          "description_i18n": {
+            "en": "Continue to the destination and finish the scene.",
+            "pt": "Siga até o destino e conclua a cena."
+          }
+        }
+      ],
+      "title": "Sarah",
+      "title_i18n": {
+        "en": "Sarah",
+        "pt": "Sarah"
+      }
+    },
+    {
+      "key": "chapter-better-get-used-to-it",
+      "items": [
+        {
+          "key": "follow-paulie-into-district",
+          "title": "Follow Paulie into the district",
+          "title_i18n": {
+            "en": "Follow Paulie into the district",
+            "pt": "Seguir Paulie pelo bairro"
+          },
+          "description": "Reach the marked area and follow the investigation.",
+          "description_i18n": {
+            "en": "Reach the marked area and follow the investigation.",
+            "pt": "Alcance a área marcada e siga a investigação."
+          }
+        },
+        {
+          "key": "clear-workshop-confrontation",
+          "title": "Clear the workshop confrontation",
+          "title_i18n": {
+            "en": "Clear the workshop confrontation",
+            "pt": "Concluir o confronto na oficina"
+          },
+          "description": "Work through the encounter while watching nearby cover.",
+          "description_i18n": {
+            "en": "Work through the encounter while watching nearby cover.",
+            "pt": "Avance pelo encontro observando as coberturas próximas."
+          }
+        },
+        {
+          "key": "finish-better-get-used-to-it",
+          "title": "Complete the getaway pursuit",
+          "title_i18n": {
+            "en": "Complete the getaway pursuit",
+            "pt": "Concluir a perseguição da fuga"
+          },
+          "description": "Follow the target vehicle and finish the chapter objective.",
+          "description_i18n": {
+            "en": "Follow the target vehicle and finish the chapter objective.",
+            "pt": "Acompanhe o veículo-alvo e cumpra o objetivo final do capítulo."
+          }
+        }
+      ],
+      "title": "Better Get Used to It",
+      "title_i18n": {
+        "en": "Better Get Used to It",
+        "pt": "Better Get Used to It"
+      }
+    },
+    {
+      "key": "chapter-the-saint-and-the-sinner",
+      "items": [
+        {
+          "key": "enter-corleone-hotel",
+          "title": "Enter the Corleone Hotel",
+          "title_i18n": {
+            "en": "Enter the Corleone Hotel",
+            "pt": "Entrar no Corleone Hotel"
+          },
+          "description": "Locate the required contacts and inspect the available rooms.",
+          "description_i18n": {
+            "en": "Locate the required contacts and inspect the available rooms.",
+            "pt": "Localize os contatos necessários e examine os cômodos acessíveis."
+          }
+        },
+        {
+          "key": "complete-hotel-objectives",
+          "title": "Complete the hotel objectives",
+          "title_i18n": {
+            "en": "Complete the hotel objectives",
+            "pt": "Concluir os objetivos do hotel"
+          },
+          "description": "Finish the marked conversations and assignment inside.",
+          "description_i18n": {
+            "en": "Finish the marked conversations and assignment inside.",
+            "pt": "Termine as conversas e o trabalho indicado no interior."
+          },
+          "details": "The Saint and the Sinner combines the hotel and church sequences within one chapter. Complete the required hotel encounters, reach the office objective and follow the rooftop escape into the next location. Search accessible rooms before triggering the escape if collecting chapter-only items. Personal choices in these scenes do not create an alternate campaign ending or another mandatory route. Continue the chapter after the conversations instead of searching the map for a separate ending branch.",
+          "details_i18n": {
+            "en": "The Saint and the Sinner combines the hotel and church sequences within one chapter. Complete the required hotel encounters, reach the office objective and follow the rooftop escape into the next location. Search accessible rooms before triggering the escape if collecting chapter-only items. Personal choices in these scenes do not create an alternate campaign ending or another mandatory route. Continue the chapter after the conversations instead of searching the map for a separate ending branch.",
+            "pt": "The Saint and the Sinner reúne as sequências do hotel e da igreja em um capítulo. Conclua os encontros necessários no hotel, alcance o objetivo do escritório e siga a fuga pelos telhados até o próximo local. Examine os cômodos acessíveis antes de iniciar a saída se estiver buscando itens exclusivos do capítulo. As escolhas pessoais nessas cenas não criam um final alternativo da campanha nem outra rota obrigatória. Continue o capítulo depois das conversas, em vez de procurar no mapa uma ramificação de final."
+          }
+        },
+        {
+          "key": "escape-across-rooftops",
+          "title": "Escape across the rooftops",
+          "title_i18n": {
+            "en": "Escape across the rooftops",
+            "pt": "Escapar pelos telhados"
+          },
+          "description": "Follow the escape route and handle the pursuit.",
+          "description_i18n": {
+            "en": "Follow the escape route and handle the pursuit.",
+            "pt": "Siga a rota de fuga e cuide da perseguição."
+          }
+        },
+        {
+          "key": "complete-church-section",
+          "title": "Complete the church section",
+          "title_i18n": {
+            "en": "Complete the church section",
+            "pt": "Concluir a seção da igreja"
+          },
+          "description": "Finish the encounter and leave by the available route.",
+          "description_i18n": {
+            "en": "Finish the encounter and leave by the available route.",
+            "pt": "Conclua o encontro e saia pela rota disponível."
+          }
+        }
+      ],
+      "title": "The Saint and the Sinner",
+      "title_i18n": {
+        "en": "The Saint and the Sinner",
+        "pt": "The Saint and the Sinner"
+      }
+    },
+    {
+      "key": "chapter-a-trip-to-the-country",
+      "items": [
+        {
+          "key": "meet-country-rendezvous",
+          "title": "Reach the country rendezvous",
+          "title_i18n": {
+            "en": "Reach the country rendezvous",
+            "pt": "Alcançar o encontro no interior"
+          },
+          "description": "Meet the crew and follow the collection plan.",
+          "description_i18n": {
+            "en": "Meet the crew and follow the collection plan.",
+            "pt": "Encontre a equipe e acompanhe o plano de coleta."
+          }
+        },
+        {
+          "key": "investigate-farm-buildings",
+          "title": "Investigate the farm buildings",
+          "title_i18n": {
+            "en": "Investigate the farm buildings",
+            "pt": "Investigar os prédios da fazenda"
+          },
+          "description": "Search the buildings and stay alert for threats.",
+          "description_i18n": {
+            "en": "Search the buildings and stay alert for threats.",
+            "pt": "Vasculhe os prédios e observe possíveis ameaças."
+          }
+        },
+        {
+          "key": "defend-farm-extraction",
+          "title": "Defend the farm extraction",
+          "title_i18n": {
+            "en": "Defend the farm extraction",
+            "pt": "Defender a retirada da fazenda"
+          },
+          "description": "Protect the crew while the escape is prepared.",
+          "description_i18n": {
+            "en": "Protect the crew while the escape is prepared.",
+            "pt": "Proteja a equipe enquanto a fuga é preparada."
+          }
+        },
+        {
+          "key": "survive-country-truck-escape",
+          "title": "Survive the truck escape",
+          "title_i18n": {
+            "en": "Survive the truck escape",
+            "pt": "Sobreviver à fuga de caminhão"
+          },
+          "description": "Prioritize immediate vehicle threats until the chapter ends.",
+          "description_i18n": {
+            "en": "Prioritize immediate vehicle threats until the chapter ends.",
+            "pt": "Priorize as ameaças imediatas ao veículo até terminar o capítulo."
+          },
+          "details": "Prioritize attackers who can damage the truck immediately. During the armored pursuit, watch the marked vulnerable points and respond as the targets change instead of shooting indefinitely at solid plating. Reload during brief gaps and avoid spending all ammunition on distant threats. Surviving the farm firefight alone does not finish the chapter; keep defending the vehicle until the moving escape sequence resolves.",
+          "details_i18n": {
+            "en": "Prioritize attackers who can damage the truck immediately. During the armored pursuit, watch the marked vulnerable points and respond as the targets change instead of shooting indefinitely at solid plating. Reload during brief gaps and avoid spending all ammunition on distant threats. Surviving the farm firefight alone does not finish the chapter; keep defending the vehicle until the moving escape sequence resolves.",
+            "pt": "Priorize os atacantes capazes de danificar imediatamente o caminhão. Durante a perseguição blindada, observe os pontos vulneráveis marcados e responda às mudanças de alvo, em vez de atirar indefinidamente na blindagem sólida. Recarregue nas pequenas pausas e evite gastar toda a munição em ameaças distantes. Sobreviver ao tiroteio da fazenda não conclui o capítulo; continue defendendo o veículo até resolver a sequência de fuga em movimento."
+          }
+        }
+      ],
+      "title": "A Trip to the Country",
+      "title_i18n": {
+        "en": "A Trip to the Country",
+        "pt": "A Trip to the Country"
+      }
+    },
+    {
+      "key": "chapter-omerta",
+      "items": [
+        {
+          "key": "follow-omerta-contacts",
+          "title": "Follow the Omerta contacts",
+          "title_i18n": {
+            "en": "Follow the Omerta contacts",
+            "pt": "Seguir os contatos de Omerta"
+          },
+          "description": "Visit the marked leads and finish their conversations.",
+          "description_i18n": {
+            "en": "Visit the marked leads and finish their conversations.",
+            "pt": "Visite as pistas marcadas e conclua as conversas."
+          }
+        },
+        {
+          "key": "reach-airport-target",
+          "title": "Reach the airport objective",
+          "title_i18n": {
+            "en": "Reach the airport objective",
+            "pt": "Alcançar o objetivo no aeroporto"
+          },
+          "description": "Follow the trail into the airport and advance through the search.",
+          "description_i18n": {
+            "en": "Follow the trail into the airport and advance through the search.",
+            "pt": "Siga a pista até o aeroporto e avance pela busca."
+          }
+        },
+        {
+          "key": "resolve-airport-assignment",
+          "title": "Resolve the airport assignment",
+          "title_i18n": {
+            "en": "Resolve the airport assignment",
+            "pt": "Resolver o trabalho no aeroporto"
+          },
+          "description": "Finish the required encounter and remaining objectives.",
+          "description_i18n": {
+            "en": "Finish the required encounter and remaining objectives.",
+            "pt": "Conclua o encontro necessário e os objetivos restantes."
+          }
+        },
+        {
+          "key": "finish-omerta-return",
+          "title": "Finish the Omerta return",
+          "title_i18n": {
+            "en": "Finish the Omerta return",
+            "pt": "Concluir o retorno de Omerta"
+          },
+          "description": "Follow the closing instructions and return with the required material.",
+          "description_i18n": {
+            "en": "Follow the closing instructions and return with the required material.",
+            "pt": "Siga as instruções finais e volte com o material necessário."
+          }
+        }
+      ],
+      "title": "Omerta",
+      "title_i18n": {
+        "en": "Omerta",
+        "pt": "Omerta"
+      }
+    },
+    {
+      "key": "chapter-visiting-rich-people",
+      "items": [
+        {
+          "key": "meet-salvatore",
+          "title": "Meet Salvatore",
+          "title_i18n": {
+            "en": "Meet Salvatore",
+            "pt": "Encontrar Salvatore"
+          },
+          "description": "Collect your partner and reach the mansion grounds.",
+          "description_i18n": {
+            "en": "Collect your partner and reach the mansion grounds.",
+            "pt": "Busque seu parceiro e alcance o terreno da mansão."
+          }
+        },
+        {
+          "key": "infiltrate-mansion-grounds",
+          "title": "Infiltrate the mansion grounds",
+          "title_i18n": {
+            "en": "Infiltrate the mansion grounds",
+            "pt": "Infiltrar-se no terreno da mansão"
+          },
+          "description": "Find an approach through the grounds and avoid attention.",
+          "description_i18n": {
+            "en": "Find an approach through the grounds and avoid attention.",
+            "pt": "Encontre uma passagem pelo terreno e evite atenção."
+          }
+        },
+        {
+          "key": "reach-mansion-objective",
+          "title": "Reach the mansion objective",
+          "title_i18n": {
+            "en": "Reach the mansion objective",
+            "pt": "Alcançar o objetivo na mansão"
+          },
+          "description": "Guide the specialist to the required interior location.",
+          "description_i18n": {
+            "en": "Guide the specialist to the required interior location.",
+            "pt": "Leve o especialista ao local necessário no interior."
+          },
+          "details": "Keep Salvatore with you toward the safe and use companion commands when prompted. Move between cover while watching patrols instead of sprinting through the garden’s center. If you told him to wait, call him forward before the next stage. The specialist must reach the objective; arriving alone is insufficient. After the situation changes, focus on leaving with your companion rather than continuing to search the mansion.",
+          "details_i18n": {
+            "en": "Keep Salvatore with you toward the safe and use companion commands when prompted. Move between cover while watching patrols instead of sprinting through the garden’s center. If you told him to wait, call him forward before the next stage. The specialist must reach the objective; arriving alone is insufficient. After the situation changes, focus on leaving with your companion rather than continuing to search the mansion.",
+            "pt": "Mantenha Salvatore por perto ao avançar até o cofre e use os comandos do companheiro quando indicados. Mova-se entre coberturas observando as patrulhas, em vez de correr pelo centro do jardim. Se o mandou esperar, chame-o antes da próxima etapa. O especialista precisa alcançar o objetivo; chegar sozinho não basta. Quando a situação mudar, priorize sair com seu companheiro, em vez de continuar vasculhando a mansão."
+          }
+        },
+        {
+          "key": "escape-mansion-grounds",
+          "title": "Escape the mansion grounds",
+          "title_i18n": {
+            "en": "Escape the mansion grounds",
+            "pt": "Escapar do terreno da mansão"
+          },
+          "description": "Leave with your companion and finish the getaway.",
+          "description_i18n": {
+            "en": "Leave with your companion and finish the getaway.",
+            "pt": "Saia com seu companheiro e conclua a fuga."
+          }
+        }
+      ],
+      "title": "Visiting Rich People",
+      "title_i18n": {
+        "en": "Visiting Rich People",
+        "pt": "Visiting Rich People"
+      }
+    },
+    {
+      "key": "chapter-great-deal",
+      "items": [
+        {
+          "key": "attend-parking-garage-deal",
+          "title": "Attend the parking-garage deal",
+          "title_i18n": {
+            "en": "Attend the parking-garage deal",
+            "pt": "Comparecer ao negócio no estacionamento"
+          },
+          "description": "Meet the contact and follow the transaction.",
+          "description_i18n": {
+            "en": "Meet the contact and follow the transaction.",
+            "pt": "Encontre o contato e acompanhe a negociação."
+          }
+        },
+        {
+          "key": "fight-through-garage",
+          "title": "Fight through the garage",
+          "title_i18n": {
+            "en": "Fight through the garage",
+            "pt": "Avançar pelo estacionamento"
+          },
+          "description": "Clear the route while protecting the crew.",
+          "description_i18n": {
+            "en": "Clear the route while protecting the crew.",
+            "pt": "Abra caminho protegendo a equipe."
+          },
+          "details": "Use pillars and parked vehicles to interrupt enemy firing lines while descending through the structure. Explosive hazards can help against clustered attackers but are unsafe cover for you. Check the crew’s progress and remove the next obstruction before chasing isolated opponents. Reaching the street does not finish the job: the shipment still needs protection through its delivery.",
+          "details_i18n": {
+            "en": "Use pillars and parked vehicles to interrupt enemy firing lines while descending through the structure. Explosive hazards can help against clustered attackers but are unsafe cover for you. Check the crew’s progress and remove the next obstruction before chasing isolated opponents. Reaching the street does not finish the job: the shipment still needs protection through its delivery.",
+            "pt": "Use colunas e carros estacionados para interromper as linhas de tiro ao descer pela estrutura. Riscos explosivos podem ajudar contra grupos, mas são coberturas inseguras para você. Observe o avanço da equipe e remova o próximo obstáculo antes de perseguir adversários isolados. Chegar à rua não conclui o trabalho: a carga ainda precisa de proteção até a entrega."
+          }
+        },
+        {
+          "key": "escort-great-deal-shipment",
+          "title": "Escort the shipment",
+          "title_i18n": {
+            "en": "Escort the shipment",
+            "pt": "Escoltar a carga"
+          },
+          "description": "Cover the moving vehicle and finish the delivery.",
+          "description_i18n": {
+            "en": "Cover the moving vehicle and finish the delivery.",
+            "pt": "Proteja o veículo em movimento e conclua a entrega."
+          }
+        }
+      ],
+      "title": "Great Deal",
+      "title_i18n": {
+        "en": "Great Deal",
+        "pt": "Great Deal"
+      }
+    },
+    {
+      "key": "chapter-bon-appetit",
+      "items": [
+        {
+          "key": "reach-restaurant-meeting",
+          "title": "Reach the restaurant meeting",
+          "title_i18n": {
+            "en": "Reach the restaurant meeting",
+            "pt": "Alcançar o encontro no restaurante"
+          },
+          "description": "Drive to the meeting and continue the scene.",
+          "description_i18n": {
+            "en": "Drive to the meeting and continue the scene.",
+            "pt": "Dirija até o encontro e continue a cena."
+          }
+        },
+        {
+          "key": "survive-restaurant-encounter",
+          "title": "Survive the restaurant encounter",
+          "title_i18n": {
+            "en": "Survive the restaurant encounter",
+            "pt": "Sobreviver ao encontro no restaurante"
+          },
+          "description": "Use cover and secure a path for your companion.",
+          "description_i18n": {
+            "en": "Use cover and secure a path for your companion.",
+            "pt": "Use cobertura e assegure um caminho para seu companheiro."
+          }
+        },
+        {
+          "key": "finish-bon-appetit-followup",
+          "title": "Finish the follow-up assignment",
+          "title_i18n": {
+            "en": "Finish the follow-up assignment",
+            "pt": "Concluir o trabalho seguinte"
+          },
+          "description": "Follow the new lead and resolve the chapter objective.",
+          "description_i18n": {
+            "en": "Follow the new lead and resolve the chapter objective.",
+            "pt": "Siga a nova pista e resolva o objetivo do capítulo."
+          }
+        }
+      ],
+      "title": "Bon Appétit",
+      "title_i18n": {
+        "en": "Bon Appétit",
+        "pt": "Bon Appétit"
+      }
+    },
+    {
+      "key": "chapter-happy-birthday",
+      "items": [
+        {
+          "key": "prepare-boat-access",
+          "title": "Prepare boat access",
+          "title_i18n": {
+            "en": "Prepare boat access",
+            "pt": "Preparar o acesso ao barco"
+          },
+          "description": "Find a way to board and follow the disguise prompts.",
+          "description_i18n": {
+            "en": "Find a way to board and follow the disguise prompts.",
+            "pt": "Encontre uma forma de embarcar e siga as indicações de disfarce."
+          }
+        },
+        {
+          "key": "locate-boat-equipment",
+          "title": "Locate the onboard equipment",
+          "title_i18n": {
+            "en": "Locate the onboard equipment",
+            "pt": "Localizar o equipamento a bordo"
+          },
+          "description": "Search the accessible decks and finish the required interactions.",
+          "description_i18n": {
+            "en": "Search the accessible decks and finish the required interactions.",
+            "pt": "Examine os conveses acessíveis e conclua as interações necessárias."
+          },
+          "details": "Finish the disguise and crew-access objectives before searching for the concealed weapon. If the required room is inaccessible, finish its associated conversation and obtain the indicated access item instead of fighting through the boat. Take the weapon, wait for the assigned opportunity and keep an escape route in mind. Once the objective is complete, head to the extraction rather than staying to eliminate everyone aboard.",
+          "details_i18n": {
+            "en": "Finish the disguise and crew-access objectives before searching for the concealed weapon. If the required room is inaccessible, finish its associated conversation and obtain the indicated access item instead of fighting through the boat. Take the weapon, wait for the assigned opportunity and keep an escape route in mind. Once the objective is complete, head to the extraction rather than staying to eliminate everyone aboard.",
+            "pt": "Conclua os objetivos de disfarce e acesso da tripulação antes de procurar a arma escondida. Se o cômodo necessário estiver inacessível, termine a conversa relacionada e obtenha o item de acesso indicado, em vez de enfrentar o barco inteiro. Pegue a arma, aguarde a oportunidade do trabalho e tenha em mente uma rota de fuga. Depois de cumprir o objetivo, siga para a retirada, sem ficar para eliminar todos a bordo."
+          }
+        },
+        {
+          "key": "complete-boat-assignment",
+          "title": "Complete the boat assignment",
+          "title_i18n": {
+            "en": "Complete the boat assignment",
+            "pt": "Concluir o trabalho no barco"
+          },
+          "description": "Wait for the right opportunity and finish the marked objective.",
+          "description_i18n": {
+            "en": "Wait for the right opportunity and finish the marked objective.",
+            "pt": "Aguarde a oportunidade certa e cumpra o objetivo marcado."
+          }
+        },
+        {
+          "key": "leave-birthday-boat",
+          "title": "Leave the boat",
+          "title_i18n": {
+            "en": "Leave the boat",
+            "pt": "Sair do barco"
+          },
+          "description": "Reach the extraction and finish the escape.",
+          "description_i18n": {
+            "en": "Reach the extraction and finish the escape.",
+            "pt": "Alcance a retirada e conclua a fuga."
+          }
+        }
+      ],
+      "title": "Happy Birthday",
+      "title_i18n": {
+        "en": "Happy Birthday",
+        "pt": "Happy Birthday"
+      }
+    },
+    {
+      "key": "chapter-you-lucky",
+      "items": [
+        {
+          "key": "prepare-you-lucky-assignment",
+          "title": "Prepare the assignment",
+          "title_i18n": {
+            "en": "Prepare the assignment",
+            "pt": "Preparar o trabalho"
+          },
+          "description": "Collect the required equipment and reach the first destination.",
+          "description_i18n": {
+            "en": "Collect the required equipment and reach the first destination.",
+            "pt": "Pegue o equipamento necessário e alcance o primeiro destino."
+          }
+        },
+        {
+          "key": "follow-changing-you-lucky-lead",
+          "title": "Follow the changing lead",
+          "title_i18n": {
+            "en": "Follow the changing lead",
+            "pt": "Seguir a mudança de pista"
+          },
+          "description": "Continue the chapter as each new objective appears.",
+          "description_i18n": {
+            "en": "Continue the chapter as each new objective appears.",
+            "pt": "Continue o capítulo conforme surgirem novos objetivos."
+          }
+        },
+        {
+          "key": "reach-harbor-pursuit",
+          "title": "Reach the harbor pursuit",
+          "title_i18n": {
+            "en": "Reach the harbor pursuit",
+            "pt": "Alcançar a perseguição no porto"
+          },
+          "description": "Keep the target in range and enter the harbor area.",
+          "description_i18n": {
+            "en": "Keep the target in range and enter the harbor area.",
+            "pt": "Mantenha o alvo ao alcance e entre na área do porto."
+          }
+        },
+        {
+          "key": "finish-harbor-confrontation",
+          "title": "Finish the harbor confrontation",
+          "title_i18n": {
+            "en": "Finish the harbor confrontation",
+            "pt": "Concluir o confronto no porto"
+          },
+          "description": "Work through the harbor and finish the final objective.",
+          "description_i18n": {
+            "en": "Work through the harbor and finish the final objective.",
+            "pt": "Avance pelo porto e cumpra o último objetivo."
+          },
+          "details": "Advance using harbor buildings and cargo as cover; rushing across open lanes exposes you to several firing angles. Inspect the marked rail-yard machinery and follow the interaction prompts when the direct approach is blocked. Prepare before opening the next passage, then clear the interior route. The chapter’s repeated changes of plan are scripted progression within one mission, not separate alternative endings.",
+          "details_i18n": {
+            "en": "Advance using harbor buildings and cargo as cover; rushing across open lanes exposes you to several firing angles. Inspect the marked rail-yard machinery and follow the interaction prompts when the direct approach is blocked. Prepare before opening the next passage, then clear the interior route. The chapter’s repeated changes of plan are scripted progression within one mission, not separate alternative endings.",
+            "pt": "Avance usando prédios e cargas do porto como cobertura; correr pelas vias abertas expõe você a vários ângulos de tiro. Examine os mecanismos ferroviários marcados e siga as interações indicadas quando a passagem direta estiver bloqueada. Prepare-se antes de abrir o próximo caminho e então limpe a rota interna. As mudanças repetidas de plano são progressão do mesmo capítulo, não finais alternativos separados."
+          }
+        }
+      ],
+      "title": "You Lucky Bastard",
+      "title_i18n": {
+        "en": "You Lucky Bastard",
+        "pt": "You Lucky Bastard"
+      }
+    },
+    {
+      "key": "chapter-creme-de-la-creme",
+      "items": [
+        {
+          "key": "follow-theater-lead",
+          "title": "Follow the theater lead",
+          "title_i18n": {
+            "en": "Follow the theater lead",
+            "pt": "Seguir a pista do teatro"
+          },
+          "description": "Reach the assignment and continue the pursuit.",
+          "description_i18n": {
+            "en": "Reach the assignment and continue the pursuit.",
+            "pt": "Alcance o trabalho e continue a perseguição."
+          }
+        },
+        {
+          "key": "keep-airport-pursuit-in-range",
+          "title": "Keep the pursuit in range",
+          "title_i18n": {
+            "en": "Keep the pursuit in range",
+            "pt": "Manter a perseguição ao alcance"
+          },
+          "description": "Stay on the route and respond to changing vehicle objectives.",
+          "description_i18n": {
+            "en": "Stay on the route and respond to changing vehicle objectives.",
+            "pt": "Mantenha-se na rota e responda aos novos objetivos com veículos."
+          }
+        },
+        {
+          "key": "finish-creme-de-la-creme",
+          "title": "Complete Crème de la Crème",
+          "title_i18n": {
+            "en": "Complete Crème de la Crème",
+            "pt": "Concluir Crème de la Crème"
+          },
+          "description": "Finish the airport sequence and return as directed.",
+          "description_i18n": {
+            "en": "Finish the airport sequence and return as directed.",
+            "pt": "Conclua a sequência no aeroporto e volte conforme indicado."
+          }
+        }
+      ],
+      "title": "Crème de la Crème",
+      "title_i18n": {
+        "en": "Crème de la Crème",
+        "pt": "Crème de la Crème"
+      }
+    },
+    {
+      "key": "chapter-election-campaign",
+      "items": [
+        {
+          "key": "enter-election-vantage-point",
+          "title": "Reach the assigned vantage point",
+          "title_i18n": {
+            "en": "Reach the assigned vantage point",
+            "pt": "Alcançar o ponto de observação indicado"
+          },
+          "description": "Find an entrance and work through the building.",
+          "description_i18n": {
+            "en": "Find an entrance and work through the building.",
+            "pt": "Encontre uma entrada e atravesse o prédio."
+          }
+        },
+        {
+          "key": "complete-election-objective",
+          "title": "Complete the elevated objective",
+          "title_i18n": {
+            "en": "Complete the elevated objective",
+            "pt": "Concluir o objetivo elevado"
+          },
+          "description": "Use the designated position to finish the assignment.",
+          "description_i18n": {
+            "en": "Use the designated position to finish the assignment.",
+            "pt": "Use a posição indicada para concluir o trabalho."
+          }
+        },
+        {
+          "key": "escape-election-pursuit",
+          "title": "Escape the Election Campaign pursuit",
+          "title_i18n": {
+            "en": "Escape the Election Campaign pursuit",
+            "pt": "Escapar da perseguição de Election Campaign"
+          },
+          "description": "Leave the search area and lose the police before returning.",
+          "description_i18n": {
+            "en": "Leave the search area and lose the police before returning.",
+            "pt": "Saia da área de busca e despiste a polícia antes de voltar."
+          },
+          "details": "The end of Election Campaign offers a story opportunity for Heat from the Cops. Break the police’s sight line, use marked escape barriers when available and hide beyond patrol sight. Do not leave simply because one pursuing car disappears: wait until the wanted state fully clears. Outside the story, first build a chase to five stars and then escape completely. Restarting a checkpoint is not the same as successfully losing the pursuit.",
+          "details_i18n": {
+            "en": "The end of Election Campaign offers a story opportunity for Heat from the Cops. Break the police’s sight line, use marked escape barriers when available and hide beyond patrol sight. Do not leave simply because one pursuing car disappears: wait until the wanted state fully clears. Outside the story, first build a chase to five stars and then escape completely. Restarting a checkpoint is not the same as successfully losing the pursuit.",
+            "pt": "O final de Election Campaign oferece uma oportunidade da história para Heat from the Cops. Quebre a linha de visão policial, use as barreiras de fuga marcadas quando disponíveis e esconda-se fora da vista das patrulhas. Não saia só porque um carro perseguidor desapareceu: aguarde o nível de procurado terminar por completo. Fora da história, alcance primeiro cinco estrelas e então escape totalmente. Reiniciar um ponto de controle não equivale a despistar a perseguição."
+          }
+        }
+      ],
+      "title": "Election Campaign",
+      "title_i18n": {
+        "en": "Election Campaign",
+        "pt": "Election Campaign"
+      }
+    },
+    {
+      "key": "chapter-just-for-relaxation",
+      "items": [
+        {
+          "key": "prepare-warehouse-cover",
+          "title": "Prepare the warehouse approach",
+          "title_i18n": {
+            "en": "Prepare the warehouse approach",
+            "pt": "Preparar a aproximação do armazém"
+          },
+          "description": "Follow the crew's plan and obtain the required access.",
+          "description_i18n": {
+            "en": "Follow the crew's plan and obtain the required access.",
+            "pt": "Siga o plano da equipe e obtenha o acesso necessário."
+          }
+        },
+        {
+          "key": "locate-warehouse-cargo",
+          "title": "Locate the warehouse cargo",
+          "title_i18n": {
+            "en": "Locate the warehouse cargo",
+            "pt": "Localizar a carga no armazém"
+          },
+          "description": "Search the assigned area and move the marked shipment.",
+          "description_i18n": {
+            "en": "Search the assigned area and move the marked shipment.",
+            "pt": "Examine a área indicada e mova a carga marcada."
+          }
+        },
+        {
+          "key": "complete-warehouse-escape",
+          "title": "Complete the warehouse escape",
+          "title_i18n": {
+            "en": "Complete the warehouse escape",
+            "pt": "Concluir a fuga do armazém"
+          },
+          "description": "Leave with the shipment and finish the chapter.",
+          "description_i18n": {
+            "en": "Leave with the shipment and finish the chapter.",
+            "pt": "Saia com a carga e termine o capítulo."
+          }
+        }
+      ],
+      "title": "Just For Relaxation",
+      "title_i18n": {
+        "en": "Just For Relaxation",
+        "pt": "Just For Relaxation"
+      }
+    },
+    {
+      "key": "chapter-moonlighting",
+      "items": [
+        {
+          "key": "reconnoiter-bank",
+          "title": "Reach the bank manager",
+          "title_i18n": {
+            "en": "Reach the bank manager",
+            "pt": "Alcançar o gerente do banco"
+          },
+          "description": "Follow the interior objective while Paulie secures the lobby.",
+          "description_i18n": {
+            "en": "Follow the interior objective while Paulie secures the lobby.",
+            "pt": "Siga o objetivo interno enquanto Paulie controla o saguão."
+          }
+        },
+        {
+          "key": "prepare-bank-equipment",
+          "title": "Secure the vault access",
+          "title_i18n": {
+            "en": "Secure the vault access",
+            "pt": "Obter o acesso ao cofre"
+          },
+          "description": "Complete the manager interaction and obtain the required key.",
+          "description_i18n": {
+            "en": "Complete the manager interaction and obtain the required key.",
+            "pt": "Conclua a interação com o gerente e obtenha a chave necessária."
+          }
+        },
+        {
+          "key": "complete-bank-objectives",
+          "title": "Complete the bank objectives",
+          "title_i18n": {
+            "en": "Complete the bank objectives",
+            "pt": "Concluir os objetivos do banco"
+          },
+          "description": "Follow the interior route and watch the crew's situation.",
+          "description_i18n": {
+            "en": "Follow the interior route and watch the crew's situation.",
+            "pt": "Siga a rota interna e observe a situação da equipe."
+          }
+        },
+        {
+          "key": "finish-bank-getaway",
+          "title": "Finish the getaway",
+          "title_i18n": {
+            "en": "Finish the getaway",
+            "pt": "Concluir a fuga"
+          },
+          "description": "Lose the pursuit and reach the final meeting point.",
+          "description_i18n": {
+            "en": "Lose the pursuit and reach the final meeting point.",
+            "pt": "Despiste a perseguição e alcance o ponto final de encontro."
+          }
+        }
+      ],
+      "title": "Moonlighting",
+      "title_i18n": {
+        "en": "Moonlighting",
+        "pt": "Moonlighting"
+      }
+    },
+    {
+      "key": "chapter-the-death-of-art",
+      "items": [
+        {
+          "key": "follow-final-meeting-lead",
+          "title": "Follow the final meeting lead",
+          "title_i18n": {
+            "en": "Follow the final meeting lead",
+            "pt": "Seguir a pista do último encontro"
+          },
+          "description": "Visit the requested location and continue the chapter.",
+          "description_i18n": {
+            "en": "Visit the requested location and continue the chapter.",
+            "pt": "Visite o local solicitado e continue o capítulo."
+          }
+        },
+        {
+          "key": "enter-gallery-meeting",
+          "title": "Enter the gallery meeting",
+          "title_i18n": {
+            "en": "Enter the gallery meeting",
+            "pt": "Entrar no encontro da galeria"
+          },
+          "description": "Reach the meeting point and follow the scene.",
+          "description_i18n": {
+            "en": "Reach the meeting point and follow the scene.",
+            "pt": "Alcance o ponto de encontro e acompanhe a cena."
+          }
+        },
+        {
+          "key": "finish-gallery-confrontation",
+          "title": "Finish the gallery confrontation",
+          "title_i18n": {
+            "en": "Finish the gallery confrontation",
+            "pt": "Concluir o confronto na galeria"
+          },
+          "description": "Use cover through the final encounters and finish the campaign.",
+          "description_i18n": {
+            "en": "Use cover through the final encounters and finish the campaign.",
+            "pt": "Use cobertura nos últimos confrontos e conclua a campanha."
+          },
+          "details": "Treat each gallery room as a separate encounter: enter behind cover, identify immediate threats and secure a route before advancing. Watch and listen for attacks from different levels. During the final confrontation, use pauses between enemy movements to reposition and reload. Continue through the following scenes to register campaign completion. The story has a fixed ending; there is no second ending checklist to complete on the same save.",
+          "details_i18n": {
+            "en": "Treat each gallery room as a separate encounter: enter behind cover, identify immediate threats and secure a route before advancing. Watch and listen for attacks from different levels. During the final confrontation, use pauses between enemy movements to reposition and reload. Continue through the following scenes to register campaign completion. The story has a fixed ending; there is no second ending checklist to complete on the same save.",
+            "pt": "Trate cada salão da galeria como um encontro separado: entre protegido, identifique ameaças imediatas e assegure uma rota antes de avançar. Observe e escute ataques de outros níveis. No confronto final, use as pausas entre movimentos do adversário para mudar de posição e recarregar. Continue pelas cenas seguintes para registrar a campanha. A história tem um final fixo; não existe uma segunda lista de final para concluir no mesmo arquivo."
+          }
+        }
+      ],
+      "title": "The Death of Art",
+      "title_i18n": {
+        "en": "The Death of Art",
+        "pt": "The Death of Art"
+      }
+    },
+    {
+      "key": "optional-free-ride-phone-missions",
+      "kind": "side",
+      "items": [
+        {
+          "key": "unlock-free-ride-phone-jobs",
+          "title": "Read the Free Ride letters",
+          "title_i18n": {
+            "en": "Read the Free Ride letters",
+            "pt": "Ler as cartas de Free Ride"
+          },
+          "description": "Use the letters at Salieri’s Bar to discover the optional phone assignments.",
+          "description_i18n": {
+            "en": "Use the letters at Salieri’s Bar to discover the optional phone assignments.",
+            "pt": "Use as cartas no bar de Salieri para descobrir os trabalhos telefônicos opcionais."
+          },
+          "details": "Free Ride unlocks after chapter one, but letters and jobs also depend on story progress. Post-story cleanup is convenient. Read the pool-table letter at Salieri’s Bar and complete The Crazy Horse first, then inspect the additional notes for ten assignments. Finish all eleven before reading the final upstairs letter for Curse of the Baskervilles. Answer ringing booths without an active police chase. Alien Infiltration requires night; use the bar’s time-of-day painting if needed. These jobs are optional for the campaign, and individual phone completions do not each award a native trophy.",
+          "details_i18n": {
+            "en": "Free Ride unlocks after chapter one, but letters and jobs also depend on story progress. Post-story cleanup is convenient. Read the pool-table letter at Salieri’s Bar and complete The Crazy Horse first, then inspect the additional notes for ten assignments. Finish all eleven before reading the final upstairs letter for Curse of the Baskervilles. Answer ringing booths without an active police chase. Alien Infiltration requires night; use the bar’s time-of-day painting if needed. These jobs are optional for the campaign, and individual phone completions do not each award a native trophy.",
+            "pt": "Free Ride é liberado após o primeiro capítulo, mas cartas e trabalhos também dependem do avanço da história. A limpeza depois da campanha é conveniente. Leia a carta na mesa de bilhar do bar de Salieri e conclua primeiro The Crazy Horse; depois examine os novos bilhetes para mais dez trabalhos. Termine os onze antes de ler a última carta no andar superior para Curse of the Baskervilles. Atenda às cabines sem perseguição policial ativa. Alien Infiltration exige noite; use o quadro de horário do bar se necessário. Os trabalhos são opcionais para a campanha e cada conclusão telefônica não concede um troféu nativo individual."
+          }
+        },
+        {
+          "key": "phone-the-crazy-horse",
+          "title": "Complete The Crazy Horse",
+          "title_i18n": {
+            "en": "Complete The Crazy Horse",
+            "pt": "Concluir The Crazy Horse"
+          },
+          "description": "Deliver the special car within the challenge’s restrictions.",
+          "description_i18n": {
+            "en": "Deliver the special car within the challenge’s restrictions.",
+            "pt": "Entregue o carro especial respeitando as restrições do desafio."
+          }
+        },
+        {
+          "key": "phone-dock-block",
+          "title": "Complete Dock Block",
+          "title_i18n": {
+            "en": "Complete Dock Block",
+            "pt": "Concluir Dock Block"
+          },
+          "description": "Complete the harbor shipment-protection assignment.",
+          "description_i18n": {
+            "en": "Complete the harbor shipment-protection assignment.",
+            "pt": "Conclua o trabalho de proteção da carga no porto."
+          }
+        },
+        {
+          "key": "phone-electric-trick-truck",
+          "title": "Complete Electric Trick Truck",
+          "title_i18n": {
+            "en": "Complete Electric Trick Truck",
+            "pt": "Concluir Electric Trick Truck"
+          },
+          "description": "Finish the prototype vehicle’s checkpoint course.",
+          "description_i18n": {
+            "en": "Finish the prototype vehicle’s checkpoint course.",
+            "pt": "Conclua o percurso de pontos de controle do protótipo."
+          }
+        },
+        {
+          "key": "phone-pennies-from-hell",
+          "title": "Complete Pennies from Hell",
+          "title_i18n": {
+            "en": "Complete Pennies from Hell",
+            "pt": "Concluir Pennies from Hell"
+          },
+          "description": "Complete the bank retrieval and extraction.",
+          "description_i18n": {
+            "en": "Complete the bank retrieval and extraction.",
+            "pt": "Conclua a recuperação no banco e a retirada."
+          }
+        },
+        {
+          "key": "phone-professional-protection",
+          "title": "Complete Professional Protection",
+          "title_i18n": {
+            "en": "Complete Professional Protection",
+            "pt": "Concluir Professional Protection"
+          },
+          "description": "Defend the moving car throughout its journey.",
+          "description_i18n": {
+            "en": "Defend the moving car throughout its journey.",
+            "pt": "Defenda o carro em movimento durante toda a viagem."
+          }
+        },
+        {
+          "key": "phone-moderate-velocity",
+          "title": "Complete Moderate Velocity",
+          "title_i18n": {
+            "en": "Complete Moderate Velocity",
+            "pt": "Concluir Moderate Velocity"
+          },
+          "description": "Complete the bus-driving challenge under its speed condition.",
+          "description_i18n": {
+            "en": "Complete the bus-driving challenge under its speed condition.",
+            "pt": "Conclua o desafio do ônibus respeitando sua condição de velocidade."
+          }
+        },
+        {
+          "key": "phone-explosive-situation",
+          "title": "Complete Explosive Situation",
+          "title_i18n": {
+            "en": "Complete Explosive Situation",
+            "pt": "Concluir Explosive Situation"
+          },
+          "description": "Deal with each marked vehicle before its timer expires.",
+          "description_i18n": {
+            "en": "Deal with each marked vehicle before its timer expires.",
+            "pt": "Cuide de cada veículo marcado antes de o tempo acabar."
+          }
+        },
+        {
+          "key": "phone-betty",
+          "title": "Complete Betty",
+          "title_i18n": {
+            "en": "Complete Betty",
+            "pt": "Concluir Betty"
+          },
+          "description": "Deliver the unreliable car to the mechanic.",
+          "description_i18n": {
+            "en": "Deliver the unreliable car to the mechanic.",
+            "pt": "Entregue o carro problemático ao mecânico."
+          },
+          "details": "Betty loses fuel rapidly. Connect fuel stations along your route instead of trying to cross the city on the initial tank. Stop beside a pump and use its refuel interaction, then continue without wasting time stationary. Check the map for stations along the trip toward Works Quarter. Reaching the mechanic within the timer finishes the delivery and unlocks its vehicle reward.",
+          "details_i18n": {
+            "en": "Betty loses fuel rapidly. Connect fuel stations along your route instead of trying to cross the city on the initial tank. Stop beside a pump and use its refuel interaction, then continue without wasting time stationary. Check the map for stations along the trip toward Works Quarter. Reaching the mechanic within the timer finishes the delivery and unlocks its vehicle reward.",
+            "pt": "Betty perde combustível rapidamente. Conecte postos na sua rota, em vez de tentar cruzar a cidade com o tanque inicial. Pare junto à bomba e use a interação de abastecimento; depois continue sem desperdiçar tempo parado. Confira no mapa os postos no caminho até Works Quarter. Chegar ao mecânico dentro do tempo conclui a entrega e libera sua recompensa em veículo."
+          }
+        },
+        {
+          "key": "phone-alien-infiltration",
+          "title": "Complete Alien Infiltration",
+          "title_i18n": {
+            "en": "Complete Alien Infiltration",
+            "pt": "Concluir Alien Infiltration"
+          },
+          "description": "Complete the nighttime pursuit and final encounter.",
+          "description_i18n": {
+            "en": "Complete the nighttime pursuit and final encounter.",
+            "pt": "Conclua a perseguição noturna e o encontro final."
+          }
+        },
+        {
+          "key": "phone-mister-fancy-bike",
+          "title": "Complete Mister Fancy Bike",
+          "title_i18n": {
+            "en": "Complete Mister Fancy Bike",
+            "pt": "Concluir Mister Fancy Bike"
+          },
+          "description": "Finish the concept motorcycle’s checkpoint route.",
+          "description_i18n": {
+            "en": "Finish the concept motorcycle’s checkpoint route.",
+            "pt": "Conclua a rota de pontos de controle da moto-conceito."
+          }
+        },
+        {
+          "key": "phone-the-old-switcheroo",
+          "title": "Complete The Old Switcheroo",
+          "title_i18n": {
+            "en": "Complete The Old Switcheroo",
+            "pt": "Concluir The Old Switcheroo"
+          },
+          "description": "Complete the sequence of timed vehicle swaps.",
+          "description_i18n": {
+            "en": "Complete the sequence of timed vehicle swaps.",
+            "pt": "Conclua a sequência de trocas cronometradas de veículos."
+          },
+          "details": "At each trailer, move the replacement car off first, then place your arriving vehicle on the trailer before continuing in the replacement. Leaving without completing the placement can leave the objective unfinished. Follow the successive locations and return the final car to the starting area within its renewed timer. The vehicle reward helps the garage collection, but finishing every phone job is not itself a platinum requirement.",
+          "details_i18n": {
+            "en": "At each trailer, move the replacement car off first, then place your arriving vehicle on the trailer before continuing in the replacement. Leaving without completing the placement can leave the objective unfinished. Follow the successive locations and return the final car to the starting area within its renewed timer. The vehicle reward helps the garage collection, but finishing every phone job is not itself a platinum requirement.",
+            "pt": "Em cada reboque, retire primeiro o carro de reposição e coloque nele o veículo em que chegou antes de continuar com o substituto. Sair sem concluir a colocação pode deixar o objetivo incompleto. Siga os locais sucessivos e devolva o último carro à área inicial dentro do tempo renovado. A recompensa em veículo ajuda na coleção da garagem, mas terminar todos os trabalhos telefônicos não é, por si só, requisito da platina."
+          }
+        },
+        {
+          "key": "phone-curse-of-the-baskervilles",
+          "title": "Complete Curse of the Baskervilles",
+          "title_i18n": {
+            "en": "Complete Curse of the Baskervilles",
+            "pt": "Concluir Curse of the Baskervilles"
+          },
+          "description": "Finish the final phone assignment after the earlier jobs.",
+          "description_i18n": {
+            "en": "Finish the final phone assignment after the earlier jobs.",
+            "pt": "Termine o último trabalho telefônico depois dos anteriores."
+          }
+        }
+      ],
+      "title": "Optional Free Ride phone missions",
+      "title_i18n": {
+        "en": "Optional Free Ride phone missions",
+        "pt": "Missões telefônicas opcionais de Free Ride"
+      }
+    },
+    {
+      "key": "optional-driving-and-police-goals",
+      "kind": "side",
+      "items": [
+        {
+          "key": "not-classy-paulie-detour",
+          "title": "Not Classy: Paulie's detour",
+          "title_i18n": {
+            "en": "Not Classy: Paulie's detour",
+            "pt": "Not Classy: o desvio de Paulie"
+          },
+          "description": "Complete the optional post-race detour in Fair Play.",
+          "description_i18n": {
+            "en": "Complete the optional post-race detour in Fair Play.",
+            "pt": "Conclua o desvio opcional depois da corrida em Fair Play."
+          },
+          "details": "After winning Fair Play, continue until Tommy drives Paulie home. Do not finish the normal home drop-off yet: let the conversation identify the alternative stop and take Paulie to the Blue Tropics. This optional detour earns Not Classy; winning the race alone does not. If you already finished the chapter, use Chapter Select to revisit its relevant section instead of assuming the save is permanently blocked.",
+          "details_i18n": {
+            "en": "After winning Fair Play, continue until Tommy drives Paulie home. Do not finish the normal home drop-off yet: let the conversation identify the alternative stop and take Paulie to the Blue Tropics. This optional detour earns Not Classy; winning the race alone does not. If you already finished the chapter, use Chapter Select to revisit its relevant section instead of assuming the save is permanently blocked.",
+            "pt": "Depois de vencer Fair Play, continue até Tommy levar Paulie para casa. Ainda não conclua a entrega normal: deixe a conversa identificar a parada alternativa e leve Paulie ao Blue Tropics. Esse desvio opcional concede Not Classy; apenas vencer a corrida não basta. Se já terminou o capítulo, use Chapter Select para revisitar a seção correspondente, em vez de presumir que o arquivo ficou permanentemente bloqueado."
+          }
+        },
+        {
+          "key": "pay-police-fine",
+          "title": "Lined Pockets: pay a fine",
+          "title_i18n": {
+            "en": "Lined Pockets: pay a fine",
+            "pt": "Lined Pockets: pagar uma multa"
+          },
+          "description": "Accept a minor police fine when the appropriate interaction appears.",
+          "description_i18n": {
+            "en": "Accept a minor police fine when the appropriate interaction appears.",
+            "pt": "Aceite uma multa policial leve quando surgir a interação apropriada."
+          }
+        },
+        {
+          "key": "resist-police-arrest",
+          "title": "Not Taken In: resist arrest",
+          "title_i18n": {
+            "en": "Not Taken In: resist arrest",
+            "pt": "Not Taken In: resistir à prisão"
+          },
+          "description": "Use the resist-arrest prompt during an attempted arrest.",
+          "description_i18n": {
+            "en": "Use the resist-arrest prompt during an attempted arrest.",
+            "pt": "Use a indicação de resistir à prisão durante uma tentativa de detenção."
+          }
+        },
+        {
+          "key": "escape-five-star-chase",
+          "title": "Heat from the Cops: five-star escape",
+          "title_i18n": {
+            "en": "Heat from the Cops: five-star escape",
+            "pt": "Heat from the Cops: escapar de cinco estrelas"
+          },
+          "description": "Lose a five-star pursuit completely; the story also offers an opportunity.",
+          "description_i18n": {
+            "en": "Lose a five-star pursuit completely; the story also offers an opportunity.",
+            "pt": "Despiste completamente uma perseguição de cinco estrelas; a história também oferece uma oportunidade."
+          }
+        },
+        {
+          "key": "lockpick-five-cars",
+          "title": "Car Enthusiast: five lockpicked cars",
+          "title_i18n": {
+            "en": "Car Enthusiast: five lockpicked cars",
+            "pt": "Car Enthusiast: arrombar cinco carros"
+          },
+          "description": "Lockpick five parked vehicles while exploring Lost Heaven.",
+          "description_i18n": {
+            "en": "Lockpick five parked vehicles while exploring Lost Heaven.",
+            "pt": "Arrombe cinco veículos estacionados ao explorar Lost Heaven."
+          }
+        },
+        {
+          "key": "bolt-ace-fifty-mph",
+          "title": "That Motor can Move: Bolt Ace at 50 mph",
+          "title_i18n": {
+            "en": "That Motor can Move: Bolt Ace at 50 mph",
+            "pt": "That Motor can Move: Bolt Ace a 50 mph"
+          },
+          "description": "Reach 50 mph in the Bolt Ace on a clear stretch of road.",
+          "description_i18n": {
+            "en": "Reach 50 mph in the Bolt Ace on a clear stretch of road.",
+            "pt": "Alcance 50 mph no Bolt Ace em um trecho livre de estrada."
+          }
+        },
+        {
+          "key": "motorcycle-three-second-wheelie",
+          "title": "Stunt Rider: three-second wheelie",
+          "title_i18n": {
+            "en": "Stunt Rider: three-second wheelie",
+            "pt": "Stunt Rider: empinar por três segundos"
+          },
+          "description": "Perform a motorcycle wheelie lasting at least three seconds.",
+          "description_i18n": {
+            "en": "Perform a motorcycle wheelie lasting at least three seconds.",
+            "pt": "Empine uma moto por pelo menos três segundos."
+          }
+        }
+      ],
+      "title": "Optional driving and police goals",
+      "title_i18n": {
+        "en": "Optional driving and police goals",
+        "pt": "Objetivos opcionais de direção e polícia"
+      }
+    },
+    {
+      "key": "optional-hidden-cars-and-garage",
+      "kind": "collectible",
+      "items": [
+        {
+          "key": "collect-five-lucas-postcards",
+          "title": "Collect Lucas’s five postcards",
+          "title_i18n": {
+            "en": "Collect Lucas’s five postcards",
+            "pt": "Coletar os cinco cartões-postais de Lucas"
+          },
+          "description": "Visit Bertone’s workshop and collect every available postcard after story progress.",
+          "description_i18n": {
+            "en": "Visit Bertone’s workshop and collect every available postcard after story progress.",
+            "pt": "Visite a oficina de Bertone e pegue todos os cartões-postais disponíveis após avançar na história."
+          },
+          "details": "After the campaign, all five postcards are available on the noticeboard inside Bertone’s Autoservice. Collect them before searching: they enable the associated hidden-garage interactions. Each clue corresponds to a distinct hidden car. Enter each discovered vehicle and check the Free Ride garage afterward. Some entrances require clearing crates or dealing with a defender, so bring suitable equipment from the bar’s armory. These cars are separate from ordinary street models.",
+          "details_i18n": {
+            "en": "After the campaign, all five postcards are available on the noticeboard inside Bertone’s Autoservice. Collect them before searching: they enable the associated hidden-garage interactions. Each clue corresponds to a distinct hidden car. Enter each discovered vehicle and check the Free Ride garage afterward. Some entrances require clearing crates or dealing with a defender, so bring suitable equipment from the bar’s armory. These cars are separate from ordinary street models.",
+            "pt": "Depois da campanha, os cinco cartões-postais ficam disponíveis no quadro da Bertone’s Autoservice. Pegue-os antes de procurar: eles habilitam as interações nas garagens escondidas correspondentes. Cada pista corresponde a um carro escondido diferente. Entre em cada veículo descoberto e confira depois a garagem de Free Ride. Algumas entradas exigem remover caixas ou enfrentar um defensor; leve equipamento adequado do arsenal do bar. Esses carros são separados dos modelos comuns das ruas."
+          }
+        },
+        {
+          "key": "hidden-car-trautenberg-sport",
+          "title": "Find the Trautenberg Sport",
+          "title_i18n": {
+            "en": "Find the Trautenberg Sport",
+            "pt": "Encontrar o Trautenberg Sport"
+          },
+          "description": "Use its postcard clue to locate the hidden vehicle and add it to the garage.",
+          "description_i18n": {
+            "en": "Use its postcard clue to locate the hidden vehicle and add it to the garage.",
+            "pt": "Use a pista do cartão-postal para localizar o veículo escondido e adicioná-lo à garagem."
+          },
+          "details": "Collect the corresponding postcard from Bertone first. Bring a firearm from the bar's armory and enter the waterfront warehouse indicated by the clue. Shoot the breakable crates and climb through the stacks to reach the car. To open its exit, operate the three wall switches in order: middle, left, right. Enter the Trautenberg Sport and drive out through the opened door; verify that the model is available in your Free Ride garage.",
+          "details_i18n": {
+            "en": "Collect the corresponding postcard from Bertone first. Bring a firearm from the bar's armory and enter the waterfront warehouse indicated by the clue. Shoot the breakable crates and climb through the stacks to reach the car. To open its exit, operate the three wall switches in order: middle, left, right. Enter the Trautenberg Sport and drive out through the opened door; verify that the model is available in your Free Ride garage.",
+            "pt": "Pegue primeiro o cartão-postal correspondente na oficina de Bertone. Leve uma arma do arsenal do bar e entre no armazém junto à água indicado pela pista. Atire nas caixas quebráveis e atravesse as pilhas para alcançar o carro. Para abrir a saída, acione os três interruptores da parede nesta ordem: meio, esquerda, direita. Entre no Trautenberg Sport e saia pela porta aberta; confira se o modelo está disponível na garagem de Free Ride."
+          }
+        },
+        {
+          "key": "hidden-car-flame-spear",
+          "title": "Find the Flame Spear",
+          "title_i18n": {
+            "en": "Find the Flame Spear",
+            "pt": "Encontrar o Flame Spear"
+          },
+          "description": "Use its postcard clue to locate the hidden vehicle and add it to the garage.",
+          "description_i18n": {
+            "en": "Use its postcard clue to locate the hidden vehicle and add it to the garage.",
+            "pt": "Use a pista do cartão-postal para localizar o veículo escondido e adicioná-lo à garagem."
+          }
+        },
+        {
+          "key": "hidden-car-manta-prototype",
+          "title": "Find the Manta Prototype",
+          "title_i18n": {
+            "en": "Find the Manta Prototype",
+            "pt": "Encontrar o Manta Prototype"
+          },
+          "description": "Use its postcard clue to locate the hidden vehicle and add it to the garage.",
+          "description_i18n": {
+            "en": "Use its postcard clue to locate the hidden vehicle and add it to the garage.",
+            "pt": "Use a pista do cartão-postal para localizar o veículo escondido e adicioná-lo à garagem."
+          }
+        },
+        {
+          "key": "hidden-car-disorder",
+          "title": "Find the Disorder",
+          "title_i18n": {
+            "en": "Find the Disorder",
+            "pt": "Encontrar o Disorder"
+          },
+          "description": "Use its postcard clue to locate the hidden vehicle and add it to the garage.",
+          "description_i18n": {
+            "en": "Use its postcard clue to locate the hidden vehicle and add it to the garage.",
+            "pt": "Use a pista do cartão-postal para localizar o veículo escondido e adicioná-lo à garagem."
+          }
+        },
+        {
+          "key": "hidden-car-lassiter-v16-appolyon",
+          "title": "Find the Lassiter V16 Appolyon",
+          "title_i18n": {
+            "en": "Find the Lassiter V16 Appolyon",
+            "pt": "Encontrar o Lassiter V16 Appolyon"
+          },
+          "description": "Use its postcard clue to locate the hidden vehicle and add it to the garage.",
+          "description_i18n": {
+            "en": "Use its postcard clue to locate the hidden vehicle and add it to the garage.",
+            "pt": "Use a pista do cartão-postal para localizar o veículo escondido e adicioná-lo à garagem."
+          }
+        },
+        {
+          "key": "garage-fifteen-vehicles",
+          "title": "Quite the Collection: fifteen garage vehicles",
+          "title_i18n": {
+            "en": "Quite the Collection: fifteen garage vehicles",
+            "pt": "Quite the Collection: quinze veículos na garagem"
+          },
+          "description": "Register fifteen distinct vehicles in the selectable Free Ride garage.",
+          "description_i18n": {
+            "en": "Register fifteen distinct vehicles in the selectable Free Ride garage.",
+            "pt": "Registre quinze veículos diferentes na garagem selecionável de Free Ride."
+          }
+        },
+        {
+          "key": "garage-thirty-vehicles",
+          "title": "Motor Museum: thirty garage vehicles",
+          "title_i18n": {
+            "en": "Motor Museum: thirty garage vehicles",
+            "pt": "Motor Museum: trinta veículos na garagem"
+          },
+          "description": "Register thirty distinct vehicles in the selectable Free Ride garage.",
+          "description_i18n": {
+            "en": "Register thirty distinct vehicles in the selectable Free Ride garage.",
+            "pt": "Registre trinta veículos diferentes na garagem selecionável de Free Ride."
+          },
+          "details": "Motor Museum counts models actually added to the selectable garage, not every Carcyclopedia entry. Enter new models to register them and check the garage at Salieri’s Bar. Combine story vehicles, street models, the five postcard cars and selected phone-mission vehicle rewards to reach thirty. You need not own another Mafia game or buy optional cross-game reward content. Discovering one hidden car is a separate milestone, not a substitute for thirty distinct garage vehicles.",
+          "details_i18n": {
+            "en": "Motor Museum counts models actually added to the selectable garage, not every Carcyclopedia entry. Enter new models to register them and check the garage at Salieri’s Bar. Combine story vehicles, street models, the five postcard cars and selected phone-mission vehicle rewards to reach thirty. You need not own another Mafia game or buy optional cross-game reward content. Discovering one hidden car is a separate milestone, not a substitute for thirty distinct garage vehicles.",
+            "pt": "Motor Museum conta modelos adicionados à garagem selecionável, não cada entrada da Carcyclopedia. Entre em novos modelos para registrá-los e confira a garagem no bar de Salieri. Combine veículos da história, modelos das ruas, os cinco carros dos cartões-postais e recompensas de trabalhos telefônicos para chegar a trinta. Não é preciso ter outro Mafia nem comprar recompensas opcionais entre jogos. Descobrir um carro escondido é outro marco, não substitui trinta veículos diferentes na garagem."
+          }
+        }
+      ],
+      "title": "Optional hidden cars and garage collection",
+      "title_i18n": {
+        "en": "Optional hidden cars and garage collection",
+        "pt": "Carros escondidos e coleção da garagem opcionais"
+      }
+    },
+    {
+      "key": "aggregate-publications-cards-and-foxes",
+      "kind": "collectible",
+      "items": [
+        {
+          "key": "collect-all-dime-detective",
+          "title": "Collect all 20 Dime Detective",
+          "title_i18n": {
+            "en": "Collect all 20 Dime Detective",
+            "pt": "Coletar as 20 revistas Dime Detective"
+          },
+          "description": "Track the remaining entries of this set in the Collection menu.",
+          "description_i18n": {
+            "en": "Track the remaining entries of this set in the Collection menu.",
+            "pt": "Acompanhe as entradas restantes deste conjunto no menu Coleção."
+          }
+        },
+        {
+          "key": "collect-all-black-mask",
+          "title": "Collect all 20 Black Mask",
+          "title_i18n": {
+            "en": "Collect all 20 Black Mask",
+            "pt": "Coletar as 20 revistas Black Mask"
+          },
+          "description": "Track the remaining entries of this set in the Collection menu.",
+          "description_i18n": {
+            "en": "Track the remaining entries of this set in the Collection menu.",
+            "pt": "Acompanhe as entradas restantes deste conjunto no menu Coleção."
+          }
+        },
+        {
+          "key": "collect-all-super-science",
+          "title": "Collect all 20 Super Science Stories",
+          "title_i18n": {
+            "en": "Collect all 20 Super Science Stories",
+            "pt": "Coletar as 20 revistas Super Science Stories"
+          },
+          "description": "Track the remaining entries of this set in the Collection menu.",
+          "description_i18n": {
+            "en": "Track the remaining entries of this set in the Collection menu.",
+            "pt": "Acompanhe as entradas restantes deste conjunto no menu Coleção."
+          }
+        },
+        {
+          "key": "collect-all-terror-tales",
+          "title": "Collect all 20 Terror Tales",
+          "title_i18n": {
+            "en": "Collect all 20 Terror Tales",
+            "pt": "Coletar as 20 revistas Terror Tales"
+          },
+          "description": "Track the remaining entries of this set in the Collection menu.",
+          "description_i18n": {
+            "en": "Track the remaining entries of this set in the Collection menu.",
+            "pt": "Acompanhe as entradas restantes deste conjunto no menu Coleção."
+          }
+        },
+        {
+          "key": "collect-all-gangsters-monthly",
+          "title": "Collect all 10 Gangsters Monthly",
+          "title_i18n": {
+            "en": "Collect all 10 Gangsters Monthly",
+            "pt": "Coletar os 10 quadrinhos Gangsters Monthly"
+          },
+          "description": "Track the remaining entries of this set in the Collection menu.",
+          "description_i18n": {
+            "en": "Track the remaining entries of this set in the Collection menu.",
+            "pt": "Acompanhe as entradas restantes deste conjunto no menu Coleção."
+          }
+        },
+        {
+          "key": "collect-all-cigarette-cards",
+          "title": "Collect all 22 Gangsters of the United States cigarette cards",
+          "title_i18n": {
+            "en": "Collect all 22 Gangsters of the United States cigarette cards",
+            "pt": "Coletar os 22 cartões de cigarro Gangsters of the United States"
+          },
+          "description": "Track the remaining entries of this set in the Collection menu.",
+          "description_i18n": {
+            "en": "Track the remaining entries of this set in the Collection menu.",
+            "pt": "Acompanhe as entradas restantes deste conjunto no menu Coleção."
+          }
+        },
+        {
+          "key": "collect-all-mystery-foxes",
+          "title": "Collect all 50 Mystery Foxes",
+          "title_i18n": {
+            "en": "Collect all 50 Mystery Foxes",
+            "pt": "Coletar as 50 raposas misteriosas (Mystery Foxes)"
+          },
+          "description": "Track the remaining entries of this set in the Collection menu.",
+          "description_i18n": {
+            "en": "Track the remaining entries of this set in the Collection menu.",
+            "pt": "Acompanhe as entradas restantes deste conjunto no menu Coleção."
+          }
+        },
+        {
+          "key": "verify-complete-collection",
+          "title": "The Whole Story: complete the Collection",
+          "title_i18n": {
+            "en": "The Whole Story: complete the Collection",
+            "pt": "The Whole Story: concluir Collection"
+          },
+          "description": "Finish the publication, card, postcard and hidden-car sets; foxes have their own separate trophy.",
+          "description_i18n": {
+            "en": "Finish the publication, card, postcard and hidden-car sets; foxes have their own separate trophy.",
+            "pt": "Termine os conjuntos de publicações, cartões, cartões-postais e carros escondidos; as raposas têm um troféu separado."
+          },
+          "details": "The combined scope is 172: eighty pulp magazines across four series, ten Gangsters Monthly comics, twenty-two cigarette cards, five postcards, five hidden cars and fifty Mystery Foxes. The Whole Story covers the 122 non-fox entries; Mystery Fox Domination separately covers fifty foxes. Use Collection numbers to identify gaps. Some items appear only inside story chapters, so recover those with Chapter Select; Free Ride alone cannot supply every entry. These aggregate goals do not enumerate all 172 locations.",
+          "details_i18n": {
+            "en": "The combined scope is 172: eighty pulp magazines across four series, ten Gangsters Monthly comics, twenty-two cigarette cards, five postcards, five hidden cars and fifty Mystery Foxes. The Whole Story covers the 122 non-fox entries; Mystery Fox Domination separately covers fifty foxes. Use Collection numbers to identify gaps. Some items appear only inside story chapters, so recover those with Chapter Select; Free Ride alone cannot supply every entry. These aggregate goals do not enumerate all 172 locations.",
+            "pt": "O escopo combinado soma 172: oitenta revistas pulp de quatro séries, dez quadrinhos Gangsters Monthly, vinte e dois cartões de cigarro, cinco cartões-postais, cinco carros escondidos e cinquenta Mystery Foxes. The Whole Story cobre as 122 entradas sem raposas; Mystery Fox Domination trata separadamente das cinquenta raposas. Use os números de Collection para localizar lacunas. Alguns itens aparecem apenas em capítulos da história; recupere-os pelo Chapter Select, pois Free Ride sozinho não fornece todas as entradas. Estes objetivos agregados não enumeram os 172 locais."
+          }
+        }
+      ],
+      "title": "Aggregate publications, cards and foxes",
+      "title_i18n": {
+        "en": "Aggregate publications, cards and foxes",
+        "pt": "Coleções agregadas de publicações, cartões e raposas"
+      }
+    }
+  ],
+  "trophies": [
+    {
+      "key": "trophy-the-original-gangster",
+      "tier": "platinum",
+      "title": "The Original Gangster",
+      "title_i18n": {
+        "en": "The Original Gangster",
+        "pt": "The Original Gangster"
+      },
+      "description": "Earn all forty-three other native Mafia: Definitive Edition trophies.",
+      "description_i18n": {
+        "en": "Earn all forty-three other native Mafia: Definitive Edition trophies.",
+        "pt": "Obtenha os outros quarenta e três troféus nativos de Mafia: Definitive Edition."
+      }
+    },
+    {
+      "key": "trophy-a-chase-through-the-night",
+      "tier": "bronze",
+      "title": "A Chase through the Night",
+      "title_i18n": {
+        "en": "A Chase through the Night",
+        "pt": "A Chase through the Night"
+      },
+      "description": "Finish the chapter An Offer You Can't Refuse.",
+      "description_i18n": {
+        "en": "Finish the chapter An Offer You Can't Refuse.",
+        "pt": "Conclua o capítulo An Offer You Can't Refuse."
+      }
+    },
+    {
+      "key": "trophy-the-back-streets-of-little-italy",
+      "tier": "bronze",
+      "title": "The Back Streets of Little Italy",
+      "title_i18n": {
+        "en": "The Back Streets of Little Italy",
+        "pt": "The Back Streets of Little Italy"
+      },
+      "description": "Finish the chapter Running Man.",
+      "description_i18n": {
+        "en": "Finish the chapter Running Man.",
+        "pt": "Conclua o capítulo Running Man."
+      }
+    },
+    {
+      "key": "trophy-the-way-this-city-works",
+      "tier": "bronze",
+      "title": "The Way this City Works",
+      "title_i18n": {
+        "en": "The Way this City Works",
+        "pt": "The Way this City Works"
+      },
+      "description": "Finish the chapter Molotov Party.",
+      "description_i18n": {
+        "en": "Finish the chapter Molotov Party.",
+        "pt": "Conclua o capítulo Molotov Party."
+      }
+    },
+    {
+      "key": "trophy-gangs-of-lost-heaven",
+      "tier": "bronze",
+      "title": "Gangs of Lost Heaven",
+      "title_i18n": {
+        "en": "Gangs of Lost Heaven",
+        "pt": "Gangs of Lost Heaven"
+      },
+      "description": "Finish the chapter Ordinary Routine.",
+      "description_i18n": {
+        "en": "Finish the chapter Ordinary Routine.",
+        "pt": "Conclua o capítulo Ordinary Routine."
+      }
+    },
+    {
+      "key": "trophy-neighborhood-hero",
+      "tier": "bronze",
+      "title": "Neighborhood Hero",
+      "title_i18n": {
+        "en": "Neighborhood Hero",
+        "pt": "Neighborhood Hero"
+      },
+      "description": "Finish the chapter Fair Play.",
+      "description_i18n": {
+        "en": "Finish the chapter Fair Play.",
+        "pt": "Conclua o capítulo Fair Play."
+      }
+    },
+    {
+      "key": "trophy-good-night-for-a-walk-anyways",
+      "tier": "bronze",
+      "title": "Good Night for a Walk Anyways",
+      "title_i18n": {
+        "en": "Good Night for a Walk Anyways",
+        "pt": "Good Night for a Walk Anyways"
+      },
+      "description": "Finish the chapter Sarah.",
+      "description_i18n": {
+        "en": "Finish the chapter Sarah.",
+        "pt": "Conclua o capítulo Sarah."
+      }
+    },
+    {
+      "key": "trophy-storm-cloud-over-chinatown",
+      "tier": "bronze",
+      "title": "Storm Cloud over Chinatown",
+      "title_i18n": {
+        "en": "Storm Cloud over Chinatown",
+        "pt": "Storm Cloud over Chinatown"
+      },
+      "description": "Finish the chapter Better Get Used to It.",
+      "description_i18n": {
+        "en": "Finish the chapter Better Get Used to It.",
+        "pt": "Conclua o capítulo Better Get Used to It."
+      }
+    },
+    {
+      "key": "trophy-murder-in-the-house-of-god",
+      "tier": "bronze",
+      "title": "Murder in the House of God",
+      "title_i18n": {
+        "en": "Murder in the House of God",
+        "pt": "Murder in the House of God"
+      },
+      "description": "Finish the chapter The Saint and the Sinner.",
+      "description_i18n": {
+        "en": "Finish the chapter The Saint and the Sinner.",
+        "pt": "Conclua o capítulo The Saint and the Sinner."
+      }
+    },
+    {
+      "key": "trophy-your-canuck-cousins",
+      "tier": "bronze",
+      "title": "Your Canuck Cousins",
+      "title_i18n": {
+        "en": "Your Canuck Cousins",
+        "pt": "Your Canuck Cousins"
+      },
+      "description": "Finish the chapter A Trip to the Country.",
+      "description_i18n": {
+        "en": "Finish the chapter A Trip to the Country.",
+        "pt": "Conclua o capítulo A Trip to the Country."
+      }
+    },
+    {
+      "key": "trophy-rat-in-the-house",
+      "tier": "bronze",
+      "title": "Rat in the House",
+      "title_i18n": {
+        "en": "Rat in the House",
+        "pt": "Rat in the House"
+      },
+      "description": "Finish the chapter Omerta.",
+      "description_i18n": {
+        "en": "Finish the chapter Omerta.",
+        "pt": "Conclua o capítulo Omerta."
+      }
+    },
+    {
+      "key": "trophy-blood-on-beech-hill",
+      "tier": "bronze",
+      "title": "Blood on Beech Hill",
+      "title_i18n": {
+        "en": "Blood on Beech Hill",
+        "pt": "Blood on Beech Hill"
+      },
+      "description": "Finish the chapter Visiting Rich People.",
+      "description_i18n": {
+        "en": "Finish the chapter Visiting Rich People.",
+        "pt": "Conclua o capítulo Visiting Rich People."
+      }
+    },
+    {
+      "key": "trophy-best-laid-plans",
+      "tier": "bronze",
+      "title": "Best Laid Plans",
+      "title_i18n": {
+        "en": "Best Laid Plans",
+        "pt": "Best Laid Plans"
+      },
+      "description": "Finish the chapter Great Deal.",
+      "description_i18n": {
+        "en": "Finish the chapter Great Deal.",
+        "pt": "Conclua o capítulo Great Deal."
+      }
+    },
+    {
+      "key": "trophy-the-day-the-war-began",
+      "tier": "bronze",
+      "title": "The Day the War Began",
+      "title_i18n": {
+        "en": "The Day the War Began",
+        "pt": "The Day the War Began"
+      },
+      "description": "Finish the chapter Bon Appétit.",
+      "description_i18n": {
+        "en": "Finish the chapter Bon Appétit.",
+        "pt": "Conclua o capítulo Bon Appétit."
+      }
+    },
+    {
+      "key": "trophy-death-on-the-water",
+      "tier": "bronze",
+      "title": "Death on the Water",
+      "title_i18n": {
+        "en": "Death on the Water",
+        "pt": "Death on the Water"
+      },
+      "description": "Finish the chapter Happy Birthday.",
+      "description_i18n": {
+        "en": "Finish the chapter Happy Birthday.",
+        "pt": "Conclua o capítulo Happy Birthday."
+      }
+    },
+    {
+      "key": "trophy-when-god-stops-smiling",
+      "tier": "bronze",
+      "title": "When God Stops Smiling",
+      "title_i18n": {
+        "en": "When God Stops Smiling",
+        "pt": "When God Stops Smiling"
+      },
+      "description": "Finish the chapter You Lucky Bastard.",
+      "description_i18n": {
+        "en": "Finish the chapter You Lucky Bastard.",
+        "pt": "Conclua o capítulo You Lucky Bastard."
+      }
+    },
+    {
+      "key": "trophy-the-day-the-war-ended",
+      "tier": "bronze",
+      "title": "The Day the War Ended",
+      "title_i18n": {
+        "en": "The Day the War Ended",
+        "pt": "The Day the War Ended"
+      },
+      "description": "Finish the chapter Crème de la Crème.",
+      "description_i18n": {
+        "en": "Finish the chapter Crème de la Crème.",
+        "pt": "Conclua o capítulo Crème de la Crème."
+      }
+    },
+    {
+      "key": "trophy-a-view-from-the-top",
+      "tier": "bronze",
+      "title": "A View from the Top",
+      "title_i18n": {
+        "en": "A View from the Top",
+        "pt": "A View from the Top"
+      },
+      "description": "Finish the chapter Election Campaign.",
+      "description_i18n": {
+        "en": "Finish the chapter Election Campaign.",
+        "pt": "Conclua o capítulo Election Campaign."
+      }
+    },
+    {
+      "key": "trophy-into-the-lion-s-den",
+      "tier": "bronze",
+      "title": "Into the Lion's Den",
+      "title_i18n": {
+        "en": "Into the Lion's Den",
+        "pt": "Into the Lion's Den"
+      },
+      "description": "Finish the chapter Just For Relaxation.",
+      "description_i18n": {
+        "en": "Finish the chapter Just For Relaxation.",
+        "pt": "Conclua o capítulo Just For Relaxation."
+      }
+    },
+    {
+      "key": "trophy-that-last-big-score",
+      "tier": "bronze",
+      "title": "That Last Big Score",
+      "title_i18n": {
+        "en": "That Last Big Score",
+        "pt": "That Last Big Score"
+      },
+      "description": "Finish the chapter Moonlighting.",
+      "description_i18n": {
+        "en": "Finish the chapter Moonlighting.",
+        "pt": "Conclua o capítulo Moonlighting."
+      }
+    },
+    {
+      "key": "trophy-friends-and-family",
+      "tier": "bronze",
+      "title": "Friends and Family",
+      "title_i18n": {
+        "en": "Friends and Family",
+        "pt": "Friends and Family"
+      },
+      "description": "Finish the chapter The Death of Art.",
+      "description_i18n": {
+        "en": "Finish the chapter The Death of Art.",
+        "pt": "Conclua o capítulo The Death of Art."
+      }
+    },
+    {
+      "key": "trophy-a-life-of-crime",
+      "tier": "gold",
+      "title": "A Life of Crime",
+      "title_i18n": {
+        "en": "A Life of Crime",
+        "pt": "A Life of Crime"
+      },
+      "description": "Finish the campaign; a Classic clear also satisfies this completion trophy.",
+      "description_i18n": {
+        "en": "Finish the campaign; a Classic clear also satisfies this completion trophy.",
+        "pt": "Conclua a campanha; terminar em Classic também satisfaz este troféu de conclusão."
+      }
+    },
+    {
+      "key": "trophy-made-man",
+      "tier": "gold",
+      "title": "Made Man",
+      "title_i18n": {
+        "en": "Made Man",
+        "pt": "Made Man"
+      },
+      "description": "Start a new campaign on Classic and finish it without lowering the difficulty.",
+      "description_i18n": {
+        "en": "Start a new campaign on Classic and finish it without lowering the difficulty.",
+        "pt": "Inicie uma nova campanha em Classic e termine sem reduzir a dificuldade."
+      }
+    },
+    {
+      "key": "trophy-supercharged",
+      "tier": "silver",
+      "title": "Supercharged",
+      "title_i18n": {
+        "en": "Supercharged",
+        "pt": "Supercharged"
+      },
+      "description": "Win the Fair Play race.",
+      "description_i18n": {
+        "en": "Win the Fair Play race.",
+        "pt": "Vença a corrida de Fair Play."
+      }
+    },
+    {
+      "key": "trophy-lined-pockets",
+      "tier": "bronze",
+      "title": "Lined Pockets",
+      "title_i18n": {
+        "en": "Lined Pockets",
+        "pt": "Lined Pockets"
+      },
+      "description": "Pay a police fine.",
+      "description_i18n": {
+        "en": "Pay a police fine.",
+        "pt": "Pague uma multa policial."
+      }
+    },
+    {
+      "key": "trophy-not-taken-in",
+      "tier": "bronze",
+      "title": "Not Taken In",
+      "title_i18n": {
+        "en": "Not Taken In",
+        "pt": "Not Taken In"
+      },
+      "description": "Use the interaction that resists an attempted arrest.",
+      "description_i18n": {
+        "en": "Use the interaction that resists an attempted arrest.",
+        "pt": "Use a interação que resiste a uma tentativa de prisão."
+      }
+    },
+    {
+      "key": "trophy-heat-from-the-cops",
+      "tier": "bronze",
+      "title": "Heat from the Cops",
+      "title_i18n": {
+        "en": "Heat from the Cops",
+        "pt": "Heat from the Cops"
+      },
+      "description": "Escape completely from a five-star police pursuit.",
+      "description_i18n": {
+        "en": "Escape completely from a five-star police pursuit.",
+        "pt": "Escape completamente de uma perseguição policial de cinco estrelas."
+      }
+    },
+    {
+      "key": "trophy-car-enthusiast",
+      "tier": "bronze",
+      "title": "Car Enthusiast",
+      "title_i18n": {
+        "en": "Car Enthusiast",
+        "pt": "Car Enthusiast"
+      },
+      "description": "Lockpick five cars.",
+      "description_i18n": {
+        "en": "Lockpick five cars.",
+        "pt": "Arrombe cinco carros."
+      }
+    },
+    {
+      "key": "trophy-that-motor-can-move",
+      "tier": "bronze",
+      "title": "That Motor can Move",
+      "title_i18n": {
+        "en": "That Motor can Move",
+        "pt": "That Motor can Move"
+      },
+      "description": "Drive the Bolt Ace at fifty miles per hour.",
+      "description_i18n": {
+        "en": "Drive the Bolt Ace at fifty miles per hour.",
+        "pt": "Dirija o Bolt Ace a cinquenta milhas por hora."
+      }
+    },
+    {
+      "key": "trophy-stunt-rider",
+      "tier": "bronze",
+      "title": "Stunt Rider",
+      "title_i18n": {
+        "en": "Stunt Rider",
+        "pt": "Stunt Rider"
+      },
+      "description": "Keep a motorcycle wheelie going for three seconds.",
+      "description_i18n": {
+        "en": "Keep a motorcycle wheelie going for three seconds.",
+        "pt": "Mantenha uma moto empinada por três segundos."
+      }
+    },
+    {
+      "key": "trophy-quite-the-collection",
+      "tier": "bronze",
+      "title": "Quite the Collection",
+      "title_i18n": {
+        "en": "Quite the Collection",
+        "pt": "Quite the Collection"
+      },
+      "description": "Add fifteen distinct vehicles to the garage.",
+      "description_i18n": {
+        "en": "Add fifteen distinct vehicles to the garage.",
+        "pt": "Adicione quinze veículos diferentes à garagem."
+      }
+    },
+    {
+      "key": "trophy-motor-museum",
+      "tier": "silver",
+      "title": "Motor Museum",
+      "title_i18n": {
+        "en": "Motor Museum",
+        "pt": "Motor Museum"
+      },
+      "description": "Add thirty distinct vehicles to the garage.",
+      "description_i18n": {
+        "en": "Add thirty distinct vehicles to the garage.",
+        "pt": "Adicione trinta veículos diferentes à garagem."
+      }
+    },
+    {
+      "key": "trophy-pulp-fiction",
+      "tier": "bronze",
+      "title": "Pulp Fiction",
+      "title_i18n": {
+        "en": "Pulp Fiction",
+        "pt": "Pulp Fiction"
+      },
+      "description": "Collect the first pulp magazine.",
+      "description_i18n": {
+        "en": "Collect the first pulp magazine.",
+        "pt": "Colete a primeira revista pulp."
+      }
+    },
+    {
+      "key": "trophy-lending-library",
+      "tier": "silver",
+      "title": "Lending Library",
+      "title_i18n": {
+        "en": "Lending Library",
+        "pt": "Lending Library"
+      },
+      "description": "Collect all eighty pulp magazines across the four series.",
+      "description_i18n": {
+        "en": "Collect all eighty pulp magazines across the four series.",
+        "pt": "Colete as oitenta revistas pulp das quatro séries."
+      }
+    },
+    {
+      "key": "trophy-comic-violence",
+      "tier": "bronze",
+      "title": "Comic Violence",
+      "title_i18n": {
+        "en": "Comic Violence",
+        "pt": "Comic Violence"
+      },
+      "description": "Collect one Gangsters Monthly comic.",
+      "description_i18n": {
+        "en": "Collect one Gangsters Monthly comic.",
+        "pt": "Colete um quadrinho Gangsters Monthly."
+      }
+    },
+    {
+      "key": "trophy-picture-book-connoisseur",
+      "tier": "silver",
+      "title": "Picture Book Connoisseur",
+      "title_i18n": {
+        "en": "Picture Book Connoisseur",
+        "pt": "Picture Book Connoisseur"
+      },
+      "description": "Collect all ten Gangsters Monthly comics.",
+      "description_i18n": {
+        "en": "Collect all ten Gangsters Monthly comics.",
+        "pt": "Colete os dez quadrinhos Gangsters Monthly."
+      }
+    },
+    {
+      "key": "trophy-family-history",
+      "tier": "bronze",
+      "title": "Family History",
+      "title_i18n": {
+        "en": "Family History",
+        "pt": "Family History"
+      },
+      "description": "Collect one Gangsters of the United States cigarette card.",
+      "description_i18n": {
+        "en": "Collect one Gangsters of the United States cigarette card.",
+        "pt": "Colete um cartão de cigarro Gangsters of the United States."
+      }
+    },
+    {
+      "key": "trophy-full-set",
+      "tier": "silver",
+      "title": "Full Set",
+      "title_i18n": {
+        "en": "Full Set",
+        "pt": "Full Set"
+      },
+      "description": "Collect all twenty-two cigarette cards.",
+      "description_i18n": {
+        "en": "Collect all twenty-two cigarette cards.",
+        "pt": "Colete os vinte e dois cartões de cigarro."
+      }
+    },
+    {
+      "key": "trophy-on-the-trail",
+      "tier": "bronze",
+      "title": "On the Trail",
+      "title_i18n": {
+        "en": "On the Trail",
+        "pt": "On the Trail"
+      },
+      "description": "Discover one postcard-linked hidden car.",
+      "description_i18n": {
+        "en": "Discover one postcard-linked hidden car.",
+        "pt": "Descubra um carro escondido ligado a um cartão-postal."
+      }
+    },
+    {
+      "key": "trophy-car-thief-number-one",
+      "tier": "silver",
+      "title": "Car Thief Number One",
+      "title_i18n": {
+        "en": "Car Thief Number One",
+        "pt": "Car Thief Number One"
+      },
+      "description": "Discover all five postcard-linked hidden cars.",
+      "description_i18n": {
+        "en": "Discover all five postcard-linked hidden cars.",
+        "pt": "Descubra os cinco carros escondidos ligados aos cartões-postais."
+      }
+    },
+    {
+      "key": "trophy-mystery-fox-discovered",
+      "tier": "bronze",
+      "title": "Mystery Fox Discovered",
+      "title_i18n": {
+        "en": "Mystery Fox Discovered",
+        "pt": "Mystery Fox Discovered"
+      },
+      "description": "Find one Mystery Fox collectible.",
+      "description_i18n": {
+        "en": "Find one Mystery Fox collectible.",
+        "pt": "Encontre um colecionável Mystery Fox."
+      }
+    },
+    {
+      "key": "trophy-mystery-fox-domination",
+      "tier": "silver",
+      "title": "Mystery Fox Domination",
+      "title_i18n": {
+        "en": "Mystery Fox Domination",
+        "pt": "Mystery Fox Domination"
+      },
+      "description": "Find all fifty Mystery Fox collectibles.",
+      "description_i18n": {
+        "en": "Find all fifty Mystery Fox collectibles.",
+        "pt": "Encontre os cinquenta colecionáveis Mystery Fox."
+      }
+    },
+    {
+      "key": "trophy-the-whole-story",
+      "tier": "gold",
+      "title": "The Whole Story",
+      "title_i18n": {
+        "en": "The Whole Story",
+        "pt": "The Whole Story"
+      },
+      "description": "Complete the Collection’s publications, cards, postcards and hidden cars.",
+      "description_i18n": {
+        "en": "Complete the Collection’s publications, cards, postcards and hidden cars.",
+        "pt": "Conclua as publicações, cartões, cartões-postais e carros escondidos de Collection."
+      }
+    },
+    {
+      "key": "trophy-not-classy",
+      "tier": "bronze",
+      "title": "Not Classy",
+      "title_i18n": {
+        "en": "Not Classy",
+        "pt": "Not Classy"
+      },
+      "description": "Take Paulie on the optional Blue Tropics detour after the Fair Play race.",
+      "description_i18n": {
+        "en": "Take Paulie on the optional Blue Tropics detour after the Fair Play race.",
+        "pt": "Leve Paulie ao desvio opcional do Blue Tropics depois da corrida de Fair Play."
+      }
+    }
+  ],
+  "hltb_id": "78135",
+  "hltb_main_hours": 11,
+  "hltb_main_extra_hours": 13,
+  "hltb_completionist_hours": 25
+}

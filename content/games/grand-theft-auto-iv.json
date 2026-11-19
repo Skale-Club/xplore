@@ -1,0 +1,2886 @@
+{
+  "slug": "grand-theft-auto-iv",
+  "title": "Grand Theft Auto IV",
+  "title_i18n": {
+    "en": "Grand Theft Auto IV",
+    "pt": "Grand Theft Auto IV"
+  },
+  "platform": "PlayStation 3",
+  "cover_url": "/covers/grand-theft-auto-iv.png",
+  "created_by": "dd5c4bf0-85ea-4986-9c04-b37e8c986150",
+  "categories": [
+    {
+      "key": "broker-roman-and-vlad",
+      "title": "Broker: Roman and Vlad",
+      "title_i18n": {
+        "en": "Broker: Roman and Vlad",
+        "pt": "Broker: Roman e Vlad"
+      },
+      "items": [
+        {
+          "key": "the-cousins-bellic",
+          "title": "Complete The Cousins Bellic",
+          "title_i18n": {
+            "en": "Complete The Cousins Bellic",
+            "pt": "Conclua The Cousins Bellic"
+          },
+          "description": "Drive Roman home and establish the first safehouse.",
+          "description_i18n": {
+            "en": "Drive Roman home and establish the first safehouse.",
+            "pt": "Leve Roman para casa e estabeleça o primeiro esconderijo."
+          },
+          "details": "If you want Liberty City Minute, use a dedicated save and finish the story before its played-time counter reaches thirty hours. Leave lengthy collectible and friendship cleanup for afterward or another save; native 100% itself has no thirty-hour limit. Check the statistic periodically and pause rather than leaving the game running. Original PS3 discs need the trophy-enabling game update before beginning a trophy run; old pre-update progress is not a substitute for earning trophies on a compatible run.",
+          "details_i18n": {
+            "en": "If you want Liberty City Minute, use a dedicated save and finish the story before its played-time counter reaches thirty hours. Leave lengthy collectible and friendship cleanup for afterward or another save; native 100% itself has no thirty-hour limit. Check the statistic periodically and pause rather than leaving the game running. Original PS3 discs need the trophy-enabling game update before beginning a trophy run; old pre-update progress is not a substitute for earning trophies on a compatible run.",
+            "pt": "Se quiser Liberty City Minute, use um salvamento dedicado e termine a história antes de o contador de tempo jogado chegar a trinta horas. Deixe a busca demorada de colecionáveis e a limpeza de amizades para depois ou outro salvamento; os 100% nativos não têm limite de trinta horas. Confira a estatística periodicamente e pause em vez de deixar o jogo rodando. Discos originais de PS3 precisam da atualização que habilita troféus antes da tentativa; progresso antigo anterior à atualização não substitui obter troféus em uma partida compatível."
+          }
+        },
+        {
+          "key": "it-s-your-call",
+          "title": "Complete It's Your Call",
+          "title_i18n": {
+            "en": "Complete It's Your Call",
+            "pt": "Conclua It's Your Call"
+          },
+          "description": "Watch the meeting and warn Roman when the situation changes.",
+          "description_i18n": {
+            "en": "Watch the meeting and warn Roman when the situation changes.",
+            "pt": "Observe o encontro e avise Roman quando a situação mudar."
+          }
+        },
+        {
+          "key": "three-s-a-crowd",
+          "title": "Complete Three's a Crowd",
+          "title_i18n": {
+            "en": "Complete Three's a Crowd",
+            "pt": "Conclua Three's a Crowd"
+          },
+          "description": "Collect the passengers and complete the requested stops.",
+          "description_i18n": {
+            "en": "Collect the passengers and complete the requested stops.",
+            "pt": "Busque as passageiras e conclua as paradas solicitadas."
+          }
+        },
+        {
+          "key": "first-date",
+          "title": "Complete First Date",
+          "title_i18n": {
+            "en": "Complete First Date",
+            "pt": "Conclua First Date"
+          },
+          "description": "Meet Michelle and finish the outing.",
+          "description_i18n": {
+            "en": "Meet Michelle and finish the outing.",
+            "pt": "Encontre Michelle e conclua o passeio."
+          }
+        },
+        {
+          "key": "bleed-out",
+          "title": "Complete Bleed Out",
+          "title_i18n": {
+            "en": "Complete Bleed Out",
+            "pt": "Conclua Bleed Out"
+          },
+          "description": "Respond to Roman's emergency and complete the pursuit.",
+          "description_i18n": {
+            "en": "Respond to Roman's emergency and complete the pursuit.",
+            "pt": "Atenda à emergência de Roman e conclua a perseguição."
+          }
+        },
+        {
+          "key": "easy-fare",
+          "title": "Complete Easy Fare",
+          "title_i18n": {
+            "en": "Complete Easy Fare",
+            "pt": "Conclua Easy Fare"
+          },
+          "description": "Transport Roman's customer and complete the escape.",
+          "description_i18n": {
+            "en": "Transport Roman's customer and complete the escape.",
+            "pt": "Transporte o cliente de Roman e conclua a fuga."
+          }
+        },
+        {
+          "key": "jamaican-heat",
+          "title": "Complete Jamaican Heat",
+          "title_i18n": {
+            "en": "Complete Jamaican Heat",
+            "pt": "Conclua Jamaican Heat"
+          },
+          "description": "Support Little Jacob's meeting and return him safely.",
+          "description_i18n": {
+            "en": "Support Little Jacob's meeting and return him safely.",
+            "pt": "Apoie o encontro de Little Jacob e leve-o de volta em segurança."
+          }
+        },
+        {
+          "key": "bull-in-a-china-shop",
+          "title": "Complete Bull in a China Shop",
+          "title_i18n": {
+            "en": "Complete Bull in a China Shop",
+            "pt": "Conclua Bull in a China Shop"
+          },
+          "description": "Collect the payment while following Vlad's conditions.",
+          "description_i18n": {
+            "en": "Collect the payment while following Vlad's conditions.",
+            "pt": "Recolha o pagamento seguindo as condições de Vlad."
+          }
+        },
+        {
+          "key": "hung-out-to-dry",
+          "title": "Complete Hung Out to Dry",
+          "title_i18n": {
+            "en": "Complete Hung Out to Dry",
+            "pt": "Conclua Hung Out to Dry"
+          },
+          "description": "Stop the fleeing vehicle and finish the collection.",
+          "description_i18n": {
+            "en": "Stop the fleeing vehicle and finish the collection.",
+            "pt": "Detenha o veículo em fuga e conclua a cobrança."
+          }
+        },
+        {
+          "key": "clean-getaway",
+          "title": "Complete Clean Getaway",
+          "title_i18n": {
+            "en": "Complete Clean Getaway",
+            "pt": "Conclua Clean Getaway"
+          },
+          "description": "Recover the requested car and complete its delivery.",
+          "description_i18n": {
+            "en": "Recover the requested car and complete its delivery.",
+            "pt": "Recupere o carro solicitado e conclua a entrega."
+          }
+        },
+        {
+          "key": "ivan-the-not-so-terrible",
+          "title": "Complete Ivan the Not So Terrible",
+          "title_i18n": {
+            "en": "Complete Ivan the Not So Terrible",
+            "pt": "Conclua Ivan the Not So Terrible"
+          },
+          "description": "Complete the pursuit and resolve the encounter once.",
+          "description_i18n": {
+            "en": "Complete the pursuit and resolve the encounter once.",
+            "pt": "Conclua a perseguição e resolva o encontro uma vez."
+          }
+        },
+        {
+          "key": "concrete-jungle",
+          "title": "Complete Concrete Jungle",
+          "title_i18n": {
+            "en": "Complete Concrete Jungle",
+            "pt": "Conclua Concrete Jungle"
+          },
+          "description": "Support Jacob through the guarded operation.",
+          "description_i18n": {
+            "en": "Support Jacob through the guarded operation.",
+            "pt": "Apoie Jacob durante a operação vigiada."
+          }
+        },
+        {
+          "key": "uncle-vlad",
+          "title": "Complete Uncle Vlad",
+          "title_i18n": {
+            "en": "Complete Uncle Vlad",
+            "pt": "Conclua Uncle Vlad"
+          },
+          "description": "Follow Roman's information and complete the confrontation.",
+          "description_i18n": {
+            "en": "Follow Roman's information and complete the confrontation.",
+            "pt": "Siga as informações de Roman e conclua o confronto."
+          }
+        }
+      ]
+    },
+    {
+      "key": "faustin-and-dimitri",
+      "title": "Faustin, Dimitri and Broker's aftermath",
+      "title_i18n": {
+        "en": "Faustin, Dimitri and Broker's aftermath",
+        "pt": "Faustin, Dimitri e as consequências em Broker"
+      },
+      "items": [
+        {
+          "key": "crime-and-punishment",
+          "title": "Complete Crime and Punishment",
+          "title_i18n": {
+            "en": "Complete Crime and Punishment",
+            "pt": "Conclua Crime and Punishment"
+          },
+          "description": "Use the mission's interception procedure to locate the cargo.",
+          "description_i18n": {
+            "en": "Use the mission's interception procedure to locate the cargo.",
+            "pt": "Use o procedimento de interceptação da missão para localizar a carga."
+          }
+        },
+        {
+          "key": "do-you-have-protection",
+          "title": "Complete Do You Have Protection?",
+          "title_i18n": {
+            "en": "Complete Do You Have Protection?",
+            "pt": "Conclua Do You Have Protection?"
+          },
+          "description": "Follow Dimitri's instructions through the collection.",
+          "description_i18n": {
+            "en": "Follow Dimitri's instructions through the collection.",
+            "pt": "Siga as instruções de Dimitri durante a cobrança."
+          }
+        },
+        {
+          "key": "shadow",
+          "title": "Complete Shadow",
+          "title_i18n": {
+            "en": "Complete Shadow",
+            "pt": "Conclua Shadow"
+          },
+          "description": "Follow the marked contact discreetly and complete the operation.",
+          "description_i18n": {
+            "en": "Follow the marked contact discreetly and complete the operation.",
+            "pt": "Siga o contato marcado discretamente e conclua a operação."
+          }
+        },
+        {
+          "key": "final-destination",
+          "title": "Complete Final Destination",
+          "title_i18n": {
+            "en": "Complete Final Destination",
+            "pt": "Conclua Final Destination"
+          },
+          "description": "Reach the marked station and finish the pursuit.",
+          "description_i18n": {
+            "en": "Reach the marked station and finish the pursuit.",
+            "pt": "Alcance a estação marcada e conclua a perseguição."
+          }
+        },
+        {
+          "key": "no-love-lost",
+          "title": "Complete No Love Lost",
+          "title_i18n": {
+            "en": "Complete No Love Lost",
+            "pt": "Conclua No Love Lost"
+          },
+          "description": "Complete Faustin's tracking and confrontation assignment.",
+          "description_i18n": {
+            "en": "Complete Faustin's tracking and confrontation assignment.",
+            "pt": "Conclua o trabalho de rastreamento e confronto de Faustin."
+          }
+        },
+        {
+          "key": "logging-on",
+          "title": "Complete Logging On",
+          "title_i18n": {
+            "en": "Complete Logging On",
+            "pt": "Conclua Logging On"
+          },
+          "description": "Visit the internet café and establish the new contact.",
+          "description_i18n": {
+            "en": "Visit the internet café and establish the new contact.",
+            "pt": "Visite o cibercafé e estabeleça o novo contato."
+          }
+        },
+        {
+          "key": "rigged-to-blow",
+          "title": "Complete Rigged to Blow",
+          "title_i18n": {
+            "en": "Complete Rigged to Blow",
+            "pt": "Conclua Rigged to Blow"
+          },
+          "description": "Deliver the special truck carefully and leave the target area.",
+          "description_i18n": {
+            "en": "Deliver the special truck carefully and leave the target area.",
+            "pt": "Entregue o caminhão especial com cuidado e saia da área-alvo."
+          },
+          "details": "The truck's explosives become unstable when it takes damage. Brake early, leave space for wide turns and avoid trying to force a route through traffic. Watch the rear warning light and listen for faster beeping rather than treating the truck like an ordinary delivery. Park fully inside the marked garage, follow the arming prompt and move out of the danger area before completing the call.",
+          "details_i18n": {
+            "en": "The truck's explosives become unstable when it takes damage. Brake early, leave space for wide turns and avoid trying to force a route through traffic. Watch the rear warning light and listen for faster beeping rather than treating the truck like an ordinary delivery. Park fully inside the marked garage, follow the arming prompt and move out of the danger area before completing the call.",
+            "pt": "Os explosivos do caminhão ficam instáveis quando ele sofre dano. Freie cedo, reserve espaço para curvas abertas e evite forçar passagem pelo trânsito. Observe a luz de aviso traseira e os bipes acelerados, sem tratar o caminhão como uma entrega comum. Estacione completamente na garagem marcada, siga a instrução para armar a carga e saia da área de perigo antes de concluir a ligação."
+          }
+        },
+        {
+          "key": "search-and-delete",
+          "title": "Complete Search and Delete",
+          "title_i18n": {
+            "en": "Complete Search and Delete",
+            "pt": "Conclua Search and Delete"
+          },
+          "description": "Locate Brucie's target using the required information source.",
+          "description_i18n": {
+            "en": "Locate Brucie's target using the required information source.",
+            "pt": "Localize o alvo de Brucie usando a fonte de informação exigida."
+          }
+        },
+        {
+          "key": "easy-as-can-be",
+          "title": "Complete Easy as Can Be",
+          "title_i18n": {
+            "en": "Complete Easy as Can Be",
+            "pt": "Conclua Easy as Can Be"
+          },
+          "description": "Recover the marked car and survive the delivery route.",
+          "description_i18n": {
+            "en": "Recover the marked car and survive the delivery route.",
+            "pt": "Recupere o carro marcado e sobreviva à rota de entrega."
+          }
+        },
+        {
+          "key": "the-master-and-the-molotov",
+          "title": "Complete The Master and the Molotov",
+          "title_i18n": {
+            "en": "Complete The Master and the Molotov",
+            "pt": "Conclua The Master and the Molotov"
+          },
+          "description": "Prepare for the club operation and finish the pursuit.",
+          "description_i18n": {
+            "en": "Prepare for the club operation and finish the pursuit.",
+            "pt": "Prepare-se para a operação no clube e conclua a perseguição."
+          }
+        },
+        {
+          "key": "russian-revolution",
+          "title": "Complete Russian Revolution",
+          "title_i18n": {
+            "en": "Complete Russian Revolution",
+            "pt": "Conclua Russian Revolution"
+          },
+          "description": "Complete the meeting and escape with Jacob.",
+          "description_i18n": {
+            "en": "Complete the meeting and escape with Jacob.",
+            "pt": "Conclua o encontro e escape com Jacob."
+          }
+        },
+        {
+          "key": "roman-s-sorrow",
+          "title": "Complete Roman's Sorrow",
+          "title_i18n": {
+            "en": "Complete Roman's Sorrow",
+            "pt": "Conclua Roman's Sorrow"
+          },
+          "description": "Help Roman relocate and establish the next base.",
+          "description_i18n": {
+            "en": "Help Roman relocate and establish the next base.",
+            "pt": "Ajude Roman a se mudar e estabeleça a próxima base."
+          }
+        },
+        {
+          "key": "out-of-the-closet",
+          "title": "Complete Out of the Closet",
+          "title_i18n": {
+            "en": "Complete Out of the Closet",
+            "pt": "Conclua Out of the Closet"
+          },
+          "description": "Arrange Brucie's meeting and complete the follow-up objective.",
+          "description_i18n": {
+            "en": "Arrange Brucie's meeting and complete the follow-up objective.",
+            "pt": "Organize o encontro de Brucie e conclua o objetivo seguinte."
+          }
+        }
+      ]
+    },
+    {
+      "key": "bohan-and-algonquin",
+      "title": "Bohan and the route into Algonquin",
+      "title_i18n": {
+        "en": "Bohan and the route into Algonquin",
+        "pt": "Bohan e o caminho até Algonquin"
+      },
+      "items": [
+        {
+          "key": "escuela-of-the-streets",
+          "title": "Complete Escuela of the Streets",
+          "title_i18n": {
+            "en": "Complete Escuela of the Streets",
+            "pt": "Conclua Escuela of the Streets"
+          },
+          "description": "Follow Manny's surveillance and warehouse assignment.",
+          "description_i18n": {
+            "en": "Follow Manny's surveillance and warehouse assignment.",
+            "pt": "Siga o trabalho de vigilância e depósito de Manny."
+          }
+        },
+        {
+          "key": "street-sweeper",
+          "title": "Complete Street Sweeper",
+          "title_i18n": {
+            "en": "Complete Street Sweeper",
+            "pt": "Conclua Street Sweeper"
+          },
+          "description": "Resolve the marked street operation and its fleeing threats.",
+          "description_i18n": {
+            "en": "Resolve the marked street operation and its fleeing threats.",
+            "pt": "Resolva a operação de rua marcada e as ameaças em fuga."
+          }
+        },
+        {
+          "key": "luck-of-the-irish",
+          "title": "Complete Luck of the Irish",
+          "title_i18n": {
+            "en": "Complete Luck of the Irish",
+            "pt": "Conclua Luck of the Irish"
+          },
+          "description": "Take the overwatch position and protect the meeting.",
+          "description_i18n": {
+            "en": "Take the overwatch position and protect the meeting.",
+            "pt": "Assuma a posição de cobertura e proteja o encontro."
+          }
+        },
+        {
+          "key": "blow-your-cover",
+          "title": "Complete Blow Your Cover",
+          "title_i18n": {
+            "en": "Complete Blow Your Cover",
+            "pt": "Conclua Blow Your Cover"
+          },
+          "description": "Survive the deal and complete the escape with your companion.",
+          "description_i18n": {
+            "en": "Survive the deal and complete the escape with your companion.",
+            "pt": "Sobreviva à negociação e conclua a fuga com seu companheiro."
+          }
+        },
+        {
+          "key": "the-puerto-rican-connection",
+          "title": "Complete The Puerto Rican Connection",
+          "title_i18n": {
+            "en": "Complete The Puerto Rican Connection",
+            "pt": "Conclua The Puerto Rican Connection"
+          },
+          "description": "Track the moving lead through the city.",
+          "description_i18n": {
+            "en": "Track the moving lead through the city.",
+            "pt": "Acompanhe a pista em movimento pela cidade."
+          }
+        },
+        {
+          "key": "the-snow-storm",
+          "title": "Complete The Snow Storm",
+          "title_i18n": {
+            "en": "Complete The Snow Storm",
+            "pt": "Conclua The Snow Storm"
+          },
+          "description": "Recover the requested cargo and complete the escape.",
+          "description_i18n": {
+            "en": "Recover the requested cargo and complete the escape.",
+            "pt": "Recupere a carga solicitada e conclua a fuga."
+          },
+          "details": "Enter with armor and clear the hospital slowly, using doorways and walls instead of standing in the open. Recover the package only after checking nearby attackers. The police arrival starts a separate escape problem: retrace a cleared route and leave the wanted search area without being seen again. A boat near the waterfront can provide an alternative if one is present, but it is not necessary to finish the mission.",
+          "details_i18n": {
+            "en": "Enter with armor and clear the hospital slowly, using doorways and walls instead of standing in the open. Recover the package only after checking nearby attackers. The police arrival starts a separate escape problem: retrace a cleared route and leave the wanted search area without being seen again. A boat near the waterfront can provide an alternative if one is present, but it is not necessary to finish the mission.",
+            "pt": "Entre com colete e avance devagar pelo hospital, usando portas e paredes em vez de ficar exposto. Pegue o pacote após conferir os inimigos próximos. A chegada da polícia inicia um problema separado de fuga: volte por uma rota já limpa e saia da área de busca sem ser visto novamente. Um barco na margem pode servir como alternativa se estiver disponível, mas não é necessário para terminar a missão."
+          }
+        },
+        {
+          "key": "have-a-heart",
+          "title": "Complete Have a Heart",
+          "title_i18n": {
+            "en": "Complete Have a Heart",
+            "pt": "Conclua Have a Heart"
+          },
+          "description": "Complete Elizabeta's transport assignment carefully.",
+          "description_i18n": {
+            "en": "Complete Elizabeta's transport assignment carefully.",
+            "pt": "Conclua com cuidado o trabalho de transporte de Elizabeta."
+          }
+        },
+        {
+          "key": "call-and-collect",
+          "title": "Complete Call and Collect",
+          "title_i18n": {
+            "en": "Complete Call and Collect",
+            "pt": "Conclua Call and Collect"
+          },
+          "description": "Identify the correct subject and recover the requested material.",
+          "description_i18n": {
+            "en": "Identify the correct subject and recover the requested material.",
+            "pt": "Identifique a pessoa correta e recupere o material solicitado."
+          }
+        }
+      ]
+    },
+    {
+      "key": "packie-and-francis",
+      "title": "Packie and Francis McReary",
+      "title_i18n": {
+        "en": "Packie and Francis McReary",
+        "pt": "Packie e Francis McReary"
+      },
+      "items": [
+        {
+          "key": "harboring-a-grudge",
+          "title": "Complete Harboring a Grudge",
+          "title_i18n": {
+            "en": "Complete Harboring a Grudge",
+            "pt": "Conclua Harboring a Grudge"
+          },
+          "description": "Follow Packie into the guarded cargo operation.",
+          "description_i18n": {
+            "en": "Follow Packie into the guarded cargo operation.",
+            "pt": "Acompanhe Packie na operação de carga vigiada."
+          }
+        },
+        {
+          "key": "waste-not-want-knots",
+          "title": "Complete Waste Not Want Knots",
+          "title_i18n": {
+            "en": "Complete Waste Not Want Knots",
+            "pt": "Conclua Waste Not Want Knots"
+          },
+          "description": "Support the crew through the warehouse and extraction.",
+          "description_i18n": {
+            "en": "Support the crew through the warehouse and extraction.",
+            "pt": "Apoie a equipe no depósito e na extração."
+          }
+        },
+        {
+          "key": "three-leaf-clover",
+          "title": "Complete Three Leaf Clover",
+          "title_i18n": {
+            "en": "Complete Three Leaf Clover",
+            "pt": "Conclua Three Leaf Clover"
+          },
+          "description": "Complete the robbery and keep the surviving crew together during the escape.",
+          "description_i18n": {
+            "en": "Complete the robbery and keep the surviving crew together during the escape.",
+            "pt": "Conclua o assalto e mantenha a equipe sobrevivente reunida na fuga."
+          },
+          "details": "Bring armor, rifle ammunition and a four-door car for the opening trip. During the escape, clear only the officers blocking the crew's next move; standing still to fight endless reinforcements wastes health. Stay close to Packie and Derrick, follow their subway route and watch for trains. After leaving the tunnels, find room for everyone in the getaway vehicle, lose the wanted level and complete the return.",
+          "details_i18n": {
+            "en": "Bring armor, rifle ammunition and a four-door car for the opening trip. During the escape, clear only the officers blocking the crew's next move; standing still to fight endless reinforcements wastes health. Stay close to Packie and Derrick, follow their subway route and watch for trains. After leaving the tunnels, find room for everyone in the getaway vehicle, lose the wanted level and complete the return.",
+            "pt": "Leve colete, munição de rifle e um carro de quatro portas para o trajeto inicial. Na fuga, elimine os policiais que impedem o próximo avanço da equipe; ficar parado combatendo reforços sem fim desperdiça vida. Mantenha-se perto de Packie e Derrick, siga o caminho pelo metrô e observe os trens. Após sair dos túneis, acomode todos no veículo de fuga, remova o nível de procurado e conclua o retorno."
+          }
+        },
+        {
+          "key": "final-interview",
+          "title": "Complete Final Interview",
+          "title_i18n": {
+            "en": "Complete Final Interview",
+            "pt": "Conclua Final Interview"
+          },
+          "description": "Arrange the interview and complete the appointment's objective.",
+          "description_i18n": {
+            "en": "Arrange the interview and complete the appointment's objective.",
+            "pt": "Marque a entrevista e conclua o objetivo do compromisso."
+          },
+          "details": "Use an internet café to submit the law firm's application, then wait for the scheduling call and check the appointment in the phone organizer. Wear a proper Perseus suit with a tie and smart shoes; casual footwear can prevent entry even with a suit jacket. Arrive during the appointment window and follow reception. After the interview objective, collect the files before escaping; leaving without the requested evidence does not complete the job.",
+          "details_i18n": {
+            "en": "Use an internet café to submit the law firm's application, then wait for the scheduling call and check the appointment in the phone organizer. Wear a proper Perseus suit with a tie and smart shoes; casual footwear can prevent entry even with a suit jacket. Arrive during the appointment window and follow reception. After the interview objective, collect the files before escaping; leaving without the requested evidence does not complete the job.",
+            "pt": "Use um cibercafé para enviar a candidatura ao escritório, aguarde a ligação de agendamento e confira o compromisso na agenda do celular. Vista um terno adequado da Perseus com gravata e sapatos sociais; calçados casuais podem impedir a entrada mesmo com paletó. Chegue no horário marcado e siga a recepção. Após o objetivo da entrevista, recolha os documentos antes de fugir; sair sem a prova solicitada não conclui o trabalho."
+          }
+        },
+        {
+          "key": "holland-nights",
+          "title": "Complete Holland Nights",
+          "title_i18n": {
+            "en": "Complete Holland Nights",
+            "pt": "Conclua Holland Nights"
+          },
+          "description": "Complete the apartment-block operation and resolve the encounter once.",
+          "description_i18n": {
+            "en": "Complete the apartment-block operation and resolve the encounter once.",
+            "pt": "Conclua a operação no conjunto residencial e resolva o encontro uma vez."
+          }
+        },
+        {
+          "key": "lure",
+          "title": "Complete Lure",
+          "title_i18n": {
+            "en": "Complete Lure",
+            "pt": "Conclua Lure"
+          },
+          "description": "Set up the requested vantage point and complete the operation.",
+          "description_i18n": {
+            "en": "Set up the requested vantage point and complete the operation.",
+            "pt": "Prepare o ponto de observação solicitado e conclua a operação."
+          }
+        },
+        {
+          "key": "deconstruction-for-beginners",
+          "title": "Complete Deconstruction for Beginners",
+          "title_i18n": {
+            "en": "Complete Deconstruction for Beginners",
+            "pt": "Conclua Deconstruction for Beginners"
+          },
+          "description": "Clear the construction-site assignment using cover and elevation.",
+          "description_i18n": {
+            "en": "Clear the construction-site assignment using cover and elevation.",
+            "pt": "Conclua o trabalho no canteiro usando cobertura e altura."
+          }
+        },
+        {
+          "key": "photo-shoot",
+          "title": "Complete Photo Shoot",
+          "title_i18n": {
+            "en": "Complete Photo Shoot",
+            "pt": "Conclua Photo Shoot"
+          },
+          "description": "Identify the requested target before completing Playboy X's assignment.",
+          "description_i18n": {
+            "en": "Identify the requested target before completing Playboy X's assignment.",
+            "pt": "Identifique o alvo solicitado antes de concluir o trabalho de Playboy X."
+          }
+        }
+      ]
+    },
+    {
+      "key": "ul-paper-and-gerald",
+      "title": "U.L. Paper and Gerald McReary",
+      "title_i18n": {
+        "en": "U.L. Paper and Gerald McReary",
+        "pt": "U.L. Paper e Gerald McReary"
+      },
+      "items": [
+        {
+          "key": "wrong-is-right",
+          "title": "Complete Wrong is Right",
+          "title_i18n": {
+            "en": "Complete Wrong is Right",
+            "pt": "Conclua Wrong is Right"
+          },
+          "description": "Investigate the apartment and follow the information obtained.",
+          "description_i18n": {
+            "en": "Investigate the apartment and follow the information obtained.",
+            "pt": "Investigue o apartamento e siga a informação obtida."
+          }
+        },
+        {
+          "key": "portrait-of-a-killer",
+          "title": "Complete Portrait of a Killer",
+          "title_i18n": {
+            "en": "Complete Portrait of a Killer",
+            "pt": "Conclua Portrait of a Killer"
+          },
+          "description": "Use the provided lead to locate and resolve the guarded target.",
+          "description_i18n": {
+            "en": "Use the provided lead to locate and resolve the guarded target.",
+            "pt": "Use a pista recebida para localizar e resolver o alvo vigiado."
+          }
+        },
+        {
+          "key": "hostile-negotiation",
+          "title": "Complete Hostile Negotiation",
+          "title_i18n": {
+            "en": "Complete Hostile Negotiation",
+            "pt": "Conclua Hostile Negotiation"
+          },
+          "description": "Complete the rescue while protecting the captive.",
+          "description_i18n": {
+            "en": "Complete the rescue while protecting the captive.",
+            "pt": "Conclua o resgate protegendo o refém."
+          },
+          "details": "Use the warehouse's cover and clear elevated shooters before advancing up the stairs. At the hostage standoff, do not spray automatic fire toward Roman. Use deliberate free aim and take a clear shot at the captor when Roman is outside the bullet's path. After the rescue, stay with Roman and finish the departure objective rather than leaving him inside the building.",
+          "details_i18n": {
+            "en": "Use the warehouse's cover and clear elevated shooters before advancing up the stairs. At the hostage standoff, do not spray automatic fire toward Roman. Use deliberate free aim and take a clear shot at the captor when Roman is outside the bullet's path. After the rescue, stay with Roman and finish the departure objective rather than leaving him inside the building.",
+            "pt": "Use as coberturas do depósito e elimine os atiradores elevados antes de subir as escadas. No confronto com o refém, não dispare rajadas na direção de Roman. Use a mira manual com calma e atinja o sequestrador quando Roman estiver fora da trajetória da bala. Após o resgate, acompanhe Roman e conclua o objetivo de saída, sem abandoná-lo no prédio."
+          }
+        },
+        {
+          "key": "dust-off",
+          "title": "Complete Dust Off",
+          "title_i18n": {
+            "en": "Complete Dust Off",
+            "pt": "Conclua Dust Off"
+          },
+          "description": "Track and recover the requested helicopter.",
+          "description_i18n": {
+            "en": "Track and recover the requested helicopter.",
+            "pt": "Acompanhe e recupere o helicóptero solicitado."
+          }
+        },
+        {
+          "key": "paper-trail",
+          "title": "Complete Paper Trail",
+          "title_i18n": {
+            "en": "Complete Paper Trail",
+            "pt": "Conclua Paper Trail"
+          },
+          "description": "Pilot carefully so Jacob can support the airborne interception.",
+          "description_i18n": {
+            "en": "Pilot carefully so Jacob can support the airborne interception.",
+            "pt": "Pilote com cuidado para Jacob apoiar a interceptação aérea."
+          },
+          "details": "Follow the helicopter until the mission permits Jacob to fire. Move your helicopter to the target's right side and keep roughly the same height, close enough to give him a clear shot. Stable flight is more useful than repeatedly crossing over the target or making sharp turns. Once the target is down, complete Jacob's helipad drop-off to finish the operation.",
+          "details_i18n": {
+            "en": "Follow the helicopter until the mission permits Jacob to fire. Move your helicopter to the target's right side and keep roughly the same height, close enough to give him a clear shot. Stable flight is more useful than repeatedly crossing over the target or making sharp turns. Once the target is down, complete Jacob's helipad drop-off to finish the operation.",
+            "pt": "Siga o helicóptero até a missão permitir que Jacob atire. Posicione o seu à direita do alvo e mantenha aproximadamente a mesma altura, perto o bastante para oferecer um tiro livre. Voar com estabilidade ajuda mais que cruzar repetidamente sobre o alvo ou fazer curvas bruscas. Depois que ele cair, leve Jacob ao heliponto para concluir a operação."
+          }
+        },
+        {
+          "key": "actions-speak-louder-than-words",
+          "title": "Complete Actions Speak Louder than Words",
+          "title_i18n": {
+            "en": "Complete Actions Speak Louder than Words",
+            "pt": "Conclua Actions Speak Louder than Words"
+          },
+          "description": "Prepare the marked vehicle and complete the follow-up operation.",
+          "description_i18n": {
+            "en": "Prepare the marked vehicle and complete the follow-up operation.",
+            "pt": "Prepare o veículo marcado e conclua a operação seguinte."
+          }
+        },
+        {
+          "key": "i-need-your-clothes-your-boots-and-your-motorcycle",
+          "title": "Complete I Need Your Clothes, Your Boots, and Your Motorcycle",
+          "title_i18n": {
+            "en": "Complete I Need Your Clothes, Your Boots, and Your Motorcycle",
+            "pt": "Conclua I Need Your Clothes, Your Boots, and Your Motorcycle"
+          },
+          "description": "Use the supplied motorcycle and complete the pursuit.",
+          "description_i18n": {
+            "en": "Use the supplied motorcycle and complete the pursuit.",
+            "pt": "Use a moto fornecida e conclua a perseguição."
+          }
+        }
+      ]
+    },
+    {
+      "key": "alderney-and-mcrearys",
+      "title": "Alderney and the McRearys",
+      "title_i18n": {
+        "en": "Alderney and the McRearys",
+        "pt": "Alderney e os McReary"
+      },
+      "items": [
+        {
+          "key": "smackdown",
+          "title": "Complete Smackdown",
+          "title_i18n": {
+            "en": "Complete Smackdown",
+            "pt": "Conclua Smackdown"
+          },
+          "description": "Follow the lead to its destination and complete the confrontation.",
+          "description_i18n": {
+            "en": "Follow the lead to its destination and complete the confrontation.",
+            "pt": "Siga a pista até o destino e conclua o confronto."
+          }
+        },
+        {
+          "key": "a-long-way-to-fall",
+          "title": "Complete A Long Way to Fall",
+          "title_i18n": {
+            "en": "Complete A Long Way to Fall",
+            "pt": "Conclua A Long Way to Fall"
+          },
+          "description": "Find the correct building and complete Ray's apartment operation.",
+          "description_i18n": {
+            "en": "Find the correct building and complete Ray's apartment operation.",
+            "pt": "Encontre o prédio correto e conclua a operação de Ray nos apartamentos."
+          }
+        },
+        {
+          "key": "babysitting",
+          "title": "Complete Babysitting",
+          "title_i18n": {
+            "en": "Complete Babysitting",
+            "pt": "Conclua Babysitting"
+          },
+          "description": "Protect the boat operation throughout its route.",
+          "description_i18n": {
+            "en": "Protect the boat operation throughout its route.",
+            "pt": "Proteja a operação de barco durante todo o trajeto."
+          }
+        },
+        {
+          "key": "tunnel-of-death",
+          "title": "Complete Tunnel of Death",
+          "title_i18n": {
+            "en": "Complete Tunnel of Death",
+            "pt": "Conclua Tunnel of Death"
+          },
+          "description": "Complete the convoy interception and the subsequent transfer.",
+          "description_i18n": {
+            "en": "Complete the convoy interception and the subsequent transfer.",
+            "pt": "Conclua a interceptação do comboio e a transferência seguinte."
+          }
+        },
+        {
+          "key": "blood-brothers",
+          "title": "Complete Blood Brothers",
+          "title_i18n": {
+            "en": "Complete Blood Brothers",
+            "pt": "Conclua Blood Brothers"
+          },
+          "description": "Resolve the single mission decision and finish the assignment.",
+          "description_i18n": {
+            "en": "Resolve the single mission decision and finish the assignment.",
+            "pt": "Resolva a única decisão da missão e conclua o trabalho."
+          }
+        },
+        {
+          "key": "undertaker",
+          "title": "Complete Undertaker",
+          "title_i18n": {
+            "en": "Complete Undertaker",
+            "pt": "Conclua Undertaker"
+          },
+          "description": "Attend the event and protect the transport through the attack.",
+          "description_i18n": {
+            "en": "Attend the event and protect the transport through the attack.",
+            "pt": "Compareça ao evento e proteja o transporte durante o ataque."
+          }
+        }
+      ]
+    },
+    {
+      "key": "ray-and-gerald-diamonds",
+      "title": "Ray, Gerald and the diamond operation",
+      "title_i18n": {
+        "en": "Ray, Gerald and the diamond operation",
+        "pt": "Ray, Gerald e a operação dos diamantes"
+      },
+      "items": [
+        {
+          "key": "taking-in-the-trash",
+          "title": "Complete Taking in the Trash",
+          "title_i18n": {
+            "en": "Complete Taking in the Trash",
+            "pt": "Conclua Taking in the Trash"
+          },
+          "description": "Follow the collection route and deliver the truck.",
+          "description_i18n": {
+            "en": "Follow the collection route and deliver the truck.",
+            "pt": "Siga a rota de coleta e entregue o caminhão."
+          }
+        },
+        {
+          "key": "meltdown",
+          "title": "Complete Meltdown",
+          "title_i18n": {
+            "en": "Complete Meltdown",
+            "pt": "Conclua Meltdown"
+          },
+          "description": "Pursue the marked crew and recover the requested items.",
+          "description_i18n": {
+            "en": "Pursue the marked crew and recover the requested items.",
+            "pt": "Persiga a equipe marcada e recupere os itens solicitados."
+          }
+        },
+        {
+          "key": "i-ll-take-her",
+          "title": "Complete I'll Take Her",
+          "title_i18n": {
+            "en": "Complete I'll Take Her",
+            "pt": "Conclua I'll Take Her"
+          },
+          "description": "Arrange the contact and complete the transport assignment.",
+          "description_i18n": {
+            "en": "Arrange the contact and complete the transport assignment.",
+            "pt": "Marque o contato e conclua o trabalho de transporte."
+          }
+        },
+        {
+          "key": "museum-piece",
+          "title": "Complete Museum Piece",
+          "title_i18n": {
+            "en": "Complete Museum Piece",
+            "pt": "Conclua Museum Piece"
+          },
+          "description": "Complete the meeting and fight your way to the exit.",
+          "description_i18n": {
+            "en": "Complete the meeting and fight your way to the exit.",
+            "pt": "Conclua o encontro e abra caminho até a saída."
+          }
+        },
+        {
+          "key": "no-way-on-the-subway",
+          "title": "Complete No Way on the Subway",
+          "title_i18n": {
+            "en": "Complete No Way on the Subway",
+            "pt": "Conclua No Way on the Subway"
+          },
+          "description": "Complete the motorcycle pursuit through the rail route.",
+          "description_i18n": {
+            "en": "Complete the motorcycle pursuit through the rail route.",
+            "pt": "Conclua a perseguição de moto pelo trajeto ferroviário."
+          }
+        },
+        {
+          "key": "late-checkout",
+          "title": "Complete Late Checkout",
+          "title_i18n": {
+            "en": "Complete Late Checkout",
+            "pt": "Conclua Late Checkout"
+          },
+          "description": "Complete the guarded hotel operation and escape.",
+          "description_i18n": {
+            "en": "Complete the guarded hotel operation and escape.",
+            "pt": "Conclua a operação no hotel vigiado e escape."
+          }
+        },
+        {
+          "key": "weekend-at-florian-s",
+          "title": "Complete Weekend at Florian's",
+          "title_i18n": {
+            "en": "Complete Weekend at Florian's",
+            "pt": "Conclua Weekend at Florian's"
+          },
+          "description": "Follow the information chain to the meeting.",
+          "description_i18n": {
+            "en": "Follow the information chain to the meeting.",
+            "pt": "Siga a sequência de informações até o encontro."
+          }
+        },
+        {
+          "key": "ransom",
+          "title": "Complete Ransom",
+          "title_i18n": {
+            "en": "Complete Ransom",
+            "pt": "Conclua Ransom"
+          },
+          "description": "Obtain and send the requested proof, then finish the contact.",
+          "description_i18n": {
+            "en": "Obtain and send the requested proof, then finish the contact.",
+            "pt": "Obtenha e envie a prova solicitada e finalize o contato."
+          }
+        },
+        {
+          "key": "she-s-a-keeper",
+          "title": "Complete She's a Keeper",
+          "title_i18n": {
+            "en": "Complete She's a Keeper",
+            "pt": "Conclua She's a Keeper"
+          },
+          "description": "Transfer the passenger while preserving the vehicle.",
+          "description_i18n": {
+            "en": "Transfer the passenger while preserving the vehicle.",
+            "pt": "Transfira a passageira preservando o veículo."
+          }
+        }
+      ]
+    },
+    {
+      "key": "bernie-and-phil",
+      "title": "Bernie Crane and Phil Bell",
+      "title_i18n": {
+        "en": "Bernie Crane and Phil Bell",
+        "pt": "Bernie Crane e Phil Bell"
+      },
+      "items": [
+        {
+          "key": "hating-the-haters",
+          "title": "Complete Hating the Haters",
+          "title_i18n": {
+            "en": "Complete Hating the Haters",
+            "pt": "Conclua Hating the Haters"
+          },
+          "description": "Protect Bernie and complete the pursuit.",
+          "description_i18n": {
+            "en": "Protect Bernie and complete the pursuit.",
+            "pt": "Proteja Bernie e conclua a perseguição."
+          }
+        },
+        {
+          "key": "union-drive",
+          "title": "Complete Union Drive",
+          "title_i18n": {
+            "en": "Complete Union Drive",
+            "pt": "Conclua Union Drive"
+          },
+          "description": "Help Bernie resolve the vehicle pursuit.",
+          "description_i18n": {
+            "en": "Help Bernie resolve the vehicle pursuit.",
+            "pt": "Ajude Bernie a resolver a perseguição de veículos."
+          }
+        },
+        {
+          "key": "buoys-ahoy",
+          "title": "Complete Buoys Ahoy",
+          "title_i18n": {
+            "en": "Complete Buoys Ahoy",
+            "pt": "Conclua Buoys Ahoy"
+          },
+          "description": "Complete the boat trip and its interrupted objective.",
+          "description_i18n": {
+            "en": "Complete the boat trip and its interrupted objective.",
+            "pt": "Conclua o passeio de barco e seu objetivo interrompido."
+          }
+        },
+        {
+          "key": "truck-hustle",
+          "title": "Complete Truck Hustle",
+          "title_i18n": {
+            "en": "Complete Truck Hustle",
+            "pt": "Conclua Truck Hustle"
+          },
+          "description": "Recover the moving truck and complete its delivery.",
+          "description_i18n": {
+            "en": "Recover the moving truck and complete its delivery.",
+            "pt": "Recupere o caminhão em movimento e conclua a entrega."
+          }
+        },
+        {
+          "key": "pegorino-s-pride",
+          "title": "Complete Pegorino's Pride",
+          "title_i18n": {
+            "en": "Complete Pegorino's Pride",
+            "pt": "Conclua Pegorino's Pride"
+          },
+          "description": "Provide cover for the meeting and protect the extraction.",
+          "description_i18n": {
+            "en": "Provide cover for the meeting and protect the extraction.",
+            "pt": "Dê cobertura ao encontro e proteja a extração."
+          }
+        },
+        {
+          "key": "payback",
+          "title": "Complete Payback",
+          "title_i18n": {
+            "en": "Complete Payback",
+            "pt": "Conclua Payback"
+          },
+          "description": "Follow the target group and complete the confrontation.",
+          "description_i18n": {
+            "en": "Follow the target group and complete the confrontation.",
+            "pt": "Siga o grupo-alvo e conclua o confronto."
+          }
+        },
+        {
+          "key": "catch-the-wave",
+          "title": "Complete Catch the Wave",
+          "title_i18n": {
+            "en": "Complete Catch the Wave",
+            "pt": "Conclua Catch the Wave"
+          },
+          "description": "Protect Phil through the cargo recovery and boat journey.",
+          "description_i18n": {
+            "en": "Protect Phil through the cargo recovery and boat journey.",
+            "pt": "Proteja Phil durante a recuperação da carga e o trajeto de barco."
+          }
+        },
+        {
+          "key": "trespass",
+          "title": "Complete Trespass",
+          "title_i18n": {
+            "en": "Complete Trespass",
+            "pt": "Conclua Trespass"
+          },
+          "description": "Enter the guarded site and stop the departing target.",
+          "description_i18n": {
+            "en": "Enter the guarded site and stop the departing target.",
+            "pt": "Entre no local vigiado e detenha o alvo que está partindo."
+          }
+        },
+        {
+          "key": "to-live-and-die-in-alderney",
+          "title": "Complete To Live and Die in Alderney",
+          "title_i18n": {
+            "en": "Complete To Live and Die in Alderney",
+            "pt": "Conclua To Live and Die in Alderney"
+          },
+          "description": "Support Phil through the pursuit and changing escape stages.",
+          "description_i18n": {
+            "en": "Support Phil through the pursuit and changing escape stages.",
+            "pt": "Apoie Phil durante a perseguição e as mudanças de etapas da fuga."
+          }
+        },
+        {
+          "key": "diamonds-are-a-girl-s-best-friend",
+          "title": "Complete Diamonds are a Girl's Best Friend",
+          "title_i18n": {
+            "en": "Complete Diamonds are a Girl's Best Friend",
+            "pt": "Conclua Diamonds are a Girl's Best Friend"
+          },
+          "description": "Complete the exchange and protect the return journey.",
+          "description_i18n": {
+            "en": "Complete the exchange and protect the return journey.",
+            "pt": "Conclua a troca e proteja o trajeto de retorno."
+          }
+        }
+      ]
+    },
+    {
+      "key": "gravelli-and-final-decisions",
+      "title": "Gravelli and the final decisions",
+      "title_i18n": {
+        "en": "Gravelli and the final decisions",
+        "pt": "Gravelli e as decisões finais"
+      },
+      "items": [
+        {
+          "key": "entourage",
+          "title": "Complete Entourage",
+          "title_i18n": {
+            "en": "Complete Entourage",
+            "pt": "Conclua Entourage"
+          },
+          "description": "Protect the escorted passenger through the ambush and delivery.",
+          "description_i18n": {
+            "en": "Protect the escorted passenger through the ambush and delivery.",
+            "pt": "Proteja o passageiro escoltado durante a emboscada e a entrega."
+          }
+        },
+        {
+          "key": "dining-out",
+          "title": "Complete Dining Out",
+          "title_i18n": {
+            "en": "Complete Dining Out",
+            "pt": "Conclua Dining Out"
+          },
+          "description": "Complete the restaurant operation and its pursuit.",
+          "description_i18n": {
+            "en": "Complete the restaurant operation and its pursuit.",
+            "pt": "Conclua a operação no restaurante e a perseguição."
+          }
+        },
+        {
+          "key": "liquidize-the-assets",
+          "title": "Complete Liquidize the Assets",
+          "title_i18n": {
+            "en": "Complete Liquidize the Assets",
+            "pt": "Conclua Liquidize the Assets"
+          },
+          "description": "Find and destroy the marked cargo vehicles.",
+          "description_i18n": {
+            "en": "Find and destroy the marked cargo vehicles.",
+            "pt": "Encontre e destrua os veículos de carga marcados."
+          }
+        },
+        {
+          "key": "flatline",
+          "title": "Complete Flatline",
+          "title_i18n": {
+            "en": "Complete Flatline",
+            "pt": "Conclua Flatline"
+          },
+          "description": "Complete the hospital assignment and leave the area.",
+          "description_i18n": {
+            "en": "Complete the hospital assignment and leave the area.",
+            "pt": "Conclua o trabalho no hospital e saia da área."
+          }
+        },
+        {
+          "key": "pest-control",
+          "title": "Complete Pest Control",
+          "title_i18n": {
+            "en": "Complete Pest Control",
+            "pt": "Conclua Pest Control"
+          },
+          "description": "Locate the assigned target and complete the operation.",
+          "description_i18n": {
+            "en": "Locate the assigned target and complete the operation.",
+            "pt": "Localize o alvo designado e conclua a operação."
+          }
+        },
+        {
+          "key": "that-special-someone",
+          "title": "Complete That Special Someone",
+          "title_i18n": {
+            "en": "Complete That Special Someone",
+            "pt": "Conclua That Special Someone"
+          },
+          "description": "Attend the meeting and resolve the decision once.",
+          "description_i18n": {
+            "en": "Attend the meeting and resolve the decision once.",
+            "pt": "Compareça ao encontro e resolva a decisão uma vez."
+          }
+        },
+        {
+          "key": "one-last-thing",
+          "title": "Complete One Last Thing",
+          "title_i18n": {
+            "en": "Complete One Last Thing",
+            "pt": "Conclua One Last Thing"
+          },
+          "description": "Receive Pegorino's proposal and choose one route for this save.",
+          "description_i18n": {
+            "en": "Receive Pegorino's proposal and choose one route for this save.",
+            "pt": "Receba a proposta de Pegorino e escolha uma rota para este salvamento."
+          },
+          "details": "Save manually before committing. Deal leads to If the Price Is Right, then Mr. and Mrs. Bellic and A Revenger's Tragedy. Revenge leads to A Dish Served Cold, then Mr. and Mrs. Bellic and Out of Commission. The ending checkboxes represent these three corresponding stages, not six separate mandatory missions. Either route finishes the story and supplies the required ending credit for native 100%; playing both belongs on separate saves.",
+          "details_i18n": {
+            "en": "Save manually before committing. Deal leads to If the Price Is Right, then Mr. and Mrs. Bellic and A Revenger's Tragedy. Revenge leads to A Dish Served Cold, then Mr. and Mrs. Bellic and Out of Commission. The ending checkboxes represent these three corresponding stages, not six separate mandatory missions. Either route finishes the story and supplies the required ending credit for native 100%; playing both belongs on separate saves.",
+            "pt": "Salve manualmente antes de decidir. Deal leva a If the Price Is Right, depois Mr. and Mrs. Bellic e A Revenger's Tragedy. Revenge leva a A Dish Served Cold, depois Mr. and Mrs. Bellic e Out of Commission. Os checkboxes do final representam essas três etapas correspondentes, não seis missões obrigatórias separadas. Qualquer rota conclui a história e fornece o crédito do final para os 100% nativos; jogar ambas exige salvamentos separados."
+          }
+        }
+      ]
+    },
+    {
+      "key": "chosen-ending",
+      "title": "Complete your chosen ending",
+      "title_i18n": {
+        "en": "Complete your chosen ending",
+        "pt": "Conclua o final escolhido"
+      },
+      "items": [
+        {
+          "key": "if-the-price-is-right-a-dish-served-cold",
+          "title": "Complete If the Price Is Right / A Dish Served Cold",
+          "title_i18n": {
+            "en": "Complete If the Price Is Right / A Dish Served Cold",
+            "pt": "Conclua If the Price Is Right / A Dish Served Cold"
+          },
+          "description": "Complete the operation belonging to your chosen Deal or Revenge route; only one is required.",
+          "description_i18n": {
+            "en": "Complete the operation belonging to your chosen Deal or Revenge route; only one is required.",
+            "pt": "Conclua a operação da sua rota Deal ou Revenge; apenas uma é necessária."
+          }
+        },
+        {
+          "key": "mr-and-mrs-bellic",
+          "title": "Complete Mr. and Mrs. Bellic",
+          "title_i18n": {
+            "en": "Complete Mr. and Mrs. Bellic",
+            "pt": "Conclua Mr. and Mrs. Bellic"
+          },
+          "description": "Attend the event in the version belonging to your chosen route.",
+          "description_i18n": {
+            "en": "Attend the event in the version belonging to your chosen route.",
+            "pt": "Compareça ao evento na versão correspondente à rota escolhida."
+          }
+        },
+        {
+          "key": "a-revenger-s-tragedy-out-of-commission",
+          "title": "Complete A Revenger's Tragedy / Out of Commission",
+          "title_i18n": {
+            "en": "Complete A Revenger's Tragedy / Out of Commission",
+            "pt": "Conclua A Revenger's Tragedy / Out of Commission"
+          },
+          "description": "Complete your chosen route's final mission and reach the credits.",
+          "description_i18n": {
+            "en": "Complete your chosen route's final mission and reach the credits.",
+            "pt": "Conclua a missão final da rota escolhida e chegue aos créditos."
+          },
+          "details": "Prepare armor and ammunition before following the final lead. Clear the building from cover, then change pace when the target flees: pursue rather than trying to defeat every remaining enemy. Follow your route's on-screen boat or motorcycle instructions and the helicopter boarding prompt. After boarding, finish the aircraft pursuit and the final ground objective. The vehicle sequence differs between endings, so follow the active mission rather than instructions for the other branch.",
+          "details_i18n": {
+            "en": "Prepare armor and ammunition before following the final lead. Clear the building from cover, then change pace when the target flees: pursue rather than trying to defeat every remaining enemy. Follow your route's on-screen boat or motorcycle instructions and the helicopter boarding prompt. After boarding, finish the aircraft pursuit and the final ground objective. The vehicle sequence differs between endings, so follow the active mission rather than instructions for the other branch.",
+            "pt": "Prepare colete e munição antes de seguir a pista final. Avance pelo prédio usando cobertura e mude de ritmo quando o alvo fugir: persiga-o em vez de tentar derrotar todos os inimigos restantes. Siga as instruções da sua rota para barco ou moto e a indicação de embarque no helicóptero. Após embarcar, conclua a perseguição aérea e o objetivo final em terra. A sequência de veículos muda entre os finais; siga a missão ativa, não instruções da outra rota."
+          }
+        }
+      ]
+    },
+    {
+      "key": "optional-story-threads",
+      "title": "Optional story threads for full completion",
+      "title_i18n": {
+        "en": "Optional story threads for full completion",
+        "pt": "Tramas opcionais para a conclusão completa"
+      },
+      "items": [
+        {
+          "key": "no-1",
+          "title": "Complete No. 1",
+          "title_i18n": {
+            "en": "Complete No. 1",
+            "pt": "Conclua No. 1"
+          },
+          "description": "Win Brucie's introductory race to unlock his friendship and further races.",
+          "description_i18n": {
+            "en": "Win Brucie's introductory race to unlock his friendship and further races.",
+            "pt": "Vença a corrida introdutória de Brucie para liberar sua amizade e outras corridas."
+          }
+        },
+        {
+          "key": "ruff-rider",
+          "title": "Complete Ruff Rider",
+          "title_i18n": {
+            "en": "Complete Ruff Rider",
+            "pt": "Conclua Ruff Rider"
+          },
+          "description": "Complete Dwayne's recovery assignment and resolve its encounter once.",
+          "description_i18n": {
+            "en": "Complete Dwayne's recovery assignment and resolve its encounter once.",
+            "pt": "Conclua o trabalho de recuperação de Dwayne e resolva o encontro uma vez."
+          }
+        },
+        {
+          "key": "undress-to-kill",
+          "title": "Complete Undress to Kill",
+          "title_i18n": {
+            "en": "Complete Undress to Kill",
+            "pt": "Conclua Undress to Kill"
+          },
+          "description": "Complete Dwayne's club operation after Ruff Rider.",
+          "description_i18n": {
+            "en": "Complete Dwayne's club operation after Ruff Rider.",
+            "pt": "Conclua a operação de Dwayne no clube após Ruff Rider."
+          }
+        },
+        {
+          "key": "the-holland-play",
+          "title": "Complete The Holland Play",
+          "title_i18n": {
+            "en": "Complete The Holland Play",
+            "pt": "Conclua The Holland Play"
+          },
+          "description": "Finish the optional conflict after the relevant calls; choose only one target.",
+          "description_i18n": {
+            "en": "Finish the optional conflict after the relevant calls; choose only one target.",
+            "pt": "Termine o conflito opcional após as ligações pertinentes; escolha apenas um alvo."
+          },
+          "details": "After Photo Shoot and Undress to Kill, allow the relevant calls to arrive before selecting a target. This mission has one decision: killing Playboy X preserves Dwayne as a possible friend and awards the penthouse, while killing Dwayne produces a cash reward and removes that friendship. Either resolves the strand for native completion. Do not treat the two targets as separate jobs required on one save; use a manual backup if you want to see both outcomes.",
+          "details_i18n": {
+            "en": "After Photo Shoot and Undress to Kill, allow the relevant calls to arrive before selecting a target. This mission has one decision: killing Playboy X preserves Dwayne as a possible friend and awards the penthouse, while killing Dwayne produces a cash reward and removes that friendship. Either resolves the strand for native completion. Do not treat the two targets as separate jobs required on one save; use a manual backup if you want to see both outcomes.",
+            "pt": "Após Photo Shoot e Undress to Kill, aguarde as ligações pertinentes antes de escolher um alvo. Esta missão tem uma decisão: eliminar Playboy X preserva Dwayne como possível amigo e concede a cobertura; eliminar Dwayne dá uma recompensa em dinheiro e remove essa amizade. Qualquer opção resolve a trama para a conclusão nativa. Não trate os dois alvos como trabalhos separados obrigatórios no mesmo salvamento; mantenha uma cópia manual se quiser ver os dois resultados."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "work-and-police",
+      "title": "Delivery work and police computer cases",
+      "title_i18n": {
+        "en": "Delivery work and police computer cases",
+        "pt": "Entregas e casos do computador policial"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "jacob-ten-deliveries",
+          "title": "Little Jacob: 10 drug deliveries",
+          "title_i18n": {
+            "en": "Little Jacob: 10 drug deliveries",
+            "pt": "Little Jacob: 10 entregas"
+          },
+          "description": "Complete all ten delivery jobs offered through Jacob's Job option.",
+          "description_i18n": {
+            "en": "Complete all ten delivery jobs offered through Jacob's Job option.",
+            "pt": "Conclua os dez trabalhos de entrega oferecidos na opção Job de Jacob."
+          }
+        },
+        {
+          "key": "brucie-ten-exports",
+          "title": "Brucie: 10 Exotic Exports",
+          "title_i18n": {
+            "en": "Brucie: 10 Exotic Exports",
+            "pt": "Brucie: 10 Exotic Exports"
+          },
+          "description": "Accept and deliver all ten vehicle requests sent through Brucie's emails.",
+          "description_i18n": {
+            "en": "Accept and deliver all ten vehicle requests sent through Brucie's emails.",
+            "pt": "Aceite e entregue os dez veículos solicitados pelos e-mails de Brucie."
+          }
+        },
+        {
+          "key": "most-wanted-broker-dukes-bohan",
+          "title": "Most Wanted: Broker, Dukes and Bohan",
+          "title_i18n": {
+            "en": "Most Wanted: Broker, Dukes and Bohan",
+            "pt": "Most Wanted: Broker, Dukes e Bohan"
+          },
+          "description": "Clear all ten targets on this police-computer list.",
+          "description_i18n": {
+            "en": "Clear all ten targets on this police-computer list.",
+            "pt": "Elimine os dez alvos desta lista do computador policial."
+          },
+          "details": "Use the police computer while the vehicle is stopped and Niko is not wanted. The Most Wanted list changes with the area: Broker, Dukes and Bohan share ten targets, Algonquin has ten and Alderney has ten. Finish every target on all three lists. The separate current-crimes menu generates Vigilante dispatches and does not replace a missing Most Wanted target.",
+          "details_i18n": {
+            "en": "Use the police computer while the vehicle is stopped and Niko is not wanted. The Most Wanted list changes with the area: Broker, Dukes and Bohan share ten targets, Algonquin has ten and Alderney has ten. Finish every target on all three lists. The separate current-crimes menu generates Vigilante dispatches and does not replace a missing Most Wanted target.",
+            "pt": "Use o computador policial com o veículo parado e Niko sem nível de procurado. A lista Most Wanted muda conforme a área: Broker, Dukes e Bohan compartilham dez alvos, Algonquin tem dez e Alderney tem dez. Elimine todos os alvos das três listas. O menu separado de crimes em andamento gera ocorrências de Vigilante e não substitui um alvo restante de Most Wanted."
+          }
+        },
+        {
+          "key": "most-wanted-algonquin",
+          "title": "Most Wanted: Algonquin",
+          "title_i18n": {
+            "en": "Most Wanted: Algonquin",
+            "pt": "Most Wanted: Algonquin"
+          },
+          "description": "Clear all ten targets on Algonquin's police-computer list.",
+          "description_i18n": {
+            "en": "Clear all ten targets on Algonquin's police-computer list.",
+            "pt": "Elimine os dez alvos da lista de Algonquin no computador policial."
+          }
+        },
+        {
+          "key": "most-wanted-alderney",
+          "title": "Most Wanted: Alderney",
+          "title_i18n": {
+            "en": "Most Wanted: Alderney",
+            "pt": "Most Wanted: Alderney"
+          },
+          "description": "Clear all ten targets on Alderney's police-computer list.",
+          "description_i18n": {
+            "en": "Clear all ten targets on Alderney's police-computer list.",
+            "pt": "Elimine os dez alvos da lista de Alderney no computador policial."
+          }
+        },
+        {
+          "key": "vigilante-twenty",
+          "title": "Vigilante: 20 current crimes",
+          "title_i18n": {
+            "en": "Vigilante: 20 current crimes",
+            "pt": "Vigilante: 20 crimes em andamento"
+          },
+          "description": "Complete twenty current-crime dispatches, separately from the Most Wanted lists.",
+          "description_i18n": {
+            "en": "Complete twenty current-crime dispatches, separately from the Most Wanted lists.",
+            "pt": "Conclua vinte ocorrências de crimes em andamento, separadas das listas Most Wanted."
+          }
+        }
+      ]
+    },
+    {
+      "key": "fixer-assassinations",
+      "title": "The Fixer's nine assassinations",
+      "title_i18n": {
+        "en": "The Fixer's nine assassinations",
+        "pt": "Os nove trabalhos de The Fixer"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "migration-control",
+          "title": "Migration Control",
+          "title_i18n": {
+            "en": "Migration Control",
+            "pt": "Migration Control"
+          },
+          "description": "Complete this airport-area contract from the Alderney payphone.",
+          "description_i18n": {
+            "en": "Complete this airport-area contract from the Alderney payphone.",
+            "pt": "Conclua este contrato da região do aeroporto pelo telefone público de Alderney."
+          }
+        },
+        {
+          "key": "bailing-out-for-good",
+          "title": "Bailing Out for Good",
+          "title_i18n": {
+            "en": "Bailing Out for Good",
+            "pt": "Bailing Out for Good"
+          },
+          "description": "Finish the marked target's contract and escape the response.",
+          "description_i18n": {
+            "en": "Finish the marked target's contract and escape the response.",
+            "pt": "Conclua o contrato do alvo marcado e escape da reação."
+          }
+        },
+        {
+          "key": "derelict-target",
+          "title": "Derelict Target",
+          "title_i18n": {
+            "en": "Derelict Target",
+            "pt": "Derelict Target"
+          },
+          "description": "Clear the contract's guarded targets.",
+          "description_i18n": {
+            "en": "Clear the contract's guarded targets.",
+            "pt": "Elimine os alvos vigiados do contrato."
+          }
+        },
+        {
+          "key": "rub-down",
+          "title": "R.U.B. Down",
+          "title_i18n": {
+            "en": "R.U.B. Down",
+            "pt": "R.U.B. Down"
+          },
+          "description": "Complete the motorcycle-group contract.",
+          "description_i18n": {
+            "en": "Complete the motorcycle-group contract.",
+            "pt": "Conclua o contrato contra o grupo de motociclistas."
+          }
+        },
+        {
+          "key": "taken-out",
+          "title": "Taken Out",
+          "title_i18n": {
+            "en": "Taken Out",
+            "pt": "Taken Out"
+          },
+          "description": "Intercept the protected moving target.",
+          "description_i18n": {
+            "en": "Intercept the protected moving target.",
+            "pt": "Intercepte o alvo protegido em movimento."
+          }
+        },
+        {
+          "key": "industrial-action",
+          "title": "Industrial Action",
+          "title_i18n": {
+            "en": "Industrial Action",
+            "pt": "Industrial Action"
+          },
+          "description": "Complete the contract across the industrial site.",
+          "description_i18n": {
+            "en": "Complete the contract across the industrial site.",
+            "pt": "Conclua o contrato no complexo industrial."
+          }
+        },
+        {
+          "key": "hook-line-and-sinker",
+          "title": "Hook, Line and Sinker",
+          "title_i18n": {
+            "en": "Hook, Line and Sinker",
+            "pt": "Hook, Line and Sinker"
+          },
+          "description": "Complete the waterborne target's contract.",
+          "description_i18n": {
+            "en": "Complete the waterborne target's contract.",
+            "pt": "Conclua o contrato do alvo na água."
+          }
+        },
+        {
+          "key": "dead-end",
+          "title": "Dead End",
+          "title_i18n": {
+            "en": "Dead End",
+            "pt": "Dead End"
+          },
+          "description": "Pursue the marked vehicle and finish the resulting encounter.",
+          "description_i18n": {
+            "en": "Pursue the marked vehicle and finish the resulting encounter.",
+            "pt": "Persiga o veículo marcado e conclua o encontro resultante."
+          }
+        },
+        {
+          "key": "water-hazard",
+          "title": "Water Hazard",
+          "title_i18n": {
+            "en": "Water Hazard",
+            "pt": "Water Hazard"
+          },
+          "description": "Resolve the contract at the marked waterfront location.",
+          "description_i18n": {
+            "en": "Resolve the contract at the marked waterfront location.",
+            "pt": "Resolva o contrato no local indicado à beira da água."
+          }
+        }
+      ]
+    },
+    {
+      "key": "brucie-races",
+      "title": "Brucie's nine distinct races",
+      "title_i18n": {
+        "en": "Brucie's nine distinct races",
+        "pt": "As nove corridas diferentes de Brucie"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "race-south-algonquin",
+          "title": "Race: South Algonquin",
+          "title_i18n": {
+            "en": "Race: South Algonquin",
+            "pt": "Corrida: South Algonquin"
+          },
+          "description": "Win this distinct Brucie street race.",
+          "description_i18n": {
+            "en": "Win this distinct Brucie street race.",
+            "pt": "Vença esta corrida de rua de Brucie."
+          }
+        },
+        {
+          "key": "race-airport-run",
+          "title": "Race: Airport Run",
+          "title_i18n": {
+            "en": "Race: Airport Run",
+            "pt": "Corrida: Airport Run"
+          },
+          "description": "Win this distinct Brucie street race.",
+          "description_i18n": {
+            "en": "Win this distinct Brucie street race.",
+            "pt": "Vença esta corrida de rua de Brucie."
+          }
+        },
+        {
+          "key": "race-dukes-boulevard",
+          "title": "Race: Dukes Boulevard",
+          "title_i18n": {
+            "en": "Race: Dukes Boulevard",
+            "pt": "Corrida: Dukes Boulevard"
+          },
+          "description": "Win this distinct Brucie street race.",
+          "description_i18n": {
+            "en": "Win this distinct Brucie street race.",
+            "pt": "Vença esta corrida de rua de Brucie."
+          }
+        },
+        {
+          "key": "race-south-broker",
+          "title": "Race: South Broker",
+          "title_i18n": {
+            "en": "Race: South Broker",
+            "pt": "Corrida: South Broker"
+          },
+          "description": "Win this distinct Brucie street race.",
+          "description_i18n": {
+            "en": "Win this distinct Brucie street race.",
+            "pt": "Vença esta corrida de rua de Brucie."
+          }
+        },
+        {
+          "key": "race-star-junction",
+          "title": "Race: Star Junction",
+          "title_i18n": {
+            "en": "Race: Star Junction",
+            "pt": "Corrida: Star Junction"
+          },
+          "description": "Win this distinct Brucie street race.",
+          "description_i18n": {
+            "en": "Win this distinct Brucie street race.",
+            "pt": "Vença esta corrida de rua de Brucie."
+          }
+        },
+        {
+          "key": "race-road-to-bohan",
+          "title": "Race: Road to Bohan",
+          "title_i18n": {
+            "en": "Race: Road to Bohan",
+            "pt": "Corrida: Road to Bohan"
+          },
+          "description": "Win this distinct Brucie street race.",
+          "description_i18n": {
+            "en": "Win this distinct Brucie street race.",
+            "pt": "Vença esta corrida de rua de Brucie."
+          }
+        },
+        {
+          "key": "race-north-alderney",
+          "title": "Race: North Alderney",
+          "title_i18n": {
+            "en": "Race: North Alderney",
+            "pt": "Corrida: North Alderney"
+          },
+          "description": "Win this distinct Brucie street race.",
+          "description_i18n": {
+            "en": "Win this distinct Brucie street race.",
+            "pt": "Vença esta corrida de rua de Brucie."
+          }
+        },
+        {
+          "key": "race-elevated",
+          "title": "Race: Elevated",
+          "title_i18n": {
+            "en": "Race: Elevated",
+            "pt": "Corrida: Elevated"
+          },
+          "description": "Win the mid-Alderney street race.",
+          "description_i18n": {
+            "en": "Win the mid-Alderney street race.",
+            "pt": "Vença a corrida de rua no centro de Alderney."
+          }
+        },
+        {
+          "key": "race-south-alderney",
+          "title": "Race: South Alderney",
+          "title_i18n": {
+            "en": "Race: South Alderney",
+            "pt": "Corrida: South Alderney"
+          },
+          "description": "Win this distinct Brucie street race.",
+          "description_i18n": {
+            "en": "Win this distinct Brucie street race.",
+            "pt": "Vença esta corrida de rua de Brucie."
+          }
+        }
+      ]
+    },
+    {
+      "key": "random-characters",
+      "title": "Random characters for native completion",
+      "title_i18n": {
+        "en": "Random characters for native completion",
+        "pt": "Personagens aleatórios para a conclusão nativa"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "brian-encounters",
+          "title": "Brian Meech: three encounters",
+          "title_i18n": {
+            "en": "Brian Meech: three encounters",
+            "pt": "Brian Meech: três encontros"
+          },
+          "description": "Complete Brian's three separate encounters as they become available.",
+          "description_i18n": {
+            "en": "Complete Brian's three separate encounters as they become available.",
+            "pt": "Conclua os três encontros separados de Brian conforme forem liberados."
+          },
+          "details": "Brian's three meetings happen separately, with time and progress between appearances. Finish one encounter, leave the area and let in-game time pass before looking for the next; repeatedly circling his first location is not enough. Native 100% requires the full necessary strands for the ten listed characters. No More Strangers instead checks meeting required characters, including Jeff's first encounter, so earning that trophy does not prove every follow-up job is finished.",
+          "details_i18n": {
+            "en": "Brian's three meetings happen separately, with time and progress between appearances. Finish one encounter, leave the area and let in-game time pass before looking for the next; repeatedly circling his first location is not enough. Native 100% requires the full necessary strands for the ten listed characters. No More Strangers instead checks meeting required characters, including Jeff's first encounter, so earning that trophy does not prove every follow-up job is finished.",
+            "pt": "Os três encontros com Brian acontecem separadamente, com tempo e progresso entre as aparições. Termine um encontro, saia da área e deixe o tempo do jogo avançar antes de procurar o seguinte; dar voltas no primeiro local não basta. Os 100% nativos exigem concluir as tramas necessárias dos dez personagens listados. No More Strangers verifica conhecer os personagens exigidos, incluindo o primeiro encontro com Jeff; ganhar esse troféu não prova que todos os trabalhos posteriores terminaram."
+          }
+        },
+        {
+          "key": "badman-encounter",
+          "title": "Real Badman",
+          "title_i18n": {
+            "en": "Real Badman",
+            "pt": "Real Badman"
+          },
+          "description": "Finish Badman's street encounter.",
+          "description_i18n": {
+            "en": "Finish Badman's street encounter.",
+            "pt": "Termine o encontro de rua com Badman."
+          }
+        },
+        {
+          "key": "mel-encounter",
+          "title": "Mel",
+          "title_i18n": {
+            "en": "Mel",
+            "pt": "Mel"
+          },
+          "description": "Finish Mel's street encounter.",
+          "description_i18n": {
+            "en": "Finish Mel's street encounter.",
+            "pt": "Termine o encontro de rua com Mel."
+          }
+        },
+        {
+          "key": "ilyena-encounter",
+          "title": "Ilyena Faustin",
+          "title_i18n": {
+            "en": "Ilyena Faustin",
+            "pt": "Ilyena Faustin"
+          },
+          "description": "Finish Ilyena's street encounter.",
+          "description_i18n": {
+            "en": "Finish Ilyena's street encounter.",
+            "pt": "Termine o encontro de rua com Ilyena."
+          }
+        },
+        {
+          "key": "hossan-encounter",
+          "title": "Hossan Ramzy",
+          "title_i18n": {
+            "en": "Hossan Ramzy",
+            "pt": "Hossan Ramzy"
+          },
+          "description": "Finish Hossan's street encounter.",
+          "description_i18n": {
+            "en": "Finish Hossan's street encounter.",
+            "pt": "Termine o encontro de rua com Hossan."
+          }
+        },
+        {
+          "key": "sara-encounters",
+          "title": "Sara: two encounters",
+          "title_i18n": {
+            "en": "Sara: two encounters",
+            "pt": "Sara: dois encontros"
+          },
+          "description": "Finish both encounters with Sara.",
+          "description_i18n": {
+            "en": "Finish both encounters with Sara.",
+            "pt": "Termine os dois encontros com Sara."
+          }
+        },
+        {
+          "key": "pathos-encounters",
+          "title": "Pathos: two encounters",
+          "title_i18n": {
+            "en": "Pathos: two encounters",
+            "pt": "Pathos: dois encontros"
+          },
+          "description": "Finish both encounters with Pathos.",
+          "description_i18n": {
+            "en": "Finish both encounters with Pathos.",
+            "pt": "Termine os dois encontros com Pathos."
+          }
+        },
+        {
+          "key": "marnie-encounters",
+          "title": "Marnie Allen: two encounters",
+          "title_i18n": {
+            "en": "Marnie Allen: two encounters",
+            "pt": "Marnie Allen: dois encontros"
+          },
+          "description": "Finish both encounters with Marnie.",
+          "description_i18n": {
+            "en": "Finish both encounters with Marnie.",
+            "pt": "Termine os dois encontros com Marnie."
+          }
+        },
+        {
+          "key": "eddie-encounters",
+          "title": "Eddie Low: two encounters",
+          "title_i18n": {
+            "en": "Eddie Low: two encounters",
+            "pt": "Eddie Low: dois encontros"
+          },
+          "description": "Finish both encounters with Eddie when his night-time appearances are available.",
+          "description_i18n": {
+            "en": "Finish both encounters with Eddie when his night-time appearances are available.",
+            "pt": "Termine os dois encontros com Eddie quando suas aparições noturnas estiverem disponíveis."
+          }
+        },
+        {
+          "key": "gracie-encounter",
+          "title": "Gracie Ancelotti",
+          "title_i18n": {
+            "en": "Gracie Ancelotti",
+            "pt": "Gracie Ancelotti"
+          },
+          "description": "Finish Gracie's encounter after the relevant story events.",
+          "description_i18n": {
+            "en": "Finish Gracie's encounter after the relevant story events.",
+            "pt": "Termine o encontro com Gracie após os acontecimentos pertinentes da história."
+          }
+        }
+      ]
+    },
+    {
+      "key": "friends-and-games",
+      "title": "Friends and required games",
+      "title_i18n": {
+        "en": "Friends and required games",
+        "pt": "Amigos e jogos exigidos"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "jacob-ability",
+          "title": "Unlock Little Jacob's ability",
+          "title_i18n": {
+            "en": "Unlock Little Jacob's ability",
+            "pt": "Libere a habilidade de Little Jacob"
+          },
+          "description": "Develop the friendship until Jacob offers his special service.",
+          "description_i18n": {
+            "en": "Develop the friendship until Jacob offers his special service.",
+            "pt": "Desenvolva a amizade até Jacob oferecer seu serviço especial."
+          },
+          "details": "Accept outings and keep the friendship healthy until Jacob personally offers his weapons service. For native 100%, also complete every available activity once with Jacob, Brucie and Packie; unlocking an ability does not automatically record every outing. Their activity menus differ, so track each friend's options separately. Roman and Dwayne are not needed for this native friendship percentage, although other trophies involve friendships.",
+          "details_i18n": {
+            "en": "Accept outings and keep the friendship healthy until Jacob personally offers his weapons service. For native 100%, also complete every available activity once with Jacob, Brucie and Packie; unlocking an ability does not automatically record every outing. Their activity menus differ, so track each friend's options separately. Roman and Dwayne are not needed for this native friendship percentage, although other trophies involve friendships.",
+            "pt": "Aceite passeios e mantenha a amizade até Jacob oferecer pessoalmente o serviço de armas. Para os 100% nativos, conclua também cada atividade disponível uma vez com Jacob, Brucie e Packie; liberar uma habilidade não registra automaticamente todos os passeios. Os menus diferem entre amigos, então acompanhe as opções de cada um separadamente. Roman e Dwayne não são necessários para essa porcentagem nativa de amizade, embora outros troféus envolvam amizades."
+          }
+        },
+        {
+          "key": "brucie-ability",
+          "title": "Unlock Brucie's ability",
+          "title_i18n": {
+            "en": "Unlock Brucie's ability",
+            "pt": "Libere a habilidade de Brucie"
+          },
+          "description": "Develop the friendship until Brucie offers his special service.",
+          "description_i18n": {
+            "en": "Develop the friendship until Brucie offers his special service.",
+            "pt": "Desenvolva a amizade até Brucie oferecer seu serviço especial."
+          }
+        },
+        {
+          "key": "packie-ability",
+          "title": "Unlock Packie's ability",
+          "title_i18n": {
+            "en": "Unlock Packie's ability",
+            "pt": "Libere a habilidade de Packie"
+          },
+          "description": "Develop the friendship until Packie offers his special service.",
+          "description_i18n": {
+            "en": "Develop the friendship until Packie offers his special service.",
+            "pt": "Desenvolva a amizade até Packie oferecer seu serviço especial."
+          }
+        },
+        {
+          "key": "jacob-all-activities",
+          "title": "Little Jacob: every available activity",
+          "title_i18n": {
+            "en": "Little Jacob: every available activity",
+            "pt": "Little Jacob: todas as atividades disponíveis"
+          },
+          "description": "Complete each activity Jacob offers at least once.",
+          "description_i18n": {
+            "en": "Complete each activity Jacob offers at least once.",
+            "pt": "Conclua pelo menos uma vez cada atividade oferecida por Jacob."
+          }
+        },
+        {
+          "key": "brucie-all-activities",
+          "title": "Brucie: every available activity",
+          "title_i18n": {
+            "en": "Brucie: every available activity",
+            "pt": "Brucie: todas as atividades disponíveis"
+          },
+          "description": "Complete each activity Brucie offers at least once.",
+          "description_i18n": {
+            "en": "Complete each activity Brucie offers at least once.",
+            "pt": "Conclua pelo menos uma vez cada atividade oferecida por Brucie."
+          }
+        },
+        {
+          "key": "packie-all-activities",
+          "title": "Packie: every available activity",
+          "title_i18n": {
+            "en": "Packie: every available activity",
+            "pt": "Packie: todas as atividades disponíveis"
+          },
+          "description": "Complete each activity Packie offers at least once.",
+          "description_i18n": {
+            "en": "Complete each activity Packie offers at least once.",
+            "pt": "Conclua pelo menos uma vez cada atividade oferecida por Packie."
+          }
+        },
+        {
+          "key": "win-pool",
+          "title": "Win a game of pool",
+          "title_i18n": {
+            "en": "Win a game of pool",
+            "pt": "Vença uma partida de sinuca"
+          },
+          "description": "Beat a computer-controlled opponent in pool.",
+          "description_i18n": {
+            "en": "Beat a computer-controlled opponent in pool.",
+            "pt": "Vença um oponente controlado pelo jogo na sinuca."
+          }
+        },
+        {
+          "key": "win-darts",
+          "title": "Win a game of darts",
+          "title_i18n": {
+            "en": "Win a game of darts",
+            "pt": "Vença uma partida de dardos"
+          },
+          "description": "Beat a computer-controlled opponent in darts.",
+          "description_i18n": {
+            "en": "Beat a computer-controlled opponent in darts.",
+            "pt": "Vença um oponente controlado pelo jogo nos dardos."
+          }
+        },
+        {
+          "key": "win-bowling",
+          "title": "Win a full bowling game",
+          "title_i18n": {
+            "en": "Win a full bowling game",
+            "pt": "Vença uma partida completa de boliche"
+          },
+          "description": "Win a full ten-frame game rather than only a short match.",
+          "description_i18n": {
+            "en": "Win a full ten-frame game rather than only a short match.",
+            "pt": "Vença uma partida inteira de dez rodadas, não apenas uma partida curta."
+          }
+        },
+        {
+          "key": "qub3d-high-score",
+          "title": "Beat the QUB3D high score",
+          "title_i18n": {
+            "en": "Beat the QUB3D high score",
+            "pt": "Supere o recorde de QUB3D"
+          },
+          "description": "Exceed the arcade game's existing high score.",
+          "description_i18n": {
+            "en": "Exceed the arcade game's existing high score.",
+            "pt": "Supere o recorde existente no jogo de fliperama."
+          }
+        }
+      ]
+    },
+    {
+      "key": "optional-trophy-extras",
+      "title": "Optional trophy extras beyond native 100%",
+      "title_i18n": {
+        "en": "Optional trophy extras beyond native 100%",
+        "pt": "Extras opcionais de troféus além dos 100% nativos"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "roman-ability",
+          "title": "Unlock Roman's taxi ability",
+          "title_i18n": {
+            "en": "Unlock Roman's taxi ability",
+            "pt": "Libere a habilidade de táxi de Roman"
+          },
+          "description": "Develop Roman's friendship and receive his service offer while available.",
+          "description_i18n": {
+            "en": "Develop Roman's friendship and receive his service offer while available.",
+            "pt": "Desenvolva a amizade com Roman e receba a oferta de serviço enquanto disponível."
+          },
+          "details": "Unlock Roman's taxi-service offer while his friendship is available, before committing to the ending. The Deal route later removes Roman, making this specific ability trophy missable on that save. Raising other friendships afterward cannot replace his service. Keep a manual save before the final decision if the offer has not appeared. This precaution concerns Driving Mr. Bellic, not the native 100% friendship requirements.",
+          "details_i18n": {
+            "en": "Unlock Roman's taxi-service offer while his friendship is available, before committing to the ending. The Deal route later removes Roman, making this specific ability trophy missable on that save. Raising other friendships afterward cannot replace his service. Keep a manual save before the final decision if the offer has not appeared. This precaution concerns Driving Mr. Bellic, not the native 100% friendship requirements.",
+            "pt": "Libere a oferta de táxi de Roman enquanto a amizade estiver disponível, antes de se comprometer com o final. A rota Deal posteriormente remove Roman, tornando esse troféu específico de habilidade perdível naquele salvamento. Elevar outras amizades depois não substitui o serviço dele. Mantenha um salvamento manual antes da decisão final se a oferta ainda não apareceu. Essa precaução trata de Driving Mr. Bellic, não dos requisitos nativos de amizade para 100%."
+          }
+        },
+        {
+          "key": "living-friends-ninety",
+          "title": "Liberty City (5): friends above 90%",
+          "title_i18n": {
+            "en": "Liberty City (5): friends above 90%",
+            "pt": "Liberty City (5): amigos acima de 90%"
+          },
+          "description": "Raise all surviving applicable friends' liking above ninety percent.",
+          "description_i18n": {
+            "en": "Raise all surviving applicable friends' liking above ninety percent.",
+            "pt": "Eleve a afinidade de todos os amigos vivos aplicáveis acima de noventa por cento."
+          },
+          "details": "Liberty City (5) checks the applicable surviving friends rather than requiring you to undo a story death. Develop Roman, Jacob, Brucie, Packie and Dwayne when they are alive and available on your route. Dwayne's friendship depends on The Holland Play's outcome and replying positively to his later email. Keep the relevant liking values above ninety percent together; the native 100% ability goals alone are not the same requirement.",
+          "details_i18n": {
+            "en": "Liberty City (5) checks the applicable surviving friends rather than requiring you to undo a story death. Develop Roman, Jacob, Brucie, Packie and Dwayne when they are alive and available on your route. Dwayne's friendship depends on The Holland Play's outcome and replying positively to his later email. Keep the relevant liking values above ninety percent together; the native 100% ability goals alone are not the same requirement.",
+            "pt": "Liberty City (5) verifica os amigos vivos aplicáveis, sem exigir desfazer uma morte da história. Desenvolva Roman, Jacob, Brucie, Packie e Dwayne quando estiverem vivos e disponíveis na sua rota. A amizade com Dwayne depende do resultado de The Holland Play e de responder positivamente ao e-mail posterior dele. Mantenha os valores pertinentes de afinidade acima de noventa por cento ao mesmo tempo; as habilidades exigidas nos 100% nativos não são o mesmo requisito."
+          }
+        },
+        {
+          "key": "jeff-first-encounter",
+          "title": "Meet Jeff Harlingford",
+          "title_i18n": {
+            "en": "Meet Jeff Harlingford",
+            "pt": "Encontre Jeff Harlingford"
+          },
+          "description": "Complete Jeff's first meeting for the broader random-character trophy goal.",
+          "description_i18n": {
+            "en": "Complete Jeff's first meeting for the broader random-character trophy goal.",
+            "pt": "Conclua o primeiro encontro com Jeff para a meta mais ampla do troféu de personagens aleatórios."
+          }
+        },
+        {
+          "key": "twenty-street-race-wins",
+          "title": "Win 20 single-player races",
+          "title_i18n": {
+            "en": "Win 20 single-player races",
+            "pt": "Vença 20 corridas para um jogador"
+          },
+          "description": "Keep racing beyond the nine distinct courses until twenty wins are recorded.",
+          "description_i18n": {
+            "en": "Keep racing beyond the nine distinct courses until twenty wins are recorded.",
+            "pt": "Continue correndo além dos nove percursos diferentes até registrar vinte vitórias."
+          }
+        },
+        {
+          "key": "all-helicopter-tours",
+          "title": "Sightseer: every helicopter tour",
+          "title_i18n": {
+            "en": "Sightseer: every helicopter tour",
+            "pt": "Sightseer: todos os passeios de helicóptero"
+          },
+          "description": "Take every distinct Helitours sightseeing route.",
+          "description_i18n": {
+            "en": "Take every distinct Helitours sightseeing route.",
+            "pt": "Faça todos os percursos diferentes dos passeios Helitours."
+          }
+        },
+        {
+          "key": "under-fourteen-bridges",
+          "title": "Under the Radar: 14 bridges",
+          "title_i18n": {
+            "en": "Under the Radar: 14 bridges",
+            "pt": "Under the Radar: 14 pontes"
+          },
+          "description": "Fly a helicopter under each of the fourteen required bridges.",
+          "description_i18n": {
+            "en": "Fly a helicopter under each of the fourteen required bridges.",
+            "pt": "Passe de helicóptero sob cada uma das quatorze pontes exigidas."
+          }
+        }
+      ]
+    },
+    {
+      "key": "optional-ps3-online-coop",
+      "title": "Optional: PS3 online co-op target times",
+      "title_i18n": {
+        "en": "Optional: PS3 online co-op target times",
+        "pt": "Opcional: tempos-alvo do cooperativo online de PS3"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "ranked-coop-target-times",
+          "title": "Fly The Co-op: Hangman's NOOSE, Deal Breaker and Bomb da Base II",
+          "title_i18n": {
+            "en": "Fly The Co-op: Hangman's NOOSE, Deal Breaker and Bomb da Base II",
+            "pt": "Fly The Co-op: Hangman's NOOSE, Deal Breaker e Bomb da Base II"
+          },
+          "description": "In ranked PS3 online co-op, complete the three missions within their trophy target times; this requires online access and other players.",
+          "description_i18n": {
+            "en": "In ranked PS3 online co-op, complete the three missions within their trophy target times; this requires online access and other players.",
+            "pt": "No cooperativo online ranqueado de PS3, conclua as três missões dentro dos tempos-alvo do troféu; é preciso acesso online e outros jogadores."
+          },
+          "details": "Beat the trophy target time separately in Hangman's NOOSE, Deal Breaker and Bomb da Base II. One quick result does not cover all three missions. Agree on roles before starting so players handle objectives and transport efficiently. Use ranked co-op and confirm the recorded result. These goals are separate from native single-player 100%, and depend on PS3 online services and available players.",
+          "details_i18n": {
+            "en": "Beat the trophy target time separately in Hangman's NOOSE, Deal Breaker and Bomb da Base II. One quick result does not cover all three missions. Agree on roles before starting so players handle objectives and transport efficiently. Use ranked co-op and confirm the recorded result. These goals are separate from native single-player 100%, and depend on PS3 online services and available players.",
+            "pt": "Supere separadamente o tempo exigido pelo troféu em Hangman's NOOSE, Deal Breaker e Bomb da Base II. Um resultado rápido não cobre as três missões. Combinem funções antes de começar para executar os objetivos e o transporte com eficiência. Use o modo cooperativo ranqueado e confirme o resultado registrado. Essas metas são separadas do 100% nativo para um jogador e dependem dos serviços online do PS3 e de outros jogadores."
+          }
+        }
+      ]
+    },
+    {
+      "key": "collections",
+      "title": "Collections and native 100%",
+      "title_i18n": {
+        "en": "Collections and native 100%",
+        "pt": "Coleções e 100% nativos"
+      },
+      "kind": "collectible",
+      "items": [
+        {
+          "key": "stevie-thirty-cars",
+          "title": "Stevie: 30 text-message vehicles",
+          "title_i18n": {
+            "en": "Stevie: 30 text-message vehicles",
+            "pt": "Stevie: 30 veículos por mensagem"
+          },
+          "description": "Deliver all thirty vehicles requested by Stevie; these are separate from Brucie's exports.",
+          "description_i18n": {
+            "en": "Deliver all thirty vehicles requested by Stevie; these are separate from Brucie's exports.",
+            "pt": "Entregue os trinta veículos pedidos por Stevie; eles são separados das exportações de Brucie."
+          },
+          "details": "Stevie's requests depend on No. 1 and Smackdown and the relevant Alderney safehouse progress. Read the text's photograph and location, find that specific parked vehicle and deliver it to his Bohan garage. The next request normally arrives six in-game hours after a delivery; sleeping at a safehouse advances time. Do not confuse these texts with Brucie's emailed Exotic Exports or deliver an arbitrary car of the same model.",
+          "details_i18n": {
+            "en": "Stevie's requests depend on No. 1 and Smackdown and the relevant Alderney safehouse progress. Read the text's photograph and location, find that specific parked vehicle and deliver it to his Bohan garage. The next request normally arrives six in-game hours after a delivery; sleeping at a safehouse advances time. Do not confuse these texts with Brucie's emailed Exotic Exports or deliver an arbitrary car of the same model.",
+            "pt": "Os pedidos de Stevie dependem de No. 1, Smackdown e do progresso pertinente do esconderijo de Alderney. Leia a fotografia e a localização da mensagem, encontre aquele veículo estacionado específico e entregue-o na garagem de Bohan. O próximo pedido normalmente chega seis horas do jogo após a entrega; dormir em um esconderijo adianta o tempo. Não confunda essas mensagens com Exotic Exports por e-mail de Brucie nem entregue um carro qualquer do mesmo modelo."
+          }
+        },
+        {
+          "key": "pigeons-two-hundred",
+          "title": "Find all 200 flying rats",
+          "title_i18n": {
+            "en": "Find all 200 flying rats",
+            "pt": "Encontre os 200 pombos"
+          },
+          "description": "Clear the two hundred pigeons across Liberty City; this is an aggregate collection goal.",
+          "description_i18n": {
+            "en": "Clear the two hundred pigeons across Liberty City; this is an aggregate collection goal.",
+            "pt": "Elimine os duzentos pombos de Liberty City; esta é uma meta agregada de coleção."
+          }
+        },
+        {
+          "key": "fifty-unique-jumps",
+          "title": "Complete all 50 unique jumps",
+          "title_i18n": {
+            "en": "Complete all 50 unique jumps",
+            "pt": "Conclua os 50 saltos únicos"
+          },
+          "description": "Register every unique jump; individual takeoff locations are not enumerated here.",
+          "description_i18n": {
+            "en": "Register every unique jump; individual takeoff locations are not enumerated here.",
+            "pt": "Registre todos os saltos únicos; as localizações individuais de partida não estão enumeradas aqui."
+          },
+          "details": "Use a suitable fast vehicle and line up before accelerating, leaving enough room to land in the jump's intended area. Slow motion only signals an attempt; wait for the success message and check the statistic before marking it complete. Keep a location checklist because repeating a successful jump does not add another completion. This aggregate goal covers fifty registered jumps rather than fifty arbitrary launches.",
+          "details_i18n": {
+            "en": "Use a suitable fast vehicle and line up before accelerating, leaving enough room to land in the jump's intended area. Slow motion only signals an attempt; wait for the success message and check the statistic before marking it complete. Keep a location checklist because repeating a successful jump does not add another completion. This aggregate goal covers fifty registered jumps rather than fifty arbitrary launches.",
+            "pt": "Use um veículo rápido adequado e alinhe-se antes de acelerar, reservando espaço para aterrissar na área prevista do salto. A câmera lenta apenas indica uma tentativa; espere a mensagem de sucesso e confira a estatística antes de marcar como concluído. Mantenha uma lista de locais, pois repetir um salto já aprovado não acrescenta outra conclusão. Esta meta agregada exige cinquenta saltos registrados, não cinquenta lançamentos quaisquer."
+          }
+        },
+        {
+          "key": "verify-native-completion",
+          "title": "Verify native 100% completion",
+          "title_i18n": {
+            "en": "Verify native 100% completion",
+            "pt": "Confira os 100% nativos"
+          },
+          "description": "Check the single-player completion statistic after finishing the required missions, activities and collections.",
+          "description_i18n": {
+            "en": "Check the single-player completion statistic after finishing the required missions, activities and collections.",
+            "pt": "Confira a porcentagem do modo para um jogador após concluir as missões, atividades e coleções exigidas."
+          },
+          "details": "Native 100% is single-player and requires one ending, the four optional story jobs, the required deliveries, police work, assassinations, races, games, friendship activities and collections. It does not require twenty race wins, every helicopter tour, bridge flights or multiplayer trophies. Jeff and the conditional Ivan, Cherise and Clarence encounters do not contribute to its random-character requirement. The PS3 platinum is broader: it also requires the base game's ten multiplayer trophies, whose completion depends on online play and other players.",
+          "details_i18n": {
+            "en": "Native 100% is single-player and requires one ending, the four optional story jobs, the required deliveries, police work, assassinations, races, games, friendship activities and collections. It does not require twenty race wins, every helicopter tour, bridge flights or multiplayer trophies. Jeff and the conditional Ivan, Cherise and Clarence encounters do not contribute to its random-character requirement. The PS3 platinum is broader: it also requires the base game's ten multiplayer trophies, whose completion depends on online play and other players.",
+            "pt": "Os 100% nativos são para um jogador e exigem um final, os quatro trabalhos opcionais da história, as entregas, ocorrências policiais, contratos, corridas, jogos, atividades de amizade e coleções exigidos. Não exigem vinte vitórias em corridas, todos os passeios de helicóptero, voos sob pontes nem troféus multiplayer. Jeff e os encontros condicionais com Ivan, Cherise e Clarence não entram no requisito de personagens aleatórios. A platina de PS3 é mais ampla: também exige os dez troféus multiplayer do jogo-base, que dependem de jogo online e outros jogadores."
+          }
+        }
+      ]
+    }
+  ],
+  "trophies": [
+    {
+      "key": "trophy-taking-a-liberty",
+      "title": "Taking A Liberty",
+      "title_i18n": {
+        "en": "Taking A Liberty",
+        "pt": "Taking A Liberty"
+      },
+      "description": "Earn every other base-game PS3 trophy, including the multiplayer requirements.",
+      "description_i18n": {
+        "en": "Earn every other base-game PS3 trophy, including the multiplayer requirements.",
+        "pt": "Obtenha todos os outros troféus do jogo-base de PS3, incluindo os requisitos multiplayer."
+      },
+      "tier": "platinum"
+    },
+    {
+      "key": "trophy-off-the-boat",
+      "title": "Off The Boat",
+      "title_i18n": {
+        "en": "Off The Boat",
+        "pt": "Off The Boat"
+      },
+      "description": "Finish The Cousins Bellic.",
+      "description_i18n": {
+        "en": "Finish The Cousins Bellic.",
+        "pt": "Termine The Cousins Bellic."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-one-hundred-and-eighty",
+      "title": "One Hundred And Eighty",
+      "title_i18n": {
+        "en": "One Hundred And Eighty",
+        "pt": "One Hundred And Eighty"
+      },
+      "description": "Score three triple twenties during one turn at darts.",
+      "description_i18n": {
+        "en": "Score three triple twenties during one turn at darts.",
+        "pt": "Acerte três triplos vinte em uma única rodada de dardos."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-pool-shark",
+      "title": "Pool Shark",
+      "title_i18n": {
+        "en": "Pool Shark",
+        "pt": "Pool Shark"
+      },
+      "description": "Win a pool match against an in-game friend.",
+      "description_i18n": {
+        "en": "Win a pool match against an in-game friend.",
+        "pt": "Vença uma partida de sinuca contra um amigo do jogo."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-king-of-qub3d",
+      "title": "King of QUB3D",
+      "title_i18n": {
+        "en": "King of QUB3D",
+        "pt": "King of QUB3D"
+      },
+      "description": "Exceed QUB3D's high-score record.",
+      "description_i18n": {
+        "en": "Exceed QUB3D's high-score record.",
+        "pt": "Supere o recorde de pontos de QUB3D."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-finish-him",
+      "title": "Finish Him",
+      "title_i18n": {
+        "en": "Finish Him",
+        "pt": "Finish Him"
+      },
+      "description": "Perform ten successful melee counters within four minutes.",
+      "description_i18n": {
+        "en": "Perform ten successful melee counters within four minutes.",
+        "pt": "Execute dez contra-ataques corpo a corpo bem-sucedidos em quatro minutos."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-genetically-superior",
+      "title": "Genetically Superior",
+      "title_i18n": {
+        "en": "Genetically Superior",
+        "pt": "Genetically Superior"
+      },
+      "description": "Record twenty victories in single-player street races.",
+      "description_i18n": {
+        "en": "Record twenty victories in single-player street races.",
+        "pt": "Registre vinte vitórias nas corridas de rua para um jogador."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-wheelie-rider",
+      "title": "Wheelie Rider",
+      "title_i18n": {
+        "en": "Wheelie Rider",
+        "pt": "Wheelie Rider"
+      },
+      "description": "Maintain one motorcycle wheelie for at least five hundred feet.",
+      "description_i18n": {
+        "en": "Maintain one motorcycle wheelie for at least five hundred feet.",
+        "pt": "Mantenha uma única empinada de moto por pelo menos quinhentos pés."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-gobble-gobble",
+      "title": "Gobble Gobble",
+      "title_i18n": {
+        "en": "Gobble Gobble",
+        "pt": "Gobble Gobble"
+      },
+      "description": "Bowl three consecutive strikes in the same game.",
+      "description_i18n": {
+        "en": "Bowl three consecutive strikes in the same game.",
+        "pt": "Faça três strikes consecutivos na mesma partida de boliche."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-driving-mr-bellic",
+      "title": "Driving Mr. Bellic",
+      "title_i18n": {
+        "en": "Driving Mr. Bellic",
+        "pt": "Driving Mr. Bellic"
+      },
+      "description": "Unlock Roman's friendship taxi service before it becomes unavailable.",
+      "description_i18n": {
+        "en": "Unlock Roman's friendship taxi service before it becomes unavailable.",
+        "pt": "Libere o serviço de táxi da amizade com Roman antes de ele ficar indisponível."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-rolled-over",
+      "title": "Rolled Over",
+      "title_i18n": {
+        "en": "Rolled Over",
+        "pt": "Rolled Over"
+      },
+      "description": "Make a car roll five times from a single crash.",
+      "description_i18n": {
+        "en": "Make a car roll five times from a single crash.",
+        "pt": "Faça um carro capotar cinco vezes em um único acidente."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-walk-free",
+      "title": "Walk Free",
+      "title_i18n": {
+        "en": "Walk Free",
+        "pt": "Walk Free"
+      },
+      "description": "Escape a four-star police pursuit without using a cheat to remove it.",
+      "description_i18n": {
+        "en": "Escape a four-star police pursuit without using a cheat to remove it.",
+        "pt": "Escape de uma perseguição policial de quatro estrelas sem removê-la com código."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-courier-service",
+      "title": "Courier Service",
+      "title_i18n": {
+        "en": "Courier Service",
+        "pt": "Courier Service"
+      },
+      "description": "Finish all ten delivery jobs for Little Jacob.",
+      "description_i18n": {
+        "en": "Finish all ten delivery jobs for Little Jacob.",
+        "pt": "Termine os dez trabalhos de entrega de Little Jacob."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-retail-therapy",
+      "title": "Retail Therapy",
+      "title_i18n": {
+        "en": "Retail Therapy",
+        "pt": "Retail Therapy"
+      },
+      "description": "Unlock Little Jacob's friendship weapons service.",
+      "description_i18n": {
+        "en": "Unlock Little Jacob's friendship weapons service.",
+        "pt": "Libere o serviço de armas da amizade com Little Jacob."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-chain-reaction",
+      "title": "Chain Reaction",
+      "title_i18n": {
+        "en": "Chain Reaction",
+        "pt": "Chain Reaction"
+      },
+      "description": "Destroy ten vehicles inside one ten-second interval.",
+      "description_i18n": {
+        "en": "Destroy ten vehicles inside one ten-second interval.",
+        "pt": "Destrua dez veículos no mesmo intervalo de dez segundos."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-one-man-army",
+      "title": "One Man Army",
+      "title_i18n": {
+        "en": "One Man Army",
+        "pt": "One Man Army"
+      },
+      "description": "Stay alive with a six-star wanted level for five minutes.",
+      "description_i18n": {
+        "en": "Stay alive with a six-star wanted level for five minutes.",
+        "pt": "Permaneça vivo com seis estrelas de procurado durante cinco minutos."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "trophy-lowest-point",
+      "title": "Lowest Point",
+      "title_i18n": {
+        "en": "Lowest Point",
+        "pt": "Lowest Point"
+      },
+      "description": "Finish Roman's Sorrow.",
+      "description_i18n": {
+        "en": "Finish Roman's Sorrow.",
+        "pt": "Termine Roman's Sorrow."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-order-fulfilled",
+      "title": "Order Fulfilled",
+      "title_i18n": {
+        "en": "Order Fulfilled",
+        "pt": "Order Fulfilled"
+      },
+      "description": "Deliver every vehicle from Brucie's ten emailed export requests.",
+      "description_i18n": {
+        "en": "Deliver every vehicle from Brucie's ten emailed export requests.",
+        "pt": "Entregue todos os veículos dos dez pedidos de exportação enviados por e-mail por Brucie."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-manhunt",
+      "title": "Manhunt",
+      "title_i18n": {
+        "en": "Manhunt",
+        "pt": "Manhunt"
+      },
+      "description": "Eliminate all thirty Most Wanted targets across the three police-computer lists.",
+      "description_i18n": {
+        "en": "Eliminate all thirty Most Wanted targets across the three police-computer lists.",
+        "pt": "Elimine os trinta alvos Most Wanted das três listas do computador policial."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-cleaned-the-mean-streets",
+      "title": "Cleaned The Mean Streets",
+      "title_i18n": {
+        "en": "Cleaned The Mean Streets",
+        "pt": "Cleaned The Mean Streets"
+      },
+      "description": "Complete twenty current-crime jobs through the police computer.",
+      "description_i18n": {
+        "en": "Complete twenty current-crime jobs through the police computer.",
+        "pt": "Conclua vinte ocorrências de crimes em andamento pelo computador policial."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-fed-the-fish",
+      "title": "Fed The Fish",
+      "title_i18n": {
+        "en": "Fed The Fish",
+        "pt": "Fed The Fish"
+      },
+      "description": "Finish Uncle Vlad.",
+      "description_i18n": {
+        "en": "Finish Uncle Vlad.",
+        "pt": "Termine Uncle Vlad."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-it-ll-cost-ya",
+      "title": "It'll Cost Ya",
+      "title_i18n": {
+        "en": "It'll Cost Ya",
+        "pt": "It'll Cost Ya"
+      },
+      "description": "Ride a taxi between islands and let the whole journey play without skipping.",
+      "description_i18n": {
+        "en": "Ride a taxi between islands and let the whole journey play without skipping.",
+        "pt": "Viaje de táxi entre ilhas e acompanhe o trajeto inteiro sem pular."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-sightseer",
+      "title": "Sightseer",
+      "title_i18n": {
+        "en": "Sightseer",
+        "pt": "Sightseer"
+      },
+      "description": "Take all five different Helitours routes.",
+      "description_i18n": {
+        "en": "Take all five different Helitours routes.",
+        "pt": "Faça os cinco percursos diferentes de Helitours."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-warm-coffee",
+      "title": "Warm Coffee",
+      "title_i18n": {
+        "en": "Warm Coffee",
+        "pt": "Warm Coffee"
+      },
+      "description": "Have a successful date that ends with an invitation into the girlfriend's home.",
+      "description_i18n": {
+        "en": "Have a successful date that ends with an invitation into the girlfriend's home.",
+        "pt": "Tenha um encontro bem-sucedido que termine com um convite para entrar na casa da namorada."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-that-s-how-we-roll",
+      "title": "That's How We Roll!",
+      "title_i18n": {
+        "en": "That's How We Roll!",
+        "pt": "That's How We Roll!"
+      },
+      "description": "Unlock Brucie's friendship helicopter service.",
+      "description_i18n": {
+        "en": "Unlock Brucie's friendship helicopter service.",
+        "pt": "Libere o serviço de helicóptero da amizade com Brucie."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-half-million",
+      "title": "Half Million",
+      "title_i18n": {
+        "en": "Half Million",
+        "pt": "Half Million"
+      },
+      "description": "Hold at least $500,000 at the same time.",
+      "description_i18n": {
+        "en": "Hold at least $500,000 at the same time.",
+        "pt": "Tenha pelo menos $500.000 de uma só vez."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-impossible-trinity",
+      "title": "Impossible Trinity",
+      "title_i18n": {
+        "en": "Impossible Trinity",
+        "pt": "Impossible Trinity"
+      },
+      "description": "Finish Museum Piece.",
+      "description_i18n": {
+        "en": "Finish Museum Piece.",
+        "pt": "Termine Museum Piece."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-full-exploration",
+      "title": "Full Exploration",
+      "title_i18n": {
+        "en": "Full Exploration",
+        "pt": "Full Exploration"
+      },
+      "description": "Unlock every main island through story progress.",
+      "description_i18n": {
+        "en": "Unlock every main island through story progress.",
+        "pt": "Libere todas as ilhas principais avançando na história."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-you-got-the-message",
+      "title": "You Got The Message",
+      "title_i18n": {
+        "en": "You Got The Message",
+        "pt": "You Got The Message"
+      },
+      "description": "Deliver all thirty vehicles requested in Stevie's messages.",
+      "description_i18n": {
+        "en": "Deliver all thirty vehicles requested in Stevie's messages.",
+        "pt": "Entregue os trinta veículos pedidos nas mensagens de Stevie."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-dare-devil",
+      "title": "Dare Devil",
+      "title_i18n": {
+        "en": "Dare Devil",
+        "pt": "Dare Devil"
+      },
+      "description": "Successfully register all fifty unique stunt jumps.",
+      "description_i18n": {
+        "en": "Successfully register all fifty unique stunt jumps.",
+        "pt": "Registre com sucesso os cinquenta saltos únicos."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "trophy-assassin-s-greed",
+      "title": "Assassin's Greed",
+      "title_i18n": {
+        "en": "Assassin's Greed",
+        "pt": "Assassin's Greed"
+      },
+      "description": "Finish all nine contracts from The Fixer.",
+      "description_i18n": {
+        "en": "Finish all nine contracts from The Fixer.",
+        "pt": "Termine os nove contratos de The Fixer."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-endangered-species",
+      "title": "Endangered Species",
+      "title_i18n": {
+        "en": "Endangered Species",
+        "pt": "Endangered Species"
+      },
+      "description": "Eliminate all two hundred flying rats.",
+      "description_i18n": {
+        "en": "Eliminate all two hundred flying rats.",
+        "pt": "Elimine os duzentos pombos."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "trophy-under-the-radar",
+      "title": "Under The Radar",
+      "title_i18n": {
+        "en": "Under The Radar",
+        "pt": "Under The Radar"
+      },
+      "description": "Fly beneath all fourteen required bridges in a helicopter.",
+      "description_i18n": {
+        "en": "Fly beneath all fourteen required bridges in a helicopter.",
+        "pt": "Passe de helicóptero sob as quatorze pontes exigidas."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-dial-b-for-bomb",
+      "title": "Dial B For Bomb",
+      "title_i18n": {
+        "en": "Dial B For Bomb",
+        "pt": "Dial B For Bomb"
+      },
+      "description": "Unlock Packie's friendship car-bomb service.",
+      "description_i18n": {
+        "en": "Unlock Packie's friendship car-bomb service.",
+        "pt": "Libere o serviço de carro-bomba da amizade com Packie."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-gracefully-taken",
+      "title": "Gracefully Taken",
+      "title_i18n": {
+        "en": "Gracefully Taken",
+        "pt": "Gracefully Taken"
+      },
+      "description": "Finish I'll Take Her.",
+      "description_i18n": {
+        "en": "Finish I'll Take Her.",
+        "pt": "Termine I'll Take Her."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-liberty-city-5",
+      "title": "Liberty City (5)",
+      "title_i18n": {
+        "en": "Liberty City (5)",
+        "pt": "Liberty City (5)"
+      },
+      "description": "Raise every surviving applicable friend's liking above ninety percent.",
+      "description_i18n": {
+        "en": "Raise every surviving applicable friend's liking above ninety percent.",
+        "pt": "Eleve a afinidade de todos os amigos vivos aplicáveis acima de noventa por cento."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "trophy-no-more-strangers",
+      "title": "No More Strangers",
+      "title_i18n": {
+        "en": "No More Strangers",
+        "pt": "No More Strangers"
+      },
+      "description": "Meet the required random characters, including Jeff's first encounter. Story deaths of Ivan, Cherise or Clarence do not block this trophy.",
+      "description_i18n": {
+        "en": "Meet the required random characters, including Jeff's first encounter. Story deaths of Ivan, Cherise or Clarence do not block this trophy.",
+        "pt": "Conheça os personagens aleatórios exigidos, incluindo o primeiro encontro com Jeff. As mortes de Ivan, Cherise ou Clarence na história não impedem este troféu."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-that-special-someone",
+      "title": "That Special Someone",
+      "title_i18n": {
+        "en": "That Special Someone",
+        "pt": "That Special Someone"
+      },
+      "description": "Finish That Special Someone with either decision.",
+      "description_i18n": {
+        "en": "Finish That Special Someone with either decision.",
+        "pt": "Termine That Special Someone com qualquer uma das decisões."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-you-won",
+      "title": "You Won!",
+      "title_i18n": {
+        "en": "You Won!",
+        "pt": "You Won!"
+      },
+      "description": "Reach the credits through either complete ending route.",
+      "description_i18n": {
+        "en": "Reach the credits through either complete ending route.",
+        "pt": "Chegue aos créditos por qualquer uma das rotas completas de final."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "trophy-liberty-city-minute",
+      "title": "Liberty City Minute",
+      "title_i18n": {
+        "en": "Liberty City Minute",
+        "pt": "Liberty City Minute"
+      },
+      "description": "Finish the story before the save's played-time counter reaches thirty hours.",
+      "description_i18n": {
+        "en": "Finish the story before the save's played-time counter reaches thirty hours.",
+        "pt": "Termine a história antes de o contador de tempo jogado do salvamento chegar a trinta horas."
+      },
+      "tier": "gold"
+    },
+    {
+      "key": "trophy-key-to-the-city",
+      "title": "Key To The City",
+      "title_i18n": {
+        "en": "Key To The City",
+        "pt": "Key To The City"
+      },
+      "description": "Reach one hundred percent in the base game's single-player completion statistic.",
+      "description_i18n": {
+        "en": "Reach one hundred percent in the base game's single-player completion statistic.",
+        "pt": "Alcance cem por cento na estatística de conclusão para um jogador do jogo-base."
+      },
+      "tier": "gold"
+    },
+    {
+      "key": "trophy-teamplayer",
+      "title": "Teamplayer",
+      "title_i18n": {
+        "en": "Teamplayer",
+        "pt": "Teamplayer"
+      },
+      "description": "PS3 online multiplayer: eliminate five different opposing players in a single ranked team match.",
+      "description_i18n": {
+        "en": "PS3 online multiplayer: eliminate five different opposing players in a single ranked team match.",
+        "pt": "Multiplayer online de PS3: elimine cinco jogadores adversários diferentes em uma única partida ranqueada por equipes."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-cut-your-teeth",
+      "title": "Cut Your Teeth",
+      "title_i18n": {
+        "en": "Cut Your Teeth",
+        "pt": "Cut Your Teeth"
+      },
+      "description": "PS3 online multiplayer: earn a promotion to rank one in ranked play.",
+      "description_i18n": {
+        "en": "PS3 online multiplayer: earn a promotion to rank one in ranked play.",
+        "pt": "Multiplayer online de PS3: obtenha uma promoção ao nível um em partidas ranqueadas."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-join-the-midnight-club",
+      "title": "Join The Midnight Club",
+      "title_i18n": {
+        "en": "Join The Midnight Club",
+        "pt": "Join The Midnight Club"
+      },
+      "description": "PS3 online multiplayer: win a ranked race with damage enabled while keeping vehicle damage minimal.",
+      "description_i18n": {
+        "en": "PS3 online multiplayer: win a ranked race with damage enabled while keeping vehicle damage minimal.",
+        "pt": "Multiplayer online de PS3: vença uma corrida ranqueada com dano habilitado mantendo o dano do veículo mínimo."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-fly-the-co-op",
+      "title": "Fly The Co-op",
+      "title_i18n": {
+        "en": "Fly The Co-op",
+        "pt": "Fly The Co-op"
+      },
+      "description": "PS3 online multiplayer: beat the target times in Deal Breaker, Hangman's NOOSE and Bomb da Base II.",
+      "description_i18n": {
+        "en": "PS3 online multiplayer: beat the target times in Deal Breaker, Hangman's NOOSE and Bomb da Base II.",
+        "pt": "Multiplayer online de PS3: supere os tempos-alvo de Deal Breaker, Hangman's NOOSE e Bomb da Base II."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-taking-it-for-the-team",
+      "title": "Taking It For The Team",
+      "title_i18n": {
+        "en": "Taking It For The Team",
+        "pt": "Taking It For The Team"
+      },
+      "description": "PS3 online multiplayer: win each ranked team-based game type.",
+      "description_i18n": {
+        "en": "PS3 online multiplayer: win each ranked team-based game type.",
+        "pt": "Multiplayer online de PS3: vença cada modalidade ranqueada por equipes."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-top-of-the-food-chain",
+      "title": "Top Of The Food Chain",
+      "title_i18n": {
+        "en": "Top Of The Food Chain",
+        "pt": "Top Of The Food Chain"
+      },
+      "description": "PS3 online multiplayer: eliminate twenty players with a pistol in one ranked Deathmatch.",
+      "description_i18n": {
+        "en": "PS3 online multiplayer: eliminate twenty players with a pistol in one ranked Deathmatch.",
+        "pt": "Multiplayer online de PS3: elimine vinte jogadores com pistola em um único Deathmatch ranqueado."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-top-the-midnight-club",
+      "title": "Top The Midnight Club",
+      "title_i18n": {
+        "en": "Top The Midnight Club",
+        "pt": "Top The Midnight Club"
+      },
+      "description": "PS3 online multiplayer: win twenty different ranked standard race tracks.",
+      "description_i18n": {
+        "en": "PS3 online multiplayer: win twenty different ranked standard race tracks.",
+        "pt": "Multiplayer online de PS3: vença vinte pistas diferentes de corridas ranqueadas padrão."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-wanted",
+      "title": "Wanted",
+      "title_i18n": {
+        "en": "Wanted",
+        "pt": "Wanted"
+      },
+      "description": "PS3 online multiplayer: earn enough ranked cash to reach the maximum rank, ten.",
+      "description_i18n": {
+        "en": "PS3 online multiplayer: earn enough ranked cash to reach the maximum rank, ten.",
+        "pt": "Multiplayer online de PS3: ganhe dinheiro ranqueado suficiente para alcançar o nível máximo, dez."
+      },
+      "tier": "gold"
+    },
+    {
+      "key": "trophy-auf-wiedersehen-petrovic",
+      "title": "Auf Wiedersehen Petrovic",
+      "title_i18n": {
+        "en": "Auf Wiedersehen Petrovic",
+        "pt": "Auf Wiedersehen Petrovic"
+      },
+      "description": "PS3 online multiplayer: win every required ranked mode and race variation and both Cops 'n Crooks sides.",
+      "description_i18n": {
+        "en": "PS3 online multiplayer: win every required ranked mode and race variation and both Cops 'n Crooks sides.",
+        "pt": "Multiplayer online de PS3: vença todas as modalidades e variações de corrida ranqueadas exigidas e os dois lados de Cops 'n Crooks."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-let-sleeping-rockstars-lie",
+      "title": "Let Sleeping Rockstars Lie",
+      "title_i18n": {
+        "en": "Let Sleeping Rockstars Lie",
+        "pt": "Let Sleeping Rockstars Lie"
+      },
+      "description": "PS3 online multiplayer: eliminate a Rockstar developer or a player carrying this viral trophy in ranked play.",
+      "description_i18n": {
+        "en": "PS3 online multiplayer: eliminate a Rockstar developer or a player carrying this viral trophy in ranked play.",
+        "pt": "Multiplayer online de PS3: elimine um desenvolvedor da Rockstar ou um jogador que tenha este troféu viral em uma partida ranqueada."
+      },
+      "tier": "bronze"
+    }
+  ],
+  "hltb_id": "4062",
+  "hltb_main_hours": 27,
+  "hltb_main_extra_hours": 40,
+  "hltb_completionist_hours": 72
+}

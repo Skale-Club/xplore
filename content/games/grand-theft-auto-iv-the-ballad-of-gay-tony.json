@@ -1,0 +1,1418 @@
+{
+  "slug": "grand-theft-auto-iv-the-ballad-of-gay-tony",
+  "title": "Grand Theft Auto IV: The Ballad of Gay Tony",
+  "title_i18n": {
+    "en": "Grand Theft Auto IV: The Ballad of Gay Tony",
+    "pt": "Grand Theft Auto IV: The Ballad of Gay Tony"
+  },
+  "platform": "PlayStation 3",
+  "cover_url": "/covers/grand-theft-auto-iv-the-ballad-of-gay-tony.png",
+  "created_by": "dd5c4bf0-85ea-4986-9c04-b37e8c986150",
+  "categories": [
+    {
+      "key": "back-in-luis-neighborhood",
+      "title": "Luis, Tony and the neighborhood",
+      "title_i18n": {
+        "en": "Luis, Tony and the neighborhood",
+        "pt": "Luis, Tony e o bairro"
+      },
+      "items": [
+        {
+          "key": "i-luv-lc",
+          "title": "Complete I Luv LC",
+          "title_i18n": {
+            "en": "Complete I Luv LC",
+            "pt": "Conclua I Luv LC"
+          },
+          "description": "Reach Tony's clubs and finish Luis's introduction.",
+          "description_i18n": {
+            "en": "Reach Tony's clubs and finish Luis's introduction.",
+            "pt": "Visite os clubes de Tony e conclua a apresentação de Luis."
+          }
+        },
+        {
+          "key": "practice-swing",
+          "title": "Complete Practice Swing",
+          "title_i18n": {
+            "en": "Complete Practice Swing",
+            "pt": "Conclua Practice Swing"
+          },
+          "description": "Finish the golf-club assignment and return with Tony.",
+          "description_i18n": {
+            "en": "Finish the golf-club assignment and return with Tony.",
+            "pt": "Conclua o trabalho no clube de golfe e retorne com Tony."
+          }
+        },
+        {
+          "key": "chinese-takeout",
+          "title": "Complete Chinese Takeout",
+          "title_i18n": {
+            "en": "Complete Chinese Takeout",
+            "pt": "Conclua Chinese Takeout"
+          },
+          "description": "Get through the building encounter and bring Tony home.",
+          "description_i18n": {
+            "en": "Get through the building encounter and bring Tony home.",
+            "pt": "Supere o confronto no prédio e leve Tony para casa."
+          }
+        },
+        {
+          "key": "mommas-boy",
+          "title": "Complete Momma's Boy",
+          "title_i18n": {
+            "en": "Complete Momma's Boy",
+            "pt": "Conclua Momma's Boy"
+          },
+          "description": "Resolve the fighting assignment connected to Luis's mother.",
+          "description_i18n": {
+            "en": "Resolve the fighting assignment connected to Luis's mother.",
+            "pt": "Resolva o trabalho de luta ligado à mãe de Luis."
+          }
+        },
+        {
+          "key": "corner-kids",
+          "title": "Complete Corner Kids",
+          "title_i18n": {
+            "en": "Complete Corner Kids",
+            "pt": "Conclua Corner Kids"
+          },
+          "description": "Help Armando and Henrique through their waterfront job.",
+          "description_i18n": {
+            "en": "Help Armando and Henrique through their waterfront job.",
+            "pt": "Ajude Armando e Henrique no trabalho à beira-mar."
+          }
+        },
+        {
+          "key": "clocking-off",
+          "title": "Complete Clocking Off",
+          "title_i18n": {
+            "en": "Complete Clocking Off",
+            "pt": "Conclua Clocking Off"
+          },
+          "description": "Complete the dockside operation with Luis's friends.",
+          "description_i18n": {
+            "en": "Complete the dockside operation with Luis's friends.",
+            "pt": "Conclua a operação nas docas com os amigos de Luis."
+          }
+        }
+      ]
+    },
+    {
+      "key": "new-clients-and-rising-stakes",
+      "title": "New clients and rising stakes",
+      "title_i18n": {
+        "en": "New clients and rising stakes",
+        "pt": "Novos clientes e riscos maiores"
+      },
+      "items": [
+        {
+          "key": "sexy-time",
+          "title": "Complete Sexy Time",
+          "title_i18n": {
+            "en": "Complete Sexy Time",
+            "pt": "Conclua Sexy Time"
+          },
+          "description": "Carry out Yusuf's offshore aircraft assignment.",
+          "description_i18n": {
+            "en": "Carry out Yusuf's offshore aircraft assignment.",
+            "pt": "Execute o trabalho de Yusuf com a aeronave em alto-mar."
+          }
+        },
+        {
+          "key": "kibbutz-number-one",
+          "title": "Complete Kibbutz Number One",
+          "title_i18n": {
+            "en": "Complete Kibbutz Number One",
+            "pt": "Conclua Kibbutz Number One"
+          },
+          "description": "Complete Mori's first job and its escape.",
+          "description_i18n": {
+            "en": "Complete Mori's first job and its escape.",
+            "pt": "Conclua o primeiro trabalho de Mori e a fuga."
+          }
+        },
+        {
+          "key": "bang-bang",
+          "title": "Complete Bang Bang",
+          "title_i18n": {
+            "en": "Complete Bang Bang",
+            "pt": "Conclua Bang Bang"
+          },
+          "description": "Finish Tony's series of demolition targets.",
+          "description_i18n": {
+            "en": "Finish Tony's series of demolition targets.",
+            "pt": "Conclua a sequência de alvos de demolição de Tony."
+          },
+          "details": "Place the crane charges at its base, move clear and detonate. For the moving train, attach a charge before triggering it. Afterward, prioritize reaching the airport target before takeoff rather than fighting every guard; escape the wanted area once the final target is destroyed.",
+          "details_i18n": {
+            "en": "Place the crane charges at its base, move clear and detonate. For the moving train, attach a charge before triggering it. Afterward, prioritize reaching the airport target before takeoff rather than fighting every guard; escape the wanted area once the final target is destroyed.",
+            "pt": "Coloque as cargas na base do guindaste, afaste-se e detone. No trem em movimento, fixe uma carga antes de acioná-la. Depois, priorize alcançar o alvo do aeroporto antes da decolagem em vez de enfrentar todos os guardas; escape da área de busca após destruir o último alvo."
+          }
+        },
+        {
+          "key": "blog-this-first",
+          "title": "Complete Blog This!...",
+          "title_i18n": {
+            "en": "Complete Blog This!...",
+            "pt": "Conclua Blog This!..."
+          },
+          "description": "Complete the first assignment involving the online critic.",
+          "description_i18n": {
+            "en": "Complete the first assignment involving the online critic.",
+            "pt": "Conclua o primeiro trabalho envolvendo o crítico da internet."
+          }
+        },
+        {
+          "key": "high-dive",
+          "title": "Complete High Dive",
+          "title_i18n": {
+            "en": "Complete High Dive",
+            "pt": "Conclua High Dive"
+          },
+          "description": "Follow Yusuf's rooftop assignment through its exit.",
+          "description_i18n": {
+            "en": "Follow Yusuf's rooftop assignment through its exit.",
+            "pt": "Execute o trabalho de Yusuf nos telhados até a saída."
+          }
+        },
+        {
+          "key": "caught-with-your-pants-down",
+          "title": "Complete Caught with Your Pants Down",
+          "title_i18n": {
+            "en": "Complete Caught with Your Pants Down",
+            "pt": "Conclua Caught with Your Pants Down"
+          },
+          "description": "Secure Yusuf's requested vehicle and deliver it.",
+          "description_i18n": {
+            "en": "Secure Yusuf's requested vehicle and deliver it.",
+            "pt": "Obtenha o veículo pedido por Yusuf e faça a entrega."
+          },
+          "details": "During the airborne sniping stage, aim at the four yellow fasteners supporting the APC, not its armor or the helicopter. Steady the scope between movements and release every attachment. After the drop, deploy the parachute and approach the APC rather than diving straight into the road.",
+          "details_i18n": {
+            "en": "During the airborne sniping stage, aim at the four yellow fasteners supporting the APC, not its armor or the helicopter. Steady the scope between movements and release every attachment. After the drop, deploy the parachute and approach the APC rather than diving straight into the road.",
+            "pt": "No trecho de precisão no ar, mire nos quatro suportes amarelos que sustentam o APC, não na blindagem nem no helicóptero. Estabilize a mira entre os movimentos e solte todos os pontos de fixação. Após a queda, abra o paraquedas e aproxime-se do APC, sem mergulhar diretamente na rua."
+          }
+        }
+      ]
+    },
+    {
+      "key": "races-and-nightlife",
+      "title": "Races and nightlife",
+      "title_i18n": {
+        "en": "Races and nightlife",
+        "pt": "Corridas e vida noturna"
+      },
+      "items": [
+        {
+          "key": "this-aint-checkers",
+          "title": "Complete This Ain't Checkers",
+          "title_i18n": {
+            "en": "Complete This Ain't Checkers",
+            "pt": "Conclua This Ain't Checkers"
+          },
+          "description": "Win Mori's multi-stage race and finish the meeting.",
+          "description_i18n": {
+            "en": "Win Mori's multi-stage race and finish the meeting.",
+            "pt": "Vença a corrida de várias etapas de Mori e encerre o encontro."
+          }
+        },
+        {
+          "key": "no-3",
+          "title": "Complete No. 3",
+          "title_i18n": {
+            "en": "Complete No. 3",
+            "pt": "Conclua No. 3"
+          },
+          "description": "Keep up with the convoy through the driving challenge.",
+          "description_i18n": {
+            "en": "Keep up with the convoy through the driving challenge.",
+            "pt": "Acompanhe o comboio durante o desafio de direção."
+          }
+        },
+        {
+          "key": "frosting-on-the-cake",
+          "title": "Complete Frosting on the Cake",
+          "title_i18n": {
+            "en": "Complete Frosting on the Cake",
+            "pt": "Conclua Frosting on the Cake"
+          },
+          "description": "Protect the convoy during the disrupted transaction.",
+          "description_i18n": {
+            "en": "Protect the convoy during the disrupted transaction.",
+            "pt": "Proteja o comboio durante a negociação interrompida."
+          }
+        },
+        {
+          "key": "boulevard-baby",
+          "title": "Complete Boulevard Baby",
+          "title_i18n": {
+            "en": "Complete Boulevard Baby",
+            "pt": "Conclua Boulevard Baby"
+          },
+          "description": "Complete the assignment at Bahama Mamas and leave safely.",
+          "description_i18n": {
+            "en": "Complete the assignment at Bahama Mamas and leave safely.",
+            "pt": "Conclua o trabalho no Bahama Mamas e saia em segurança."
+          }
+        },
+        {
+          "key": "blog-this-followup",
+          "title": "Complete ...Blog This!",
+          "title_i18n": {
+            "en": "Complete ...Blog This!",
+            "pt": "Conclua ...Blog This!"
+          },
+          "description": "Finish the follow-up encounter after its phone invitation.",
+          "description_i18n": {
+            "en": "Finish the follow-up encounter after its phone invitation.",
+            "pt": "Conclua o segundo encontro após receber o convite por telefone."
+          }
+        },
+        {
+          "key": "not-so-fast",
+          "title": "Complete Not So Fast",
+          "title_i18n": {
+            "en": "Complete Not So Fast",
+            "pt": "Conclua Not So Fast"
+          },
+          "description": "Complete the museum assignment and return the aircraft.",
+          "description_i18n": {
+            "en": "Complete the museum assignment and return the aircraft.",
+            "pt": "Conclua o trabalho no museu e devolva a aeronave."
+          }
+        }
+      ]
+    },
+    {
+      "key": "bulgarin-and-the-diamond-thread",
+      "title": "Bulgarin and the diamond thread",
+      "title_i18n": {
+        "en": "Bulgarin and the diamond thread",
+        "pt": "Bulgarin e a trama dos diamantes"
+      },
+      "items": [
+        {
+          "key": "ladies-night",
+          "title": "Complete Ladies' Night",
+          "title_i18n": {
+            "en": "Complete Ladies' Night",
+            "pt": "Conclua Ladies' Night"
+          },
+          "description": "Track the target for Tony without losing the trail.",
+          "description_i18n": {
+            "en": "Track the target for Tony without losing the trail.",
+            "pt": "Rastreie o alvo de Tony sem perder a pista."
+          }
+        },
+        {
+          "key": "going-deep",
+          "title": "Complete Going Deep",
+          "title_i18n": {
+            "en": "Complete Going Deep",
+            "pt": "Conclua Going Deep"
+          },
+          "description": "Carry out Bulgarin's parking-garage assignment.",
+          "description_i18n": {
+            "en": "Carry out Bulgarin's parking-garage assignment.",
+            "pt": "Execute o trabalho de Bulgarin no estacionamento."
+          }
+        },
+        {
+          "key": "dropping-in",
+          "title": "Complete Dropping In...",
+          "title_i18n": {
+            "en": "Complete Dropping In...",
+            "pt": "Conclua Dropping In..."
+          },
+          "description": "Complete the high-rise infiltration and extraction.",
+          "description_i18n": {
+            "en": "Complete the high-rise infiltration and extraction.",
+            "pt": "Conclua a infiltração no arranha-céu e a retirada."
+          }
+        },
+        {
+          "key": "in-the-crosshairs",
+          "title": "Complete In the Crosshairs",
+          "title_i18n": {
+            "en": "Complete In the Crosshairs",
+            "pt": "Conclua In the Crosshairs"
+          },
+          "description": "Survive the rooftop confrontation and escape the area.",
+          "description_i18n": {
+            "en": "Survive the rooftop confrontation and escape the area.",
+            "pt": "Sobreviva ao confronto no telhado e escape da área."
+          },
+          "details": "Clear the surrounding snipers while staying behind rooftop cover. Reposition onto the lower western roof when the exit becomes available. Keep a powerful weapon ready for the gunship; an RPG or explosive shotgun can remove it before you finish the ground escape. Leave room between Luis and nearby explosions.",
+          "details_i18n": {
+            "en": "Clear the surrounding snipers while staying behind rooftop cover. Reposition onto the lower western roof when the exit becomes available. Keep a powerful weapon ready for the gunship; an RPG or explosive shotgun can remove it before you finish the ground escape. Leave room between Luis and nearby explosions.",
+            "pt": "Elimine os atiradores ao redor mantendo-se protegido no telhado. Reposicione-se no telhado inferior a oeste quando a saída ficar disponível. Reserve uma arma potente para o helicóptero de ataque; um RPG ou a espingarda explosiva pode derrubá-lo antes da fuga por terra. Mantenha distância entre Luis e as explosões próximas."
+          }
+        },
+        {
+          "key": "for-the-man-who-has-everything",
+          "title": "Complete For the Man Who Has Everything",
+          "title_i18n": {
+            "en": "Complete For the Man Who Has Everything",
+            "pt": "Conclua For the Man Who Has Everything"
+          },
+          "description": "Complete Yusuf's rail assignment and its pickup.",
+          "description_i18n": {
+            "en": "Complete Yusuf's rail assignment and its pickup.",
+            "pt": "Conclua o trabalho ferroviário de Yusuf e o resgate."
+          }
+        }
+      ]
+    },
+    {
+      "key": "final-night",
+      "title": "The final night",
+      "title_i18n": {
+        "en": "The final night",
+        "pt": "A última noite"
+      },
+      "items": [
+        {
+          "key": "ladies-half-price",
+          "title": "Complete Ladies Half Price",
+          "title_i18n": {
+            "en": "Complete Ladies Half Price",
+            "pt": "Conclua Ladies Half Price"
+          },
+          "description": "Complete the waterfront exchange and return with Tony.",
+          "description_i18n": {
+            "en": "Complete the waterfront exchange and return with Tony.",
+            "pt": "Conclua a troca à beira-mar e retorne com Tony."
+          }
+        },
+        {
+          "key": "partys-over",
+          "title": "Complete Party's Over",
+          "title_i18n": {
+            "en": "Complete Party's Over",
+            "pt": "Conclua Party's Over"
+          },
+          "description": "Deal with the crisis at Maisonette 9.",
+          "description_i18n": {
+            "en": "Deal with the crisis at Maisonette 9.",
+            "pt": "Resolva a crise no Maisonette 9."
+          }
+        },
+        {
+          "key": "departure-time",
+          "title": "Complete Departure Time",
+          "title_i18n": {
+            "en": "Complete Departure Time",
+            "pt": "Conclua Departure Time"
+          },
+          "description": "Finish the concluding operation and reach the episode's ending.",
+          "description_i18n": {
+            "en": "Finish the concluding operation and reach the episode's ending.",
+            "pt": "Conclua a operação final e alcance o encerramento do episódio."
+          },
+          "details": "Use cover while destroying the marked shipments at Funland and collect the available health before retracing your route. During the airport approach, follow the route while Yusuf handles much of the pursuit. Accelerate alongside the jet’s rear-left boarding point; after the aircraft sequence, guide the parachute toward the final destination.",
+          "details_i18n": {
+            "en": "Use cover while destroying the marked shipments at Funland and collect the available health before retracing your route. During the airport approach, follow the route while Yusuf handles much of the pursuit. Accelerate alongside the jet’s rear-left boarding point; after the aircraft sequence, guide the parachute toward the final destination.",
+            "pt": "Use cobertura ao destruir as cargas marcadas em Funland e recolha a saúde disponível antes de refazer o caminho. No trajeto ao aeroporto, siga a rota enquanto Yusuf cuida de boa parte da perseguição. Acelere junto ao ponto de embarque na traseira esquerda do jato; após o trecho na aeronave, guie o paraquedas até o destino final."
+          }
+        }
+      ]
+    },
+    {
+      "key": "club-management",
+      "title": "Club Management: eight VIP jobs",
+      "title_i18n": {
+        "en": "Club Management: eight VIP jobs",
+        "pt": "Club Management: oito trabalhos com VIPs"
+      },
+      "items": [
+        {
+          "key": "club-clay-pg-jackson",
+          "title": "Club Management: Clay PG Jackson",
+          "title_i18n": {
+            "en": "Club Management: Clay PG Jackson",
+            "pt": "Club Management: Clay PG Jackson"
+          },
+          "description": "Complete the celebrity pickup without harming the surrounding photographers.",
+          "description_i18n": {
+            "en": "Complete the celebrity pickup without harming the surrounding photographers.",
+            "pt": "Conclua o transporte da celebridade sem ferir os fotógrafos ao redor."
+          },
+          "details": "Start management in the staff room at Maisonette 9 during opening hours, 21:00–06:00. Follow surveillance and removal prompts until Dessie assigns VIP work. For Jackson, maneuver out of the photographers without running them over, then lose the pursuing bikes. Failed VIP work can return later; complete all eight different jobs, not eight repetitions.",
+          "details_i18n": {
+            "en": "Start management in the staff room at Maisonette 9 during opening hours, 21:00–06:00. Follow surveillance and removal prompts until Dessie assigns VIP work. For Jackson, maneuver out of the photographers without running them over, then lose the pursuing bikes. Failed VIP work can return later; complete all eight different jobs, not eight repetitions.",
+            "pt": "Inicie a gestão na sala de funcionários do Maisonette 9 durante o expediente, das 21:00 às 06:00. Siga as instruções de vigilância e expulsão até Dessie designar o trabalho com VIPs. Com Jackson, saia do grupo de fotógrafos sem atropelá-los e despiste as motos. Um trabalho fracassado pode voltar depois; conclua os oito diferentes, não oito repetições."
+          }
+        },
+        {
+          "key": "club-kerry-mcintosh",
+          "title": "Club Management: Kerry McIntosh",
+          "title_i18n": {
+            "en": "Club Management: Kerry McIntosh",
+            "pt": "Club Management: Kerry McIntosh"
+          },
+          "description": "Deliver the requested food to Hercules.",
+          "description_i18n": {
+            "en": "Deliver the requested food to Hercules.",
+            "pt": "Entregue a comida solicitada no Hercules."
+          }
+        },
+        {
+          "key": "club-royal-visit",
+          "title": "Club Management: British Prince",
+          "title_i18n": {
+            "en": "Club Management: British Prince",
+            "pt": "Club Management: British Prince"
+          },
+          "description": "Finish the royal guest’s multi-stop trip.",
+          "description_i18n": {
+            "en": "Finish the royal guest’s multi-stop trip.",
+            "pt": "Conclua a viagem com várias paradas do convidado da realeza."
+          }
+        },
+        {
+          "key": "club-poppy-mitchell",
+          "title": "Club Management: Poppy Mitchell",
+          "title_i18n": {
+            "en": "Club Management: Poppy Mitchell",
+            "pt": "Club Management: Poppy Mitchell"
+          },
+          "description": "Resolve the crowd problem and escort the guest.",
+          "description_i18n": {
+            "en": "Resolve the crowd problem and escort the guest.",
+            "pt": "Resolva o problema com a multidão e acompanhe a convidada."
+          }
+        },
+        {
+          "key": "club-cloe-parker",
+          "title": "Club Management: Cloe Parker",
+          "title_i18n": {
+            "en": "Club Management: Cloe Parker",
+            "pt": "Club Management: Cloe Parker"
+          },
+          "description": "Take the intoxicated guest home safely.",
+          "description_i18n": {
+            "en": "Take the intoxicated guest home safely.",
+            "pt": "Leve a convidada embriagada para casa em segurança."
+          }
+        },
+        {
+          "key": "club-al-di-napoli",
+          "title": "Club Management: Al Di Napoli",
+          "title_i18n": {
+            "en": "Club Management: Al Di Napoli",
+            "pt": "Club Management: Al Di Napoli"
+          },
+          "description": "Complete the guest’s outing and return journey.",
+          "description_i18n": {
+            "en": "Complete the guest’s outing and return journey.",
+            "pt": "Conclua o passeio do convidado e a viagem de volta."
+          }
+        },
+        {
+          "key": "club-the-blue-brothers",
+          "title": "Club Management: The Blue Brothers",
+          "title_i18n": {
+            "en": "Club Management: The Blue Brothers",
+            "pt": "Club Management: The Blue Brothers"
+          },
+          "description": "Collect the guests and leave without harming their fans.",
+          "description_i18n": {
+            "en": "Collect the guests and leave without harming their fans.",
+            "pt": "Busque os convidados e saia sem ferir seus fãs."
+          }
+        },
+        {
+          "key": "club-bruce-spade",
+          "title": "Club Management: Bruce Spade",
+          "title_i18n": {
+            "en": "Club Management: Bruce Spade",
+            "pt": "Club Management: Bruce Spade"
+          },
+          "description": "Complete the helicopter pickup and club delivery.",
+          "description_i18n": {
+            "en": "Complete the helicopter pickup and club delivery.",
+            "pt": "Conclua o resgate de helicóptero e a entrega no clube."
+          },
+          "details": "Collect the club helicopter and pick up Spade in Northwood. He complains about altitude, but the main concern is a safe flight and an intact passenger. Approach the designated landing area outside Maisonette 9 slowly, allowing enough room for the rotor and surrounding buildings.",
+          "details_i18n": {
+            "en": "Collect the club helicopter and pick up Spade in Northwood. He complains about altitude, but the main concern is a safe flight and an intact passenger. Approach the designated landing area outside Maisonette 9 slowly, allowing enough room for the rotor and surrounding buildings.",
+            "pt": "Pegue o helicóptero do clube e busque Spade em Northwood. Ele reclama da altitude, mas o essencial é voar com segurança e preservar o passageiro. Aproxime-se devagar da área de pouso indicada diante do Maisonette 9, deixando espaço para o rotor e os prédios ao redor."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "random-encounters",
+      "title": "Random encounters: complete return visits",
+      "title_i18n": {
+        "en": "Random encounters: complete return visits",
+        "pt": "Encontros aleatórios: conclua os retornos"
+      },
+      "items": [
+        {
+          "key": "daisy",
+          "title": "Complete Daisie (Daisy)",
+          "title_i18n": {
+            "en": "Complete Daisie (Daisy)",
+            "pt": "Conclua Daisie (Daisy)"
+          },
+          "description": "Complete Daisie’s encounter when her marker appears.",
+          "description_i18n": {
+            "en": "Complete Daisie’s encounter when her marker appears.",
+            "pt": "Conclua o encontro de Daisie quando o marcador aparecer."
+          }
+        },
+        {
+          "key": "margot-first",
+          "title": "Complete Margot: first encounter",
+          "title_i18n": {
+            "en": "Complete Margot: first encounter",
+            "pt": "Conclua Margot: first encounter"
+          },
+          "description": "Complete Margot’s initial encounter.",
+          "description_i18n": {
+            "en": "Complete Margot’s initial encounter.",
+            "pt": "Conclua o primeiro encontro de Margot."
+          }
+        },
+        {
+          "key": "margot-second",
+          "title": "Complete Margot: return encounter",
+          "title_i18n": {
+            "en": "Complete Margot: return encounter",
+            "pt": "Conclua Margot: return encounter"
+          },
+          "description": "Return for Margot’s second encounter when available.",
+          "description_i18n": {
+            "en": "Return for Margot’s second encounter when available.",
+            "pt": "Retorne para o segundo encontro de Margot quando estiver disponível."
+          }
+        },
+        {
+          "key": "arnaud-first",
+          "title": "Complete Arnaud: first encounter",
+          "title_i18n": {
+            "en": "Complete Arnaud: first encounter",
+            "pt": "Conclua Arnaud: first encounter"
+          },
+          "description": "Complete Arnaud’s initial street job.",
+          "description_i18n": {
+            "en": "Complete Arnaud’s initial street job.",
+            "pt": "Conclua o primeiro trabalho de rua de Arnaud."
+          }
+        },
+        {
+          "key": "arnaud-second",
+          "title": "Complete Arnaud: return encounter",
+          "title_i18n": {
+            "en": "Complete Arnaud: return encounter",
+            "pt": "Conclua Arnaud: return encounter"
+          },
+          "description": "Complete Arnaud’s second encounter when it appears.",
+          "description_i18n": {
+            "en": "Complete Arnaud’s second encounter when it appears.",
+            "pt": "Conclua o segundo encontro de Arnaud quando ele aparecer."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "drug-wars",
+      "title": "Drug Wars: completion and extra rewards",
+      "title_i18n": {
+        "en": "Drug Wars: completion and extra rewards",
+        "pt": "Drug Wars: conclusão e recompensas extras"
+      },
+      "items": [
+        {
+          "key": "twenty-five-drug-wars",
+          "title": "Complete twenty-five Drug Wars",
+          "title_i18n": {
+            "en": "Complete twenty-five Drug Wars",
+            "pt": "Conclua vinte e cinco Drug Wars"
+          },
+          "description": "Reach the native completion and Snow Queen requirement.",
+          "description_i18n": {
+            "en": "Reach the native completion and Snow Queen requirement.",
+            "pt": "Alcance o requisito de conclusão nativa e de Snow Queen."
+          },
+          "details": "Bring armor and suitable ammunition before starting a capsule marker. Identify whether the job requires a loose stash or a particular vehicle: destroying a required delivery vehicle will not help. Track successful jobs in Stats. Twenty-five satisfies native completion and Snow Queen; fifty is a separate weapon-reward target, not another ending prerequisite.",
+          "details_i18n": {
+            "en": "Bring armor and suitable ammunition before starting a capsule marker. Identify whether the job requires a loose stash or a particular vehicle: destroying a required delivery vehicle will not help. Track successful jobs in Stats. Twenty-five satisfies native completion and Snow Queen; fifty is a separate weapon-reward target, not another ending prerequisite.",
+            "pt": "Leve colete e munição adequada antes de iniciar um marcador de cápsula. Identifique se o trabalho exige uma carga solta ou um veículo específico: destruir o veículo que precisa entregar não ajuda. Acompanhe os trabalhos concluídos em Stats. Vinte e cinco bastam para a conclusão nativa e Snow Queen; cinquenta são um objetivo separado de recompensa, não outro requisito para o final."
+          }
+        },
+        {
+          "key": "fifty-drug-wars",
+          "title": "Optional: complete fifty Drug Wars",
+          "title_i18n": {
+            "en": "Optional: complete fifty Drug Wars",
+            "pt": "Opcional: conclua cinquenta Drug Wars"
+          },
+          "description": "Continue beyond the required twenty-five for the final safehouse weapon reward.",
+          "description_i18n": {
+            "en": "Continue beyond the required twenty-five for the final safehouse weapon reward.",
+            "pt": "Continue além dos vinte e cinco exigidos para receber a última arma do esconderijo."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "base-jumps",
+      "title": "BASE jumps: fifteen marked challenges",
+      "title_i18n": {
+        "en": "BASE jumps: fifteen marked challenges",
+        "pt": "Saltos BASE: quinze desafios marcados"
+      },
+      "items": [
+        {
+          "key": "base-westminster-helipad",
+          "title": "BASE jump: Westminster Helipad",
+          "title_i18n": {
+            "en": "BASE jump: Westminster Helipad",
+            "pt": "Salto BASE: Westminster Helipad"
+          },
+          "description": "Complete this marked helicopter jump and register its landing.",
+          "description_i18n": {
+            "en": "Complete this marked helicopter jump and register its landing.",
+            "pt": "Conclua este salto marcado de helicóptero e registre a aterrissagem."
+          }
+        },
+        {
+          "key": "base-pirate-building",
+          "title": "BASE jump: Pirate Building",
+          "title_i18n": {
+            "en": "BASE jump: Pirate Building",
+            "pt": "Salto BASE: Pirate Building"
+          },
+          "description": "Complete this marked vehicle jump and register its landing.",
+          "description_i18n": {
+            "en": "Complete this marked vehicle jump and register its landing.",
+            "pt": "Conclua este salto marcado de veículo e registre a aterrissagem."
+          }
+        },
+        {
+          "key": "base-metv-building",
+          "title": "BASE jump: MeTV Building",
+          "title_i18n": {
+            "en": "BASE jump: MeTV Building",
+            "pt": "Salto BASE: MeTV Building"
+          },
+          "description": "Complete this marked vehicle jump and register its landing.",
+          "description_i18n": {
+            "en": "Complete this marked vehicle jump and register its landing.",
+            "pt": "Conclua este salto marcado de veículo e registre a aterrissagem."
+          }
+        },
+        {
+          "key": "base-bawsaq",
+          "title": "BASE jump: BAWSAQ",
+          "title_i18n": {
+            "en": "BASE jump: BAWSAQ",
+            "pt": "Salto BASE: BAWSAQ"
+          },
+          "description": "Complete this marked target jump and register its landing.",
+          "description_i18n": {
+            "en": "Complete this marked target jump and register its landing.",
+            "pt": "Conclua este salto marcado de alvo e registre a aterrissagem."
+          }
+        },
+        {
+          "key": "base-zirconium-building",
+          "title": "BASE jump: Zirconium Building",
+          "title_i18n": {
+            "en": "BASE jump: Zirconium Building",
+            "pt": "Salto BASE: Zirconium Building"
+          },
+          "description": "Complete this marked target jump and register its landing.",
+          "description_i18n": {
+            "en": "Complete this marked target jump and register its landing.",
+            "pt": "Conclua este salto marcado de alvo e registre a aterrissagem."
+          }
+        },
+        {
+          "key": "base-getalife-building",
+          "title": "BASE jump: GetaLife Building",
+          "title_i18n": {
+            "en": "BASE jump: GetaLife Building",
+            "pt": "Salto BASE: GetaLife Building"
+          },
+          "description": "Complete this marked vehicle jump and register its landing.",
+          "description_i18n": {
+            "en": "Complete this marked vehicle jump and register its landing.",
+            "pt": "Conclua este salto marcado de veículo e registre a aterrissagem."
+          }
+        },
+        {
+          "key": "base-iron-street",
+          "title": "BASE jump: Iron Street",
+          "title_i18n": {
+            "en": "BASE jump: Iron Street",
+            "pt": "Salto BASE: Iron Street"
+          },
+          "description": "Complete this marked target jump and register its landing.",
+          "description_i18n": {
+            "en": "Complete this marked target jump and register its landing.",
+            "pt": "Conclua este salto marcado de alvo e registre a aterrissagem."
+          }
+        },
+        {
+          "key": "base-rotterdam-tower",
+          "title": "BASE jump: Rotterdam Tower",
+          "title_i18n": {
+            "en": "BASE jump: Rotterdam Tower",
+            "pt": "Salto BASE: Rotterdam Tower"
+          },
+          "description": "Complete this marked target jump and register its landing.",
+          "description_i18n": {
+            "en": "Complete this marked target jump and register its landing.",
+            "pt": "Conclua este salto marcado de alvo e registre a aterrissagem."
+          }
+        },
+        {
+          "key": "base-union-drive-west",
+          "title": "BASE jump: Union Drive West",
+          "title_i18n": {
+            "en": "BASE jump: Union Drive West",
+            "pt": "Salto BASE: Union Drive West"
+          },
+          "description": "Complete this marked vehicle jump and register its landing.",
+          "description_i18n": {
+            "en": "Complete this marked vehicle jump and register its landing.",
+            "pt": "Conclua este salto marcado de veículo e registre a aterrissagem."
+          }
+        },
+        {
+          "key": "base-owl-creek-avenue",
+          "title": "BASE jump: Owl Creek Avenue",
+          "title_i18n": {
+            "en": "BASE jump: Owl Creek Avenue",
+            "pt": "Salto BASE: Owl Creek Avenue"
+          },
+          "description": "Complete this marked helicopter jump and register its landing.",
+          "description_i18n": {
+            "en": "Complete this marked helicopter jump and register its landing.",
+            "pt": "Conclua este salto marcado de helicóptero e registre a aterrissagem."
+          }
+        },
+        {
+          "key": "base-koresh-tower",
+          "title": "BASE jump: Koresh Tower",
+          "title_i18n": {
+            "en": "BASE jump: Koresh Tower",
+            "pt": "Salto BASE: Koresh Tower"
+          },
+          "description": "Complete this marked vehicle jump and register its landing.",
+          "description_i18n": {
+            "en": "Complete this marked vehicle jump and register its landing.",
+            "pt": "Conclua este salto marcado de veículo e registre a aterrissagem."
+          }
+        },
+        {
+          "key": "base-hardtack-avenue",
+          "title": "BASE jump: Hardtack Avenue",
+          "title_i18n": {
+            "en": "BASE jump: Hardtack Avenue",
+            "pt": "Salto BASE: Hardtack Avenue"
+          },
+          "description": "Complete this marked helicopter jump and register its landing.",
+          "description_i18n": {
+            "en": "Complete this marked helicopter jump and register its landing.",
+            "pt": "Conclua este salto marcado de helicóptero e registre a aterrissagem."
+          }
+        },
+        {
+          "key": "base-firefly-island-pier",
+          "title": "BASE jump: Firefly Island Pier",
+          "title_i18n": {
+            "en": "BASE jump: Firefly Island Pier",
+            "pt": "Salto BASE: Firefly Island Pier"
+          },
+          "description": "Complete this marked helicopter jump and register its landing.",
+          "description_i18n": {
+            "en": "Complete this marked helicopter jump and register its landing.",
+            "pt": "Conclua este salto marcado de helicóptero e registre a aterrissagem."
+          }
+        },
+        {
+          "key": "base-algonquin-dukes-expressway",
+          "title": "BASE jump: Algonquin-Dukes Expressway",
+          "title_i18n": {
+            "en": "BASE jump: Algonquin-Dukes Expressway",
+            "pt": "Salto BASE: Algonquin-Dukes Expressway"
+          },
+          "description": "Complete this marked helicopter jump and register its landing.",
+          "description_i18n": {
+            "en": "Complete this marked helicopter jump and register its landing.",
+            "pt": "Conclua este salto marcado de helicóptero e registre a aterrissagem."
+          }
+        },
+        {
+          "key": "base-lc24-tower",
+          "title": "BASE jump: LC24 Tower",
+          "title_i18n": {
+            "en": "BASE jump: LC24 Tower",
+            "pt": "Salto BASE: LC24 Tower"
+          },
+          "description": "Complete this marked target jump and register its landing.",
+          "description_i18n": {
+            "en": "Complete this marked target jump and register its landing.",
+            "pt": "Conclua este salto marcado de alvo e registre a aterrissagem."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "triathlons",
+      "title": "Triathlons: win all three courses",
+      "title_i18n": {
+        "en": "Triathlons: win all three courses",
+        "pt": "Triatlos: vença os três percursos"
+      },
+      "items": [
+        {
+          "key": "triathlon-alderney-city",
+          "title": "Win the Alderney City Triathlon",
+          "title_i18n": {
+            "en": "Win the Alderney City Triathlon",
+            "pt": "Vença o triatlo de Alderney City"
+          },
+          "description": "Finish first through the parachute, boat and car stages.",
+          "description_i18n": {
+            "en": "Finish first through the parachute, boat and car stages.",
+            "pt": "Termine em primeiro nas etapas de paraquedas, barco e carro."
+          },
+          "details": "Triathlons unlock after This Ain’t Checkers. Save time by steering the parachute toward the boats, then follow every checkpoint through the water stage. At the beach transition, choose a car promptly. Use its replenishing nitro on clear straights rather than through sharp turns. Each of the three courses needs a first-place finish.",
+          "details_i18n": {
+            "en": "Triathlons unlock after This Ain’t Checkers. Save time by steering the parachute toward the boats, then follow every checkpoint through the water stage. At the beach transition, choose a car promptly. Use its replenishing nitro on clear straights rather than through sharp turns. Each of the three courses needs a first-place finish.",
+            "pt": "Os triatlos são liberados após This Ain’t Checkers. Ganhe tempo guiando o paraquedas até os barcos e passe por todos os checkpoints na água. Na transição da praia, pegue um carro rapidamente. Use o nitro recarregável nas retas livres, não nas curvas fechadas. É preciso terminar em primeiro em cada um dos três percursos."
+          }
+        },
+        {
+          "key": "triathlon-boabo",
+          "title": "Win the BOABO Triathlon",
+          "title_i18n": {
+            "en": "Win the BOABO Triathlon",
+            "pt": "Vença o triatlo de BOABO"
+          },
+          "description": "Finish first through the parachute, boat and car stages.",
+          "description_i18n": {
+            "en": "Finish first through the parachute, boat and car stages.",
+            "pt": "Termine em primeiro nas etapas de paraquedas, barco e carro."
+          }
+        },
+        {
+          "key": "triathlon-charge-island",
+          "title": "Win the Charge Island Triathlon",
+          "title_i18n": {
+            "en": "Win the Charge Island Triathlon",
+            "pt": "Vença o triatlo de Charge Island"
+          },
+          "description": "Finish first through the parachute, boat and car stages.",
+          "description_i18n": {
+            "en": "Finish first through the parachute, boat and car stages.",
+            "pt": "Termine em primeiro nas etapas de paraquedas, barco e carro."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "friends-and-outings",
+      "title": "Friend activities with Armando or Henrique",
+      "title_i18n": {
+        "en": "Friend activities with Armando or Henrique",
+        "pt": "Atividades de amizade com Armando ou Henrique"
+      },
+      "items": [
+        {
+          "key": "friend-air-hockey",
+          "title": "Friend outing: air hockey",
+          "title_i18n": {
+            "en": "Friend outing: air hockey",
+            "pt": "Passeio com amigo: air hockey"
+          },
+          "description": "Complete this outing with Armando or Henrique; repeating it separately with both is unnecessary.",
+          "description_i18n": {
+            "en": "Complete this outing with Armando or Henrique; repeating it separately with both is unnecessary.",
+            "pt": "Realize este passeio com Armando ou Henrique; não é necessário repeti-lo separadamente com os dois."
+          }
+        },
+        {
+          "key": "friend-darts",
+          "title": "Friend outing: darts",
+          "title_i18n": {
+            "en": "Friend outing: darts",
+            "pt": "Passeio com amigo: dardos"
+          },
+          "description": "Complete this outing with Armando or Henrique; repeating it separately with both is unnecessary.",
+          "description_i18n": {
+            "en": "Complete this outing with Armando or Henrique; repeating it separately with both is unnecessary.",
+            "pt": "Realize este passeio com Armando ou Henrique; não é necessário repeti-lo separadamente com os dois."
+          }
+        },
+        {
+          "key": "friend-drinking",
+          "title": "Friend outing: drinking",
+          "title_i18n": {
+            "en": "Friend outing: drinking",
+            "pt": "Passeio com amigo: bebida"
+          },
+          "description": "Complete this outing with Armando or Henrique; repeating it separately with both is unnecessary.",
+          "description_i18n": {
+            "en": "Complete this outing with Armando or Henrique; repeating it separately with both is unnecessary.",
+            "pt": "Realize este passeio com Armando ou Henrique; não é necessário repeti-lo separadamente com os dois."
+          }
+        },
+        {
+          "key": "friend-eating",
+          "title": "Friend outing: a meal",
+          "title_i18n": {
+            "en": "Friend outing: a meal",
+            "pt": "Passeio com amigo: uma refeição"
+          },
+          "description": "Complete this outing with Armando or Henrique; repeating it separately with both is unnecessary.",
+          "description_i18n": {
+            "en": "Complete this outing with Armando or Henrique; repeating it separately with both is unnecessary.",
+            "pt": "Realize este passeio com Armando ou Henrique; não é necessário repeti-lo separadamente com os dois."
+          }
+        },
+        {
+          "key": "friend-golf",
+          "title": "Friend outing: golf",
+          "title_i18n": {
+            "en": "Friend outing: golf",
+            "pt": "Passeio com amigo: golfe"
+          },
+          "description": "Complete this outing with Armando or Henrique; repeating it separately with both is unnecessary.",
+          "description_i18n": {
+            "en": "Complete this outing with Armando or Henrique; repeating it separately with both is unnecessary.",
+            "pt": "Realize este passeio com Armando ou Henrique; não é necessário repeti-lo separadamente com os dois."
+          }
+        },
+        {
+          "key": "friend-pool",
+          "title": "Friend outing: pool",
+          "title_i18n": {
+            "en": "Friend outing: pool",
+            "pt": "Passeio com amigo: sinuca"
+          },
+          "description": "Complete this outing with Armando or Henrique; repeating it separately with both is unnecessary.",
+          "description_i18n": {
+            "en": "Complete this outing with Armando or Henrique; repeating it separately with both is unnecessary.",
+            "pt": "Realize este passeio com Armando ou Henrique; não é necessário repeti-lo separadamente com os dois."
+          }
+        },
+        {
+          "key": "friend-strip-club",
+          "title": "Friend outing: a strip-club visit",
+          "title_i18n": {
+            "en": "Friend outing: a strip-club visit",
+            "pt": "Passeio com amigo: uma visita ao clube de strip-tease"
+          },
+          "description": "Complete this outing with Armando or Henrique; repeating it separately with both is unnecessary.",
+          "description_i18n": {
+            "en": "Complete this outing with Armando or Henrique; repeating it separately with both is unnecessary.",
+            "pt": "Realize este passeio com Armando ou Henrique; não é necessário repeti-lo separadamente com os dois."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "games-and-nightclubs",
+      "title": "Games and nightclub activities",
+      "title_i18n": {
+        "en": "Games and nightclub activities",
+        "pt": "Jogos e atividades dos clubes"
+      },
+      "items": [
+        {
+          "key": "win-air-hockey",
+          "title": "Win at air hockey",
+          "title_i18n": {
+            "en": "Win at air hockey",
+            "pt": "Vença no air hockey"
+          },
+          "description": "Win a complete air-hockey game.",
+          "description_i18n": {
+            "en": "Win a complete air-hockey game.",
+            "pt": "Vença uma partida completa de air hockey."
+          }
+        },
+        {
+          "key": "win-darts",
+          "title": "Win at darts",
+          "title_i18n": {
+            "en": "Win at darts",
+            "pt": "Vença nos dardos"
+          },
+          "description": "Win a complete darts game.",
+          "description_i18n": {
+            "en": "Win a complete darts game.",
+            "pt": "Vença uma partida completa de dardos."
+          }
+        },
+        {
+          "key": "win-pool",
+          "title": "Win at pool",
+          "title_i18n": {
+            "en": "Win at pool",
+            "pt": "Vença na sinuca"
+          },
+          "description": "Win a complete pool game.",
+          "description_i18n": {
+            "en": "Win a complete pool game.",
+            "pt": "Vença uma partida completa de sinuca."
+          }
+        },
+        {
+          "key": "win-golf",
+          "title": "Win at golf",
+          "title_i18n": {
+            "en": "Win at golf",
+            "pt": "Vença no golfe"
+          },
+          "description": "Win a driving-range game.",
+          "description_i18n": {
+            "en": "Win a driving-range game.",
+            "pt": "Vença uma partida no campo de prática."
+          }
+        },
+        {
+          "key": "win-champagne",
+          "title": "Win the Champagne Drinking activity",
+          "title_i18n": {
+            "en": "Win the Champagne Drinking activity",
+            "pt": "Vença a atividade de beber champanhe"
+          },
+          "description": "Finish the Maisonette 9 champagne challenge successfully.",
+          "description_i18n": {
+            "en": "Finish the Maisonette 9 champagne challenge successfully.",
+            "pt": "Conclua com sucesso o desafio de champanhe no Maisonette 9."
+          }
+        },
+        {
+          "key": "dance-maisonette",
+          "title": "Dance successfully at Maisonette 9",
+          "title_i18n": {
+            "en": "Dance successfully at Maisonette 9",
+            "pt": "Dance com sucesso no Maisonette 9"
+          },
+          "description": "Complete the dance activity at this club.",
+          "description_i18n": {
+            "en": "Complete the dance activity at this club.",
+            "pt": "Conclua a atividade de dança neste clube."
+          },
+          "details": "Complete the whole dance sequence, including its group routine, at both Maisonette 9 and Hercules. Build the meter with the beat, hold a direction when instructed and use the displayed rhythm inputs during holds. Keep going after a small mistake: successful completion is more useful than abandoning an otherwise recoverable routine.",
+          "details_i18n": {
+            "en": "Complete the whole dance sequence, including its group routine, at both Maisonette 9 and Hercules. Build the meter with the beat, hold a direction when instructed and use the displayed rhythm inputs during holds. Keep going after a small mistake: successful completion is more useful than abandoning an otherwise recoverable routine.",
+            "pt": "Conclua a sequência completa, incluindo a coreografia em grupo, tanto no Maisonette 9 quanto no Hercules. Encha o medidor seguindo o ritmo, segure uma direção quando solicitado e use os comandos rítmicos exibidos durante as pausas. Continue após um pequeno erro: terminar com sucesso é melhor do que abandonar uma sequência ainda recuperável."
+          }
+        },
+        {
+          "key": "dance-hercules",
+          "title": "Dance successfully at Hercules",
+          "title_i18n": {
+            "en": "Dance successfully at Hercules",
+            "pt": "Dance com sucesso no Hercules"
+          },
+          "description": "Complete the dance activity at this separate club.",
+          "description_i18n": {
+            "en": "Complete the dance activity at this separate club.",
+            "pt": "Conclua a atividade de dança neste outro clube."
+          }
+        },
+        {
+          "key": "cage-championship",
+          "title": "Win the L.C. Cage Fighters championship",
+          "title_i18n": {
+            "en": "Win the L.C. Cage Fighters championship",
+            "pt": "Vença o campeonato L.C. Cage Fighters"
+          },
+          "description": "Win all six rounds in one championship run.",
+          "description_i18n": {
+            "en": "Win all six rounds in one championship run.",
+            "pt": "Vença as seis rodadas em uma disputa do campeonato."
+          },
+          "details": "The championship has six rounds of three opponents each. Continue between rounds rather than cashing out early. Later opponents carry weapons: time a dodge and counter to disarm them instead of trading hits. Health recovers partly between rounds, but acquired weapons do not carry into the next round, so repeat the defensive approach.",
+          "details_i18n": {
+            "en": "The championship has six rounds of three opponents each. Continue between rounds rather than cashing out early. Later opponents carry weapons: time a dodge and counter to disarm them instead of trading hits. Health recovers partly between rounds, but acquired weapons do not carry into the next round, so repeat the defensive approach.",
+            "pt": "O campeonato tem seis rodadas com três adversários cada. Continue entre as rodadas em vez de encerrar antecipadamente. Os oponentes posteriores usam armas: esquive e contra-ataque no momento certo para desarmá-los, sem apenas trocar golpes. Parte da saúde se recupera entre rodadas, mas as armas obtidas não passam à seguinte; repita a abordagem defensiva."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "additional-trophy-challenges",
+      "title": "Additional trophy and replay goals",
+      "title_i18n": {
+        "en": "Additional trophy and replay goals",
+        "pt": "Objetivos extras de troféus e repetição"
+      },
+      "items": [
+        {
+          "key": "four-golf-flags",
+          "title": "Hit four golf flags for Four Play",
+          "title_i18n": {
+            "en": "Hit four golf flags for Four Play",
+            "pt": "Acerte quatro bandeiras de golfe para Four Play"
+          },
+          "description": "Register four direct flag hits with golf balls.",
+          "description_i18n": {
+            "en": "Register four direct flag hits with golf balls.",
+            "pt": "Registre quatro acertos diretos nas bandeiras com bolas de golfe."
+          },
+          "details": "Aim for the flag itself rather than merely placing the ball nearby. Start the backswing, then time the strike as the power indicator reaches the target marker. Adjust after watching the ball’s bounce. Four registered direct hits are cumulative, so they need not occur in one game.",
+          "details_i18n": {
+            "en": "Aim for the flag itself rather than merely placing the ball nearby. Start the backswing, then time the strike as the power indicator reaches the target marker. Adjust after watching the ball’s bounce. Four registered direct hits are cumulative, so they need not occur in one game.",
+            "pt": "Mire na própria bandeira, não apenas perto dela. Inicie o movimento do taco e acerte quando o indicador de força alcançar a marca do alvo. Ajuste após observar o quique da bola. Os quatro acertos diretos registrados são cumulativos; não precisam ocorrer em uma única partida."
+          }
+        },
+        {
+          "key": "long-freefall",
+          "title": "Complete the Adrenaline Junkie freefall",
+          "title_i18n": {
+            "en": "Complete the Adrenaline Junkie freefall",
+            "pt": "Conclua a queda livre de Adrenaline Junkie"
+          },
+          "description": "Make a sufficiently long freefall and survive the landing.",
+          "description_i18n": {
+            "en": "Make a sufficiently long freefall and survive the landing.",
+            "pt": "Faça uma queda livre longa o suficiente e sobreviva à aterrissagem."
+          },
+          "details": "Equip a parachute before boarding a helicopter, climb to the flight ceiling and position over low, open terrain such as a beach. Jump and delay opening the parachute while watching the ground closely. Leave enough altitude to slow down and survive; opening immediately defeats the purpose of this separate trophy challenge.",
+          "details_i18n": {
+            "en": "Equip a parachute before boarding a helicopter, climb to the flight ceiling and position over low, open terrain such as a beach. Jump and delay opening the parachute while watching the ground closely. Leave enough altitude to slow down and survive; opening immediately defeats the purpose of this separate trophy challenge.",
+            "pt": "Equipe um paraquedas antes de entrar no helicóptero, suba até o limite de altitude e posicione-se sobre terreno baixo e livre, como uma praia. Salte e adie a abertura observando o chão com atenção. Reserve altura para desacelerar e sobreviver; abrir imediatamente elimina o objetivo deste desafio separado de troféu."
+          }
+        },
+        {
+          "key": "mission-scores-eighty",
+          "title": "Reach eighty percent in all twenty-six missions",
+          "title_i18n": {
+            "en": "Reach eighty percent in all twenty-six missions",
+            "pt": "Alcance oitenta por cento nas vinte e seis missões"
+          },
+          "description": "Use mission replay for Past the Velvet Rope; this is separate from native world completion.",
+          "description_i18n": {
+            "en": "Use mission replay for Past the Velvet Rope; this is separate from native world completion.",
+            "pt": "Use a repetição de missões para Past the Velvet Rope; isso é separado da conclusão nativa do mundo."
+          },
+          "details": "After the ending, use the phone’s Missions menu to start fresh replays. Completed score criteria accumulate across separate successful runs, so a damage or accuracy attempt can be separate from the speed attempt. Cheats, taxi rides and restarting after failure invalidate scoring; if that happens, begin another fresh phone replay. Check the stored result before moving on.",
+          "details_i18n": {
+            "en": "After the ending, use the phone’s Missions menu to start fresh replays. Completed score criteria accumulate across separate successful runs, so a damage or accuracy attempt can be separate from the speed attempt. Cheats, taxi rides and restarting after failure invalidate scoring; if that happens, begin another fresh phone replay. Check the stored result before moving on.",
+            "pt": "Após o final, use o menu Missions do telefone para iniciar novas repetições. Os critérios de pontuação cumpridos se acumulam entre tentativas bem-sucedidas; a tentativa de dano ou precisão pode ser separada da tentativa rápida. Trapaças, viagens de táxi e reinícios após falhar invalidam a pontuação; se isso acontecer, inicie outra repetição pelo telefone. Confira o resultado salvo antes de seguir."
+          }
+        },
+        {
+          "key": "mission-scores-hundred",
+          "title": "Reach one hundred percent in all twenty-six missions",
+          "title_i18n": {
+            "en": "Reach one hundred percent in all twenty-six missions",
+            "pt": "Alcance cem por cento nas vinte e seis missões"
+          },
+          "description": "Complete every mission’s score criteria for Gold Star.",
+          "description_i18n": {
+            "en": "Complete every mission’s score criteria for Gold Star.",
+            "pt": "Cumpra os critérios de pontuação de cada missão para Gold Star."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "collection-and-native-completion",
+      "title": "Collection and native completion",
+      "title_i18n": {
+        "en": "Collection and native completion",
+        "pt": "Coleção e conclusão nativa"
+      },
+      "items": [
+        {
+          "key": "fifty-seagulls",
+          "title": "Find all fifty seagulls",
+          "title_i18n": {
+            "en": "Find all fifty seagulls",
+            "pt": "Encontre as cinquenta gaivotas"
+          },
+          "description": "Clear the episode’s seagull collection; this aggregate goal does not enumerate individual locations.",
+          "description_i18n": {
+            "en": "Clear the episode’s seagull collection; this aggregate goal does not enumerate individual locations.",
+            "pt": "Conclua a coleção de gaivotas do episódio; este objetivo agregado não enumera cada localização."
+          }
+        },
+        {
+          "key": "verify-native-completion",
+          "title": "Verify native one hundred percent completion",
+          "title_i18n": {
+            "en": "Verify native one hundred percent completion",
+            "pt": "Confira os cem por cento nativos"
+          },
+          "description": "Check the episode’s completion statistic after its required campaign and side activities.",
+          "description_i18n": {
+            "en": "Check the episode’s completion statistic after its required campaign and side activities.",
+            "pt": "Confira a porcentagem do episódio após a campanha e as atividades secundárias exigidas."
+          },
+          "details": "Check this episode’s own statistic, not GTA IV’s base-game save. Native completion combines the campaign, eight distinct VIP jobs, all random-character returns, twenty-five Drug Wars, fifteen BASE jumps, three triathlon wins, fifty seagulls, the required games and seven friend activities. Mission scores of eighty or one hundred percent are additional trophy challenges, not requirements for this world-completion statistic.",
+          "details_i18n": {
+            "en": "Check this episode’s own statistic, not GTA IV’s base-game save. Native completion combines the campaign, eight distinct VIP jobs, all random-character returns, twenty-five Drug Wars, fifteen BASE jumps, three triathlon wins, fifty seagulls, the required games and seven friend activities. Mission scores of eighty or one hundred percent are additional trophy challenges, not requirements for this world-completion statistic.",
+            "pt": "Confira a estatística do próprio episódio, não o salvamento do GTA IV básico. A conclusão nativa reúne campanha, oito trabalhos VIP diferentes, todos os retornos dos encontros aleatórios, vinte e cinco Drug Wars, quinze saltos BASE, três vitórias em triatlos, cinquenta gaivotas, os jogos exigidos e sete atividades com amigos. Pontuações de oitenta ou cem por cento nas missões são desafios extras de troféus, não requisitos dessa estatística de conclusão do mundo."
+          }
+        }
+      ],
+      "kind": "collectible"
+    }
+  ],
+  "trophies": [
+    {
+      "key": "trophy-tbogt-gone-down",
+      "title": "TBoGT: Gone Down",
+      "title_i18n": {
+        "en": "TBoGT: Gone Down",
+        "pt": "TBoGT: Gone Down"
+      },
+      "description": "TBoGT: complete all fifteen marked BASE jumps.",
+      "description_i18n": {
+        "en": "TBoGT: complete all fifteen marked BASE jumps.",
+        "pt": "TBoGT: conclua os quinze saltos BASE marcados."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-tbogt-diamonds-forever",
+      "title": "TBoGT: Diamonds Forever",
+      "title_i18n": {
+        "en": "TBoGT: Diamonds Forever",
+        "pt": "TBoGT: Diamonds Forever"
+      },
+      "description": "TBoGT: finish Not So Fast and its diamond-related operation.",
+      "description_i18n": {
+        "en": "TBoGT: finish Not So Fast and its diamond-related operation.",
+        "pt": "TBoGT: termine Not So Fast e a operação ligada aos diamantes."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-tbogt-four-play",
+      "title": "TBoGT: Four Play",
+      "title_i18n": {
+        "en": "TBoGT: Four Play",
+        "pt": "TBoGT: Four Play"
+      },
+      "description": "TBoGT: strike a golf flag directly with the ball four times.",
+      "description_i18n": {
+        "en": "TBoGT: strike a golf flag directly with the ball four times.",
+        "pt": "TBoGT: acerte diretamente uma bandeira com a bola de golfe quatro vezes."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-tbogt-bear-fight",
+      "title": "TBoGT: Bear Fight",
+      "title_i18n": {
+        "en": "TBoGT: Bear Fight",
+        "pt": "TBoGT: Bear Fight"
+      },
+      "description": "TBoGT: win all six rounds of the cage-fighting championship.",
+      "description_i18n": {
+        "en": "TBoGT: win all six rounds of the cage-fighting championship.",
+        "pt": "TBoGT: vença as seis rodadas do campeonato de luta na jaula."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-tbogt-catch-the-bus",
+      "title": "TBoGT: Catch the Bus",
+      "title_i18n": {
+        "en": "TBoGT: Catch the Bus",
+        "pt": "TBoGT: Catch the Bus"
+      },
+      "description": "TBoGT: successfully complete the required dance routines at Maisonette 9 and Hercules.",
+      "description_i18n": {
+        "en": "TBoGT: successfully complete the required dance routines at Maisonette 9 and Hercules.",
+        "pt": "TBoGT: conclua com sucesso as sequências de dança exigidas no Maisonette 9 e no Hercules."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-tbogt-snow-queen",
+      "title": "TBoGT: Snow Queen",
+      "title_i18n": {
+        "en": "TBoGT: Snow Queen",
+        "pt": "TBoGT: Snow Queen"
+      },
+      "description": "TBoGT: successfully finish twenty-five Drug Wars.",
+      "description_i18n": {
+        "en": "TBoGT: successfully finish twenty-five Drug Wars.",
+        "pt": "TBoGT: conclua com sucesso vinte e cinco Drug Wars."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-tbogt-adrenaline-junkie",
+      "title": "TBoGT: Adrenaline Junkie",
+      "title_i18n": {
+        "en": "TBoGT: Adrenaline Junkie",
+        "pt": "TBoGT: Adrenaline Junkie"
+      },
+      "description": "TBoGT: register the extended freefall required by the trophy and survive.",
+      "description_i18n": {
+        "en": "TBoGT: register the extended freefall required by the trophy and survive.",
+        "pt": "TBoGT: registre a queda livre prolongada exigida pelo troféu e sobreviva."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-tbogt-maestro",
+      "title": "TBoGT: Maestro",
+      "title_i18n": {
+        "en": "TBoGT: Maestro",
+        "pt": "TBoGT: Maestro"
+      },
+      "description": "TBoGT: complete Departure Time and finish Luis’s campaign.",
+      "description_i18n": {
+        "en": "TBoGT: complete Departure Time and finish Luis’s campaign.",
+        "pt": "TBoGT: conclua Departure Time e termine a campanha de Luis."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-tbogt-past-the-velvet-rope",
+      "title": "TBoGT: Past the Velvet Rope",
+      "title_i18n": {
+        "en": "TBoGT: Past the Velvet Rope",
+        "pt": "TBoGT: Past the Velvet Rope"
+      },
+      "description": "TBoGT: record a score of at least eighty percent in every one of the twenty-six missions.",
+      "description_i18n": {
+        "en": "TBoGT: record a score of at least eighty percent in every one of the twenty-six missions.",
+        "pt": "TBoGT: registre pelo menos oitenta por cento nas vinte e seis missões."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-tbogt-gold-star",
+      "title": "TBoGT: Gold Star",
+      "title_i18n": {
+        "en": "TBoGT: Gold Star",
+        "pt": "TBoGT: Gold Star"
+      },
+      "description": "TBoGT: record a perfect mission score across all twenty-six missions.",
+      "description_i18n": {
+        "en": "TBoGT: record a perfect mission score across all twenty-six missions.",
+        "pt": "TBoGT: registre a pontuação máxima nas vinte e seis missões."
+      },
+      "tier": "bronze"
+    }
+  ],
+  "hltb_id": "4074",
+  "hltb_main_hours": 8,
+  "hltb_main_extra_hours": 11,
+  "hltb_completionist_hours": 23
+}

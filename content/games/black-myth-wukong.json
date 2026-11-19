@@ -1,0 +1,2631 @@
+{
+  "slug": "black-myth-wukong",
+  "title": "Black Myth: Wukong",
+  "title_i18n": {
+    "en": "Black Myth: Wukong",
+    "pt": "Black Myth: Wukong"
+  },
+  "platform": "PlayStation 5",
+  "cover_url": "/covers/black-myth-wukong.png",
+  "created_by": "dd5c4bf0-85ea-4986-9c04-b37e8c986150",
+  "categories": [
+    {
+      "key": "journey-preparation",
+      "title": "Journey preparation",
+      "title_i18n": {
+        "en": "Journey preparation",
+        "pt": "Preparação da jornada"
+      },
+      "items": [
+        {
+          "key": "confirm-ps5-scope",
+          "title": "Start the PS5 campaign",
+          "title_i18n": {
+            "en": "Start the PS5 campaign",
+            "pt": "Começar a campanha no PS5"
+          },
+          "description": "Follow the six-chapter campaign; optional checklists select useful detours rather than every enemy or chest.",
+          "description_i18n": {
+            "en": "Follow the six-chapter campaign; optional checklists select useful detours rather than every enemy or chest.",
+            "pt": "Siga a campanha de seis capítulos; as listas opcionais selecionam desvios úteis, sem enumerar cada inimigo ou baú."
+          }
+        },
+        {
+          "key": "finish-opening-duel",
+          "title": "Finish the opening duel",
+          "title_i18n": {
+            "en": "Finish the opening duel",
+            "pt": "Concluir o duelo inicial"
+          },
+          "description": "Follow the combat prompts and continue through the opening sequence to begin the Destined One's journey.",
+          "description_i18n": {
+            "en": "Follow the combat prompts and continue through the opening sequence to begin the Destined One's journey.",
+            "pt": "Siga as instruções de combate e avance pela abertura para iniciar a jornada do Predestinado."
+          }
+        },
+        {
+          "key": "practice-dodge-stamina",
+          "title": "Practice dodging with stamina in reserve",
+          "title_i18n": {
+            "en": "Practice dodging with stamina in reserve",
+            "pt": "Praticar esquivas com vigor de reserva"
+          },
+          "description": "Against an early enemy, evade a complete attack sequence before answering with a short combo.",
+          "description_i18n": {
+            "en": "Against an early enemy, evade a complete attack sequence before answering with a short combo.",
+            "pt": "Contra um inimigo inicial, esquive de toda a sequência de ataques antes de responder com um combo curto."
+          }
+        },
+        {
+          "key": "spend-first-spark",
+          "title": "Invest the first Spark",
+          "title_i18n": {
+            "en": "Invest the first Spark",
+            "pt": "Investir a primeira Centelha"
+          },
+          "description": "Choose a useful early skill, then review Reignite the Sparks at a shrine when your build needs changing.",
+          "description_i18n": {
+            "en": "Choose a useful early skill, then review Reignite the Sparks at a shrine when your build needs changing.",
+            "pt": "Escolha uma habilidade inicial útil e consulte a redistribuição de Centelhas no santuário quando precisar mudar a configuração."
+          }
+        },
+        {
+          "key": "activate-shrine-routine",
+          "title": "Learn the Keeper's Shrine routine",
+          "title_i18n": {
+            "en": "Learn the Keeper's Shrine routine",
+            "pt": "Aprender a rotina dos santuários"
+          },
+          "description": "Activate checkpoints and check their travel, crafting and store menus; resting replenishes resources and returns ordinary enemies.",
+          "description_i18n": {
+            "en": "Activate checkpoints and check their travel, crafting and store menus; resting replenishes resources and returns ordinary enemies.",
+            "pt": "Ative pontos de controle e consulte viagem, fabricação e loja; descansar repõe recursos e faz os inimigos comuns reaparecerem."
+          }
+        },
+        {
+          "key": "track-optional-missables",
+          "title": "Choose optional completion goals early",
+          "title_i18n": {
+            "en": "Choose optional completion goals early",
+            "pt": "Escolher metas opcionais desde o início"
+          },
+          "description": "Consult the side categories before leaving each chapter; some encounters and rewards cannot be recovered within the same cycle.",
+          "description_i18n": {
+            "en": "Consult the side categories before leaving each chapter; some encounters and rewards cannot be recovered within the same cycle.",
+            "pt": "Consulte as categorias opcionais antes de sair de cada capítulo; alguns encontros e recompensas não podem ser recuperados no mesmo ciclo."
+          }
+        }
+      ]
+    },
+    {
+      "key": "chapter-one-forest",
+      "title": "Chapter 1: Forest of Wolves",
+      "title_i18n": {
+        "en": "Chapter 1: Forest of Wolves",
+        "pt": "Capítulo 1: Floresta dos Lobos"
+      },
+      "items": [
+        {
+          "key": "reach-front-hills",
+          "title": "Reach Front Hills",
+          "title_i18n": {
+            "en": "Reach Front Hills",
+            "pt": "Chegar às Colinas Frontais"
+          },
+          "description": "Follow the forest trail and activate its shrine before committing to the next guarded passage.",
+          "description_i18n": {
+            "en": "Follow the forest trail and activate its shrine before committing to the next guarded passage.",
+            "pt": "Siga a trilha da floresta e ative o santuário antes de entrar na próxima passagem vigiada."
+          }
+        },
+        {
+          "key": "defeat-bullguard",
+          "title": "Pass Bullguard's test",
+          "title_i18n": {
+            "en": "Pass Bullguard's test",
+            "pt": "Superar o teste de Bullguard"
+          },
+          "description": "Use the spell introduced during this encounter and continue once the path opens.",
+          "description_i18n": {
+            "en": "Use the spell introduced during this encounter and continue once the path opens.",
+            "pt": "Use o feitiço apresentado nesse encontro e avance quando o caminho se abrir."
+          }
+        },
+        {
+          "key": "reach-outside-forest",
+          "title": "Reach Outside the Forest",
+          "title_i18n": {
+            "en": "Reach Outside the Forest",
+            "pt": "Chegar ao Exterior da Floresta"
+          },
+          "description": "Clear the approach, activate the shrine and identify the main route toward Guanyin Temple.",
+          "description_i18n": {
+            "en": "Clear the approach, activate the shrine and identify the main route toward Guanyin Temple.",
+            "pt": "Limpe a aproximação, ative o santuário e identifique a rota principal até o Templo de Guanyin."
+          }
+        },
+        {
+          "key": "scout-forest-branches",
+          "title": "Scout the forest branches",
+          "title_i18n": {
+            "en": "Scout the forest branches",
+            "pt": "Explorar as ramificações da floresta"
+          },
+          "description": "Check nearby paths for optional encounters; returning after gaining levels is reasonable if an early foe overwhelms you.",
+          "description_i18n": {
+            "en": "Check nearby paths for optional encounters; returning after gaining levels is reasonable if an early foe overwhelms you.",
+            "pt": "Confira trilhas próximas em busca de encontros opcionais; volte após ganhar níveis se um adversário inicial estiver forte demais."
+          }
+        },
+        {
+          "key": "pass-wandering-wight-area",
+          "title": "Cross the Wandering Wight clearing",
+          "title_i18n": {
+            "en": "Cross the Wandering Wight clearing",
+            "pt": "Atravessar a clareira de Wandering Wight"
+          },
+          "description": "Reach the temple approach safely; this strong optional enemy is tracked separately in the secret checklist.",
+          "description_i18n": {
+            "en": "Reach the temple approach safely; this strong optional enemy is tracked separately in the secret checklist.",
+            "pt": "Chegue em segurança à aproximação do templo; esse inimigo opcional poderoso aparece separadamente na lista de segredos."
+          }
+        },
+        {
+          "key": "activate-guanyin-temple",
+          "title": "Activate Guanyin Temple's shrine",
+          "title_i18n": {
+            "en": "Activate Guanyin Temple's shrine",
+            "pt": "Ativar o santuário do Templo de Guanyin"
+          },
+          "description": "Prepare your healing and equipment before entering the open temple courtyard.",
+          "description_i18n": {
+            "en": "Prepare your healing and equipment before entering the open temple courtyard.",
+            "pt": "Prepare a cura e os equipamentos antes de entrar no pátio aberto do templo."
+          }
+        },
+        {
+          "key": "defeat-lingxuzi",
+          "title": "Defeat Lingxuzi",
+          "title_i18n": {
+            "en": "Defeat Lingxuzi",
+            "pt": "Derrotar Lingxuzi"
+          },
+          "description": "Learn the timing of his lunges and retreating leaps, then leave through the rear of the temple.",
+          "description_i18n": {
+            "en": "Learn the timing of his lunges and retreating leaps, then leave through the rear of the temple.",
+            "pt": "Aprenda o ritmo das investidas e dos saltos de recuo; depois saia pelos fundos do templo."
+          }
+        }
+      ]
+    },
+    {
+      "key": "chapter-one-bamboo-cave",
+      "title": "Chapter 1: Bamboo Grove and Black Wind Cave",
+      "title_i18n": {
+        "en": "Chapter 1: Bamboo Grove and Black Wind Cave",
+        "pt": "Capítulo 1: Bosque de Bambu e Caverna do Vento Negro"
+      },
+      "items": [
+        {
+          "key": "reach-back-hills",
+          "title": "Enter Bamboo Grove",
+          "title_i18n": {
+            "en": "Enter Bamboo Grove",
+            "pt": "Entrar no Bosque de Bambu"
+          },
+          "description": "Use Back Hills as your next checkpoint and explore the nearby cave before following the descending route.",
+          "description_i18n": {
+            "en": "Use Back Hills as your next checkpoint and explore the nearby cave before following the descending route.",
+            "pt": "Use Colinas Traseiras como próximo ponto de controle e explore a caverna próxima antes de descer."
+          }
+        },
+        {
+          "key": "meet-gourd-teacher",
+          "title": "Meet the teacher at Snake Trail",
+          "title_i18n": {
+            "en": "Meet the teacher at Snake Trail",
+            "pt": "Encontrar o mestre na Trilha da Serpente"
+          },
+          "description": "Talk to the old man and learn the new gourd function before collecting spirits on your route.",
+          "description_i18n": {
+            "en": "Talk to the old man and learn the new gourd function before collecting spirits on your route.",
+            "pt": "Converse com o ancião e aprenda a nova função da cabaça antes de recolher espíritos pelo caminho."
+          }
+        },
+        {
+          "key": "defeat-guangmou",
+          "title": "Defeat Guangmou",
+          "title_i18n": {
+            "en": "Defeat Guangmou",
+            "pt": "Derrotar Guangmou"
+          },
+          "description": "Keep space around the arena, watch poison pressure and return to the main bamboo path afterward.",
+          "description_i18n": {
+            "en": "Keep space around the arena, watch poison pressure and return to the main bamboo path afterward.",
+            "pt": "Mantenha espaço na arena, observe o veneno e depois retome o caminho principal pelo bambuzal."
+          }
+        },
+        {
+          "key": "meet-shen-monkey",
+          "title": "Help Shen Monkey",
+          "title_i18n": {
+            "en": "Help Shen Monkey",
+            "pt": "Ajudar Shen Monkey"
+          },
+          "description": "Resolve the encounter at Marsh of White Mist, speak in his cave and inspect the gourd upgrade and brewing menus.",
+          "description_i18n": {
+            "en": "Resolve the encounter at Marsh of White Mist, speak in his cave and inspect the gourd upgrade and brewing menus.",
+            "pt": "Resolva o encontro no Pântano da Névoa Branca, converse na caverna e veja os menus de melhoria e preparo da cabaça."
+          }
+        },
+        {
+          "key": "defeat-whiteclad-noble",
+          "title": "Defeat Whiteclad Noble",
+          "title_i18n": {
+            "en": "Defeat Whiteclad Noble",
+            "pt": "Derrotar Whiteclad Noble"
+          },
+          "description": "Prepare for an extended encounter at the water's edge and continue into Black Wind Cave afterward.",
+          "description_i18n": {
+            "en": "Prepare for an extended encounter at the water's edge and continue into Black Wind Cave afterward.",
+            "pt": "Prepare-se para um confronto prolongado à beira da água e depois entre na Caverna do Vento Negro."
+          }
+        },
+        {
+          "key": "defeat-black-wind-king",
+          "title": "Overcome Black Wind King",
+          "title_i18n": {
+            "en": "Overcome Black Wind King",
+            "pt": "Superar Black Wind King"
+          },
+          "description": "Fight through the cave confrontation and review the ability gained before climbing toward Bodhi Peak.",
+          "description_i18n": {
+            "en": "Fight through the cave confrontation and review the ability gained before climbing toward Bodhi Peak.",
+            "pt": "Vença o confronto na caverna e confira a habilidade recebida antes de subir ao Pico de Bodhi."
+          }
+        },
+        {
+          "key": "complete-black-wind-mountain",
+          "title": "Finish Black Wind Mountain",
+          "title_i18n": {
+            "en": "Finish Black Wind Mountain",
+            "pt": "Concluir a Montanha do Vento Negro"
+          },
+          "description": "Defeat Black Bear Guai, view the chapter conclusion and select a relic benefit when prompted.",
+          "description_i18n": {
+            "en": "Defeat Black Bear Guai, view the chapter conclusion and select a relic benefit when prompted.",
+            "pt": "Derrote Black Bear Guai, acompanhe o encerramento do capítulo e selecione um benefício da relíquia quando solicitado."
+          }
+        }
+      ]
+    },
+    {
+      "key": "chapter-two-sandgate",
+      "title": "Chapter 2: Sandgate Village",
+      "title_i18n": {
+        "en": "Chapter 2: Sandgate Village",
+        "pt": "Capítulo 2: Vila Sandgate"
+      },
+      "items": [
+        {
+          "key": "reach-village-entrance",
+          "title": "Reach Village Entrance",
+          "title_i18n": {
+            "en": "Reach Village Entrance",
+            "pt": "Chegar à Entrada da Vila"
+          },
+          "description": "Activate the shrine and inspect both the village approach and the lower side route before moving deeper.",
+          "description_i18n": {
+            "en": "Activate the shrine and inspect both the village approach and the lower side route before moving deeper.",
+            "pt": "Ative o santuário e examine a entrada da vila e o desvio inferior antes de avançar."
+          }
+        },
+        {
+          "key": "clear-sandgate-approach",
+          "title": "Clear a route through Sandgate",
+          "title_i18n": {
+            "en": "Clear a route through Sandgate",
+            "pt": "Abrir caminho por Sandgate"
+          },
+          "description": "Remove ranged threats before fighting in the village lanes and open the gate shortcut from inside.",
+          "description_i18n": {
+            "en": "Remove ranged threats before fighting in the village lanes and open the gate shortcut from inside.",
+            "pt": "Elimine ameaças à distância antes de lutar nas vielas e abra o atalho do portão por dentro."
+          }
+        },
+        {
+          "key": "face-king-second-prince",
+          "title": "Face the King and Second Prince",
+          "title_i18n": {
+            "en": "Face the King and Second Prince",
+            "pt": "Enfrentar o Rei e o Segundo Príncipe"
+          },
+          "description": "Before this paired encounter, consult Details if collecting every spirit is one of your goals.",
+          "description_i18n": {
+            "en": "Before this paired encounter, consult Details if collecting every spirit is one of your goals.",
+            "pt": "Antes desse encontro em dupla, consulte os Detalhes se obter todos os espíritos estiver entre suas metas."
+          },
+          "details": "For the Second Rat Prince spirit, defeat the small King of Flowing Sands before defeating his son. The surviving prince becomes more aggressive, so reserve healing and avoid spending all your burst immediately. Killing the prince first advances the route but loses his spirit for this cycle. If that has already happened, recover it in New Game+ rather than searching the empty arena.",
+          "details_i18n": {
+            "en": "For the Second Rat Prince spirit, defeat the small King of Flowing Sands before defeating his son. The surviving prince becomes more aggressive, so reserve healing and avoid spending all your burst immediately. Killing the prince first advances the route but loses his spirit for this cycle. If that has already happened, recover it in New Game+ rather than searching the empty arena.",
+            "pt": "Para obter o espírito de Second Rat Prince, derrote o pequeno King of Flowing Sands antes do filho. O príncipe sobrevivente fica mais agressivo; reserve cura e não gaste todo o dano de uma vez. Matar o príncipe primeiro permite avançar, mas perde o espírito neste ciclo. Se isso já aconteceu, recupere-o no Novo Jogo+ em vez de procurar na arena vazia."
+          }
+        },
+        {
+          "key": "activate-valley-despair",
+          "title": "Activate Valley of Despair",
+          "title_i18n": {
+            "en": "Activate Valley of Despair",
+            "pt": "Ativar o Vale do Desespero"
+          },
+          "description": "Secure the checkpoint and inspect the cave branch as well as the route toward the temple.",
+          "description_i18n": {
+            "en": "Secure the checkpoint and inspect the cave branch as well as the route toward the temple.",
+            "pt": "Garanta o ponto de controle e examine tanto a caverna lateral quanto a rota para o templo."
+          }
+        },
+        {
+          "key": "defeat-first-prince",
+          "title": "Defeat First Prince of Flowing Sands",
+          "title_i18n": {
+            "en": "Defeat First Prince of Flowing Sands",
+            "pt": "Derrotar First Prince of Flowing Sands"
+          },
+          "description": "Explore the cave encounter and search the arena after the fight before returning to the main route.",
+          "description_i18n": {
+            "en": "Explore the cave encounter and search the arena after the fight before returning to the main route.",
+            "pt": "Enfrente o encontro na caverna e examine a arena após a luta antes de retornar à rota principal."
+          }
+        },
+        {
+          "key": "reach-crouching-tiger",
+          "title": "Reach Crouching Tiger Temple",
+          "title_i18n": {
+            "en": "Reach Crouching Tiger Temple",
+            "pt": "Chegar ao Templo do Tigre Agachado"
+          },
+          "description": "Activate Temple Entrance and prepare for the confrontation at the top of its steps.",
+          "description_i18n": {
+            "en": "Activate Temple Entrance and prepare for the confrontation at the top of its steps.",
+            "pt": "Ative a Entrada do Templo e prepare-se para o confronto no alto da escadaria."
+          }
+        },
+        {
+          "key": "defeat-tiger-vanguard",
+          "title": "Defeat Tiger Vanguard",
+          "title_i18n": {
+            "en": "Defeat Tiger Vanguard",
+            "pt": "Derrotar Tiger Vanguard"
+          },
+          "description": "Watch the rhythm changes in his combos and delay healing until he finishes a sequence.",
+          "description_i18n": {
+            "en": "Watch the rhythm changes in his combos and delay healing until he finishes a sequence.",
+            "pt": "Observe as mudanças de ritmo nos combos e espere o fim de uma sequência para se curar."
+          }
+        }
+      ]
+    },
+    {
+      "key": "chapter-two-wind-ridge",
+      "title": "Chapter 2: Fright Cliff and Yellow Wind Formation",
+      "title_i18n": {
+        "en": "Chapter 2: Fright Cliff and Yellow Wind Formation",
+        "pt": "Capítulo 2: Penhasco do Medo e Formação do Vento Amarelo"
+      },
+      "items": [
+        {
+          "key": "enter-fright-cliff",
+          "title": "Explore Fright Cliff",
+          "title_i18n": {
+            "en": "Explore Fright Cliff",
+            "pt": "Explorar o Penhasco do Medo"
+          },
+          "description": "Use Squall Hideout and Rockrest Flat to connect the rocky paths and locate the route onward.",
+          "description_i18n": {
+            "en": "Use Squall Hideout and Rockrest Flat to connect the rocky paths and locate the route onward.",
+            "pt": "Use Esconderijo da Rajada e Planície do Repouso Rochoso para conectar as trilhas e localizar a continuação."
+          }
+        },
+        {
+          "key": "defeat-stone-vanguard",
+          "title": "Defeat Stone Vanguard",
+          "title_i18n": {
+            "en": "Defeat Stone Vanguard",
+            "pt": "Derrotar Stone Vanguard"
+          },
+          "description": "Keep room to evade its ground attacks and secure the passage toward Windseal Gate.",
+          "description_i18n": {
+            "en": "Keep room to evade its ground attacks and secure the passage toward Windseal Gate.",
+            "pt": "Mantenha espaço para esquivar dos ataques no chão e libere a passagem até o Portão do Selo do Vento."
+          }
+        },
+        {
+          "key": "open-chapter-two-connections",
+          "title": "Open the ridge connections",
+          "title_i18n": {
+            "en": "Open the ridge connections",
+            "pt": "Abrir as conexões da região"
+          },
+          "description": "Use the chapter's acquired key items at their matching mechanisms and connect the temple and wind-formation routes.",
+          "description_i18n": {
+            "en": "Use the chapter's acquired key items at their matching mechanisms and connect the temple and wind-formation routes.",
+            "pt": "Use os itens-chave obtidos no capítulo nos mecanismos correspondentes e conecte as rotas do templo e da formação."
+          }
+        },
+        {
+          "key": "visit-xu-dog-cellar",
+          "title": "Visit Xu Dog in the Cellar",
+          "title_i18n": {
+            "en": "Visit Xu Dog in the Cellar",
+            "pt": "Visitar Xu Dog no Porão"
+          },
+          "description": "Talk to the medicine maker and inspect permanent stat improvements before the chapter's final climb.",
+          "description_i18n": {
+            "en": "Talk to the medicine maker and inspect permanent stat improvements before the chapter's final climb.",
+            "pt": "Converse com o fabricante de remédios e confira melhorias permanentes de atributos antes da subida final."
+          }
+        },
+        {
+          "key": "traverse-windrest",
+          "title": "Traverse Windrest's settlement",
+          "title_i18n": {
+            "en": "Traverse Windrest's settlement",
+            "pt": "Atravessar o povoado de Windrest"
+          },
+          "description": "Follow the settlement route, activate its checkpoints and clear the bridge encounter if taking this branch.",
+          "description_i18n": {
+            "en": "Follow the settlement route, activate its checkpoints and clear the bridge encounter if taking this branch.",
+            "pt": "Siga pelo povoado, ative os pontos de controle e vença o encontro da ponte se escolher esse desvio."
+          }
+        },
+        {
+          "key": "audit-yellow-wind-detours",
+          "title": "Review Yellow Wind Ridge detours",
+          "title_i18n": {
+            "en": "Review Yellow Wind Ridge detours",
+            "pt": "Revisar os desvios da Serra do Vento Amarelo"
+          },
+          "description": "Check optional NPC and secret-area goals before entering the chapter's last arena; a useful tool may still be waiting.",
+          "description_i18n": {
+            "en": "Check optional NPC and secret-area goals before entering the chapter's last arena; a useful tool may still be waiting.",
+            "pt": "Confira metas opcionais de NPCs e da área secreta antes de entrar na última arena; uma ferramenta útil pode estar faltando."
+          }
+        },
+        {
+          "key": "defeat-yellow-wind-sage",
+          "title": "Defeat Yellow Wind Sage",
+          "title_i18n": {
+            "en": "Defeat Yellow Wind Sage",
+            "pt": "Derrotar Yellow Wind Sage"
+          },
+          "description": "Prepare your current upgrades and finish the confrontation beyond the wind barrier to complete Chapter 2.",
+          "description_i18n": {
+            "en": "Prepare your current upgrades and finish the confrontation beyond the wind barrier to complete Chapter 2.",
+            "pt": "Prepare suas melhorias atuais e vença o confronto além da barreira de vento para concluir o Capítulo 2."
+          }
+        }
+      ]
+    },
+    {
+      "key": "chapter-three-pagoda",
+      "title": "Chapter 3: Snowhill Path and Pagoda Realm",
+      "title_i18n": {
+        "en": "Chapter 3: Snowhill Path and Pagoda Realm",
+        "pt": "Capítulo 3: Trilha Nevada e Reino do Pagode"
+      },
+      "items": [
+        {
+          "key": "cross-frost-clad-path",
+          "title": "Cross Frost-Clad Path",
+          "title_i18n": {
+            "en": "Cross Frost-Clad Path",
+            "pt": "Atravessar a Trilha Coberta de Geada"
+          },
+          "description": "Activate the snowy checkpoint and follow the route through the first Macaque Chief encounter.",
+          "description_i18n": {
+            "en": "Activate the snowy checkpoint and follow the route through the first Macaque Chief encounter.",
+            "pt": "Ative o ponto de controle na neve e siga pela rota do primeiro encontro com Macaque Chief."
+          }
+        },
+        {
+          "key": "reach-mirrormere",
+          "title": "Reach Mirrormere",
+          "title_i18n": {
+            "en": "Reach Mirrormere",
+            "pt": "Chegar a Mirrormere"
+          },
+          "description": "Prepare at the shrine before stepping onto the frozen lake toward its central structure.",
+          "description_i18n": {
+            "en": "Prepare at the shrine before stepping onto the frozen lake toward its central structure.",
+            "pt": "Prepare-se no santuário antes de pisar no lago congelado em direção à estrutura central."
+          }
+        },
+        {
+          "key": "defeat-kang-jin-loong",
+          "title": "Defeat Kang-Jin Loong",
+          "title_i18n": {
+            "en": "Defeat Kang-Jin Loong",
+            "pt": "Derrotar Kang-Jin Loong"
+          },
+          "description": "Wait for reachable attack windows and avoid spending long combos on empty air.",
+          "description_i18n": {
+            "en": "Wait for reachable attack windows and avoid spending long combos on empty air.",
+            "pt": "Espere oportunidades ao alcance do bastão e evite gastar combos longos golpeando o ar."
+          }
+        },
+        {
+          "key": "activate-lower-pagoda",
+          "title": "Find the Lower Pagoda checkpoint",
+          "title_i18n": {
+            "en": "Find the Lower Pagoda checkpoint",
+            "pt": "Encontrar o ponto de controle do Pagode Inferior"
+          },
+          "description": "Leave the starting cell and establish a safe route through the prison's first level.",
+          "description_i18n": {
+            "en": "Leave the starting cell and establish a safe route through the prison's first level.",
+            "pt": "Saia da cela inicial e estabeleça uma rota segura pelo primeiro nível da prisão."
+          }
+        },
+        {
+          "key": "climb-upper-pagoda",
+          "title": "Climb to Upper Pagoda",
+          "title_i18n": {
+            "en": "Climb to Upper Pagoda",
+            "pt": "Subir ao Pagode Superior"
+          },
+          "description": "Cross narrow walkways carefully and clear ambushers before attempting exposed stretches.",
+          "description_i18n": {
+            "en": "Cross narrow walkways carefully and clear ambushers before attempting exposed stretches.",
+            "pt": "Atravesse passarelas estreitas com cuidado e elimine emboscadas antes dos trechos expostos."
+          }
+        },
+        {
+          "key": "review-pagoda-missables",
+          "title": "Review the prison's optional encounters",
+          "title_i18n": {
+            "en": "Review the prison's optional encounters",
+            "pt": "Revisar os encontros opcionais da prisão"
+          },
+          "description": "Pause before the summit boss if pursuing the Lantern Warden reward; its availability changes with progression.",
+          "description_i18n": {
+            "en": "Pause before the summit boss if pursuing the Lantern Warden reward; its availability changes with progression.",
+            "pt": "Pare antes do chefe do topo se quiser a recompensa dos Lantern Wardens; a disponibilidade muda com o progresso."
+          }
+        },
+        {
+          "key": "reach-mani-wheel",
+          "title": "Reach Mani Wheel",
+          "title_i18n": {
+            "en": "Reach Mani Wheel",
+            "pt": "Chegar à Roda Mani"
+          },
+          "description": "Finish the upper prison route and rest at the checkpoint before entering the large chamber.",
+          "description_i18n": {
+            "en": "Finish the upper prison route and rest at the checkpoint before entering the large chamber.",
+            "pt": "Conclua o percurso superior da prisão e descanse no ponto de controle antes de entrar na grande câmara."
+          }
+        },
+        {
+          "key": "defeat-captain-wise-voice",
+          "title": "Defeat Captain Wise-Voice",
+          "title_i18n": {
+            "en": "Defeat Captain Wise-Voice",
+            "pt": "Derrotar Captain Wise-Voice"
+          },
+          "description": "Observe its changing arena pressure and use the openings it leaves after a knockdown.",
+          "description_i18n": {
+            "en": "Observe its changing arena pressure and use the openings it leaves after a knockdown.",
+            "pt": "Observe as mudanças de pressão na arena e aproveite as aberturas deixadas após uma queda."
+          }
+        }
+      ]
+    },
+    {
+      "key": "chapter-three-bitter-lake",
+      "title": "Chapter 3: Warding Temple and Bitter Lake",
+      "title_i18n": {
+        "en": "Chapter 3: Warding Temple and Bitter Lake",
+        "pt": "Capítulo 3: Templo Protetor e Lago Amargo"
+      },
+      "items": [
+        {
+          "key": "leave-pagoda-prison",
+          "title": "Leave the prison for Snow-Veiled Trail",
+          "title_i18n": {
+            "en": "Leave the prison for Snow-Veiled Trail",
+            "pt": "Sair da prisão até a Trilha Coberta de Neve"
+          },
+          "description": "Continue beyond Outside the Wheel and activate the next outdoor checkpoint.",
+          "description_i18n": {
+            "en": "Continue beyond Outside the Wheel and activate the next outdoor checkpoint.",
+            "pt": "Avance além do Exterior da Roda e ative o próximo ponto de controle ao ar livre."
+          }
+        },
+        {
+          "key": "visit-warding-temple",
+          "title": "Reach Warding Temple",
+          "title_i18n": {
+            "en": "Reach Warding Temple",
+            "pt": "Chegar ao Templo Protetor"
+          },
+          "description": "Follow the snowy route and resolve the next Macaque Chief encounter to continue.",
+          "description_i18n": {
+            "en": "Follow the snowy route and resolve the next Macaque Chief encounter to continue.",
+            "pt": "Siga o caminho nevado e resolva o próximo encontro com Macaque Chief para continuar."
+          }
+        },
+        {
+          "key": "review-ring-of-fire",
+          "title": "Review the new spell",
+          "title_i18n": {
+            "en": "Review the new spell",
+            "pt": "Revisar o novo feitiço"
+          },
+          "description": "After the temple sequence, inspect Ring of Fire and consider its place in your equipped spell set.",
+          "description_i18n": {
+            "en": "After the temple sequence, inspect Ring of Fire and consider its place in your equipped spell set.",
+            "pt": "Após a sequência do templo, examine Ring of Fire e considere seu lugar no conjunto de feitiços equipado."
+          }
+        },
+        {
+          "key": "defeat-kang-jin-star",
+          "title": "Defeat Kang-Jin Star",
+          "title_i18n": {
+            "en": "Defeat Kang-Jin Star",
+            "pt": "Derrotar Kang-Jin Star"
+          },
+          "description": "Track the lightning warnings and wait for her return to an approachable position before committing attacks.",
+          "description_i18n": {
+            "en": "Track the lightning warnings and wait for her return to an approachable position before committing attacks.",
+            "pt": "Observe os avisos de relâmpagos e espere que ela volte a uma posição acessível antes de atacar."
+          }
+        },
+        {
+          "key": "explore-turtle-island",
+          "title": "Explore Turtle Island",
+          "title_i18n": {
+            "en": "Explore Turtle Island",
+            "pt": "Explorar a Ilha da Tartaruga"
+          },
+          "description": "Activate its shrine and inspect side paths before taking the route that advances the lake sequence.",
+          "description_i18n": {
+            "en": "Activate its shrine and inspect side paths before taking the route that advances the lake sequence.",
+            "pt": "Ative o santuário e examine caminhos laterais antes de seguir pela rota que avança a sequência do lago."
+          }
+        },
+        {
+          "key": "audit-north-shore",
+          "title": "Inspect North Shore of the Bitter Lake",
+          "title_i18n": {
+            "en": "Inspect North Shore of the Bitter Lake",
+            "pt": "Examinar a Margem Norte do Lago Amargo"
+          },
+          "description": "Explore both ends of the shore with your companion before moving inland; selected optional encounters are tracked separately.",
+          "description_i18n": {
+            "en": "Explore both ends of the shore with your companion before moving inland; selected optional encounters are tracked separately.",
+            "pt": "Explore as duas pontas da margem com seu companheiro antes de seguir para o interior; encontros opcionais estão separados."
+          }
+        },
+        {
+          "key": "enter-valley-ecstasy",
+          "title": "Enter the Valley of Ecstasy",
+          "title_i18n": {
+            "en": "Enter the Valley of Ecstasy",
+            "pt": "Entrar no Vale do Êxtase"
+          },
+          "description": "Follow the inland trail, resolve the required encounter and activate Forest of Felicity.",
+          "description_i18n": {
+            "en": "Follow the inland trail, resolve the required encounter and activate Forest of Felicity.",
+            "pt": "Siga a trilha para o interior, resolva o encontro obrigatório e ative a Floresta da Felicidade."
+          }
+        }
+      ]
+    },
+    {
+      "key": "chapter-three-thunderclap",
+      "title": "Chapter 3: Valley of Ecstasy and Thunderclap Temple",
+      "title_i18n": {
+        "en": "Chapter 3: Valley of Ecstasy and Thunderclap Temple",
+        "pt": "Capítulo 3: Vale do Êxtase e Templo do Trovão"
+      },
+      "items": [
+        {
+          "key": "map-valley-connections",
+          "title": "Connect the valley checkpoints",
+          "title_i18n": {
+            "en": "Connect the valley checkpoints",
+            "pt": "Conectar os pontos de controle do vale"
+          },
+          "description": "Locate the main ascent toward Longevity Road while noting lower trails for optional exploration.",
+          "description_i18n": {
+            "en": "Locate the main ascent toward Longevity Road while noting lower trails for optional exploration.",
+            "pt": "Localize a subida principal até a Estrada da Longevidade e observe trilhas inferiores para exploração opcional."
+          }
+        },
+        {
+          "key": "reach-longevity-road",
+          "title": "Reach Longevity Road",
+          "title_i18n": {
+            "en": "Reach Longevity Road",
+            "pt": "Chegar à Estrada da Longevidade"
+          },
+          "description": "Activate the shrine and clear a reliable approach toward the temple gate.",
+          "description_i18n": {
+            "en": "Activate the shrine and clear a reliable approach toward the temple gate.",
+            "pt": "Ative o santuário e abra uma aproximação segura até o portão do templo."
+          }
+        },
+        {
+          "key": "defeat-captain-kalpa-wave",
+          "title": "Defeat Captain Kalpa-Wave",
+          "title_i18n": {
+            "en": "Defeat Captain Kalpa-Wave",
+            "pt": "Derrotar Captain Kalpa-Wave"
+          },
+          "description": "Finish the gate encounter and enter New Thunderclap Temple.",
+          "description_i18n": {
+            "en": "Finish the gate encounter and enter New Thunderclap Temple.",
+            "pt": "Vença o encontro do portão e entre no Novo Templo do Trovão."
+          }
+        },
+        {
+          "key": "explore-thunderclap-courtyards",
+          "title": "Explore the temple courtyards",
+          "title_i18n": {
+            "en": "Explore the temple courtyards",
+            "pt": "Explorar os pátios do templo"
+          },
+          "description": "Activate Temple Entrance, inspect adjoining buildings and check optional NPC goals before the final ascent.",
+          "description_i18n": {
+            "en": "Activate Temple Entrance, inspect adjoining buildings and check optional NPC goals before the final ascent.",
+            "pt": "Ative a Entrada do Templo, examine prédios adjacentes e confira metas opcionais de NPCs antes da subida final."
+          }
+        },
+        {
+          "key": "prepare-mahavira-hall",
+          "title": "Prepare at Mahavira Hall",
+          "title_i18n": {
+            "en": "Prepare at Mahavira Hall",
+            "pt": "Preparar-se no Salão Mahavira"
+          },
+          "description": "Spend available upgrade materials and replenish useful medicines before beginning the extended chapter conclusion.",
+          "description_i18n": {
+            "en": "Spend available upgrade materials and replenish useful medicines before beginning the extended chapter conclusion.",
+            "pt": "Gaste materiais de melhoria disponíveis e reponha remédios úteis antes de começar o longo encerramento do capítulo."
+          }
+        },
+        {
+          "key": "complete-yellowbrow-encounters",
+          "title": "Complete the temple confrontation",
+          "title_i18n": {
+            "en": "Complete the temple confrontation",
+            "pt": "Concluir o confronto do templo"
+          },
+          "description": "Advance through the linked encounters without assuming the first victory ends the chapter.",
+          "description_i18n": {
+            "en": "Advance through the linked encounters without assuming the first victory ends the chapter.",
+            "pt": "Avance pelos confrontos interligados sem presumir que a primeira vitória encerra o capítulo."
+          }
+        },
+        {
+          "key": "defeat-yellowbrow",
+          "title": "Finish Yellowbrow's final encounter",
+          "title_i18n": {
+            "en": "Finish Yellowbrow's final encounter",
+            "pt": "Concluir o confronto final com Yellowbrow"
+          },
+          "description": "Adapt when normal attacks stop being effective and complete Chapter 3; tactical guidance is available in Details.",
+          "description_i18n": {
+            "en": "Adapt when normal attacks stop being effective and complete Chapter 3; tactical guidance is available in Details.",
+            "pt": "Adapte-se quando ataques comuns deixarem de funcionar e conclua o Capítulo 3; há orientação tática nos Detalhes."
+          },
+          "details": "Treat the temple conclusion as linked fights and save consumable medicines for the harder final section. When Yellowbrow's body turns gold, stop relying on light attacks: create space, charge a heavy strike and repeat if the coating remains. Attack after the coating breaks. Escape the marked lightning areas before attempting to heal; trading hits while trapped wastes the opening and your gourd.",
+          "details_i18n": {
+            "en": "Treat the temple conclusion as linked fights and save consumable medicines for the harder final section. When Yellowbrow's body turns gold, stop relying on light attacks: create space, charge a heavy strike and repeat if the coating remains. Attack after the coating breaks. Escape the marked lightning areas before attempting to heal; trading hits while trapped wastes the opening and your gourd.",
+            "pt": "Trate o encerramento do templo como lutas interligadas e guarde remédios consumíveis para o trecho final mais difícil. Quando o corpo de Yellowbrow ficar dourado, não dependa de ataques leves: abra espaço, carregue um golpe pesado e repita se a cobertura continuar. Ataque após quebrá-la. Saia das áreas de relâmpagos marcadas antes de tentar se curar; trocar golpes enquanto estiver preso desperdiça a abertura e a cabaça."
+          }
+        }
+      ]
+    },
+    {
+      "key": "chapter-four-webbed-hollow",
+      "title": "Chapter 4: Webbed Hollow",
+      "title_i18n": {
+        "en": "Chapter 4: Webbed Hollow",
+        "pt": "Capítulo 4: Caverna das Teias"
+      },
+      "items": [
+        {
+          "key": "enter-village-lanxi",
+          "title": "Enter the Village of Lanxi",
+          "title_i18n": {
+            "en": "Enter the Village of Lanxi",
+            "pt": "Entrar na Vila de Lanxi"
+          },
+          "description": "Activate Estate of the Zhu and inspect the village approach before entering the next arena.",
+          "description_i18n": {
+            "en": "Activate Estate of the Zhu and inspect the village approach before entering the next arena.",
+            "pt": "Ative a Propriedade dos Zhu e examine a aproximação da vila antes de entrar na próxima arena."
+          }
+        },
+        {
+          "key": "defeat-second-sister",
+          "title": "Defeat the Second Sister",
+          "title_i18n": {
+            "en": "Defeat the Second Sister",
+            "pt": "Derrotar a Segunda Irmã"
+          },
+          "description": "Complete the opening encounter and follow the route into the hollow below.",
+          "description_i18n": {
+            "en": "Complete the opening encounter and follow the route into the hollow below.",
+            "pt": "Conclua o encontro de abertura e siga pela rota até a caverna abaixo."
+          }
+        },
+        {
+          "key": "activate-upper-hollow",
+          "title": "Activate Upper Hollow",
+          "title_i18n": {
+            "en": "Activate Upper Hollow",
+            "pt": "Ativar a Caverna Superior"
+          },
+          "description": "Establish your first underground checkpoint and identify the descending routes through the webbed caverns.",
+          "description_i18n": {
+            "en": "Establish your first underground checkpoint and identify the descending routes through the webbed caverns.",
+            "pt": "Estabeleça seu primeiro ponto de controle subterrâneo e identifique as descidas pelas cavernas cobertas de teias."
+          }
+        },
+        {
+          "key": "explore-verdure-bridge",
+          "title": "Explore The Verdure Bridge",
+          "title_i18n": {
+            "en": "Explore The Verdure Bridge",
+            "pt": "Explorar a Ponte Verdejante"
+          },
+          "description": "Inspect the branching settlement paths and note the optional quest markers before continuing deeper.",
+          "description_i18n": {
+            "en": "Inspect the branching settlement paths and note the optional quest markers before continuing deeper.",
+            "pt": "Examine as trilhas do povoado e observe os marcos de missões opcionais antes de avançar às profundezas."
+          }
+        },
+        {
+          "key": "reach-middle-hollow",
+          "title": "Reach Middle Hollow",
+          "title_i18n": {
+            "en": "Reach Middle Hollow",
+            "pt": "Chegar à Caverna Intermediária"
+          },
+          "description": "Follow the descent and clear the Centipede Guai route toward Bonevault.",
+          "description_i18n": {
+            "en": "Follow the descent and clear the Centipede Guai route toward Bonevault.",
+            "pt": "Siga a descida e abra caminho pela rota de Centipede Guai até o Cofre de Ossos."
+          }
+        },
+        {
+          "key": "reach-cliff-oblivion",
+          "title": "Reach Cliff of Oblivion",
+          "title_i18n": {
+            "en": "Reach Cliff of Oblivion",
+            "pt": "Chegar ao Penhasco do Esquecimento"
+          },
+          "description": "Continue beyond Bonevault, checking the nearby optional interactions before the next narrow passage.",
+          "description_i18n": {
+            "en": "Continue beyond Bonevault, checking the nearby optional interactions before the next narrow passage.",
+            "pt": "Avance além do Cofre de Ossos e confira as interações opcionais próximas antes da próxima passagem estreita."
+          }
+        },
+        {
+          "key": "defeat-buddhas-right-hand",
+          "title": "Pass Buddha's Right Hand",
+          "title_i18n": {
+            "en": "Pass Buddha's Right Hand",
+            "pt": "Superar a Mão Direita de Buda"
+          },
+          "description": "Resolve the passage encounter and use the new route that opens afterward.",
+          "description_i18n": {
+            "en": "Resolve the passage encounter and use the new route that opens afterward.",
+            "pt": "Resolva o encontro da passagem e use a nova rota aberta depois dele."
+          }
+        },
+        {
+          "key": "complete-hut-immortality",
+          "title": "Complete the Hut of Immortality encounters",
+          "title_i18n": {
+            "en": "Complete the Hut of Immortality encounters",
+            "pt": "Concluir os encontros da Cabana da Imortalidade"
+          },
+          "description": "Follow the main descent and persist through the linked confrontations before moving toward The Gathering Cave.",
+          "description_i18n": {
+            "en": "Follow the main descent and persist through the linked confrontations before moving toward The Gathering Cave.",
+            "pt": "Siga a descida principal e supere os confrontos interligados antes de avançar à Caverna da Reunião."
+          }
+        }
+      ]
+    },
+    {
+      "key": "chapter-four-yellow-flower",
+      "title": "Chapter 4: Temple of the Yellow Flower",
+      "title_i18n": {
+        "en": "Chapter 4: Temple of the Yellow Flower",
+        "pt": "Capítulo 4: Templo da Flor Amarela"
+      },
+      "items": [
+        {
+          "key": "defeat-violet-spider",
+          "title": "Defeat Violet Spider",
+          "title_i18n": {
+            "en": "Defeat Violet Spider",
+            "pt": "Derrotar Violet Spider"
+          },
+          "description": "Complete the confrontation at The Gathering Cave and follow the exit sequence out of the hollow.",
+          "description_i18n": {
+            "en": "Complete the confrontation at The Gathering Cave and follow the exit sequence out of the hollow.",
+            "pt": "Vença o confronto na Caverna da Reunião e siga a sequência de saída da caverna."
+          }
+        },
+        {
+          "key": "reach-mountain-trail",
+          "title": "Climb Mountain Trail",
+          "title_i18n": {
+            "en": "Climb Mountain Trail",
+            "pt": "Subir a Trilha da Montanha"
+          },
+          "description": "Activate the outdoor shrine and follow the route toward the temple complex.",
+          "description_i18n": {
+            "en": "Activate the outdoor shrine and follow the route toward the temple complex.",
+            "pt": "Ative o santuário ao ar livre e siga em direção ao complexo do templo."
+          }
+        },
+        {
+          "key": "enter-yellow-flower-temple",
+          "title": "Enter the temple grounds",
+          "title_i18n": {
+            "en": "Enter the temple grounds",
+            "pt": "Entrar nos terrenos do templo"
+          },
+          "description": "Activate Temple Entrance and explore its courtyards before continuing toward Court of Illumination.",
+          "description_i18n": {
+            "en": "Activate Temple Entrance and explore its courtyards before continuing toward Court of Illumination.",
+            "pt": "Ative a Entrada do Templo e explore os pátios antes de seguir à Corte da Iluminação."
+          }
+        },
+        {
+          "key": "audit-fourth-chapter-missables",
+          "title": "Check Chapter 4's optional deadlines",
+          "title_i18n": {
+            "en": "Check Chapter 4's optional deadlines",
+            "pt": "Conferir os prazos opcionais do Capítulo 4"
+          },
+          "description": "Review the purple-talismans and secret-mountain checklists before committing to the final arena.",
+          "description_i18n": {
+            "en": "Review the purple-talismans and secret-mountain checklists before committing to the final arena.",
+            "pt": "Revise as listas dos talismãs roxos e da montanha secreta antes de entrar na arena final."
+          }
+        },
+        {
+          "key": "prepare-court-illumination",
+          "title": "Prepare at Court of Illumination",
+          "title_i18n": {
+            "en": "Prepare at Court of Illumination",
+            "pt": "Preparar-se na Corte da Iluminação"
+          },
+          "description": "Set your equipment and vessel, then complete remaining nearby exploration before approaching the boss.",
+          "description_i18n": {
+            "en": "Set your equipment and vessel, then complete remaining nearby exploration before approaching the boss.",
+            "pt": "Ajuste equipamentos e artefato; depois conclua a exploração próxima antes de se aproximar do chefe."
+          }
+        },
+        {
+          "key": "defeat-hundred-eyed-master",
+          "title": "Defeat Hundred-Eyed Daoist Master",
+          "title_i18n": {
+            "en": "Defeat Hundred-Eyed Daoist Master",
+            "pt": "Derrotar Hundred-Eyed Daoist Master"
+          },
+          "description": "Learn the reach of its attacks and adapt to the arena change to finish Chapter 4.",
+          "description_i18n": {
+            "en": "Learn the reach of its attacks and adapt to the arena change to finish Chapter 4.",
+            "pt": "Aprenda o alcance dos ataques e adapte-se à mudança da arena para concluir o Capítulo 4."
+          }
+        }
+      ]
+    },
+    {
+      "key": "chapter-five-woods-ember",
+      "title": "Chapter 5: Woods of Ember",
+      "title_i18n": {
+        "en": "Chapter 5: Woods of Ember",
+        "pt": "Capítulo 5: Bosque das Brasas"
+      },
+      "items": [
+        {
+          "key": "reach-ashen-pass-one",
+          "title": "Reach Ashen Pass I",
+          "title_i18n": {
+            "en": "Reach Ashen Pass I",
+            "pt": "Chegar à Passagem Cinzenta I"
+          },
+          "description": "Activate the first checkpoint and enter the battlefield ahead with room to retreat.",
+          "description_i18n": {
+            "en": "Activate the first checkpoint and enter the battlefield ahead with room to retreat.",
+            "pt": "Ative o primeiro ponto de controle e entre no campo de batalha adiante mantendo espaço para recuar."
+          }
+        },
+        {
+          "key": "meet-pale-axe-stalwart",
+          "title": "Meet Pale-Axe Stalwart",
+          "title_i18n": {
+            "en": "Meet Pale-Axe Stalwart",
+            "pt": "Encontrar Pale-Axe Stalwart"
+          },
+          "description": "Resolve the opening confrontation and speak to the survivor before climbing the next path.",
+          "description_i18n": {
+            "en": "Resolve the opening confrontation and speak to the survivor before climbing the next path.",
+            "pt": "Resolva o confronto inicial e converse com o sobrevivente antes de subir pelo próximo caminho."
+          }
+        },
+        {
+          "key": "defeat-brown-iron-cart",
+          "title": "Pass Brown-Iron Cart",
+          "title_i18n": {
+            "en": "Pass Brown-Iron Cart",
+            "pt": "Superar Brown-Iron Cart"
+          },
+          "description": "Clear the cart blocking the ascent and continue along the forest route.",
+          "description_i18n": {
+            "en": "Clear the cart blocking the ascent and continue along the forest route.",
+            "pt": "Elimine a carroça que bloqueia a subida e continue pela rota da floresta."
+          }
+        },
+        {
+          "key": "reach-height-ember",
+          "title": "Reach Height of Ember",
+          "title_i18n": {
+            "en": "Reach Height of Ember",
+            "pt": "Chegar à Altura das Brasas"
+          },
+          "description": "Activate its shrine and prepare for the encounter guarding the next gate.",
+          "description_i18n": {
+            "en": "Activate its shrine and prepare for the encounter guarding the next gate.",
+            "pt": "Ative o santuário e prepare-se para o encontro que protege o próximo portão."
+          }
+        },
+        {
+          "key": "defeat-father-stones",
+          "title": "Defeat Father of Stones",
+          "title_i18n": {
+            "en": "Defeat Father of Stones",
+            "pt": "Derrotar Father of Stones"
+          },
+          "description": "Finish the gate encounter and open the passage through the cave beyond.",
+          "description_i18n": {
+            "en": "Finish the gate encounter and open the passage through the cave beyond.",
+            "pt": "Vença o encontro do portão e abra a passagem pela caverna adiante."
+          }
+        },
+        {
+          "key": "defeat-gray-bronze-cart",
+          "title": "Pass Gray-Bronze Cart",
+          "title_i18n": {
+            "en": "Pass Gray-Bronze Cart",
+            "pt": "Superar Gray-Bronze Cart"
+          },
+          "description": "Clear the next roadblock and follow the route toward the remaining forest encounters.",
+          "description_i18n": {
+            "en": "Clear the next roadblock and follow the route toward the remaining forest encounters.",
+            "pt": "Elimine o próximo bloqueio e siga em direção aos encontros restantes da floresta."
+          }
+        },
+        {
+          "key": "defeat-quick-fire-fast-wind",
+          "title": "Defeat Quick as Fire and Fast as Wind",
+          "title_i18n": {
+            "en": "Defeat Quick as Fire and Fast as Wind",
+            "pt": "Derrotar Quick as Fire e Fast as Wind"
+          },
+          "description": "Keep both attackers in view and take safe openings before descending toward Furnace Valley.",
+          "description_i18n": {
+            "en": "Keep both attackers in view and take safe openings before descending toward Furnace Valley.",
+            "pt": "Mantenha os dois atacantes à vista e aproveite aberturas seguras antes de descer ao Vale da Fornalha."
+          }
+        }
+      ]
+    },
+    {
+      "key": "chapter-five-furnace",
+      "title": "Chapter 5: Furnace Valley and Field of Fire",
+      "title_i18n": {
+        "en": "Chapter 5: Furnace Valley and Field of Fire",
+        "pt": "Capítulo 5: Vale da Fornalha e Campo de Fogo"
+      },
+      "items": [
+        {
+          "key": "activate-valley-entrance",
+          "title": "Activate Valley Entrance",
+          "title_i18n": {
+            "en": "Activate Valley Entrance",
+            "pt": "Ativar a Entrada do Vale"
+          },
+          "description": "Secure the checkpoint and inspect the valley branches; review the Horse Guai goal before the Emerald Hall encounter.",
+          "description_i18n": {
+            "en": "Secure the checkpoint and inspect the valley branches; review the Horse Guai goal before the Emerald Hall encounter.",
+            "pt": "Garanta o ponto de controle e examine os desvios; revise a meta de Horse Guai antes do encontro no Salão de Esmeralda."
+          }
+        },
+        {
+          "key": "defeat-cloud-pair",
+          "title": "Defeat Cloudy Mist and Misty Cloud",
+          "title_i18n": {
+            "en": "Defeat Cloudy Mist and Misty Cloud",
+            "pt": "Derrotar Cloudy Mist e Misty Cloud"
+          },
+          "description": "Watch the pair's alternating attacks and continue toward Rakshasa Palace.",
+          "description_i18n": {
+            "en": "Watch the pair's alternating attacks and continue toward Rakshasa Palace.",
+            "pt": "Observe os ataques alternados da dupla e continue até o Palácio Rakshasa."
+          }
+        },
+        {
+          "key": "reach-emerald-hall",
+          "title": "Reach The Emerald Hall",
+          "title_i18n": {
+            "en": "Reach The Emerald Hall",
+            "pt": "Chegar ao Salão de Esmeralda"
+          },
+          "description": "Explore the palace route, activate its checkpoints and prepare your loadout at the hall shrine.",
+          "description_i18n": {
+            "en": "Explore the palace route, activate its checkpoints and prepare your loadout at the hall shrine.",
+            "pt": "Explore a rota do palácio, ative os pontos de controle e prepare seus equipamentos no santuário do salão."
+          }
+        },
+        {
+          "key": "complete-keeper-confrontation",
+          "title": "Complete the Keeper's confrontation",
+          "title_i18n": {
+            "en": "Complete the Keeper's confrontation",
+            "pt": "Concluir o confronto do Guardião"
+          },
+          "description": "Advance through the linked encounter and revisit unfinished valley interactions afterward if needed.",
+          "description_i18n": {
+            "en": "Advance through the linked encounter and revisit unfinished valley interactions afterward if needed.",
+            "pt": "Avance pelo confronto interligado e retome interações pendentes no vale depois, se necessário."
+          }
+        },
+        {
+          "key": "defeat-crimson-silver-cart",
+          "title": "Pass Crimson-Silver Cart",
+          "title_i18n": {
+            "en": "Pass Crimson-Silver Cart",
+            "pt": "Superar Crimson-Silver Cart"
+          },
+          "description": "Clear the road beyond Emerald Hall and check whether Pale-Axe Stalwart has more to say.",
+          "description_i18n": {
+            "en": "Clear the road beyond Emerald Hall and check whether Pale-Axe Stalwart has more to say.",
+            "pt": "Libere a estrada além do Salão de Esmeralda e veja se Pale-Axe Stalwart tem mais a dizer."
+          }
+        },
+        {
+          "key": "cross-rolling-hazard",
+          "title": "Cross the rolling-hazard route",
+          "title_i18n": {
+            "en": "Cross the rolling-hazard route",
+            "pt": "Atravessar a rota do obstáculo rolante"
+          },
+          "description": "Use safe recesses between advances and follow the route until Fallen Furnace Crater is available.",
+          "description_i18n": {
+            "en": "Use safe recesses between advances and follow the route until Fallen Furnace Crater is available.",
+            "pt": "Use recuos seguros entre avanços e siga até liberar a Cratera da Fornalha Caída."
+          }
+        },
+        {
+          "key": "complete-flaming-mountains",
+          "title": "Finish the Flaming Mountains",
+          "title_i18n": {
+            "en": "Finish the Flaming Mountains",
+            "pt": "Concluir as Montanhas Flamejantes"
+          },
+          "description": "Prepare at the crater checkpoint and defeat the linked Red Boy and Yaksha King encounters to finish Chapter 5.",
+          "description_i18n": {
+            "en": "Prepare at the crater checkpoint and defeat the linked Red Boy and Yaksha King encounters to finish Chapter 5.",
+            "pt": "Prepare-se no ponto de controle da cratera e vença os confrontos com Red Boy e Yaksha King para concluir o Capítulo 5."
+          }
+        }
+      ]
+    },
+    {
+      "key": "chapter-six-mount-huaguo",
+      "title": "Chapter 6: Mount Huaguo",
+      "title_i18n": {
+        "en": "Chapter 6: Mount Huaguo",
+        "pt": "Capítulo 6: Monte Huaguo"
+      },
+      "items": [
+        {
+          "key": "reach-verdant-path",
+          "title": "Reach Verdant Path",
+          "title_i18n": {
+            "en": "Reach Verdant Path",
+            "pt": "Chegar à Trilha Verdejante"
+          },
+          "description": "Activate the opening shrine and climb toward the chapter's first major confrontation.",
+          "description_i18n": {
+            "en": "Activate the opening shrine and climb toward the chapter's first major confrontation.",
+            "pt": "Ative o santuário inicial e suba em direção ao primeiro grande confronto do capítulo."
+          }
+        },
+        {
+          "key": "defeat-supreme-inspector",
+          "title": "Defeat Supreme Inspector",
+          "title_i18n": {
+            "en": "Defeat Supreme Inspector",
+            "pt": "Derrotar Supreme Inspector"
+          },
+          "description": "Respect its airborne pressure and attack only when it settles into a reachable position.",
+          "description_i18n": {
+            "en": "Respect its airborne pressure and attack only when it settles into a reachable position.",
+            "pt": "Respeite a pressão aérea e ataque quando ele assumir uma posição ao alcance do bastão."
+          }
+        },
+        {
+          "key": "learn-somersault-cloud",
+          "title": "Learn to travel by cloud",
+          "title_i18n": {
+            "en": "Learn to travel by cloud",
+            "pt": "Aprender a viajar de nuvem"
+          },
+          "description": "Use the newly available movement ability to survey the region and establish landmarks around the lake.",
+          "description_i18n": {
+            "en": "Use the newly available movement ability to survey the region and establish landmarks around the lake.",
+            "pt": "Use a nova habilidade de deslocamento para observar a região e identificar referências ao redor do lago."
+          }
+        },
+        {
+          "key": "recover-rhino-armor",
+          "title": "Recover the rhino's armor piece",
+          "title_i18n": {
+            "en": "Recover the rhino's armor piece",
+            "pt": "Recuperar a peça de armadura do rinoceronte"
+          },
+          "description": "Find Gold Armored Rhino on the elevated terrain and complete its encounter.",
+          "description_i18n": {
+            "en": "Find Gold Armored Rhino on the elevated terrain and complete its encounter.",
+            "pt": "Encontre Gold Armored Rhino no terreno elevado e conclua o confronto."
+          }
+        },
+        {
+          "key": "recover-deer-armor",
+          "title": "Recover the deer's armor piece",
+          "title_i18n": {
+            "en": "Recover the deer's armor piece",
+            "pt": "Recuperar a peça de armadura do cervo"
+          },
+          "description": "Explore the red-leaved woodland and defeat Cloudtreading Deer through its full encounter.",
+          "description_i18n": {
+            "en": "Explore the red-leaved woodland and defeat Cloudtreading Deer through its full encounter.",
+            "pt": "Explore o bosque de folhas vermelhas e derrote Cloudtreading Deer em todo o confronto."
+          }
+        },
+        {
+          "key": "complete-feng-tail-trial",
+          "title": "Complete Feng-Tail General's trial",
+          "title_i18n": {
+            "en": "Complete Feng-Tail General's trial",
+            "pt": "Concluir a prova de Feng-Tail General"
+          },
+          "description": "Locate the moving giant and prepare for an unusual trial; consult Details if repeated attempts fail.",
+          "description_i18n": {
+            "en": "Locate the moving giant and prepare for an unusual trial; consult Details if repeated attempts fail.",
+            "pt": "Localize o gigante em movimento e prepare-se para uma prova incomum; consulte os Detalhes se as tentativas falharem."
+          },
+          "details": "Land on Feng-Tail General's back using the cloud and approach its head. Follow the prompts and keep holding through three jumps; this first trial drains stamina. Increase maximum stamina or use an appropriate stamina medicine if the hold fails. Once it stops, activate Fireproof Mantle before beginning the second hold to handle the burning damage. Begin near the start of its route so the map boundary does not interrupt your attempt.",
+          "details_i18n": {
+            "en": "Land on Feng-Tail General's back using the cloud and approach its head. Follow the prompts and keep holding through three jumps; this first trial drains stamina. Increase maximum stamina or use an appropriate stamina medicine if the hold fails. Once it stops, activate Fireproof Mantle before beginning the second hold to handle the burning damage. Begin near the start of its route so the map boundary does not interrupt your attempt.",
+            "pt": "Pouse nas costas de Feng-Tail General usando a nuvem e aproxime-se da cabeça. Siga os comandos e mantenha o botão pressionado durante três saltos; a primeira prova consome vigor. Aumente o vigor máximo ou use um remédio adequado se não conseguir se segurar. Quando ele parar, ative Fireproof Mantle antes de começar a segunda etapa para lidar com o fogo. Comece perto do início da rota para a borda do mapa não interromper a tentativa."
+          }
+        },
+        {
+          "key": "recover-mantis-armor",
+          "title": "Recover the mantis armor piece",
+          "title_i18n": {
+            "en": "Recover the mantis armor piece",
+            "pt": "Recuperar a peça de armadura do louva-a-deus"
+          },
+          "description": "Visit Mantis-Catching Swamp after securing the other three pieces and complete the encounter there.",
+          "description_i18n": {
+            "en": "Visit Mantis-Catching Swamp after securing the other three pieces and complete the encounter there.",
+            "pt": "Visite o Pântano da Captura do Louva-a-deus após obter as outras três peças e conclua o encontro."
+          }
+        },
+        {
+          "key": "claim-jingubang",
+          "title": "Claim Jingubang",
+          "title_i18n": {
+            "en": "Claim Jingubang",
+            "pt": "Obter Jingubang"
+          },
+          "description": "With the recovered set equipped, locate Water Curtain Cave and continue the story sequence inside.",
+          "description_i18n": {
+            "en": "With the recovered set equipped, locate Water Curtain Cave and continue the story sequence inside.",
+            "pt": "Com o conjunto recuperado equipado, localize a Caverna da Cortina-d'Água e avance pela sequência dentro dela."
+          }
+        }
+      ]
+    },
+    {
+      "key": "campaign-finale",
+      "title": "Campaign finale and return options",
+      "title_i18n": {
+        "en": "Campaign finale and return options",
+        "pt": "Final da campanha e opções de retorno"
+      },
+      "items": [
+        {
+          "key": "reach-peak-innocence",
+          "title": "Reach the final ascent",
+          "title_i18n": {
+            "en": "Reach the final ascent",
+            "pt": "Chegar à subida final"
+          },
+          "description": "Follow the route beyond Water Curtain Cave and activate the checkpoint near the ending sequence.",
+          "description_i18n": {
+            "en": "Follow the route beyond Water Curtain Cave and activate the checkpoint near the ending sequence.",
+            "pt": "Siga pela rota além da Caverna da Cortina-d'Água e ative o ponto de controle próximo da sequência final."
+          }
+        },
+        {
+          "key": "review-ending-route",
+          "title": "Review your chosen ending route",
+          "title_i18n": {
+            "en": "Review your chosen ending route",
+            "pt": "Revisar a rota de final escolhida"
+          },
+          "description": "The optional late-game category contains a separate path; inspect its Details now if you want to pursue it first.",
+          "description_i18n": {
+            "en": "The optional late-game category contains a separate path; inspect its Details now if you want to pursue it first.",
+            "pt": "A categoria opcional do fim do jogo contém um caminho separado; consulte os Detalhes se quiser segui-lo primeiro."
+          }
+        },
+        {
+          "key": "complete-final-duels",
+          "title": "Complete the final battles",
+          "title_i18n": {
+            "en": "Complete the final battles",
+            "pt": "Concluir as batalhas finais"
+          },
+          "description": "Continue through every phase of the final confrontation and adapt rather than treating it as a single short duel.",
+          "description_i18n": {
+            "en": "Continue through every phase of the final confrontation and adapt rather than treating it as a single short duel.",
+            "pt": "Avance por todas as fases do confronto final e adapte-se, sem tratá-lo como um duelo curto e único."
+          }
+        },
+        {
+          "key": "view-campaign-ending",
+          "title": "View the campaign ending",
+          "title_i18n": {
+            "en": "View the campaign ending",
+            "pt": "Assistir ao final da campanha"
+          },
+          "description": "Watch the ending sequence and return to the title screen after your victory.",
+          "description_i18n": {
+            "en": "Watch the ending sequence and return to the title screen after your victory.",
+            "pt": "Assista à sequência de encerramento e volte à tela de título após a vitória."
+          }
+        },
+        {
+          "key": "continue-before-new-cycle",
+          "title": "Choose Continue Journey for cleanup",
+          "title_i18n": {
+            "en": "Choose Continue Journey for cleanup",
+            "pt": "Escolher Continuar Jornada para concluir pendências"
+          },
+          "description": "Use Continue Journey to revisit the current cycle; Enter a New Cycle starts New Game+ and replaces its world progression.",
+          "description_i18n": {
+            "en": "Use Continue Journey to revisit the current cycle; Enter a New Cycle starts New Game+ and replaces its world progression.",
+            "pt": "Use Continuar Jornada para revisitar o ciclo atual; Entrar em um Novo Ciclo inicia o Novo Jogo+ e substitui o progresso do mundo."
+          }
+        }
+      ]
+    },
+    {
+      "key": "optional-early-secrets",
+      "title": "Selected secrets: Black Wind Mountain and Yellow Wind Ridge",
+      "title_i18n": {
+        "en": "Selected secrets: Black Wind Mountain and Yellow Wind Ridge",
+        "pt": "Segredos selecionados: Montanha do Vento Negro e Serra do Vento Amarelo"
+      },
+      "items": [
+        {
+          "key": "obtain-red-tides",
+          "title": "Obtain the Red Tides transformation",
+          "title_i18n": {
+            "en": "Obtain the Red Tides transformation",
+            "pt": "Obter a transformação Red Tides"
+          },
+          "description": "Explore the torch-lit branch near Outside the Forest and defeat Guangzhi; try the transformation in a later fight.",
+          "description_i18n": {
+            "en": "Explore the torch-lit branch near Outside the Forest and defeat Guangzhi; try the transformation in a later fight.",
+            "pt": "Explore o desvio com tochas perto do Exterior da Floresta e derrote Guangzhi; teste a transformação em outra luta."
+          }
+        },
+        {
+          "key": "resolve-wandering-wight",
+          "title": "Resolve Wandering Wight's encounter",
+          "title_i18n": {
+            "en": "Resolve Wandering Wight's encounter",
+            "pt": "Concluir o encontro com Wandering Wight"
+          },
+          "description": "Return stronger if needed, but complete this encounter before finishing the three-bell secret route.",
+          "description_i18n": {
+            "en": "Return stronger if needed, but complete this encounter before finishing the three-bell secret route.",
+            "pt": "Volte mais forte se precisar, mas conclua esse encontro antes de terminar a rota secreta dos três sinos."
+          }
+        },
+        {
+          "key": "complete-three-bells",
+          "title": "Complete the three-bell route",
+          "title_i18n": {
+            "en": "Complete the three-bell route",
+            "pt": "Concluir a rota dos três sinos"
+          },
+          "description": "Investigate the bells across Chapter 1 and resolve the secret encounter they lead to.",
+          "description_i18n": {
+            "en": "Investigate the bells across Chapter 1 and resolve the secret encounter they lead to.",
+            "pt": "Investigue os sinos do Capítulo 1 e resolva o encontro secreto ao qual eles levam."
+          },
+          "details": "Ring the bells behind Guangzhi, Guangmou and Whiteclad Noble; the third immediately transports you to Ancient Guanyin Temple. Defeat Wandering Wight before completing this secret encounter, because he disappears afterward. During Elder Jinchi's fight, eliminate the approaching attendants when he rises to recover health. After winning, return to the third bell and inspect the hanging body for the Fireproof Mantle.",
+          "details_i18n": {
+            "en": "Ring the bells behind Guangzhi, Guangmou and Whiteclad Noble; the third immediately transports you to Ancient Guanyin Temple. Defeat Wandering Wight before completing this secret encounter, because he disappears afterward. During Elder Jinchi's fight, eliminate the approaching attendants when he rises to recover health. After winning, return to the third bell and inspect the hanging body for the Fireproof Mantle.",
+            "pt": "Toque os sinos atrás de Guangzhi, Guangmou e Whiteclad Noble; o terceiro transporta você imediatamente ao Templo Antigo de Guanyin. Derrote Wandering Wight antes de concluir esse encontro secreto, pois ele desaparece depois. Na luta com Elder Jinchi, elimine os seguidores que se aproximam quando ele sobe para recuperar vida. Após vencer, volte ao terceiro sino e examine o corpo suspenso para obter Fireproof Mantle."
+          }
+        },
+        {
+          "key": "claim-first-vessel",
+          "title": "Claim the first secret vessel",
+          "title_i18n": {
+            "en": "Claim the first secret vessel",
+            "pt": "Obter o primeiro artefato secreto"
+          },
+          "description": "After the bell-route encounter, inspect its conclusion carefully and equip the reward before testing it.",
+          "description_i18n": {
+            "en": "After the bell-route encounter, inspect its conclusion carefully and equip the reward before testing it.",
+            "pt": "Após o encontro da rota dos sinos, examine o desfecho com atenção e equipe a recompensa antes de testá-la."
+          }
+        },
+        {
+          "key": "help-xu-dog",
+          "title": "Help Xu Dog near Sandgate",
+          "title_i18n": {
+            "en": "Help Xu Dog near Sandgate",
+            "pt": "Ajudar Xu Dog perto de Sandgate"
+          },
+          "description": "Inspect the lower path near Village Entrance, complete the frog encounter and return to the medicine maker.",
+          "description_i18n": {
+            "en": "Inspect the lower path near Village Entrance, complete the frog encounter and return to the medicine maker.",
+            "pt": "Examine o caminho inferior perto da Entrada da Vila, vença o sapo e volte ao fabricante de remédios."
+          }
+        },
+        {
+          "key": "complete-man-in-stone",
+          "title": "Complete Man-in-Stone's request",
+          "title_i18n": {
+            "en": "Complete Man-in-Stone's request",
+            "pt": "Concluir o pedido de Man-in-Stone"
+          },
+          "description": "Investigate Squall Hideout's caves and finish the request and its follow-up interaction.",
+          "description_i18n": {
+            "en": "Investigate Squall Hideout's caves and finish the request and its follow-up interaction.",
+            "pt": "Investigue as cavernas do Esconderijo da Rajada e conclua o pedido e sua interação seguinte."
+          }
+        },
+        {
+          "key": "complete-buddha-eyeballs",
+          "title": "Investigate the six Buddha's Eyeballs",
+          "title_i18n": {
+            "en": "Investigate the six Buddha's Eyeballs",
+            "pt": "Investigar os seis Olhos de Buda"
+          },
+          "description": "Explore Fright Cliff for the six quest items and investigate their use near the stone-boss arena.",
+          "description_i18n": {
+            "en": "Explore Fright Cliff for the six quest items and investigate their use near the stone-boss arena.",
+            "pt": "Explore o Penhasco do Medo em busca dos seis itens e investigue seu uso perto da arena do chefe de pedra."
+          }
+        },
+        {
+          "key": "complete-drunken-boar",
+          "title": "Complete the drunken boar's route",
+          "title_i18n": {
+            "en": "Complete the drunken boar's route",
+            "pt": "Concluir a rota do javali embriagado"
+          },
+          "description": "Follow the boar's requests across the ridge and finish the secret-area encounters.",
+          "description_i18n": {
+            "en": "Follow the boar's requests across the ridge and finish the secret-area encounters.",
+            "pt": "Siga os pedidos do javali pela região e conclua os confrontos da área secreta."
+          },
+          "details": "Bring a Sobering Stone to the boar near Rockrest Flat; one is in a breakable container in Windrest. Exhaust his dialogue, then meet him beside Crouching Tiger Temple's stairs and give him Jade Lotus. Return to his original area. If the encounter does not start, defeat First Prince of Flowing Sands first. Follow the opened route and complete its two bosses to obtain Wind Tamer.",
+          "details_i18n": {
+            "en": "Bring a Sobering Stone to the boar near Rockrest Flat; one is in a breakable container in Windrest. Exhaust his dialogue, then meet him beside Crouching Tiger Temple's stairs and give him Jade Lotus. Return to his original area. If the encounter does not start, defeat First Prince of Flowing Sands first. Follow the opened route and complete its two bosses to obtain Wind Tamer.",
+            "pt": "Leve uma Sobering Stone ao javali perto da Planície do Repouso Rochoso; há uma em um recipiente quebrável em Windrest. Esgote o diálogo, encontre-o ao lado da escadaria do Templo do Tigre Agachado e entregue Jade Lotus. Volte à área inicial dele. Se o encontro não começar, derrote First Prince of Flowing Sands primeiro. Siga a rota aberta e vença os dois chefes para obter Wind Tamer."
+          }
+        },
+        {
+          "key": "complete-rattle-drum",
+          "title": "Follow the Old Rattle-Drum",
+          "title_i18n": {
+            "en": "Follow the Old Rattle-Drum",
+            "pt": "Seguir o Velho Chocalho"
+          },
+          "description": "Obtain the quest item from Tiger's Acolyte and investigate its reactions in the chapter's settlements.",
+          "description_i18n": {
+            "en": "Obtain the quest item from Tiger's Acolyte and investigate its reactions in the chapter's settlements.",
+            "pt": "Obtenha o item de missão com Tiger's Acolyte e investigue suas reações nos povoados do capítulo."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "optional-new-west",
+      "title": "Selected quests: The New West",
+      "title_i18n": {
+        "en": "Selected quests: The New West",
+        "pt": "Missões selecionadas: Novo Oeste"
+      },
+      "items": [
+        {
+          "key": "collect-auspicious-lantern",
+          "title": "Pursue the Auspicious Lantern",
+          "title_i18n": {
+            "en": "Pursue the Auspicious Lantern",
+            "pt": "Buscar Auspicious Lantern"
+          },
+          "description": "Complete the prison's Lantern Warden goal before Captain Wise-Voice if collecting every curio.",
+          "description_i18n": {
+            "en": "Complete the prison's Lantern Warden goal before Captain Wise-Voice if collecting every curio.",
+            "pt": "Conclua a meta dos Lantern Wardens da prisão antes de Captain Wise-Voice se quiser todos os curios."
+          },
+          "details": "Defeat all nine Lantern Wardens while Captain Wise-Voice is still alive. They appear during the prison's red-eyed curse periods; record each defeat and inspect the upper routes as well as the lower floors. Do not enter the summit boss simply because you have reached Mani Wheel. After the captain dies, remaining wardens disappear and this curio requires another cycle.",
+          "details_i18n": {
+            "en": "Defeat all nine Lantern Wardens while Captain Wise-Voice is still alive. They appear during the prison's red-eyed curse periods; record each defeat and inspect the upper routes as well as the lower floors. Do not enter the summit boss simply because you have reached Mani Wheel. After the captain dies, remaining wardens disappear and this curio requires another cycle.",
+            "pt": "Derrote os nove Lantern Wardens enquanto Captain Wise-Voice ainda estiver vivo. Eles aparecem durante os períodos da maldição de olhos vermelhos; registre cada vitória e examine as rotas superiores e os andares inferiores. Não entre no chefe do topo só porque chegou à Roda Mani. Após a morte do capitão, os guardiões restantes desaparecem e o curio exige outro ciclo."
+          }
+        },
+        {
+          "key": "resolve-captain-spirits",
+          "title": "Resolve the prisoner's request",
+          "title_i18n": {
+            "en": "Resolve the prisoner's request",
+            "pt": "Concluir o pedido do prisioneiro"
+          },
+          "description": "Investigate the sealed cells, gather the captains' quest spirits and return to the prisoner for the conclusion.",
+          "description_i18n": {
+            "en": "Investigate the sealed cells, gather the captains' quest spirits and return to the prisoner for the conclusion.",
+            "pt": "Investigue as celas seladas, reúna os espíritos de missão dos capitães e volte ao prisioneiro para concluir."
+          }
+        },
+        {
+          "key": "visit-apramana-bat",
+          "title": "Visit the shore's optional encounter",
+          "title_i18n": {
+            "en": "Visit the shore's optional encounter",
+            "pt": "Visitar o encontro opcional da margem"
+          },
+          "description": "Explore North Shore's skeletal remains while Zhu Bajie is still accompanying you; avoid postponing this detour.",
+          "description_i18n": {
+            "en": "Explore North Shore's skeletal remains while Zhu Bajie is still accompanying you; avoid postponing this detour.",
+            "pt": "Explore os restos mortais na Margem Norte enquanto Zhu Bajie ainda acompanha você; não adie esse desvio."
+          }
+        },
+        {
+          "key": "complete-chen-loong",
+          "title": "Complete Chen Loong's request",
+          "title_i18n": {
+            "en": "Complete Chen Loong's request",
+            "pt": "Concluir o pedido de Chen Loong"
+          },
+          "description": "Investigate the shoreline encounter and follow the request to unlock a useful service hub.",
+          "description_i18n": {
+            "en": "Investigate the shoreline encounter and follow the request to unlock a useful service hub.",
+            "pt": "Investigue o encontro na margem e siga o pedido para liberar um centro útil de serviços."
+          },
+          "details": "Defeat Chen Loong in the water near North Shore, then talk to him on the bank. Visit Xu Dog at the Chapter 2 Cellar and select Talk to receive the special medicine. Return it to Chen Loong to enter Zodiac Village. Its merchants consolidate services, Yin Tiger upgrades armor, and Chen Loong grows delivered seeds. Harvest from the basket after allowing time to pass.",
+          "details_i18n": {
+            "en": "Defeat Chen Loong in the water near North Shore, then talk to him on the bank. Visit Xu Dog at the Chapter 2 Cellar and select Talk to receive the special medicine. Return it to Chen Loong to enter Zodiac Village. Its merchants consolidate services, Yin Tiger upgrades armor, and Chen Loong grows delivered seeds. Harvest from the basket after allowing time to pass.",
+            "pt": "Derrote Chen Loong na água perto da Margem Norte e converse com ele na margem. Visite Xu Dog no Porão do Capítulo 2 e escolha Conversar para receber o remédio especial. Entregue-o a Chen Loong para entrar na Vila do Zodíaco. Os comerciantes concentram serviços, Yin Tiger melhora armaduras e Chen Loong cultiva sementes entregues. Colha na cesta depois de deixar algum tempo passar."
+          }
+        },
+        {
+          "key": "upgrade-armor-harvest",
+          "title": "Try Zodiac Village's services",
+          "title_i18n": {
+            "en": "Try Zodiac Village's services",
+            "pt": "Testar os serviços da Vila do Zodíaco"
+          },
+          "description": "Upgrade one armor piece with Yin Tiger, give Chen Loong seeds and return later to harvest the basket.",
+          "description_i18n": {
+            "en": "Upgrade one armor piece with Yin Tiger, give Chen Loong seeds and return later to harvest the basket.",
+            "pt": "Melhore uma peça com Yin Tiger, entregue sementes a Chen Loong e volte depois para colher na cesta."
+          }
+        },
+        {
+          "key": "complete-treasure-hunter",
+          "title": "Complete the Treasure Hunter route",
+          "title_i18n": {
+            "en": "Complete the Treasure Hunter route",
+            "pt": "Concluir a rota do Caçador de Tesouros"
+          },
+          "description": "Follow the traveler's clues across Bitter Lake and the valley, then finish the hidden encounter.",
+          "description_i18n": {
+            "en": "Follow the traveler's clues across Bitter Lake and the valley, then finish the hidden encounter.",
+            "pt": "Siga as pistas do viajante pelo Lago Amargo e pelo vale; depois conclua o encontro oculto."
+          },
+          "details": "Rescue the traveler on the shore near North Shore and exhaust his dialogue. Find him again near Towers of Karma, equip Ring of Fire at the shrine and cast it beside him. Talk again for the next clue. From Forest of Felicity, take the lower route toward the water and descend carefully to Melon Field. Defeat Green-Capped Martialist there to finish the quest and obtain Spell Binder.",
+          "details_i18n": {
+            "en": "Rescue the traveler on the shore near North Shore and exhaust his dialogue. Find him again near Towers of Karma, equip Ring of Fire at the shrine and cast it beside him. Talk again for the next clue. From Forest of Felicity, take the lower route toward the water and descend carefully to Melon Field. Defeat Green-Capped Martialist there to finish the quest and obtain Spell Binder.",
+            "pt": "Salve o viajante na margem perto da Margem Norte e esgote o diálogo. Reencontre-o perto das Torres do Carma, equipe Ring of Fire no santuário e lance-o ao lado dele. Converse novamente para receber a próxima pista. Da Floresta da Felicidade, siga pela rota inferior até a água e desça com cuidado ao Campo de Melões. Derrote Green-Capped Martialist para concluir a missão e obter Spell Binder."
+          }
+        },
+        {
+          "key": "complete-snow-fox",
+          "title": "Complete the Snow Fox request",
+          "title_i18n": {
+            "en": "Complete the Snow Fox request",
+            "pt": "Concluir o pedido da Raposa da Neve"
+          },
+          "description": "Inspect the figure near Forest of Felicity and follow the request into New Thunderclap Temple.",
+          "description_i18n": {
+            "en": "Inspect the figure near Forest of Felicity and follow the request into New Thunderclap Temple.",
+            "pt": "Examine a figura perto da Floresta da Felicidade e siga o pedido até o Novo Templo do Trovão."
+          }
+        },
+        {
+          "key": "challenge-yin-tiger",
+          "title": "Challenge Yin Tiger",
+          "title_i18n": {
+            "en": "Challenge Yin Tiger",
+            "pt": "Desafiar Yin Tiger"
+          },
+          "description": "Use the optional duel in Zodiac Village when your build is ready, then inspect the reward and new service option.",
+          "description_i18n": {
+            "en": "Use the optional duel in Zodiac Village when your build is ready, then inspect the reward and new service option.",
+            "pt": "Tente o duelo opcional na Vila do Zodíaco quando estiver preparado; depois confira a recompensa e a nova opção de serviço."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "optional-webbed-secrets",
+      "title": "Selected secrets: Webbed Hollow and Purple Cloud Mountain",
+      "title_i18n": {
+        "en": "Selected secrets: Webbed Hollow and Purple Cloud Mountain",
+        "pt": "Segredos selecionados: Caverna das Teias e Montanha da Nuvem Púrpura"
+      },
+      "items": [
+        {
+          "key": "first-venom-daoist",
+          "title": "Investigate the unusual cocoon",
+          "title_i18n": {
+            "en": "Investigate the unusual cocoon",
+            "pt": "Investigar o casulo incomum"
+          },
+          "description": "Explore near Pool of Shattered Jade; consult Details before the encounter if pursuing every armor piece.",
+          "description_i18n": {
+            "en": "Explore near Pool of Shattered Jade; consult Details before the encounter if pursuing every armor piece.",
+            "pt": "Explore perto do Poço de Jade Despedaçada; consulte os Detalhes antes do encontro se quiser todas as peças de armadura."
+          },
+          "details": "During the first Venom Daoist fight, break four of the arms on his back before ending the encounter to earn Venomous Armguard. Circle behind after his combos and use controlled light attacks; a weaker weapon helps prevent an accidental early victory. Count the broken arms instead of attacking his front continuously. If he dies before this condition is met, the second encounter does not repair the loss; try again in New Game+.",
+          "details_i18n": {
+            "en": "During the first Venom Daoist fight, break four of the arms on his back before ending the encounter to earn Venomous Armguard. Circle behind after his combos and use controlled light attacks; a weaker weapon helps prevent an accidental early victory. Count the broken arms instead of attacking his front continuously. If he dies before this condition is met, the second encounter does not repair the loss; try again in New Game+.",
+            "pt": "Na primeira luta com Venom Daoist, quebre quatro braços das costas antes de encerrar o confronto para ganhar Venomous Armguard. Contorne-o após os combos e use ataques leves controlados; uma arma mais fraca ajuda a evitar uma vitória precoce acidental. Conte os braços quebrados em vez de atacar a frente continuamente. Se ele morrer antes de cumprir a condição, o segundo encontro não recupera a peça; tente novamente no Novo Jogo+."
+          }
+        },
+        {
+          "key": "second-venom-daoist",
+          "title": "Find Venom Daoist again",
+          "title_i18n": {
+            "en": "Find Venom Daoist again",
+            "pt": "Reencontrar Venom Daoist"
+          },
+          "description": "Explore the branch across from Court of Illumination and complete the follow-up encounter to reveal a new route.",
+          "description_i18n": {
+            "en": "Explore the branch across from Court of Illumination and complete the follow-up encounter to reveal a new route.",
+            "pt": "Explore o desvio diante da Corte da Iluminação e conclua o novo encontro para revelar outra rota."
+          }
+        },
+        {
+          "key": "enter-purple-cloud",
+          "title": "Enter Purple Cloud Mountain",
+          "title_i18n": {
+            "en": "Enter Purple Cloud Mountain",
+            "pt": "Entrar na Montanha da Nuvem Púrpura"
+          },
+          "description": "Activate the secret area's checkpoints and talk to its residents before advancing to Cloudnest Peak.",
+          "description_i18n": {
+            "en": "Activate the secret area's checkpoints and talk to its residents before advancing to Cloudnest Peak.",
+            "pt": "Ative os pontos de controle da área secreta e converse com seus habitantes antes de avançar ao Pico do Ninho de Nuvens."
+          }
+        },
+        {
+          "key": "complete-daoist-mi",
+          "title": "Complete Daoist Mi's request",
+          "title_i18n": {
+            "en": "Complete Daoist Mi's request",
+            "pt": "Concluir o pedido de Daoist Mi"
+          },
+          "description": "Finish the masked resident's quest before clearing the area's final encounter; Details covers the local deadlines.",
+          "description_i18n": {
+            "en": "Finish the masked resident's quest before clearing the area's final encounter; Details covers the local deadlines.",
+            "pt": "Conclua a missão do morador mascarado antes de vencer o confronto final da área; os Detalhes explicam os prazos locais."
+          },
+          "details": "Before entering Duskveil's arena, finish both Daoist Mi and The Scorpionlord. For Mi, defeat yellow-robed villagers near Petalfall Hamlet until Violet Hail drops, then return the item and finish the encounter; rest and repeat the enemies if necessary. The Scorpionlord is near Bounds of Deity's Abode; breaking his jars starts his separate fight. Starting Duskveil removes that opportunity, and defeating Duskveil removes Mi's unfinished quest.",
+          "details_i18n": {
+            "en": "Before entering Duskveil's arena, finish both Daoist Mi and The Scorpionlord. For Mi, defeat yellow-robed villagers near Petalfall Hamlet until Violet Hail drops, then return the item and finish the encounter; rest and repeat the enemies if necessary. The Scorpionlord is near Bounds of Deity's Abode; breaking his jars starts his separate fight. Starting Duskveil removes that opportunity, and defeating Duskveil removes Mi's unfinished quest.",
+            "pt": "Antes de entrar na arena de Duskveil, conclua Daoist Mi e The Scorpionlord. Para Mi, derrote aldeões de roupa amarela perto da Aldeia das Pétalas Caídas até obter Violet Hail; entregue o item e conclua o confronto. Descanse e repita os inimigos se precisar. The Scorpionlord fica perto dos Limites da Morada Divina; quebrar os jarros inicia a luta separada. Iniciar Duskveil elimina essa oportunidade; derrotá-lo remove a missão pendente de Mi."
+          }
+        },
+        {
+          "key": "defeat-scorpionlord",
+          "title": "Complete The Scorpionlord encounter",
+          "title_i18n": {
+            "en": "Complete The Scorpionlord encounter",
+            "pt": "Concluir o encontro com The Scorpionlord"
+          },
+          "description": "Resolve the optional encounter at Bounds of Deity's Abode before entering the Cloudnest Peak boss arena.",
+          "description_i18n": {
+            "en": "Resolve the optional encounter at Bounds of Deity's Abode before entering the Cloudnest Peak boss arena.",
+            "pt": "Resolva o encontro opcional nos Limites da Morada Divina antes de entrar na arena do Pico do Ninho de Nuvens."
+          }
+        },
+        {
+          "key": "defeat-duskveil",
+          "title": "Defeat The Duskveil",
+          "title_i18n": {
+            "en": "Defeat The Duskveil",
+            "pt": "Derrotar The Duskveil"
+          },
+          "description": "After resolving the secret area's other goals, complete its final confrontation and inspect the reward.",
+          "description_i18n": {
+            "en": "After resolving the secret area's other goals, complete its final confrontation and inspect the reward.",
+            "pt": "Depois de concluir as outras metas da área secreta, vença o confronto final e confira a recompensa."
+          }
+        },
+        {
+          "key": "complete-purple-talismans",
+          "title": "Investigate the four purple talismans",
+          "title_i18n": {
+            "en": "Investigate the four purple talismans",
+            "pt": "Investigar os quatro talismãs roxos"
+          },
+          "description": "Complete this thread before entering Chapter 4's final boss encounter; return to earlier shrines if a seal remains inaccessible.",
+          "description_i18n": {
+            "en": "Complete this thread before entering Chapter 4's final boss encounter; return to earlier shrines if a seal remains inaccessible.",
+            "pt": "Conclua essa história antes de entrar no confronto final do Capítulo 4; volte aos santuários anteriores se um selo estiver inacessível."
+          },
+          "details": "Remove the seals near The Verdure Bridge, Cliff of Oblivion and Relief of the Fallen Loong before checking the last one at Court of Illumination. The final seal remains blocked while an earlier one is missing. Complete this before triggering Hundred-Eyed Daoist Master's encounter. Follow the resulting scene and inspect the reward container; if you already passed the deadline, finish the thread in another cycle.",
+          "details_i18n": {
+            "en": "Remove the seals near The Verdure Bridge, Cliff of Oblivion and Relief of the Fallen Loong before checking the last one at Court of Illumination. The final seal remains blocked while an earlier one is missing. Complete this before triggering Hundred-Eyed Daoist Master's encounter. Follow the resulting scene and inspect the reward container; if you already passed the deadline, finish the thread in another cycle.",
+            "pt": "Remova os selos perto da Ponte Verdejante, do Penhasco do Esquecimento e do Relevo do Loong Caído antes de verificar o último na Corte da Iluminação. O selo final fica bloqueado enquanto faltar algum anterior. Conclua antes de iniciar o encontro com Hundred-Eyed Daoist Master. Acompanhe a cena resultante e examine o recipiente da recompensa; se já passou do prazo, conclua essa história em outro ciclo."
+          }
+        },
+        {
+          "key": "raise-proto-amourworm",
+          "title": "Follow up on Proto-Amourworm",
+          "title_i18n": {
+            "en": "Follow up on Proto-Amourworm",
+            "pt": "Acompanhar Proto-Amourworm"
+          },
+          "description": "Explore the optional Elder Amourworm encounter and investigate the resulting key item at Zodiac Village.",
+          "description_i18n": {
+            "en": "Explore the optional Elder Amourworm encounter and investigate the resulting key item at Zodiac Village.",
+            "pt": "Explore o encontro opcional com Elder Amourworm e investigue o item-chave recebido na Vila do Zodíaco."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "optional-late-journey",
+      "title": "Selected long quests and the hidden finale",
+      "title_i18n": {
+        "en": "Selected long quests and the hidden finale",
+        "pt": "Missões longas selecionadas e final oculto"
+      },
+      "items": [
+        {
+          "key": "follow-horse-guai",
+          "title": "Follow Horse Guai across the journey",
+          "title_i18n": {
+            "en": "Follow Horse Guai across the journey",
+            "pt": "Acompanhar Horse Guai pela jornada"
+          },
+          "description": "Talk until dialogue repeats at each meeting in Chapters 1–5; check Details before the Emerald Hall confrontation.",
+          "description_i18n": {
+            "en": "Talk until dialogue repeats at each meeting in Chapters 1–5; check Details before the Emerald Hall confrontation.",
+            "pt": "Converse até o diálogo repetir em cada encontro dos Capítulos 1–5; confira os Detalhes antes do confronto no Salão de Esmeralda."
+          },
+          "details": "Find Ma Tianba in the cave near Back Hills, by Earth Wolf's village area, on an upper Thunderclap Temple balcony, and in the Bonevault cocoon. Exhaust every conversation. In Chapter 5, pull the broken cart's cord near Valley Entrance and exhaust its dialogue before fighting the Keeper of the Flaming Mountains. After that fight, return to pull the cord again for Dark Thunder. Skipping the earlier cart conversation can lock the reward until another cycle.",
+          "details_i18n": {
+            "en": "Find Ma Tianba in the cave near Back Hills, by Earth Wolf's village area, on an upper Thunderclap Temple balcony, and in the Bonevault cocoon. Exhaust every conversation. In Chapter 5, pull the broken cart's cord near Valley Entrance and exhaust its dialogue before fighting the Keeper of the Flaming Mountains. After that fight, return to pull the cord again for Dark Thunder. Skipping the earlier cart conversation can lock the reward until another cycle.",
+            "pt": "Encontre Ma Tianba na caverna perto das Colinas Traseiras, na área da vila de Earth Wolf, em uma varanda superior do Templo do Trovão e no casulo do Cofre de Ossos. Esgote todas as conversas. No Capítulo 5, puxe a corda da carroça quebrada perto da Entrada do Vale e esgote o diálogo antes de enfrentar o Guardião das Montanhas Flamejantes. Depois da luta, volte e puxe novamente para obter Dark Thunder. Ignorar a conversa anterior pode bloquear a recompensa até outro ciclo."
+          }
+        },
+        {
+          "key": "follow-old-man",
+          "title": "Follow the old man's teachings",
+          "title_i18n": {
+            "en": "Follow the old man's teachings",
+            "pt": "Acompanhar os ensinamentos do ancião"
+          },
+          "description": "Seek his meetings through Chapters 1–5 and continue upgrading the starting gourd before the final lesson.",
+          "description_i18n": {
+            "en": "Seek his meetings through Chapters 1–5 and continue upgrading the starting gourd before the final lesson.",
+            "pt": "Procure os encontros dos Capítulos 1–5 e continue melhorando a cabaça inicial antes da lição final."
+          },
+          "details": "Check the old man's meetings at Snake Trail, the Cellar's side path, Warding Temple's story encounter, Temple of the Yellow Flower, and the room reached from Rakshasa Palace. Keep talking until lines repeat. Upgrade the starting gourd to nine healing uses with Shen Monkey. At the Chapter 5 meeting, exhaust the old man's dialogue and interact with the central flame to obtain the ten-use Supreme Gourd.",
+          "details_i18n": {
+            "en": "Check the old man's meetings at Snake Trail, the Cellar's side path, Warding Temple's story encounter, Temple of the Yellow Flower, and the room reached from Rakshasa Palace. Keep talking until lines repeat. Upgrade the starting gourd to nine healing uses with Shen Monkey. At the Chapter 5 meeting, exhaust the old man's dialogue and interact with the central flame to obtain the ten-use Supreme Gourd.",
+            "pt": "Confira os encontros do ancião na Trilha da Serpente, no desvio do Porão, no encontro da história no Templo Protetor, no Templo da Flor Amarela e na sala acessada pelo Palácio Rakshasa. Converse até as falas repetirem. Melhore a cabaça inicial até nove usos de cura com Shen Monkey. No encontro do Capítulo 5, esgote o diálogo do ancião e interaja com a chama central para obter a Supreme Gourd de dez usos."
+          }
+        },
+        {
+          "key": "find-loong-scales",
+          "title": "Investigate the Loong Scales",
+          "title_i18n": {
+            "en": "Investigate the Loong Scales",
+            "pt": "Investigar as Escamas de Loong"
+          },
+          "description": "Search the First Prince's cave arena and use the discovery to revisit previously inaccessible encounters.",
+          "description_i18n": {
+            "en": "Search the First Prince's cave arena and use the discovery to revisit previously inaccessible encounters.",
+            "pt": "Examine a arena da caverna do Primeiro Príncipe e use a descoberta para revisitar encontros antes inacessíveis."
+          },
+          "details": "In the First Prince's cave arena, inspect the decorated breakable wall. If the boss did not break it during the fight, use Wandering Wight's spirit attack on its center. Azure Dust is an alternative if you missed that spirit. After clearing nearby enemies, squeeze through the crack and open the chest. The scales remain in your inventory and can unlock each hidden Loong encounter; they are not consumed.",
+          "details_i18n": {
+            "en": "In the First Prince's cave arena, inspect the decorated breakable wall. If the boss did not break it during the fight, use Wandering Wight's spirit attack on its center. Azure Dust is an alternative if you missed that spirit. After clearing nearby enemies, squeeze through the crack and open the chest. The scales remain in your inventory and can unlock each hidden Loong encounter; they are not consumed.",
+            "pt": "Na arena da caverna do Primeiro Príncipe, examine a parede decorada que pode ser quebrada. Se o chefe não a quebrou durante a luta, use o ataque do espírito de Wandering Wight no centro. Azure Dust é uma alternativa se perdeu esse espírito. Após eliminar os inimigos próximos, passe pela fenda e abra o baú. As escamas permanecem no inventário e liberam cada encontro com os Loongs ocultos; elas não são consumidas."
+          }
+        },
+        {
+          "key": "defeat-four-loongs",
+          "title": "Defeat the four hidden Loongs",
+          "title_i18n": {
+            "en": "Defeat the four hidden Loongs",
+            "pt": "Derrotar os quatro Loongs ocultos"
+          },
+          "description": "Complete Red, Black, Cyan and Yellow Loong encounters across Chapters 1–4; return later if one is too difficult.",
+          "description_i18n": {
+            "en": "Complete Red, Black, Cyan and Yellow Loong encounters across Chapters 1–4; return later if one is too difficult.",
+            "pt": "Conclua os encontros com Red, Black, Cyan e Yellow Loong nos Capítulos 1–4; volte depois se algum estiver difícil demais."
+          }
+        },
+        {
+          "key": "complete-five-carts",
+          "title": "Complete Pale-Axe Stalwart's route",
+          "title_i18n": {
+            "en": "Complete Pale-Axe Stalwart's route",
+            "pt": "Concluir a rota de Pale-Axe Stalwart"
+          },
+          "description": "Follow up with the ox after the story carts and investigate the route beyond Cooling Slope.",
+          "description_i18n": {
+            "en": "Follow up with the ox after the story carts and investigate the route beyond Cooling Slope.",
+            "pt": "Retome as conversas com o boi após as carroças da história e investigue a rota além da Encosta Refrescante."
+          },
+          "details": "Exhaust Pale-Axe Stalwart's dialogue after the first confrontation. After clearing the story carts, revisit his first location and the Crimson-Silver Cart arena until his dialogue advances. From Fallen Furnace Crater, backtrack along the rolling-ball route and take the newly opened side path toward Cooling Slope. Defeat Rusty-Gold Cart at the frozen gate, speak to the wounded ox, then inspect the gate to enter the secret route.",
+          "details_i18n": {
+            "en": "Exhaust Pale-Axe Stalwart's dialogue after the first confrontation. After clearing the story carts, revisit his first location and the Crimson-Silver Cart arena until his dialogue advances. From Fallen Furnace Crater, backtrack along the rolling-ball route and take the newly opened side path toward Cooling Slope. Defeat Rusty-Gold Cart at the frozen gate, speak to the wounded ox, then inspect the gate to enter the secret route.",
+            "pt": "Esgote o diálogo de Pale-Axe Stalwart após o primeiro confronto. Depois das carroças da história, revisite o primeiro local dele e a arena de Crimson-Silver Cart até avançar as conversas. Da Cratera da Fornalha Caída, retorne pela rota da bola rolante e entre no novo desvio até a Encosta Refrescante. Derrote Rusty-Gold Cart no portão congelado, converse com o boi ferido e examine o portão para entrar na rota secreta."
+          }
+        },
+        {
+          "key": "complete-bishui-cave",
+          "title": "Complete Bishui Cave",
+          "title_i18n": {
+            "en": "Complete Bishui Cave",
+            "pt": "Concluir a Caverna Bishui"
+          },
+          "description": "Explore the Chapter 5 secret area, clear its encounters and inspect its unique crafting materials.",
+          "description_i18n": {
+            "en": "Explore the Chapter 5 secret area, clear its encounters and inspect its unique crafting materials.",
+            "pt": "Explore a área secreta do Capítulo 5, vença os encontros e confira os materiais únicos de fabricação."
+          }
+        },
+        {
+          "key": "complete-hidden-finale",
+          "title": "Pursue the hidden finale",
+          "title_i18n": {
+            "en": "Pursue the hidden finale",
+            "pt": "Buscar o final oculto"
+          },
+          "description": "After the required optional routes, investigate the Great Pagoda and finish the additional challenge; full directions are in Details.",
+          "description_i18n": {
+            "en": "After the required optional routes, investigate the Great Pagoda and finish the additional challenge; full directions are in Details.",
+            "pt": "Após as rotas opcionais necessárias, investigue o Grande Pagode e conclua o desafio adicional; há instruções completas nos Detalhes."
+          },
+          "details": "Complete the secret areas of Chapters 1, 2, 4 and 5, plus the Chapter 3 Treasure Hunter quest. Return to the Great Pagoda via Snow-Veiled Trail and speak to the little monk to reach Mount Mei. Defeat Erlang and continue through the following battles. Then complete the Chapter 6 final battle for the alternate ending. If you already saw the ordinary ending, choose Continue Journey and repeat the final battle after this hidden route; do not start a new cycle prematurely.",
+          "details_i18n": {
+            "en": "Complete the secret areas of Chapters 1, 2, 4 and 5, plus the Chapter 3 Treasure Hunter quest. Return to the Great Pagoda via Snow-Veiled Trail and speak to the little monk to reach Mount Mei. Defeat Erlang and continue through the following battles. Then complete the Chapter 6 final battle for the alternate ending. If you already saw the ordinary ending, choose Continue Journey and repeat the final battle after this hidden route; do not start a new cycle prematurely.",
+            "pt": "Conclua as áreas secretas dos Capítulos 1, 2, 4 e 5 e a missão do Caçador de Tesouros no Capítulo 3. Volte ao Grande Pagode pela Trilha Coberta de Neve e converse com o pequeno monge para chegar ao Monte Mei. Derrote Erlang e avance pelas batalhas seguintes. Depois conclua a batalha final do Capítulo 6 para ver o final alternativo. Se já viu o final comum, escolha Continuar Jornada e repita a batalha final após essa rota; não inicie outro ciclo antes da hora."
+          }
+        },
+        {
+          "key": "plan-new-cycle",
+          "title": "Plan a deliberate New Game+ cleanup",
+          "title_i18n": {
+            "en": "Plan a deliberate New Game+ cleanup",
+            "pt": "Planejar as pendências do Novo Jogo+"
+          },
+          "description": "Audit collections before starting a new cycle, then recover missed encounters and obtain cycle-specific purchases and materials.",
+          "description_i18n": {
+            "en": "Audit collections before starting a new cycle, then recover missed encounters and obtain cycle-specific purchases and materials.",
+            "pt": "Revise as coleções antes de iniciar outro ciclo; depois recupere encontros perdidos e obtenha compras e materiais exclusivos desse ciclo."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "aggregate-collections",
+      "title": "Collection goals: aggregate tracking",
+      "title_i18n": {
+        "en": "Collection goals: aggregate tracking",
+        "pt": "Metas de coleção: acompanhamento agregado"
+      },
+      "items": [
+        {
+          "key": "complete-meditation-spots",
+          "title": "Find all meditation spots",
+          "title_i18n": {
+            "en": "Find all meditation spots",
+            "pt": "Encontrar todos os locais de meditação"
+          },
+          "description": "Use this as an overall completion goal; individual locations are not exhaustively listed in this curated route.",
+          "description_i18n": {
+            "en": "Use this as an overall completion goal; individual locations are not exhaustively listed in this curated route.",
+            "pt": "Use esta meta para acompanhar a conclusão geral; este roteiro selecionado não enumera individualmente todos os locais."
+          }
+        },
+        {
+          "key": "complete-journal-portraits",
+          "title": "Complete the Journal portraits",
+          "title_i18n": {
+            "en": "Complete the Journal portraits",
+            "pt": "Completar os retratos do Diário"
+          },
+          "description": "Audit enemies and characters by chapter; identifying a portrait is not always enough without defeating or completing its encounter.",
+          "description_i18n": {
+            "en": "Audit enemies and characters by chapter; identifying a portrait is not always enough without defeating or completing its encounter.",
+            "pt": "Revise inimigos e personagens por capítulo; identificar um retrato nem sempre basta sem vencer ou concluir seu encontro."
+          }
+        },
+        {
+          "key": "collect-four-vessels",
+          "title": "Collect all four vessels",
+          "title_i18n": {
+            "en": "Collect all four vessels",
+            "pt": "Obter os quatro artefatos"
+          },
+          "description": "Track the vessel collection across secret routes and late-game progression; equip each to understand its practical role.",
+          "description_i18n": {
+            "en": "Track the vessel collection across secret routes and late-game progression; equip each to understand its practical role.",
+            "pt": "Acompanhe a coleção de artefatos pelas rotas secretas e pelo fim do jogo; equipe cada um para entender sua função."
+          }
+        },
+        {
+          "key": "complete-forms-spirits",
+          "title": "Collect all spirits and transformations",
+          "title_i18n": {
+            "en": "Collect all spirits and transformations",
+            "pt": "Obter todos os espíritos e transformações"
+          },
+          "description": "Compare your menus with the missing encounters, including rewards with chapter-specific deadlines.",
+          "description_i18n": {
+            "en": "Compare your menus with the missing encounters, including rewards with chapter-specific deadlines.",
+            "pt": "Compare os menus com os encontros pendentes, incluindo recompensas com prazos específicos de capítulo."
+          }
+        },
+        {
+          "key": "complete-curios",
+          "title": "Collect all required curios",
+          "title_i18n": {
+            "en": "Collect all required curios",
+            "pt": "Obter todos os curios necessários"
+          },
+          "description": "Track fixed rewards and random drops separately; repeatedly defeating the correct enemy may be needed for a missing drop.",
+          "description_i18n": {
+            "en": "Track fixed rewards and random drops separately; repeatedly defeating the correct enemy may be needed for a missing drop.",
+            "pt": "Acompanhe recompensas fixas e aleatórias separadamente; pode ser necessário derrotar o inimigo correto várias vezes para obter um item."
+          }
+        },
+        {
+          "key": "complete-weapons-armor",
+          "title": "Acquire all required weapons and armor",
+          "title_i18n": {
+            "en": "Acquire all required weapons and armor",
+            "pt": "Obter todas as armas e armaduras necessárias"
+          },
+          "description": "Include crafted equipment, enemy drops and New Game+ unlocks; a single first cycle does not provide every required resource.",
+          "description_i18n": {
+            "en": "Include crafted equipment, enemy drops and New Game+ unlocks; a single first cycle does not provide every required resource.",
+            "pt": "Inclua equipamentos fabricados, itens de inimigos e liberações do Novo Jogo+; o primeiro ciclo não fornece todos os recursos necessários."
+          }
+        },
+        {
+          "key": "complete-brewing-collection",
+          "title": "Complete the gourd, drink and soak collections",
+          "title_i18n": {
+            "en": "Complete the gourd, drink and soak collections",
+            "pt": "Completar as coleções de cabaças, bebidas e aditivos"
+          },
+          "description": "Review merchants, side rewards and random harvests, then include the New Game+ purchase before calling this collection complete.",
+          "description_i18n": {
+            "en": "Review merchants, side rewards and random harvests, then include the New Game+ purchase before calling this collection complete.",
+            "pt": "Revise comerciantes, recompensas opcionais e colheitas aleatórias; inclua a compra do Novo Jogo+ antes de considerar a coleção concluída."
+          }
+        },
+        {
+          "key": "complete-medicine-formulas",
+          "title": "Collect every medicine formula",
+          "title_i18n": {
+            "en": "Collect every medicine formula",
+            "pt": "Obter todas as fórmulas de remédios"
+          },
+          "description": "Check Xu Dog's changing stock and quest rewards, including the formula sold in New Game+.",
+          "description_i18n": {
+            "en": "Check Xu Dog's changing stock and quest rewards, including the formula sold in New Game+.",
+            "pt": "Confira o estoque atualizado de Xu Dog e recompensas de missões, incluindo a fórmula vendida no Novo Jogo+."
+          }
+        },
+        {
+          "key": "complete-seed-collection",
+          "title": "Collect every seed type",
+          "title_i18n": {
+            "en": "Collect every seed type",
+            "pt": "Obter todos os tipos de sementes"
+          },
+          "description": "Track seed varieties rather than plant quantities and deliver new varieties to Chen Loong as they appear.",
+          "description_i18n": {
+            "en": "Track seed varieties rather than plant quantities and deliver new varieties to Chen Loong as they appear.",
+            "pt": "Acompanhe variedades de sementes, não quantidades de plantas, e entregue novas variedades a Chen Loong conforme aparecerem."
+          }
+        },
+        {
+          "key": "collect-world-celestial-pills",
+          "title": "Collect the world-found Celestial Pills",
+          "title_i18n": {
+            "en": "Collect the world-found Celestial Pills",
+            "pt": "Obter as Pílulas Celestiais encontradas no mundo"
+          },
+          "description": "Find five health, five mana and five stamina pills from golden containers; Xu Dog's crafted upgrades are a separate system.",
+          "description_i18n": {
+            "en": "Find five health, five mana and five stamina pills from golden containers; Xu Dog's crafted upgrades are a separate system.",
+            "pt": "Encontre cinco pílulas de vida, cinco de mana e cinco de vigor em recipientes dourados; as melhorias fabricadas por Xu Dog são outro sistema."
+          }
+        },
+        {
+          "key": "complete-five-skandhas",
+          "title": "Complete the Five Skandhas collection",
+          "title_i18n": {
+            "en": "Complete the Five Skandhas collection",
+            "pt": "Completar a coleção dos Cinco Skandhas"
+          },
+          "description": "Track the four earlier Skandhas, investigate Giant Shigandang in Chapter 6 and take the completed collection to Xu Dog.",
+          "description_i18n": {
+            "en": "Track the four earlier Skandhas, investigate Giant Shigandang in Chapter 6 and take the completed collection to Xu Dog.",
+            "pt": "Acompanhe os quatro Skandhas anteriores, investigue Giant Shigandang no Capítulo 6 e leve a coleção completa a Xu Dog."
+          }
+        }
+      ],
+      "kind": "collectible"
+    }
+  ],
+  "trophies": [
+    {
+      "key": "final-fulfillment",
+      "title": "Final Fulfillment",
+      "title_i18n": {
+        "en": "Final Fulfillment",
+        "pt": "Final Fulfillment"
+      },
+      "description": "Unlock the other 35 PS5 trophies.",
+      "description_i18n": {
+        "en": "Unlock the other 35 PS5 trophies.",
+        "pt": "Desbloqueie os outros 35 troféus do PS5."
+      },
+      "tier": "platinum"
+    },
+    {
+      "key": "home-is-behind",
+      "title": "Home is Behind",
+      "title_i18n": {
+        "en": "Home is Behind",
+        "pt": "Home is Behind"
+      },
+      "description": "Complete the opening battle and its following story sequence.",
+      "description_i18n": {
+        "en": "Complete the opening battle and its following story sequence.",
+        "pt": "Conclua a batalha de abertura e a sequência da história que vem depois."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "a-spark-of-thought",
+      "title": "A Spark of Thought",
+      "title_i18n": {
+        "en": "A Spark of Thought",
+        "pt": "A Spark of Thought"
+      },
+      "description": "Spend a Spark to learn your first skill.",
+      "description_i18n": {
+        "en": "Spend a Spark to learn your first skill.",
+        "pt": "Gaste uma Centelha para aprender a primeira habilidade."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "brew-of-bravery",
+      "title": "Brew of Bravery",
+      "title_i18n": {
+        "en": "Brew of Bravery",
+        "pt": "Brew of Bravery"
+      },
+      "description": "Use Shen Monkey's brewing menu to add a soak to your drink.",
+      "description_i18n": {
+        "en": "Use Shen Monkey's brewing menu to add a soak to your drink.",
+        "pt": "Use o menu de preparo de Shen Monkey para adicionar um aditivo à bebida."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "creative-concoction",
+      "title": "Creative Concoction",
+      "title_i18n": {
+        "en": "Creative Concoction",
+        "pt": "Creative Concoction"
+      },
+      "description": "Craft a medicine after unlocking medicine making.",
+      "description_i18n": {
+        "en": "Craft a medicine after unlocking medicine making.",
+        "pt": "Fabrique um remédio após liberar sua fabricação."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "happy-harvest",
+      "title": "Happy Harvest",
+      "title_i18n": {
+        "en": "Happy Harvest",
+        "pt": "Happy Harvest"
+      },
+      "description": "Give seeds to Chen Loong and collect a harvest in Zodiac Village.",
+      "description_i18n": {
+        "en": "Give seeds to Chen Loong and collect a harvest in Zodiac Village.",
+        "pt": "Entregue sementes a Chen Loong e recolha uma colheita na Vila do Zodíaco."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "pound-and-perfect",
+      "title": "Pound and Perfect",
+      "title_i18n": {
+        "en": "Pound and Perfect",
+        "pt": "Pound and Perfect"
+      },
+      "description": "Purchase an armor upgrade from Yin Tiger in Zodiac Village.",
+      "description_i18n": {
+        "en": "Purchase an armor upgrade from Yin Tiger in Zodiac Village.",
+        "pt": "Compre uma melhoria de armadura com Yin Tiger na Vila do Zodíaco."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "blazing-black-wind",
+      "title": "Blazing Black Wind",
+      "title_i18n": {
+        "en": "Blazing Black Wind",
+        "pt": "Blazing Black Wind"
+      },
+      "description": "Defeat Black Bear Guai and complete Chapter 1.",
+      "description_i18n": {
+        "en": "Defeat Black Bear Guai and complete Chapter 1.",
+        "pt": "Derrote Black Bear Guai e conclua o Capítulo 1."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "temple-of-taint",
+      "title": "Temple of Taint",
+      "title_i18n": {
+        "en": "Temple of Taint",
+        "pt": "Temple of Taint"
+      },
+      "description": "Complete the secret Elder Jinchi encounter in Chapter 1.",
+      "description_i18n": {
+        "en": "Complete the secret Elder Jinchi encounter in Chapter 1.",
+        "pt": "Conclua o encontro secreto com Elder Jinchi no Capítulo 1."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "a-great-gust",
+      "title": "A Great Gust",
+      "title_i18n": {
+        "en": "A Great Gust",
+        "pt": "A Great Gust"
+      },
+      "description": "Defeat Yellow Wind Sage to finish Chapter 2.",
+      "description_i18n": {
+        "en": "Defeat Yellow Wind Sage to finish Chapter 2.",
+        "pt": "Derrote Yellow Wind Sage para concluir o Capítulo 2."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "shifting-sands",
+      "title": "Shifting Sands",
+      "title_i18n": {
+        "en": "Shifting Sands",
+        "pt": "Shifting Sands"
+      },
+      "description": "Defeat Fuban in Chapter 2's secret area.",
+      "description_i18n": {
+        "en": "Defeat Fuban in Chapter 2's secret area.",
+        "pt": "Derrote Fuban na área secreta do Capítulo 2."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "nifty-nonsense",
+      "title": "Nifty Nonsense",
+      "title_i18n": {
+        "en": "Nifty Nonsense",
+        "pt": "Nifty Nonsense"
+      },
+      "description": "Finish Yellowbrow's full confrontation and complete Chapter 3.",
+      "description_i18n": {
+        "en": "Finish Yellowbrow's full confrontation and complete Chapter 3.",
+        "pt": "Conclua todo o confronto com Yellowbrow e termine o Capítulo 3."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "behold-the-betrayal",
+      "title": "Behold the Betrayal",
+      "title_i18n": {
+        "en": "Behold the Betrayal",
+        "pt": "Behold the Betrayal"
+      },
+      "description": "Defeat Hundred-Eyed Daoist Master to finish Chapter 4.",
+      "description_i18n": {
+        "en": "Defeat Hundred-Eyed Daoist Master to finish Chapter 4.",
+        "pt": "Derrote Hundred-Eyed Daoist Master para concluir o Capítulo 4."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "the-cockerel-crowed",
+      "title": "The Cockerel Crowed",
+      "title_i18n": {
+        "en": "The Cockerel Crowed",
+        "pt": "The Cockerel Crowed"
+      },
+      "description": "Defeat The Duskveil in Purple Cloud Mountain.",
+      "description_i18n": {
+        "en": "Defeat The Duskveil in Purple Cloud Mountain.",
+        "pt": "Derrote The Duskveil na Montanha da Nuvem Púrpura."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "flaming-fury",
+      "title": "Flaming Fury",
+      "title_i18n": {
+        "en": "Flaming Fury",
+        "pt": "Flaming Fury"
+      },
+      "description": "Defeat Yaksha King and complete Chapter 5.",
+      "description_i18n": {
+        "en": "Defeat Yaksha King and complete Chapter 5.",
+        "pt": "Derrote Yaksha King e conclua o Capítulo 5."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "frost-and-flame",
+      "title": "Frost and Flame",
+      "title_i18n": {
+        "en": "Frost and Flame",
+        "pt": "Frost and Flame"
+      },
+      "description": "Defeat Bishui Golden-Eyed Beast in Bishui Cave.",
+      "description_i18n": {
+        "en": "Defeat Bishui Golden-Eyed Beast in Bishui Cave.",
+        "pt": "Derrote Bishui Golden-Eyed Beast na Caverna Bishui."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "meet-the-match",
+      "title": "Meet the Match",
+      "title_i18n": {
+        "en": "Meet the Match",
+        "pt": "Meet the Match"
+      },
+      "description": "Complete the Mount Mei secret-boss sequence, including the battles after Erlang.",
+      "description_i18n": {
+        "en": "Complete the Mount Mei secret-boss sequence, including the battles after Erlang.",
+        "pt": "Conclua a sequência de chefes secretos do Monte Mei, incluindo as batalhas após Erlang."
+      },
+      "tier": "gold"
+    },
+    {
+      "key": "a-duel-of-destiny",
+      "title": "A Duel of Destiny",
+      "title_i18n": {
+        "en": "A Duel of Destiny",
+        "pt": "A Duel of Destiny"
+      },
+      "description": "Defeat the final campaign boss and complete the journey.",
+      "description_i18n": {
+        "en": "Defeat the final campaign boss and complete the journey.",
+        "pt": "Derrote o chefe final da campanha e conclua a jornada."
+      },
+      "tier": "gold"
+    },
+    {
+      "key": "the-clamor-of-frogs",
+      "title": "The Clamor of Frogs",
+      "title_i18n": {
+        "en": "The Clamor of Frogs",
+        "pt": "The Clamor of Frogs"
+      },
+      "description": "Defeat all six frog bosses, one in each chapter.",
+      "description_i18n": {
+        "en": "Defeat all six frog bosses, one in each chapter.",
+        "pt": "Derrote os seis chefes sapos, um em cada capítulo."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "the-sire-and-sons",
+      "title": "The Sire and Sons",
+      "title_i18n": {
+        "en": "The Sire and Sons",
+        "pt": "The Sire and Sons"
+      },
+      "description": "Defeat the four hidden Loong bosses: Red, Black, Cyan and Yellow.",
+      "description_i18n": {
+        "en": "Defeat the four hidden Loong bosses: Red, Black, Cyan and Yellow.",
+        "pt": "Derrote os quatro chefes Loong ocultos: Red, Black, Cyan e Yellow."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "always-accompanied",
+      "title": "Always Accompanied",
+      "title_i18n": {
+        "en": "Always Accompanied",
+        "pt": "Always Accompanied"
+      },
+      "description": "Complete the old man's meetings and obtain the Supreme Gourd upgrade.",
+      "description_i18n": {
+        "en": "Complete the old man's meetings and obtain the Supreme Gourd upgrade.",
+        "pt": "Conclua os encontros com o ancião e obtenha a melhoria Supreme Gourd."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "urge-unfulfilled",
+      "title": "Urge Unfulfilled",
+      "title_i18n": {
+        "en": "Urge Unfulfilled",
+        "pt": "Urge Unfulfilled"
+      },
+      "description": "Complete Horse Guai's five-chapter quest and claim Dark Thunder from the cart.",
+      "description_i18n": {
+        "en": "Complete Horse Guai's five-chapter quest and claim Dark Thunder from the cart.",
+        "pt": "Conclua a missão de Horse Guai pelos cinco capítulos e obtenha Dark Thunder na carroça."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "six-senses-secured",
+      "title": "Six Senses Secured",
+      "title_i18n": {
+        "en": "Six Senses Secured",
+        "pt": "Six Senses Secured"
+      },
+      "description": "Complete the campaign and begin a New Cycle so the relic progression registers.",
+      "description_i18n": {
+        "en": "Complete the campaign and begin a New Cycle so the relic progression registers.",
+        "pt": "Conclua a campanha e comece um Novo Ciclo para registrar o progresso das relíquias."
+      },
+      "tier": "gold"
+    },
+    {
+      "key": "portraits-perfected",
+      "title": "Portraits Perfected",
+      "title_i18n": {
+        "en": "Portraits Perfected",
+        "pt": "Portraits Perfected"
+      },
+      "description": "Complete every Journal portrait category, including the ending-related entries registered in New Game+.",
+      "description_i18n": {
+        "en": "Complete every Journal portrait category, including the ending-related entries registered in New Game+.",
+        "pt": "Complete todas as categorias de retratos do Diário, incluindo os registros ligados ao final contabilizados no Novo Jogo+."
+      },
+      "tier": "gold"
+    },
+    {
+      "key": "treasure-trove",
+      "title": "Treasure Trove",
+      "title_i18n": {
+        "en": "Treasure Trove",
+        "pt": "Treasure Trove"
+      },
+      "description": "Acquire all four vessels.",
+      "description_i18n": {
+        "en": "Acquire all four vessels.",
+        "pt": "Obtenha os quatro artefatos."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "master-of-magic",
+      "title": "Master of Magic",
+      "title_i18n": {
+        "en": "Master of Magic",
+        "pt": "Master of Magic"
+      },
+      "description": "Acquire every spell, including Life-Saving Strand at the start of New Game+.",
+      "description_i18n": {
+        "en": "Acquire every spell, including Life-Saving Strand at the start of New Game+.",
+        "pt": "Obtenha todos os feitiços, incluindo Life-Saving Strand no início do Novo Jogo+."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "guardian-of-gear",
+      "title": "Guardian of Gear",
+      "title_i18n": {
+        "en": "Guardian of Gear",
+        "pt": "Guardian of Gear"
+      },
+      "description": "Recover the Monkey King's four armor pieces and Jingubang in Chapter 6.",
+      "description_i18n": {
+        "en": "Recover the Monkey King's four armor pieces and Jingubang in Chapter 6.",
+        "pt": "Recupere as quatro peças da armadura do Rei Macaco e Jingubang no Capítulo 6."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "a-curious-collection",
+      "title": "A Curious Collection",
+      "title_i18n": {
+        "en": "A Curious Collection",
+        "pt": "A Curious Collection"
+      },
+      "description": "Acquire every required base-game curio, including missable encounter rewards.",
+      "description_i18n": {
+        "en": "Acquire every required base-game curio, including missable encounter rewards.",
+        "pt": "Obtenha todos os curios necessários do jogo base, incluindo recompensas de encontros perdíveis."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "medicine-meal",
+      "title": "Medicine Meal",
+      "title_i18n": {
+        "en": "Medicine Meal",
+        "pt": "Medicine Meal"
+      },
+      "description": "Collect the world-found Celestial Pills and obtain the Five Skandhas Pill; ordinary Xu Dog stat crafting is separate.",
+      "description_i18n": {
+        "en": "Collect the world-found Celestial Pills and obtain the Five Skandhas Pill; ordinary Xu Dog stat crafting is separate.",
+        "pt": "Recolha as Pílulas Celestiais do mundo e obtenha a Five Skandhas Pill; melhorias comuns fabricadas com Xu Dog são um sistema separado."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "staffs-and-spears",
+      "title": "Staffs and Spears",
+      "title_i18n": {
+        "en": "Staffs and Spears",
+        "pt": "Staffs and Spears"
+      },
+      "description": "Acquire every required weapon, including crafted and New Game+ weapons.",
+      "description_i18n": {
+        "en": "Acquire every required weapon, including crafted and New Game+ weapons.",
+        "pt": "Obtenha todas as armas necessárias, incluindo as fabricadas e as do Novo Jogo+."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "mantled-with-might",
+      "title": "Mantled with Might",
+      "title_i18n": {
+        "en": "Mantled with Might",
+        "pt": "Mantled with Might"
+      },
+      "description": "Acquire every required armor piece, including enemy drops and equipment requiring later-cycle materials.",
+      "description_i18n": {
+        "en": "Acquire every required armor piece, including enemy drops and equipment requiring later-cycle materials.",
+        "pt": "Obtenha todas as peças de armadura necessárias, incluindo itens de inimigos e equipamentos que exigem materiais de ciclos posteriores."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "fickle-forms",
+      "title": "Fickle Forms",
+      "title_i18n": {
+        "en": "Fickle Forms",
+        "pt": "Fickle Forms"
+      },
+      "description": "Acquire all spirit skills and transformations.",
+      "description_i18n": {
+        "en": "Acquire all spirit skills and transformations.",
+        "pt": "Obtenha todas as habilidades de espíritos e transformações."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "brewers-bounty",
+      "title": "Brewer's Bounty",
+      "title_i18n": {
+        "en": "Brewer's Bounty",
+        "pt": "Brewer's Bounty"
+      },
+      "description": "Acquire the complete base-game collections of gourds, drinks and soaks, including the New Game+ purchase.",
+      "description_i18n": {
+        "en": "Acquire the complete base-game collections of gourds, drinks and soaks, including the New Game+ purchase.",
+        "pt": "Obtenha as coleções completas de cabaças, bebidas e aditivos do jogo base, incluindo a compra do Novo Jogo+."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "page-preserver",
+      "title": "Page Preserver",
+      "title_i18n": {
+        "en": "Page Preserver",
+        "pt": "Page Preserver"
+      },
+      "description": "Collect every medicine formula, including the New Game+ formula.",
+      "description_i18n": {
+        "en": "Collect every medicine formula, including the New Game+ formula.",
+        "pt": "Obtenha todas as fórmulas de remédios, incluindo a fórmula do Novo Jogo+."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "seeds-to-sow",
+      "title": "Seeds to Sow",
+      "title_i18n": {
+        "en": "Seeds to Sow",
+        "pt": "Seeds to Sow"
+      },
+      "description": "Collect every seed variety.",
+      "description_i18n": {
+        "en": "Collect every seed variety.",
+        "pt": "Obtenha todas as variedades de sementes."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "scenic-seeker",
+      "title": "Scenic Seeker",
+      "title_i18n": {
+        "en": "Scenic Seeker",
+        "pt": "Scenic Seeker"
+      },
+      "description": "Find and use all 24 meditation spots.",
+      "description_i18n": {
+        "en": "Find and use all 24 meditation spots.",
+        "pt": "Encontre e use os 24 locais de meditação."
+      },
+      "tier": "bronze"
+    }
+  ],
+  "hltb_id": "82089",
+  "hltb_main_hours": 38,
+  "hltb_main_extra_hours": 48,
+  "hltb_completionist_hours": 67
+}

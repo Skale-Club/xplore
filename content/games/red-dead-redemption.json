@@ -1,0 +1,2682 @@
+{
+  "slug": "red-dead-redemption",
+  "title": "Red Dead Redemption",
+  "title_i18n": {
+    "en": "Red Dead Redemption",
+    "pt": "Red Dead Redemption"
+  },
+  "platform": "PlayStation 5",
+  "cover_url": "/covers/red-dead-redemption.png",
+  "created_by": "dd5c4bf0-85ea-4986-9c04-b37e8c986150",
+  "categories": [
+    {
+      "key": "ps5-start-and-missable-planning",
+      "title": "PS5 start and early planning",
+      "title_i18n": {
+        "en": "PS5 start and early planning",
+        "pt": "Início no PS5 e planejamento inicial"
+      },
+      "items": [
+        {
+          "key": "choose-native-ps5-campaign",
+          "title": "Choose the PS5 base campaign",
+          "title_i18n": {
+            "en": "Choose the PS5 base campaign",
+            "pt": "Escolha a campanha principal de PS5"
+          },
+          "description": "Begin Normal or Hardcore; the bundled Undead Nightmare route is a separate optional campaign below.",
+          "description_i18n": {
+            "en": "Begin Normal or Hardcore; the bundled Undead Nightmare route is a separate optional campaign below.",
+            "pt": "Comece no Normal ou Hardcore; a rota de Undead Nightmare incluída aparece abaixo como campanha opcional separada."
+          }
+        },
+        {
+          "key": "complete-exodus-in-america",
+          "title": "Exodus in America",
+          "title_i18n": {
+            "en": "Exodus in America",
+            "pt": "Conclua Exodus in America"
+          },
+          "description": "Follow the arrival sequence, meet your guide and reach the opening objective.",
+          "description_i18n": {
+            "en": "Follow the arrival sequence, meet your guide and reach the opening objective.",
+            "pt": "Acompanhe a chegada, encontre seu guia e alcance o objetivo inicial."
+          }
+        },
+        {
+          "key": "create-rotating-manual-saves",
+          "title": "Create rotating manual saves",
+          "title_i18n": {
+            "en": "Create rotating manual saves",
+            "pt": "Crie salvamentos manuais alternados"
+          },
+          "description": "Keep a spare save before major transitions and optional trophy attempts.",
+          "description_i18n": {
+            "en": "Keep a spare save before major transitions and optional trophy attempts.",
+            "pt": "Mantenha um arquivo reserva antes de grandes transições e tentativas de troféus opcionais."
+          }
+        },
+        {
+          "key": "plan-spurred-to-victory",
+          "title": "Plan Spurred to Victory early",
+          "title_i18n": {
+            "en": "Plan Spurred to Victory early",
+            "pt": "Planeje Spurred to Victory desde cedo"
+          },
+          "description": "Review the mount-related missable before progressing through twenty story missions.",
+          "description_i18n": {
+            "en": "Review the mount-related missable before progressing through twenty story missions.",
+            "pt": "Confira o troféu perdível ligado à montaria antes de avançar por vinte missões da história."
+          },
+          "details": "Plan a twenty-mission streak early while enough story missions remain. Keep the chosen horse alive, whistle for it and avoid manually registering another horse at a hitching post until the trophy appears. Keep a backup save in case the mount dies. The story-required horse-breaking tutorial does not itself invalidate the streak. Optional jobs and Stranger tasks do not replace the twenty story missions. If the campaign is already exhausted without the trophy, a separate new playthrough may be needed.",
+          "details_i18n": {
+            "en": "Plan a twenty-mission streak early while enough story missions remain. Keep the chosen horse alive, whistle for it and avoid manually registering another horse at a hitching post until the trophy appears. Keep a backup save in case the mount dies. The story-required horse-breaking tutorial does not itself invalidate the streak. Optional jobs and Stranger tasks do not replace the twenty story missions. If the campaign is already exhausted without the trophy, a separate new playthrough may be needed.",
+            "pt": "Planeje uma sequência de vinte missões desde cedo, enquanto restarem missões suficientes. Mantenha o cavalo escolhido vivo, chame-o pelo assobio e evite registrar manualmente outra montaria em um poste até receber o troféu. Guarde um arquivo reserva caso o cavalo morra. O treinamento obrigatório de doma da história não invalida a sequência por si só. Trabalhos opcionais e tarefas de Stranger não substituem as vinte missões da história. Se a campanha já tiver terminado sem o troféu, poderá ser necessário iniciar outro arquivo."
+          }
+        },
+        {
+          "key": "learn-cover-and-dead-eye",
+          "title": "Learn cover and Dead Eye",
+          "title_i18n": {
+            "en": "Learn cover and Dead Eye",
+            "pt": "Aprenda a usar cobertura e Dead Eye"
+          },
+          "description": "Practice aimed shots, safe reloading and the targeting tools introduced by the story.",
+          "description_i18n": {
+            "en": "Practice aimed shots, safe reloading and the targeting tools introduced by the story.",
+            "pt": "Pratique tiros visados, recargas seguras e as ferramentas de mira apresentadas pela história."
+          },
+          "details": "Dead Eye develops during the campaign, so follow the current tutorial instead of expecting manual target marking immediately. Begin an encounter behind cover, identify exposed enemies and use short bursts of Dead Eye for threats that are moving or close to an ally. Refill its meter with appropriate provisions between dangerous sections. Aim before firing and release the trigger when a friendly crosses the reticle; careless tagging can turn a rescue into a failed objective.",
+          "details_i18n": {
+            "en": "Dead Eye develops during the campaign, so follow the current tutorial instead of expecting manual target marking immediately. Begin an encounter behind cover, identify exposed enemies and use short bursts of Dead Eye for threats that are moving or close to an ally. Refill its meter with appropriate provisions between dangerous sections. Aim before firing and release the trigger when a friendly crosses the reticle; careless tagging can turn a rescue into a failed objective.",
+            "pt": "O Dead Eye evolui durante a campanha; siga o treinamento atual em vez de esperar marcação manual de alvos imediatamente. Comece os confrontos em cobertura, identifique inimigos expostos e use ativações curtas contra ameaças móveis ou próximas de aliados. Reponha a energia com os suprimentos adequados entre trechos perigosos. Mire antes de disparar e solte o gatilho quando um aliado cruzar a mira; uma marcação descuidada pode fazer um resgate fracassar."
+          }
+        },
+        {
+          "key": "manage-horse-stamina",
+          "title": "Manage horse stamina",
+          "title_i18n": {
+            "en": "Manage horse stamina",
+            "pt": "Gerencie a resistência do cavalo"
+          },
+          "description": "Watch the mount's stamina and avoid forcing repeated sprints near cliffs or traffic.",
+          "description_i18n": {
+            "en": "Watch the mount's stamina and avoid forcing repeated sprints near cliffs or traffic.",
+            "pt": "Observe a resistência da montaria e evite forçar arrancadas repetidas perto de penhascos ou tráfego."
+          }
+        },
+        {
+          "key": "stock-basic-supplies",
+          "title": "Stock basic supplies",
+          "title_i18n": {
+            "en": "Stock basic supplies",
+            "pt": "Abasteça os suprimentos básicos"
+          },
+          "description": "Inspect medicine, ammunition and safehouse options before longer journeys.",
+          "description_i18n": {
+            "en": "Inspect medicine, ammunition and safehouse options before longer journeys.",
+            "pt": "Confira remédios, munição e opções de abrigo antes das viagens longas."
+          }
+        },
+        {
+          "key": "follow-open-mission-threads",
+          "title": "Follow the open mission threads",
+          "title_i18n": {
+            "en": "Follow the open mission threads",
+            "pt": "Acompanhe as frentes de missões abertas"
+          },
+          "description": "Use available character markers; this is a suggested route through threads that sometimes overlap.",
+          "description_i18n": {
+            "en": "Use available character markers; this is a suggested route through threads that sometimes overlap.",
+            "pt": "Use as marcações dos personagens disponíveis; esta é uma rota sugerida por frentes que às vezes se sobrepõem."
+          }
+        }
+      ]
+    },
+    {
+      "key": "bonnie-and-macfarlanes-ranch",
+      "title": "Bonnie and MacFarlane's Ranch",
+      "title_i18n": {
+        "en": "Bonnie and MacFarlane's Ranch",
+        "pt": "Bonnie e MacFarlane’s Ranch"
+      },
+      "items": [
+        {
+          "key": "complete-new-friends-old-problems",
+          "title": "New Friends, Old Problems",
+          "title_i18n": {
+            "en": "New Friends, Old Problems",
+            "pt": "Conclua New Friends, Old Problems"
+          },
+          "description": "Help Bonnie with the ranch patrol and learn the opening combat rhythm.",
+          "description_i18n": {
+            "en": "Help Bonnie with the ranch patrol and learn the opening combat rhythm.",
+            "pt": "Ajude Bonnie na patrulha do rancho e aprenda o ritmo inicial de combate."
+          }
+        },
+        {
+          "key": "complete-obstacles-in-our-path",
+          "title": "Obstacles in Our Path",
+          "title_i18n": {
+            "en": "Obstacles in Our Path",
+            "pt": "Conclua Obstacles in Our Path"
+          },
+          "description": "Follow the race route and control speed through its tighter turns.",
+          "description_i18n": {
+            "en": "Follow the race route and control speed through its tighter turns.",
+            "pt": "Siga o percurso da corrida e controle a velocidade nas curvas mais fechadas."
+          }
+        },
+        {
+          "key": "complete-this-is-armadillo-usa",
+          "title": "This is Armadillo, USA",
+          "title_i18n": {
+            "en": "This is Armadillo, USA",
+            "pt": "Conclua This is Armadillo, USA"
+          },
+          "description": "Complete the wagon trip and inspect Armadillo's essential services.",
+          "description_i18n": {
+            "en": "Complete the wagon trip and inspect Armadillo's essential services.",
+            "pt": "Conclua a viagem de carroça e conheça os serviços essenciais de Armadillo."
+          }
+        },
+        {
+          "key": "complete-women-and-cattle",
+          "title": "Women and Cattle",
+          "title_i18n": {
+            "en": "Women and Cattle",
+            "pt": "Conclua Women and Cattle"
+          },
+          "description": "Guide the herd carefully and retrieve animals that leave the group.",
+          "description_i18n": {
+            "en": "Guide the herd carefully and retrieve animals that leave the group.",
+            "pt": "Conduza o rebanho com cuidado e recupere os animais que se afastarem."
+          }
+        },
+        {
+          "key": "complete-wild-horses-tamed-passions",
+          "title": "Wild Horses, Tamed Passions",
+          "title_i18n": {
+            "en": "Wild Horses, Tamed Passions",
+            "pt": "Conclua Wild Horses, Tamed Passions"
+          },
+          "description": "Follow Bonnie's horse-catching and breaking tutorial through its final objective.",
+          "description_i18n": {
+            "en": "Follow Bonnie's horse-catching and breaking tutorial through its final objective.",
+            "pt": "Acompanhe o treinamento de captura e doma de Bonnie até o objetivo final."
+          }
+        },
+        {
+          "key": "complete-a-tempest-looms",
+          "title": "A Tempest Looms",
+          "title_i18n": {
+            "en": "A Tempest Looms",
+            "pt": "Conclua A Tempest Looms"
+          },
+          "description": "Keep the herd together through the storm and respond to the urgent diversion.",
+          "description_i18n": {
+            "en": "Keep the herd together through the storm and respond to the urgent diversion.",
+            "pt": "Mantenha o rebanho unido durante a tempestade e reaja ao desvio urgente."
+          }
+        },
+        {
+          "key": "complete-the-burning",
+          "title": "The Burning",
+          "title_i18n": {
+            "en": "The Burning",
+            "pt": "Conclua The Burning"
+          },
+          "description": "Return when this marker opens and resolve the ranch's emergency promptly.",
+          "description_i18n": {
+            "en": "Return when this marker opens and resolve the ranch's emergency promptly.",
+            "pt": "Volte quando esta marcação abrir e resolva rapidamente a emergência do rancho."
+          }
+        },
+        {
+          "key": "practice-herd-positioning",
+          "title": "Practice herd positioning",
+          "title_i18n": {
+            "en": "Practice herd positioning",
+            "pt": "Pratique o posicionamento no pastoreio"
+          },
+          "description": "Read the herd indicator and approach stragglers calmly instead of scattering the full group.",
+          "description_i18n": {
+            "en": "Read the herd indicator and approach stragglers calmly instead of scattering the full group.",
+            "pt": "Observe o indicador do rebanho e aproxime-se dos animais isolados com calma, sem dispersar o grupo."
+          },
+          "details": "Ride behind the herd to move it forward and shift toward one side to steer it toward the opposite direction. Use the herd indicator to judge whether animals are drifting away. Retrieve a straggler by approaching from behind it, then guide it back toward the main group without galloping through the herd. During the storm sequence, react to the urgent animal movement rather than continuing a leisurely sweep. Keeping the group compact prevents repeated recovery trips.",
+          "details_i18n": {
+            "en": "Ride behind the herd to move it forward and shift toward one side to steer it toward the opposite direction. Use the herd indicator to judge whether animals are drifting away. Retrieve a straggler by approaching from behind it, then guide it back toward the main group without galloping through the herd. During the storm sequence, react to the urgent animal movement rather than continuing a leisurely sweep. Keeping the group compact prevents repeated recovery trips.",
+            "pt": "Cavalgue atrás do rebanho para fazê-lo avançar e desloque-se para um lado para conduzi-lo na direção oposta. Use o indicador para perceber quando os animais estão se afastando. Recupere um animal isolado aproximando-se por trás e conduza-o de volta sem atravessar o rebanho a galope. Durante a tempestade, reaja ao movimento urgente dos animais em vez de continuar uma ronda lenta. Manter o grupo compacto evita repetir viagens de recuperação."
+          }
+        },
+        {
+          "key": "retain-mount-after-horse-tutorial",
+          "title": "Check your mount after the tutorial",
+          "title_i18n": {
+            "en": "Check your mount after the tutorial",
+            "pt": "Confira sua montaria após o treinamento"
+          },
+          "description": "Resume the planned mount streak after the story introduces horse breaking.",
+          "description_i18n": {
+            "en": "Resume the planned mount streak after the story introduces horse breaking.",
+            "pt": "Retome o plano de sequência com a montaria após a introdução da doma pela história."
+          }
+        }
+      ]
+    },
+    {
+      "key": "marshal-johnsons-new-austin-route",
+      "title": "Marshal Johnson's New Austin route",
+      "title_i18n": {
+        "en": "Marshal Johnson's New Austin route",
+        "pt": "A rota do Marshal Johnson em New Austin"
+      },
+      "items": [
+        {
+          "key": "complete-political-realities-in-armadillo",
+          "title": "Political Realities in Armadillo",
+          "title_i18n": {
+            "en": "Political Realities in Armadillo",
+            "pt": "Conclua Political Realities in Armadillo"
+          },
+          "description": "Meet the marshal and follow his first pursuit without firing into bystanders.",
+          "description_i18n": {
+            "en": "Meet the marshal and follow his first pursuit without firing into bystanders.",
+            "pt": "Encontre o delegado e siga a primeira perseguição sem atingir pessoas próximas."
+          }
+        },
+        {
+          "key": "complete-justice-in-pike-s-basin",
+          "title": "Justice in Pike's Basin",
+          "title_i18n": {
+            "en": "Justice in Pike's Basin",
+            "pt": "Conclua Justice in Pike's Basin"
+          },
+          "description": "Advance with the lawmen and use cover through the canyon encounters.",
+          "description_i18n": {
+            "en": "Advance with the lawmen and use cover through the canyon encounters.",
+            "pt": "Avance com os homens da lei e use cobertura nos confrontos do cânion."
+          }
+        },
+        {
+          "key": "complete-spare-the-rod-spoil-the-bandit",
+          "title": "Spare the Rod, Spoil the Bandit",
+          "title_i18n": {
+            "en": "Spare the Rod, Spoil the Bandit",
+            "pt": "Conclua Spare the Rod, Spoil the Bandit"
+          },
+          "description": "Follow the investigation and protect your allies during the escalating firefights.",
+          "description_i18n": {
+            "en": "Follow the investigation and protect your allies during the escalating firefights.",
+            "pt": "Acompanhe a investigação e proteja os aliados nos tiroteios que se intensificam."
+          }
+        },
+        {
+          "key": "complete-hanging-bonnie-macfarlane",
+          "title": "Hanging Bonnie MacFarlane",
+          "title_i18n": {
+            "en": "Hanging Bonnie MacFarlane",
+            "pt": "Conclua Hanging Bonnie MacFarlane"
+          },
+          "description": "Respond to the rescue marker and prioritize the immediate objective during the fight.",
+          "description_i18n": {
+            "en": "Respond to the rescue marker and prioritize the immediate objective during the fight.",
+            "pt": "Atenda à marcação de resgate e priorize o objetivo imediato durante o combate."
+          },
+          "details": "After the exchange becomes a firefight, the hanging victim is the urgent objective. Use Dead Eye to control the closest gunmen, then aim carefully at the rope to release Bonnie from a distance. Avoid placing a shot on her body. Once the rope is cut, finish clearing a safe approach and reach her to complete the rescue sequence. Fighting every distant enemy before addressing the rope wastes the limited rescue window.",
+          "details_i18n": {
+            "en": "After the exchange becomes a firefight, the hanging victim is the urgent objective. Use Dead Eye to control the closest gunmen, then aim carefully at the rope to release Bonnie from a distance. Avoid placing a shot on her body. Once the rope is cut, finish clearing a safe approach and reach her to complete the rescue sequence. Fighting every distant enemy before addressing the rope wastes the limited rescue window.",
+            "pt": "Quando a troca virar um tiroteio, a pessoa pendurada será o objetivo urgente. Use o Dead Eye para controlar os atiradores mais próximos e mire com cuidado na corda para soltar Bonnie à distância. Evite acertar o corpo dela. Depois de cortar a corda, abra uma aproximação segura e alcance-a para concluir o resgate. Combater todos os inimigos distantes antes de lidar com a corda desperdiça o tempo disponível."
+          }
+        },
+        {
+          "key": "check-rescue-objectives-first",
+          "title": "Check rescue objectives first",
+          "title_i18n": {
+            "en": "Check rescue objectives first",
+            "pt": "Confira primeiro os objetivos de resgate"
+          },
+          "description": "Watch mission prompts whenever an ally is in immediate danger.",
+          "description_i18n": {
+            "en": "Watch mission prompts whenever an ally is in immediate danger.",
+            "pt": "Observe as instruções da missão sempre que um aliado estiver em perigo imediato."
+          }
+        },
+        {
+          "key": "resupply-before-fort-mercer-plans",
+          "title": "Resupply for the Fort Mercer preparations",
+          "title_i18n": {
+            "en": "Resupply for the Fort Mercer preparations",
+            "pt": "Reabasteça para os preparativos de Fort Mercer"
+          },
+          "description": "Revisit town services as the marshal's route joins the other New Austin contacts.",
+          "description_i18n": {
+            "en": "Revisit town services as the marshal's route joins the other New Austin contacts.",
+            "pt": "Volte aos serviços da cidade conforme a rota do delegado se une às dos outros contatos de New Austin."
+          }
+        }
+      ]
+    },
+    {
+      "key": "west-dickens-preparations",
+      "title": "West Dickens's preparations",
+      "title_i18n": {
+        "en": "West Dickens's preparations",
+        "pt": "Os preparativos de West Dickens"
+      },
+      "items": [
+        {
+          "key": "complete-old-swindler-blues",
+          "title": "Old Swindler Blues",
+          "title_i18n": {
+            "en": "Old Swindler Blues",
+            "pt": "Conclua Old Swindler Blues"
+          },
+          "description": "Bring the injured contact to help while keeping the wagon under control.",
+          "description_i18n": {
+            "en": "Bring the injured contact to help while keeping the wagon under control.",
+            "pt": "Leve o contato ferido até o socorro mantendo o controle da carroça."
+          }
+        },
+        {
+          "key": "complete-you-shall-not-give-false-testimony-except-for-profit",
+          "title": "You Shall Not Give False Testimony, Except for Profit",
+          "title_i18n": {
+            "en": "You Shall Not Give False Testimony, Except for Profit",
+            "pt": "Conclua You Shall Not Give False Testimony, Except for Profit"
+          },
+          "description": "Follow the demonstration's prompts and complete its shooting and confrontation tests.",
+          "description_i18n": {
+            "en": "Follow the demonstration's prompts and complete its shooting and confrontation tests.",
+            "pt": "Siga as instruções da demonstração e conclua as provas de tiro e confronto."
+          }
+        },
+        {
+          "key": "complete-liars-cheats-and-other-proud-americans",
+          "title": "Liars, Cheats and Other Proud Americans",
+          "title_i18n": {
+            "en": "Liars, Cheats and Other Proud Americans",
+            "pt": "Conclua Liars, Cheats and Other Proud Americans"
+          },
+          "description": "Drive the race course cleanly and avoid collisions during overtakes.",
+          "description_i18n": {
+            "en": "Drive the race course cleanly and avoid collisions during overtakes.",
+            "pt": "Percorra a corrida com cuidado e evite colisões nas ultrapassagens."
+          }
+        },
+        {
+          "key": "complete-can-a-swindler-change-his-spots",
+          "title": "Can a Swindler Change His Spots?",
+          "title_i18n": {
+            "en": "Can a Swindler Change His Spots?",
+            "pt": "Conclua Can a Swindler Change His Spots?"
+          },
+          "description": "Protect the escape route and keep moving as the opposition closes in.",
+          "description_i18n": {
+            "en": "Protect the escape route and keep moving as the opposition closes in.",
+            "pt": "Proteja a rota de fuga e continue avançando enquanto os adversários se aproximam."
+          }
+        },
+        {
+          "key": "complete-the-sport-of-kings-and-liars",
+          "title": "The Sport of Kings, and Liars",
+          "title_i18n": {
+            "en": "The Sport of Kings, and Liars",
+            "pt": "Conclua The Sport of Kings, and Liars"
+          },
+          "description": "Complete the mounted race to finish this contact's preparation thread.",
+          "description_i18n": {
+            "en": "Complete the mounted race to finish this contact's preparation thread.",
+            "pt": "Conclua a corrida a cavalo para terminar esta frente de preparativos."
+          }
+        },
+        {
+          "key": "prepare-for-race-retries",
+          "title": "Prepare for race retries",
+          "title_i18n": {
+            "en": "Prepare for race retries",
+            "pt": "Prepare-se para repetir corridas"
+          },
+          "description": "Learn the course before pursuing medals; control matters more than reckless cornering.",
+          "description_i18n": {
+            "en": "Learn the course before pursuing medals; control matters more than reckless cornering.",
+            "pt": "Aprenda o percurso antes de buscar medalhas; manter o controle vale mais que arriscar nas curvas."
+          }
+        }
+      ]
+    },
+    {
+      "key": "seths-map-and-irishs-equipment",
+      "title": "Seth's map and Irish's equipment",
+      "title_i18n": {
+        "en": "Seth's map and Irish's equipment",
+        "pt": "O mapa de Seth e o equipamento de Irish"
+      },
+      "items": [
+        {
+          "key": "complete-exhuming-and-other-fine-hobbies",
+          "title": "Exhuming and Other Fine Hobbies",
+          "title_i18n": {
+            "en": "Exhuming and Other Fine Hobbies",
+            "pt": "Conclua Exhuming and Other Fine Hobbies"
+          },
+          "description": "Follow Seth's request and handle the capture objective with the newly available tools.",
+          "description_i18n": {
+            "en": "Follow Seth's request and handle the capture objective with the newly available tools.",
+            "pt": "Siga o pedido de Seth e cumpra o objetivo de captura com as ferramentas disponíveis."
+          }
+        },
+        {
+          "key": "complete-a-gentle-drive-with-friends",
+          "title": "A Gentle Drive with Friends",
+          "title_i18n": {
+            "en": "A Gentle Drive with Friends",
+            "pt": "Conclua A Gentle Drive with Friends"
+          },
+          "description": "Drive Seth's wagon while defending its route from pursuers.",
+          "description_i18n": {
+            "en": "Drive Seth's wagon while defending its route from pursuers.",
+            "pt": "Conduza a carroça de Seth e defenda a rota dos perseguidores."
+          }
+        },
+        {
+          "key": "complete-let-the-dead-bury-their-dead",
+          "title": "Let the Dead Bury Their Dead",
+          "title_i18n": {
+            "en": "Let the Dead Bury Their Dead",
+            "pt": "Conclua Let the Dead Bury Their Dead"
+          },
+          "description": "Clear the guarded approach and accompany Seth through his destination.",
+          "description_i18n": {
+            "en": "Clear the guarded approach and accompany Seth through his destination.",
+            "pt": "Libere a aproximação vigiada e acompanhe Seth pelo destino."
+          }
+        },
+        {
+          "key": "complete-a-frenchman-a-welshman-and-an-irishman",
+          "title": "A Frenchman, a Welshman and an Irishman",
+          "title_i18n": {
+            "en": "A Frenchman, a Welshman and an Irishman",
+            "pt": "Conclua A Frenchman, a Welshman and an Irishman"
+          },
+          "description": "Meet Irish and investigate the first equipment lead.",
+          "description_i18n": {
+            "en": "Meet Irish and investigate the first equipment lead.",
+            "pt": "Encontre Irish e investigue a primeira pista de equipamento."
+          }
+        },
+        {
+          "key": "complete-man-is-born-unto-trouble",
+          "title": "Man is Born Unto Trouble",
+          "title_i18n": {
+            "en": "Man is Born Unto Trouble",
+            "pt": "Conclua Man is Born Unto Trouble"
+          },
+          "description": "Work through the mine route and escort the recovered equipment out safely.",
+          "description_i18n": {
+            "en": "Work through the mine route and escort the recovered equipment out safely.",
+            "pt": "Atravesse a mina e escolte o equipamento recuperado até a saída."
+          }
+        },
+        {
+          "key": "complete-on-shaky-s-ground",
+          "title": "On Shaky's Ground",
+          "title_i18n": {
+            "en": "On Shaky's Ground",
+            "pt": "Conclua On Shaky's Ground"
+          },
+          "description": "Complete the rescue and protect the supplies needed for the assault.",
+          "description_i18n": {
+            "en": "Complete the rescue and protect the supplies needed for the assault.",
+            "pt": "Conclua o resgate e proteja os suprimentos necessários ao ataque."
+          }
+        },
+        {
+          "key": "practice-live-capture",
+          "title": "Practice a live capture",
+          "title_i18n": {
+            "en": "Practice a live capture",
+            "pt": "Pratique uma captura com vida"
+          },
+          "description": "Learn to lasso, hogtie and transport a target before optional bounty work.",
+          "description_i18n": {
+            "en": "Learn to lasso, hogtie and transport a target before optional bounty work.",
+            "pt": "Aprenda a laçar, amarrar e transportar um alvo antes das caçadas opcionais por recompensas."
+          },
+          "details": "Equip the lasso, keep the target within range and maintain the hold after the rope connects. Approach while holding the target, then follow the hogtie prompt. Lift the captive onto your horse and ride to the marked delivery point without killing or losing them. Pursuers can appear during the return, so protect the horse and stop in a safe position before fighting. A live bounty pays differently from returning only proof of a kill.",
+          "details_i18n": {
+            "en": "Equip the lasso, keep the target within range and maintain the hold after the rope connects. Approach while holding the target, then follow the hogtie prompt. Lift the captive onto your horse and ride to the marked delivery point without killing or losing them. Pursuers can appear during the return, so protect the horse and stop in a safe position before fighting. A live bounty pays differently from returning only proof of a kill.",
+            "pt": "Equipe o laço, mantenha o alvo ao alcance e continue segurando depois que a corda prendê-lo. Aproxime-se mantendo-o preso e siga o comando de amarrar. Coloque o prisioneiro no cavalo e volte ao ponto de entrega marcado sem matá-lo ou perdê-lo. Podem surgir perseguidores na volta; proteja a montaria e pare numa posição segura antes de lutar. Entregar um procurado vivo rende um pagamento diferente de devolver apenas a prova de sua morte."
+          }
+        },
+        {
+          "key": "inspect-mounted-weapon-controls",
+          "title": "Inspect mounted-weapon controls",
+          "title_i18n": {
+            "en": "Inspect mounted-weapon controls",
+            "pt": "Confira os comandos das armas fixas"
+          },
+          "description": "Read the mission firing prompts and aim through controlled sweeps.",
+          "description_i18n": {
+            "en": "Read the mission firing prompts and aim through controlled sweeps.",
+            "pt": "Leia as instruções de disparo da missão e faça movimentos de mira controlados."
+          }
+        }
+      ]
+    },
+    {
+      "key": "fort-mercer-and-the-border",
+      "title": "Fort Mercer and the border",
+      "title_i18n": {
+        "en": "Fort Mercer and the border",
+        "pt": "Fort Mercer e a fronteira"
+      },
+      "items": [
+        {
+          "key": "complete-the-assault-on-fort-mercer",
+          "title": "The Assault on Fort Mercer",
+          "title_i18n": {
+            "en": "The Assault on Fort Mercer",
+            "pt": "Conclua The Assault on Fort Mercer"
+          },
+          "description": "Return once the preparation threads converge and complete the coordinated assault.",
+          "description_i18n": {
+            "en": "Return once the preparation threads converge and complete the coordinated assault.",
+            "pt": "Volte quando as frentes de preparativos se encontrarem e conclua o ataque coordenado."
+          },
+          "details": "Finish the available New Austin preparation threads if the assault marker is not ready. During the mounted-gun section, sweep across exposed enemies and watch the sides of the fort rather than fixing your aim on one doorway. Follow the next objective when control changes; the weapon emplacement does not finish every stage of the mission. Reload and recover behind cover during the later cleanup before moving between the remaining marked positions.",
+          "details_i18n": {
+            "en": "Finish the available New Austin preparation threads if the assault marker is not ready. During the mounted-gun section, sweep across exposed enemies and watch the sides of the fort rather than fixing your aim on one doorway. Follow the next objective when control changes; the weapon emplacement does not finish every stage of the mission. Reload and recover behind cover during the later cleanup before moving between the remaining marked positions.",
+            "pt": "Conclua as frentes de preparação disponíveis em New Austin se a marcação do ataque ainda não estiver pronta. Na etapa da arma fixa, percorra os inimigos expostos com a mira e observe as laterais do forte em vez de mirar apenas numa porta. Siga o próximo objetivo quando o controle mudar; a posição da metralhadora não resolve todas as etapas da missão. Recarregue e recupere-se em cobertura durante a limpeza posterior antes de avançar entre as posições restantes."
+          }
+        },
+        {
+          "key": "complete-we-shall-be-together-in-paradise",
+          "title": "We Shall Be Together in Paradise",
+          "title_i18n": {
+            "en": "We Shall Be Together in Paradise",
+            "pt": "Conclua We Shall Be Together in Paradise"
+          },
+          "description": "Follow Irish's crossing route and protect the boat through the river encounter.",
+          "description_i18n": {
+            "en": "Follow Irish's crossing route and protect the boat through the river encounter.",
+            "pt": "Siga a travessia de Irish e proteja o barco durante o confronto no rio."
+          }
+        }
+      ]
+    },
+    {
+      "key": "nuevo-paraiso-ricketts-and-army",
+      "title": "Nuevo Paraíso: Ricketts and the army",
+      "title_i18n": {
+        "en": "Nuevo Paraíso: Ricketts and the army",
+        "pt": "Nuevo Paraíso: Ricketts e o exército"
+      },
+      "items": [
+        {
+          "key": "complete-the-gunslinger-s-tragedy",
+          "title": "The Gunslinger's Tragedy",
+          "title_i18n": {
+            "en": "The Gunslinger's Tragedy",
+            "pt": "Conclua The Gunslinger's Tragedy"
+          },
+          "description": "Meet Landon Ricketts and practice the new shooting lesson.",
+          "description_i18n": {
+            "en": "Meet Landon Ricketts and practice the new shooting lesson.",
+            "pt": "Encontre Landon Ricketts e pratique a nova lição de tiro."
+          }
+        },
+        {
+          "key": "complete-landon-ricketts-rides-again",
+          "title": "Landon Ricketts Rides Again",
+          "title_i18n": {
+            "en": "Landon Ricketts Rides Again",
+            "pt": "Conclua Landon Ricketts Rides Again"
+          },
+          "description": "Accompany Landon and protect the rescue route through the guarded passages.",
+          "description_i18n": {
+            "en": "Accompany Landon and protect the rescue route through the guarded passages.",
+            "pt": "Acompanhe Landon e proteja a rota de resgate pelas passagens vigiadas."
+          }
+        },
+        {
+          "key": "complete-lucky-in-love",
+          "title": "Lucky in Love",
+          "title_i18n": {
+            "en": "Lucky in Love",
+            "pt": "Conclua Lucky in Love"
+          },
+          "description": "Follow the poker encounter and respond carefully when its rules change.",
+          "description_i18n": {
+            "en": "Follow the poker encounter and respond carefully when its rules change.",
+            "pt": "Acompanhe o encontro de pôquer e reaja com cuidado quando as regras mudarem."
+          }
+        },
+        {
+          "key": "complete-the-mexican-wagon-train",
+          "title": "The Mexican Wagon Train",
+          "title_i18n": {
+            "en": "The Mexican Wagon Train",
+            "pt": "Conclua The Mexican Wagon Train"
+          },
+          "description": "Intercept the convoy and deliver its passengers along the marked route.",
+          "description_i18n": {
+            "en": "Intercept the convoy and deliver its passengers along the marked route.",
+            "pt": "Intercepte o comboio e leve os passageiros pela rota indicada."
+          }
+        },
+        {
+          "key": "complete-civilization-at-any-price",
+          "title": "Civilization, at Any Price",
+          "title_i18n": {
+            "en": "Civilization, at Any Price",
+            "pt": "Conclua Civilization, at Any Price"
+          },
+          "description": "Meet de Santa and complete the train escort through contested territory.",
+          "description_i18n": {
+            "en": "Meet de Santa and complete the train escort through contested territory.",
+            "pt": "Encontre de Santa e conclua a escolta do trem pelo território disputado."
+          }
+        },
+        {
+          "key": "complete-the-demon-drink",
+          "title": "The Demon Drink",
+          "title_i18n": {
+            "en": "The Demon Drink",
+            "pt": "Conclua The Demon Drink"
+          },
+          "description": "Follow the military assignment and protect yourself through its escalating objectives.",
+          "description_i18n": {
+            "en": "Follow the military assignment and protect yourself through its escalating objectives.",
+            "pt": "Siga a tarefa militar e proteja-se durante a escalada dos objetivos."
+          }
+        },
+        {
+          "key": "complete-empty-promises",
+          "title": "Empty Promises",
+          "title_i18n": {
+            "en": "Empty Promises",
+            "pt": "Conclua Empty Promises"
+          },
+          "description": "Advance through the fortified position using the supplied ranged weapon effectively.",
+          "description_i18n": {
+            "en": "Advance through the fortified position using the supplied ranged weapon effectively.",
+            "pt": "Avance pela posição fortificada usando bem a arma de longo alcance fornecida."
+          }
+        },
+        {
+          "key": "complete-mexican-caesar",
+          "title": "Mexican Caesar",
+          "title_i18n": {
+            "en": "Mexican Caesar",
+            "pt": "Conclua Mexican Caesar"
+          },
+          "description": "Defend the moving train and prioritize threats near its route.",
+          "description_i18n": {
+            "en": "Defend the moving train and prioritize threats near its route.",
+            "pt": "Defenda o trem em movimento e priorize as ameaças próximas ao trajeto."
+          }
+        },
+        {
+          "key": "practice-dueling-before-late-encounters",
+          "title": "Practice the duel interface",
+          "title_i18n": {
+            "en": "Practice the duel interface",
+            "pt": "Pratique a interface dos duelos"
+          },
+          "description": "Read the draw and marking prompts instead of treating a duel like ordinary free aiming.",
+          "description_i18n": {
+            "en": "Read the draw and marking prompts instead of treating a duel like ordinary free aiming.",
+            "pt": "Leia as instruções de saque e marcação em vez de tratar o duelo como a mira livre comum."
+          },
+          "details": "Wait for the draw prompt, bring the aim onto a valid target and mark shots when the reticle contracts and turns white. Those accurate marks add more to your duel meter than rushed red-reticle shots. Your meter must beat the opponent’s by the time the sequence resolves. Some optional duels allow a weapon-hand disarm, but story confrontations can require a lethal resolution; do not assume a disarm works in every scripted duel.",
+          "details_i18n": {
+            "en": "Wait for the draw prompt, bring the aim onto a valid target and mark shots when the reticle contracts and turns white. Those accurate marks add more to your duel meter than rushed red-reticle shots. Your meter must beat the opponent’s by the time the sequence resolves. Some optional duels allow a weapon-hand disarm, but story confrontations can require a lethal resolution; do not assume a disarm works in every scripted duel.",
+            "pt": "Espere a instrução para sacar, leve a mira até um alvo válido e marque os disparos quando ela encolher e ficar branca. Essas marcações precisas acrescentam mais à barra do duelo que disparos apressados com a mira vermelha. Sua barra precisa superar a do adversário quando a sequência terminar. Alguns duelos opcionais permitem desarmar pela mão da arma, mas confrontos da história podem exigir uma resolução letal; não presuma que desarmar funcione em todo duelo roteirizado."
+          }
+        },
+        {
+          "key": "check-mexico-thread-markers",
+          "title": "Check the Mexico mission markers",
+          "title_i18n": {
+            "en": "Check the Mexico mission markers",
+            "pt": "Confira as marcações de missões do México"
+          },
+          "description": "Switch between available contacts when another thread is waiting for progress.",
+          "description_i18n": {
+            "en": "Switch between available contacts when another thread is waiting for progress.",
+            "pt": "Alterne entre os contatos disponíveis quando outra frente estiver aguardando progresso."
+          }
+        }
+      ]
+    },
+    {
+      "key": "nuevo-paraiso-luisa-and-reyes",
+      "title": "Nuevo Paraíso: Luisa and Reyes",
+      "title_i18n": {
+        "en": "Nuevo Paraíso: Luisa and Reyes",
+        "pt": "Nuevo Paraíso: Luisa e Reyes"
+      },
+      "items": [
+        {
+          "key": "complete-my-sister-s-keeper",
+          "title": "My Sister's Keeper",
+          "title_i18n": {
+            "en": "My Sister's Keeper",
+            "pt": "Conclua My Sister's Keeper"
+          },
+          "description": "Drive the escape route and protect the wagon from pursuers.",
+          "description_i18n": {
+            "en": "Drive the escape route and protect the wagon from pursuers.",
+            "pt": "Percorra a rota de fuga e proteja a carroça dos perseguidores."
+          }
+        },
+        {
+          "key": "complete-must-a-savior-die",
+          "title": "Must a Savior Die?",
+          "title_i18n": {
+            "en": "Must a Savior Die?",
+            "pt": "Conclua Must a Savior Die?"
+          },
+          "description": "Approach the rescue position and follow the objective prompts during the escape.",
+          "description_i18n": {
+            "en": "Approach the rescue position and follow the objective prompts during the escape.",
+            "pt": "Alcance a posição de resgate e siga as instruções durante a fuga."
+          }
+        },
+        {
+          "key": "complete-cowards-die-many-times",
+          "title": "Cowards Die Many Times",
+          "title_i18n": {
+            "en": "Cowards Die Many Times",
+            "pt": "Conclua Cowards Die Many Times"
+          },
+          "description": "Meet the military contact when available and survive the developing confrontation.",
+          "description_i18n": {
+            "en": "Meet the military contact when available and survive the developing confrontation.",
+            "pt": "Encontre o contato militar quando disponível e sobreviva ao confronto que se desenvolve."
+          }
+        },
+        {
+          "key": "complete-father-abraham",
+          "title": "Father Abraham",
+          "title_i18n": {
+            "en": "Father Abraham",
+            "pt": "Conclua Father Abraham"
+          },
+          "description": "Prepare the road encounter and coordinate its timed objective with Luisa.",
+          "description_i18n": {
+            "en": "Prepare the road encounter and coordinate its timed objective with Luisa.",
+            "pt": "Prepare o encontro na estrada e coordene o objetivo cronometrado com Luisa."
+          }
+        },
+        {
+          "key": "complete-captain-de-santa-s-downfall",
+          "title": "Captain De Santa's Downfall",
+          "title_i18n": {
+            "en": "Captain De Santa's Downfall",
+            "pt": "Conclua Captain De Santa's Downfall"
+          },
+          "description": "Follow the pursuit and complete the information-gathering objective.",
+          "description_i18n": {
+            "en": "Follow the pursuit and complete the information-gathering objective.",
+            "pt": "Acompanhe a perseguição e conclua o objetivo de coleta de informações."
+          }
+        },
+        {
+          "key": "complete-the-great-mexican-train-robbery",
+          "title": "The Great Mexican Train Robbery",
+          "title_i18n": {
+            "en": "The Great Mexican Train Robbery",
+            "pt": "Conclua The Great Mexican Train Robbery"
+          },
+          "description": "Join Reyes's operation and secure the train's required cargo.",
+          "description_i18n": {
+            "en": "Join Reyes's operation and secure the train's required cargo.",
+            "pt": "Participe da operação de Reyes e recupere a carga necessária do trem."
+          }
+        },
+        {
+          "key": "complete-the-gates-of-el-presidio",
+          "title": "The Gates of El Presidio",
+          "title_i18n": {
+            "en": "The Gates of El Presidio",
+            "pt": "Conclua The Gates of El Presidio"
+          },
+          "description": "Enter the fortified objective and follow the pursuit through its final stage.",
+          "description_i18n": {
+            "en": "Enter the fortified objective and follow the pursuit through its final stage.",
+            "pt": "Entre no objetivo fortificado e acompanhe a perseguição até a última etapa."
+          }
+        },
+        {
+          "key": "complete-an-appointed-time",
+          "title": "An Appointed Time",
+          "title_i18n": {
+            "en": "An Appointed Time",
+            "pt": "Conclua An Appointed Time"
+          },
+          "description": "Complete the regional climax and follow the new lead into West Elizabeth.",
+          "description_i18n": {
+            "en": "Complete the regional climax and follow the new lead into West Elizabeth.",
+            "pt": "Conclua o ponto culminante da região e siga a nova pista até West Elizabeth."
+          }
+        },
+        {
+          "key": "restock-after-mexico-climax",
+          "title": "Restock after the regional climax",
+          "title_i18n": {
+            "en": "Restock after the regional climax",
+            "pt": "Reabasteça após o confronto regional"
+          },
+          "description": "Save and replenish medicine and ammunition before following the northern route.",
+          "description_i18n": {
+            "en": "Save and replenish medicine and ammunition before following the northern route.",
+            "pt": "Salve e reponha remédios e munição antes de seguir a rota ao norte."
+          }
+        }
+      ]
+    },
+    {
+      "key": "west-elizabeth-investigation",
+      "title": "West Elizabeth investigation",
+      "title_i18n": {
+        "en": "West Elizabeth investigation",
+        "pt": "Investigação em West Elizabeth"
+      },
+      "items": [
+        {
+          "key": "complete-bear-one-another-s-burdens",
+          "title": "Bear One Another's Burdens",
+          "title_i18n": {
+            "en": "Bear One Another's Burdens",
+            "pt": "Conclua Bear One Another's Burdens"
+          },
+          "description": "Follow the agents to the riverboat and protect the retreating party.",
+          "description_i18n": {
+            "en": "Follow the agents to the riverboat and protect the retreating party.",
+            "pt": "Acompanhe os agentes até o barco e proteja a retirada do grupo."
+          }
+        },
+        {
+          "key": "complete-great-men-are-not-always-wise",
+          "title": "Great Men Are Not Always Wise",
+          "title_i18n": {
+            "en": "Great Men Are Not Always Wise",
+            "pt": "Conclua Great Men Are Not Always Wise"
+          },
+          "description": "Respond to Blackwater's emergency and maintain awareness of civilians and allies.",
+          "description_i18n": {
+            "en": "Respond to Blackwater's emergency and maintain awareness of civilians and allies.",
+            "pt": "Atenda à emergência de Blackwater e preste atenção aos civis e aliados."
+          }
+        },
+        {
+          "key": "complete-at-home-with-dutch",
+          "title": "At Home with Dutch",
+          "title_i18n": {
+            "en": "At Home with Dutch",
+            "pt": "Conclua At Home with Dutch"
+          },
+          "description": "Accompany Nastas through the wilderness and inspect the guarded mountain approach.",
+          "description_i18n": {
+            "en": "Accompany Nastas through the wilderness and inspect the guarded mountain approach.",
+            "pt": "Acompanhe Nastas pela mata e examine a aproximação vigiada da montanha."
+          }
+        },
+        {
+          "key": "complete-for-purely-scientific-purposes",
+          "title": "For Purely Scientific Purposes",
+          "title_i18n": {
+            "en": "For Purely Scientific Purposes",
+            "pt": "Conclua For Purely Scientific Purposes"
+          },
+          "description": "Escort the expedition and react to the meeting's changing circumstances.",
+          "description_i18n": {
+            "en": "Escort the expedition and react to the meeting's changing circumstances.",
+            "pt": "Escolte a expedição e reaja às mudanças nas circunstâncias do encontro."
+          }
+        },
+        {
+          "key": "complete-the-prodigal-son-returns-to-yale",
+          "title": "The Prodigal Son Returns (to Yale)",
+          "title_i18n": {
+            "en": "The Prodigal Son Returns (to Yale)",
+            "pt": "Conclua The Prodigal Son Returns (to Yale)"
+          },
+          "description": "Protect the escape through town and complete the mounted departure.",
+          "description_i18n": {
+            "en": "Protect the escape through town and complete the mounted departure.",
+            "pt": "Proteja a fuga pela cidade e conclua a partida a cavalo."
+          }
+        },
+        {
+          "key": "complete-and-you-will-know-the-truth",
+          "title": "And You Will Know the Truth",
+          "title_i18n": {
+            "en": "And You Will Know the Truth",
+            "pt": "Conclua And You Will Know the Truth"
+          },
+          "description": "Take part in the larger assault and protect your firing position.",
+          "description_i18n": {
+            "en": "Take part in the larger assault and protect your firing position.",
+            "pt": "Participe do ataque de maior escala e proteja sua posição de tiro."
+          }
+        },
+        {
+          "key": "complete-and-the-truth-will-set-you-free",
+          "title": "And the Truth Will Set You Free",
+          "title_i18n": {
+            "en": "And the Truth Will Set You Free",
+            "pt": "Conclua And the Truth Will Set You Free"
+          },
+          "description": "Finish the mountain operation and follow the return journey.",
+          "description_i18n": {
+            "en": "Finish the mountain operation and follow the return journey.",
+            "pt": "Conclua a operação na montanha e acompanhe a viagem de volta."
+          }
+        },
+        {
+          "key": "prepare-for-tall-trees-wildlife",
+          "title": "Prepare for Tall Trees wildlife",
+          "title_i18n": {
+            "en": "Prepare for Tall Trees wildlife",
+            "pt": "Prepare-se para a fauna de Tall Trees"
+          },
+          "description": "Travel with medicine ready and keep the horse away from sudden predator encounters.",
+          "description_i18n": {
+            "en": "Travel with medicine ready and keep the horse away from sudden predator encounters.",
+            "pt": "Viaje com remédios preparados e mantenha o cavalo longe de encontros inesperados com predadores."
+          }
+        },
+        {
+          "key": "protect-escort-spacing",
+          "title": "Protect escort spacing",
+          "title_i18n": {
+            "en": "Protect escort spacing",
+            "pt": "Cuide da distância durante escoltas"
+          },
+          "description": "Stay close enough to defend companions without blocking their movement through narrow exits.",
+          "description_i18n": {
+            "en": "Stay close enough to defend companions without blocking their movement through narrow exits.",
+            "pt": "Fique perto o bastante para defender os companheiros sem bloquear passagens estreitas."
+          }
+        }
+      ]
+    },
+    {
+      "key": "beechers-hope-and-main-story-ending",
+      "title": "Beecher's Hope and the story ending",
+      "title_i18n": {
+        "en": "Beecher's Hope and the story ending",
+        "pt": "Beecher’s Hope e o desfecho da história"
+      },
+      "items": [
+        {
+          "key": "complete-the-outlaw-s-return",
+          "title": "The Outlaw's Return",
+          "title_i18n": {
+            "en": "The Outlaw's Return",
+            "pt": "Conclua The Outlaw's Return"
+          },
+          "description": "Complete the homecoming assignment and guide the new herd safely.",
+          "description_i18n": {
+            "en": "Complete the homecoming assignment and guide the new herd safely.",
+            "pt": "Conclua a tarefa da volta para casa e conduza o novo rebanho em segurança."
+          }
+        },
+        {
+          "key": "complete-pestilence",
+          "title": "Pestilence",
+          "title_i18n": {
+            "en": "Pestilence",
+            "pt": "Conclua Pestilence"
+          },
+          "description": "Protect the crop while checking the mission's remaining target indicator.",
+          "description_i18n": {
+            "en": "Protect the crop while checking the mission's remaining target indicator.",
+            "pt": "Proteja a plantação observando o indicador de alvos restantes da missão."
+          }
+        },
+        {
+          "key": "complete-old-friends-new-problems",
+          "title": "Old Friends, New Problems",
+          "title_i18n": {
+            "en": "Old Friends, New Problems",
+            "pt": "Conclua Old Friends, New Problems"
+          },
+          "description": "Deliver the supplies and finish the return trip within the mission's conditions.",
+          "description_i18n": {
+            "en": "Deliver the supplies and finish the return trip within the mission's conditions.",
+            "pt": "Entregue os suprimentos e conclua a viagem de volta cumprindo as condições da missão."
+          }
+        },
+        {
+          "key": "complete-by-sweat-and-toil",
+          "title": "By Sweat and Toil",
+          "title_i18n": {
+            "en": "By Sweat and Toil",
+            "pt": "Conclua By Sweat and Toil"
+          },
+          "description": "Work with Uncle and keep the cattle together through the route's disturbance.",
+          "description_i18n": {
+            "en": "Work with Uncle and keep the cattle together through the route's disturbance.",
+            "pt": "Trabalhe com Uncle e mantenha o gado unido durante o imprevisto do percurso."
+          }
+        },
+        {
+          "key": "complete-a-continual-feast",
+          "title": "A Continual Feast",
+          "title_i18n": {
+            "en": "A Continual Feast",
+            "pt": "Conclua A Continual Feast"
+          },
+          "description": "Follow the horse-catching assignment and return the requested animals.",
+          "description_i18n": {
+            "en": "Follow the horse-catching assignment and return the requested animals.",
+            "pt": "Siga a tarefa de captura de cavalos e devolva os animais solicitados."
+          }
+        },
+        {
+          "key": "complete-john-marston-and-son",
+          "title": "John Marston and Son",
+          "title_i18n": {
+            "en": "John Marston and Son",
+            "pt": "Conclua John Marston and Son"
+          },
+          "description": "Accompany the hunting lesson and complete the tracking and return objectives.",
+          "description_i18n": {
+            "en": "Accompany the hunting lesson and complete the tracking and return objectives.",
+            "pt": "Acompanhe a lição de caça e conclua os objetivos de rastreamento e retorno."
+          }
+        },
+        {
+          "key": "complete-wolves-dogs-and-sons",
+          "title": "Wolves, Dogs and Sons",
+          "title_i18n": {
+            "en": "Wolves, Dogs and Sons",
+            "pt": "Conclua Wolves, Dogs and Sons"
+          },
+          "description": "Follow the trail promptly and protect your companion during the encounter.",
+          "description_i18n": {
+            "en": "Follow the trail promptly and protect your companion during the encounter.",
+            "pt": "Siga o rastro sem demora e proteja seu companheiro durante o encontro."
+          }
+        },
+        {
+          "key": "complete-spare-the-love-spoil-the-child",
+          "title": "Spare the Love, Spoil the Child",
+          "title_i18n": {
+            "en": "Spare the Love, Spoil the Child",
+            "pt": "Conclua Spare the Love, Spoil the Child"
+          },
+          "description": "Respond to the urgent search and handle the dangerous encounter carefully.",
+          "description_i18n": {
+            "en": "Respond to the urgent search and handle the dangerous encounter carefully.",
+            "pt": "Atenda à busca urgente e lide com cuidado com o encontro perigoso."
+          }
+        },
+        {
+          "key": "complete-the-last-enemy-that-shall-be-destroyed",
+          "title": "The Last Enemy That Shall Be Destroyed",
+          "title_i18n": {
+            "en": "The Last Enemy That Shall Be Destroyed",
+            "pt": "Conclua The Last Enemy That Shall Be Destroyed"
+          },
+          "description": "Complete the final ranch sequence and continue through the ensuing transition.",
+          "description_i18n": {
+            "en": "Complete the final ranch sequence and continue through the ensuing transition.",
+            "pt": "Conclua a sequência final do rancho e prossiga pela transição seguinte."
+          }
+        },
+        {
+          "key": "save-before-final-ranch-sequence",
+          "title": "Save before the final ranch sequence",
+          "title_i18n": {
+            "en": "Save before the final ranch sequence",
+            "pt": "Salve antes da sequência final do rancho"
+          },
+          "description": "Keep a separate save if you want to revisit John-specific optional material.",
+          "description_i18n": {
+            "en": "Keep a separate save if you want to revisit John-specific optional material.",
+            "pt": "Mantenha um salvamento separado se quiser revisitar o conteúdo opcional exclusivo de John."
+          }
+        },
+        {
+          "key": "begin-remember-my-family",
+          "title": "Begin Remember My Family",
+          "title_i18n": {
+            "en": "Begin Remember My Family",
+            "pt": "Inicie Remember My Family"
+          },
+          "description": "After the main-story transition, seek the new Stranger lead in Blackwater.",
+          "description_i18n": {
+            "en": "After the main-story transition, seek the new Stranger lead in Blackwater.",
+            "pt": "Após a transição da história principal, procure a nova pista de Stranger em Blackwater."
+          }
+        },
+        {
+          "key": "complete-remember-my-family",
+          "title": "Complete Remember My Family",
+          "title_i18n": {
+            "en": "Complete Remember My Family",
+            "pt": "Conclua Remember My Family"
+          },
+          "description": "Follow the full investigation and its final encounter to reach the closing credits.",
+          "description_i18n": {
+            "en": "Follow the full investigation and its final encounter to reach the closing credits.",
+            "pt": "Siga toda a investigação e seu encontro final para chegar aos créditos de encerramento."
+          },
+          "details": "This Stranger thread opens after the final main-story transition and supplies the closing encounter and credits. Start with the question-mark lead in Blackwater, then follow the successive conversations rather than searching every ranch at random. Continue until the final duel has been resolved; merely speaking to the first contact does not complete the ending. Keep a separate save if you want to revisit the final confrontation or compare your unfinished completion ledger afterward.",
+          "details_i18n": {
+            "en": "This Stranger thread opens after the final main-story transition and supplies the closing encounter and credits. Start with the question-mark lead in Blackwater, then follow the successive conversations rather than searching every ranch at random. Continue until the final duel has been resolved; merely speaking to the first contact does not complete the ending. Keep a separate save if you want to revisit the final confrontation or compare your unfinished completion ledger afterward.",
+            "pt": "Esta tarefa de Stranger abre após a transição final da história principal e leva ao confronto de encerramento e aos créditos. Comece pela pista marcada com interrogação em Blackwater e siga as conversas sucessivas em vez de procurar aleatoriamente por todos os ranchos. Continue até resolver o duelo final; falar apenas com o primeiro contato não conclui o desfecho. Mantenha um arquivo separado se quiser revisitar o confronto ou comparar o registro de conclusão restante depois."
+          }
+        },
+        {
+          "key": "review-poststory-free-roam",
+          "title": "Review post-story free roam",
+          "title_i18n": {
+            "en": "Review post-story free roam",
+            "pt": "Revise a exploração após a história"
+          },
+          "description": "Use the remaining free-roam time for optional progress and the base-game completion ledger.",
+          "description_i18n": {
+            "en": "Use the remaining free-roam time for optional progress and the base-game completion ledger.",
+            "pt": "Use a exploração restante para avançar nos opcionais e no registro de conclusão do jogo base."
+          }
+        }
+      ]
+    },
+    {
+      "key": "selected-new-austin-strangers",
+      "title": "Selected New Austin Strangers",
+      "title_i18n": {
+        "en": "Selected New Austin Strangers",
+        "pt": "Strangers selecionados de New Austin"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "stranger-american-appetites",
+          "title": "American Appetites",
+          "title_i18n": {
+            "en": "American Appetites",
+            "pt": "Investigue American Appetites"
+          },
+          "description": "Check the Armadillo Stranger marker and return as its successive requests become available.",
+          "description_i18n": {
+            "en": "Check the Armadillo Stranger marker and return as its successive requests become available.",
+            "pt": "Confira a marcação de Stranger em Armadillo e volte conforme os pedidos seguintes aparecerem."
+          }
+        },
+        {
+          "key": "stranger-water-and-honesty",
+          "title": "Water and Honesty",
+          "title_i18n": {
+            "en": "Water and Honesty",
+            "pt": "Investigue Water and Honesty"
+          },
+          "description": "Meet the traveler on the road and follow the property-related request to its resolution.",
+          "description_i18n": {
+            "en": "Meet the traveler on the road and follow the property-related request to its resolution.",
+            "pt": "Encontre o viajante na estrada e acompanhe o pedido sobre a propriedade até sua resolução."
+          }
+        },
+        {
+          "key": "stranger-jennys-faith",
+          "title": "Jenny's Faith",
+          "title_i18n": {
+            "en": "Jenny's Faith",
+            "pt": "Ajude em Jenny’s Faith"
+          },
+          "description": "Find Jenny in the wilderness and respond to her need for medical help.",
+          "description_i18n": {
+            "en": "Find Jenny in the wilderness and respond to her need for medical help.",
+            "pt": "Encontre Jenny no deserto e atenda ao pedido de ajuda médica."
+          }
+        },
+        {
+          "key": "stranger-flowers-for-a-lady",
+          "title": "Flowers for a Lady",
+          "title_i18n": {
+            "en": "Flowers for a Lady",
+            "pt": "Ajude em Flowers for a Lady"
+          },
+          "description": "Speak with the requester and gather the flower types listed in the journal.",
+          "description_i18n": {
+            "en": "Speak with the requester and gather the flower types listed in the journal.",
+            "pt": "Fale com o solicitante e reúna os tipos de flores indicados no diário."
+          }
+        },
+        {
+          "key": "stranger-lights-camera-action",
+          "title": "Lights, Camera, Action",
+          "title_i18n": {
+            "en": "Lights, Camera, Action",
+            "pt": "Ajude em Lights, Camera, Action"
+          },
+          "description": "Follow the filmmaker's requests and revisit the thread after its waiting periods.",
+          "description_i18n": {
+            "en": "Follow the filmmaker's requests and revisit the thread after its waiting periods.",
+            "pt": "Siga os pedidos do cineasta e retome a tarefa após os períodos de espera."
+          }
+        },
+        {
+          "key": "stranger-i-know-you-john-only",
+          "title": "I Know You: John-only optional thread",
+          "title_i18n": {
+            "en": "I Know You: John-only optional thread",
+            "pt": "I Know You: tarefa opcional exclusiva de John"
+          },
+          "description": "Investigate this thread before John's final transition; it is excluded from base 100% completion.",
+          "description_i18n": {
+            "en": "Investigate this thread before John's final transition; it is excluded from base 100% completion.",
+            "pt": "Investigue esta tarefa antes da transição final de John; ela não é exigida para os 100% do jogo base."
+          },
+          "details": "The three-part thread follows John’s progress across the regions and cannot be finished by the post-story protagonist. Begin it while John is available and revisit the next question-mark marker after the relevant story progress and waiting time. Keep a John-era save if you want to return to it later. It contributes no percentage to the base-game 100% statistic, so missing it does not block Redeemed. Treat it as an optional character encounter rather than a required completion task.",
+          "details_i18n": {
+            "en": "The three-part thread follows John’s progress across the regions and cannot be finished by the post-story protagonist. Begin it while John is available and revisit the next question-mark marker after the relevant story progress and waiting time. Keep a John-era save if you want to return to it later. It contributes no percentage to the base-game 100% statistic, so missing it does not block Redeemed. Treat it as an optional character encounter rather than a required completion task.",
+            "pt": "As três partes desta tarefa acompanham o avanço de John pelas regiões e não podem ser concluídas pelo protagonista após a história. Comece enquanto John estiver disponível e volte à próxima interrogação após avançar na história e aguardar o tempo necessário. Guarde um arquivo dessa fase caso queira revisitar a tarefa. Ela não acrescenta porcentagem aos 100% do jogo base; perdê-la não impede Redeemed. Considere-a um encontro opcional de personagem, não uma tarefa obrigatória de conclusão."
+          }
+        }
+      ]
+    },
+    {
+      "key": "selected-mexico-and-northern-strangers",
+      "title": "Selected Mexico and northern Strangers",
+      "title_i18n": {
+        "en": "Selected Mexico and northern Strangers",
+        "pt": "Strangers selecionados do México e do norte"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "stranger-aztec-gold",
+          "title": "Aztec Gold",
+          "title_i18n": {
+            "en": "Aztec Gold",
+            "pt": "Investigue Aztec Gold"
+          },
+          "description": "Follow the treasure-seeker's requests through the successive search sites.",
+          "description_i18n": {
+            "en": "Follow the treasure-seeker's requests through the successive search sites.",
+            "pt": "Acompanhe os pedidos do caçador de tesouros pelos locais de busca sucessivos."
+          }
+        },
+        {
+          "key": "stranger-eva-in-peril",
+          "title": "Eva in Peril",
+          "title_i18n": {
+            "en": "Eva in Peril",
+            "pt": "Investigue Eva in Peril"
+          },
+          "description": "Follow Eva's request and revisit its next stage when the marker returns.",
+          "description_i18n": {
+            "en": "Follow Eva's request and revisit its next stage when the marker returns.",
+            "pt": "Siga o pedido de Eva e retome a próxima etapa quando a marcação voltar."
+          }
+        },
+        {
+          "key": "stranger-love-is-the-opiate",
+          "title": "Love is the Opiate",
+          "title_i18n": {
+            "en": "Love is the Opiate",
+            "pt": "Ajude em Love is the Opiate"
+          },
+          "description": "Read the unusual horse request carefully and bring the specified animal.",
+          "description_i18n": {
+            "en": "Read the unusual horse request carefully and bring the specified animal.",
+            "pt": "Leia com cuidado o pedido incomum envolvendo um cavalo e leve o animal especificado."
+          }
+        },
+        {
+          "key": "stranger-daedalus-and-son",
+          "title": "Deadalus and Son",
+          "title_i18n": {
+            "en": "Deadalus and Son",
+            "pt": "Ajude em Deadalus and Son"
+          },
+          "description": "Gather the requested materials and return to the inventor when ready.",
+          "description_i18n": {
+            "en": "Gather the requested materials and return to the inventor when ready.",
+            "pt": "Reúna os materiais solicitados e volte ao inventor quando estiver preparado."
+          }
+        },
+        {
+          "key": "stranger-american-lobbyist",
+          "title": "American Lobbyist",
+          "title_i18n": {
+            "en": "American Lobbyist",
+            "pt": "Investigue American Lobbyist"
+          },
+          "description": "Visit the Blackwater contact and complete the marked persuasion objective.",
+          "description_i18n": {
+            "en": "Visit the Blackwater contact and complete the marked persuasion objective.",
+            "pt": "Visite o contato em Blackwater e conclua o objetivo indicado de persuasão."
+          }
+        },
+        {
+          "key": "stranger-the-prohibitionist",
+          "title": "The Prohibitionist",
+          "title_i18n": {
+            "en": "The Prohibitionist",
+            "pt": "Investigue The Prohibitionist"
+          },
+          "description": "Follow the Blackwater dispute and resolve the choice presented by its contacts.",
+          "description_i18n": {
+            "en": "Follow the Blackwater dispute and resolve the choice presented by its contacts.",
+            "pt": "Acompanhe a disputa em Blackwater e resolva a escolha apresentada pelos contatos."
+          }
+        }
+      ]
+    },
+    {
+      "key": "base-game-completion-ledger",
+      "title": "Base-game completion ledger",
+      "title_i18n": {
+        "en": "Base-game completion ledger",
+        "pt": "Registro de conclusão do jogo base"
+      },
+      "kind": "collectible",
+      "items": [
+        {
+          "key": "verify-fifty-seven-story-missions",
+          "title": "Verify all 57 story missions",
+          "title_i18n": {
+            "en": "Verify all 57 story missions",
+            "pt": "Confira as 57 missões da história"
+          },
+          "description": "Review the mission record for any missing base-campaign entry.",
+          "description_i18n": {
+            "en": "Review the mission record for any missing base-campaign entry.",
+            "pt": "Revise o registro de missões em busca de qualquer tarefa da campanha principal ausente."
+          }
+        },
+        {
+          "key": "complete-eighteen-required-strangers",
+          "title": "Complete the 18 required Stranger threads",
+          "title_i18n": {
+            "en": "Complete the 18 required Stranger threads",
+            "pt": "Conclua as 18 tarefas de Stranger exigidas"
+          },
+          "description": "Use the full completion ledger; the selected tasks above are not an exhaustive Stranger checklist.",
+          "description_i18n": {
+            "en": "Use the full completion ledger; the selected tasks above are not an exhaustive Stranger checklist.",
+            "pt": "Use o registro completo de conclusão; as tarefas selecionadas acima não enumeram todos os Strangers."
+          }
+        },
+        {
+          "key": "discover-ninety-four-locations",
+          "title": "Discover all 94 map locations",
+          "title_i18n": {
+            "en": "Discover all 94 map locations",
+            "pt": "Descubra os 94 locais do mapa"
+          },
+          "description": "Explore and use regional maps to fill the base-game location record.",
+          "description_i18n": {
+            "en": "Explore and use regional maps to fill the base-game location record.",
+            "pt": "Explore e use mapas regionais para preencher o registro de locais do jogo base."
+          }
+        },
+        {
+          "key": "complete-twenty-bounty-locations",
+          "title": "Complete the 20 bounty locations",
+          "title_i18n": {
+            "en": "Complete the 20 bounty locations",
+            "pt": "Conclua os 20 locais de recompensas"
+          },
+          "description": "Track eight New Austin, eight Mexico and four West Elizabeth locations, not merely twenty posters.",
+          "description_i18n": {
+            "en": "Track eight New Austin, eight Mexico and four West Elizabeth locations, not merely twenty posters.",
+            "pt": "Acompanhe oito locais de New Austin, oito do México e quatro de West Elizabeth, não apenas vinte cartazes."
+          },
+          "details": "Completion tracks where bounty targets are found, not simply the number of posters accepted. Aim for eight distinct New Austin locations, eight in Nuevo Paraíso and four in West Elizabeth. Read the location on each poster before riding out and check the regional bounty statistics afterward. Repeating targets in a location you have already credited can earn money without advancing the required total. A change of wanted person alone does not guarantee a new completion location.",
+          "details_i18n": {
+            "en": "Completion tracks where bounty targets are found, not simply the number of posters accepted. Aim for eight distinct New Austin locations, eight in Nuevo Paraíso and four in West Elizabeth. Read the location on each poster before riding out and check the regional bounty statistics afterward. Repeating targets in a location you have already credited can earn money without advancing the required total. A change of wanted person alone does not guarantee a new completion location.",
+            "pt": "A conclusão acompanha os locais onde os procurados são encontrados, não apenas a quantidade de cartazes aceitos. Busque oito locais distintos em New Austin, oito em Nuevo Paraíso e quatro em West Elizabeth. Leia o local indicado em cada cartaz antes de partir e confira as estatísticas regionais depois. Repetir alvos num local já registrado pode render dinheiro sem avançar a contagem exigida. A simples troca do nome do procurado não garante um novo local para a conclusão."
+          }
+        },
+        {
+          "key": "clear-seven-required-hideouts",
+          "title": "Clear the seven required hideouts",
+          "title_i18n": {
+            "en": "Clear the seven required hideouts",
+            "pt": "Conclua os sete esconderijos exigidos"
+          },
+          "description": "Track the original seven gang hideouts; Solomon's Folly is outside this base 100% set.",
+          "description_i18n": {
+            "en": "Track the original seven gang hideouts; Solomon's Folly is outside this base 100% set.",
+            "pt": "Acompanhe os sete esconderijos de gangues originais; Solomon’s Folly não integra esse conjunto dos 100%."
+          }
+        },
+        {
+          "key": "buy-five-rare-weapons",
+          "title": "Buy the five rare weapons",
+          "title_i18n": {
+            "en": "Buy the five rare weapons",
+            "pt": "Compre as cinco armas raras"
+          },
+          "description": "Purchase the required guns as their shops and story conditions become available.",
+          "description_i18n": {
+            "en": "Purchase the required guns as their shops and story conditions become available.",
+            "pt": "Compre as armas exigidas conforme as lojas e as condições da história forem liberadas."
+          }
+        },
+        {
+          "key": "complete-four-ambient-challenge-chains",
+          "title": "Finish all four ambient challenge chains",
+          "title_i18n": {
+            "en": "Finish all four ambient challenge chains",
+            "pt": "Conclua as quatro séries de desafios ambientais"
+          },
+          "description": "Reach rank ten in Sharpshooter, Survivalist, Master Hunter and Treasure Hunter.",
+          "description_i18n": {
+            "en": "Reach rank ten in Sharpshooter, Survivalist, Master Hunter and Treasure Hunter.",
+            "pt": "Alcance o nível dez em Sharpshooter, Survivalist, Master Hunter e Treasure Hunter."
+          },
+          "details": "Read the active rank before collecting or shooting: many challenge requirements count only while that rank is current. The four base chains are Sharpshooter, Survivalist, Master Hunter and Treasure Hunter, each ending at rank ten. Reserve difficult weapon-specific or predator objectives for a controlled setup with medicine and a nearby save. When a rank asks for several actions without reloading or changing equipment, stop once the counter advances and check the new rule before continuing.",
+          "details_i18n": {
+            "en": "Read the active rank before collecting or shooting: many challenge requirements count only while that rank is current. The four base chains are Sharpshooter, Survivalist, Master Hunter and Treasure Hunter, each ending at rank ten. Reserve difficult weapon-specific or predator objectives for a controlled setup with medicine and a nearby save. When a rank asks for several actions without reloading or changing equipment, stop once the counter advances and check the new rule before continuing.",
+            "pt": "Leia o nível ativo antes de coletar ou atirar: muitos requisitos só contam enquanto aquele nível está em andamento. As quatro séries básicas são Sharpshooter, Survivalist, Master Hunter e Treasure Hunter, cada uma terminando no nível dez. Deixe objetivos difíceis com armas específicas ou predadores para uma situação controlada, com remédios e um salvamento próximo. Quando um nível pedir várias ações sem recarregar ou trocar equipamento, pare assim que a contagem avançar e confira a nova regra antes de continuar."
+          }
+        },
+        {
+          "key": "complete-nine-original-outfits",
+          "title": "Complete the nine original outfit requirements",
+          "title_i18n": {
+            "en": "Complete the nine original outfit requirements",
+            "pt": "Conclua os requisitos dos nove trajes originais"
+          },
+          "description": "Review each required outfit's scraps and finish its listed activities.",
+          "description_i18n": {
+            "en": "Review each required outfit's scraps and finish its listed activities.",
+            "pt": "Confira os fragmentos de cada traje exigido e conclua as atividades indicadas."
+          }
+        },
+        {
+          "key": "buy-required-permanent-safehouses",
+          "title": "Buy the required permanent safehouses",
+          "title_i18n": {
+            "en": "Buy the required permanent safehouses",
+            "pt": "Compre os abrigos permanentes exigidos"
+          },
+          "description": "Buy the eight purchasable properties required for completion; rentals do not replace purchases.",
+          "description_i18n": {
+            "en": "Buy the eight purchasable properties required for completion; rentals do not replace purchases.",
+            "pt": "Compre as oito propriedades exigidas para a conclusão; aluguéis não substituem as compras."
+          }
+        },
+        {
+          "key": "complete-five-job-variants",
+          "title": "Complete all five job variants",
+          "title_i18n": {
+            "en": "Complete all five job variants",
+            "pt": "Conclua as cinco variantes de trabalho"
+          },
+          "description": "Finish horse breaking in both locations and nightwatch in all three locations.",
+          "description_i18n": {
+            "en": "Finish horse breaking in both locations and nightwatch in all three locations.",
+            "pt": "Conclua a doma de cavalos nos dois locais e a vigilância noturna nos três locais."
+          }
+        },
+        {
+          "key": "win-six-minigame-types",
+          "title": "Win the six minigame types",
+          "title_i18n": {
+            "en": "Win the six minigame types",
+            "pt": "Vença os seis tipos de minijogo"
+          },
+          "description": "Record a qualifying win in Poker, Blackjack, Liar's Dice, Horseshoes, Arm Wrestling and Five Finger Fillet.",
+          "description_i18n": {
+            "en": "Record a qualifying win in Poker, Blackjack, Liar's Dice, Horseshoes, Arm Wrestling and Five Finger Fillet.",
+            "pt": "Registre uma vitória válida em Poker, Blackjack, Liar’s Dice, Horseshoes, Arm Wrestling e Five Finger Fillet."
+          }
+        },
+        {
+          "key": "confirm-base-one-hundred-percent",
+          "title": "Confirm base-game 100%",
+          "title_i18n": {
+            "en": "Confirm base-game 100%",
+            "pt": "Confirme os 100% do jogo base"
+          },
+          "description": "Check the Game Completion statistic after finishing every required category.",
+          "description_i18n": {
+            "en": "Check the Game Completion statistic after finishing every required category.",
+            "pt": "Confira a estatística Game Completion após concluir todas as categorias exigidas."
+          },
+          "details": "Audit the ledger by category rather than repeating activities blindly. Required progress includes 57 story missions, 18 Stranger threads excluding I Know You, 94 map locations, twenty distinct bounty locations, seven original hideouts, five rare-weapon purchases, four rank-ten ambient chains, nine original outfits, eight purchased permanent safehouses, two horse-breaking jobs, three nightwatch jobs and wins in six minigame types. Story-awarded housing is separate from the purchases; rentals and Solomon’s Folly do not substitute for the listed requirements.",
+          "details_i18n": {
+            "en": "Audit the ledger by category rather than repeating activities blindly. Required progress includes 57 story missions, 18 Stranger threads excluding I Know You, 94 map locations, twenty distinct bounty locations, seven original hideouts, five rare-weapon purchases, four rank-ten ambient chains, nine original outfits, eight purchased permanent safehouses, two horse-breaking jobs, three nightwatch jobs and wins in six minigame types. Story-awarded housing is separate from the purchases; rentals and Solomon’s Folly do not substitute for the listed requirements.",
+            "pt": "Revise o registro por categoria em vez de repetir atividades sem verificar. O progresso exigido inclui 57 missões da história, 18 tarefas de Stranger excluindo I Know You, 94 locais, vinte locais distintos de recompensas, sete esconderijos originais, cinco compras de armas raras, quatro séries ambientais no nível dez, nove trajes originais, oito abrigos permanentes comprados, dois trabalhos de doma, três de vigilância noturna e vitórias nos seis tipos de minijogo. Moradias recebidas na história são separadas das compras; aluguéis e Solomon’s Folly não substituem os requisitos indicados."
+          }
+        }
+      ]
+    },
+    {
+      "key": "selected-offline-mastery-goals",
+      "title": "Selected offline mastery goals",
+      "title_i18n": {
+        "en": "Selected offline mastery goals",
+        "pt": "Metas selecionadas de domínio sem conexão"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "earn-first-gold-combat-medal",
+          "title": "Earn a gold combat-mission medal",
+          "title_i18n": {
+            "en": "Earn a gold combat-mission medal",
+            "pt": "Ganhe uma medalha de ouro em missão de combate"
+          },
+          "description": "Replay a suitable combat mission and review its medal criteria.",
+          "description_i18n": {
+            "en": "Replay a suitable combat mission and review its medal criteria.",
+            "pt": "Repita uma missão de combate adequada e confira os critérios da medalha."
+          },
+          "details": "Use mission replay and choose a short combat mission whose route you already understand. Review the recorded time, accuracy and headshots, then improve those criteria without wasting shots at covered targets. A travel-only race or noncombat mission is not the qualifying combat medal for this trophy. Dead Eye helps secure deliberate headshots, but repeatedly firing after an enemy falls can lower accuracy. Judge the medal shown on the results screen before assuming a fast run was enough.",
+          "details_i18n": {
+            "en": "Use mission replay and choose a short combat mission whose route you already understand. Review the recorded time, accuracy and headshots, then improve those criteria without wasting shots at covered targets. A travel-only race or noncombat mission is not the qualifying combat medal for this trophy. Dead Eye helps secure deliberate headshots, but repeatedly firing after an enemy falls can lower accuracy. Judge the medal shown on the results screen before assuming a fast run was enough.",
+            "pt": "Use a repetição de missões e escolha uma tarefa curta de combate cujo percurso já conheça. Confira tempo, precisão e tiros na cabeça registrados e melhore esses critérios sem desperdiçar disparos em alvos protegidos. Corridas ou missões sem combate não fornecem a medalha de combate exigida por este troféu. O Dead Eye ajuda a acertar a cabeça com cuidado, mas continuar disparando após a queda do inimigo pode reduzir a precisão. Confira a medalha na tela de resultados antes de presumir que bastou ser rápido."
+          }
+        },
+        {
+          "key": "reach-first-legendary-challenge-rank",
+          "title": "Reach a Legendary challenge rank",
+          "title_i18n": {
+            "en": "Reach a Legendary challenge rank",
+            "pt": "Alcance um nível Legendary de desafio"
+          },
+          "description": "Finish one ambient challenge chain before attempting the remaining three.",
+          "description_i18n": {
+            "en": "Finish one ambient challenge chain before attempting the remaining three.",
+            "pt": "Conclua uma série de desafios ambientais antes de tentar as outras três."
+          }
+        },
+        {
+          "key": "follow-treasure-map-chain",
+          "title": "Follow the treasure-map chain",
+          "title_i18n": {
+            "en": "Follow the treasure-map chain",
+            "pt": "Siga a sequência de mapas do tesouro"
+          },
+          "description": "Use each sketch's landmarks to locate the next cache and map.",
+          "description_i18n": {
+            "en": "Use each sketch's landmarks to locate the next cache and map.",
+            "pt": "Use os pontos de referência de cada desenho para encontrar o próximo esconderijo e mapa."
+          },
+          "details": "The first treasure map comes from a treasure-hunter encounter; recover the map even if you fail to protect its owner. Each recovered cache supplies the next sketch in the chain. Compare major rock shapes, roads and horizons before searching the ground, and examine the actual rock pile once the landscape matches. Follow the maps in order: arriving at a later landmark without the corresponding map does not replace the earlier ranks. Check the Treasure Hunter entry before starting another long ride.",
+          "details_i18n": {
+            "en": "The first treasure map comes from a treasure-hunter encounter; recover the map even if you fail to protect its owner. Each recovered cache supplies the next sketch in the chain. Compare major rock shapes, roads and horizons before searching the ground, and examine the actual rock pile once the landscape matches. Follow the maps in order: arriving at a later landmark without the corresponding map does not replace the earlier ranks. Check the Treasure Hunter entry before starting another long ride.",
+            "pt": "O primeiro mapa vem de um encontro com um caçador de tesouros; recupere-o mesmo que não consiga proteger seu dono. Cada esconderijo encontrado fornece o desenho seguinte. Compare grandes formações rochosas, estradas e o horizonte antes de procurar no chão e examine a pilha de pedras quando a paisagem corresponder. Siga os mapas na ordem: chegar a um ponto posterior sem o mapa correspondente não substitui os níveis anteriores. Confira a entrada Treasure Hunter antes de iniciar outra viagem longa."
+          }
+        },
+        {
+          "key": "practice-expert-targeting-headshot",
+          "title": "Practice an Expert-targeting headshot",
+          "title_i18n": {
+            "en": "Practice an Expert-targeting headshot",
+            "pt": "Pratique um tiro na cabeça com mira Expert"
+          },
+          "description": "Select Expert targeting for a controlled encounter and land the required shot.",
+          "description_i18n": {
+            "en": "Select Expert targeting for a controlled encounter and land the required shot.",
+            "pt": "Selecione a mira Expert em um confronto controlado e acerte o disparo necessário."
+          }
+        },
+        {
+          "key": "complete-tomahawk-challenges",
+          "title": "Complete the Tomahawk challenges",
+          "title_i18n": {
+            "en": "Complete the Tomahawk challenges",
+            "pt": "Conclua os desafios de Tomahawk"
+          },
+          "description": "Review the weapon's challenge list and finish its successive ranks.",
+          "description_i18n": {
+            "en": "Review the weapon's challenge list and finish its successive ranks.",
+            "pt": "Confira a lista de desafios da arma e conclua seus níveis sucessivos."
+          }
+        },
+        {
+          "key": "complete-explosive-rifle-challenges",
+          "title": "Complete the Explosive Rifle challenges",
+          "title_i18n": {
+            "en": "Complete the Explosive Rifle challenges",
+            "pt": "Conclua os desafios de Explosive Rifle"
+          },
+          "description": "Read the listed conditions and prepare the required equipment before attempting each rank.",
+          "description_i18n": {
+            "en": "Read the listed conditions and prepare the required equipment before attempting each rank.",
+            "pt": "Leia as condições indicadas e prepare o equipamento necessário antes de tentar cada nível."
+          }
+        },
+        {
+          "key": "record-three-required-horse-breeds",
+          "title": "Record the three required horse breeds",
+          "title_i18n": {
+            "en": "Record the three required horse breeds",
+            "pt": "Registre as três raças de cavalos exigidas"
+          },
+          "description": "Break Kentucky Saddler, American Standardbred and Hungarian Half-bred for the breed goal.",
+          "description_i18n": {
+            "en": "Break Kentucky Saddler, American Standardbred and Hungarian Half-bred for the breed goal.",
+            "pt": "Dome Kentucky Saddler, American Standardbred e Hungarian Half-bred para cumprir a meta de raças."
+          }
+        },
+        {
+          "key": "review-native-ps5-trophy-cleanup",
+          "title": "Review native PS5 trophy cleanup",
+          "title_i18n": {
+            "en": "Review native PS5 trophy cleanup",
+            "pt": "Revise os troféus restantes do PS5"
+          },
+          "description": "Use this edition's offline list; its platinum also requires bundled Undead Nightmare trophies.",
+          "description_i18n": {
+            "en": "Use this edition's offline list; its platinum also requires bundled Undead Nightmare trophies.",
+            "pt": "Use a lista sem conexão desta edição; a platina também exige troféus de Undead Nightmare incluídos no pacote."
+          }
+        }
+      ]
+    },
+    {
+      "key": "optional-undead-nightmare-campaign",
+      "title": "Optional Undead Nightmare campaign",
+      "title_i18n": {
+        "en": "Optional Undead Nightmare campaign",
+        "pt": "Campanha opcional Undead Nightmare"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "start-undead-nightmare-separate-save",
+          "title": "Start Undead Nightmare separately",
+          "title_i18n": {
+            "en": "Start Undead Nightmare separately",
+            "pt": "Inicie Undead Nightmare separadamente"
+          },
+          "description": "Select the bundled mode from the main menu; it is separate from the base campaign.",
+          "description_i18n": {
+            "en": "Select the bundled mode from the main menu; it is separate from the base campaign.",
+            "pt": "Selecione o modo incluído pelo menu principal; ele é separado da campanha base."
+          }
+        },
+        {
+          "key": "undead-love-in-time-of-plague",
+          "title": "Love in the Time of Plague",
+          "title_i18n": {
+            "en": "Love in the Time of Plague",
+            "pt": "Conclua Love in the Time of Plague"
+          },
+          "description": "Follow the opening emergency and learn the survival rules of this campaign.",
+          "description_i18n": {
+            "en": "Follow the opening emergency and learn the survival rules of this campaign.",
+            "pt": "Acompanhe a emergência inicial e aprenda as regras de sobrevivência desta campanha."
+          }
+        },
+        {
+          "key": "undead-curious-tales-blackwater",
+          "title": "Curious Tales from Blackwater, USA",
+          "title_i18n": {
+            "en": "Curious Tales from Blackwater, USA",
+            "pt": "Conclua Curious Tales from Blackwater, USA"
+          },
+          "description": "Investigate Blackwater and complete the introductory search and cemetery objectives.",
+          "description_i18n": {
+            "en": "Investigate Blackwater and complete the introductory search and cemetery objectives.",
+            "pt": "Investigue Blackwater e conclua os objetivos iniciais de busca e cemitério."
+          }
+        },
+        {
+          "key": "undead-get-back-in-hole",
+          "title": "Get Back in That Hole, Partner",
+          "title_i18n": {
+            "en": "Get Back in That Hole, Partner",
+            "pt": "Conclua Get Back in That Hole, Partner"
+          },
+          "description": "Meet Seth and work through the marked cemetery-cleansing route.",
+          "description_i18n": {
+            "en": "Meet Seth and work through the marked cemetery-cleansing route.",
+            "pt": "Encontre Seth e percorra a rota indicada de purificação de cemitérios."
+          }
+        },
+        {
+          "key": "undead-cure-most-ails",
+          "title": "A Cure for Most of What Ails You",
+          "title_i18n": {
+            "en": "A Cure for Most of What Ails You",
+            "pt": "Conclua A Cure for Most of What Ails You"
+          },
+          "description": "Complete West Dickens's requests and gather the supplies listed in the journal.",
+          "description_i18n": {
+            "en": "Complete West Dickens's requests and gather the supplies listed in the journal.",
+            "pt": "Conclua os pedidos de West Dickens e reúna os suprimentos indicados no diário."
+          }
+        },
+        {
+          "key": "undead-complete-supporting-survivor-threads",
+          "title": "Complete the supporting Survivor threads",
+          "title_i18n": {
+            "en": "Complete the supporting Survivor threads",
+            "pt": "Conclua as tarefas auxiliares de Survivor"
+          },
+          "description": "Follow available survivor markers and journal prerequisites when the next story marker is absent.",
+          "description_i18n": {
+            "en": "Follow available survivor markers and journal prerequisites when the next story marker is absent.",
+            "pt": "Siga as marcações de sobreviventes e os requisitos do diário quando a próxima missão não aparecer."
+          },
+          "details": "If the next main marker is missing, inspect the journal for unfinished requests instead of repeatedly riding to the same contact. West Dickens’s cure branch and the available early Survivor side missions feed the Mexico-crossing progression. Complete their actual objectives and allow the requested in-game waiting period, then revisit the map for American Imperialism. Some investigations return in multiple parts; clearing a town or reaching a region alone does not automatically finish the associated Survivor request.",
+          "details_i18n": {
+            "en": "If the next main marker is missing, inspect the journal for unfinished requests instead of repeatedly riding to the same contact. West Dickens’s cure branch and the available early Survivor side missions feed the Mexico-crossing progression. Complete their actual objectives and allow the requested in-game waiting period, then revisit the map for American Imperialism. Some investigations return in multiple parts; clearing a town or reaching a region alone does not automatically finish the associated Survivor request.",
+            "pt": "Se a próxima marcação principal não aparecer, confira os pedidos pendentes no diário em vez de voltar repetidamente ao mesmo contato. A frente da cura de West Dickens e as primeiras missões secundárias de Survivor alimentam o progresso da travessia para o México. Cumpra seus objetivos e espere o período solicitado dentro do jogo; depois confira American Imperialism no mapa. Algumas investigações voltam em várias partes; libertar um povoado ou chegar a uma região não conclui automaticamente o pedido de Survivor associado."
+          }
+        },
+        {
+          "key": "undead-american-imperialism",
+          "title": "American Imperialism",
+          "title_i18n": {
+            "en": "American Imperialism",
+            "pt": "Conclua American Imperialism"
+          },
+          "description": "Return when the progression conditions are met and complete the crossing operation.",
+          "description_i18n": {
+            "en": "Return when the progression conditions are met and complete the crossing operation.",
+            "pt": "Volte quando as condições de progresso forem cumpridas e conclua a operação de travessia."
+          }
+        },
+        {
+          "key": "undead-mother-superior-blues",
+          "title": "Mother Superior Blues",
+          "title_i18n": {
+            "en": "Mother Superior Blues",
+            "pt": "Conclua Mother Superior Blues"
+          },
+          "description": "Follow both portions of Mother Superior's investigation and its return conditions.",
+          "description_i18n": {
+            "en": "Follow both portions of Mother Superior's investigation and its return conditions.",
+            "pt": "Acompanhe as duas partes da investigação de Mother Superior e as condições para retornar."
+          }
+        },
+        {
+          "key": "undead-a-civilized-man",
+          "title": "A Civilized Man",
+          "title_i18n": {
+            "en": "A Civilized Man",
+            "pt": "Conclua A Civilized Man"
+          },
+          "description": "Complete the final investigation and follow the campaign's concluding objective.",
+          "description_i18n": {
+            "en": "Complete the final investigation and follow the campaign's concluding objective.",
+            "pt": "Conclua a investigação final e siga o objetivo de encerramento da campanha."
+          }
+        },
+        {
+          "key": "undead-on-a-pale-horse",
+          "title": "On a Pale Horse",
+          "title_i18n": {
+            "en": "On a Pale Horse",
+            "pt": "Conclua On a Pale Horse"
+          },
+          "description": "Continue through the concluding sequence and inspect the resulting free-roam state.",
+          "description_i18n": {
+            "en": "Continue through the concluding sequence and inspect the resulting free-roam state.",
+            "pt": "Prossiga pela sequência de encerramento e confira a exploração livre resultante."
+          }
+        },
+        {
+          "key": "undead-save-territories-together",
+          "title": "Keep all rescue towns safe together",
+          "title_i18n": {
+            "en": "Keep all rescue towns safe together",
+            "pt": "Mantenha todos os povoados resgatáveis seguros ao mesmo tempo"
+          },
+          "description": "Clear every required rescue town and keep their markers safe simultaneously for Spinning Plates.",
+          "description_i18n": {
+            "en": "Clear every required rescue town and keep their markers safe simultaneously for Spinning Plates.",
+            "pt": "Liberte todos os povoados resgatáveis exigidos e mantenha suas marcações seguras simultaneamente para Spinning Plates."
+          },
+          "details": "Spinning Plates needs the twenty rescuable towns safe simultaneously. Clear their undead, finish any remaining defense requirement and respond when previously saved towns come under attack. Fort Mercer and El Presidio are refuges, while Casa Madrugada is not an ordinary town-rescue encounter; lists counting 23 territory names include these additional locations. For the 100% statistic, each required town needs its first successful rescue, and a later attack does not erase that completion credit. The simultaneous trophy condition is stricter.",
+          "details_i18n": {
+            "en": "Spinning Plates needs the twenty rescuable towns safe simultaneously. Clear their undead, finish any remaining defense requirement and respond when previously saved towns come under attack. Fort Mercer and El Presidio are refuges, while Casa Madrugada is not an ordinary town-rescue encounter; lists counting 23 territory names include these additional locations. For the 100% statistic, each required town needs its first successful rescue, and a later attack does not erase that completion credit. The simultaneous trophy condition is stricter.",
+            "pt": "Spinning Plates exige que os vinte povoados resgatáveis estejam seguros simultaneamente. Elimine os mortos-vivos, conclua qualquer exigência restante de defesa e reaja quando locais já protegidos forem atacados. Fort Mercer e El Presidio são refúgios, enquanto Casa Madrugada não apresenta um resgate comum de povoado; listas com 23 nomes de territórios incluem esses locais adicionais. Para os 100%, cada povoado exigido precisa do primeiro resgate bem-sucedido, e ataques posteriores não apagam esse registro. A condição simultânea do troféu é mais rigorosa."
+          }
+        },
+        {
+          "key": "undead-complete-missing-souls-rescues",
+          "title": "Complete the missing-person rescues",
+          "title_i18n": {
+            "en": "Complete the missing-person rescues",
+            "pt": "Conclua os resgates de desaparecidos"
+          },
+          "description": "Follow Missing Souls and clear the remaining Fort Mercer and El Presidio requests.",
+          "description_i18n": {
+            "en": "Follow Missing Souls and clear the remaining Fort Mercer and El Presidio requests.",
+            "pt": "Acompanhe Missing Souls e conclua os pedidos restantes de Fort Mercer e El Presidio."
+          }
+        },
+        {
+          "key": "undead-complete-six-survivor-side-missions",
+          "title": "Complete all six Survivor side missions",
+          "title_i18n": {
+            "en": "Complete all six Survivor side missions",
+            "pt": "Conclua as seis missões secundárias de Survivor"
+          },
+          "description": "Use the journal to finish the full side-mission set, not only its opening stages.",
+          "description_i18n": {
+            "en": "Use the journal to finish the full side-mission set, not only its opening stages.",
+            "pt": "Use o diário para concluir todo o conjunto de missões secundárias, não apenas suas etapas iniciais."
+          }
+        },
+        {
+          "key": "undead-tame-four-apocalypse-horses",
+          "title": "Tame the Four Horses of the Apocalypse",
+          "title_i18n": {
+            "en": "Tame the Four Horses of the Apocalypse",
+            "pt": "Dome os Four Horses of the Apocalypse"
+          },
+          "description": "Investigate mythical-creature alerts and record each special horse in the challenge list.",
+          "description_i18n": {
+            "en": "Investigate mythical-creature alerts and record each special horse in the challenge list.",
+            "pt": "Investigue os avisos de criaturas míticas e registre cada cavalo especial na lista de desafios."
+          }
+        },
+        {
+          "key": "undead-finish-four-challenge-chains",
+          "title": "Finish the four Undead challenge chains",
+          "title_i18n": {
+            "en": "Finish the four Undead challenge chains",
+            "pt": "Conclua as quatro séries de desafios de Undead"
+          },
+          "description": "Reach rank five in Four Horses, Undead Hunter, Undead Sharpshooter and Undead Treasure Hunter.",
+          "description_i18n": {
+            "en": "Reach rank five in Four Horses, Undead Hunter, Undead Sharpshooter and Undead Treasure Hunter.",
+            "pt": "Alcance o nível cinco em Four Horses, Undead Hunter, Undead Sharpshooter e Undead Treasure Hunter."
+          }
+        },
+        {
+          "key": "undead-find-chupacabra-and-unicorn",
+          "title": "Find the chupacabra and unicorn",
+          "title_i18n": {
+            "en": "Find the chupacabra and unicorn",
+            "pt": "Encontre o chupacabra e o unicórnio"
+          },
+          "description": "Follow the relevant challenge progression before searching for these late mythical creatures.",
+          "description_i18n": {
+            "en": "Follow the relevant challenge progression before searching for these late mythical creatures.",
+            "pt": "Avance nos desafios pertinentes antes de procurar essas criaturas míticas tardias."
+          },
+          "details": "Advance Undead Hunter through its first four ranks before searching Nuevo Paraíso for the chupacabra; killing it resolves the fifth-rank objective and unlocks the unicorn search. Look north of Torquemada for the white mythical horse and tame it using the ordinary breaking controls. The unicorn does not provide the Apocalypse horses’ nearby-creature search circle, so inspect the herds visually. The Four Horses challenge is a separate goal; its final rank asks you to trample each undead type with Death.",
+          "details_i18n": {
+            "en": "Advance Undead Hunter through its first four ranks before searching Nuevo Paraíso for the chupacabra; killing it resolves the fifth-rank objective and unlocks the unicorn search. Look north of Torquemada for the white mythical horse and tame it using the ordinary breaking controls. The unicorn does not provide the Apocalypse horses’ nearby-creature search circle, so inspect the herds visually. The Four Horses challenge is a separate goal; its final rank asks you to trample each undead type with Death.",
+            "pt": "Avance pelos quatro primeiros níveis de Undead Hunter antes de procurar o chupacabra em Nuevo Paraíso; matá-lo resolve o objetivo do quinto nível e libera a busca pelo unicórnio. Procure o cavalo mítico branco ao norte de Torquemada e dome-o com os comandos normais. O unicórnio não fornece o círculo de busca dos cavalos do Apocalipse; observe os rebanhos visualmente. O desafio Four Horses é uma meta separada; seu último nível pede atropelar cada tipo de morto-vivo com Death."
+          }
+        },
+        {
+          "key": "undead-check-outfit-collection",
+          "title": "Check the Undead outfit collection",
+          "title_i18n": {
+            "en": "Check the Undead outfit collection",
+            "pt": "Confira a coleção de trajes de Undead"
+          },
+          "description": "Review the available outfits and complete their journal-listed requirements.",
+          "description_i18n": {
+            "en": "Review the available outfits and complete their journal-listed requirements.",
+            "pt": "Confira os trajes disponíveis e cumpra os requisitos indicados no diário."
+          }
+        },
+        {
+          "key": "undead-confirm-one-hundred-percent",
+          "title": "Confirm Undead Nightmare 100%",
+          "title_i18n": {
+            "en": "Confirm Undead Nightmare 100%",
+            "pt": "Confirme os 100% de Undead Nightmare"
+          },
+          "description": "Check this campaign's own completion statistic and remaining trophy goals.",
+          "description_i18n": {
+            "en": "Check this campaign's own completion statistic and remaining trophy goals.",
+            "pt": "Confira a estatística de conclusão desta campanha e os troféus restantes."
+          },
+          "details": "Use Undead Nightmare’s own completion ledger. Finish its eight named story entries and six Survivor side missions, rescue all twenty required towns once, cleanse the five cemeteries and complete the remaining Missing Souls poster rescues at Fort Mercer and El Presidio. The required poster set contains fifteen people beyond the introductory rescue. Reach rank five in the four core Undead challenge chains and unlock the Undead Hunter outfit. The wider outfit collection is optional cleanup; do not substitute it for the missing-person objectives.",
+          "details_i18n": {
+            "en": "Use Undead Nightmare’s own completion ledger. Finish its eight named story entries and six Survivor side missions, rescue all twenty required towns once, cleanse the five cemeteries and complete the remaining Missing Souls poster rescues at Fort Mercer and El Presidio. The required poster set contains fifteen people beyond the introductory rescue. Reach rank five in the four core Undead challenge chains and unlock the Undead Hunter outfit. The wider outfit collection is optional cleanup; do not substitute it for the missing-person objectives.",
+            "pt": "Use o registro próprio de Undead Nightmare. Conclua suas oito entradas nomeadas da história e seis missões secundárias de Survivor, resgate os vinte povoados exigidos uma vez, purifique os cinco cemitérios e termine os resgates restantes dos cartazes de Missing Souls em Fort Mercer e El Presidio. O conjunto exigido dos cartazes contém quinze pessoas além do resgate introdutório. Alcance o nível cinco nas quatro séries centrais de desafios de Undead e libere o traje Undead Hunter. A coleção ampliada de roupas é opcional; não a use como substituta dos resgates."
+          }
+        }
+      ]
+    }
+  ],
+  "trophies": [
+    {
+      "key": "trophy-legend-of-the-west",
+      "title": "Legend of the West",
+      "title_i18n": {
+        "en": "Legend of the West",
+        "pt": "Legend of the West"
+      },
+      "description": "Earn the other 51 trophies in this PS5 list, including Undead Nightmare.",
+      "description_i18n": {
+        "en": "Earn the other 51 trophies in this PS5 list, including Undead Nightmare.",
+        "pt": "Obtenha os outros 51 troféus desta lista de PS5, incluindo Undead Nightmare."
+      },
+      "tier": "platinum"
+    },
+    {
+      "key": "trophy-that-government-boy",
+      "title": "That Government Boy",
+      "title_i18n": {
+        "en": "That Government Boy",
+        "pt": "That Government Boy"
+      },
+      "description": "Finish the opening mission, Exodus in America.",
+      "description_i18n": {
+        "en": "Finish the opening mission, Exodus in America.",
+        "pt": "Termine a missão inicial, Exodus in America."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-land-of-opportunity",
+      "title": "Land of Opportunity",
+      "title_i18n": {
+        "en": "Land of Opportunity",
+        "pt": "Land of Opportunity"
+      },
+      "description": "Finish the Fort Mercer assault story mission.",
+      "description_i18n": {
+        "en": "Finish the Fort Mercer assault story mission.",
+        "pt": "Termine a missão da história The Assault on Fort Mercer."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-sons-of-mexico",
+      "title": "Sons of Mexico",
+      "title_i18n": {
+        "en": "Sons of Mexico",
+        "pt": "Sons of Mexico"
+      },
+      "description": "Finish the story mission The Gates of El Presidio.",
+      "description_i18n": {
+        "en": "Finish the story mission The Gates of El Presidio.",
+        "pt": "Termine a missão da história The Gates of El Presidio."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-no-more-fancy-words",
+      "title": "No More Fancy Words",
+      "title_i18n": {
+        "en": "No More Fancy Words",
+        "pt": "No More Fancy Words"
+      },
+      "description": "Finish the story mission An Appointed Time.",
+      "description_i18n": {
+        "en": "Finish the story mission An Appointed Time.",
+        "pt": "Termine a missão da história An Appointed Time."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-a-savage-soul",
+      "title": "A Savage Soul",
+      "title_i18n": {
+        "en": "A Savage Soul",
+        "pt": "A Savage Soul"
+      },
+      "description": "Finish the story mission At Home with Dutch.",
+      "description_i18n": {
+        "en": "Finish the story mission At Home with Dutch.",
+        "pt": "Termine a missão da história At Home with Dutch."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-the-benefits-of-civilization",
+      "title": "The Benefits of Civilization",
+      "title_i18n": {
+        "en": "The Benefits of Civilization",
+        "pt": "The Benefits of Civilization"
+      },
+      "description": "Finish And the Truth Will Set You Free.",
+      "description_i18n": {
+        "en": "Finish And the Truth Will Set You Free.",
+        "pt": "Termine And the Truth Will Set You Free."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-into-the-sunset",
+      "title": "Into the Sunset",
+      "title_i18n": {
+        "en": "Into the Sunset",
+        "pt": "Into the Sunset"
+      },
+      "description": "Finish The Last Enemy That Shall Be Destroyed.",
+      "description_i18n": {
+        "en": "Finish The Last Enemy That Shall Be Destroyed.",
+        "pt": "Termine The Last Enemy That Shall Be Destroyed."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-nurture-or-nature",
+      "title": "Nurture or Nature?",
+      "title_i18n": {
+        "en": "Nurture or Nature?",
+        "pt": "Nurture or Nature?"
+      },
+      "description": "Finish the post-story Stranger thread Remember My Family.",
+      "description_i18n": {
+        "en": "Finish the post-story Stranger thread Remember My Family.",
+        "pt": "Termine a tarefa de Stranger Remember My Family após a história."
+      },
+      "tier": "gold"
+    },
+    {
+      "key": "trophy-high-roller",
+      "title": "High Roller",
+      "title_i18n": {
+        "en": "High Roller",
+        "pt": "High Roller"
+      },
+      "description": "Take a pot worth more than 2,000 chips in one poker hand.",
+      "description_i18n": {
+        "en": "Take a pot worth more than 2,000 chips in one poker hand.",
+        "pt": "Ganhe um pote de mais de 2.000 fichas em uma única mão de pôquer."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-no-dice",
+      "title": "No Dice",
+      "title_i18n": {
+        "en": "No Dice",
+        "pt": "No Dice"
+      },
+      "description": "Win a complete Liar's Dice game while retaining every die.",
+      "description_i18n": {
+        "en": "Win a complete Liar's Dice game while retaining every die.",
+        "pt": "Vença uma partida completa de Liar’s Dice sem perder nenhum dado."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-what-about-hand-grenades",
+      "title": "What About Hand Grenades?",
+      "title_i18n": {
+        "en": "What About Hand Grenades?",
+        "pt": "What About Hand Grenades?"
+      },
+      "description": "Land a horseshoe around the stake for a ringer.",
+      "description_i18n": {
+        "en": "Land a horseshoe around the stake for a ringer.",
+        "pt": "Acerte uma ferradura ao redor da estaca para obter um ringer."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-austin-overpowered",
+      "title": "Austin Overpowered",
+      "title_i18n": {
+        "en": "Austin Overpowered",
+        "pt": "Austin Overpowered"
+      },
+      "description": "Clear Twin Rocks, Pike's Basin and Gaptooth Breach hideouts.",
+      "description_i18n": {
+        "en": "Clear Twin Rocks, Pike's Basin and Gaptooth Breach hideouts.",
+        "pt": "Conclua os esconderijos Twin Rocks, Pike’s Basin e Gaptooth Breach."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-evil-spirits",
+      "title": "Evil Spirits",
+      "title_i18n": {
+        "en": "Evil Spirits",
+        "pt": "Evil Spirits"
+      },
+      "description": "Clear the Tumbleweed and Tesoro Azul hideouts.",
+      "description_i18n": {
+        "en": "Clear the Tumbleweed and Tesoro Azul hideouts.",
+        "pt": "Conclua os esconderijos Tumbleweed e Tesoro Azul."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-instinto-asesino",
+      "title": "Instinto Asesino",
+      "title_i18n": {
+        "en": "Instinto Asesino",
+        "pt": "Instinto Asesino"
+      },
+      "description": "Clear the Fort Mercer and Nosalida hideouts.",
+      "description_i18n": {
+        "en": "Clear the Fort Mercer and Nosalida hideouts.",
+        "pt": "Conclua os esconderijos Fort Mercer e Nosalida."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-fightin-around-the-world",
+      "title": "Fightin' Around the World",
+      "title_i18n": {
+        "en": "Fightin' Around the World",
+        "pt": "Fightin' Around the World"
+      },
+      "description": "Win a fistfight knockout inside every saloon.",
+      "description_i18n": {
+        "en": "Win a fistfight knockout inside every saloon.",
+        "pt": "Nocauteie alguém em uma briga de socos dentro de cada saloon."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-strange-things-are-afoot",
+      "title": "Strange Things are Afoot",
+      "title_i18n": {
+        "en": "Strange Things are Afoot",
+        "pt": "Strange Things are Afoot"
+      },
+      "description": "Finish one Stranger task.",
+      "description_i18n": {
+        "en": "Finish one Stranger task.",
+        "pt": "Conclua uma tarefa de Stranger."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-people-are-still-strange",
+      "title": "People are Still Strange",
+      "title_i18n": {
+        "en": "People are Still Strange",
+        "pt": "People are Still Strange"
+      },
+      "description": "Finish fifteen Stranger tasks.",
+      "description_i18n": {
+        "en": "Finish fifteen Stranger tasks.",
+        "pt": "Conclua quinze tarefas de Stranger."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "trophy-buckin-awesome",
+      "title": "Buckin' Awesome",
+      "title_i18n": {
+        "en": "Buckin' Awesome",
+        "pt": "Buckin' Awesome"
+      },
+      "description": "Tame a Kentucky Saddler, American Standardbred and Hungarian Half-bred.",
+      "description_i18n": {
+        "en": "Tame a Kentucky Saddler, American Standardbred and Hungarian Half-bred.",
+        "pt": "Dome um Kentucky Saddler, um American Standardbred e um Hungarian Half-bred."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-clemency-pays",
+      "title": "Clemency Pays",
+      "title_i18n": {
+        "en": "Clemency Pays",
+        "pt": "Clemency Pays"
+      },
+      "description": "Deliver a wanted bounty target alive.",
+      "description_i18n": {
+        "en": "Deliver a wanted bounty target alive.",
+        "pt": "Entregue vivo um alvo procurado por recompensa."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-dastardly",
+      "title": "Dastardly",
+      "title_i18n": {
+        "en": "Dastardly",
+        "pt": "Dastardly"
+      },
+      "description": "In the game, leave a hogtied woman on railway tracks and witness the train kill her.",
+      "description_i18n": {
+        "en": "In the game, leave a hogtied woman on railway tracks and witness the train kill her.",
+        "pt": "No jogo, deixe uma mulher amarrada nos trilhos e presencie sua morte pelo trem."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-exquisite-taste",
+      "title": "Exquisite Taste",
+      "title_i18n": {
+        "en": "Exquisite Taste",
+        "pt": "Exquisite Taste"
+      },
+      "description": "Buy one of the rare guns sold by a gunsmith.",
+      "description_i18n": {
+        "en": "Buy one of the rare guns sold by a gunsmith.",
+        "pt": "Compre uma das armas raras vendidas por um armeiro."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-bearly-legal",
+      "title": "Bearly Legal",
+      "title_i18n": {
+        "en": "Bearly Legal",
+        "pt": "Bearly Legal"
+      },
+      "description": "Kill and skin eighteen grizzly bears.",
+      "description_i18n": {
+        "en": "Kill and skin eighteen grizzly bears.",
+        "pt": "Mate e esfole dezoito ursos-cinzentos."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-he-cleans-up-well",
+      "title": "He Cleans Up Well!",
+      "title_i18n": {
+        "en": "He Cleans Up Well!",
+        "pt": "He Cleans Up Well!"
+      },
+      "description": "Acquire the Elegant Suit outfit.",
+      "description_i18n": {
+        "en": "Acquire the Elegant Suit outfit.",
+        "pt": "Obtenha o traje Elegant Suit."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-more-than-a-fistful",
+      "title": "More than a Fistful",
+      "title_i18n": {
+        "en": "More than a Fistful",
+        "pt": "More than a Fistful"
+      },
+      "description": "Accumulate $10,000 in total earnings; you need not hold it all together.",
+      "description_i18n": {
+        "en": "Accumulate $10,000 in total earnings; you need not hold it all together.",
+        "pt": "Acumule US$ 10.000 em ganhos totais; não é necessário manter tudo ao mesmo tempo."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-frontiersman",
+      "title": "Frontiersman",
+      "title_i18n": {
+        "en": "Frontiersman",
+        "pt": "Frontiersman"
+      },
+      "description": "Finish an ambient challenge chain to reach its Legendary rank.",
+      "description_i18n": {
+        "en": "Finish an ambient challenge chain to reach its Legendary rank.",
+        "pt": "Conclua uma série de desafios ambientais para alcançar seu nível Legendary."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "trophy-the-gunslinger",
+      "title": "The Gunslinger",
+      "title_i18n": {
+        "en": "The Gunslinger",
+        "pt": "The Gunslinger"
+      },
+      "description": "Use Expert targeting to land an enemy headshot.",
+      "description_i18n": {
+        "en": "Use Expert targeting to land an enemy headshot.",
+        "pt": "Acerte um inimigo na cabeça usando a mira Expert."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-man-of-honor-chivalry-s-dead",
+      "title": "Man of Honor / Chivalry's Dead",
+      "title_i18n": {
+        "en": "Man of Honor / Chivalry's Dead",
+        "pt": "Man of Honor / Chivalry's Dead"
+      },
+      "description": "Maximize Fame and reach either extreme of the Honor scale.",
+      "description_i18n": {
+        "en": "Maximize Fame and reach either extreme of the Honor scale.",
+        "pt": "Maximize a Fame e alcance um dos extremos da escala de Honor."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-gold-medal",
+      "title": "Gold Medal",
+      "title_i18n": {
+        "en": "Gold Medal",
+        "pt": "Gold Medal"
+      },
+      "description": "Earn gold on a combat story mission.",
+      "description_i18n": {
+        "en": "Earn gold on a combat story mission.",
+        "pt": "Obtenha ouro em uma missão de combate da história."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-manifest-destiny",
+      "title": "Manifest Destiny",
+      "title_i18n": {
+        "en": "Manifest Destiny",
+        "pt": "Manifest Destiny"
+      },
+      "description": "Hunt the final surviving buffalo in the Great Plains herd.",
+      "description_i18n": {
+        "en": "Hunt the final surviving buffalo in the Great Plains herd.",
+        "pt": "Cace o último búfalo sobrevivente do rebanho de Great Plains."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-on-the-trail-of-de-vaca",
+      "title": "On the Trail of de Vaca",
+      "title_i18n": {
+        "en": "On the Trail of de Vaca",
+        "pt": "On the Trail of de Vaca"
+      },
+      "description": "Reveal every location in the base-game map record.",
+      "description_i18n": {
+        "en": "Reveal every location in the base-game map record.",
+        "pt": "Revele todos os locais do registro do mapa do jogo base."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-friends-in-high-places",
+      "title": "Friends in High Places",
+      "title_i18n": {
+        "en": "Friends in High Places",
+        "pt": "Friends in High Places"
+      },
+      "description": "Redeem a pardon letter while your bounty exceeds $5,000.",
+      "description_i18n": {
+        "en": "Redeem a pardon letter while your bounty exceeds $5,000.",
+        "pt": "Use uma carta de perdão enquanto sua recompensa ultrapassa US$ 5.000."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-redeemed",
+      "title": "Redeemed",
+      "title_i18n": {
+        "en": "Redeemed",
+        "pt": "Redeemed"
+      },
+      "description": "Raise the base campaign's Game Completion statistic to 100%.",
+      "description_i18n": {
+        "en": "Raise the base campaign's Game Completion statistic to 100%.",
+        "pt": "Eleve a estatística Game Completion da campanha base a 100%."
+      },
+      "tier": "gold"
+    },
+    {
+      "key": "trophy-spurred-to-victory",
+      "title": "Spurred to Victory",
+      "title_i18n": {
+        "en": "Spurred to Victory",
+        "pt": "Spurred to Victory"
+      },
+      "description": "Finish twenty story missions without registering a replacement horse at a hitching post.",
+      "description_i18n": {
+        "en": "Finish twenty story missions without registering a replacement horse at a hitching post.",
+        "pt": "Termine vinte missões da história sem registrar outro cavalo em um poste para amarrá-lo."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-heading-south-on-a-white-bronco",
+      "title": "Heading South on a White Bronco",
+      "title_i18n": {
+        "en": "Heading South on a White Bronco",
+        "pt": "Heading South on a White Bronco"
+      },
+      "description": "Escape the US Marshals while mounted on a Hungarian Half-bred.",
+      "description_i18n": {
+        "en": "Escape the US Marshals while mounted on a Hungarian Half-bred.",
+        "pt": "Escape dos US Marshals montado em um Hungarian Half-bred."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-mowing-them-down",
+      "title": "Mowing Them Down",
+      "title_i18n": {
+        "en": "Mowing Them Down",
+        "pt": "Mowing Them Down"
+      },
+      "description": "Reach five hundred enemy kills using mounted guns.",
+      "description_i18n": {
+        "en": "Reach five hundred enemy kills using mounted guns.",
+        "pt": "Alcance quinhentas mortes de inimigos usando armas fixas."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-in-a-hail-of-bullets",
+      "title": "In a Hail of Bullets",
+      "title_i18n": {
+        "en": "In a Hail of Bullets",
+        "pt": "In a Hail of Bullets"
+      },
+      "description": "Reach five hundred enemy kills with pistols or revolvers.",
+      "description_i18n": {
+        "en": "Reach five hundred enemy kills with pistols or revolvers.",
+        "pt": "Alcance quinhentas mortes de inimigos com pistolas ou revólveres."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-long-arm-of-marston",
+      "title": "Long Arm of Marston",
+      "title_i18n": {
+        "en": "Long Arm of Marston",
+        "pt": "Long Arm of Marston"
+      },
+      "description": "Reach five hundred enemy kills using rifles, repeaters or shotguns.",
+      "description_i18n": {
+        "en": "Reach five hundred enemy kills using rifles, repeaters or shotguns.",
+        "pt": "Alcance quinhentas mortes de inimigos usando rifles, armas de repetição ou espingardas."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-bullseye",
+      "title": "Bullseye",
+      "title_i18n": {
+        "en": "Bullseye",
+        "pt": "Bullseye"
+      },
+      "description": "Accumulate two hundred and fifty headshots.",
+      "description_i18n": {
+        "en": "Accumulate two hundred and fifty headshots.",
+        "pt": "Acumule duzentos e cinquenta tiros na cabeça."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-unnatural-selection",
+      "title": "Unnatural Selection",
+      "title_i18n": {
+        "en": "Unnatural Selection",
+        "pt": "Unnatural Selection"
+      },
+      "description": "Kill at least one animal of every required species.",
+      "description_i18n": {
+        "en": "Kill at least one animal of every required species.",
+        "pt": "Mate pelo menos um animal de cada espécie exigida."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-axe-master",
+      "title": "Axe Master",
+      "title_i18n": {
+        "en": "Axe Master",
+        "pt": "Axe Master"
+      },
+      "description": "Finish the complete Tomahawk challenge sequence.",
+      "description_i18n": {
+        "en": "Finish the complete Tomahawk challenge sequence.",
+        "pt": "Conclua toda a sequência de desafios de Tomahawk."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-master-exploder",
+      "title": "Master Exploder",
+      "title_i18n": {
+        "en": "Master Exploder",
+        "pt": "Master Exploder"
+      },
+      "description": "Finish the Explosive Rifle challenge sequence.",
+      "description_i18n": {
+        "en": "Finish the Explosive Rifle challenge sequence.",
+        "pt": "Conclua a sequência de desafios de Explosive Rifle."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-the-downward-spiral",
+      "title": "The Downward Spiral",
+      "title_i18n": {
+        "en": "The Downward Spiral",
+        "pt": "The Downward Spiral"
+      },
+      "description": "Undead Nightmare: finish Curious Tales from Blackwater, USA.",
+      "description_i18n": {
+        "en": "Undead Nightmare: finish Curious Tales from Blackwater, USA.",
+        "pt": "Undead Nightmare: termine Curious Tales from Blackwater, USA."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-judge-a-man-by-the",
+      "title": "Judge A Man By The...",
+      "title_i18n": {
+        "en": "Judge A Man By The...",
+        "pt": "Judge A Man By The..."
+      },
+      "description": "Undead Nightmare: finish A Cure for Most of What Ails You and Get Back in That Hole, Partner.",
+      "description_i18n": {
+        "en": "Undead Nightmare: finish A Cure for Most of What Ails You and Get Back in That Hole, Partner.",
+        "pt": "Undead Nightmare: termine A Cure for Most of What Ails You e Get Back in That Hole, Partner."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-the-superior-dance",
+      "title": "The Superior Dance",
+      "title_i18n": {
+        "en": "The Superior Dance",
+        "pt": "The Superior Dance"
+      },
+      "description": "Undead Nightmare: finish Mother Superior Blues.",
+      "description_i18n": {
+        "en": "Undead Nightmare: finish Mother Superior Blues.",
+        "pt": "Undead Nightmare: termine Mother Superior Blues."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-all-s-right-with-the-world",
+      "title": "All's Right With the World",
+      "title_i18n": {
+        "en": "All's Right With the World",
+        "pt": "All's Right With the World"
+      },
+      "description": "Undead Nightmare: reach the conclusion of On a Pale Horse.",
+      "description_i18n": {
+        "en": "Undead Nightmare: reach the conclusion of On a Pale Horse.",
+        "pt": "Undead Nightmare: alcance a conclusão de On a Pale Horse."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "trophy-spinning-plates",
+      "title": "Spinning Plates",
+      "title_i18n": {
+        "en": "Spinning Plates",
+        "pt": "Spinning Plates"
+      },
+      "description": "Undead Nightmare: have every required territory safe at the same time.",
+      "description_i18n": {
+        "en": "Undead Nightmare: have every required territory safe at the same time.",
+        "pt": "Undead Nightmare: mantenha todos os territórios exigidos seguros ao mesmo tempo."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "trophy-zed-s-dead-baby",
+      "title": "Zed's Dead, Baby",
+      "title_i18n": {
+        "en": "Zed's Dead, Baby",
+        "pt": "Zed's Dead, Baby"
+      },
+      "description": "Undead Nightmare: reach 100% on its own Game Completion statistic.",
+      "description_i18n": {
+        "en": "Undead Nightmare: reach 100% on its own Game Completion statistic.",
+        "pt": "Undead Nightmare: alcance 100% em sua própria estatística Game Completion."
+      },
+      "tier": "gold"
+    },
+    {
+      "key": "trophy-mad-marston-the-trail-warrior",
+      "title": "Mad Marston: The Trail Warrior",
+      "title_i18n": {
+        "en": "Mad Marston: The Trail Warrior",
+        "pt": "Mad Marston: The Trail Warrior"
+      },
+      "description": "Undead Nightmare: reach rank five in each of its four required challenge chains.",
+      "description_i18n": {
+        "en": "Undead Nightmare: reach rank five in each of its four required challenge chains.",
+        "pt": "Undead Nightmare: alcance o nível cinco nas quatro séries de desafios exigidas."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-fan-service",
+      "title": "Fan Service",
+      "title_i18n": {
+        "en": "Fan Service",
+        "pt": "Fan Service"
+      },
+      "description": "Undead Nightmare: find and successfully tame the unicorn.",
+      "description_i18n": {
+        "en": "Undead Nightmare: find and successfully tame the unicorn.",
+        "pt": "Undead Nightmare: encontre o unicórnio e dome-o com sucesso."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-chupathingy",
+      "title": "Chupathingy",
+      "title_i18n": {
+        "en": "Chupathingy",
+        "pt": "Chupathingy"
+      },
+      "description": "Undead Nightmare: find and kill the chupacabra.",
+      "description_i18n": {
+        "en": "Undead Nightmare: find and kill the chupacabra.",
+        "pt": "Undead Nightmare: encontre e mate o chupacabra."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-six-years-in-the-making",
+      "title": "Six Years In The Making",
+      "title_i18n": {
+        "en": "Six Years In The Making",
+        "pt": "Six Years In The Making"
+      },
+      "description": "Undead Nightmare: kill a sasquatch.",
+      "description_i18n": {
+        "en": "Undead Nightmare: kill a sasquatch.",
+        "pt": "Undead Nightmare: mate um sasquatch."
+      },
+      "tier": "bronze"
+    }
+  ],
+  "hltb_id": "7676",
+  "hltb_main_hours": 18,
+  "hltb_main_extra_hours": 26,
+  "hltb_completionist_hours": 46
+}

@@ -11,6 +11,7 @@ import {
 import { ProgressRing } from "@/components/progress-ring";
 import { computeCompletionPercent } from "@/lib/progress";
 import { storyChapters, type ChapterKind } from "@/lib/walkthrough";
+import { filterRouteSections, resolveRouteKey, type WalkthroughRoute } from "@/lib/walkthrough-routes";
 import { t } from "@/i18n/format";
 import type { Dictionary } from "@/i18n/dictionaries/en";
 
@@ -18,6 +19,10 @@ type Chapter = { id: string; kind?: ChapterKind; items: { id: string; completed:
 
 type WalkthroughProgressValue = {
   sections: Chapter[];
+  allSections: Chapter[];
+  routes: WalkthroughRoute[];
+  routeKey: string | null;
+  setRouteKey: Dispatch<SetStateAction<string | null>>;
   done: Set<string>;
   setDone: Dispatch<SetStateAction<Set<string>>>;
   lastDoneId: string | null;
@@ -25,6 +30,7 @@ type WalkthroughProgressValue = {
 };
 
 const WalkthroughProgressContext = createContext<WalkthroughProgressValue | null>(null);
+const NO_ROUTES: WalkthroughRoute[] = [];
 
 /**
  * Holds walkthrough completion so it can be shown outside the checklist
@@ -34,8 +40,12 @@ export function WalkthroughProgressProvider({
   sections,
   lastCompletedId,
   children,
+  routes = NO_ROUTES,
+  initialRouteKey = null,
 }: {
   sections: Chapter[];
+  routes?: WalkthroughRoute[];
+  initialRouteKey?: string | null;
   lastCompletedId: string | null;
   children: React.ReactNode;
 }) {
@@ -48,10 +58,16 @@ export function WalkthroughProgressProvider({
       )
   );
   const [lastDoneId, setLastDoneId] = useState(lastCompletedId);
+  const [routeKey, setRouteKey] = useState<string | null>(() => resolveRouteKey(routes, initialRouteKey));
+  const selectedRouteKey = resolveRouteKey(routes, routeKey);
+  const applicableSections = useMemo(
+    () => filterRouteSections(sections, routes, selectedRouteKey),
+    [sections, routes, selectedRouteKey]
+  );
 
   const value = useMemo(
-    () => ({ sections, done, setDone, lastDoneId, setLastDoneId }),
-    [sections, done, lastDoneId]
+    () => ({ sections: applicableSections, allSections: sections, routes, routeKey: selectedRouteKey, setRouteKey, done, setDone, lastDoneId, setLastDoneId }),
+    [applicableSections, sections, routes, selectedRouteKey, done, lastDoneId]
   );
 
   return (
@@ -69,7 +85,7 @@ export function useWalkthroughProgress() {
 
 /** Overall ring + counts, sized to sit beside the title in the game header. */
 export function WalkthroughSummary({ labels }: { labels: Dictionary["gameDetail"] }) {
-  const { sections, done } = useWalkthroughProgress();
+  const { sections, done, routes, routeKey } = useWalkthroughProgress();
   const w = labels.walkthrough;
 
   const tally = (list: Chapter[]) => {
@@ -108,8 +124,12 @@ export function WalkthroughSummary({ labels }: { labels: Dictionary["gameDetail"
             ? t(w.storyStepsComplete, { done: main.done, total: main.total })
             : t(labels.itemsComplete, { done: main.done, total: main.total })}
         </p>
-        <p className="text-xs whitespace-nowrap text-muted-foreground">
-          {split
+        <p className="text-xs text-muted-foreground">
+          {routes.length > 0
+            ? routeKey
+              ? t(w.routeSummary, { route: routes.find((route) => route.key === routeKey)?.title ?? "", percent: totalPercent })
+              : w.routeCommonProgress
+            : split
             ? t(w.completionTotal, { percent: totalPercent })
             : t(labels.chaptersComplete, { done: main.chaptersDone, total: main.chapters })}
         </p>

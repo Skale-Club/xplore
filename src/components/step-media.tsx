@@ -45,15 +45,17 @@ export function parseStepMedia(url: string): Media {
   return { kind: "image", src: url };
 }
 
-/** Small thumbnail beside a step; opens the image or video in a dialog. */
+/** Full-width media below a step on phones; a thumbnail beside it on desktop. */
 export function StepMediaThumb({
   url,
   title,
   labels,
+  onOpen,
 }: {
   url: string;
   title: string;
-  labels: { viewImage: string; watchVideo: string };
+  labels: { viewImage: string; watchVideo: string; close: string };
+  onOpen?: () => void;
 }) {
   const [open, setOpen] = useState(false);
   const media = parseStepMedia(url);
@@ -64,17 +66,17 @@ export function StepMediaThumb({
     <>
       <button
         type="button"
-        onClick={() => setOpen(true)}
+        onClick={() => { onOpen?.(); setOpen(true); }}
         aria-label={`${isVideo ? labels.watchVideo : labels.viewImage}: ${title}`}
-        className="group relative mt-0.5 block aspect-video w-20 shrink-0 overflow-hidden rounded-lg border bg-muted outline-none transition-transform focus-visible:ring-3 focus-visible:ring-ring/50 active:scale-95 sm:w-28"
+        className="group relative block aspect-video w-full shrink-0 overflow-hidden rounded-lg border bg-muted outline-none transition-transform focus-visible:ring-3 focus-visible:ring-ring/50 active:scale-[0.98] md:mt-0.5 md:w-36"
       >
         <Image
           src={thumb}
           alt=""
           fill
-          sizes="112px"
+          sizes="(max-width: 767px) calc(100vw - 64px), 144px"
           unoptimized={isVideo}
-          className="object-cover transition-transform duration-300 group-hover:scale-105"
+          className="object-contain"
         />
         <span className="absolute inset-0 flex items-center justify-center bg-black/25 transition-colors group-hover:bg-black/40">
           {isVideo ? (
@@ -88,7 +90,7 @@ export function StepMediaThumb({
       </button>
 
       <Dialog open={open} onOpenChange={setOpen}>
-        <DialogContent className="gap-2 bg-card p-2 sm:max-w-3xl sm:p-3">
+        <DialogContent closeLabel={labels.close} className="gap-2 bg-card p-2 sm:max-w-3xl sm:p-3">
           <DialogTitle className="pr-10 pl-1 text-sm font-medium">{title}</DialogTitle>
           <div className="relative aspect-video w-full overflow-hidden rounded-lg bg-black">
             {open &&

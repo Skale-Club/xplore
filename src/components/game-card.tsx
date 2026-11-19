@@ -10,6 +10,7 @@ import {
 } from "@/components/ui/card";
 import { ProgressBar } from "@/components/progress-bar";
 import { PlatformLogo } from "@/components/platform-logo";
+import { NavigationPending } from "@/components/navigation-pending";
 
 export function GameCard({
   title,
@@ -20,6 +21,7 @@ export function GameCard({
   completeLabel,
   coverUrl,
   completionistBadge,
+  loadingLabel,
 }: {
   title: string;
   platform: string;
@@ -29,6 +31,7 @@ export function GameCard({
   completeLabel?: string;
   coverUrl?: string | null;
   completionistBadge?: string | null;
+  loadingLabel: string;
 }) {
   const complete = percent === 100;
 
@@ -42,7 +45,7 @@ export function GameCard({
               alt={title}
               width={56}
               height={56}
-              className="size-14 shrink-0 rounded object-cover shadow-sm ring-1 ring-border"
+              className="size-14 shrink-0 rounded bg-muted/50 object-contain shadow-sm ring-1 ring-border"
             />
           )}
           <div className="flex min-w-0 flex-col gap-1">
@@ -52,6 +55,7 @@ export function GameCard({
                 className="outline-none after:absolute after:inset-0 after:content-['']"
               >
                 {title}
+                <NavigationPending label={loadingLabel} className="ml-2 align-middle" />
               </Link>
             </CardTitle>
             <CardDescription className="flex items-center gap-2">

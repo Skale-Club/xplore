@@ -1,0 +1,1771 @@
+{
+  "slug": "grand-theft-auto-chinatown-wars",
+  "title": "Grand Theft Auto: Chinatown Wars",
+  "title_i18n": {
+    "en": "Grand Theft Auto: Chinatown Wars",
+    "pt": "Grand Theft Auto: Chinatown Wars"
+  },
+  "platform": "Nintendo DS",
+  "cover_url": "/covers/grand-theft-auto-chinatown-wars.png",
+  "created_by": "dd5c4bf0-85ea-4986-9c04-b37e8c986150",
+  "categories": [
+    {
+      "key": "arrival-and-kenny",
+      "title": "Arrival and Kenny's introductions",
+      "title_i18n": {
+        "en": "Arrival and Kenny's introductions",
+        "pt": "A chegada e as apresentações de Kenny"
+      },
+      "items": [
+        {
+          "key": "yu-jian",
+          "title": "Complete Yu Jian",
+          "title_i18n": {
+            "en": "Complete Yu Jian",
+            "pt": "Conclua Yu Jian"
+          },
+          "description": "Escape the opening danger and reach Kenny's safehouse.",
+          "description_i18n": {
+            "en": "Escape the opening danger and reach Kenny's safehouse.",
+            "pt": "Escape do perigo inicial e alcance o esconderijo de Kenny."
+          }
+        },
+        {
+          "key": "pursuit-farce",
+          "title": "Complete Pursuit Farce",
+          "title_i18n": {
+            "en": "Complete Pursuit Farce",
+            "pt": "Conclua Pursuit Farce"
+          },
+          "description": "Help Ling escape the pursuit and finish the journey.",
+          "description_i18n": {
+            "en": "Help Ling escape the pursuit and finish the journey.",
+            "pt": "Ajude Ling a escapar da perseguição e conclua o trajeto."
+          }
+        },
+        {
+          "key": "under-the-gun",
+          "title": "Complete Under the Gun",
+          "title_i18n": {
+            "en": "Complete Under the Gun",
+            "pt": "Conclua Under the Gun"
+          },
+          "description": "Complete the weapons lesson and protect the return.",
+          "description_i18n": {
+            "en": "Complete the weapons lesson and protect the return.",
+            "pt": "Conclua a lição de armas e proteja o retorno."
+          }
+        },
+        {
+          "key": "payback",
+          "title": "Complete Payback",
+          "title_i18n": {
+            "en": "Complete Payback",
+            "pt": "Conclua Payback"
+          },
+          "description": "Follow Kenny's lead and complete the confrontation.",
+          "description_i18n": {
+            "en": "Follow Kenny's lead and complete the confrontation.",
+            "pt": "Siga a pista de Kenny e conclua o confronto."
+          }
+        },
+        {
+          "key": "the-wheelman",
+          "title": "Complete The Wheelman",
+          "title_i18n": {
+            "en": "Complete The Wheelman",
+            "pt": "Conclua The Wheelman"
+          },
+          "description": "Recover the requested vehicles and complete their deliveries.",
+          "description_i18n": {
+            "en": "Recover the requested vehicles and complete their deliveries.",
+            "pt": "Recupere os veículos solicitados e conclua as entregas."
+          },
+          "details": "The deadline uses the in-game clock. Deliver all three marked cars intact; use each garage stop to plan the next pickup rather than risking a wrecked delivery.",
+          "details_i18n": {
+            "en": "The deadline uses the in-game clock. Deliver all three marked cars intact; use each garage stop to plan the next pickup rather than risking a wrecked delivery.",
+            "pt": "O prazo usa o relógio do jogo. Entregue os três carros marcados intactos; aproveite cada parada na garagem para planejar a próxima coleta e evitar uma entrega destruída."
+          }
+        },
+        {
+          "key": "tricks-of-the-triad",
+          "title": "Complete Tricks of the Triad",
+          "title_i18n": {
+            "en": "Complete Tricks of the Triad",
+            "pt": "Conclua Tricks of the Triad"
+          },
+          "description": "Complete the drug-trading introduction and return as instructed.",
+          "description_i18n": {
+            "en": "Complete the drug-trading introduction and return as instructed.",
+            "pt": "Conclua a introdução ao comércio de drogas e retorne conforme as instruções."
+          }
+        },
+        {
+          "key": "natural-burn-killer",
+          "title": "Complete Natural Burn Killer",
+          "title_i18n": {
+            "en": "Complete Natural Burn Killer",
+            "pt": "Conclua Natural Burn Killer"
+          },
+          "description": "Prepare the required equipment and finish the marked attack.",
+          "description_i18n": {
+            "en": "Prepare the required equipment and finish the marked attack.",
+            "pt": "Prepare o equipamento exigido e conclua o ataque marcado."
+          }
+        },
+        {
+          "key": "recruitment-drive",
+          "title": "Complete Recruitment Drive",
+          "title_i18n": {
+            "en": "Complete Recruitment Drive",
+            "pt": "Conclua Recruitment Drive"
+          },
+          "description": "Collect the recruits and complete the changing route.",
+          "description_i18n": {
+            "en": "Collect the recruits and complete the changing route.",
+            "pt": "Busque os recrutas e conclua a rota que muda."
+          }
+        },
+        {
+          "key": "pimp-his-ride",
+          "title": "Complete Pimp His Ride",
+          "title_i18n": {
+            "en": "Complete Pimp His Ride",
+            "pt": "Conclua Pimp His Ride"
+          },
+          "description": "Recover the marked car and complete its modification and return.",
+          "description_i18n": {
+            "en": "Recover the marked car and complete its modification and return.",
+            "pt": "Recupere o carro marcado e conclua sua modificação e devolução."
+          }
+        },
+        {
+          "key": "whack-the-racers",
+          "title": "Complete Whack the Racers",
+          "title_i18n": {
+            "en": "Complete Whack the Racers",
+            "pt": "Conclua Whack the Racers"
+          },
+          "description": "Complete Chan's racing interference assignment.",
+          "description_i18n": {
+            "en": "Complete Chan's racing interference assignment.",
+            "pt": "Conclua o trabalho de interferência na corrida de Chan."
+          }
+        }
+      ]
+    },
+    {
+      "key": "chan-zhou-and-kenny",
+      "title": "Chan, Zhou and Kenny's business",
+      "title_i18n": {
+        "en": "Chan, Zhou and Kenny's business",
+        "pt": "Os negócios de Chan, Zhou e Kenny"
+      },
+      "items": [
+        {
+          "key": "jackin-chan",
+          "title": "Complete Jackin' Chan",
+          "title_i18n": {
+            "en": "Complete Jackin' Chan",
+            "pt": "Conclua Jackin' Chan"
+          },
+          "description": "Respond to Chan's emergency and complete the rescue.",
+          "description_i18n": {
+            "en": "Respond to Chan's emergency and complete the rescue.",
+            "pt": "Atenda à emergência de Chan e conclua o resgate."
+          }
+        },
+        {
+          "key": "stealing-the-show",
+          "title": "Complete Stealing the Show",
+          "title_i18n": {
+            "en": "Complete Stealing the Show",
+            "pt": "Conclua Stealing the Show"
+          },
+          "description": "Complete the moving-cargo operation and deliver the goods.",
+          "description_i18n": {
+            "en": "Complete the moving-cargo operation and deliver the goods.",
+            "pt": "Conclua a operação com carga em movimento e entregue a mercadoria."
+          }
+        },
+        {
+          "key": "flatliner",
+          "title": "Complete Flatliner",
+          "title_i18n": {
+            "en": "Complete Flatliner",
+            "pt": "Conclua Flatliner"
+          },
+          "description": "Complete the medical transport while keeping the passenger alive.",
+          "description_i18n": {
+            "en": "Complete the medical transport while keeping the passenger alive.",
+            "pt": "Conclua o transporte médico mantendo o passageiro vivo."
+          },
+          "details": "Watch the patient as well as the road. If he flatlines, repeatedly tap the touchscreen heart icon to revive him, then resume driving carefully to the destination.",
+          "details_i18n": {
+            "en": "Watch the patient as well as the road. If he flatlines, repeatedly tap the touchscreen heart icon to revive him, then resume driving carefully to the destination.",
+            "pt": "Observe o paciente e a estrada. Se o coração parar, toque repetidamente no ícone de coração da tela sensível ao toque para reanimá-lo e retome a condução cuidadosa até o destino."
+          }
+        },
+        {
+          "key": "bomb-disposal",
+          "title": "Complete Bomb Disposal",
+          "title_i18n": {
+            "en": "Complete Bomb Disposal",
+            "pt": "Conclua Bomb Disposal"
+          },
+          "description": "Protect the stash vehicles and complete the disposal stages.",
+          "description_i18n": {
+            "en": "Protect the stash vehicles and complete the disposal stages.",
+            "pt": "Proteja os veículos de carga e conclua as etapas de desarmamento."
+          },
+          "details": "Check each wire with the voltmeter and cut the one showing the highest voltage; the correct color is not fixed. Deal with the initial vans before confronting the later threat.",
+          "details_i18n": {
+            "en": "Check each wire with the voltmeter and cut the one showing the highest voltage; the correct color is not fixed. Deal with the initial vans before confronting the later threat.",
+            "pt": "Confira cada fio com o voltímetro e corte o que indicar a maior tensão; a cor correta não é fixa. Resolva os primeiros furgões antes de enfrentar a ameaça seguinte."
+          }
+        },
+        {
+          "key": "carpe-dime",
+          "title": "Complete Carpe Dime",
+          "title_i18n": {
+            "en": "Complete Carpe Dime",
+            "pt": "Conclua Carpe Dime"
+          },
+          "description": "Intercept the marked transport and recover the requested material.",
+          "description_i18n": {
+            "en": "Intercept the marked transport and recover the requested material.",
+            "pt": "Intercepte o transporte marcado e recupere o material solicitado."
+          }
+        },
+        {
+          "key": "store-wars",
+          "title": "Complete Store Wars",
+          "title_i18n": {
+            "en": "Complete Store Wars",
+            "pt": "Conclua Store Wars"
+          },
+          "description": "Protect the marked store through the incoming attacks.",
+          "description_i18n": {
+            "en": "Protect the marked store through the incoming attacks.",
+            "pt": "Proteja a loja marcada durante os ataques."
+          }
+        },
+        {
+          "key": "raw-deal",
+          "title": "Complete Raw Deal",
+          "title_i18n": {
+            "en": "Complete Raw Deal",
+            "pt": "Conclua Raw Deal"
+          },
+          "description": "Protect Chan through the interrupted meeting and escape.",
+          "description_i18n": {
+            "en": "Protect Chan through the interrupted meeting and escape.",
+            "pt": "Proteja Chan durante o encontro interrompido e a fuga."
+          }
+        },
+        {
+          "key": "driven-to-destruction",
+          "title": "Complete Driven to Destruction",
+          "title_i18n": {
+            "en": "Complete Driven to Destruction",
+            "pt": "Conclua Driven to Destruction"
+          },
+          "description": "Complete the vehicle-based attack while protecting the mission transport.",
+          "description_i18n": {
+            "en": "Complete the vehicle-based attack while protecting the mission transport.",
+            "pt": "Conclua o ataque com veículo protegendo o transporte da missão."
+          }
+        },
+        {
+          "key": "the-tow-job",
+          "title": "Complete The Tow Job",
+          "title_i18n": {
+            "en": "Complete The Tow Job",
+            "pt": "Conclua The Tow Job"
+          },
+          "description": "Recover the marked vehicle and complete its transfer.",
+          "description_i18n": {
+            "en": "Recover the marked vehicle and complete its transfer.",
+            "pt": "Recupere o veículo marcado e conclua sua transferência."
+          }
+        },
+        {
+          "key": "trail-blazer",
+          "title": "Complete Trail Blazer",
+          "title_i18n": {
+            "en": "Complete Trail Blazer",
+            "pt": "Conclua Trail Blazer"
+          },
+          "description": "Complete the timed vehicle operation and leave the target area.",
+          "description_i18n": {
+            "en": "Complete the timed vehicle operation and leave the target area.",
+            "pt": "Conclua a operação cronometrada com veículo e saia da área-alvo."
+          }
+        },
+        {
+          "key": "the-tail-bagging-the-dogs",
+          "title": "Complete The Tail Bagging the Dogs",
+          "title_i18n": {
+            "en": "Complete The Tail Bagging the Dogs",
+            "pt": "Conclua The Tail Bagging the Dogs"
+          },
+          "description": "Follow the surveillance route and resolve its changing targets.",
+          "description_i18n": {
+            "en": "Follow the surveillance route and resolve its changing targets.",
+            "pt": "Siga a rota de vigilância e resolva seus alvos variáveis."
+          }
+        },
+        {
+          "key": "copter-carnage",
+          "title": "Complete Copter Carnage",
+          "title_i18n": {
+            "en": "Complete Copter Carnage",
+            "pt": "Conclua Copter Carnage"
+          },
+          "description": "Protect the objective from the aerial attack.",
+          "description_i18n": {
+            "en": "Protect the objective from the aerial attack.",
+            "pt": "Proteja o objetivo do ataque aéreo."
+          }
+        },
+        {
+          "key": "kenny-strikes-back",
+          "title": "Complete Kenny Strikes Back",
+          "title_i18n": {
+            "en": "Complete Kenny Strikes Back",
+            "pt": "Conclua Kenny Strikes Back"
+          },
+          "description": "Complete the guarded recovery and deliver the cargo.",
+          "description_i18n": {
+            "en": "Complete the guarded recovery and deliver the cargo.",
+            "pt": "Conclua a recuperação vigiada e entregue a carga."
+          }
+        }
+      ]
+    },
+    {
+      "key": "heston-and-citywide-work",
+      "title": "Heston and work across the city",
+      "title_i18n": {
+        "en": "Heston and work across the city",
+        "pt": "Heston e trabalhos pela cidade"
+      },
+      "items": [
+        {
+          "key": "weapons-of-mass-distraction",
+          "title": "Complete Weapons of Mass Distraction",
+          "title_i18n": {
+            "en": "Complete Weapons of Mass Distraction",
+            "pt": "Conclua Weapons of Mass Distraction"
+          },
+          "description": "Create the required distraction and finish the getaway.",
+          "description_i18n": {
+            "en": "Create the required distraction and finish the getaway.",
+            "pt": "Crie a distração exigida e conclua a fuga."
+          }
+        },
+        {
+          "key": "street-of-rage",
+          "title": "Complete Street of Rage",
+          "title_i18n": {
+            "en": "Complete Street of Rage",
+            "pt": "Conclua Street of Rage"
+          },
+          "description": "Protect the mission transport through the street attacks.",
+          "description_i18n": {
+            "en": "Protect the mission transport through the street attacks.",
+            "pt": "Proteja o transporte da missão durante os ataques nas ruas."
+          }
+        },
+        {
+          "key": "missed-the-boat",
+          "title": "Complete Missed the Boat?",
+          "title_i18n": {
+            "en": "Complete Missed the Boat?",
+            "pt": "Conclua Missed the Boat?"
+          },
+          "description": "Recover the requested cargo and finish the waterborne delivery.",
+          "description_i18n": {
+            "en": "Recover the requested cargo and finish the waterborne delivery.",
+            "pt": "Recupere a carga solicitada e conclua a entrega pela água."
+          }
+        },
+        {
+          "key": "cash-burn",
+          "title": "Complete Cash & Burn",
+          "title_i18n": {
+            "en": "Complete Cash & Burn",
+            "pt": "Conclua Cash & Burn"
+          },
+          "description": "Complete the industrial attack using the mission equipment.",
+          "description_i18n": {
+            "en": "Complete the industrial attack using the mission equipment.",
+            "pt": "Conclua o ataque industrial com o equipamento da missão."
+          }
+        },
+        {
+          "key": "dragon-haul-z",
+          "title": "Complete Dragon Haul Z",
+          "title_i18n": {
+            "en": "Complete Dragon Haul Z",
+            "pt": "Conclua Dragon Haul Z"
+          },
+          "description": "Complete Zhou's special-vehicle route and its performance objective.",
+          "description_i18n": {
+            "en": "Complete Zhou's special-vehicle route and its performance objective.",
+            "pt": "Conclua a rota de veículo especial de Zhou e seu objetivo de apresentação."
+          },
+          "details": "Keep the costume vehicle usable before the parade. At marked performance points, follow the touchscreen prompts. The fire icon provides an alternative to blowing into the microphone.",
+          "details_i18n": {
+            "en": "Keep the costume vehicle usable before the parade. At marked performance points, follow the touchscreen prompts. The fire icon provides an alternative to blowing into the microphone.",
+            "pt": "Preserve o veículo da fantasia antes do desfile. Nos pontos de apresentação, siga os comandos da tela sensível ao toque. O ícone de fogo permite executar a ação sem soprar no microfone."
+          }
+        },
+        {
+          "key": "sa-boat-age",
+          "title": "Complete Sa-Boat-Age",
+          "title_i18n": {
+            "en": "Complete Sa-Boat-Age",
+            "pt": "Conclua Sa-Boat-Age"
+          },
+          "description": "Protect the boat operation and finish its escape.",
+          "description_i18n": {
+            "en": "Protect the boat operation and finish its escape.",
+            "pt": "Proteja a operação de barco e conclua a fuga."
+          }
+        },
+        {
+          "key": "the-offshore-offload",
+          "title": "Complete The Offshore Offload",
+          "title_i18n": {
+            "en": "Complete The Offshore Offload",
+            "pt": "Conclua The Offshore Offload"
+          },
+          "description": "Support the offshore recovery and return with the cargo.",
+          "description_i18n": {
+            "en": "Support the offshore recovery and return with the cargo.",
+            "pt": "Apoie a recuperação em alto-mar e retorne com a carga."
+          }
+        },
+        {
+          "key": "one-shot-one-kill",
+          "title": "Complete One Shot, One Kill",
+          "title_i18n": {
+            "en": "Complete One Shot, One Kill",
+            "pt": "Conclua One Shot, One Kill"
+          },
+          "description": "Complete the long-range assignment and leave safely.",
+          "description_i18n": {
+            "en": "Complete the long-range assignment and leave safely.",
+            "pt": "Conclua o trabalho de longa distância e saia em segurança."
+          }
+        },
+        {
+          "key": "the-fandom-menace",
+          "title": "Complete The Fandom Menace",
+          "title_i18n": {
+            "en": "Complete The Fandom Menace",
+            "pt": "Conclua The Fandom Menace"
+          },
+          "description": "Protect the passengers through the interrupted outing.",
+          "description_i18n": {
+            "en": "Protect the passengers through the interrupted outing.",
+            "pt": "Proteja os passageiros durante o passeio interrompido."
+          }
+        },
+        {
+          "key": "counterfeit-gangster",
+          "title": "Complete Counterfeit Gangster",
+          "title_i18n": {
+            "en": "Complete Counterfeit Gangster",
+            "pt": "Conclua Counterfeit Gangster"
+          },
+          "description": "Complete the guarded cargo operation.",
+          "description_i18n": {
+            "en": "Complete the guarded cargo operation.",
+            "pt": "Conclua a operação de carga vigiada."
+          }
+        },
+        {
+          "key": "slaying-with-fire",
+          "title": "Complete Slaying with Fire",
+          "title_i18n": {
+            "en": "Complete Slaying with Fire",
+            "pt": "Conclua Slaying with Fire"
+          },
+          "description": "Complete the airborne support assignment.",
+          "description_i18n": {
+            "en": "Complete the airborne support assignment.",
+            "pt": "Conclua o trabalho de apoio aéreo."
+          }
+        }
+      ]
+    },
+    {
+      "key": "hsin-and-investigations",
+      "title": "Hsin and the investigations",
+      "title_i18n": {
+        "en": "Hsin and the investigations",
+        "pt": "Hsin e as investigações"
+      },
+      "items": [
+        {
+          "key": "operation-northwood",
+          "title": "Complete Operation Northwood",
+          "title_i18n": {
+            "en": "Complete Operation Northwood",
+            "pt": "Conclua Operation Northwood"
+          },
+          "description": "Follow the moving lead and complete the interception.",
+          "description_i18n": {
+            "en": "Follow the moving lead and complete the interception.",
+            "pt": "Acompanhe a pista em movimento e conclua a interceptação."
+          }
+        },
+        {
+          "key": "torpedo-run",
+          "title": "Complete Torpedo Run",
+          "title_i18n": {
+            "en": "Complete Torpedo Run",
+            "pt": "Conclua Torpedo Run"
+          },
+          "description": "Complete the waterborne target assignment.",
+          "description_i18n": {
+            "en": "Complete the waterborne target assignment.",
+            "pt": "Conclua o trabalho contra o alvo na água."
+          }
+        },
+        {
+          "key": "so-near-yet-sonar",
+          "title": "Complete So Near, Yet Sonar",
+          "title_i18n": {
+            "en": "Complete So Near, Yet Sonar",
+            "pt": "Conclua So Near, Yet Sonar"
+          },
+          "description": "Recover the submerged cargo and complete the return.",
+          "description_i18n": {
+            "en": "Recover the submerged cargo and complete the return.",
+            "pt": "Recupere a carga submersa e conclua o retorno."
+          }
+        },
+        {
+          "key": "by-myriads-of-swords",
+          "title": "Complete By Myriads of Swords",
+          "title_i18n": {
+            "en": "Complete By Myriads of Swords",
+            "pt": "Conclua By Myriads of Swords"
+          },
+          "description": "Prepare for Hsin's confrontation and finish the marked objectives.",
+          "description_i18n": {
+            "en": "Prepare for Hsin's confrontation and finish the marked objectives.",
+            "pt": "Prepare-se para o confronto de Hsin e conclua os objetivos marcados."
+          }
+        },
+        {
+          "key": "a-shadow-of-doubt",
+          "title": "Complete A Shadow of Doubt",
+          "title_i18n": {
+            "en": "Complete A Shadow of Doubt",
+            "pt": "Conclua A Shadow of Doubt"
+          },
+          "description": "Follow the investigation and recover the requested evidence.",
+          "description_i18n": {
+            "en": "Follow the investigation and recover the requested evidence.",
+            "pt": "Siga a investigação e recupere a prova solicitada."
+          }
+        },
+        {
+          "key": "friend-or-foe",
+          "title": "Complete Friend or Foe?",
+          "title_i18n": {
+            "en": "Complete Friend or Foe?",
+            "pt": "Conclua Friend or Foe?"
+          },
+          "description": "Follow Rudy's instructions through the guarded encounter.",
+          "description_i18n": {
+            "en": "Follow Rudy's instructions through the guarded encounter.",
+            "pt": "Siga as instruções de Rudy durante o encontro vigiado."
+          }
+        },
+        {
+          "key": "grave-situation",
+          "title": "Complete Grave Situation",
+          "title_i18n": {
+            "en": "Complete Grave Situation",
+            "pt": "Conclua Grave Situation"
+          },
+          "description": "Complete the cemetery operation and the disposal instructions.",
+          "description_i18n": {
+            "en": "Complete the cemetery operation and the disposal instructions.",
+            "pt": "Conclua a operação no cemitério e as instruções de descarte."
+          }
+        },
+        {
+          "key": "double-trouble",
+          "title": "Complete Double Trouble",
+          "title_i18n": {
+            "en": "Complete Double Trouble",
+            "pt": "Conclua Double Trouble"
+          },
+          "description": "Complete Lester's surveillance and support assignment.",
+          "description_i18n": {
+            "en": "Complete Lester's surveillance and support assignment.",
+            "pt": "Conclua o trabalho de vigilância e apoio de Lester."
+          }
+        },
+        {
+          "key": "faster-pusher-man-sell-sell",
+          "title": "Complete Faster Pusher Man! Sell! Sell!",
+          "title_i18n": {
+            "en": "Complete Faster Pusher Man! Sell! Sell!",
+            "pt": "Conclua Faster Pusher Man! Sell! Sell!"
+          },
+          "description": "Complete the required trading assignment while watching its deadline.",
+          "description_i18n": {
+            "en": "Complete the required trading assignment while watching its deadline.",
+            "pt": "Conclua o trabalho de comércio exigido acompanhando o prazo."
+          }
+        },
+        {
+          "key": "scrambled",
+          "title": "Complete Scrambled",
+          "title_i18n": {
+            "en": "Complete Scrambled",
+            "pt": "Conclua Scrambled"
+          },
+          "description": "Track the signal and complete the marked destruction.",
+          "description_i18n": {
+            "en": "Track the signal and complete the marked destruction.",
+            "pt": "Rastreie o sinal e conclua a destruição marcada."
+          }
+        }
+      ]
+    },
+    {
+      "key": "weapons-and-betrayals",
+      "title": "Weapons and the closing investigations",
+      "title_i18n": {
+        "en": "Weapons and the closing investigations",
+        "pt": "Armas e as investigações finais"
+      },
+      "items": [
+        {
+          "key": "steal-the-wheels",
+          "title": "Complete Steal the Wheels",
+          "title_i18n": {
+            "en": "Complete Steal the Wheels",
+            "pt": "Conclua Steal the Wheels"
+          },
+          "description": "Recover the requested vehicles from the guarded site.",
+          "description_i18n": {
+            "en": "Recover the requested vehicles from the guarded site.",
+            "pt": "Recupere os veículos solicitados no local vigiado."
+          }
+        },
+        {
+          "key": "arms-out-of-harm-s-way",
+          "title": "Complete Arms Out of Harm's Way",
+          "title_i18n": {
+            "en": "Complete Arms Out of Harm's Way",
+            "pt": "Conclua Arms Out of Harm's Way"
+          },
+          "description": "Protect the weapons operation and complete the delivery.",
+          "description_i18n": {
+            "en": "Protect the weapons operation and complete the delivery.",
+            "pt": "Proteja a operação de armas e conclua a entrega."
+          }
+        },
+        {
+          "key": "the-wages-of-hsin",
+          "title": "Complete The Wages of Hsin",
+          "title_i18n": {
+            "en": "Complete The Wages of Hsin",
+            "pt": "Conclua The Wages of Hsin"
+          },
+          "description": "Complete Hsin's successive target assignments.",
+          "description_i18n": {
+            "en": "Complete Hsin's successive target assignments.",
+            "pt": "Conclua os trabalhos sucessivos contra os alvos de Hsin."
+          }
+        },
+        {
+          "key": "convoy-conflict",
+          "title": "Complete Convoy Conflict",
+          "title_i18n": {
+            "en": "Complete Convoy Conflict",
+            "pt": "Conclua Convoy Conflict"
+          },
+          "description": "Intercept the convoy and recover its cargo.",
+          "description_i18n": {
+            "en": "Intercept the convoy and recover its cargo.",
+            "pt": "Intercepte o comboio e recupere a carga."
+          }
+        },
+        {
+          "key": "the-world-s-a-stooge",
+          "title": "Complete The World's a Stooge",
+          "title_i18n": {
+            "en": "Complete The World's a Stooge",
+            "pt": "Conclua The World's a Stooge"
+          },
+          "description": "Complete the marked confrontation and return.",
+          "description_i18n": {
+            "en": "Complete the marked confrontation and return.",
+            "pt": "Conclua o confronto marcado e retorne."
+          }
+        },
+        {
+          "key": "evidence-dash",
+          "title": "Complete Evidence Dash",
+          "title_i18n": {
+            "en": "Complete Evidence Dash",
+            "pt": "Conclua Evidence Dash"
+          },
+          "description": "Recover the scattered evidence before it is lost.",
+          "description_i18n": {
+            "en": "Recover the scattered evidence before it is lost.",
+            "pt": "Recupere as provas espalhadas antes que sejam perdidas."
+          }
+        },
+        {
+          "key": "oversights",
+          "title": "Complete Oversights",
+          "title_i18n": {
+            "en": "Complete Oversights",
+            "pt": "Conclua Oversights"
+          },
+          "description": "Provide cover for the meeting and respond to the attack.",
+          "description_i18n": {
+            "en": "Provide cover for the meeting and respond to the attack.",
+            "pt": "Dê cobertura ao encontro e reaja ao ataque."
+          }
+        },
+        {
+          "key": "a-rude-awakening",
+          "title": "Complete A Rude Awakening",
+          "title_i18n": {
+            "en": "Complete A Rude Awakening",
+            "pt": "Conclua A Rude Awakening"
+          },
+          "description": "Follow the new information and complete the confrontation.",
+          "description_i18n": {
+            "en": "Follow the new information and complete the confrontation.",
+            "pt": "Siga a nova informação e conclua o confronto."
+          }
+        }
+      ]
+    },
+    {
+      "key": "final-pursuit",
+      "title": "The final pursuit and Salt in the Wound",
+      "title_i18n": {
+        "en": "The final pursuit and Salt in the Wound",
+        "pt": "A perseguição final e Salt in the Wound"
+      },
+      "items": [
+        {
+          "key": "see-no-evil",
+          "title": "Complete See No Evil",
+          "title_i18n": {
+            "en": "Complete See No Evil",
+            "pt": "Conclua See No Evil"
+          },
+          "description": "Track the departing target and finish the interception.",
+          "description_i18n": {
+            "en": "Track the departing target and finish the interception.",
+            "pt": "Acompanhe o alvo que está partindo e conclua a interceptação."
+          }
+        },
+        {
+          "key": "wi-find",
+          "title": "Complete Wi-Find",
+          "title_i18n": {
+            "en": "Complete Wi-Find",
+            "pt": "Conclua Wi-Find"
+          },
+          "description": "Complete the signal-tracking assignment and report back.",
+          "description_i18n": {
+            "en": "Complete the signal-tracking assignment and report back.",
+            "pt": "Conclua o trabalho de rastreamento de sinais e informe o resultado."
+          },
+          "details": "Find a position where both signal meters show five bars. Work from one strong signal toward the other. If police interrupt a transfer, lose their attention and restore reception.",
+          "details_i18n": {
+            "en": "Find a position where both signal meters show five bars. Work from one strong signal toward the other. If police interrupt a transfer, lose their attention and restore reception.",
+            "pt": "Encontre uma posição em que os dois medidores mostrem cinco barras. Parta de um sinal forte em direção ao outro. Se a polícia interromper a transferência, despiste-a e recupere a recepção."
+          }
+        },
+        {
+          "key": "rat-race",
+          "title": "Complete Rat Race",
+          "title_i18n": {
+            "en": "Complete Rat Race",
+            "pt": "Conclua Rat Race"
+          },
+          "description": "Protect the passenger through the extended getaway.",
+          "description_i18n": {
+            "en": "Protect the passenger through the extended getaway.",
+            "pt": "Proteja o passageiro durante a fuga prolongada."
+          }
+        },
+        {
+          "key": "clear-the-pier",
+          "title": "Complete Clear the Pier",
+          "title_i18n": {
+            "en": "Complete Clear the Pier",
+            "pt": "Conclua Clear the Pier"
+          },
+          "description": "Complete the guarded waterfront operation.",
+          "description_i18n": {
+            "en": "Complete the guarded waterfront operation.",
+            "pt": "Conclua a operação vigiada à beira da água."
+          }
+        },
+        {
+          "key": "hit-from-the-tong",
+          "title": "Complete Hit from the Tong",
+          "title_i18n": {
+            "en": "Complete Hit from the Tong",
+            "pt": "Conclua Hit from the Tong"
+          },
+          "description": "Complete the rooftop pursuit and its changing threats.",
+          "description_i18n": {
+            "en": "Complete the rooftop pursuit and its changing threats.",
+            "pt": "Conclua a perseguição pelos telhados e suas ameaças variáveis."
+          }
+        },
+        {
+          "key": "salt-in-the-wound",
+          "title": "Complete Salt in the Wound",
+          "title_i18n": {
+            "en": "Complete Salt in the Wound",
+            "pt": "Conclua Salt in the Wound"
+          },
+          "description": "Complete the final pursuit and confrontation through the credits.",
+          "description_i18n": {
+            "en": "Complete the final pursuit and confrontation through the credits.",
+            "pt": "Conclua a perseguição e o confronto finais até os créditos."
+          },
+          "details": "Use the corridor alcoves between rocket attacks and protect Heston during the advance. In the boat section he drives while you operate the mounted gun; concentrate on pursuing threats.",
+          "details_i18n": {
+            "en": "Use the corridor alcoves between rocket attacks and protect Heston during the advance. In the boat section he drives while you operate the mounted gun; concentrate on pursuing threats.",
+            "pt": "Use os recuos do corredor entre os disparos de foguetes e proteja Heston durante o avanço. No trecho de barco, ele pilota enquanto você opera a arma montada; concentre-se nas ameaças que os perseguem."
+          }
+        }
+      ]
+    },
+    {
+      "key": "random-characters",
+      "title": "Eight random characters and their return visits",
+      "title_i18n": {
+        "en": "Eight random characters and their return visits",
+        "pt": "Oito personagens aleatórios e seus retornos"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "giorgio",
+          "title": "Giorgio: both encounters",
+          "title_i18n": {
+            "en": "Giorgio: both encounters",
+            "pt": "Giorgio: os dois encontros"
+          },
+          "description": "Complete both of Giorgio's street jobs.",
+          "description_i18n": {
+            "en": "Complete both of Giorgio's street jobs.",
+            "pt": "Conclua os dois trabalhos de rua de Giorgio."
+          }
+        },
+        {
+          "key": "selma",
+          "title": "Selma: both encounters",
+          "title_i18n": {
+            "en": "Selma: both encounters",
+            "pt": "Selma: os dois encontros"
+          },
+          "description": "Complete both encounters with Selma.",
+          "description_i18n": {
+            "en": "Complete both encounters with Selma.",
+            "pt": "Conclua os dois encontros com Selma."
+          }
+        },
+        {
+          "key": "tommy",
+          "title": "Tommy: both encounters",
+          "title_i18n": {
+            "en": "Tommy: both encounters",
+            "pt": "Tommy: os dois encontros"
+          },
+          "description": "Complete both encounters with Tommy.",
+          "description_i18n": {
+            "en": "Complete both encounters with Tommy.",
+            "pt": "Conclua os dois encontros com Tommy."
+          }
+        },
+        {
+          "key": "cherie",
+          "title": "Cherie",
+          "title_i18n": {
+            "en": "Cherie",
+            "pt": "Cherie"
+          },
+          "description": "Finish Cherie's street encounter.",
+          "description_i18n": {
+            "en": "Finish Cherie's street encounter.",
+            "pt": "Termine o encontro de rua com Cherie."
+          }
+        },
+        {
+          "key": "guy",
+          "title": "Guy",
+          "title_i18n": {
+            "en": "Guy",
+            "pt": "Guy"
+          },
+          "description": "Finish Guy's street encounter.",
+          "description_i18n": {
+            "en": "Finish Guy's street encounter.",
+            "pt": "Termine o encontro de rua com Guy."
+          }
+        },
+        {
+          "key": "marcy",
+          "title": "Marcy: both encounters",
+          "title_i18n": {
+            "en": "Marcy: both encounters",
+            "pt": "Marcy: os dois encontros"
+          },
+          "description": "Complete both encounters with Marcy.",
+          "description_i18n": {
+            "en": "Complete both encounters with Marcy.",
+            "pt": "Conclua os dois encontros com Marcy."
+          }
+        },
+        {
+          "key": "alonso",
+          "title": "Alonso",
+          "title_i18n": {
+            "en": "Alonso",
+            "pt": "Alonso"
+          },
+          "description": "Finish Alonso's encounter after its story prerequisite.",
+          "description_i18n": {
+            "en": "Finish Alonso's encounter after its story prerequisite.",
+            "pt": "Termine o encontro com Alonso após o pré-requisito da história."
+          }
+        },
+        {
+          "key": "wilhelm",
+          "title": "Wilhelm: three encounters",
+          "title_i18n": {
+            "en": "Wilhelm: three encounters",
+            "pt": "Wilhelm: três encontros"
+          },
+          "description": "Complete Wilhelm's three encounters and claim the resulting property.",
+          "description_i18n": {
+            "en": "Complete Wilhelm's three encounters and claim the resulting property.",
+            "pt": "Conclua os três encontros de Wilhelm e receba o imóvel resultante."
+          }
+        }
+      ]
+    },
+    {
+      "key": "vehicle-services",
+      "title": "Vehicle services: bronze completion goals",
+      "title_i18n": {
+        "en": "Vehicle services: bronze completion goals",
+        "pt": "Serviços de veículos: metas de bronze"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "vigilante-bronze",
+          "title": "Vigilante: bronze medal",
+          "title_i18n": {
+            "en": "Vigilante: bronze medal",
+            "pt": "Vigilante: medalha de bronze"
+          },
+          "description": "Finish five waves with at least a sixty-percent kill rate.",
+          "description_i18n": {
+            "en": "Finish five waves with at least a sixty-percent kill rate.",
+            "pt": "Termine cinco ondas com pelo menos sessenta por cento de eliminações."
+          }
+        },
+        {
+          "key": "paramedic-bronze",
+          "title": "Paramedic: bronze medal",
+          "title_i18n": {
+            "en": "Paramedic: bronze medal",
+            "pt": "Paramedic: medalha de bronze"
+          },
+          "description": "Finish five waves with at least a fifty-percent rescue rate.",
+          "description_i18n": {
+            "en": "Finish five waves with at least a fifty-percent rescue rate.",
+            "pt": "Termine cinco ondas com pelo menos cinquenta por cento de resgates."
+          }
+        },
+        {
+          "key": "firefighter-bronze",
+          "title": "Firefighter: bronze medal",
+          "title_i18n": {
+            "en": "Firefighter: bronze medal",
+            "pt": "Firefighter: medalha de bronze"
+          },
+          "description": "Complete three Firefighter emergency jobs to earn bronze.",
+          "description_i18n": {
+            "en": "Complete three Firefighter emergency jobs to earn bronze.",
+            "pt": "Conclua três atendimentos de emergência de Firefighter para obter bronze."
+          }
+        },
+        {
+          "key": "taxi-bronze",
+          "title": "Taxi Driver: bronze medal",
+          "title_i18n": {
+            "en": "Taxi Driver: bronze medal",
+            "pt": "Taxi Driver: medalha de bronze"
+          },
+          "description": "Deliver five consecutive fares successfully.",
+          "description_i18n": {
+            "en": "Deliver five consecutive fares successfully.",
+            "pt": "Conclua cinco corridas consecutivas com sucesso."
+          }
+        }
+      ]
+    },
+    {
+      "key": "odd-jobs",
+      "title": "Deliveries and touchscreen challenges",
+      "title_i18n": {
+        "en": "Deliveries and touchscreen challenges",
+        "pt": "Entregas e desafios da tela de toque"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "noodle-algonquin",
+          "title": "Noodle Run: Algonquin",
+          "title_i18n": {
+            "en": "Noodle Run: Algonquin",
+            "pt": "Noodle Run: Algonquin"
+          },
+          "description": "Earn at least bronze on the Algonquin delivery route.",
+          "description_i18n": {
+            "en": "Earn at least bronze on the Algonquin delivery route.",
+            "pt": "Obtenha pelo menos bronze na rota de entregas de Algonquin."
+          }
+        },
+        {
+          "key": "noodle-dukes",
+          "title": "Noodle Run: Dukes",
+          "title_i18n": {
+            "en": "Noodle Run: Dukes",
+            "pt": "Noodle Run: Dukes"
+          },
+          "description": "Earn at least bronze on the separate Dukes delivery route.",
+          "description_i18n": {
+            "en": "Earn at least bronze on the separate Dukes delivery route.",
+            "pt": "Obtenha pelo menos bronze na rota separada de entregas de Dukes."
+          }
+        },
+        {
+          "key": "excess-alpha-mail",
+          "title": "Excess Delivery: Alpha Mail",
+          "title_i18n": {
+            "en": "Excess Delivery: Alpha Mail",
+            "pt": "Excess Delivery: Alpha Mail"
+          },
+          "description": "Deliver at least three packages for the bronze medal on this route.",
+          "description_i18n": {
+            "en": "Deliver at least three packages for the bronze medal on this route.",
+            "pt": "Entregue pelo menos três pacotes para obter bronze nesta rota."
+          }
+        },
+        {
+          "key": "excess-liberty-state",
+          "title": "Excess Delivery: Liberty State Delivery",
+          "title_i18n": {
+            "en": "Excess Delivery: Liberty State Delivery",
+            "pt": "Excess Delivery: Liberty State Delivery"
+          },
+          "description": "Deliver at least three packages for the bronze medal on this separate route.",
+          "description_i18n": {
+            "en": "Deliver at least three packages for the bronze medal on this separate route.",
+            "pt": "Entregue pelo menos três pacotes para obter bronze nesta rota separada."
+          }
+        },
+        {
+          "key": "hobotron",
+          "title": "HoboTron",
+          "title_i18n": {
+            "en": "HoboTron",
+            "pt": "HoboTron"
+          },
+          "description": "Survive the first wave and record at least a bronze medal.",
+          "description_i18n": {
+            "en": "Survive the first wave and record at least a bronze medal.",
+            "pt": "Sobreviva à primeira onda e registre pelo menos uma medalha de bronze."
+          }
+        },
+        {
+          "key": "fast-tracks",
+          "title": "Fast Tracks",
+          "title_i18n": {
+            "en": "Fast Tracks",
+            "pt": "Fast Tracks"
+          },
+          "description": "Complete the course fast enough to record at least bronze.",
+          "description_i18n": {
+            "en": "Complete the course fast enough to record at least bronze.",
+            "pt": "Conclua o circuito a tempo de registrar pelo menos bronze."
+          }
+        },
+        {
+          "key": "tattoo-parlor",
+          "title": "Tattoo Parlor",
+          "title_i18n": {
+            "en": "Tattoo Parlor",
+            "pt": "Tattoo Parlor"
+          },
+          "description": "Complete ten tattoos consecutively to earn bronze.",
+          "description_i18n": {
+            "en": "Complete ten tattoos consecutively to earn bronze.",
+            "pt": "Conclua dez tatuagens consecutivas para obter bronze."
+          }
+        }
+      ]
+    },
+    {
+      "key": "gun-club",
+      "title": "Liberty City Gun Club: five weapons",
+      "title_i18n": {
+        "en": "Liberty City Gun Club: five weapons",
+        "pt": "Liberty City Gun Club: cinco armas"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "gun-club-pistol",
+          "title": "Gun Club: Pistol",
+          "title_i18n": {
+            "en": "Gun Club: Pistol",
+            "pt": "Gun Club: Pistol"
+          },
+          "description": "Earn at least bronze in the pistol challenge.",
+          "description_i18n": {
+            "en": "Earn at least bronze in the pistol challenge.",
+            "pt": "Obtenha pelo menos bronze no desafio de pistola."
+          }
+        },
+        {
+          "key": "gun-club-grenades",
+          "title": "Gun Club: Grenades",
+          "title_i18n": {
+            "en": "Gun Club: Grenades",
+            "pt": "Gun Club: Grenades"
+          },
+          "description": "Earn at least bronze in the grenade challenge.",
+          "description_i18n": {
+            "en": "Earn at least bronze in the grenade challenge.",
+            "pt": "Obtenha pelo menos bronze no desafio de granadas."
+          }
+        },
+        {
+          "key": "gun-club-smg",
+          "title": "Gun Club: SMG",
+          "title_i18n": {
+            "en": "Gun Club: SMG",
+            "pt": "Gun Club: SMG"
+          },
+          "description": "Earn at least bronze in the SMG challenge.",
+          "description_i18n": {
+            "en": "Earn at least bronze in the SMG challenge.",
+            "pt": "Obtenha pelo menos bronze no desafio de submetralhadora."
+          }
+        },
+        {
+          "key": "gun-club-shotgun",
+          "title": "Gun Club: Shotgun",
+          "title_i18n": {
+            "en": "Gun Club: Shotgun",
+            "pt": "Gun Club: Shotgun"
+          },
+          "description": "Earn at least bronze in the shotgun challenge.",
+          "description_i18n": {
+            "en": "Earn at least bronze in the shotgun challenge.",
+            "pt": "Obtenha pelo menos bronze no desafio de escopeta."
+          }
+        },
+        {
+          "key": "gun-club-sniper",
+          "title": "Gun Club: Sniper Rifle",
+          "title_i18n": {
+            "en": "Gun Club: Sniper Rifle",
+            "pt": "Gun Club: Sniper Rifle"
+          },
+          "description": "Earn at least bronze in the sniper-rifle challenge.",
+          "description_i18n": {
+            "en": "Earn at least bronze in the sniper-rifle challenge.",
+            "pt": "Obtenha pelo menos bronze no desafio de rifle de precisão."
+          }
+        }
+      ]
+    },
+    {
+      "key": "street-races",
+      "title": "Eight street races",
+      "title_i18n": {
+        "en": "Eight street races",
+        "pt": "Oito corridas de rua"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "schottler-sweep",
+          "title": "Schottler Sweep",
+          "title_i18n": {
+            "en": "Schottler Sweep",
+            "pt": "Schottler Sweep"
+          },
+          "description": "Finish this Hi-Way Tire Tourney race with at least bronze.",
+          "description_i18n": {
+            "en": "Finish this Hi-Way Tire Tourney race with at least bronze.",
+            "pt": "Termine esta corrida Hi-Way Tire Tourney com pelo menos bronze."
+          }
+        },
+        {
+          "key": "broker-open",
+          "title": "Broker Open",
+          "title_i18n": {
+            "en": "Broker Open",
+            "pt": "Broker Open"
+          },
+          "description": "Finish this Hi-Way Tire Tourney race with at least bronze.",
+          "description_i18n": {
+            "en": "Finish this Hi-Way Tire Tourney race with at least bronze.",
+            "pt": "Termine esta corrida Hi-Way Tire Tourney com pelo menos bronze."
+          }
+        },
+        {
+          "key": "dukes-dynamo",
+          "title": "Dukes Dynamo",
+          "title_i18n": {
+            "en": "Dukes Dynamo",
+            "pt": "Dukes Dynamo"
+          },
+          "description": "Finish this Hi-Way Tire Tourney race with at least bronze.",
+          "description_i18n": {
+            "en": "Finish this Hi-Way Tire Tourney race with at least bronze.",
+            "pt": "Termine esta corrida Hi-Way Tire Tourney com pelo menos bronze."
+          }
+        },
+        {
+          "key": "bohan-classic",
+          "title": "Bohan Classic",
+          "title_i18n": {
+            "en": "Bohan Classic",
+            "pt": "Bohan Classic"
+          },
+          "description": "Finish this S&M Grand Slam race with at least bronze.",
+          "description_i18n": {
+            "en": "Finish this S&M Grand Slam race with at least bronze.",
+            "pt": "Termine esta corrida S&M Grand Slam com pelo menos bronze."
+          }
+        },
+        {
+          "key": "bohan-rally",
+          "title": "Bohan Rally",
+          "title_i18n": {
+            "en": "Bohan Rally",
+            "pt": "Bohan Rally"
+          },
+          "description": "Finish this S&M Grand Slam race with at least bronze.",
+          "description_i18n": {
+            "en": "Finish this S&M Grand Slam race with at least bronze.",
+            "pt": "Termine esta corrida S&M Grand Slam com pelo menos bronze."
+          }
+        },
+        {
+          "key": "algonquin-auto-trial",
+          "title": "Algonquin Auto-trial",
+          "title_i18n": {
+            "en": "Algonquin Auto-trial",
+            "pt": "Algonquin Auto-trial"
+          },
+          "description": "Finish this Transfender Invitational race with at least bronze.",
+          "description_i18n": {
+            "en": "Finish this Transfender Invitational race with at least bronze.",
+            "pt": "Termine esta corrida Transfender Invitational com pelo menos bronze."
+          }
+        },
+        {
+          "key": "star-junction-circuit",
+          "title": "Star Junction Circuit",
+          "title_i18n": {
+            "en": "Star Junction Circuit",
+            "pt": "Star Junction Circuit"
+          },
+          "description": "Finish this Transfender Invitational race with at least bronze.",
+          "description_i18n": {
+            "en": "Finish this Transfender Invitational race with at least bronze.",
+            "pt": "Termine esta corrida Transfender Invitational com pelo menos bronze."
+          }
+        },
+        {
+          "key": "middle-park-motivator",
+          "title": "Middle Park Motivator",
+          "title_i18n": {
+            "en": "Middle Park Motivator",
+            "pt": "Middle Park Motivator"
+          },
+          "description": "Finish this Transfender Invitational race with at least bronze.",
+          "description_i18n": {
+            "en": "Finish this Transfender Invitational race with at least bronze.",
+            "pt": "Termine esta corrida Transfender Invitational com pelo menos bronze."
+          }
+        }
+      ]
+    },
+    {
+      "key": "checkpoint-events",
+      "title": "Seven DS checkpoint events",
+      "title_i18n": {
+        "en": "Seven DS checkpoint events",
+        "pt": "Sete eventos de checkpoints do DS"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "beach-blitz",
+          "title": "Beach Blitz",
+          "title_i18n": {
+            "en": "Beach Blitz",
+            "pt": "Beach Blitz"
+          },
+          "description": "Earn at least bronze on this sprint course.",
+          "description_i18n": {
+            "en": "Earn at least bronze on this sprint course.",
+            "pt": "Obtenha pelo menos bronze neste circuito de sprint."
+          }
+        },
+        {
+          "key": "bohan-snake",
+          "title": "Bohan Snake",
+          "title_i18n": {
+            "en": "Bohan Snake",
+            "pt": "Bohan Snake"
+          },
+          "description": "Earn at least bronze on this sprint course.",
+          "description_i18n": {
+            "en": "Earn at least bronze on this sprint course.",
+            "pt": "Obtenha pelo menos bronze neste circuito de sprint."
+          }
+        },
+        {
+          "key": "east-side-escapade",
+          "title": "East Side Escapade",
+          "title_i18n": {
+            "en": "East Side Escapade",
+            "pt": "East Side Escapade"
+          },
+          "description": "Earn at least bronze on this sprint course.",
+          "description_i18n": {
+            "en": "Earn at least bronze on this sprint course.",
+            "pt": "Obtenha pelo menos bronze neste circuito de sprint."
+          }
+        },
+        {
+          "key": "graveyard-groove",
+          "title": "Graveyard Groove",
+          "title_i18n": {
+            "en": "Graveyard Groove",
+            "pt": "Graveyard Groove"
+          },
+          "description": "Earn at least bronze on this sprint course.",
+          "description_i18n": {
+            "en": "Earn at least bronze on this sprint course.",
+            "pt": "Obtenha pelo menos bronze neste circuito de sprint."
+          }
+        },
+        {
+          "key": "loose-exchange",
+          "title": "Loose Exchange",
+          "title_i18n": {
+            "en": "Loose Exchange",
+            "pt": "Loose Exchange"
+          },
+          "description": "Earn at least bronze on this sprint course.",
+          "description_i18n": {
+            "en": "Earn at least bronze on this sprint course.",
+            "pt": "Obtenha pelo menos bronze neste circuito de sprint."
+          }
+        },
+        {
+          "key": "midtown-mayhem",
+          "title": "Midtown Mayhem",
+          "title_i18n": {
+            "en": "Midtown Mayhem",
+            "pt": "Midtown Mayhem"
+          },
+          "description": "Earn at least bronze on this sprint course.",
+          "description_i18n": {
+            "en": "Earn at least bronze on this sprint course.",
+            "pt": "Obtenha pelo menos bronze neste circuito de sprint."
+          }
+        },
+        {
+          "key": "monument-mania",
+          "title": "Monument Mania",
+          "title_i18n": {
+            "en": "Monument Mania",
+            "pt": "Monument Mania"
+          },
+          "description": "Earn at least bronze on this sprint course.",
+          "description_i18n": {
+            "en": "Earn at least bronze on this sprint course.",
+            "pt": "Obtenha pelo menos bronze neste circuito de sprint."
+          }
+        }
+      ]
+    },
+    {
+      "key": "circuit-time-trials",
+      "title": "Nineteen circuit time trials",
+      "title_i18n": {
+        "en": "Nineteen circuit time trials",
+        "pt": "Dezenove contrarrelógios de circuito"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "boulevard-boogie-tt",
+          "title": "Boulevard Boogie TT: four courses",
+          "title_i18n": {
+            "en": "Boulevard Boogie TT: four courses",
+            "pt": "Boulevard Boogie TT: quatro circuitos"
+          },
+          "description": "Earn bronze or better on each of the four courses.",
+          "description_i18n": {
+            "en": "Earn bronze or better on each of the four courses.",
+            "pt": "Obtenha bronze ou melhor em cada um dos quatro circuitos."
+          }
+        },
+        {
+          "key": "dukes-dust-up-tt",
+          "title": "Dukes Dust Up TT: three courses",
+          "title_i18n": {
+            "en": "Dukes Dust Up TT: three courses",
+            "pt": "Dukes Dust Up TT: três circuitos"
+          },
+          "description": "Earn bronze or better on each of the three courses.",
+          "description_i18n": {
+            "en": "Earn bronze or better on each of the three courses.",
+            "pt": "Obtenha bronze ou melhor em cada um dos três circuitos."
+          }
+        },
+        {
+          "key": "go-kar-tt",
+          "title": "Go-Kar-TT: four courses",
+          "title_i18n": {
+            "en": "Go-Kar-TT: four courses",
+            "pt": "Go-Kar-TT: quatro circuitos"
+          },
+          "description": "Earn bronze or better on each of the four kart courses.",
+          "description_i18n": {
+            "en": "Earn bronze or better on each of the four kart courses.",
+            "pt": "Obtenha bronze ou melhor em cada um dos quatro circuitos de kart."
+          }
+        },
+        {
+          "key": "patriot-park-tt",
+          "title": "Patriot Park TT: four courses",
+          "title_i18n": {
+            "en": "Patriot Park TT: four courses",
+            "pt": "Patriot Park TT: quatro circuitos"
+          },
+          "description": "Earn bronze or better on each of the four Patriot courses.",
+          "description_i18n": {
+            "en": "Earn bronze or better on each of the four Patriot courses.",
+            "pt": "Obtenha bronze ou melhor em cada um dos quatro circuitos com Patriot."
+          }
+        },
+        {
+          "key": "wetscapade-tt",
+          "title": "Wetscapade TT: four courses",
+          "title_i18n": {
+            "en": "Wetscapade TT: four courses",
+            "pt": "Wetscapade TT: quatro circuitos"
+          },
+          "description": "Earn bronze or better on each of the four water courses.",
+          "description_i18n": {
+            "en": "Earn bronze or better on each of the four water courses.",
+            "pt": "Obtenha bronze ou melhor em cada um dos quatro circuitos aquáticos."
+          }
+        }
+      ]
+    },
+    {
+      "key": "native-collections",
+      "title": "Native collections and property goals",
+      "title_i18n": {
+        "en": "Native collections and property goals",
+        "pt": "Coleções nativas e metas de imóveis"
+      },
+      "kind": "collectible",
+      "items": [
+        {
+          "key": "hundred-security-cameras",
+          "title": "Destroy all 100 security cameras",
+          "title_i18n": {
+            "en": "Destroy all 100 security cameras",
+            "pt": "Destrua as 100 câmeras de segurança"
+          },
+          "description": "Destroy the city's hundred cameras; this is an aggregate goal, without individual location entries.",
+          "description_i18n": {
+            "en": "Destroy the city's hundred cameras; this is an aggregate goal, without individual location entries.",
+            "pt": "Destrua as cem câmeras da cidade; esta meta é agregada, sem entradas individuais de localização."
+          }
+        },
+        {
+          "key": "thirty-unique-jumps",
+          "title": "Complete all 30 unique jumps",
+          "title_i18n": {
+            "en": "Complete all 30 unique jumps",
+            "pt": "Conclua os 30 saltos únicos"
+          },
+          "description": "Break through all thirty designated stunt billboards and register the jumps.",
+          "description_i18n": {
+            "en": "Break through all thirty designated stunt billboards and register the jumps.",
+            "pt": "Atravesse os trinta outdoors de acrobacia designados e registre os saltos."
+          }
+        },
+        {
+          "key": "thirty-rampages",
+          "title": "Rampages: all 30 DS medals",
+          "title_i18n": {
+            "en": "Rampages: all 30 DS medals",
+            "pt": "Rampages: as 30 medalhas do DS"
+          },
+          "description": "Earn at least bronze in every one of the thirty DS rampages.",
+          "description_i18n": {
+            "en": "Earn at least bronze in every one of the thirty DS rampages.",
+            "pt": "Obtenha pelo menos bronze em cada um dos trinta rampages do DS."
+          }
+        },
+        {
+          "key": "five-riding-shotgun",
+          "title": "Riding Shotgun: all five DS events",
+          "title_i18n": {
+            "en": "Riding Shotgun: all five DS events",
+            "pt": "Riding Shotgun: os cinco eventos do DS"
+          },
+          "description": "Earn at least bronze at each of the five DS Riding Shotgun locations.",
+          "description_i18n": {
+            "en": "Earn at least bronze at each of the five DS Riding Shotgun locations.",
+            "pt": "Obtenha pelo menos bronze em cada um dos cinco locais Riding Shotgun do DS."
+          }
+        },
+        {
+          "key": "eighty-drug-dealers",
+          "title": "Register all 80 standard drug dealers",
+          "title_i18n": {
+            "en": "Register all 80 standard drug dealers",
+            "pt": "Registre os 80 vendedores de drogas padrão"
+          },
+          "description": "Open the trade screen with every standard dealer; buying from each one is unnecessary.",
+          "description_i18n": {
+            "en": "Open the trade screen with every standard dealer; buying from each one is unnecessary.",
+            "pt": "Abra a tela de negociação com cada vendedor padrão; não é necessário comprar de todos."
+          },
+          "details": "A dealer is registered by opening the trading screen; buying from every dealer is unnecessary. Check the dealer record as you explore different neighborhoods. This goal concerns the eighty standard dealers, not a requirement to maintain every possible favorite-dealer arrangement.",
+          "details_i18n": {
+            "en": "A dealer is registered by opening the trading screen; buying from every dealer is unnecessary. Check the dealer record as you explore different neighborhoods. This goal concerns the eighty standard dealers, not a requirement to maintain every possible favorite-dealer arrangement.",
+            "pt": "Um negociante é registrado ao abrir a tela de negociação; não é necessário comprar de todos. Consulte o registro enquanto explora bairros diferentes. O objetivo abrange os oitenta negociantes comuns, sem exigir todas as combinações possíveis de negociantes favoritos."
+          }
+        },
+        {
+          "key": "twenty-one-safehouses",
+          "title": "Own all 21 safehouses",
+          "title_i18n": {
+            "en": "Own all 21 safehouses",
+            "pt": "Possua os 21 esconderijos"
+          },
+          "description": "Obtain the story, encounter, scratchcard and purchased properties; this does not mean twenty-one purchases.",
+          "description_i18n": {
+            "en": "Obtain the story, encounter, scratchcard and purchased properties; this does not mean twenty-one purchases.",
+            "pt": "Obtenha os imóveis da história, encontros, raspadinha e compras; isso não significa vinte e uma compras."
+          },
+          "details": "The total combines fourteen purchased properties, five story awards, the reward from Wilhelm’s third encounter and the Star Plaza Hotel scratchcard prize. For the latter, use the I’m Rich scratchcard. Follow Wilhelm’s complete encounter strand rather than looking for a sale marker at his reward property.",
+          "details_i18n": {
+            "en": "The total combines fourteen purchased properties, five story awards, the reward from Wilhelm’s third encounter and the Star Plaza Hotel scratchcard prize. For the latter, use the I’m Rich scratchcard. Follow Wilhelm’s complete encounter strand rather than looking for a sale marker at his reward property.",
+            "pt": "O total reúne catorze imóveis comprados, cinco recompensas da história, a recompensa do terceiro encontro com Wilhelm e o prêmio de raspadinha do Star Plaza Hotel. Para este último, use a raspadinha I’m Rich. Conclua todos os encontros de Wilhelm em vez de procurar uma placa de venda no imóvel que ele oferece."
+          }
+        },
+        {
+          "key": "two-lions-of-fo",
+          "title": "Find both Lions of Fo",
+          "title_i18n": {
+            "en": "Find both Lions of Fo",
+            "pt": "Encontre os dois Lions of Fo"
+          },
+          "description": "Find the two offline post-story statues for native completion.",
+          "description_i18n": {
+            "en": "Find the two offline post-story statues for native completion.",
+            "pt": "Encontre as duas estátuas offline após a história para a conclusão nativa."
+          },
+          "details": "After the finale, read the Rui Shi email and search the glowing candidate locations. Only two of the twenty possible spots contain statues in a given game. Collecting both is an offline completion goal. The historical Social Club synchronization and Xin mission unlock were separate features; they are not steps required here.",
+          "details_i18n": {
+            "en": "After the finale, read the Rui Shi email and search the glowing candidate locations. Only two of the twenty possible spots contain statues in a given game. Collecting both is an offline completion goal. The historical Social Club synchronization and Xin mission unlock were separate features; they are not steps required here.",
+            "pt": "Após o final, leia o e-mail de Rui Shi e procure nos locais candidatos com brilho. Apenas dois dos vinte pontos possíveis contêm estátuas em cada partida. Recolher ambas é um objetivo de conclusão offline. A antiga sincronização com o Social Club e o desbloqueio das missões de Xin eram recursos separados; não são etapas exigidas aqui."
+          }
+        }
+      ]
+    },
+    {
+      "key": "safehouse-awards",
+      "title": "Eight physical safehouse awards",
+      "title_i18n": {
+        "en": "Eight physical safehouse awards",
+        "pt": "Oito prêmios físicos do esconderijo"
+      },
+      "kind": "collectible",
+      "items": [
+        {
+          "key": "award-jeweled-bong",
+          "title": "Safehouse award: The Jeweled Bong",
+          "title_i18n": {
+            "en": "Safehouse award: The Jeweled Bong",
+            "pt": "Prêmio do esconderijo: The Jeweled Bong"
+          },
+          "description": "Trade Weed and Downers until the Jeweled Bong ornament is awarded.",
+          "description_i18n": {
+            "en": "Trade Weed and Downers until the Jeweled Bong ornament is awarded.",
+            "pt": "Negocie Weed e Downers até receber o ornamento Jeweled Bong."
+          }
+        },
+        {
+          "key": "award-diamond-pillbox",
+          "title": "Safehouse award: Diamond Pillbox",
+          "title_i18n": {
+            "en": "Safehouse award: Diamond Pillbox",
+            "pt": "Prêmio do esconderijo: Diamond Pillbox"
+          },
+          "description": "Trade Acid and Ecstasy until the Diamond Pillbox ornament is awarded.",
+          "description_i18n": {
+            "en": "Trade Acid and Ecstasy until the Diamond Pillbox ornament is awarded.",
+            "pt": "Negocie Acid e Ecstasy até receber o ornamento Diamond Pillbox."
+          }
+        },
+        {
+          "key": "award-platinum-syringe",
+          "title": "Safehouse award: Platinum Syringe",
+          "title_i18n": {
+            "en": "Safehouse award: Platinum Syringe",
+            "pt": "Prêmio do esconderijo: Platinum Syringe"
+          },
+          "description": "Trade Coke and Heroin until the Platinum Syringe ornament is awarded.",
+          "description_i18n": {
+            "en": "Trade Coke and Heroin until the Platinum Syringe ornament is awarded.",
+            "pt": "Negocie Coke e Heroin até receber o ornamento Platinum Syringe."
+          },
+          "details": "These are physical safehouse ornaments, not Nintendo trophies. The Syringe, Pillbox and Bong each depend on dealing their named pair of drug types. If the corresponding decoration has not appeared, continue trading those types and check for the award confirmation instead of assuming one small transaction guarantees it.",
+          "details_i18n": {
+            "en": "These are physical safehouse ornaments, not Nintendo trophies. The Syringe, Pillbox and Bong each depend on dealing their named pair of drug types. If the corresponding decoration has not appeared, continue trading those types and check for the award confirmation instead of assuming one small transaction guarantees it.",
+            "pt": "Estes são ornamentos físicos do esconderijo, não troféus da Nintendo. Syringe, Pillbox e Bong dependem da negociação dos respectivos pares de drogas. Se a decoração ainda não apareceu, continue negociando esses tipos e confira a confirmação da recompensa, sem presumir que uma pequena transação a garante."
+          }
+        },
+        {
+          "key": "award-silver-safe",
+          "title": "Safehouse award: Silver Safe",
+          "title_i18n": {
+            "en": "Safehouse award: Silver Safe",
+            "pt": "Prêmio do esconderijo: Silver Safe"
+          },
+          "description": "Make at least $2,000 profit in a single drug deal.",
+          "description_i18n": {
+            "en": "Make at least $2,000 profit in a single drug deal.",
+            "pt": "Obtenha pelo menos $2.000 de lucro em uma única negociação de drogas."
+          },
+          "details": "This ornament checks profit from one transaction, not the total cash received or cumulative earnings. Compare the purchase cost with the sale value of the batch. The Wooden Spoon is a separate award for a loss of at least $500 in one transaction, so do not confuse its condition with a profitable sale.",
+          "details_i18n": {
+            "en": "This ornament checks profit from one transaction, not the total cash received or cumulative earnings. Compare the purchase cost with the sale value of the batch. The Wooden Spoon is a separate award for a loss of at least $500 in one transaction, so do not confuse its condition with a profitable sale.",
+            "pt": "Este ornamento considera o lucro de uma única transação, não o dinheiro total recebido nem o lucro acumulado. Compare o custo de compra com o valor de venda do lote. Wooden Spoon é uma recompensa separada por um prejuízo de pelo menos $500 em uma transação; não confunda essa condição com uma venda lucrativa."
+          }
+        },
+        {
+          "key": "award-wooden-spoon",
+          "title": "Safehouse award: Wooden Spoon",
+          "title_i18n": {
+            "en": "Safehouse award: Wooden Spoon",
+            "pt": "Prêmio do esconderijo: Wooden Spoon"
+          },
+          "description": "Make at least a $500 loss in a single drug deal.",
+          "description_i18n": {
+            "en": "Make at least a $500 loss in a single drug deal.",
+            "pt": "Tenha pelo menos $500 de prejuízo em uma única negociação de drogas."
+          }
+        },
+        {
+          "key": "award-golden-binoculars",
+          "title": "Safehouse award: Golden Binoculars",
+          "title_i18n": {
+            "en": "Safehouse award: Golden Binoculars",
+            "pt": "Prêmio do esconderijo: Golden Binoculars"
+          },
+          "description": "Register forty standard drug dealers.",
+          "description_i18n": {
+            "en": "Register forty standard drug dealers.",
+            "pt": "Registre quarenta vendedores de drogas padrão."
+          }
+        },
+        {
+          "key": "award-titanium-briefcase",
+          "title": "Safehouse award: Titanium Briefcase",
+          "title_i18n": {
+            "en": "Safehouse award: Titanium Briefcase",
+            "pt": "Prêmio do esconderijo: Titanium Briefcase"
+          },
+          "description": "Register all eighty standard drug dealers.",
+          "description_i18n": {
+            "en": "Register all eighty standard drug dealers.",
+            "pt": "Registre os oitenta vendedores de drogas padrão."
+          }
+        },
+        {
+          "key": "award-jeweled-key",
+          "title": "Safehouse award: Jeweled Key to the City",
+          "title_i18n": {
+            "en": "Safehouse award: Jeweled Key to the City",
+            "pt": "Prêmio do esconderijo: Jeweled Key to the City"
+          },
+          "description": "Obtain all twenty-one safehouses.",
+          "description_i18n": {
+            "en": "Obtain all twenty-one safehouses.",
+            "pt": "Obtenha os vinte e um esconderijos."
+          }
+        },
+        {
+          "key": "verify-native-completion",
+          "title": "Verify native DS 100% completion",
+          "title_i18n": {
+            "en": "Verify native DS 100% completion",
+            "pt": "Confira os 100% nativos do DS"
+          },
+          "description": "Check the native completion statistic after the DS campaign and offline requirements.",
+          "description_i18n": {
+            "en": "Check the native completion statistic after the DS campaign and offline requirements.",
+            "pt": "Confira a porcentagem nativa após a campanha do DS e os requisitos offline."
+          },
+          "details": "Use the DS completion record as the final check. Bronze is sufficient for the required medals; gold is an extra challenge. The time-trial goal covers nineteen circuit courses and seven checkpoint events. PSP additions, downloadable Xin missions and online synchronization are outside this original DS checklist. Large collection tasks summarize totals rather than enumerate every location.",
+          "details_i18n": {
+            "en": "Use the DS completion record as the final check. Bronze is sufficient for the required medals; gold is an extra challenge. The time-trial goal covers nineteen circuit courses and seven checkpoint events. PSP additions, downloadable Xin missions and online synchronization are outside this original DS checklist. Large collection tasks summarize totals rather than enumerate every location.",
+            "pt": "Use o registro de conclusão do DS como conferência final. Bronze basta para as medalhas exigidas; ouro é um desafio adicional. As provas contra o relógio abrangem dezenove percursos de circuito e sete eventos de checkpoints. As adições do PSP, as missões de Xin distribuídas por download e a sincronização online ficam fora deste roteiro do DS original. As grandes coleções resumem totais, sem listar cada localização."
+          }
+        }
+      ]
+    }
+  ],
+  "trophies": [],
+  "hltb_id": "4066",
+  "hltb_main_hours": 9,
+  "hltb_main_extra_hours": 14,
+  "hltb_completionist_hours": 28
+}

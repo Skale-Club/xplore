@@ -1,0 +1,1179 @@
+{
+  "slug": "grand-theft-auto-iv-the-lost-and-damned",
+  "title": "Grand Theft Auto IV: The Lost and Damned",
+  "title_i18n": {
+    "en": "Grand Theft Auto IV: The Lost and Damned",
+    "pt": "Grand Theft Auto IV: The Lost and Damned"
+  },
+  "platform": "PlayStation 3",
+  "cover_url": "/covers/grand-theft-auto-iv-the-lost-and-damned.png",
+  "created_by": "dd5c4bf0-85ea-4986-9c04-b37e8c986150",
+  "categories": [
+    {
+      "key": "billy-and-the-club",
+      "title": "Billy's return and the club",
+      "title_i18n": {
+        "en": "Billy's return and the club",
+        "pt": "O retorno de Billy e o clube"
+      },
+      "items": [
+        {
+          "key": "clean-and-serene",
+          "title": "Complete Clean and Serene",
+          "title_i18n": {
+            "en": "Complete Clean and Serene",
+            "pt": "Conclua Clean and Serene"
+          },
+          "description": "Ride with the club, recover the requested bike and finish the return.",
+          "description_i18n": {
+            "en": "Ride with the club, recover the requested bike and finish the return.",
+            "pt": "Pilote com o clube, recupere a moto solicitada e conclua o retorno."
+          },
+          "details": "Stay with the convoy during its travel sections and use the Lost badge when the formation tutorial introduces it. Riding over the badge restores health and repairs the motorcycle; it is useful recovery rather than a racing checkpoint. In the scrapyard fight, keep space from explosive barrels and use cover before collecting the fallen enemies' ammunition. Finish the ride back with Billy instead of leaving as soon as his bike is recovered.",
+          "details_i18n": {
+            "en": "Stay with the convoy during its travel sections and use the Lost badge when the formation tutorial introduces it. Riding over the badge restores health and repairs the motorcycle; it is useful recovery rather than a racing checkpoint. In the scrapyard fight, keep space from explosive barrels and use cover before collecting the fallen enemies' ammunition. Finish the ride back with Billy instead of leaving as soon as his bike is recovered.",
+            "pt": "Fique com o comboio nos trajetos e use o emblema Lost quando o tutorial de formação apresentá-lo. Passar sobre o emblema recupera vida e conserta a moto; é um recurso de recuperação, não um checkpoint de corrida. No tiroteio do ferro-velho, mantenha distância dos barris explosivos e use cobertura antes de recolher a munição dos inimigos. Termine o retorno com Billy, sem sair assim que recuperar a moto dele."
+          }
+        },
+        {
+          "key": "angels-in-america",
+          "title": "Complete Angels in America",
+          "title_i18n": {
+            "en": "Complete Angels in America",
+            "pt": "Conclua Angels in America"
+          },
+          "description": "Complete the motorcycle pursuit and return to the meeting.",
+          "description_i18n": {
+            "en": "Complete the motorcycle pursuit and return to the meeting.",
+            "pt": "Conclua a perseguição de motos e volte ao encontro."
+          }
+        },
+        {
+          "key": "its-war",
+          "title": "Complete It's War",
+          "title_i18n": {
+            "en": "Complete It's War",
+            "pt": "Conclua It's War"
+          },
+          "description": "Ride with the club and clear the marked confrontations.",
+          "description_i18n": {
+            "en": "Ride with the club and clear the marked confrontations.",
+            "pt": "Pilote com o clube e conclua os confrontos marcados."
+          }
+        },
+        {
+          "key": "action-reaction",
+          "title": "Complete Action/Reaction",
+          "title_i18n": {
+            "en": "Complete Action/Reaction",
+            "pt": "Conclua Action/Reaction"
+          },
+          "description": "Support the clubhouse operation and complete the withdrawal.",
+          "description_i18n": {
+            "en": "Support the clubhouse operation and complete the withdrawal.",
+            "pt": "Apoie a operação no clube e conclua a retirada."
+          }
+        },
+        {
+          "key": "liberty-city-choppers",
+          "title": "Complete Liberty City Choppers",
+          "title_i18n": {
+            "en": "Complete Liberty City Choppers",
+            "pt": "Conclua Liberty City Choppers"
+          },
+          "description": "Help Jim recover the cargo and protect its delivery.",
+          "description_i18n": {
+            "en": "Help Jim recover the cargo and protect its delivery.",
+            "pt": "Ajude Jim a recuperar a carga e proteja a entrega."
+          }
+        },
+        {
+          "key": "bad-cop-drop",
+          "title": "Complete Bad Cop Drop",
+          "title_i18n": {
+            "en": "Complete Bad Cop Drop",
+            "pt": "Conclua Bad Cop Drop"
+          },
+          "description": "Follow Jim's plan through the pursuit and confrontation.",
+          "description_i18n": {
+            "en": "Follow Jim's plan through the pursuit and confrontation.",
+            "pt": "Siga o plano de Jim durante a perseguição e o confronto."
+          }
+        }
+      ]
+    },
+    {
+      "key": "deals-and-stubbs",
+      "title": "Deals, Ashley and Thomas Stubbs",
+      "title_i18n": {
+        "en": "Deals, Ashley and Thomas Stubbs",
+        "pt": "Negociações, Ashley e Thomas Stubbs"
+      },
+      "items": [
+        {
+          "key": "buyers-market",
+          "title": "Complete Buyer's Market",
+          "title_i18n": {
+            "en": "Complete Buyer's Market",
+            "pt": "Conclua Buyer's Market"
+          },
+          "description": "Complete the meeting and survive the escape.",
+          "description_i18n": {
+            "en": "Complete the meeting and survive the escape.",
+            "pt": "Conclua o encontro e sobreviva à fuga."
+          },
+          "details": "Johnny's escape route goes downstairs after the interrupted deal. Do not follow instructions for Niko's separate version of the same event, which takes a different route. Clear the immediate attackers from cover, work down through the building and reach the street. The job is not finished merely by leaving the apartment: lose the police search before considering the mission complete.",
+          "details_i18n": {
+            "en": "Johnny's escape route goes downstairs after the interrupted deal. Do not follow instructions for Niko's separate version of the same event, which takes a different route. Clear the immediate attackers from cover, work down through the building and reach the street. The job is not finished merely by leaving the apartment: lose the police search before considering the mission complete.",
+            "pt": "A rota de fuga de Johnny desce as escadas após a negociação interrompida. Não siga instruções da versão separada desse acontecimento com Niko, que usa outro trajeto. Elimine os atacantes próximos usando cobertura, desça pelo prédio e alcance a rua. Sair do apartamento não encerra o trabalho: escape da busca policial antes de considerar a missão concluída."
+          }
+        },
+        {
+          "key": "politics",
+          "title": "Complete Politics",
+          "title_i18n": {
+            "en": "Complete Politics",
+            "pt": "Conclua Politics"
+          },
+          "description": "Reach the airport objective and complete Stubbs' assignment.",
+          "description_i18n": {
+            "en": "Reach the airport objective and complete Stubbs' assignment.",
+            "pt": "Alcance o objetivo no aeroporto e conclua o trabalho de Stubbs."
+          }
+        },
+        {
+          "key": "coming-down",
+          "title": "Complete Coming Down",
+          "title_i18n": {
+            "en": "Complete Coming Down",
+            "pt": "Conclua Coming Down"
+          },
+          "description": "Respond to Ashley's call and complete the rescue.",
+          "description_i18n": {
+            "en": "Respond to Ashley's call and complete the rescue.",
+            "pt": "Atenda à ligação de Ashley e conclua o resgate."
+          }
+        },
+        {
+          "key": "off-route",
+          "title": "Complete Off Route",
+          "title_i18n": {
+            "en": "Complete Off Route",
+            "pt": "Conclua Off Route"
+          },
+          "description": "Recover the requested transport and deliver its passengers safely.",
+          "description_i18n": {
+            "en": "Recover the requested transport and deliver its passengers safely.",
+            "pt": "Recupere o transporte solicitado e entregue os passageiros em segurança."
+          }
+        },
+        {
+          "key": "this-shits-cursed",
+          "title": "Complete This Shit's Cursed",
+          "title_i18n": {
+            "en": "Complete This Shit's Cursed",
+            "pt": "Conclua This Shit's Cursed"
+          },
+          "description": "Survive the interrupted meeting and complete the return journey.",
+          "description_i18n": {
+            "en": "Survive the interrupted meeting and complete the return journey.",
+            "pt": "Sobreviva ao encontro interrompido e conclua o trajeto de retorno."
+          }
+        }
+      ]
+    },
+    {
+      "key": "club-conflict",
+      "title": "The club conflict and Elizabeta",
+      "title_i18n": {
+        "en": "The club conflict and Elizabeta",
+        "pt": "O conflito do clube e Elizabeta"
+      },
+      "items": [
+        {
+          "key": "hit-the-pipe",
+          "title": "Complete Hit the Pipe",
+          "title_i18n": {
+            "en": "Complete Hit the Pipe",
+            "pt": "Conclua Hit the Pipe"
+          },
+          "description": "Intercept the marked vehicles and finish the assignment.",
+          "description_i18n": {
+            "en": "Intercept the marked vehicles and finish the assignment.",
+            "pt": "Intercepte os veículos marcados e conclua o trabalho."
+          }
+        },
+        {
+          "key": "end-of-chapter",
+          "title": "Complete End of Chapter",
+          "title_i18n": {
+            "en": "Complete End of Chapter",
+            "pt": "Conclua End of Chapter"
+          },
+          "description": "Protect the group through the successive attacks.",
+          "description_i18n": {
+            "en": "Protect the group through the successive attacks.",
+            "pt": "Proteja o grupo durante os ataques sucessivos."
+          }
+        },
+        {
+          "key": "bad-standing",
+          "title": "Complete Bad Standing",
+          "title_i18n": {
+            "en": "Complete Bad Standing",
+            "pt": "Conclua Bad Standing"
+          },
+          "description": "Resolve the guarded property operation and its single decision.",
+          "description_i18n": {
+            "en": "Resolve the guarded property operation and its single decision.",
+            "pt": "Resolva a operação no imóvel vigiado e sua única decisão."
+          },
+          "details": "Calling Terry or Clay for backup gives you help at the rear of the property. An explosive fired through the indicated window can force the occupants out, but it changes how you approach the confrontation. If you want the opportunity to spare Brian and see his later encounter, use an approach that leaves him alive until the decision. His conditional encounter is not required for native 100%, so either story decision remains valid.",
+          "details_i18n": {
+            "en": "Calling Terry or Clay for backup gives you help at the rear of the property. An explosive fired through the indicated window can force the occupants out, but it changes how you approach the confrontation. If you want the opportunity to spare Brian and see his later encounter, use an approach that leaves him alive until the decision. His conditional encounter is not required for native 100%, so either story decision remains valid.",
+            "pt": "Chamar Terry ou Clay como reforço oferece ajuda na parte traseira do imóvel. Um explosivo lançado pela janela indicada pode expulsar os ocupantes, mas muda a abordagem do confronto. Se quiser a oportunidade de poupar Brian e ver o encontro posterior, use uma abordagem que o mantenha vivo até a decisão. Esse encontro condicional não é exigido para os 100% nativos; qualquer decisão da história continua válida."
+          }
+        },
+        {
+          "key": "heavy-toll",
+          "title": "Complete Heavy Toll",
+          "title_i18n": {
+            "en": "Complete Heavy Toll",
+            "pt": "Conclua Heavy Toll"
+          },
+          "description": "Support the interception and recover the requested truck.",
+          "description_i18n": {
+            "en": "Support the interception and recover the requested truck.",
+            "pt": "Apoie a interceptação e recupere o caminhão solicitado."
+          }
+        },
+        {
+          "key": "marta-full-of-grace",
+          "title": "Complete Marta Full of Grace",
+          "title_i18n": {
+            "en": "Complete Marta Full of Grace",
+            "pt": "Conclua Marta Full of Grace"
+          },
+          "description": "Complete the airport pickup and protect the escape.",
+          "description_i18n": {
+            "en": "Complete the airport pickup and protect the escape.",
+            "pt": "Conclua a busca no aeroporto e proteja a fuga."
+          }
+        },
+        {
+          "key": "shifting-weight",
+          "title": "Complete Shifting Weight",
+          "title_i18n": {
+            "en": "Complete Shifting Weight",
+            "pt": "Conclua Shifting Weight"
+          },
+          "description": "Protect the motorcycle getaway throughout the extended pursuit.",
+          "description_i18n": {
+            "en": "Protect the motorcycle getaway throughout the extended pursuit.",
+            "pt": "Proteja a fuga de moto durante toda a perseguição prolongada."
+          },
+          "details": "Johnny shoots from the back of Malc's bike while Malc handles the route. Use the supplied unlimited ammunition to stop close pursuers quickly, checking both behind and ahead as the threats change. At the blocked showroom section, clear the officers and shoot the windows to open the escape route. When the weapon changes to pipe bombs, time releases for the pursuing cars rather than dropping every explosive at the same distance.",
+          "details_i18n": {
+            "en": "Johnny shoots from the back of Malc's bike while Malc handles the route. Use the supplied unlimited ammunition to stop close pursuers quickly, checking both behind and ahead as the threats change. At the blocked showroom section, clear the officers and shoot the windows to open the escape route. When the weapon changes to pipe bombs, time releases for the pursuing cars rather than dropping every explosive at the same distance.",
+            "pt": "Johnny atira da garupa da moto de Malc, que controla o trajeto. Use a munição ilimitada fornecida para deter os perseguidores próximos, conferindo a frente e a retaguarda conforme as ameaças mudam. No trecho bloqueado da concessionária, elimine os policiais e atire nas janelas para abrir a fuga. Quando a arma mudar para bombas caseiras, ajuste o lançamento à distância dos carros, em vez de soltar todos os explosivos da mesma maneira."
+          }
+        }
+      ]
+    },
+    {
+      "key": "diamonds-and-finale",
+      "title": "The diamond jobs and Get Lost",
+      "title_i18n": {
+        "en": "The diamond jobs and Get Lost",
+        "pt": "Os trabalhos dos diamantes e Get Lost"
+      },
+      "items": [
+        {
+          "key": "romans-holiday",
+          "title": "Complete Roman's Holiday",
+          "title_i18n": {
+            "en": "Complete Roman's Holiday",
+            "pt": "Conclua Roman's Holiday"
+          },
+          "description": "Follow Ashley's transport instructions and finish the handover.",
+          "description_i18n": {
+            "en": "Follow Ashley's transport instructions and finish the handover.",
+            "pt": "Siga as instruções de transporte de Ashley e conclua a entrega."
+          }
+        },
+        {
+          "key": "diamonds-in-the-rough",
+          "title": "Complete Diamonds in the Rough",
+          "title_i18n": {
+            "en": "Complete Diamonds in the Rough",
+            "pt": "Conclua Diamonds in the Rough"
+          },
+          "description": "Complete the cargo interception and recover the requested items.",
+          "description_i18n": {
+            "en": "Complete the cargo interception and recover the requested items.",
+            "pt": "Conclua a interceptação da carga e recupere os itens solicitados."
+          }
+        },
+        {
+          "key": "collectors-item",
+          "title": "Complete Collector's Item",
+          "title_i18n": {
+            "en": "Complete Collector's Item",
+            "pt": "Conclua Collector's Item"
+          },
+          "description": "Survive the meeting and complete the extraction.",
+          "description_i18n": {
+            "en": "Survive the meeting and complete the extraction.",
+            "pt": "Sobreviva ao encontro e conclua a extração."
+          }
+        },
+        {
+          "key": "was-it-worth-it",
+          "title": "Complete Was It Worth It?",
+          "title_i18n": {
+            "en": "Complete Was It Worth It?",
+            "pt": "Conclua Was It Worth It?"
+          },
+          "description": "Complete the meeting and protect your route through the pursuit.",
+          "description_i18n": {
+            "en": "Complete the meeting and protect your route through the pursuit.",
+            "pt": "Conclua o encontro e proteja seu trajeto durante a perseguição."
+          }
+        },
+        {
+          "key": "get-lost",
+          "title": "Complete Get Lost",
+          "title_i18n": {
+            "en": "Complete Get Lost",
+            "pt": "Conclua Get Lost"
+          },
+          "description": "Prepare the crew and finish the final operation through the credits.",
+          "description_i18n": {
+            "en": "Prepare the crew and finish the final operation through the credits.",
+            "pt": "Prepare a equipe e termine a operação final até os créditos."
+          },
+          "details": "At the prison, speak to Terry before starting the assault: his weapon stock is free during this mission. Bring a rifle and explosives, open the gate and clear each area from cover. Watch raised walkways and rooftop shooters before advancing with the crew. Use the health and armor pickups when needed, then finish the final objective and ride out with Terry and Clay. Follow the crew back to the clubhouse and enter the final marker to complete the ending.",
+          "details_i18n": {
+            "en": "At the prison, speak to Terry before starting the assault: his weapon stock is free during this mission. Bring a rifle and explosives, open the gate and clear each area from cover. Watch raised walkways and rooftop shooters before advancing with the crew. Use the health and armor pickups when needed, then finish the final objective and ride out with Terry and Clay. Follow the crew back to the clubhouse and enter the final marker to complete the ending.",
+            "pt": "Na prisão, fale com Terry antes de iniciar o ataque: as armas dele são gratuitas nesta missão. Leve um rifle e explosivos, abra o portão e limpe cada área usando cobertura. Observe as passarelas elevadas e os atiradores nos telhados antes de avançar com a equipe. Use as reservas de vida e colete quando necessário, cumpra o objetivo final e saia de moto com Terry e Clay. Siga a equipe de volta ao clube e entre no marcador final para concluir o final."
+          }
+        }
+      ]
+    },
+    {
+      "key": "angus-bike-thefts",
+      "title": "Angus' ten bike thefts",
+      "title_i18n": {
+        "en": "Angus' ten bike thefts",
+        "pt": "Os dez furtos de motos de Angus"
+      },
+      "items": [
+        {
+          "key": "ex-display",
+          "title": "Ex-Display",
+          "title_i18n": {
+            "en": "Ex-Display",
+            "pt": "Ex-Display"
+          },
+          "description": "Recover the showroom bike requested by Angus and deliver it.",
+          "description_i18n": {
+            "en": "Recover the showroom bike requested by Angus and deliver it.",
+            "pt": "Recupere a moto de exposição pedida por Angus e entregue-a."
+          },
+          "details": "Call Angus and select Job after Bad Cop Drop. The ten named theft scenarios are offered in a variable order, so follow the current request rather than assuming this checklist's order is mandatory. Recover the marked motorcycle and deliver it in usable condition; damage reduces payment. For Ex-Display, stealing from the showroom triggers a police response. The full collection requires all ten jobs, not ten deliveries of one freely chosen model.",
+          "details_i18n": {
+            "en": "Call Angus and select Job after Bad Cop Drop. The ten named theft scenarios are offered in a variable order, so follow the current request rather than assuming this checklist's order is mandatory. Recover the marked motorcycle and deliver it in usable condition; damage reduces payment. For Ex-Display, stealing from the showroom triggers a police response. The full collection requires all ten jobs, not ten deliveries of one freely chosen model.",
+            "pt": "Ligue para Angus e escolha Job após Bad Cop Drop. Os dez cenários de furto são oferecidos em ordem variável; siga o pedido atual, sem presumir que a ordem deste checklist é obrigatória. Recupere a moto marcada e entregue-a em condições de uso; danos reduzem o pagamento. Em Ex-Display, o furto na loja provoca uma resposta policial. A coleção completa exige os dez trabalhos, não dez entregas de um modelo escolhido livremente."
+          }
+        },
+        {
+          "key": "short-stay-parking",
+          "title": "Short Stay Parking",
+          "title_i18n": {
+            "en": "Short Stay Parking",
+            "pt": "Short Stay Parking"
+          },
+          "description": "Recover the requested bike from the parking structure.",
+          "description_i18n": {
+            "en": "Recover the requested bike from the parking structure.",
+            "pt": "Recupere a moto solicitada no estacionamento."
+          }
+        },
+        {
+          "key": "delivery-boys-hardship",
+          "title": "Delivery Boy's Hardship",
+          "title_i18n": {
+            "en": "Delivery Boy's Hardship",
+            "pt": "Delivery Boy's Hardship"
+          },
+          "description": "Intercept the delivery rider and return the requested motorcycle.",
+          "description_i18n": {
+            "en": "Intercept the delivery rider and return the requested motorcycle.",
+            "pt": "Intercepte o entregador e devolva a moto solicitada."
+          }
+        },
+        {
+          "key": "stripclub-hog",
+          "title": "Stripclub Hog",
+          "title_i18n": {
+            "en": "Stripclub Hog",
+            "pt": "Stripclub Hog"
+          },
+          "description": "Recover Angus' marked motorcycle near the club.",
+          "description_i18n": {
+            "en": "Recover Angus' marked motorcycle near the club.",
+            "pt": "Recupere a moto marcada de Angus perto do clube."
+          }
+        },
+        {
+          "key": "beachcomber",
+          "title": "Beachcomber",
+          "title_i18n": {
+            "en": "Beachcomber",
+            "pt": "Beachcomber"
+          },
+          "description": "Intercept the beach rider and complete the motorcycle delivery.",
+          "description_i18n": {
+            "en": "Intercept the beach rider and complete the motorcycle delivery.",
+            "pt": "Intercepte o motociclista da praia e conclua a entrega da moto."
+          }
+        },
+        {
+          "key": "get-off-your-high-horse",
+          "title": "Get Off Your High Horse",
+          "title_i18n": {
+            "en": "Get Off Your High Horse",
+            "pt": "Get Off Your High Horse"
+          },
+          "description": "Recover the guarded rider's motorcycle and deliver it.",
+          "description_i18n": {
+            "en": "Recover the guarded rider's motorcycle and deliver it.",
+            "pt": "Recupere a moto do piloto escoltado e entregue-a."
+          }
+        },
+        {
+          "key": "tattoo-parlor-lament",
+          "title": "Tattoo Parlor Lament",
+          "title_i18n": {
+            "en": "Tattoo Parlor Lament",
+            "pt": "Tattoo Parlor Lament"
+          },
+          "description": "Collect the requested parked motorcycle and return it intact.",
+          "description_i18n": {
+            "en": "Collect the requested parked motorcycle and return it intact.",
+            "pt": "Pegue a moto estacionada solicitada e devolva-a inteira."
+          }
+        },
+        {
+          "key": "a-ride-in-the-park",
+          "title": "A Ride in the Park",
+          "title_i18n": {
+            "en": "A Ride in the Park",
+            "pt": "A Ride in the Park"
+          },
+          "description": "Locate the moving motorcycle and complete Angus' delivery.",
+          "description_i18n": {
+            "en": "Locate the moving motorcycle and complete Angus' delivery.",
+            "pt": "Localize a moto em movimento e conclua a entrega de Angus."
+          }
+        },
+        {
+          "key": "zorst-fumes",
+          "title": "Zorst Fumes",
+          "title_i18n": {
+            "en": "Zorst Fumes",
+            "pt": "Zorst Fumes"
+          },
+          "description": "Intercept the marked motorcycle group and recover the requested bike.",
+          "description_i18n": {
+            "en": "Intercept the marked motorcycle group and recover the requested bike.",
+            "pt": "Intercepte o grupo de motociclistas marcado e recupere a moto solicitada."
+          }
+        },
+        {
+          "key": "take-out-liquor",
+          "title": "Take Out Liquor",
+          "title_i18n": {
+            "en": "Take Out Liquor",
+            "pt": "Take Out Liquor"
+          },
+          "description": "Recover the guarded parked bike and complete the delivery.",
+          "description_i18n": {
+            "en": "Recover the guarded parked bike and complete the delivery.",
+            "pt": "Recupere a moto estacionada e vigiada e conclua a entrega."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "stubbs-dirty-laundry",
+      "title": "Stubbs' five Dirty Laundry jobs",
+      "title_i18n": {
+        "en": "Stubbs' five Dirty Laundry jobs",
+        "pt": "Os cinco trabalhos Dirty Laundry de Stubbs"
+      },
+      "items": [
+        {
+          "key": "first-impressions",
+          "title": "First Impressions",
+          "title_i18n": {
+            "en": "First Impressions",
+            "pt": "First Impressions"
+          },
+          "description": "Complete Stubbs' guarded-target contract.",
+          "description_i18n": {
+            "en": "Complete Stubbs' guarded-target contract.",
+            "pt": "Conclua o contrato de Stubbs contra o alvo vigiado."
+          }
+        },
+        {
+          "key": "knowing-me-knowing-you",
+          "title": "Knowing Me, Knowing You",
+          "title_i18n": {
+            "en": "Knowing Me, Knowing You",
+            "pt": "Knowing Me, Knowing You"
+          },
+          "description": "Recover the requested car and complete the mechanic's instructions.",
+          "description_i18n": {
+            "en": "Recover the requested car and complete the mechanic's instructions.",
+            "pt": "Recupere o carro solicitado e siga as instruções do mecânico."
+          },
+          "details": "This Dirty Laundry job requires more than stealing the Infernus. Take the requested car from the Westdyke property, bring it to the marked mechanic for the surveillance modification and follow the remaining delivery instructions. Preserve the vehicle so the operation can be completed. Stubbs' five phone jobs are offered in variable order; finish each named job rather than counting five repetitions of whichever task appears first.",
+          "details_i18n": {
+            "en": "This Dirty Laundry job requires more than stealing the Infernus. Take the requested car from the Westdyke property, bring it to the marked mechanic for the surveillance modification and follow the remaining delivery instructions. Preserve the vehicle so the operation can be completed. Stubbs' five phone jobs are offered in variable order; finish each named job rather than counting five repetitions of whichever task appears first.",
+            "pt": "Este trabalho Dirty Laundry exige mais que furtar o Infernus. Pegue o carro solicitado no imóvel de Westdyke, leve-o ao mecânico marcado para a modificação de vigilância e siga as instruções de entrega restantes. Preserve o veículo para concluir a operação. Os cinco trabalhos por telefone de Stubbs aparecem em ordem variável; termine cada trabalho nomeado, sem contar cinco repetições do primeiro que surgir."
+          }
+        },
+        {
+          "key": "when-the-blue-chips-are-down",
+          "title": "When the Blue Chips Are Down",
+          "title_i18n": {
+            "en": "When the Blue Chips Are Down",
+            "pt": "When the Blue Chips Are Down"
+          },
+          "description": "Protect Stubbs' contact through the extraction.",
+          "description_i18n": {
+            "en": "Protect Stubbs' contact through the extraction.",
+            "pt": "Proteja o contato de Stubbs durante a extração."
+          }
+        },
+        {
+          "key": "phone-ho",
+          "title": "Phone Ho'",
+          "title_i18n": {
+            "en": "Phone Ho'",
+            "pt": "Phone Ho'"
+          },
+          "description": "Complete the requested photographic surveillance.",
+          "description_i18n": {
+            "en": "Complete the requested photographic surveillance.",
+            "pt": "Conclua a vigilância fotográfica solicitada."
+          }
+        },
+        {
+          "key": "communication-breakdown",
+          "title": "Communication Breakdown",
+          "title_i18n": {
+            "en": "Communication Breakdown",
+            "pt": "Communication Breakdown"
+          },
+          "description": "Reach and resolve Stubbs' marked target before the deadline.",
+          "description_i18n": {
+            "en": "Reach and resolve Stubbs' marked target before the deadline.",
+            "pt": "Alcance e resolva o alvo marcado de Stubbs antes do prazo."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "bike-races",
+      "title": "Twelve distinct motorcycle races",
+      "title_i18n": {
+        "en": "Twelve distinct motorcycle races",
+        "pt": "Doze corridas diferentes de moto"
+      },
+      "items": [
+        {
+          "key": "race-park-circuit",
+          "title": "Race: Park Circuit",
+          "title_i18n": {
+            "en": "Race: Park Circuit",
+            "pt": "Corrida: Park Circuit"
+          },
+          "description": "Win this distinct motorcycle race.",
+          "description_i18n": {
+            "en": "Win this distinct motorcycle race.",
+            "pt": "Vença esta corrida de moto."
+          },
+          "details": "Enter the helmet-marked race on a motorcycle after the race strand becomes available. A fast, controllable bike helps you separate from the pack before the sharper turns. Use the bat rather than firearms: killing racers with other weapons can fail the event. Native completion requires winning all twelve different courses, while Get Good Wood is a separate cumulative knockoff objective; repeated wins on one circuit do not replace the other courses.",
+          "details_i18n": {
+            "en": "Enter the helmet-marked race on a motorcycle after the race strand becomes available. A fast, controllable bike helps you separate from the pack before the sharper turns. Use the bat rather than firearms: killing racers with other weapons can fail the event. Native completion requires winning all twelve different courses, while Get Good Wood is a separate cumulative knockoff objective; repeated wins on one circuit do not replace the other courses.",
+            "pt": "Entre na corrida marcada pelo capacete usando uma moto depois de liberar essa atividade. Uma moto rápida e controlável ajuda a se afastar do grupo antes das curvas fechadas. Use o bastão em vez de armas de fogo: matar competidores com outras armas pode fazer o evento falhar. A conclusão nativa exige vencer os doze percursos diferentes; Get Good Wood é uma meta cumulativa separada de derrubadas. Vitórias repetidas no mesmo circuito não substituem os outros percursos."
+          }
+        },
+        {
+          "key": "race-holland",
+          "title": "Race: Holland",
+          "title_i18n": {
+            "en": "Race: Holland",
+            "pt": "Corrida: Holland"
+          },
+          "description": "Win this distinct motorcycle race.",
+          "description_i18n": {
+            "en": "Win this distinct motorcycle race.",
+            "pt": "Vença esta corrida de moto."
+          }
+        },
+        {
+          "key": "race-alderney-beach",
+          "title": "Race: Alderney Beach",
+          "title_i18n": {
+            "en": "Race: Alderney Beach",
+            "pt": "Corrida: Alderney Beach"
+          },
+          "description": "Win this distinct motorcycle race.",
+          "description_i18n": {
+            "en": "Win this distinct motorcycle race.",
+            "pt": "Vença esta corrida de moto."
+          }
+        },
+        {
+          "key": "race-alderney-casino",
+          "title": "Race: Alderney Casino",
+          "title_i18n": {
+            "en": "Race: Alderney Casino",
+            "pt": "Corrida: Alderney Casino"
+          },
+          "description": "Win this distinct motorcycle race.",
+          "description_i18n": {
+            "en": "Win this distinct motorcycle race.",
+            "pt": "Vença esta corrida de moto."
+          }
+        },
+        {
+          "key": "race-north-west-alderney",
+          "title": "Race: North West Alderney",
+          "title_i18n": {
+            "en": "Race: North West Alderney",
+            "pt": "Corrida: North West Alderney"
+          },
+          "description": "Win this distinct motorcycle race.",
+          "description_i18n": {
+            "en": "Win this distinct motorcycle race.",
+            "pt": "Vença esta corrida de moto."
+          }
+        },
+        {
+          "key": "race-alderney-city",
+          "title": "Race: Alderney City",
+          "title_i18n": {
+            "en": "Race: Alderney City",
+            "pt": "Corrida: Alderney City"
+          },
+          "description": "Win this distinct motorcycle race.",
+          "description_i18n": {
+            "en": "Win this distinct motorcycle race.",
+            "pt": "Vença esta corrida de moto."
+          }
+        },
+        {
+          "key": "race-tudor-docks",
+          "title": "Race: Tudor Docks",
+          "title_i18n": {
+            "en": "Race: Tudor Docks",
+            "pt": "Corrida: Tudor Docks"
+          },
+          "description": "Win this distinct motorcycle race.",
+          "description_i18n": {
+            "en": "Win this distinct motorcycle race.",
+            "pt": "Vença esta corrida de moto."
+          }
+        },
+        {
+          "key": "race-alderney-industrial",
+          "title": "Race: Alderney Industrial",
+          "title_i18n": {
+            "en": "Race: Alderney Industrial",
+            "pt": "Corrida: Alderney Industrial"
+          },
+          "description": "Win this distinct motorcycle race.",
+          "description_i18n": {
+            "en": "Win this distinct motorcycle race.",
+            "pt": "Vença esta corrida de moto."
+          }
+        },
+        {
+          "key": "race-bohan-steps",
+          "title": "Race: Bohan Steps",
+          "title_i18n": {
+            "en": "Race: Bohan Steps",
+            "pt": "Corrida: Bohan Steps"
+          },
+          "description": "Win this distinct motorcycle race.",
+          "description_i18n": {
+            "en": "Win this distinct motorcycle race.",
+            "pt": "Vença esta corrida de moto."
+          }
+        },
+        {
+          "key": "race-bohan-strip",
+          "title": "Race: Bohan Strip",
+          "title_i18n": {
+            "en": "Race: Bohan Strip",
+            "pt": "Corrida: Bohan Strip"
+          },
+          "description": "Win this distinct motorcycle race.",
+          "description_i18n": {
+            "en": "Win this distinct motorcycle race.",
+            "pt": "Vença esta corrida de moto."
+          }
+        },
+        {
+          "key": "race-bohan-beach",
+          "title": "Race: Bohan Beach",
+          "title_i18n": {
+            "en": "Race: Bohan Beach",
+            "pt": "Corrida: Bohan Beach"
+          },
+          "description": "Win this distinct motorcycle race.",
+          "description_i18n": {
+            "en": "Win this distinct motorcycle race.",
+            "pt": "Vença esta corrida de moto."
+          }
+        },
+        {
+          "key": "race-schottler-station",
+          "title": "Race: Schottler Station",
+          "title_i18n": {
+            "en": "Race: Schottler Station",
+            "pt": "Corrida: Schottler Station"
+          },
+          "description": "Win this distinct motorcycle race.",
+          "description_i18n": {
+            "en": "Win this distinct motorcycle race.",
+            "pt": "Vença esta corrida de moto."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "random-encounters",
+      "title": "Malc and Dave Grossman",
+      "title_i18n": {
+        "en": "Malc and Dave Grossman",
+        "pt": "Malc e Dave Grossman"
+      },
+      "items": [
+        {
+          "key": "malc-first-encounter",
+          "title": "Malc: first encounter",
+          "title_i18n": {
+            "en": "Malc: first encounter",
+            "pt": "Malc: primeiro encontro"
+          },
+          "description": "Complete Malc's first street job after it becomes available.",
+          "description_i18n": {
+            "en": "Complete Malc's first street job after it becomes available.",
+            "pt": "Conclua o primeiro trabalho de rua de Malc quando estiver disponível."
+          }
+        },
+        {
+          "key": "malc-second-encounter",
+          "title": "Malc: second encounter",
+          "title_i18n": {
+            "en": "Malc: second encounter",
+            "pt": "Malc: segundo encontro"
+          },
+          "description": "Complete Malc's follow-up encounter after the required interval.",
+          "description_i18n": {
+            "en": "Complete Malc's follow-up encounter after the required interval.",
+            "pt": "Conclua o encontro seguinte de Malc após o intervalo necessário."
+          }
+        },
+        {
+          "key": "dave-grossman",
+          "title": "Dave Grossman",
+          "title_i18n": {
+            "en": "Dave Grossman",
+            "pt": "Dave Grossman"
+          },
+          "description": "Complete Dave's random encounter.",
+          "description_i18n": {
+            "en": "Complete Dave's random encounter.",
+            "pt": "Conclua o encontro aleatório de Dave."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "friend-activities",
+      "title": "Seven activities with Terry or Clay",
+      "title_i18n": {
+        "en": "Seven activities with Terry or Clay",
+        "pt": "Sete atividades com Terry ou Clay"
+      },
+      "items": [
+        {
+          "key": "friends-air-hockey",
+          "title": "Terry or Clay: Air Hockey",
+          "title_i18n": {
+            "en": "Terry or Clay: Air Hockey",
+            "pt": "Terry ou Clay: Air Hockey"
+          },
+          "description": "Complete an air-hockey outing with the friends.",
+          "description_i18n": {
+            "en": "Complete an air-hockey outing with the friends.",
+            "pt": "Conclua um passeio de air hockey com os amigos."
+          },
+          "details": "Call Terry or Clay for an outing; the friends normally travel as a group. Complete each of the seven listed activities once, rather than repeating all seven separately for every friend. Finish the outing and its return instructions so it records properly. The four game-win objectives are separate: participating in air hockey, darts or pool during an outing is not automatically a victory. Arm wrestling also needs its own win.",
+          "details_i18n": {
+            "en": "Call Terry or Clay for an outing; the friends normally travel as a group. Complete each of the seven listed activities once, rather than repeating all seven separately for every friend. Finish the outing and its return instructions so it records properly. The four game-win objectives are separate: participating in air hockey, darts or pool during an outing is not automatically a victory. Arm wrestling also needs its own win.",
+            "pt": "Ligue para Terry ou Clay para um passeio; os amigos normalmente se deslocam em grupo. Conclua cada uma das sete atividades listadas uma vez, sem repetir as sete separadamente com cada amigo. Termine o passeio e as instruções de retorno para registrar corretamente. As quatro metas de vitória nos jogos são separadas: participar de air hockey, dardos ou sinuca em um passeio não significa vencer. Queda de braço também precisa de uma vitória própria."
+          }
+        },
+        {
+          "key": "friends-darts",
+          "title": "Terry or Clay: Darts",
+          "title_i18n": {
+            "en": "Terry or Clay: Darts",
+            "pt": "Terry ou Clay: Darts"
+          },
+          "description": "Complete a darts outing with the friends.",
+          "description_i18n": {
+            "en": "Complete a darts outing with the friends.",
+            "pt": "Conclua um passeio de dardos com os amigos."
+          }
+        },
+        {
+          "key": "friends-drinking",
+          "title": "Terry or Clay: Drinking",
+          "title_i18n": {
+            "en": "Terry or Clay: Drinking",
+            "pt": "Terry ou Clay: Drinking"
+          },
+          "description": "Complete a drinking outing and the return journey.",
+          "description_i18n": {
+            "en": "Complete a drinking outing and the return journey.",
+            "pt": "Conclua um passeio para beber e o trajeto de retorno."
+          }
+        },
+        {
+          "key": "friends-eating",
+          "title": "Terry or Clay: Eating",
+          "title_i18n": {
+            "en": "Terry or Clay: Eating",
+            "pt": "Terry ou Clay: Eating"
+          },
+          "description": "Complete an eating outing with the friends.",
+          "description_i18n": {
+            "en": "Complete an eating outing with the friends.",
+            "pt": "Conclua um passeio para comer com os amigos."
+          }
+        },
+        {
+          "key": "friends-pool",
+          "title": "Terry or Clay: Pool",
+          "title_i18n": {
+            "en": "Terry or Clay: Pool",
+            "pt": "Terry ou Clay: Pool"
+          },
+          "description": "Complete a pool outing with the friends.",
+          "description_i18n": {
+            "en": "Complete a pool outing with the friends.",
+            "pt": "Conclua um passeio de sinuca com os amigos."
+          }
+        },
+        {
+          "key": "friends-show",
+          "title": "Terry or Clay: Show",
+          "title_i18n": {
+            "en": "Terry or Clay: Show",
+            "pt": "Terry ou Clay: Show"
+          },
+          "description": "Complete a show outing with the friends.",
+          "description_i18n": {
+            "en": "Complete a show outing with the friends.",
+            "pt": "Conclua um passeio para assistir a um show com os amigos."
+          }
+        },
+        {
+          "key": "friends-strip-club",
+          "title": "Terry or Clay: Strip Club",
+          "title_i18n": {
+            "en": "Terry or Clay: Strip Club",
+            "pt": "Terry ou Clay: Strip Club"
+          },
+          "description": "Complete a strip-club outing with the friends.",
+          "description_i18n": {
+            "en": "Complete a strip-club outing with the friends.",
+            "pt": "Conclua um passeio ao clube de striptease com os amigos."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "games-and-gang-wars",
+      "title": "Required games and Gang Wars",
+      "title_i18n": {
+        "en": "Required games and Gang Wars",
+        "pt": "Jogos exigidos e Gang Wars"
+      },
+      "items": [
+        {
+          "key": "win-arm-wrestling",
+          "title": "Win an arm-wrestling match",
+          "title_i18n": {
+            "en": "Win an arm-wrestling match",
+            "pt": "Vença uma disputa de queda de braço"
+          },
+          "description": "Win one match against an in-game opponent.",
+          "description_i18n": {
+            "en": "Win one match against an in-game opponent.",
+            "pt": "Vença uma disputa contra um oponente do jogo."
+          }
+        },
+        {
+          "key": "win-pool",
+          "title": "Win a pool game",
+          "title_i18n": {
+            "en": "Win a pool game",
+            "pt": "Vença uma partida de sinuca"
+          },
+          "description": "Win one complete pool game.",
+          "description_i18n": {
+            "en": "Win one complete pool game.",
+            "pt": "Vença uma partida completa de sinuca."
+          }
+        },
+        {
+          "key": "win-darts",
+          "title": "Win a darts game",
+          "title_i18n": {
+            "en": "Win a darts game",
+            "pt": "Vença uma partida de dardos"
+          },
+          "description": "Win one complete darts game.",
+          "description_i18n": {
+            "en": "Win one complete darts game.",
+            "pt": "Vença uma partida completa de dardos."
+          }
+        },
+        {
+          "key": "win-air-hockey",
+          "title": "Win an air-hockey game",
+          "title_i18n": {
+            "en": "Win an air-hockey game",
+            "pt": "Vença uma partida de air hockey"
+          },
+          "description": "Win one complete air-hockey game.",
+          "description_i18n": {
+            "en": "Win one complete air-hockey game.",
+            "pt": "Vença uma partida completa de air hockey."
+          }
+        },
+        {
+          "key": "gang-wars-twenty-five",
+          "title": "Complete 25 Gang Wars",
+          "title_i18n": {
+            "en": "Complete 25 Gang Wars",
+            "pt": "Conclua 25 Gang Wars"
+          },
+          "description": "Win twenty-five Gang Wars for the native completion goal.",
+          "description_i18n": {
+            "en": "Win twenty-five Gang Wars for the native completion goal.",
+            "pt": "Vença vinte e cinco Gang Wars para cumprir a meta de conclusão nativa."
+          },
+          "details": "Start from a Gang Wars meeting marker after Coming Down and arrive prepared with armor and ammunition. Read the current objective: some encounters involve a stationary group, others moving riders or a protected transport that must not escape. Fight from cover when possible and avoid explosives beside your own crew. Native 100% needs twenty-five victories; later wars are optional and become harder as enemy strength increases.",
+          "details_i18n": {
+            "en": "Start from a Gang Wars meeting marker after Coming Down and arrive prepared with armor and ammunition. Read the current objective: some encounters involve a stationary group, others moving riders or a protected transport that must not escape. Fight from cover when possible and avoid explosives beside your own crew. Native 100% needs twenty-five victories; later wars are optional and become harder as enemy strength increases.",
+            "pt": "Comece em um ponto de encontro de Gang Wars após Coming Down e chegue preparado com colete e munição. Leia o objetivo atual: alguns encontros têm grupos parados, outros envolvem motociclistas em movimento ou um transporte protegido que não pode fugir. Use cobertura quando possível e evite explosivos perto da sua equipe. Os 100% nativos exigem vinte e cinco vitórias; as guerras posteriores são opcionais e ficam mais difíceis conforme os inimigos se fortalecem."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "optional-gang-mastery",
+      "title": "Optional gang mastery and trophy goals",
+      "title_i18n": {
+        "en": "Optional gang mastery and trophy goals",
+        "pt": "Domínio opcional da gangue e metas de troféus"
+      },
+      "items": [
+        {
+          "key": "sixty-nine-bat-knockoffs",
+          "title": "Get Good Wood: 69 race knockoffs",
+          "title_i18n": {
+            "en": "Get Good Wood: 69 race knockoffs",
+            "pt": "Get Good Wood: 69 derrubadas nas corridas"
+          },
+          "description": "Accumulate sixty-nine successful bat knockoffs during single-player motorcycle races.",
+          "description_i18n": {
+            "en": "Accumulate sixty-nine successful bat knockoffs during single-player motorcycle races.",
+            "pt": "Acumule sessenta e nove derrubadas bem-sucedidas com o bastão nas corridas de moto para um jogador."
+          },
+          "details": "This trophy counts successful dismounts caused by the bat during motorcycle races. On PS3, charge and release Square for a left swing or Circle for a right swing. The total carries across races, and the same opponent can count again after remounting. You do not need sixty-nine different racers or a single perfect race. Keep Johnny mounted and use repeated attempts if necessary; ordinary street fights do not contribute.",
+          "details_i18n": {
+            "en": "This trophy counts successful dismounts caused by the bat during motorcycle races. On PS3, charge and release Square for a left swing or Circle for a right swing. The total carries across races, and the same opponent can count again after remounting. You do not need sixty-nine different racers or a single perfect race. Keep Johnny mounted and use repeated attempts if necessary; ordinary street fights do not contribute.",
+            "pt": "Este troféu conta derrubadas causadas pelo bastão durante corridas de moto. No PS3, segure e solte Quadrado para bater à esquerda ou Círculo para bater à direita. O total acumula entre corridas, e o mesmo adversário pode contar novamente após remontar. Não são necessários sessenta e nove competidores diferentes nem uma única corrida perfeita. Mantenha Johnny na moto e repita as tentativas se necessário; brigas comuns nas ruas não contribuem."
+          }
+        },
+        {
+          "key": "terry-clay-full-toughness",
+          "title": "Full Chat: Terry and Clay at 100% toughness",
+          "title_i18n": {
+            "en": "Full Chat: Terry and Clay at 100% toughness",
+            "pt": "Full Chat: Terry e Clay com 100% de resistência"
+          },
+          "description": "Raise both Terry's and Clay's toughness to one hundred percent.",
+          "description_i18n": {
+            "en": "Raise both Terry's and Clay's toughness to one hundred percent.",
+            "pt": "Eleve a resistência de Terry e Clay a cem por cento."
+          },
+          "details": "Use the backup phone option during missions that permit Terry and Clay to accompany Johnny, and keep both alive through the encounter. Their toughness increases through successful participation; friendship liking and game outings are different statistics. Check each man's toughness separately until both reach one hundred percent. If the story ends first, Gang Wars remain a way to continue developing them. Maximum toughness is required for Full Chat, not for the episode's native 100% statistic.",
+          "details_i18n": {
+            "en": "Use the backup phone option during missions that permit Terry and Clay to accompany Johnny, and keep both alive through the encounter. Their toughness increases through successful participation; friendship liking and game outings are different statistics. Check each man's toughness separately until both reach one hundred percent. If the story ends first, Gang Wars remain a way to continue developing them. Maximum toughness is required for Full Chat, not for the episode's native 100% statistic.",
+            "pt": "Use a opção de reforço do celular nas missões que permitem Terry e Clay acompanharem Johnny e mantenha os dois vivos durante o confronto. A resistência aumenta com a participação bem-sucedida; afinidade de amizade e passeios são estatísticas diferentes. Confira a resistência de cada um até ambos chegarem a cem por cento. Se a história terminar antes, as Gang Wars permitem continuar esse desenvolvimento. A resistência máxima é exigida para Full Chat, não para a estatística nativa de 100% do episódio."
+          }
+        },
+        {
+          "key": "gang-wars-fifty",
+          "title": "Optional: complete 50 Gang Wars",
+          "title_i18n": {
+            "en": "Optional: complete 50 Gang Wars",
+            "pt": "Opcional: conclua 50 Gang Wars"
+          },
+          "description": "Continue beyond the native requirement to unlock the final Gang Wars weapon reward.",
+          "description_i18n": {
+            "en": "Continue beyond the native requirement to unlock the final Gang Wars weapon reward.",
+            "pt": "Continue além do requisito nativo para liberar a última recompensa de arma das Gang Wars."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "collections-and-completion",
+      "title": "Seagulls and native 100%",
+      "title_i18n": {
+        "en": "Seagulls and native 100%",
+        "pt": "Gaivotas e 100% nativos"
+      },
+      "items": [
+        {
+          "key": "seagulls-fifty",
+          "title": "Find all 50 seagulls",
+          "title_i18n": {
+            "en": "Find all 50 seagulls",
+            "pt": "Encontre as 50 gaivotas"
+          },
+          "description": "Eliminate all fifty seagulls; this aggregate goal does not list individual locations.",
+          "description_i18n": {
+            "en": "Eliminate all fifty seagulls; this aggregate goal does not list individual locations.",
+            "pt": "Elimine as cinquenta gaivotas; esta meta agregada não lista as localizações individuais."
+          }
+        },
+        {
+          "key": "verify-native-completion",
+          "title": "Verify native 100% completion",
+          "title_i18n": {
+            "en": "Verify native 100% completion",
+            "pt": "Confira os 100% nativos"
+          },
+          "description": "Check this episode's completion statistic after its required missions, activities and collection.",
+          "description_i18n": {
+            "en": "Check this episode's completion statistic after its required missions, activities and collection.",
+            "pt": "Confira a porcentagem deste episódio após suas missões, atividades e coleção exigidas."
+          },
+          "details": "Check the episode's own progress, separately from Niko's base-game save. Its required scope is twenty-two story missions, ten Angus thefts, five Stubbs jobs, twelve race wins, twenty-five Gang Wars, fifty seagulls, both Malc meetings, Dave's encounter, seven friend activities and four game wins. Brian's conditional encounter, fifty Gang Wars and maximum toughness are extra goals. The five PS3 expansion trophies are all single-player objectives and contain no multiplayer requirement or separate platinum.",
+          "details_i18n": {
+            "en": "Check the episode's own progress, separately from Niko's base-game save. Its required scope is twenty-two story missions, ten Angus thefts, five Stubbs jobs, twelve race wins, twenty-five Gang Wars, fifty seagulls, both Malc meetings, Dave's encounter, seven friend activities and four game wins. Brian's conditional encounter, fifty Gang Wars and maximum toughness are extra goals. The five PS3 expansion trophies are all single-player objectives and contain no multiplayer requirement or separate platinum.",
+            "pt": "Confira o progresso do próprio episódio, separado do salvamento do jogo-base com Niko. São exigidos vinte e duas missões da história, dez furtos de Angus, cinco trabalhos de Stubbs, doze vitórias em corridas, vinte e cinco Gang Wars, cinquenta gaivotas, os dois encontros de Malc, o encontro de Dave, sete atividades de amizade e quatro vitórias nos jogos. O encontro condicional de Brian, cinquenta Gang Wars e resistência máxima são extras. Os cinco troféus da expansão no PS3 são objetivos para um jogador, sem requisito multiplayer nem platina separada."
+          }
+        }
+      ],
+      "kind": "collectible"
+    }
+  ],
+  "trophies": [
+    {
+      "key": "trophy-tlad-one-percenter",
+      "title": "TLAD: One Percenter",
+      "title_i18n": {
+        "en": "TLAD: One Percenter",
+        "pt": "TLAD: One Percenter"
+      },
+      "description": "Complete Clean and Serene, including Billy's motorcycle recovery.",
+      "description_i18n": {
+        "en": "Complete Clean and Serene, including Billy's motorcycle recovery.",
+        "pt": "Conclua Clean and Serene, incluindo a recuperação da moto de Billy."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-tlad-the-lost-boy",
+      "title": "TLAD: The Lost Boy",
+      "title_i18n": {
+        "en": "TLAD: The Lost Boy",
+        "pt": "TLAD: The Lost Boy"
+      },
+      "description": "Complete This Shit's Cursed and the associated change in club leadership.",
+      "description_i18n": {
+        "en": "Complete This Shit's Cursed and the associated change in club leadership.",
+        "pt": "Conclua This Shit's Cursed e a mudança correspondente na liderança do clube."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-tlad-easy-rider",
+      "title": "TLAD: Easy Rider",
+      "title_i18n": {
+        "en": "TLAD: Easy Rider",
+        "pt": "TLAD: Easy Rider"
+      },
+      "description": "Finish the expansion's campaign through Get Lost.",
+      "description_i18n": {
+        "en": "Finish the expansion's campaign through Get Lost.",
+        "pt": "Termine a campanha da expansão até Get Lost."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-tlad-get-good-wood",
+      "title": "TLAD: Get Good Wood",
+      "title_i18n": {
+        "en": "TLAD: Get Good Wood",
+        "pt": "TLAD: Get Good Wood"
+      },
+      "description": "Knock sixty-nine opponents off their motorcycles with the bat during races; the total is cumulative.",
+      "description_i18n": {
+        "en": "Knock sixty-nine opponents off their motorcycles with the bat during races; the total is cumulative.",
+        "pt": "Derrube sessenta e nove adversários das motos com o bastão durante corridas; o total é cumulativo."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-tlad-full-chat",
+      "title": "TLAD: Full Chat",
+      "title_i18n": {
+        "en": "TLAD: Full Chat",
+        "pt": "TLAD: Full Chat"
+      },
+      "description": "Raise both Terry's and Clay's toughness to one hundred percent in single-player.",
+      "description_i18n": {
+        "en": "Raise both Terry's and Clay's toughness to one hundred percent in single-player.",
+        "pt": "Eleve a resistência de Terry e Clay a cem por cento no modo para um jogador."
+      },
+      "tier": "bronze"
+    }
+  ],
+  "hltb_id": "4063",
+  "hltb_main_hours": 6,
+  "hltb_main_extra_hours": 10,
+  "hltb_completionist_hours": 17
+}

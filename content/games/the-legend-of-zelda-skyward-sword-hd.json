@@ -1,0 +1,2136 @@
+{
+  "slug": "the-legend-of-zelda-skyward-sword-hd",
+  "title": "The Legend of Zelda: Skyward Sword HD",
+  "title_i18n": {
+    "en": "The Legend of Zelda: Skyward Sword HD",
+    "pt": "The Legend of Zelda: Skyward Sword HD"
+  },
+  "platform": "Nintendo Switch",
+  "cover_url": "/covers/the-legend-of-zelda-skyward-sword-hd.png",
+  "created_by": "dd5c4bf0-85ea-4986-9c04-b37e8c986150",
+  "categories": [
+    {
+      "key": "skyloft-and-wing-ceremony",
+      "title": "Skyloft and the Wing Ceremony",
+      "title_i18n": {
+        "en": "Skyloft and the Wing Ceremony",
+        "pt": "Skyloft e a Wing Ceremony"
+      },
+      "items": [
+        {
+          "key": "choose-hd-control-mode",
+          "title": "Choose the HD control mode",
+          "title_i18n": {
+            "en": "Choose the HD control mode",
+            "pt": "Escolher o modo de controle HD"
+          },
+          "description": "Use optional Joy-Con motion controls or button-only controls; this route covers the 2021 Switch release. Normal sky travel uses Bird Statues; amiibo is optional.",
+          "description_i18n": {
+            "en": "Use optional Joy-Con motion controls or button-only controls; this route covers the 2021 Switch release. Normal sky travel uses Bird Statues; amiibo is optional.",
+            "pt": "Use movimento opcional dos Joy-Con ou controles por botões; esta rota cobre a edição Switch de 2021. O retorno comum ao céu usa Bird Statues; amiibo é opcional."
+          }
+        },
+        {
+          "key": "explore-knight-academy",
+          "title": "Explore the Knight Academy",
+          "title_i18n": {
+            "en": "Explore the Knight Academy",
+            "pt": "Explorar a Knight Academy"
+          },
+          "description": "Meet the residents and follow the opening request toward the ceremony grounds.",
+          "description_i18n": {
+            "en": "Meet the residents and follow the opening request toward the ceremony grounds.",
+            "pt": "Conheça os moradores e siga o pedido inicial até o local da cerimônia."
+          }
+        },
+        {
+          "key": "train-directional-swordplay",
+          "title": "Practice directional swordplay",
+          "title_i18n": {
+            "en": "Practice directional swordplay",
+            "pt": "Praticar golpes direcionais"
+          },
+          "description": "Use the training hall to learn deliberate cuts, thrusts and the finishing attack in your chosen control mode.",
+          "description_i18n": {
+            "en": "Use the training hall to learn deliberate cuts, thrusts and the finishing attack in your chosen control mode.",
+            "pt": "Use a sala de treinamento para aprender cortes, estocadas e a finalização no modo escolhido."
+          },
+          "details": "In button-only mode, deliberate right-stick movements control sword direction; pressing the right stick performs a thrust. Let it return toward neutral between cuts so repeated inputs do not become an unintended Spin Attack. Hold L while moving the right stick when you want the camera instead. With the sword out and shield equipped, click the left stick just before impact for a Shield Bash; a correctly timed parry avoids normal shield wear. Motion mode uses the corresponding Joy-Con movements, so practice the mode you actually selected.",
+          "details_i18n": {
+            "en": "In button-only mode, deliberate right-stick movements control sword direction; pressing the right stick performs a thrust. Let it return toward neutral between cuts so repeated inputs do not become an unintended Spin Attack. Hold L while moving the right stick when you want the camera instead. With the sword out and shield equipped, click the left stick just before impact for a Shield Bash; a correctly timed parry avoids normal shield wear. Motion mode uses the corresponding Joy-Con movements, so practice the mode you actually selected.",
+            "pt": "No modo por botões, movimentos deliberados do analógico direito controlam a direção da espada; apertar o analógico executa uma estocada. Deixe-o voltar ao centro entre cortes para não transformar comandos repetidos em um Spin Attack indesejado. Segure L ao mover o analógico direito quando quiser controlar a câmera. Com espada e escudo equipados, aperte o analógico esquerdo antes do impacto para um Shield Bash; uma defesa precisa evita o desgaste comum do escudo. O modo por movimento usa os Joy-Con, então pratique o modo escolhido."
+          }
+        },
+        {
+          "key": "find-missing-loftwing",
+          "title": "Find the missing Loftwing",
+          "title_i18n": {
+            "en": "Find the missing Loftwing",
+            "pt": "Encontrar o Loftwing desaparecido"
+          },
+          "description": "Investigate the clues around Skyloft and follow the route to your bird.",
+          "description_i18n": {
+            "en": "Investigate the clues around Skyloft and follow the route to your bird.",
+            "pt": "Investigue as pistas por Skyloft e siga a rota até sua ave."
+          }
+        },
+        {
+          "key": "free-crimson-loftwing",
+          "title": "Free the Crimson Loftwing",
+          "title_i18n": {
+            "en": "Free the Crimson Loftwing",
+            "pt": "Libertar o Crimson Loftwing"
+          },
+          "description": "Resolve the enclosure obstacle and complete the introductory flight lesson.",
+          "description_i18n": {
+            "en": "Resolve the enclosure obstacle and complete the introductory flight lesson.",
+            "pt": "Resolva o obstáculo do cercado e conclua a lição inicial de voo."
+          }
+        },
+        {
+          "key": "win-wing-ceremony",
+          "title": "Complete the Wing Ceremony",
+          "title_i18n": {
+            "en": "Complete the Wing Ceremony",
+            "pt": "Concluir a Wing Ceremony"
+          },
+          "description": "Use controlled flight to catch the target and finish the ceremony sequence.",
+          "description_i18n": {
+            "en": "Use controlled flight to catch the target and finish the ceremony sequence.",
+            "pt": "Controle o voo para alcançar o alvo e conclua a sequência da cerimônia."
+          }
+        },
+        {
+          "key": "follow-fi-goddess-statue",
+          "title": "Follow Fi to the Goddess statue",
+          "title_i18n": {
+            "en": "Follow Fi to the Goddess statue",
+            "pt": "Seguir Fi até a estátua da Deusa"
+          },
+          "description": "Follow the nighttime route and respond to the new companion's request.",
+          "description_i18n": {
+            "en": "Follow the nighttime route and respond to the new companion's request.",
+            "pt": "Siga a rota noturna e atenda ao pedido da nova companheira."
+          }
+        },
+        {
+          "key": "receive-goddess-sword-tablet",
+          "title": "Receive the Goddess Sword and first tablet",
+          "title_i18n": {
+            "en": "Receive the Goddess Sword and first tablet",
+            "pt": "Receber a Goddess Sword e a primeira placa"
+          },
+          "description": "Complete the chamber sequence and prepare supplies before the first descent.",
+          "description_i18n": {
+            "en": "Complete the chamber sequence and prepare supplies before the first descent.",
+            "pt": "Conclua a sequência da câmara e prepare recursos antes da primeira descida."
+          }
+        }
+      ]
+    },
+    {
+      "key": "faron-woods-first-visit",
+      "title": "First descent and Faron Woods",
+      "title_i18n": {
+        "en": "First descent and Faron Woods",
+        "pt": "Primeira descida e Faron Woods"
+      },
+      "items": [
+        {
+          "key": "prepare-shield-bottle",
+          "title": "Prepare a shield and bottle",
+          "title_i18n": {
+            "en": "Prepare a shield and bottle",
+            "pt": "Preparar escudo e garrafa"
+          },
+          "description": "Visit the Bazaar, learn item storage and take useful recovery supplies before departure.",
+          "description_i18n": {
+            "en": "Visit the Bazaar, learn item storage and take useful recovery supplies before departure.",
+            "pt": "Visite o Bazaar, conheça o armazenamento e leve recursos de recuperação antes de partir."
+          }
+        },
+        {
+          "key": "enter-sealed-grounds",
+          "title": "Enter the Sealed Grounds",
+          "title_i18n": {
+            "en": "Enter the Sealed Grounds",
+            "pt": "Entrar em Sealed Grounds"
+          },
+          "description": "Follow the first surface landing route and investigate the marked seal.",
+          "description_i18n": {
+            "en": "Follow the first surface landing route and investigate the marked seal.",
+            "pt": "Siga a rota do primeiro pouso e investigue o selo marcado."
+          }
+        },
+        {
+          "key": "meet-sealed-temple-elder",
+          "title": "Meet the Sealed Temple elder",
+          "title_i18n": {
+            "en": "Meet the Sealed Temple elder",
+            "pt": "Encontrar a anciã do Sealed Temple"
+          },
+          "description": "Hear the guidance and continue toward Faron Woods.",
+          "description_i18n": {
+            "en": "Hear the guidance and continue toward Faron Woods.",
+            "pt": "Ouça as orientações e siga para Faron Woods."
+          }
+        },
+        {
+          "key": "meet-kikwi-elder",
+          "title": "Meet the Kikwi Elder",
+          "title_i18n": {
+            "en": "Meet the Kikwi Elder",
+            "pt": "Encontrar o ancião Kikwi"
+          },
+          "description": "Follow the local trail and learn why the scattered Kikwis need help.",
+          "description_i18n": {
+            "en": "Follow the local trail and learn why the scattered Kikwis need help.",
+            "pt": "Siga a trilha local e descubra por que os Kikwis espalhados precisam de ajuda."
+          }
+        },
+        {
+          "key": "find-scattered-kikwis",
+          "title": "Find the scattered Kikwis",
+          "title_i18n": {
+            "en": "Find the scattered Kikwis",
+            "pt": "Encontrar os Kikwis espalhados"
+          },
+          "description": "Use dowsing and observation to locate the missing residents and report back.",
+          "description_i18n": {
+            "en": "Use dowsing and observation to locate the missing residents and report back.",
+            "pt": "Use rastreamento e observação para localizar os moradores desaparecidos e informe o resultado."
+          }
+        },
+        {
+          "key": "obtain-slingshot",
+          "title": "Obtain the Slingshot",
+          "title_i18n": {
+            "en": "Obtain the Slingshot",
+            "pt": "Obter a Slingshot"
+          },
+          "description": "Collect the reward and test ranged interactions before entering the deeper forest.",
+          "description_i18n": {
+            "en": "Collect the reward and test ranged interactions before entering the deeper forest.",
+            "pt": "Recolha a recompensa e teste as interações à distância antes de entrar na floresta profunda."
+          }
+        },
+        {
+          "key": "reach-skyview-entrance",
+          "title": "Reach Skyview Temple",
+          "title_i18n": {
+            "en": "Reach Skyview Temple",
+            "pt": "Alcançar o Skyview Temple"
+          },
+          "description": "Cross Deep Woods, learn about Goddess Cubes and inspect the temple entrance.",
+          "description_i18n": {
+            "en": "Cross Deep Woods, learn about Goddess Cubes and inspect the temple entrance.",
+            "pt": "Atravesse Deep Woods, conheça os Goddess Cubes e examine a entrada do templo."
+          }
+        }
+      ]
+    },
+    {
+      "key": "skyview-temple",
+      "title": "Skyview Temple",
+      "title_i18n": {
+        "en": "Skyview Temple",
+        "pt": "Skyview Temple"
+      },
+      "items": [
+        {
+          "key": "enter-skyview-temple",
+          "title": "Enter Skyview Temple",
+          "title_i18n": {
+            "en": "Enter Skyview Temple",
+            "pt": "Entrar no Skyview Temple"
+          },
+          "description": "Inspect the first locked routes and learn how the dungeon's watchers react.",
+          "description_i18n": {
+            "en": "Inspect the first locked routes and learn how the dungeon's watchers react.",
+            "pt": "Examine as primeiras rotas bloqueadas e observe como os vigias da masmorra reagem."
+          },
+          "details": "The eye sentries follow the tip of the drawn sword. Stand where every relevant eye can see it, then move the blade in smooth full circles until they become dizzy and the lock releases. Do not swing repeatedly at the wall or use the Slingshot on an invulnerable eye. In the later three-eye room, bring the movable box into position and stand on it so the upper watcher also opens. If an eye closes, adjust your distance or height before repeating the circles.",
+          "details_i18n": {
+            "en": "The eye sentries follow the tip of the drawn sword. Stand where every relevant eye can see it, then move the blade in smooth full circles until they become dizzy and the lock releases. Do not swing repeatedly at the wall or use the Slingshot on an invulnerable eye. In the later three-eye room, bring the movable box into position and stand on it so the upper watcher also opens. If an eye closes, adjust your distance or height before repeating the circles.",
+            "pt": "Os olhos vigias acompanham a ponta da espada desembainhada. Fique onde todos os olhos envolvidos consigam vê-la e mova a lâmina em círculos completos até ficarem tontos e liberarem a fechadura. Não golpeie repetidamente a parede nem dispare a Slingshot contra um olho invulnerável. Na sala posterior com três olhos, posicione a caixa móvel e suba nela para abrir também o olho superior. Se algum olho fechar, ajuste a distância ou a altura antes de repetir os círculos."
+          }
+        },
+        {
+          "key": "solve-skyview-water-routes",
+          "title": "Resolve the changing water routes",
+          "title_i18n": {
+            "en": "Resolve the changing water routes",
+            "pt": "Resolver as rotas com mudanças na água"
+          },
+          "description": "Explore connected rooms and revisit ledges when the water height changes.",
+          "description_i18n": {
+            "en": "Explore connected rooms and revisit ledges when the water height changes.",
+            "pt": "Explore as salas conectadas e revisite plataformas quando a altura da água mudar."
+          }
+        },
+        {
+          "key": "obtain-beetle",
+          "title": "Obtain the Beetle",
+          "title_i18n": {
+            "en": "Obtain the Beetle",
+            "pt": "Obter o Beetle"
+          },
+          "description": "Win the special combat encounter and test the remote tool on distant mechanisms.",
+          "description_i18n": {
+            "en": "Win the special combat encounter and test the remote tool on distant mechanisms.",
+            "pt": "Vença o confronto especial e teste a ferramenta remota nos mecanismos distantes."
+          }
+        },
+        {
+          "key": "reach-skyview-boss-door",
+          "title": "Reach the Skyview boss door",
+          "title_i18n": {
+            "en": "Reach the Skyview boss door",
+            "pt": "Alcançar a porta do chefe de Skyview"
+          },
+          "description": "Finish the remaining room puzzles and align the dungeon key with the lock.",
+          "description_i18n": {
+            "en": "Finish the remaining room puzzles and align the dungeon key with the lock.",
+            "pt": "Conclua os desafios restantes e alinhe a chave da masmorra à fechadura."
+          }
+        },
+        {
+          "key": "defeat-ghirahim-first",
+          "title": "Defeat Ghirahim's first encounter",
+          "title_i18n": {
+            "en": "Defeat Ghirahim's first encounter",
+            "pt": "Vencer o primeiro confronto com Ghirahim"
+          },
+          "description": "Read his guard and attack signals rather than repeating the same sword direction.",
+          "description_i18n": {
+            "en": "Read his guard and attack signals rather than repeating the same sword direction.",
+            "pt": "Observe a guarda e os sinais de ataque em vez de repetir a mesma direção da espada."
+          },
+          "details": "His raised hand follows your sword position. Hold the blade to one side, let his hand commit, then cut from the other direction instead of repeatedly striking into his grasp. If he catches the sword, recover it before continuing the same exchange. In the armed phase, read the direction of his guard and cut through the opening; a Shield Bash can interrupt his rush. Move away from projectiles when the pattern is unclear, then re-enter for a short controlled attack rather than spending stamina on random spins.",
+          "details_i18n": {
+            "en": "His raised hand follows your sword position. Hold the blade to one side, let his hand commit, then cut from the other direction instead of repeatedly striking into his grasp. If he catches the sword, recover it before continuing the same exchange. In the armed phase, read the direction of his guard and cut through the opening; a Shield Bash can interrupt his rush. Move away from projectiles when the pattern is unclear, then re-enter for a short controlled attack rather than spending stamina on random spins.",
+            "pt": "A mão levantada acompanha a posição da espada. Mantenha a lâmina de um lado, espere a reação da mão e corte pela outra direção em vez de atacar repetidamente onde ele agarra. Se ele pegar a espada, recupere-a antes de continuar. Na fase armada, observe a direção da guarda e corte pela abertura; um Shield Bash pode interromper a investida. Afaste-se dos projéteis quando não entender o padrão e volte para um ataque curto e controlado em vez de gastar resistência em giros aleatórios."
+          }
+        },
+        {
+          "key": "claim-ruby-tablet",
+          "title": "Claim the Ruby Tablet",
+          "title_i18n": {
+            "en": "Claim the Ruby Tablet",
+            "pt": "Obter a Ruby Tablet"
+          },
+          "description": "Collect the Heart Container, reach the spring and bring the new tablet to Skyloft.",
+          "description_i18n": {
+            "en": "Collect the Heart Container, reach the spring and bring the new tablet to Skyloft.",
+            "pt": "Recolha o Heart Container, alcance a fonte e leve a nova placa a Skyloft."
+          }
+        }
+      ]
+    },
+    {
+      "key": "eldin-volcano-first-visit",
+      "title": "Eldin Volcano and the buried key",
+      "title_i18n": {
+        "en": "Eldin Volcano and the buried key",
+        "pt": "Eldin Volcano e a chave enterrada"
+      },
+      "items": [
+        {
+          "key": "open-eldin-cloud-route",
+          "title": "Open the Eldin cloud route",
+          "title_i18n": {
+            "en": "Open the Eldin cloud route",
+            "pt": "Abrir a rota de nuvens de Eldin"
+          },
+          "description": "Place the new tablet and prepare suitable equipment for the volcanic region.",
+          "description_i18n": {
+            "en": "Place the new tablet and prepare suitable equipment for the volcanic region.",
+            "pt": "Coloque a nova placa e prepare equipamento adequado ao vulcão."
+          }
+        },
+        {
+          "key": "meet-mogmas",
+          "title": "Meet the Mogmas",
+          "title_i18n": {
+            "en": "Meet the Mogmas",
+            "pt": "Encontrar os Mogmas"
+          },
+          "description": "Follow the volcano trail and speak with the residents about Zelda's route.",
+          "description_i18n": {
+            "en": "Follow the volcano trail and speak with the residents about Zelda's route.",
+            "pt": "Siga a trilha do vulcão e fale com os moradores sobre a rota de Zelda."
+          }
+        },
+        {
+          "key": "obtain-digging-mitts",
+          "title": "Obtain the Digging Mitts",
+          "title_i18n": {
+            "en": "Obtain the Digging Mitts",
+            "pt": "Obter as Digging Mitts"
+          },
+          "description": "Help with the local combat problem and collect the new digging tool.",
+          "description_i18n": {
+            "en": "Help with the local combat problem and collect the new digging tool.",
+            "pt": "Ajude no confronto local e obtenha a ferramenta de escavação."
+          }
+        },
+        {
+          "key": "climb-eldin-slope",
+          "title": "Climb the volcano slopes",
+          "title_i18n": {
+            "en": "Climb the volcano slopes",
+            "pt": "Subir as encostas do vulcão"
+          },
+          "description": "Manage stamina between safe ledges and use the route's explosive resources where needed.",
+          "description_i18n": {
+            "en": "Manage stamina between safe ledges and use the route's explosive resources where needed.",
+            "pt": "Administre a resistência entre plataformas seguras e use os explosivos disponíveis quando necessário."
+          }
+        },
+        {
+          "key": "find-five-earth-key-pieces",
+          "title": "Find the five Earth Temple key pieces",
+          "title_i18n": {
+            "en": "Find the five Earth Temple key pieces",
+            "pt": "Encontrar as cinco partes da chave do Earth Temple"
+          },
+          "description": "Follow the dowsing targets and investigate buried sites around the summit approach.",
+          "description_i18n": {
+            "en": "Follow the dowsing targets and investigate buried sites around the summit approach.",
+            "pt": "Siga os alvos de rastreamento e investigue os locais enterrados perto do cume."
+          }
+        },
+        {
+          "key": "open-earth-temple",
+          "title": "Open the Earth Temple",
+          "title_i18n": {
+            "en": "Open the Earth Temple",
+            "pt": "Abrir o Earth Temple"
+          },
+          "description": "Assemble the recovered key and enter the second dungeon.",
+          "description_i18n": {
+            "en": "Assemble the recovered key and enter the second dungeon.",
+            "pt": "Reúna as partes recuperadas e entre na segunda masmorra."
+          }
+        }
+      ]
+    },
+    {
+      "key": "earth-temple",
+      "title": "Earth Temple",
+      "title_i18n": {
+        "en": "Earth Temple",
+        "pt": "Earth Temple"
+      },
+      "items": [
+        {
+          "key": "cross-earth-lava-route",
+          "title": "Cross the lava route",
+          "title_i18n": {
+            "en": "Cross the lava route",
+            "pt": "Atravessar a rota de lava"
+          },
+          "description": "Inspect safe footing and the large movable objects before crossing the main chamber.",
+          "description_i18n": {
+            "en": "Inspect safe footing and the large movable objects before crossing the main chamber.",
+            "pt": "Examine os apoios seguros e os grandes objetos móveis antes de atravessar a câmara central."
+          }
+        },
+        {
+          "key": "obtain-bomb-bag",
+          "title": "Obtain the Bomb Bag",
+          "title_i18n": {
+            "en": "Obtain the Bomb Bag",
+            "pt": "Obter a Bomb Bag"
+          },
+          "description": "Complete the Lizalfos challenge and help the Mogma recover the dungeon's tool.",
+          "description_i18n": {
+            "en": "Complete the Lizalfos challenge and help the Mogma recover the dungeon's tool.",
+            "pt": "Vença o desafio de Lizalfos e ajude o Mogma a recuperar a ferramenta da masmorra."
+          }
+        },
+        {
+          "key": "solve-earth-rolling-mechanisms",
+          "title": "Resolve the rolling mechanisms",
+          "title_i18n": {
+            "en": "Resolve the rolling mechanisms",
+            "pt": "Resolver os mecanismos rolantes"
+          },
+          "description": "Use bombs and controlled movement to open the remaining lava-room routes.",
+          "description_i18n": {
+            "en": "Use bombs and controlled movement to open the remaining lava-room routes.",
+            "pt": "Use bombas e movimentos controlados para abrir as rotas restantes nas salas de lava."
+          },
+          "details": "Treat the large stone ball as a moving platform you steer by walking on its surface. Use short corrections and look ahead before committing to a narrow lava channel. Bombs reveal cracked walls and can be rolled into low openings that an ordinary throw misses. When a mechanism seems unreachable, inspect it from the ball's height and check whether a nearby wall hides another passage. Return to stable footing before planning a new bomb throw; losing your orientation on the ball is more dangerous than taking a moment to reset.",
+          "details_i18n": {
+            "en": "Treat the large stone ball as a moving platform you steer by walking on its surface. Use short corrections and look ahead before committing to a narrow lava channel. Bombs reveal cracked walls and can be rolled into low openings that an ordinary throw misses. When a mechanism seems unreachable, inspect it from the ball's height and check whether a nearby wall hides another passage. Return to stable footing before planning a new bomb throw; losing your orientation on the ball is more dangerous than taking a moment to reset.",
+            "pt": "Trate a grande bola de pedra como uma plataforma dirigida pelos passos sobre sua superfície. Faça correções pequenas e olhe adiante antes de entrar em um canal estreito de lava. Bombas abrem paredes rachadas e podem ser roladas por passagens baixas que um arremesso comum não alcança. Quando um mecanismo parecer inacessível, examine-o da altura da bola e procure outra passagem nas paredes próximas. Volte a um apoio estável antes de planejar outro arremesso; perder a orientação na bola é pior que parar para se reorganizar."
+          }
+        },
+        {
+          "key": "defeat-scaldera",
+          "title": "Defeat Scaldera",
+          "title_i18n": {
+            "en": "Defeat Scaldera",
+            "pt": "Derrotar Scaldera"
+          },
+          "description": "Watch the boss's movement and breathing windows while managing your distance on the slope.",
+          "description_i18n": {
+            "en": "Watch the boss's movement and breathing windows while managing your distance on the slope.",
+            "pt": "Observe o movimento e as aberturas de respiração do chefe, controlando a distância na encosta."
+          }
+        },
+        {
+          "key": "claim-amber-tablet",
+          "title": "Claim the Amber Tablet",
+          "title_i18n": {
+            "en": "Claim the Amber Tablet",
+            "pt": "Obter a Amber Tablet"
+          },
+          "description": "Collect the reward and follow the spring sequence before returning to Skyloft.",
+          "description_i18n": {
+            "en": "Collect the reward and follow the spring sequence before returning to Skyloft.",
+            "pt": "Recolha a recompensa e acompanhe a sequência da fonte antes de voltar a Skyloft."
+          }
+        }
+      ]
+    },
+    {
+      "key": "lanayru-desert-first-visit",
+      "title": "Lanayru Desert and Timeshift Stones",
+      "title_i18n": {
+        "en": "Lanayru Desert and Timeshift Stones",
+        "pt": "Lanayru Desert e Timeshift Stones"
+      },
+      "items": [
+        {
+          "key": "open-lanayru-route",
+          "title": "Open the Lanayru route",
+          "title_i18n": {
+            "en": "Open the Lanayru route",
+            "pt": "Abrir a rota de Lanayru"
+          },
+          "description": "Place the third tablet and descend to the desert region.",
+          "description_i18n": {
+            "en": "Place the third tablet and descend to the desert region.",
+            "pt": "Coloque a terceira placa e desça à região desértica."
+          }
+        },
+        {
+          "key": "explore-lanayru-mine",
+          "title": "Explore Lanayru Mine",
+          "title_i18n": {
+            "en": "Explore Lanayru Mine",
+            "pt": "Explorar a Lanayru Mine"
+          },
+          "description": "Investigate the mine's time-changing objects and how they affect the route.",
+          "description_i18n": {
+            "en": "Investigate the mine's time-changing objects and how they affect the route.",
+            "pt": "Investigue os objetos que alteram o tempo e seus efeitos na rota."
+          }
+        },
+        {
+          "key": "learn-timeshift-stones",
+          "title": "Learn the Timeshift Stone rules",
+          "title_i18n": {
+            "en": "Learn the Timeshift Stone rules",
+            "pt": "Aprender as regras das Timeshift Stones"
+          },
+          "description": "Compare the same space in both states before moving through hazards or machinery.",
+          "description_i18n": {
+            "en": "Compare the same space in both states before moving through hazards or machinery.",
+            "pt": "Compare o mesmo espaço nos dois estados antes de atravessar perigos ou máquinas."
+          },
+          "details": "A Timeshift Stone changes only its active area, so observe where working machinery meets present-day ruins. Before deactivating a stone, check whether you are standing on a platform that disappears or inside an energized hazard that becomes safe. The Hook Beetle lets you interact from a distance and carry Bomb Flowers to otherwise inaccessible targets. In the generator routes, hidden stone paths remain physically present beneath quicksand, and the map can help you follow them. Move between safe sections deliberately rather than sprinting across an uncertain patch of sand.",
+          "details_i18n": {
+            "en": "A Timeshift Stone changes only its active area, so observe where working machinery meets present-day ruins. Before deactivating a stone, check whether you are standing on a platform that disappears or inside an energized hazard that becomes safe. The Hook Beetle lets you interact from a distance and carry Bomb Flowers to otherwise inaccessible targets. In the generator routes, hidden stone paths remain physically present beneath quicksand, and the map can help you follow them. Move between safe sections deliberately rather than sprinting across an uncertain patch of sand.",
+            "pt": "Uma Timeshift Stone altera apenas sua área ativa; observe onde as máquinas funcionais encontram as ruínas do presente. Antes de desativá-la, confira se está sobre uma plataforma que desaparece ou diante de um perigo energizado que ficará seguro. O Hook Beetle permite interagir à distância e carregar Bomb Flowers até alvos inacessíveis. Nas rotas dos geradores, caminhos de pedra ocultos continuam presentes sob a areia movediça, e o mapa ajuda a segui-los. Avance entre trechos seguros em vez de correr pela areia sem conhecer o piso."
+          }
+        },
+        {
+          "key": "obtain-hook-beetle",
+          "title": "Upgrade to the Hook Beetle",
+          "title_i18n": {
+            "en": "Upgrade to the Hook Beetle",
+            "pt": "Obter a melhoria Hook Beetle"
+          },
+          "description": "Help the robot and test carrying small objects with the upgraded remote tool.",
+          "description_i18n": {
+            "en": "Help the robot and test carrying small objects with the upgraded remote tool.",
+            "pt": "Ajude o robô e teste carregar objetos pequenos com a ferramenta remota melhorada."
+          }
+        },
+        {
+          "key": "reach-temple-time-desert",
+          "title": "Reach the desert Temple of Time route",
+          "title_i18n": {
+            "en": "Reach the desert Temple of Time route",
+            "pt": "Alcançar a rota do Temple of Time no deserto"
+          },
+          "description": "Follow Zelda's trail and investigate the alternative entrance lead.",
+          "description_i18n": {
+            "en": "Follow Zelda's trail and investigate the alternative entrance lead.",
+            "pt": "Siga a trilha de Zelda e investigue a pista sobre uma entrada alternativa."
+          }
+        },
+        {
+          "key": "activate-three-generators",
+          "title": "Activate the three power generators",
+          "title_i18n": {
+            "en": "Activate the three power generators",
+            "pt": "Ativar os três geradores de energia"
+          },
+          "description": "Explore the marked facilities, inspect their time states and restore the central mechanism.",
+          "description_i18n": {
+            "en": "Explore the marked facilities, inspect their time states and restore the central mechanism.",
+            "pt": "Explore as instalações indicadas, examine os estados temporais e restaure o mecanismo central."
+          }
+        },
+        {
+          "key": "open-mining-facility",
+          "title": "Open the Lanayru Mining Facility",
+          "title_i18n": {
+            "en": "Open the Lanayru Mining Facility",
+            "pt": "Abrir a Lanayru Mining Facility"
+          },
+          "description": "Complete the generator sequence and enter the raised dungeon entrance.",
+          "description_i18n": {
+            "en": "Complete the generator sequence and enter the raised dungeon entrance.",
+            "pt": "Conclua a sequência dos geradores e entre na masmorra que surge."
+          }
+        }
+      ]
+    },
+    {
+      "key": "lanayru-mining-facility",
+      "title": "Lanayru Mining Facility",
+      "title_i18n": {
+        "en": "Lanayru Mining Facility",
+        "pt": "Lanayru Mining Facility"
+      },
+      "items": [
+        {
+          "key": "explore-mining-facility",
+          "title": "Explore the mining machinery",
+          "title_i18n": {
+            "en": "Explore the mining machinery",
+            "pt": "Explorar as máquinas da instalação"
+          },
+          "description": "Read conveyor movement and time states before committing to a crossing.",
+          "description_i18n": {
+            "en": "Read conveyor movement and time states before committing to a crossing.",
+            "pt": "Observe o movimento das esteiras e os estados temporais antes de atravessar."
+          }
+        },
+        {
+          "key": "obtain-gust-bellows",
+          "title": "Obtain the Gust Bellows",
+          "title_i18n": {
+            "en": "Obtain the Gust Bellows",
+            "pt": "Obter o Gust Bellows"
+          },
+          "description": "Explore the upper machinery rooms and collect the air-blowing tool.",
+          "description_i18n": {
+            "en": "Explore the upper machinery rooms and collect the air-blowing tool.",
+            "pt": "Explore as salas superiores de máquinas e obtenha a ferramenta de sopro."
+          }
+        },
+        {
+          "key": "clear-sand-and-platforms",
+          "title": "Clear sand and move platforms",
+          "title_i18n": {
+            "en": "Clear sand and move platforms",
+            "pt": "Remover areia e mover plataformas"
+          },
+          "description": "Use the new tool to uncover mechanisms and manipulate the dungeon's moving structures.",
+          "description_i18n": {
+            "en": "Use the new tool to uncover mechanisms and manipulate the dungeon's moving structures.",
+            "pt": "Use a nova ferramenta para revelar mecanismos e manipular as estruturas móveis."
+          }
+        },
+        {
+          "key": "reach-mining-boss-key",
+          "title": "Recover the facility's boss key",
+          "title_i18n": {
+            "en": "Recover the facility's boss key",
+            "pt": "Recuperar a chave do chefe da instalação"
+          },
+          "description": "Finish the time-shifted machinery routes and align the key at the final door.",
+          "description_i18n": {
+            "en": "Finish the time-shifted machinery routes and align the key at the final door.",
+            "pt": "Conclua as rotas temporais das máquinas e alinhe a chave à porta final."
+          }
+        },
+        {
+          "key": "defeat-moldarach",
+          "title": "Defeat Moldarach",
+          "title_i18n": {
+            "en": "Defeat Moldarach",
+            "pt": "Derrotar Moldarach"
+          },
+          "description": "Adapt the direction of your attacks to the exposed targets and investigate changes beneath the sand.",
+          "description_i18n": {
+            "en": "Adapt the direction of your attacks to the exposed targets and investigate changes beneath the sand.",
+            "pt": "Adapte a direção dos golpes aos alvos expostos e investigue as mudanças sob a areia."
+          }
+        },
+        {
+          "key": "receive-goddess-harp",
+          "title": "Receive the Goddess's Harp",
+          "title_i18n": {
+            "en": "Receive the Goddess's Harp",
+            "pt": "Receber a Goddess's Harp"
+          },
+          "description": "Follow the Temple of Time story sequence and return to the Sealed Temple.",
+          "description_i18n": {
+            "en": "Follow the Temple of Time story sequence and return to the Sealed Temple.",
+            "pt": "Acompanhe a sequência no Temple of Time e volte ao Sealed Temple."
+          }
+        }
+      ]
+    },
+    {
+      "key": "first-imprisoned-and-isle-songs",
+      "title": "The first seal battle and Isle of Songs",
+      "title_i18n": {
+        "en": "The first seal battle and Isle of Songs",
+        "pt": "Primeira batalha do selo e Isle of Songs"
+      },
+      "items": [
+        {
+          "key": "learn-ballad-goddess",
+          "title": "Learn the Ballad of the Goddess",
+          "title_i18n": {
+            "en": "Learn the Ballad of the Goddess",
+            "pt": "Aprender a Ballad of the Goddess"
+          },
+          "description": "Follow the elder's harp lesson and inspect the newly revealed objective.",
+          "description_i18n": {
+            "en": "Follow the elder's harp lesson and inspect the newly revealed objective.",
+            "pt": "Siga a lição de harpa da anciã e examine o novo objetivo."
+          }
+        },
+        {
+          "key": "defeat-imprisoned-first",
+          "title": "Defeat The Imprisoned for the first time",
+          "title_i18n": {
+            "en": "Defeat The Imprisoned for the first time",
+            "pt": "Vencer The Imprisoned pela primeira vez"
+          },
+          "description": "Stop the creature's ascent and complete the sealing sequence.",
+          "description_i18n": {
+            "en": "Stop the creature's ascent and complete the sealing sequence.",
+            "pt": "Impeça a subida da criatura e conclua a sequência de selamento."
+          }
+        },
+        {
+          "key": "seek-gaepora-song-clue",
+          "title": "Seek Gaepora's song clue",
+          "title_i18n": {
+            "en": "Seek Gaepora's song clue",
+            "pt": "Buscar a pista da canção com Gaepora"
+          },
+          "description": "Return to Skyloft and ask about the song's meaning and the Light Tower.",
+          "description_i18n": {
+            "en": "Return to Skyloft and ask about the song's meaning and the Light Tower.",
+            "pt": "Volte a Skyloft e pergunte sobre a canção e a Light Tower."
+          }
+        },
+        {
+          "key": "restore-scrapper",
+          "title": "Restore Scrapper",
+          "title_i18n": {
+            "en": "Restore Scrapper",
+            "pt": "Restaurar Scrapper"
+          },
+          "description": "Speak with Gondo and provide the material needed to repair the transport robot.",
+          "description_i18n": {
+            "en": "Speak with Gondo and provide the material needed to repair the transport robot.",
+            "pt": "Fale com Gondo e forneça o material necessário para reparar o robô de transporte."
+          }
+        },
+        {
+          "key": "retrieve-missing-propeller",
+          "title": "Retrieve the missing windmill propeller",
+          "title_i18n": {
+            "en": "Retrieve the missing windmill propeller",
+            "pt": "Recuperar a hélice desaparecida"
+          },
+          "description": "Investigate the surface lead and arrange transport back to Skyloft.",
+          "description_i18n": {
+            "en": "Investigate the surface lead and arrange transport back to Skyloft.",
+            "pt": "Investigue a pista na superfície e providencie o transporte de volta a Skyloft."
+          }
+        },
+        {
+          "key": "activate-light-tower",
+          "title": "Activate the Light Tower",
+          "title_i18n": {
+            "en": "Activate the Light Tower",
+            "pt": "Ativar a Light Tower"
+          },
+          "description": "Resolve the windmill alignment and play the harp at the tower.",
+          "description_i18n": {
+            "en": "Resolve the windmill alignment and play the harp at the tower.",
+            "pt": "Resolva o alinhamento dos moinhos e toque a harpa na torre."
+          }
+        },
+        {
+          "key": "learn-farores-courage",
+          "title": "Reach the Isle of Songs and learn Farore's Courage",
+          "title_i18n": {
+            "en": "Reach the Isle of Songs and learn Farore's Courage",
+            "pt": "Alcançar a Isle of Songs e aprender Farore's Courage"
+          },
+          "description": "Enter the thunderhead, solve the island mechanism and receive the first trial song.",
+          "description_i18n": {
+            "en": "Enter the thunderhead, solve the island mechanism and receive the first trial song.",
+            "pt": "Entre no thunderhead, resolva o mecanismo da ilha e receba a primeira canção de prova."
+          },
+          "details": "The island's center pedestal rotates the bridge segments, while the crystal changes which barriers stop their movement. Inspect the three segments after each small adjustment and use a raised barrier to hold one segment while another catches up. The goal is a continuous bridge, not simply turning the pedestal until a sound plays. If you have already moved the puzzle, follow the visible positions rather than copying a move count intended for its untouched state. Cross the aligned bridge and use a Skyward Strike on the emblem inside.",
+          "details_i18n": {
+            "en": "The island's center pedestal rotates the bridge segments, while the crystal changes which barriers stop their movement. Inspect the three segments after each small adjustment and use a raised barrier to hold one segment while another catches up. The goal is a continuous bridge, not simply turning the pedestal until a sound plays. If you have already moved the puzzle, follow the visible positions rather than copying a move count intended for its untouched state. Cross the aligned bridge and use a Skyward Strike on the emblem inside.",
+            "pt": "O pedestal central gira os segmentos da ponte, enquanto o cristal muda as barreiras que interrompem o movimento. Examine os três segmentos após cada ajuste e use uma barreira levantada para segurar um enquanto outro se aproxima. O objetivo é formar uma ponte contínua, não apenas girar até ouvir um som. Se já alterou o mecanismo, siga as posições visíveis em vez de copiar uma contagem feita para o estado inicial. Atravesse a ponte alinhada e use um Skyward Strike no símbolo interno."
+          }
+        }
+      ]
+    },
+    {
+      "key": "farore-trial-and-lake-floria",
+      "title": "Farore’s trial and Lake Floria",
+      "title_i18n": {
+        "en": "Farore’s trial and Lake Floria",
+        "pt": "Prova de Farore e Lake Floria"
+      },
+      "items": [
+        {
+          "key": "open-faron-trial-gate",
+          "title": "Open Faron's trial gate",
+          "title_i18n": {
+            "en": "Open Faron's trial gate",
+            "pt": "Abrir o portal da prova de Faron"
+          },
+          "description": "Use the new song at the dowsing location and enter the Silent Realm.",
+          "description_i18n": {
+            "en": "Use the new song at the dowsing location and enter the Silent Realm.",
+            "pt": "Use a nova canção no local indicado pelo rastreamento e entre no Silent Realm."
+          }
+        },
+        {
+          "key": "complete-farore-silent-realm",
+          "title": "Complete Farore's Silent Realm",
+          "title_i18n": {
+            "en": "Complete Farore's Silent Realm",
+            "pt": "Concluir o Silent Realm de Farore"
+          },
+          "description": "Collect the trial's tears while watching the guardians and return to the starting gate.",
+          "description_i18n": {
+            "en": "Collect the trial's tears while watching the guardians and return to the starting gate.",
+            "pt": "Recolha as lágrimas observando os guardiões e volte ao portal inicial."
+          },
+          "details": "Each of the four Silent Realms contains fifteen tears. A collected tear gives ninety seconds of protection, but stepping into Waking Water or entering a Watcher's light can awaken the Guardians immediately. Plan a loop through nearby tears, leaving a reachable one as a refresh before a difficult climb. Light Fruit briefly marks remaining tears, making it useful for checking distant ledges. Once the vessel is full, return directly to the starting gate; collecting the last tear is not the same as finishing the trial.",
+          "details_i18n": {
+            "en": "Each of the four Silent Realms contains fifteen tears. A collected tear gives ninety seconds of protection, but stepping into Waking Water or entering a Watcher's light can awaken the Guardians immediately. Plan a loop through nearby tears, leaving a reachable one as a refresh before a difficult climb. Light Fruit briefly marks remaining tears, making it useful for checking distant ledges. Once the vessel is full, return directly to the starting gate; collecting the last tear is not the same as finishing the trial.",
+            "pt": "Cada um dos quatro Silent Realms contém quinze lágrimas. Recolher uma concede noventa segundos de proteção, mas pisar na Waking Water ou entrar na luz de um vigia pode despertar os guardiões imediatamente. Planeje um circuito e reserve uma lágrima alcançável para renovar a proteção antes de uma subida difícil. Light Fruit marca brevemente as lágrimas restantes e ajuda a conferir plataformas distantes. Depois de encher o recipiente, volte direto ao portal inicial; recolher a última lágrima não conclui a prova por si só."
+          }
+        },
+        {
+          "key": "receive-water-dragon-scale",
+          "title": "Receive the Water Dragon's Scale",
+          "title_i18n": {
+            "en": "Receive the Water Dragon's Scale",
+            "pt": "Receber a Water Dragon's Scale"
+          },
+          "description": "Claim the trial reward and test the newly available underwater movement.",
+          "description_i18n": {
+            "en": "Claim the trial reward and test the newly available underwater movement.",
+            "pt": "Recolha a recompensa e teste os novos movimentos subaquáticos."
+          }
+        },
+        {
+          "key": "reach-lake-floria",
+          "title": "Reach Lake Floria",
+          "title_i18n": {
+            "en": "Reach Lake Floria",
+            "pt": "Alcançar Lake Floria"
+          },
+          "description": "Explore the new forest route and follow the aquatic residents toward the dragon.",
+          "description_i18n": {
+            "en": "Explore the new forest route and follow the aquatic residents toward the dragon.",
+            "pt": "Explore a nova rota da floresta e siga os moradores aquáticos até a dragão."
+          }
+        },
+        {
+          "key": "meet-water-dragon",
+          "title": "Meet the Water Dragon",
+          "title_i18n": {
+            "en": "Meet the Water Dragon",
+            "pt": "Encontrar a Water Dragon"
+          },
+          "description": "Hear the request and prepare a bottle for the required resource.",
+          "description_i18n": {
+            "en": "Hear the request and prepare a bottle for the required resource.",
+            "pt": "Ouça o pedido e prepare uma garrafa para o recurso exigido."
+          }
+        },
+        {
+          "key": "recover-sacred-water",
+          "title": "Recover Sacred Water",
+          "title_i18n": {
+            "en": "Recover Sacred Water",
+            "pt": "Recuperar Sacred Water"
+          },
+          "description": "Return to the indicated spring and finish the revisit encounters before filling the bottle.",
+          "description_i18n": {
+            "en": "Return to the indicated spring and finish the revisit encounters before filling the bottle.",
+            "pt": "Volte à fonte indicada e vença os confrontos da revisita antes de encher a garrafa."
+          }
+        },
+        {
+          "key": "open-ancient-cistern",
+          "title": "Open the Ancient Cistern route",
+          "title_i18n": {
+            "en": "Open the Ancient Cistern route",
+            "pt": "Abrir a rota da Ancient Cistern"
+          },
+          "description": "Bring the resource back to the dragon and follow the opened waterfall passage.",
+          "description_i18n": {
+            "en": "Bring the resource back to the dragon and follow the opened waterfall passage.",
+            "pt": "Leve o recurso à dragão e siga pela passagem aberta na cachoeira."
+          }
+        }
+      ]
+    },
+    {
+      "key": "ancient-cistern",
+      "title": "Ancient Cistern",
+      "title_i18n": {
+        "en": "Ancient Cistern",
+        "pt": "Ancient Cistern"
+      },
+      "items": [
+        {
+          "key": "explore-cistern-main-statue",
+          "title": "Explore the cistern's central statue",
+          "title_i18n": {
+            "en": "Explore the cistern's central statue",
+            "pt": "Explorar a estátua central da cisterna"
+          },
+          "description": "Inspect the inscriptions and connections between the upper water rooms and lower levels.",
+          "description_i18n": {
+            "en": "Inspect the inscriptions and connections between the upper water rooms and lower levels.",
+            "pt": "Examine as inscrições e as conexões entre as salas aquáticas superiores e os níveis inferiores."
+          }
+        },
+        {
+          "key": "solve-cistern-directional-locks",
+          "title": "Resolve the directional locks",
+          "title_i18n": {
+            "en": "Resolve the directional locks",
+            "pt": "Resolver as fechaduras direcionais"
+          },
+          "description": "Read the room clues and apply their intended sequence rather than guessing repeated strikes.",
+          "description_i18n": {
+            "en": "Read the room clues and apply their intended sequence rather than guessing repeated strikes.",
+            "pt": "Leia as pistas das salas e aplique a sequência indicada em vez de repetir golpes ao acaso."
+          }
+        },
+        {
+          "key": "obtain-whip",
+          "title": "Obtain the Whip",
+          "title_i18n": {
+            "en": "Obtain the Whip",
+            "pt": "Obter o Whip"
+          },
+          "description": "Win the special encounter and test the new tool on nearby fixtures.",
+          "description_i18n": {
+            "en": "Win the special encounter and test the new tool on nearby fixtures.",
+            "pt": "Vença o confronto especial e teste a nova ferramenta nos suportes próximos."
+          }
+        },
+        {
+          "key": "complete-cistern-lower-route",
+          "title": "Complete the lower cistern route",
+          "title_i18n": {
+            "en": "Complete the lower cistern route",
+            "pt": "Concluir a rota inferior da cisterna"
+          },
+          "description": "Navigate the lower chambers and use the central mechanism to reach the remaining key route.",
+          "description_i18n": {
+            "en": "Navigate the lower chambers and use the central mechanism to reach the remaining key route.",
+            "pt": "Atravesse as câmaras inferiores e use o mecanismo central para alcançar a rota da chave restante."
+          }
+        },
+        {
+          "key": "defeat-koloktos",
+          "title": "Defeat Koloktos",
+          "title_i18n": {
+            "en": "Defeat Koloktos",
+            "pt": "Derrotar Koloktos"
+          },
+          "description": "Watch the boss's arm patterns and use the optional guidance if normal sword damage is ineffective.",
+          "description_i18n": {
+            "en": "Watch the boss's arm patterns and use the optional guidance if normal sword damage is ineffective.",
+            "pt": "Observe os padrões dos braços e consulte a orientação opcional se a espada comum não funcionar."
+          },
+          "details": "Wait for a heavy arm slam, then target the exposed joint with the Whip and pull the arm away. Remove the arms shielding the core and strike during the opening. In the walking phase, detach a sword-bearing arm and pick up its giant blade. Use that weapon to break his legs and the protective cage around the core, then attack the exposed target. Clear summoned enemies when they block your escape, and leave enough space to avoid the large spinning attack instead of staying under his body.",
+          "details_i18n": {
+            "en": "Wait for a heavy arm slam, then target the exposed joint with the Whip and pull the arm away. Remove the arms shielding the core and strike during the opening. In the walking phase, detach a sword-bearing arm and pick up its giant blade. Use that weapon to break his legs and the protective cage around the core, then attack the exposed target. Clear summoned enemies when they block your escape, and leave enough space to avoid the large spinning attack instead of staying under his body.",
+            "pt": "Espere uma pancada pesada do braço, mire na junta exposta com o Whip e puxe para arrancá-lo. Remova os braços que protegem o núcleo e ataque na abertura. Na fase em que ele anda, destaque um braço com espada e pegue a lâmina gigante. Use-a para quebrar as pernas e a proteção do núcleo e então ataque o alvo exposto. Resolva os inimigos invocados quando bloquearem sua fuga e mantenha espaço para evitar o grande giro em vez de permanecer sob o corpo dele."
+          }
+        },
+        {
+          "key": "receive-farores-flame",
+          "title": "Receive Farore's Flame",
+          "title_i18n": {
+            "en": "Receive Farore's Flame",
+            "pt": "Receber Farore's Flame"
+          },
+          "description": "Collect the Heart Container and strengthen the sword before returning to the Isle of Songs.",
+          "description_i18n": {
+            "en": "Collect the Heart Container and strengthen the sword before returning to the Isle of Songs.",
+            "pt": "Recolha o Heart Container e fortaleça a espada antes de voltar à Isle of Songs."
+          }
+        }
+      ]
+    },
+    {
+      "key": "nayru-trial-and-sand-sea",
+      "title": "Nayru’s trial and the Sand Sea",
+      "title_i18n": {
+        "en": "Nayru’s trial and the Sand Sea",
+        "pt": "Prova de Nayru e Sand Sea"
+      },
+      "items": [
+        {
+          "key": "learn-nayrus-wisdom",
+          "title": "Learn Nayru's Wisdom",
+          "title_i18n": {
+            "en": "Learn Nayru's Wisdom",
+            "pt": "Aprender Nayru's Wisdom"
+          },
+          "description": "Return to the Isle of Songs and receive the next trial song.",
+          "description_i18n": {
+            "en": "Return to the Isle of Songs and receive the next trial song.",
+            "pt": "Volte à Isle of Songs e receba a próxima canção de prova."
+          }
+        },
+        {
+          "key": "complete-nayru-silent-realm",
+          "title": "Complete Nayru's Silent Realm",
+          "title_i18n": {
+            "en": "Complete Nayru's Silent Realm",
+            "pt": "Concluir o Silent Realm de Nayru"
+          },
+          "description": "Find the desert trial gate, complete the tear challenge and return safely.",
+          "description_i18n": {
+            "en": "Find the desert trial gate, complete the tear challenge and return safely.",
+            "pt": "Encontre o portal da prova no deserto, conclua o desafio das lágrimas e volte em segurança."
+          }
+        },
+        {
+          "key": "obtain-clawshots",
+          "title": "Obtain the Clawshots",
+          "title_i18n": {
+            "en": "Obtain the Clawshots",
+            "pt": "Obter as Clawshots"
+          },
+          "description": "Collect the reward and practice moving between reachable targets.",
+          "description_i18n": {
+            "en": "Collect the reward and practice moving between reachable targets.",
+            "pt": "Recolha a recompensa e pratique o deslocamento entre alvos alcançáveis."
+          }
+        },
+        {
+          "key": "enter-lanayru-sand-sea",
+          "title": "Enter the Lanayru Sand Sea",
+          "title_i18n": {
+            "en": "Enter the Lanayru Sand Sea",
+            "pt": "Entrar na Lanayru Sand Sea"
+          },
+          "description": "Follow the caves' new route and meet the skipper at the harbor.",
+          "description_i18n": {
+            "en": "Follow the caves' new route and meet the skipper at the harbor.",
+            "pt": "Siga a nova rota das cavernas e encontre o capitão no porto."
+          }
+        },
+        {
+          "key": "visit-skippers-retreat",
+          "title": "Visit Skipper's Retreat",
+          "title_i18n": {
+            "en": "Visit Skipper's Retreat",
+            "pt": "Visitar Skipper's Retreat"
+          },
+          "description": "Explore the elevated home route and recover the sea chart.",
+          "description_i18n": {
+            "en": "Explore the elevated home route and recover the sea chart.",
+            "pt": "Explore a rota elevada da casa e recupere a carta náutica."
+          }
+        },
+        {
+          "key": "search-shipyard-pirate-stronghold",
+          "title": "Search the Shipyard and Pirate Stronghold",
+          "title_i18n": {
+            "en": "Search the Shipyard and Pirate Stronghold",
+            "pt": "Investigar Shipyard e Pirate Stronghold"
+          },
+          "description": "Follow the ship's trail through both destinations and investigate the time-changing mechanisms.",
+          "description_i18n": {
+            "en": "Follow the ship's trail through both destinations and investigate the time-changing mechanisms.",
+            "pt": "Siga a pista do navio pelos dois destinos e investigue os mecanismos temporais."
+          }
+        },
+        {
+          "key": "locate-invisible-sandship",
+          "title": "Locate the Sandship",
+          "title_i18n": {
+            "en": "Locate the Sandship",
+            "pt": "Localizar o Sandship"
+          },
+          "description": "Use the new dowsing lead and the boat's tools to reveal the moving target.",
+          "description_i18n": {
+            "en": "Use the new dowsing lead and the boat's tools to reveal the moving target.",
+            "pt": "Use a nova pista de rastreamento e as ferramentas do barco para revelar o alvo móvel."
+          }
+        }
+      ]
+    },
+    {
+      "key": "sandship",
+      "title": "Sandship",
+      "title_i18n": {
+        "en": "Sandship",
+        "pt": "Sandship"
+      },
+      "items": [
+        {
+          "key": "board-sandship",
+          "title": "Board the Sandship",
+          "title_i18n": {
+            "en": "Board the Sandship",
+            "pt": "Embarcar no Sandship"
+          },
+          "description": "Inspect the deck and interior access before following the first locked route.",
+          "description_i18n": {
+            "en": "Inspect the deck and interior access before following the first locked route.",
+            "pt": "Examine o convés e os acessos internos antes de seguir a primeira rota bloqueada."
+          }
+        },
+        {
+          "key": "defeat-scervo-obtain-bow",
+          "title": "Defeat Scervo and obtain the Bow",
+          "title_i18n": {
+            "en": "Defeat Scervo and obtain the Bow",
+            "pt": "Derrotar Scervo e obter o Bow"
+          },
+          "description": "Complete the narrow-platform duel and claim the ranged weapon.",
+          "description_i18n": {
+            "en": "Complete the narrow-platform duel and claim the ranged weapon.",
+            "pt": "Conclua o duelo na plataforma estreita e obtenha a arma de longo alcance."
+          }
+        },
+        {
+          "key": "activate-ship-timeshift-stone",
+          "title": "Activate the ship's Timeshift Stone",
+          "title_i18n": {
+            "en": "Activate the ship's Timeshift Stone",
+            "pt": "Ativar a Timeshift Stone do navio"
+          },
+          "description": "Investigate how the deck mechanism changes the entire ship's state.",
+          "description_i18n": {
+            "en": "Investigate how the deck mechanism changes the entire ship's state.",
+            "pt": "Investigue como o mecanismo do convés muda o estado do navio inteiro."
+          }
+        },
+        {
+          "key": "restore-ship-engines",
+          "title": "Restore the ship's engines and crew route",
+          "title_i18n": {
+            "en": "Restore the ship's engines and crew route",
+            "pt": "Restaurar os motores e a rota da tripulação"
+          },
+          "description": "Explore the machinery rooms in both time states and release the trapped crew.",
+          "description_i18n": {
+            "en": "Explore the machinery rooms in both time states and release the trapped crew.",
+            "pt": "Explore as salas de máquinas nos dois estados temporais e liberte a tripulação presa."
+          },
+          "details": "The deck's Timeshift Stone affects rooms below it, so a blocked passage may need the opposite time state rather than another key. Look for ceiling grates and shafts of daylight: from the correct position below, an arrow can hit the stone without climbing back onto the deck. Some generators work only in the past, while stopped fans create a clear shooting path in the present. Check the state on both sides of a doorway before leaving. Use the crew's instructions to confirm which engine-room task remains.",
+          "details_i18n": {
+            "en": "The deck's Timeshift Stone affects rooms below it, so a blocked passage may need the opposite time state rather than another key. Look for ceiling grates and shafts of daylight: from the correct position below, an arrow can hit the stone without climbing back onto the deck. Some generators work only in the past, while stopped fans create a clear shooting path in the present. Check the state on both sides of a doorway before leaving. Use the crew's instructions to confirm which engine-room task remains.",
+            "pt": "A Timeshift Stone do convés afeta as salas inferiores; uma passagem bloqueada pode exigir outro estado temporal, não uma chave. Procure grades no teto e feixes de luz: da posição correta embaixo, uma flecha atinge a pedra sem subir ao convés. Alguns geradores funcionam apenas no passado, enquanto ventiladores parados abrem uma linha de tiro no presente. Confira o estado dos dois lados de uma porta antes de sair. Use as instruções da tripulação para identificar qual tarefa dos motores ainda falta."
+          }
+        },
+        {
+          "key": "defeat-tentalus",
+          "title": "Defeat Tentalus",
+          "title_i18n": {
+            "en": "Defeat Tentalus",
+            "pt": "Derrotar Tentalus"
+          },
+          "description": "Escape the changing interior and read the boss's ranged and close-range openings.",
+          "description_i18n": {
+            "en": "Escape the changing interior and read the boss's ranged and close-range openings.",
+            "pt": "Escape do interior em transformação e observe as aberturas à distância e de perto do chefe."
+          }
+        },
+        {
+          "key": "receive-nayrus-flame",
+          "title": "Receive Nayru's Flame",
+          "title_i18n": {
+            "en": "Receive Nayru's Flame",
+            "pt": "Receber Nayru's Flame"
+          },
+          "description": "Collect the reward and continue the sacred-flame quest at the Isle of Songs.",
+          "description_i18n": {
+            "en": "Collect the reward and continue the sacred-flame quest at the Isle of Songs.",
+            "pt": "Recolha a recompensa e continue a busca pelas chamas na Isle of Songs."
+          }
+        }
+      ]
+    },
+    {
+      "key": "din-trial-and-volcano-summit",
+      "title": "Din’s trial and the volcano summit",
+      "title_i18n": {
+        "en": "Din’s trial and the volcano summit",
+        "pt": "Prova de Din e cume do vulcão"
+      },
+      "items": [
+        {
+          "key": "learn-dins-power",
+          "title": "Learn Din's Power",
+          "title_i18n": {
+            "en": "Learn Din's Power",
+            "pt": "Aprender Din's Power"
+          },
+          "description": "Return for the third trial song and locate its Eldin gate.",
+          "description_i18n": {
+            "en": "Return for the third trial song and locate its Eldin gate.",
+            "pt": "Volte para receber a terceira canção de prova e localize o portal em Eldin."
+          }
+        },
+        {
+          "key": "complete-din-silent-realm",
+          "title": "Complete Din's Silent Realm",
+          "title_i18n": {
+            "en": "Complete Din's Silent Realm",
+            "pt": "Concluir o Silent Realm de Din"
+          },
+          "description": "Plan the tear route around the terrain and return before the guardians catch you.",
+          "description_i18n": {
+            "en": "Plan the tear route around the terrain and return before the guardians catch you.",
+            "pt": "Planeje a rota das lágrimas conforme o terreno e volte antes de ser alcançado pelos guardiões."
+          }
+        },
+        {
+          "key": "obtain-fireshield-earrings",
+          "title": "Obtain the Fireshield Earrings",
+          "title_i18n": {
+            "en": "Obtain the Fireshield Earrings",
+            "pt": "Obter as Fireshield Earrings"
+          },
+          "description": "Collect the trial reward and use the newly safe route toward the hot summit.",
+          "description_i18n": {
+            "en": "Collect the trial reward and use the newly safe route toward the hot summit.",
+            "pt": "Recolha a recompensa e siga pela rota agora segura até o cume quente."
+          }
+        },
+        {
+          "key": "open-summit-water-barriers",
+          "title": "Resolve the summit's water barriers",
+          "title_i18n": {
+            "en": "Resolve the summit's water barriers",
+            "pt": "Resolver as barreiras de água do cume"
+          },
+          "description": "Inspect the frog statues and use a bottle where the nearby water is sufficient.",
+          "description_i18n": {
+            "en": "Inspect the frog statues and use a bottle where the nearby water is sufficient.",
+            "pt": "Examine as estátuas de sapo e use uma garrafa onde a água próxima for suficiente."
+          }
+        },
+        {
+          "key": "arrange-water-basin-transport",
+          "title": "Arrange the large water delivery",
+          "title_i18n": {
+            "en": "Arrange the large water delivery",
+            "pt": "Providenciar a grande entrega de água"
+          },
+          "description": "Follow the Lake Floria lead and ask Scrapper to transport the needed container.",
+          "description_i18n": {
+            "en": "Follow the Lake Floria lead and ask Scrapper to transport the needed container.",
+            "pt": "Siga a pista de Lake Floria e peça a Scrapper para transportar o recipiente necessário."
+          }
+        },
+        {
+          "key": "escort-scrapper-to-sanctuary",
+          "title": "Escort Scrapper to Fire Sanctuary",
+          "title_i18n": {
+            "en": "Escort Scrapper to Fire Sanctuary",
+            "pt": "Escoltar Scrapper até Fire Sanctuary"
+          },
+          "description": "Clear the transport route and protect the cargo until the entrance obstacle is resolved.",
+          "description_i18n": {
+            "en": "Clear the transport route and protect the cargo until the entrance obstacle is resolved.",
+            "pt": "Libere a rota e proteja a carga até resolver o obstáculo da entrada."
+          }
+        }
+      ]
+    },
+    {
+      "key": "fire-sanctuary",
+      "title": "Fire Sanctuary",
+      "title_i18n": {
+        "en": "Fire Sanctuary",
+        "pt": "Fire Sanctuary"
+      },
+      "items": [
+        {
+          "key": "enter-fire-sanctuary",
+          "title": "Enter Fire Sanctuary",
+          "title_i18n": {
+            "en": "Enter Fire Sanctuary",
+            "pt": "Entrar em Fire Sanctuary"
+          },
+          "description": "Inspect the lava channels and available resources before the first crossing.",
+          "description_i18n": {
+            "en": "Inspect the lava channels and available resources before the first crossing.",
+            "pt": "Examine os canais de lava e os recursos antes da primeira travessia."
+          }
+        },
+        {
+          "key": "use-water-lava-mechanisms",
+          "title": "Use the water-and-lava mechanisms",
+          "title_i18n": {
+            "en": "Use the water-and-lava mechanisms",
+            "pt": "Usar os mecanismos de água e lava"
+          },
+          "description": "Experiment with the dungeon's water resources and revisit blocked platforms.",
+          "description_i18n": {
+            "en": "Experiment with the dungeon's water resources and revisit blocked platforms.",
+            "pt": "Experimente os recursos de água da masmorra e revisite as plataformas bloqueadas."
+          },
+          "details": "The spiky water fruit can be carried on the sword: thrust into it instead of cutting it apart, then carry it to the obstacle and swing the sword to launch it. Water dropped onto lava creates temporary solid footing, while a water fruit striking a Magmanos turns the hand to stone so it can be damaged. The same carrying technique supplies frog statues that cannot be reached with a bottle. In underground rooms, trace the tunnel and switch connections before digging through an opening that changes your return route.",
+          "details_i18n": {
+            "en": "The spiky water fruit can be carried on the sword: thrust into it instead of cutting it apart, then carry it to the obstacle and swing the sword to launch it. Water dropped onto lava creates temporary solid footing, while a water fruit striking a Magmanos turns the hand to stone so it can be damaged. The same carrying technique supplies frog statues that cannot be reached with a bottle. In underground rooms, trace the tunnel and switch connections before digging through an opening that changes your return route.",
+            "pt": "O fruto de água espinhoso pode ser carregado na espada: espete-o em vez de cortá-lo, leve-o ao obstáculo e balance a espada para lançá-lo. Água na lava cria um apoio sólido temporário; atingir um Magmanos com o fruto petrifica a mão para permitir ataques. A mesma técnica abastece estátuas de sapo inalcançáveis com uma garrafa. Nas salas subterrâneas, observe túneis e interruptores antes de escavar uma abertura que altere o caminho de volta."
+          }
+        },
+        {
+          "key": "obtain-mogma-mitts",
+          "title": "Obtain the Mogma Mitts",
+          "title_i18n": {
+            "en": "Obtain the Mogma Mitts",
+            "pt": "Obter as Mogma Mitts"
+          },
+          "description": "Help the trapped Mogma and collect the tool for underground passages.",
+          "description_i18n": {
+            "en": "Help the trapped Mogma and collect the tool for underground passages.",
+            "pt": "Ajude o Mogma preso e obtenha a ferramenta para passagens subterrâneas."
+          }
+        },
+        {
+          "key": "complete-underground-sanctuary",
+          "title": "Complete the underground routes",
+          "title_i18n": {
+            "en": "Complete the underground routes",
+            "pt": "Concluir as rotas subterrâneas"
+          },
+          "description": "Observe tunnel connections and resolve the buried mechanisms before the final key route.",
+          "description_i18n": {
+            "en": "Observe tunnel connections and resolve the buried mechanisms before the final key route.",
+            "pt": "Observe as conexões dos túneis e resolva os mecanismos enterrados antes da rota da chave final."
+          }
+        },
+        {
+          "key": "defeat-ghirahim-second",
+          "title": "Defeat Ghirahim's second encounter",
+          "title_i18n": {
+            "en": "Defeat Ghirahim's second encounter",
+            "pt": "Vencer o segundo confronto com Ghirahim"
+          },
+          "description": "Apply deliberate sword directions and react to the expanded defensive pattern.",
+          "description_i18n": {
+            "en": "Apply deliberate sword directions and react to the expanded defensive pattern.",
+            "pt": "Use direções deliberadas de espada e reaja ao padrão defensivo ampliado."
+          }
+        },
+        {
+          "key": "receive-dins-flame",
+          "title": "Receive Din's Flame",
+          "title_i18n": {
+            "en": "Receive Din's Flame",
+            "pt": "Receber Din's Flame"
+          },
+          "description": "Collect the dungeon reward and return with the fully strengthened blade to the Sealed Grounds.",
+          "description_i18n": {
+            "en": "Collect the dungeon reward and return with the fully strengthened blade to the Sealed Grounds.",
+            "pt": "Recolha a recompensa e volte a Sealed Grounds com a lâmina fortalecida."
+          }
+        }
+      ]
+    },
+    {
+      "key": "gate-of-time-and-levias",
+      "title": "The Gate of Time and Levias",
+      "title_i18n": {
+        "en": "The Gate of Time and Levias",
+        "pt": "Gate of Time e Levias"
+      },
+      "items": [
+        {
+          "key": "return-sealed-temple-master-sword",
+          "title": "Return to the Sealed Temple",
+          "title_i18n": {
+            "en": "Return to the Sealed Temple",
+            "pt": "Voltar ao Sealed Temple"
+          },
+          "description": "Bring the strengthened sword and follow the attempt to open the Gate of Time.",
+          "description_i18n": {
+            "en": "Bring the strengthened sword and follow the attempt to open the Gate of Time.",
+            "pt": "Leve a espada fortalecida e acompanhe a tentativa de abrir a Gate of Time."
+          }
+        },
+        {
+          "key": "defeat-imprisoned-second",
+          "title": "Defeat The Imprisoned for the second time",
+          "title_i18n": {
+            "en": "Defeat The Imprisoned for the second time",
+            "pt": "Vencer The Imprisoned pela segunda vez"
+          },
+          "description": "Use the new support system to stop the creature's return and reseal it.",
+          "description_i18n": {
+            "en": "Use the new support system to stop the creature's return and reseal it.",
+            "pt": "Use o novo apoio para impedir a volta da criatura e selá-la novamente."
+          }
+        },
+        {
+          "key": "pass-gate-meet-zelda",
+          "title": "Pass through the Gate of Time",
+          "title_i18n": {
+            "en": "Pass through the Gate of Time",
+            "pt": "Atravessar a Gate of Time"
+          },
+          "description": "Follow the story conversation and return with the final blessing on the sword.",
+          "description_i18n": {
+            "en": "Follow the story conversation and return with the final blessing on the sword.",
+            "pt": "Acompanhe a conversa e volte com a bênção final na espada."
+          }
+        },
+        {
+          "key": "seek-song-hero-lead",
+          "title": "Seek the Song of the Hero lead",
+          "title_i18n": {
+            "en": "Seek the Song of the Hero lead",
+            "pt": "Buscar a pista da Song of the Hero"
+          },
+          "description": "Ask Gaepora about the next objective and investigate the thunderhead lead.",
+          "description_i18n": {
+            "en": "Ask Gaepora about the next objective and investigate the thunderhead lead.",
+            "pt": "Pergunte a Gaepora sobre o próximo objetivo e investigue a pista do thunderhead."
+          }
+        },
+        {
+          "key": "learn-spiral-charge",
+          "title": "Learn the Spiral Charge",
+          "title_i18n": {
+            "en": "Learn the Spiral Charge",
+            "pt": "Aprender Spiral Charge"
+          },
+          "description": "Complete Owlan's flight lesson and practice the required airborne maneuver.",
+          "description_i18n": {
+            "en": "Complete Owlan's flight lesson and practice the required airborne maneuver.",
+            "pt": "Conclua a lição de voo de Owlan e pratique a manobra aérea exigida."
+          }
+        },
+        {
+          "key": "deliver-levias-soup",
+          "title": "Deliver the soup to Levias",
+          "title_i18n": {
+            "en": "Deliver the soup to Levias",
+            "pt": "Entregar a sopa a Levias"
+          },
+          "description": "Arrange the Lumpy Pumpkin delivery and approach the marked destination in the thunderhead.",
+          "description_i18n": {
+            "en": "Arrange the Lumpy Pumpkin delivery and approach the marked destination in the thunderhead.",
+            "pt": "Providencie a entrega do Lumpy Pumpkin e alcance o destino marcado no thunderhead."
+          }
+        },
+        {
+          "key": "defeat-bilocyte-meet-levias",
+          "title": "Defeat Bilocyte and speak with Levias",
+          "title_i18n": {
+            "en": "Defeat Bilocyte and speak with Levias",
+            "pt": "Derrotar Bilocyte e falar com Levias"
+          },
+          "description": "Complete the aerial and on-foot encounter, then learn how to seek the song's parts.",
+          "description_i18n": {
+            "en": "Complete the aerial and on-foot encounter, then learn how to seek the song's parts.",
+            "pt": "Conclua o confronto aéreo e em terra e descubra como buscar as partes da canção."
+          }
+        }
+      ]
+    },
+    {
+      "key": "song-of-the-hero",
+      "title": "The Song of the Hero",
+      "title_i18n": {
+        "en": "The Song of the Hero",
+        "pt": "Song of the Hero"
+      },
+      "items": [
+        {
+          "key": "choose-dragon-song-route",
+          "title": "Choose a dragon-song route",
+          "title_i18n": {
+            "en": "Choose a dragon-song route",
+            "pt": "Escolher uma rota entre os dragões"
+          },
+          "description": "The regional song tasks can be approached in different orders; this checklist visits Faron, Eldin, then Lanayru.",
+          "description_i18n": {
+            "en": "The regional song tasks can be approached in different orders; this checklist visits Faron, Eldin, then Lanayru.",
+            "pt": "As tarefas regionais da canção permitem ordens diferentes; esta lista visita Faron, Eldin e depois Lanayru."
+          }
+        },
+        {
+          "key": "defeat-imprisoned-third",
+          "title": "Defeat The Imprisoned for the third time",
+          "title_i18n": {
+            "en": "Defeat The Imprisoned for the third time",
+            "pt": "Vencer The Imprisoned pela terceira vez"
+          },
+          "description": "Respond to the final changes in its movement and work with Groose to complete the seal.",
+          "description_i18n": {
+            "en": "Respond to the final changes in its movement and work with Groose to complete the seal.",
+            "pt": "Reaja às últimas mudanças de movimento e trabalhe com Groose para concluir o selo."
+          },
+          "details": "Use Groose's bomb support to interrupt the ascent and create time to reach the sealing spike. Its later movement cannot be handled by repeating only the first fight's toe strategy. When it begins flying, follow Groose's instructions to stop it before it reaches the temple. Once the bomb supply becomes inaccessible, reach the Groosenator and let Groose launch Link onto the creature's head. Drive the spike down while you have the opening, then return to the bottom for the final Skyward Strike and sealing inputs.",
+          "details_i18n": {
+            "en": "Use Groose's bomb support to interrupt the ascent and create time to reach the sealing spike. Its later movement cannot be handled by repeating only the first fight's toe strategy. When it begins flying, follow Groose's instructions to stop it before it reaches the temple. Once the bomb supply becomes inaccessible, reach the Groosenator and let Groose launch Link onto the creature's head. Drive the spike down while you have the opening, then return to the bottom for the final Skyward Strike and sealing inputs.",
+            "pt": "Use o apoio de bombas de Groose para interromper a subida e ganhar tempo de alcançar o espigão do selo. Os movimentos posteriores não se resolvem repetindo apenas a estratégia dos dedos da primeira luta. Quando começar a voar, siga as instruções de Groose para impedir a chegada ao templo. Quando as bombas ficarem inacessíveis, alcance o Groosenator e deixe Groose lançar Link sobre a cabeça. Enterre o espigão durante a abertura e volte ao fundo para o Skyward Strike e os comandos de selamento."
+          }
+        },
+        {
+          "key": "enter-flooded-faron",
+          "title": "Enter flooded Faron Woods",
+          "title_i18n": {
+            "en": "Enter flooded Faron Woods",
+            "pt": "Entrar em Faron Woods inundada"
+          },
+          "description": "Follow the new access route and hear the Water Dragon's musical request.",
+          "description_i18n": {
+            "en": "Follow the new access route and hear the Water Dragon's musical request.",
+            "pt": "Siga pelo novo acesso e ouça o pedido musical da Water Dragon."
+          }
+        },
+        {
+          "key": "collect-tadtones",
+          "title": "Collect the Tadtones",
+          "title_i18n": {
+            "en": "Collect the Tadtones",
+            "pt": "Coletar os Tadtones"
+          },
+          "description": "Search the flooded forest by sections and complete the song groups before reporting back.",
+          "description_i18n": {
+            "en": "Search the flooded forest by sections and complete the song groups before reporting back.",
+            "pt": "Procure por setores da floresta inundada e complete os grupos musicais antes de voltar."
+          },
+          "details": "Treat each same-colored Tadtone formation as a group: gather its notes in quick succession before they scatter back into position. Approach a circle or line from one end and use a controlled swim spin to pull nearby notes toward Link. Search by depth as well as region; some groups hide under structures or need an object disturbed first. Surface and reset your orientation between difficult groups rather than spinning until stamina is exhausted. If only a few remain, check the local Kikwi's guidance when offered and revisit the unexplored water pockets.",
+          "details_i18n": {
+            "en": "Treat each same-colored Tadtone formation as a group: gather its notes in quick succession before they scatter back into position. Approach a circle or line from one end and use a controlled swim spin to pull nearby notes toward Link. Search by depth as well as region; some groups hide under structures or need an object disturbed first. Surface and reset your orientation between difficult groups rather than spinning until stamina is exhausted. If only a few remain, check the local Kikwi's guidance when offered and revisit the unexplored water pockets.",
+            "pt": "Trate cada formação de Tadtones da mesma cor como um grupo: recolha as notas rapidamente antes que se espalhem de volta. Aproxime-se de uma ponta da linha ou do círculo e use um giro controlado de natação para atrair as notas próximas. Procure por profundidade e por região; alguns grupos ficam sob estruturas ou exigem mover um objeto. Suba e recupere a orientação entre grupos difíceis em vez de girar até esgotar a resistência. Se faltarem poucos, consulte a orientação do Kikwi quando oferecida e revisite bolsões não explorados."
+          }
+        },
+        {
+          "key": "escape-eldin-capture",
+          "title": "Escape captivity in Eldin",
+          "title_i18n": {
+            "en": "Escape captivity in Eldin",
+            "pt": "Escapar do cativeiro em Eldin"
+          },
+          "description": "Use the available stealth route and recover equipment in the order the area allows.",
+          "description_i18n": {
+            "en": "Use the available stealth route and recover equipment in the order the area allows.",
+            "pt": "Use a rota furtiva disponível e recupere os equipamentos na ordem permitida."
+          }
+        },
+        {
+          "key": "meet-fire-dragon",
+          "title": "Meet the Fire Dragon",
+          "title_i18n": {
+            "en": "Meet the Fire Dragon",
+            "pt": "Encontrar o Fire Dragon"
+          },
+          "description": "Complete the equipment recovery and reach the dragon for the Eldin song part.",
+          "description_i18n": {
+            "en": "Complete the equipment recovery and reach the dragon for the Eldin song part.",
+            "pt": "Conclua a recuperação do equipamento e alcance o dragão para obter a parte de Eldin."
+          }
+        },
+        {
+          "key": "escort-lanayru-timeshift-cart",
+          "title": "Escort the Lanayru Timeshift cart",
+          "title_i18n": {
+            "en": "Escort the Lanayru Timeshift cart",
+            "pt": "Escoltar o carrinho temporal de Lanayru"
+          },
+          "description": "Reach Lanayru Gorge and clear the moving cart's route to the Thunder Dragon.",
+          "description_i18n": {
+            "en": "Reach Lanayru Gorge and clear the moving cart's route to the Thunder Dragon.",
+            "pt": "Alcance Lanayru Gorge e libere a rota do carrinho até o Thunder Dragon."
+          }
+        },
+        {
+          "key": "restore-thunder-dragon",
+          "title": "Restore the Thunder Dragon",
+          "title_i18n": {
+            "en": "Restore the Thunder Dragon",
+            "pt": "Restaurar o Thunder Dragon"
+          },
+          "description": "Investigate the Life Tree lead and bring the needed remedy to the dragon.",
+          "description_i18n": {
+            "en": "Investigate the Life Tree lead and bring the needed remedy to the dragon.",
+            "pt": "Investigue a pista da Life Tree e leve o remédio necessário ao dragão."
+          },
+          "details": "Escort the Timeshift cart by clearing enemies and mechanisms inside its moving time bubble. Near the dragon, use the local Timeshift Stone to restore the withered tree area to the past and dig up the Life Tree Seedling. Bring it through the Gate of Time and plant it in the prepared spot inside the Sealed Temple in the past. Return to the present to collect the grown tree's fruit, then take that fruit to the Thunder Dragon. Waiting beside the original dead tree does not make the cure grow.",
+          "details_i18n": {
+            "en": "Escort the Timeshift cart by clearing enemies and mechanisms inside its moving time bubble. Near the dragon, use the local Timeshift Stone to restore the withered tree area to the past and dig up the Life Tree Seedling. Bring it through the Gate of Time and plant it in the prepared spot inside the Sealed Temple in the past. Return to the present to collect the grown tree's fruit, then take that fruit to the Thunder Dragon. Waiting beside the original dead tree does not make the cure grow.",
+            "pt": "Escolte o carrinho temporal removendo inimigos e obstáculos dentro da bolha de tempo móvel. Perto do dragão, use a Timeshift Stone local para restaurar ao passado a área da árvore seca e desenterre a Life Tree Seedling. Leve-a pela Gate of Time e plante-a no local preparado dentro do Sealed Temple no passado. Volte ao presente para recolher o fruto da árvore crescida e leve-o ao Thunder Dragon. Esperar ao lado da árvore morta original não faz o remédio crescer."
+          }
+        },
+        {
+          "key": "complete-song-with-levias",
+          "title": "Complete the song with Levias",
+          "title_i18n": {
+            "en": "Complete the song with Levias",
+            "pt": "Completar a canção com Levias"
+          },
+          "description": "Return after receiving all regional parts and learn the completed Song of the Hero.",
+          "description_i18n": {
+            "en": "Return after receiving all regional parts and learn the completed Song of the Hero.",
+            "pt": "Volte após receber as partes regionais e aprenda a Song of the Hero completa."
+          }
+        }
+      ]
+    },
+    {
+      "key": "skyloft-trial-and-sky-keep",
+      "title": "Skyloft’s trial and Sky Keep",
+      "title_i18n": {
+        "en": "Skyloft’s trial and Sky Keep",
+        "pt": "Prova de Skyloft e Sky Keep"
+      },
+      "items": [
+        {
+          "key": "open-skyloft-trial",
+          "title": "Open Skyloft's Silent Realm",
+          "title_i18n": {
+            "en": "Open Skyloft's Silent Realm",
+            "pt": "Abrir o Silent Realm de Skyloft"
+          },
+          "description": "Find the final trial gate and play the completed song.",
+          "description_i18n": {
+            "en": "Find the final trial gate and play the completed song.",
+            "pt": "Encontre o portal da prova final e toque a canção completa."
+          }
+        },
+        {
+          "key": "complete-goddess-silent-realm",
+          "title": "Complete the Goddess's Silent Realm",
+          "title_i18n": {
+            "en": "Complete the Goddess's Silent Realm",
+            "pt": "Concluir o Silent Realm da Deusa"
+          },
+          "description": "Finish the final tear challenge and return to receive the Stone of Trials.",
+          "description_i18n": {
+            "en": "Finish the final tear challenge and return to receive the Stone of Trials.",
+            "pt": "Conclua o último desafio de lágrimas e volte para receber a Stone of Trials."
+          }
+        },
+        {
+          "key": "open-sky-keep",
+          "title": "Open Sky Keep",
+          "title_i18n": {
+            "en": "Open Sky Keep",
+            "pt": "Abrir Sky Keep"
+          },
+          "description": "Inspect Skyloft's matching statue and follow the new route to the final dungeon.",
+          "description_i18n": {
+            "en": "Inspect Skyloft's matching statue and follow the new route to the final dungeon.",
+            "pt": "Examine a estátua correspondente em Skyloft e siga pela nova rota até a última masmorra."
+          }
+        },
+        {
+          "key": "rearrange-sky-keep-rooms",
+          "title": "Rearrange Sky Keep's rooms",
+          "title_i18n": {
+            "en": "Rearrange Sky Keep's rooms",
+            "pt": "Reorganizar as salas de Sky Keep"
+          },
+          "description": "Use the dungeon's control panels to build connections to the rooms you still need.",
+          "description_i18n": {
+            "en": "Use the dungeon's control panels to build connections to the rooms you still need.",
+            "pt": "Use os painéis da masmorra para criar conexões com as salas que faltam."
+          },
+          "details": "The control panel slides the dungeon's room tiles around an empty space. Plan a connected route from your current room to a room bearing an unclaimed Triforce marker before confirming a new arrangement. You cannot slide the room you are currently occupying, so move to another control panel when that fixed tile prevents the needed configuration. Completed room mechanisms remain useful, allowing you to route through solved sections rather than repeat every challenge. Check door positions as well as adjacent tile positions; two neighboring rooms are not automatically connected.",
+          "details_i18n": {
+            "en": "The control panel slides the dungeon's room tiles around an empty space. Plan a connected route from your current room to a room bearing an unclaimed Triforce marker before confirming a new arrangement. You cannot slide the room you are currently occupying, so move to another control panel when that fixed tile prevents the needed configuration. Completed room mechanisms remain useful, allowing you to route through solved sections rather than repeat every challenge. Check door positions as well as adjacent tile positions; two neighboring rooms are not automatically connected.",
+            "pt": "O painel desliza as salas da masmorra ao redor de um espaço vazio. Planeje uma rota conectada da sala atual até uma com marca de Triforce ainda não obtida antes de confirmar a organização. Não é possível deslizar a sala ocupada; vá a outro painel se essa peça fixa impedir a configuração necessária. Os mecanismos já resolvidos continuam úteis, permitindo passar por seções concluídas sem repetir todos os desafios. Confira a posição das portas além da posição das salas; duas salas vizinhas não ficam automaticamente conectadas."
+          }
+        },
+        {
+          "key": "claim-three-triforce-pieces",
+          "title": "Claim the three Triforce pieces",
+          "title_i18n": {
+            "en": "Claim the three Triforce pieces",
+            "pt": "Obter as três partes da Triforce"
+          },
+          "description": "Complete the themed rooms and reach each of the three relic chambers.",
+          "description_i18n": {
+            "en": "Complete the themed rooms and reach each of the three relic chambers.",
+            "pt": "Conclua as salas temáticas e alcance as três câmaras das relíquias."
+          }
+        },
+        {
+          "key": "follow-triforce-resolution",
+          "title": "Follow the Triforce resolution",
+          "title_i18n": {
+            "en": "Follow the Triforce resolution",
+            "pt": "Acompanhar a resolução da Triforce"
+          },
+          "description": "Leave the completed dungeon sequence and follow the new situation at the Sealed Grounds.",
+          "description_i18n": {
+            "en": "Leave the completed dungeon sequence and follow the new situation at the Sealed Grounds.",
+            "pt": "Acompanhe a conclusão da masmorra e a nova situação em Sealed Grounds."
+          }
+        }
+      ]
+    },
+    {
+      "key": "past-battle-and-finale",
+      "title": "The battle in the past and finale",
+      "title_i18n": {
+        "en": "The battle in the past and finale",
+        "pt": "Batalha no passado e final"
+      },
+      "items": [
+        {
+          "key": "return-through-final-gate",
+          "title": "Return through the Gate of Time",
+          "title_i18n": {
+            "en": "Return through the Gate of Time",
+            "pt": "Voltar pela Gate of Time"
+          },
+          "description": "Follow the urgent story objective and prepare for the last combat sequence.",
+          "description_i18n": {
+            "en": "Follow the urgent story objective and prepare for the last combat sequence.",
+            "pt": "Siga o objetivo urgente e prepare-se para a última sequência de combate."
+          }
+        },
+        {
+          "key": "fight-demon-horde",
+          "title": "Fight through the demon horde",
+          "title_i18n": {
+            "en": "Fight through the demon horde",
+            "pt": "Enfrentar a horda de demônios"
+          },
+          "description": "Descend through the enemy waves while conserving stamina and recovery items.",
+          "description_i18n": {
+            "en": "Descend through the enemy waves while conserving stamina and recovery items.",
+            "pt": "Desça pelas ondas de inimigos preservando resistência e itens de recuperação."
+          }
+        },
+        {
+          "key": "defeat-ghirahim-final",
+          "title": "Defeat Ghirahim's final encounter",
+          "title_i18n": {
+            "en": "Defeat Ghirahim's final encounter",
+            "pt": "Vencer o último confronto com Ghirahim"
+          },
+          "description": "Read the changing platforms and sword defenses until the entire duel is resolved.",
+          "description_i18n": {
+            "en": "Read the changing platforms and sword defenses until the entire duel is resolved.",
+            "pt": "Observe as plataformas e as defesas variáveis até concluir o duelo inteiro."
+          },
+          "details": "On the raised platforms, push Ghirahim toward an edge with controlled attacks, then perform the finishing prompt after he falls to the lower platform. Once the chest jewel becomes the target, use a forward thrust after a successful defensive opening rather than slashing his armored body. Cut perpendicular to his large sword: strike vertically when it is horizontal, then adjust as he rotates it. Break the weapon, thrust into the chest opening and continue until the complete final sequence finishes.",
+          "details_i18n": {
+            "en": "On the raised platforms, push Ghirahim toward an edge with controlled attacks, then perform the finishing prompt after he falls to the lower platform. Once the chest jewel becomes the target, use a forward thrust after a successful defensive opening rather than slashing his armored body. Cut perpendicular to his large sword: strike vertically when it is horizontal, then adjust as he rotates it. Break the weapon, thrust into the chest opening and continue until the complete final sequence finishes.",
+            "pt": "Nas plataformas elevadas, empurre Ghirahim até a borda com ataques controlados e execute a finalização após a queda à plataforma inferior. Quando a joia do peito virar o alvo, use uma estocada após uma abertura defensiva em vez de cortar o corpo protegido. Corte perpendicularmente à espada grande: golpeie na vertical quando ela estiver horizontal e ajuste quando ele a girar. Quebre a arma, ataque a abertura do peito com estocadas e continue até encerrar toda a sequência final."
+          }
+        },
+        {
+          "key": "prepare-demise-duel",
+          "title": "Prepare for the final duel",
+          "title_i18n": {
+            "en": "Prepare for the final duel",
+            "pt": "Preparar-se para o duelo final"
+          },
+          "description": "Use the available preparation window to review shield condition and healing supplies.",
+          "description_i18n": {
+            "en": "Use the available preparation window to review shield condition and healing supplies.",
+            "pt": "Use a oportunidade de preparação para conferir o escudo e os recursos de cura."
+          }
+        },
+        {
+          "key": "defeat-demise",
+          "title": "Defeat Demise",
+          "title_i18n": {
+            "en": "Defeat Demise",
+            "pt": "Derrotar Demise"
+          },
+          "description": "Manage spacing, defense and changing arena conditions through the final phases.",
+          "description_i18n": {
+            "en": "Manage spacing, defense and changing arena conditions through the final phases.",
+            "pt": "Controle a distância, a defesa e as condições variáveis da arena nas fases finais."
+          },
+          "details": "Keep the opening duel controlled: defend the sword strikes with well-timed Shield Bashes and punish briefly instead of trading long combos. When the storm phase begins, ordinary skyward charging is replaced by catching lightning. Raise the sword during a safe lightning opportunity, release the charged strike to stun Demise and close in for damage. Evade his own charged attack instead of assuming a normal shield block stops it. When he falls, act promptly on the finishing opportunity; a missed attempt means surviving another exchange, not an automatic victory.",
+          "details_i18n": {
+            "en": "Keep the opening duel controlled: defend the sword strikes with well-timed Shield Bashes and punish briefly instead of trading long combos. When the storm phase begins, ordinary skyward charging is replaced by catching lightning. Raise the sword during a safe lightning opportunity, release the charged strike to stun Demise and close in for damage. Evade his own charged attack instead of assuming a normal shield block stops it. When he falls, act promptly on the finishing opportunity; a missed attempt means surviving another exchange, not an automatic victory.",
+            "pt": "Mantenha o duelo inicial controlado: defenda os golpes com Shield Bashes precisos e responda brevemente em vez de trocar combinações longas. Na fase da tempestade, a carga comum do Skyward Strike dá lugar à captura de raios. Levante a espada numa oportunidade segura, libere o golpe carregado para atordoar Demise e aproxime-se para atacar. Evite o ataque carregado dele em vez de presumir que uma defesa comum o bloqueará. Quando cair, execute rapidamente a finalização; perder a oportunidade exige sobreviver a outra troca, não garante a vitória."
+          }
+        },
+        {
+          "key": "finish-skyward-sword-ending",
+          "title": "Finish the ending",
+          "title_i18n": {
+            "en": "Finish the ending",
+            "pt": "Concluir o encerramento"
+          },
+          "description": "Watch the closing scenes and read the completion-save choices before confirming them.",
+          "description_i18n": {
+            "en": "Watch the closing scenes and read the completion-save choices before confirming them.",
+            "pt": "Acompanhe as cenas finais e leia as opções de save de conclusão antes de confirmá-las."
+          }
+        }
+      ]
+    },
+    {
+      "key": "selected-skyloft-side-quests",
+      "title": "Selected Skyloft and sky side quests",
+      "title_i18n": {
+        "en": "Selected Skyloft and sky side quests",
+        "pt": "Seleção de missões opcionais de Skyloft e do céu"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "find-kukiel-meet-batreaux",
+          "title": "Find Kukiel and meet Batreaux",
+          "title_i18n": {
+            "en": "Find Kukiel and meet Batreaux",
+            "pt": "Encontrar Kukiel e conhecer Batreaux"
+          },
+          "description": "After Skyview Temple, investigate Wryna's missing-child request and complete the follow-up conversation.",
+          "description_i18n": {
+            "en": "After Skyview Temple, investigate Wryna's missing-child request and complete the follow-up conversation.",
+            "pt": "Após o Skyview Temple, investigue o pedido de Wryna sobre a filha desaparecida e conclua a conversa posterior."
+          }
+        },
+        {
+          "key": "help-orielles-loftwing",
+          "title": "Help Orielle and her Loftwing",
+          "title_i18n": {
+            "en": "Help Orielle and her Loftwing",
+            "pt": "Ajudar Orielle e seu Loftwing"
+          },
+          "description": "Follow Parrow's missing-sister lead and bring the requested aid to the stranded rider.",
+          "description_i18n": {
+            "en": "Follow Parrow's missing-sister lead and bring the requested aid to the stranded rider.",
+            "pt": "Siga a pista de Parrow sobre a irmã desaparecida e leve a ajuda pedida à viajante isolada."
+          }
+        },
+        {
+          "key": "clean-mallaras-house",
+          "title": "Clean Mallara's house",
+          "title_i18n": {
+            "en": "Clean Mallara's house",
+            "pt": "Limpar a casa de Mallara"
+          },
+          "description": "Visit Pipit's mother with the appropriate tool and finish the cleaning request before collecting the reward.",
+          "description_i18n": {
+            "en": "Visit Pipit's mother with the appropriate tool and finish the cleaning request before collecting the reward.",
+            "pt": "Visite a mãe de Pipit com a ferramenta adequada e conclua a limpeza antes de recolher a recompensa."
+          }
+        },
+        {
+          "key": "resolve-cawlins-letter",
+          "title": "Resolve Cawlin's love letter",
+          "title_i18n": {
+            "en": "Resolve Cawlin's love letter",
+            "pt": "Resolver a carta de amor de Cawlin"
+          },
+          "description": "Investigate the academy's daytime request and nighttime rumor, then follow your chosen outcome to completion.",
+          "description_i18n": {
+            "en": "Investigate the academy's daytime request and nighttime rumor, then follow your chosen outcome to completion.",
+            "pt": "Investigue o pedido diurno e o rumor noturno da academia e conclua o desfecho escolhido."
+          },
+          "details": "After the relevant story progress, hear the academy's nighttime bathroom rumor and accept Cawlin's daytime letter request. You can give the letter to Karane and follow the conversations involving Pipit, or give it to the bathroom hand at night. The latter route needs a later nighttime visit to Cawlin in Groose's room before the reward is complete. Both branches award the same five Gratitude Crystals; you do not need two contradictory outcomes on one file. Follow your chosen branch through its final conversation rather than counting delivery alone.",
+          "details_i18n": {
+            "en": "After the relevant story progress, hear the academy's nighttime bathroom rumor and accept Cawlin's daytime letter request. You can give the letter to Karane and follow the conversations involving Pipit, or give it to the bathroom hand at night. The latter route needs a later nighttime visit to Cawlin in Groose's room before the reward is complete. Both branches award the same five Gratitude Crystals; you do not need two contradictory outcomes on one file. Follow your chosen branch through its final conversation rather than counting delivery alone.",
+            "pt": "Após avançar na história, ouça o rumor noturno do banheiro da academia e aceite de dia o pedido da carta de Cawlin. Você pode entregá-la a Karane e acompanhar as conversas com Pipit, ou dá-la à mão do banheiro à noite. A segunda rota exige outra visita noturna a Cawlin no quarto de Groose antes de concluir a recompensa. As duas opções concedem os mesmos cinco Gratitude Crystals; não é necessário obter desfechos contraditórios no mesmo arquivo. Conclua a conversa final da escolha em vez de contar apenas a entrega."
+          }
+        },
+        {
+          "key": "help-fledge-training",
+          "title": "Help Fledge's training",
+          "title_i18n": {
+            "en": "Help Fledge's training",
+            "pt": "Ajudar no treinamento de Fledge"
+          },
+          "description": "Visit him at night with the requested supplies and return as his training and the story progress.",
+          "description_i18n": {
+            "en": "Visit him at night with the requested supplies and return as his training and the story progress.",
+            "pt": "Visite-o à noite com os recursos pedidos e volte conforme o treinamento e a história avançarem."
+          }
+        },
+        {
+          "key": "resolve-peatrice-request",
+          "title": "Resolve Peatrice's request",
+          "title_i18n": {
+            "en": "Resolve Peatrice's request",
+            "pt": "Resolver o pedido de Peatrice"
+          },
+          "description": "Keep speaking at the Item Check and investigate the family conversations when her dialogue changes.",
+          "description_i18n": {
+            "en": "Keep speaking at the Item Check and investigate the family conversations when her dialogue changes.",
+            "pt": "Continue conversando no Item Check e investigue as conversas da família quando o diálogo mudar."
+          }
+        },
+        {
+          "key": "recover-beedles-beetle",
+          "title": "Recover Beedle's missing beetle",
+          "title_i18n": {
+            "en": "Recover Beedle's missing beetle",
+            "pt": "Recuperar o besouro desaparecido de Beedle"
+          },
+          "description": "Visit his island situation at night and follow the Bug Island lead once the late sky route is available.",
+          "description_i18n": {
+            "en": "Visit his island situation at night and follow the Bug Island lead once the late sky route is available.",
+            "pt": "Visite a situação dele na ilha à noite e siga a pista de Bug Island quando a rota aérea tardia estiver disponível."
+          }
+        },
+        {
+          "key": "replace-sparrots-crystal-ball",
+          "title": "Replace Sparrot's crystal ball",
+          "title_i18n": {
+            "en": "Replace Sparrot's crystal ball",
+            "pt": "Substituir a bola de cristal de Sparrot"
+          },
+          "description": "Investigate the fortune-teller's absence and arrange transport for the replacement he needs.",
+          "description_i18n": {
+            "en": "Investigate the fortune-teller's absence and arrange transport for the replacement he needs.",
+            "pt": "Investigue a ausência do adivinho e providencie o transporte da substituição necessária."
+          }
+        },
+        {
+          "key": "help-owlan-plant-request",
+          "title": "Help Owlan find a new plant",
+          "title_i18n": {
+            "en": "Help Owlan find a new plant",
+            "pt": "Ajudar Owlan a encontrar uma planta nova"
+          },
+          "description": "Visit the academy when his research request becomes available and follow the surface lead.",
+          "description_i18n": {
+            "en": "Visit the academy when his research request becomes available and follow the surface lead.",
+            "pt": "Visite a academia quando o pedido de pesquisa estiver disponível e siga a pista na superfície."
+          }
+        },
+        {
+          "key": "complete-lumpy-pumpkin-jobs",
+          "title": "Complete the Lumpy Pumpkin jobs",
+          "title_i18n": {
+            "en": "Complete the Lumpy Pumpkin jobs",
+            "pt": "Concluir os trabalhos do Lumpy Pumpkin"
+          },
+          "description": "If you incur the chandelier debt, finish Pumm's successive delivery, harvest and performance tasks.",
+          "description_i18n": {
+            "en": "If you incur the chandelier debt, finish Pumm's successive delivery, harvest and performance tasks.",
+            "pt": "Se contrair a dívida do lustre, conclua as tarefas sucessivas de entrega, colheita e apresentação de Pumm."
+          }
+        }
+      ]
+    },
+    {
+      "key": "optional-upgrades-and-challenges",
+      "title": "Optional upgrades and challenges",
+      "title_i18n": {
+        "en": "Optional upgrades and challenges",
+        "pt": "Melhorias e desafios opcionais"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "upgrade-gear-at-gondo",
+          "title": "Upgrade useful gear at Gondo's shop",
+          "title_i18n": {
+            "en": "Upgrade useful gear at Gondo's shop",
+            "pt": "Melhorar equipamento na oficina de Gondo"
+          },
+          "description": "Review material costs and improve the shield and tools that help with your current difficulties.",
+          "description_i18n": {
+            "en": "Review material costs and improve the shield and tools that help with your current difficulties.",
+            "pt": "Confira os materiais exigidos e melhore o escudo e as ferramentas úteis às dificuldades atuais."
+          }
+        },
+        {
+          "key": "infuse-potions-with-bugs",
+          "title": "Infuse potions with collected bugs",
+          "title_i18n": {
+            "en": "Infuse potions with collected bugs",
+            "pt": "Fortalecer poções com insetos"
+          },
+          "description": "Visit the Bazaar's potion services and compare the effects before committing rare ingredients.",
+          "description_i18n": {
+            "en": "Visit the Bazaar's potion services and compare the effects before committing rare ingredients.",
+            "pt": "Visite o serviço de poções do Bazaar e compare os efeitos antes de gastar ingredientes raros."
+          }
+        },
+        {
+          "key": "expand-pouch-and-wallet",
+          "title": "Expand pouch and wallet capacity",
+          "title_i18n": {
+            "en": "Expand pouch and wallet capacity",
+            "pt": "Ampliar a bolsa e a carteira"
+          },
+          "description": "Check Beedle's stock and other upgrade rewards as rupees and Adventure Pouch space permit.",
+          "description_i18n": {
+            "en": "Check Beedle's stock and other upgrade rewards as rupees and Adventure Pouch space permit.",
+            "pt": "Confira o estoque de Beedle e outras recompensas conforme as rupias e o espaço da Adventure Pouch permitirem."
+          }
+        },
+        {
+          "key": "restore-fun-fun-island",
+          "title": "Restore Fun Fun Island and try the dive",
+          "title_i18n": {
+            "en": "Restore Fun Fun Island and try the dive",
+            "pt": "Restaurar Fun Fun Island e tentar o salto"
+          },
+          "description": "Help recover Dodoh's missing wheel, then learn the ring-and-landing rules of his minigame.",
+          "description_i18n": {
+            "en": "Help recover Dodoh's missing wheel, then learn the ring-and-landing rules of his minigame.",
+            "pt": "Ajude a recuperar a roda de Dodoh e aprenda as regras de anéis e pouso do minijogo."
+          }
+        },
+        {
+          "key": "earn-hylian-shield-lightning-round",
+          "title": "Earn the Hylian Shield in the Lightning Round",
+          "title_i18n": {
+            "en": "Earn the Hylian Shield in the Lightning Round",
+            "pt": "Obter o Hylian Shield no Lightning Round"
+          },
+          "description": "After restoring the Thunder Dragon, attempt the optional consecutive boss challenge and claim its shield reward.",
+          "description_i18n": {
+            "en": "After restoring the Thunder Dragon, attempt the optional consecutive boss challenge and claim its shield reward.",
+            "pt": "Após restaurar o Thunder Dragon, tente o desafio opcional de chefes consecutivos e recolha o escudo."
+          }
+        },
+        {
+          "key": "consider-optional-hero-mode",
+          "title": "Consider an optional Hero Mode replay",
+          "title_i18n": {
+            "en": "Consider an optional Hero Mode replay",
+            "pt": "Considerar uma repetição opcional no Hero Mode"
+          },
+          "description": "Hero Mode is a separate harder replay unlocked after completion; preserve the normal file when choosing the save destination.",
+          "description_i18n": {
+            "en": "Hero Mode is a separate harder replay unlocked after completion; preserve the normal file when choosing the save destination.",
+            "pt": "Hero Mode é uma repetição mais difícil liberada após a conclusão; preserve o arquivo normal ao escolher onde salvar."
+          }
+        }
+      ]
+    },
+    {
+      "key": "aggregate-collection-goals",
+      "title": "Aggregate collection goals",
+      "title_i18n": {
+        "en": "Aggregate collection goals",
+        "pt": "Metas agregadas de coleta"
+      },
+      "kind": "collectible",
+      "items": [
+        {
+          "key": "collect-24-heart-pieces",
+          "title": "Collect all 24 Pieces of Heart",
+          "title_i18n": {
+            "en": "Collect all 24 Pieces of Heart",
+            "pt": "Coletar os 24 Pieces of Heart"
+          },
+          "description": "Audit regional exploration and minigame rewards; this goal does not list every individual location.",
+          "description_i18n": {
+            "en": "Audit regional exploration and minigame rewards; this goal does not list every individual location.",
+            "pt": "Confira a exploração regional e as recompensas de minijogos; esta meta não lista cada localização individual."
+          }
+        },
+        {
+          "key": "collect-80-gratitude-crystals",
+          "title": "Collect all 80 Gratitude Crystals",
+          "title_i18n": {
+            "en": "Collect all 80 Gratitude Crystals",
+            "pt": "Coletar os 80 Gratitude Crystals"
+          },
+          "description": "Combine completed favors and loose nighttime crystals, then return to Batreaux for milestone rewards.",
+          "description_i18n": {
+            "en": "Combine completed favors and loose nighttime crystals, then return to Batreaux for milestone rewards.",
+            "pt": "Combine favores concluídos e cristais soltos à noite e volte a Batreaux para obter as recompensas dos marcos."
+          }
+        },
+        {
+          "key": "activate-27-goddess-cubes",
+          "title": "Activate all 27 Goddess Cubes",
+          "title_i18n": {
+            "en": "Activate all 27 Goddess Cubes",
+            "pt": "Ativar os 27 Goddess Cubes"
+          },
+          "description": "Revisit the surface with new tools and check each cube's activated state.",
+          "description_i18n": {
+            "en": "Revisit the surface with new tools and check each cube's activated state.",
+            "pt": "Revisite a superfície com as novas ferramentas e confira o estado de cada cubo."
+          }
+        },
+        {
+          "key": "open-27-goddess-chests",
+          "title": "Open the 27 linked Goddess Chests",
+          "title_i18n": {
+            "en": "Open the 27 linked Goddess Chests",
+            "pt": "Abrir os 27 Goddess Chests correspondentes"
+          },
+          "description": "Return to the sky for the chests activated by surface cubes; activation and opening are separate actions.",
+          "description_i18n": {
+            "en": "Return to the sky for the chests activated by surface cubes; activation and opening are separate actions.",
+            "pt": "Volte ao céu para abrir os baús ativados na superfície; ativar e abrir são ações separadas."
+          }
+        },
+        {
+          "key": "collect-five-empty-bottles",
+          "title": "Collect all five Empty Bottles",
+          "title_i18n": {
+            "en": "Collect all five Empty Bottles",
+            "pt": "Coletar as cinco Empty Bottles"
+          },
+          "description": "Audit shop, exploration and quest rewards without counting repeated refills as new bottles.",
+          "description_i18n": {
+            "en": "Audit shop, exploration and quest rewards without counting repeated refills as new bottles.",
+            "pt": "Confira as recompensas de loja, exploração e missões sem contar recargas como garrafas novas."
+          }
+        },
+        {
+          "key": "audit-materials-medals-upgrades",
+          "title": "Audit materials, medals and upgrades",
+          "title_i18n": {
+            "en": "Audit materials, medals and upgrades",
+            "pt": "Conferir materiais, medalhas e melhorias"
+          },
+          "description": "Collect bugs and treasures for useful upgrades; reaching twenty hearts also requires both Life Medals equipped.",
+          "description_i18n": {
+            "en": "Collect bugs and treasures for useful upgrades; reaching twenty hearts also requires both Life Medals equipped.",
+            "pt": "Reúna insetos e tesouros para melhorias úteis; alcançar vinte corações também exige as duas Life Medals equipadas."
+          }
+        }
+      ]
+    }
+  ],
+  "trophies": [],
+  "hltb_id": "88748",
+  "hltb_main_hours": 31,
+  "hltb_main_extra_hours": 39,
+  "hltb_completionist_hours": 42
+}

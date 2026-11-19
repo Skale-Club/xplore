@@ -1,0 +1,2121 @@
+{
+  "slug": "metal-gear-solid-4-guns-of-the-patriots",
+  "title": "Metal Gear Solid 4: Guns of the Patriots",
+  "title_i18n": {
+    "en": "Metal Gear Solid 4: Guns of the Patriots",
+    "pt": "Metal Gear Solid 4: Guns of the Patriots"
+  },
+  "platform": "PlayStation 3",
+  "cover_url": "/covers/metal-gear-solid-4-guns-of-the-patriots.png",
+  "created_by": "dd5c4bf0-85ea-4986-9c04-b37e8c986150",
+  "categories": [
+    {
+      "key": "mission-preparation",
+      "title": "Mission preparation and survival",
+      "title_i18n": {
+        "en": "Mission preparation and survival",
+        "pt": "Preparação da missão e sobrevivência"
+      },
+      "items": [
+        {
+          "key": "confirm-ps3-edition",
+          "title": "Confirm the PS3 campaign setup",
+          "title_i18n": {
+            "en": "Confirm the PS3 campaign setup",
+            "pt": "Conferir a configuração da campanha no PS3"
+          },
+          "description": "This guide covers the original PS3 game. Trophy hunting requires update 2.00 or a release with trophy support; begin compatible new-game data after updating.",
+          "description_i18n": {
+            "en": "This guide covers the original PS3 game. Trophy hunting requires update 2.00 or a release with trophy support; begin compatible new-game data after updating.",
+            "pt": "Este guia cobre o jogo original de PS3. A caça aos troféus exige a atualização 2.00 ou edição com suporte; comece dados de campanha compatíveis depois de atualizar."
+          }
+        },
+        {
+          "key": "review-basic-controls",
+          "title": "Review movement and aiming",
+          "title_i18n": {
+            "en": "Review movement and aiming",
+            "pt": "Revisar movimento e mira"
+          },
+          "description": "Practice cover, prone movement and weapon selection before crossing the first battlefield.",
+          "description_i18n": {
+            "en": "Practice cover, prone movement and weapon selection before crossing the first battlefield.",
+            "pt": "Pratique cobertura, deslocamento deitado e seleção de armas antes de cruzar o primeiro campo de batalha."
+          }
+        },
+        {
+          "key": "learn-octocamo",
+          "title": "Let OctoCamo adapt to cover",
+          "title_i18n": {
+            "en": "Let OctoCamo adapt to cover",
+            "pt": "Deixar OctoCamo adaptar-se à cobertura"
+          },
+          "description": "Remain still against a surface or while prone and check the camouflage index before moving.",
+          "description_i18n": {
+            "en": "Remain still against a surface or while prone and check the camouflage index before moving.",
+            "pt": "Permaneça imóvel contra uma superfície ou deitado e confira o índice de camuflagem antes de se mover."
+          }
+        },
+        {
+          "key": "manage-psyche-stress",
+          "title": "Manage Psyche and stress",
+          "title_i18n": {
+            "en": "Manage Psyche and stress",
+            "pt": "Controlar Psyche e estresse"
+          },
+          "description": "Watch the separate condition indicators and take safe breaks before exhaustion disrupts aiming or recovery.",
+          "description_i18n": {
+            "en": "Watch the separate condition indicators and take safe breaks before exhaustion disrupts aiming or recovery.",
+            "pt": "Observe os indicadores de condição e faça pausas seguras antes de a exaustão prejudicar a mira ou a recuperação."
+          }
+        },
+        {
+          "key": "plan-save-slots",
+          "title": "Keep separate manual saves",
+          "title_i18n": {
+            "en": "Keep separate manual saves",
+            "pt": "Manter arquivos manuais separados"
+          },
+          "description": "Save before boss fights, act endings and collectible opportunities so a missed objective does not require restarting the entire campaign.",
+          "description_i18n": {
+            "en": "Save before boss fights, act endings and collectible opportunities so a missed objective does not require restarting the entire campaign.",
+            "pt": "Salve antes de chefes, finais de atos e oportunidades de colecionáveis para evitar reiniciar toda a campanha por uma meta perdida."
+          }
+        },
+        {
+          "key": "plan-nonlethal-loadout",
+          "title": "Separate lethal and nonlethal equipment",
+          "title_i18n": {
+            "en": "Separate lethal and nonlethal equipment",
+            "pt": "Separar equipamentos letais e não letais"
+          },
+          "description": "Read ammunition labels before choosing a personal nonlethal challenge; do not assume every special round is a tranquilizer.",
+          "description_i18n": {
+            "en": "Read ammunition labels before choosing a personal nonlethal challenge; do not assume every special round is a tranquilizer.",
+            "pt": "Leia os tipos de munição antes de escolher um desafio não letal; nem todo projétil especial é tranquilizante."
+          }
+        }
+      ]
+    },
+    {
+      "key": "act-one-streets",
+      "title": "Act 1: the opening streets",
+      "title_i18n": {
+        "en": "Act 1: the opening streets",
+        "pt": "Ato 1: as ruas iniciais"
+      },
+      "items": [
+        {
+          "key": "leave-opening-battle",
+          "title": "Leave the opening combat zone",
+          "title_i18n": {
+            "en": "Leave the opening combat zone",
+            "pt": "Sair da zona de combate inicial"
+          },
+          "description": "Follow the opening route through the ruined streets, using cover instead of confronting every soldier.",
+          "description_i18n": {
+            "en": "Follow the opening route through the ruined streets, using cover instead of confronting every soldier.",
+            "pt": "Siga a rota inicial pelas ruas destruídas, usando cobertura em vez de enfrentar todos os soldados."
+          }
+        },
+        {
+          "key": "avoid-first-gekkos",
+          "title": "Avoid the first Gekko patrols",
+          "title_i18n": {
+            "en": "Avoid the first Gekko patrols",
+            "pt": "Evitar as primeiras patrulhas de Gekkos"
+          },
+          "description": "Watch their movement and slip past during safe openings; direct combat is unnecessary for reaching the next area.",
+          "description_i18n": {
+            "en": "Watch their movement and slip past during safe openings; direct combat is unnecessary for reaching the next area.",
+            "pt": "Observe os movimentos e passe nas aberturas; não é necessário lutar diretamente para chegar à área seguinte."
+          }
+        },
+        {
+          "key": "follow-red-zone-route",
+          "title": "Follow the Red Zone route",
+          "title_i18n": {
+            "en": "Follow the Red Zone route",
+            "pt": "Seguir pela rota da Red Zone"
+          },
+          "description": "Check the map at junctions and use alleys to avoid exposed intersections.",
+          "description_i18n": {
+            "en": "Check the map at junctions and use alleys to avoid exposed intersections.",
+            "pt": "Confira o mapa nas bifurcações e use becos para evitar cruzamentos expostos."
+          }
+        },
+        {
+          "key": "meet-metal-gear-mk-two",
+          "title": "Receive the Mk. II and Solid Eye",
+          "title_i18n": {
+            "en": "Receive the Mk. II and Solid Eye",
+            "pt": "Receber Mk. II e Solid Eye"
+          },
+          "description": "Complete the rendezvous and test the new reconnaissance equipment in a safe position.",
+          "description_i18n": {
+            "en": "Complete the rendezvous and test the new reconnaissance equipment in a safe position.",
+            "pt": "Conclua o encontro e teste o novo equipamento de reconhecimento em uma posição segura."
+          }
+        },
+        {
+          "key": "identify-battlefield-sides",
+          "title": "Identify the battlefield factions",
+          "title_i18n": {
+            "en": "Identify the battlefield factions",
+            "pt": "Identificar os lados do campo de batalha"
+          },
+          "description": "Use Solid Eye information and avoid shooting local militia by mistake.",
+          "description_i18n": {
+            "en": "Use Solid Eye information and avoid shooting local militia by mistake.",
+            "pt": "Use as informações do Solid Eye e evite atirar na milícia local por engano."
+          }
+        },
+        {
+          "key": "cross-militia-safe-house",
+          "title": "Cross the militia safe house",
+          "title_i18n": {
+            "en": "Cross the militia safe house",
+            "pt": "Atravessar o abrigo da milícia"
+          },
+          "description": "Move through its interior carefully, collect supplies and avoid antagonizing the occupants.",
+          "description_i18n": {
+            "en": "Move through its interior carefully, collect supplies and avoid antagonizing the occupants.",
+            "pt": "Avance com cuidado pelo interior, recolha suprimentos e evite hostilizar os ocupantes."
+          }
+        },
+        {
+          "key": "reach-drebin-meeting",
+          "title": "Reach the weapons dealer meeting",
+          "title_i18n": {
+            "en": "Reach the weapons dealer meeting",
+            "pt": "Chegar ao encontro com o vendedor de armas"
+          },
+          "description": "Follow the route beyond the safe house and complete the introduction to Drebin's services.",
+          "description_i18n": {
+            "en": "Follow the route beyond the safe house and complete the introduction to Drebin's services.",
+            "pt": "Siga além do abrigo e conclua a apresentação dos serviços de Drebin."
+          }
+        }
+      ]
+    },
+    {
+      "key": "act-one-drebin-and-rat-patrol",
+      "title": "Act 1: equipment and the rendezvous",
+      "title_i18n": {
+        "en": "Act 1: equipment and the rendezvous",
+        "pt": "Ato 1: equipamento e ponto de encontro"
+      },
+      "items": [
+        {
+          "key": "learn-drebin-shop",
+          "title": "Learn Drebin's weapon system",
+          "title_i18n": {
+            "en": "Learn Drebin's weapon system",
+            "pt": "Entender o sistema de armas de Drebin"
+          },
+          "description": "Check which recovered guns need ID unlocking and review ammunition or attachment costs before spending Drebin Points.",
+          "description_i18n": {
+            "en": "Check which recovered guns need ID unlocking and review ammunition or attachment costs before spending Drebin Points.",
+            "pt": "Confira quais armas recolhidas precisam de desbloqueio de identificação e revise custos de munição e acessórios antes de gastar Drebin Points."
+          }
+        },
+        {
+          "key": "configure-primary-weapon",
+          "title": "Configure a practical primary weapon",
+          "title_i18n": {
+            "en": "Configure a practical primary weapon",
+            "pt": "Configurar uma arma principal prática"
+          },
+          "description": "Choose an unlocked weapon and suitable ammunition; keep a nonlethal option accessible if that is your goal.",
+          "description_i18n": {
+            "en": "Choose an unlocked weapon and suitable ammunition; keep a nonlethal option accessible if that is your goal.",
+            "pt": "Escolha uma arma desbloqueada e munição adequada; mantenha uma opção não letal acessível se esse for o objetivo."
+          }
+        },
+        {
+          "key": "cross-urban-ruins",
+          "title": "Cross the urban ruins",
+          "title_i18n": {
+            "en": "Cross the urban ruins",
+            "pt": "Atravessar as ruínas urbanas"
+          },
+          "description": "Use the fighting as a distraction while checking upper windows and side passages.",
+          "description_i18n": {
+            "en": "Use the fighting as a distraction while checking upper windows and side passages.",
+            "pt": "Use os combates como distração e observe janelas altas e passagens laterais."
+          }
+        },
+        {
+          "key": "reach-advent-palace",
+          "title": "Reach Advent Palace",
+          "title_i18n": {
+            "en": "Reach Advent Palace",
+            "pt": "Chegar ao Advent Palace"
+          },
+          "description": "Approach the rendezvous building, watching for explosives and soldiers near its entrances.",
+          "description_i18n": {
+            "en": "Approach the rendezvous building, watching for explosives and soldiers near its entrances.",
+            "pt": "Aproxime-se do prédio do encontro, observando explosivos e soldados perto das entradas."
+          }
+        },
+        {
+          "key": "search-palace-interior",
+          "title": "Move through the palace interior",
+          "title_i18n": {
+            "en": "Move through the palace interior",
+            "pt": "Percorrer o interior do palácio"
+          },
+          "description": "Inspect corners and stairways carefully rather than running through unfamiliar rooms.",
+          "description_i18n": {
+            "en": "Inspect corners and stairways carefully rather than running through unfamiliar rooms.",
+            "pt": "Examine quinas e escadas com cuidado, sem correr por salas desconhecidas."
+          }
+        },
+        {
+          "key": "meet-rat-patrol",
+          "title": "Meet Rat Patrol",
+          "title_i18n": {
+            "en": "Meet Rat Patrol",
+            "pt": "Encontrar Rat Patrol"
+          },
+          "description": "Reach the team and complete the meeting before preparing for the next combat sequence.",
+          "description_i18n": {
+            "en": "Reach the team and complete the meeting before preparing for the next combat sequence.",
+            "pt": "Chegue à equipe e conclua o encontro antes de se preparar para a próxima sequência de combate."
+          }
+        },
+        {
+          "key": "escort-team-through-palace",
+          "title": "Follow the team through the palace",
+          "title_i18n": {
+            "en": "Follow the team through the palace",
+            "pt": "Acompanhar a equipe pelo palácio"
+          },
+          "description": "Stay close enough to support their movement and collect supplies during safe pauses.",
+          "description_i18n": {
+            "en": "Stay close enough to support their movement and collect supplies during safe pauses.",
+            "pt": "Fique perto o suficiente para apoiar o avanço e recolha suprimentos nas pausas seguras."
+          }
+        }
+      ]
+    },
+    {
+      "key": "act-one-haven-troopers",
+      "title": "Act 1: the palace escape",
+      "title_i18n": {
+        "en": "Act 1: the palace escape",
+        "pt": "Ato 1: a fuga do palácio"
+      },
+      "items": [
+        {
+          "key": "survive-haven-troopers",
+          "title": "Survive the Haven Trooper assault",
+          "title_i18n": {
+            "en": "Survive the Haven Trooper assault",
+            "pt": "Sobreviver ao ataque das Haven Troopers"
+          },
+          "description": "Keep track of enemies moving above and around the team and use cover while advancing.",
+          "description_i18n": {
+            "en": "Keep track of enemies moving above and around the team and use cover while advancing.",
+            "pt": "Observe inimigos acima e ao redor da equipe e use cobertura durante o avanço."
+          }
+        },
+        {
+          "key": "keep-team-supported",
+          "title": "Keep the team supported",
+          "title_i18n": {
+            "en": "Keep the team supported",
+            "pt": "Apoiar a equipe"
+          },
+          "description": "Deal with immediate threats to the group before stopping to search rooms.",
+          "description_i18n": {
+            "en": "Deal with immediate threats to the group before stopping to search rooms.",
+            "pt": "Enfrente as ameaças imediatas ao grupo antes de parar para explorar salas."
+          }
+        },
+        {
+          "key": "check-palace-exit",
+          "title": "Check the palace exit area",
+          "title_i18n": {
+            "en": "Check the palace exit area",
+            "pt": "Conferir a saída do palácio"
+          },
+          "description": "Before leaving, inspect the final room for supplies or a reward earned by your combat approach.",
+          "description_i18n": {
+            "en": "Before leaving, inspect the final room for supplies or a reward earned by your combat approach.",
+            "pt": "Antes de sair, procure suprimentos ou uma recompensa obtida conforme sua abordagem de combate."
+          }
+        },
+        {
+          "key": "reach-pmc-camp",
+          "title": "Reach the PMC camp",
+          "title_i18n": {
+            "en": "Reach the PMC camp",
+            "pt": "Chegar ao acampamento da PMC"
+          },
+          "description": "Follow the streets toward the act's final objective and avoid unnecessary Gekko confrontations.",
+          "description_i18n": {
+            "en": "Follow the streets toward the act's final objective and avoid unnecessary Gekko confrontations.",
+            "pt": "Siga pelas ruas até o objetivo final do ato e evite confrontos desnecessários com Gekkos."
+          }
+        },
+        {
+          "key": "finish-liquid-sun",
+          "title": "Finish Liquid Sun",
+          "title_i18n": {
+            "en": "Finish Liquid Sun",
+            "pt": "Concluir Liquid Sun"
+          },
+          "description": "Complete the final approach and story scenes, then save before beginning the next act.",
+          "description_i18n": {
+            "en": "Complete the final approach and story scenes, then save before beginning the next act.",
+            "pt": "Conclua a aproximação final e as cenas; depois salve antes de começar o próximo ato."
+          }
+        }
+      ]
+    },
+    {
+      "key": "act-two-south-america",
+      "title": "Act 2: the South American approach",
+      "title_i18n": {
+        "en": "Act 2: the South American approach",
+        "pt": "Ato 2: a aproximação na América do Sul"
+      },
+      "items": [
+        {
+          "key": "review-act-two-briefing",
+          "title": "Review the Act 2 briefing",
+          "title_i18n": {
+            "en": "Review the Act 2 briefing",
+            "pt": "Revisar as instruções do Ato 2"
+          },
+          "description": "Check the new mission objective and adjust your loadout before entering the village.",
+          "description_i18n": {
+            "en": "Check the new mission objective and adjust your loadout before entering the village.",
+            "pt": "Confira o novo objetivo e ajuste o equipamento antes de entrar na vila."
+          }
+        },
+        {
+          "key": "scout-cove-valley",
+          "title": "Scout the Cove Valley settlement",
+          "title_i18n": {
+            "en": "Scout the Cove Valley settlement",
+            "pt": "Observar o povoado de Cove Valley"
+          },
+          "description": "Identify detained locals and PMC positions before choosing a route through the settlement.",
+          "description_i18n": {
+            "en": "Identify detained locals and PMC positions before choosing a route through the settlement.",
+            "pt": "Identifique moradores detidos e posições da PMC antes de escolher uma rota pelo povoado."
+          }
+        },
+        {
+          "key": "help-rebels-safely",
+          "title": "Support the rebels without friendly fire",
+          "title_i18n": {
+            "en": "Support the rebels without friendly fire",
+            "pt": "Apoiar os rebeldes sem fogo amigo"
+          },
+          "description": "If intervening, confirm targets first and avoid harming the local fighters you want to help.",
+          "description_i18n": {
+            "en": "If intervening, confirm targets first and avoid harming the local fighters you want to help.",
+            "pt": "Se intervier, confirme os alvos e evite ferir os combatentes locais que deseja ajudar."
+          }
+        },
+        {
+          "key": "reach-power-station",
+          "title": "Reach the power station",
+          "title_i18n": {
+            "en": "Reach the power station",
+            "pt": "Chegar à usina"
+          },
+          "description": "Use vegetation and the ongoing battle to cross the guarded approach.",
+          "description_i18n": {
+            "en": "Use vegetation and the ongoing battle to cross the guarded approach.",
+            "pt": "Use a vegetação e o combate em andamento para atravessar o acesso vigiado."
+          }
+        },
+        {
+          "key": "cross-confinement-facility",
+          "title": "Cross the confinement facility route",
+          "title_i18n": {
+            "en": "Cross the confinement facility route",
+            "pt": "Atravessar a rota da instalação de detenção"
+          },
+          "description": "Inspect patrols and overhead threats before moving between buildings.",
+          "description_i18n": {
+            "en": "Inspect patrols and overhead threats before moving between buildings.",
+            "pt": "Observe patrulhas e ameaças acima antes de se mover entre os prédios."
+          }
+        },
+        {
+          "key": "follow-vista-mansion-route",
+          "title": "Follow the Vista Mansion route",
+          "title_i18n": {
+            "en": "Follow the Vista Mansion route",
+            "pt": "Seguir pela rota de Vista Mansion"
+          },
+          "description": "Continue through the connected outdoor areas, restocking before entering the mansion grounds.",
+          "description_i18n": {
+            "en": "Continue through the connected outdoor areas, restocking before entering the mansion grounds.",
+            "pt": "Continue pelas áreas externas conectadas e reabasteça-se antes de entrar no terreno da mansão."
+          }
+        },
+        {
+          "key": "enter-naomi-laboratory",
+          "title": "Enter the laboratory",
+          "title_i18n": {
+            "en": "Enter the laboratory",
+            "pt": "Entrar no laboratório"
+          },
+          "description": "Use the mansion route to reach the research building and complete the meeting inside.",
+          "description_i18n": {
+            "en": "Use the mansion route to reach the research building and complete the meeting inside.",
+            "pt": "Use a rota da mansão para chegar ao prédio de pesquisa e concluir o encontro no interior."
+          }
+        }
+      ]
+    },
+    {
+      "key": "act-two-laughing-octopus",
+      "title": "Act 2: the laboratory encounter",
+      "title_i18n": {
+        "en": "Act 2: the laboratory encounter",
+        "pt": "Ato 2: o confronto no laboratório"
+      },
+      "items": [
+        {
+          "key": "prepare-laboratory-fight",
+          "title": "Prepare before the laboratory fight",
+          "title_i18n": {
+            "en": "Prepare before the laboratory fight",
+            "pt": "Preparar-se antes da luta no laboratório"
+          },
+          "description": "Check ammunition and healing supplies, then make a manual save if a separate boss-challenge attempt is planned.",
+          "description_i18n": {
+            "en": "Check ammunition and healing supplies, then make a manual save if a separate boss-challenge attempt is planned.",
+            "pt": "Confira munição e cura e faça um salvamento manual se pretende tentar um desafio separado de chefe."
+          }
+        },
+        {
+          "key": "learn-octopus-arena",
+          "title": "Learn the laboratory arena",
+          "title_i18n": {
+            "en": "Learn the laboratory arena",
+            "pt": "Conhecer a arena do laboratório"
+          },
+          "description": "Keep escape routes in view and observe the room before committing to an attack.",
+          "description_i18n": {
+            "en": "Keep escape routes in view and observe the room before committing to an attack.",
+            "pt": "Mantenha as saídas à vista e observe a sala antes de iniciar um ataque."
+          }
+        },
+        {
+          "key": "handle-octopus-disguises",
+          "title": "Handle Laughing Octopus's disguises",
+          "title_i18n": {
+            "en": "Handle Laughing Octopus's disguises",
+            "pt": "Lidar com os disfarces de Laughing Octopus"
+          },
+          "description": "Use reconnaissance equipment and careful observation to locate the opponent between attacks.",
+          "description_i18n": {
+            "en": "Use reconnaissance equipment and careful observation to locate the opponent between attacks.",
+            "pt": "Use equipamentos de reconhecimento e observação cuidadosa para localizar a adversária entre os ataques."
+          },
+          "details": "Use Solid Eye's night-vision mode and inspect suspicious shapes in the laboratory: the opponent can blend into surfaces and imitate familiar objects or people. Confirm the target before firing. After attacking, move away from the counterattack and check the room again instead of assuming she stayed in the same place.\n\nFor the collectible doll, the armored Beast phase must be defeated by stamina depletion using nonlethal damage; inspect the room when the Beauty phase begins. The usable OctoCamo face equipment, the small collectible doll and the Beauty FaceCamo reward are separate things. A nonlethal Beauty finish concerns the face reward, not the earlier doll condition.",
+          "details_i18n": {
+            "en": "Use Solid Eye's night-vision mode and inspect suspicious shapes in the laboratory: the opponent can blend into surfaces and imitate familiar objects or people. Confirm the target before firing. After attacking, move away from the counterattack and check the room again instead of assuming she stayed in the same place.\n\nFor the collectible doll, the armored Beast phase must be defeated by stamina depletion using nonlethal damage; inspect the room when the Beauty phase begins. The usable OctoCamo face equipment, the small collectible doll and the Beauty FaceCamo reward are separate things. A nonlethal Beauty finish concerns the face reward, not the earlier doll condition.",
+            "pt": "Use a visão noturna do Solid Eye e examine formas suspeitas no laboratório: a adversária pode se camuflar nas superfícies e imitar objetos ou pessoas conhecidas. Confirme o alvo antes de atirar. Depois do ataque, afaste-se da resposta e examine a sala novamente, sem presumir que ela ficou no mesmo lugar.\n\nPara obter a figura colecionável, vença a fase Beast com armadura esgotando vigor com dano não letal; procure a figura quando a fase Beauty começar. O equipamento facial OctoCamo, a figura e a FaceCamo Beauty são recompensas diferentes. Terminar Beauty sem matar diz respeito ao rosto, não à condição anterior da figura."
+          }
+        },
+        {
+          "key": "defeat-laughing-octopus",
+          "title": "Complete the armored encounter",
+          "title_i18n": {
+            "en": "Complete the armored encounter",
+            "pt": "Concluir o confronto com armadura"
+          },
+          "description": "Follow the opponent's movement and use controlled attacks until the battle changes phase.",
+          "description_i18n": {
+            "en": "Follow the opponent's movement and use controlled attacks until the battle changes phase.",
+            "pt": "Acompanhe os movimentos da adversária e ataque com controle até a luta mudar de fase."
+          }
+        },
+        {
+          "key": "finish-laughing-beauty",
+          "title": "Complete the second phase",
+          "title_i18n": {
+            "en": "Complete the second phase",
+            "pt": "Concluir a segunda fase"
+          },
+          "description": "Keep your chosen lethal or nonlethal approach consistent and avoid being caught during the follow-up encounter.",
+          "description_i18n": {
+            "en": "Keep your chosen lethal or nonlethal approach consistent and avoid being caught during the follow-up encounter.",
+            "pt": "Mantenha a abordagem letal ou não letal escolhida e evite ser agarrado no confronto seguinte."
+          }
+        },
+        {
+          "key": "recover-laboratory-rewards",
+          "title": "Recover the laboratory rewards",
+          "title_i18n": {
+            "en": "Recover the laboratory rewards",
+            "pt": "Recolher as recompensas do laboratório"
+          },
+          "description": "Check the room before leaving, then inspect the newly available camouflage equipment.",
+          "description_i18n": {
+            "en": "Check the room before leaving, then inspect the newly available camouflage equipment.",
+            "pt": "Examine a sala antes de sair e confira o novo equipamento de camuflagem disponível."
+          }
+        }
+      ]
+    },
+    {
+      "key": "act-two-tracking",
+      "title": "Act 2: following the trail",
+      "title_i18n": {
+        "en": "Act 2: following the trail",
+        "pt": "Ato 2: seguindo os rastros"
+      },
+      "items": [
+        {
+          "key": "begin-naomi-trail",
+          "title": "Begin the trail search",
+          "title_i18n": {
+            "en": "Begin the trail search",
+            "pt": "Iniciar a busca pelos rastros"
+          },
+          "description": "Inspect the first tracks with Solid Eye and use the trail-comparison clues in Details if needed.",
+          "description_i18n": {
+            "en": "Inspect the first tracks with Solid Eye and use the trail-comparison clues in Details if needed.",
+            "pt": "Examine os primeiros rastros com Solid Eye e consulte as pistas de comparação nos Detalhes, se necessário."
+          },
+          "details": "Use Solid Eye night vision to inspect footprints and flattened vegetation. Naomi's narrower prints help distinguish her path from the accompanying soldiers. Stop at junctions and compare the outgoing trails instead of following the largest cluster automatically.\n\nWatch for snipers, Claymores and suspicious huts. A familiar voice can be a decoy, so check the surroundings before approaching its source. If the trail becomes unclear, return to the last confirmed fork and inspect it again. This tracking section rewards observation; clearing every guard or running toward every sound is not necessary to reach the destination.",
+          "details_i18n": {
+            "en": "Use Solid Eye night vision to inspect footprints and flattened vegetation. Naomi's narrower prints help distinguish her path from the accompanying soldiers. Stop at junctions and compare the outgoing trails instead of following the largest cluster automatically.\n\nWatch for snipers, Claymores and suspicious huts. A familiar voice can be a decoy, so check the surroundings before approaching its source. If the trail becomes unclear, return to the last confirmed fork and inspect it again. This tracking section rewards observation; clearing every guard or running toward every sound is not necessary to reach the destination.",
+            "pt": "Use a visão noturna do Solid Eye para examinar pegadas e vegetação amassada. As marcas mais estreitas de Naomi ajudam a distinguir seu caminho dos soldados que a acompanham. Pare nas bifurcações e compare os rastros, sem seguir automaticamente o grupo maior.\n\nCuidado com atiradores, Claymores e cabanas suspeitas. Uma voz conhecida pode ser uma distração; examine o entorno antes de se aproximar da origem. Se perder o rastro, volte à última bifurcação confirmada e examine novamente. Este trecho exige observação; não é preciso derrotar todos os guardas ou correr atrás de cada som."
+          }
+        },
+        {
+          "key": "compare-footprint-trails",
+          "title": "Compare the footprint trails",
+          "title_i18n": {
+            "en": "Compare the footprint trails",
+            "pt": "Comparar os rastros de pegadas"
+          },
+          "description": "Inspect the different trails at each branch and compare them with the mission clues before deciding which route to follow.",
+          "description_i18n": {
+            "en": "Inspect the different trails at each branch and compare them with the mission clues before deciding which route to follow.",
+            "pt": "Examine os rastros em cada bifurcação e compare-os com as pistas da missão antes de decidir qual rota seguir."
+          }
+        },
+        {
+          "key": "watch-trail-ambushes",
+          "title": "Watch for trail ambushes",
+          "title_i18n": {
+            "en": "Watch for trail ambushes",
+            "pt": "Observar emboscadas no caminho"
+          },
+          "description": "Scan long grass and elevated positions before following a sound or turning a blind corner.",
+          "description_i18n": {
+            "en": "Scan long grass and elevated positions before following a sound or turning a blind corner.",
+            "pt": "Examine o mato alto e posições elevadas antes de seguir um som ou virar uma esquina sem visão."
+          }
+        },
+        {
+          "key": "check-trail-traps",
+          "title": "Check the trail for traps",
+          "title_i18n": {
+            "en": "Check the trail for traps",
+            "pt": "Procurar armadilhas nos rastros"
+          },
+          "description": "Move cautiously near suspicious huts and avoid treating every voice as proof of a safe destination.",
+          "description_i18n": {
+            "en": "Move cautiously near suspicious huts and avoid treating every voice as proof of a safe destination.",
+            "pt": "Avance com cuidado perto de cabanas suspeitas e não trate toda voz como prova de um destino seguro."
+          }
+        },
+        {
+          "key": "follow-trail-to-river",
+          "title": "Follow the trail toward the river",
+          "title_i18n": {
+            "en": "Follow the trail toward the river",
+            "pt": "Seguir os rastros até o rio"
+          },
+          "description": "Use the map and tracks together, keeping ammunition and healing available for the next sequence.",
+          "description_i18n": {
+            "en": "Use the map and tracks together, keeping ammunition and healing available for the next sequence.",
+            "pt": "Use mapa e pegadas em conjunto, preservando munição e cura para a próxima sequência."
+          }
+        },
+        {
+          "key": "reach-river-rendezvous",
+          "title": "Reach the river encounter",
+          "title_i18n": {
+            "en": "Reach the river encounter",
+            "pt": "Chegar ao encontro no rio"
+          },
+          "description": "Finish the search and prepare for extraction once the story scene ends.",
+          "description_i18n": {
+            "en": "Finish the search and prepare for extraction once the story scene ends.",
+            "pt": "Termine a busca e prepare-se para a extração quando a cena terminar."
+          }
+        }
+      ]
+    },
+    {
+      "key": "act-two-extraction",
+      "title": "Act 2: extraction",
+      "title_i18n": {
+        "en": "Act 2: extraction",
+        "pt": "Ato 2: extração"
+      },
+      "items": [
+        {
+          "key": "board-extraction-vehicle",
+          "title": "Board the extraction vehicle",
+          "title_i18n": {
+            "en": "Board the extraction vehicle",
+            "pt": "Embarcar no veículo de extração"
+          },
+          "description": "Take the assigned position and identify the immediate threats before firing.",
+          "description_i18n": {
+            "en": "Take the assigned position and identify the immediate threats before firing.",
+            "pt": "Assuma a posição indicada e identifique as ameaças imediatas antes de atirar."
+          }
+        },
+        {
+          "key": "cover-moving-vehicle",
+          "title": "Cover the moving vehicle",
+          "title_i18n": {
+            "en": "Cover the moving vehicle",
+            "pt": "Proteger o veículo em movimento"
+          },
+          "description": "Prioritize enemies threatening the vehicle and watch for attackers approaching its roof.",
+          "description_i18n": {
+            "en": "Prioritize enemies threatening the vehicle and watch for attackers approaching its roof.",
+            "pt": "Priorize inimigos que ameaçam o veículo e observe quem se aproxima do teto."
+          }
+        },
+        {
+          "key": "repel-boarding-enemies",
+          "title": "Repel boarding enemies",
+          "title_i18n": {
+            "en": "Repel boarding enemies",
+            "pt": "Impedir inimigos de embarcar"
+          },
+          "description": "If an attacker reaches the roof, deal with it promptly before returning to the mounted gun.",
+          "description_i18n": {
+            "en": "If an attacker reaches the roof, deal with it promptly before returning to the mounted gun.",
+            "pt": "Se um atacante alcançar o teto, enfrente-o rapidamente antes de voltar à arma montada."
+          }
+        },
+        {
+          "key": "escape-marketplace",
+          "title": "Escape through the marketplace",
+          "title_i18n": {
+            "en": "Escape through the marketplace",
+            "pt": "Escapar pelo mercado"
+          },
+          "description": "After leaving the vehicle, follow the extraction route and avoid getting pinned by Gekkos.",
+          "description_i18n": {
+            "en": "After leaving the vehicle, follow the extraction route and avoid getting pinned by Gekkos.",
+            "pt": "Após sair do veículo, siga a rota de extração e evite ficar encurralado por Gekkos."
+          }
+        },
+        {
+          "key": "finish-solid-sun",
+          "title": "Finish Solid Sun",
+          "title_i18n": {
+            "en": "Finish Solid Sun",
+            "pt": "Concluir Solid Sun"
+          },
+          "description": "Reach the extraction point, watch the remaining scenes and save your progress.",
+          "description_i18n": {
+            "en": "Reach the extraction point, watch the remaining scenes and save your progress.",
+            "pt": "Chegue ao ponto de extração, acompanhe as cenas restantes e salve o progresso."
+          }
+        }
+      ]
+    },
+    {
+      "key": "act-three-resistance-trail",
+      "title": "Act 3: the resistance trail",
+      "title_i18n": {
+        "en": "Act 3: the resistance trail",
+        "pt": "Ato 3: os rastros da resistência"
+      },
+      "items": [
+        {
+          "key": "prepare-european-infiltration",
+          "title": "Prepare the European infiltration",
+          "title_i18n": {
+            "en": "Prepare the European infiltration",
+            "pt": "Preparar a infiltração europeia"
+          },
+          "description": "Review the new objective and equip reconnaissance and quiet nonlethal options before entering the streets.",
+          "description_i18n": {
+            "en": "Review the new objective and equip reconnaissance and quiet nonlethal options before entering the streets.",
+            "pt": "Confira o novo objetivo e equipe reconhecimento e opções não letais silenciosas antes de entrar nas ruas."
+          }
+        },
+        {
+          "key": "identify-resistance-member",
+          "title": "Identify the resistance member",
+          "title_i18n": {
+            "en": "Identify the resistance member",
+            "pt": "Identificar o membro da resistência"
+          },
+          "description": "Use the mission guidance and signal information to find the person you must follow.",
+          "description_i18n": {
+            "en": "Use the mission guidance and signal information to find the person you must follow.",
+            "pt": "Use as instruções e informações de sinal para encontrar a pessoa que deve seguir."
+          }
+        },
+        {
+          "key": "follow-resistance-discreetly",
+          "title": "Follow the resistance member discreetly",
+          "title_i18n": {
+            "en": "Follow the resistance member discreetly",
+            "pt": "Seguir o membro da resistência discretamente"
+          },
+          "description": "Keep enough distance to avoid suspicion while maintaining visual contact at street corners.",
+          "description_i18n": {
+            "en": "Keep enough distance to avoid suspicion while maintaining visual contact at street corners.",
+            "pt": "Mantenha distância para não despertar suspeita, sem perder contato visual nas esquinas."
+          },
+          "details": "Keep the resistance member in sight from behind cover, allowing him room to stop, look around and react to patrols. If he becomes suspicious, fall back rather than moving closer. Quietly neutralizing a blocking patrol can help him continue, but firing into the street risks disrupting the whole route.\n\nAt intersections, watch which way he actually turns instead of guessing from the map. If separated, return to the last confirmed location and use the Resistance Signal equipment to narrow the search. Later changes in his appearance do not mean you should abandon the tail. Your task is to follow the same person to the destination, not clear every street.",
+          "details_i18n": {
+            "en": "Keep the resistance member in sight from behind cover, allowing him room to stop, look around and react to patrols. If he becomes suspicious, fall back rather than moving closer. Quietly neutralizing a blocking patrol can help him continue, but firing into the street risks disrupting the whole route.\n\nAt intersections, watch which way he actually turns instead of guessing from the map. If separated, return to the last confirmed location and use the Resistance Signal equipment to narrow the search. Later changes in his appearance do not mean you should abandon the tail. Your task is to follow the same person to the destination, not clear every street.",
+            "pt": "Mantenha o membro da resistência à vista pela cobertura, dando espaço para ele parar, observar e reagir às patrulhas. Se ficar desconfiado, recue em vez de se aproximar. Neutralizar discretamente uma patrulha que bloqueia a passagem pode ajudá-lo, mas disparar pela rua arrisca interromper a rota inteira.\n\nNos cruzamentos, veja para onde ele realmente vira, sem adivinhar pelo mapa. Se perder contato, volte ao último ponto confirmado e use o equipamento Resistance Signal para reduzir a busca. Mudanças posteriores na aparência dele não significam abandonar a perseguição. O objetivo é seguir a mesma pessoa ao destino, não limpar todas as ruas."
+          }
+        },
+        {
+          "key": "handle-street-patrols",
+          "title": "Handle the street patrols",
+          "title_i18n": {
+            "en": "Handle the street patrols",
+            "pt": "Lidar com as patrulhas nas ruas"
+          },
+          "description": "Observe how the target reacts to patrols and intervene quietly only when necessary to keep the route moving.",
+          "description_i18n": {
+            "en": "Observe how the target reacts to patrols and intervene quietly only when necessary to keep the route moving.",
+            "pt": "Observe a reação do alvo às patrulhas e intervenha em silêncio apenas quando necessário para o percurso continuar."
+          }
+        },
+        {
+          "key": "recover-lost-tail",
+          "title": "Recover the trail if separated",
+          "title_i18n": {
+            "en": "Recover the trail if separated",
+            "pt": "Retomar os rastros se perder o alvo"
+          },
+          "description": "Return to the last confirmed route and use the tracking equipment rather than sprinting randomly through the district.",
+          "description_i18n": {
+            "en": "Return to the last confirmed route and use the tracking equipment rather than sprinting randomly through the district.",
+            "pt": "Volte à última rota confirmada e use o equipamento de rastreamento em vez de correr sem rumo pelo bairro."
+          }
+        },
+        {
+          "key": "reach-resistance-hideout",
+          "title": "Reach the resistance destination",
+          "title_i18n": {
+            "en": "Reach the resistance destination",
+            "pt": "Chegar ao destino da resistência"
+          },
+          "description": "Follow the final turns and complete the meeting before the next escape sequence.",
+          "description_i18n": {
+            "en": "Follow the final turns and complete the meeting before the next escape sequence.",
+            "pt": "Siga as últimas curvas e conclua o encontro antes da próxima sequência de fuga."
+          }
+        }
+      ]
+    },
+    {
+      "key": "act-three-chase-and-raven",
+      "title": "Act 3: the chase and tower",
+      "title_i18n": {
+        "en": "Act 3: the chase and tower",
+        "pt": "Ato 3: a perseguição e a torre"
+      },
+      "items": [
+        {
+          "key": "prepare-motorcycle-escape",
+          "title": "Prepare for the motorcycle escape",
+          "title_i18n": {
+            "en": "Prepare for the motorcycle escape",
+            "pt": "Preparar-se para a fuga de moto"
+          },
+          "description": "Choose weapons suited to moving targets and check your supplies before the chase.",
+          "description_i18n": {
+            "en": "Choose weapons suited to moving targets and check your supplies before the chase.",
+            "pt": "Escolha armas adequadas a alvos móveis e confira os suprimentos antes da perseguição."
+          }
+        },
+        {
+          "key": "cover-motorcycle-route",
+          "title": "Cover the motorcycle route",
+          "title_i18n": {
+            "en": "Cover the motorcycle route",
+            "pt": "Proteger a rota da moto"
+          },
+          "description": "Prioritize pursuing enemies and immediate road threats while the driver handles movement.",
+          "description_i18n": {
+            "en": "Prioritize pursuing enemies and immediate road threats while the driver handles movement.",
+            "pt": "Priorize perseguidores e ameaças imediatas na estrada enquanto a motorista cuida do deslocamento."
+          }
+        },
+        {
+          "key": "reach-tower-arena",
+          "title": "Reach the tower arena",
+          "title_i18n": {
+            "en": "Reach the tower arena",
+            "pt": "Chegar à arena da torre"
+          },
+          "description": "Survive the chase and take a moment to understand the tower's floors and exits.",
+          "description_i18n": {
+            "en": "Survive the chase and take a moment to understand the tower's floors and exits.",
+            "pt": "Sobreviva à perseguição e observe os andares e saídas da torre."
+          }
+        },
+        {
+          "key": "track-raging-raven",
+          "title": "Track Raging Raven around the tower",
+          "title_i18n": {
+            "en": "Track Raging Raven around the tower",
+            "pt": "Acompanhar Raging Raven ao redor da torre"
+          },
+          "description": "Use cover and watch the opponent's movement before choosing a safe firing position.",
+          "description_i18n": {
+            "en": "Use cover and watch the opponent's movement before choosing a safe firing position.",
+            "pt": "Use cobertura e observe o movimento da adversária antes de escolher uma posição de tiro segura."
+          }
+        },
+        {
+          "key": "complete-raven-phases",
+          "title": "Complete both tower battle phases",
+          "title_i18n": {
+            "en": "Complete both tower battle phases",
+            "pt": "Concluir as duas fases da batalha na torre"
+          },
+          "description": "Keep ammunition suited to your chosen approach and check the arena for earned rewards before leaving.",
+          "description_i18n": {
+            "en": "Keep ammunition suited to your chosen approach and check the arena for earned rewards before leaving.",
+            "pt": "Mantenha munição adequada à abordagem escolhida e procure recompensas obtidas na arena antes de sair."
+          }
+        },
+        {
+          "key": "finish-third-sun",
+          "title": "Finish Third Sun",
+          "title_i18n": {
+            "en": "Finish Third Sun",
+            "pt": "Concluir Third Sun"
+          },
+          "description": "Complete the act's remaining scenes and save before the next deployment.",
+          "description_i18n": {
+            "en": "Complete the act's remaining scenes and save before the next deployment.",
+            "pt": "Conclua as cenas restantes do ato e salve antes da próxima missão."
+          }
+        }
+      ]
+    },
+    {
+      "key": "act-four-shadow-moses-entry",
+      "title": "Act 4: return to Shadow Moses",
+      "title_i18n": {
+        "en": "Act 4: return to Shadow Moses",
+        "pt": "Ato 4: retorno a Shadow Moses"
+      },
+      "items": [
+        {
+          "key": "complete-opening-memory",
+          "title": "Complete the opening memory sequence",
+          "title_i18n": {
+            "en": "Complete the opening memory sequence",
+            "pt": "Concluir a sequência inicial de memória"
+          },
+          "description": "Follow the opening scene and continue when the current mission resumes.",
+          "description_i18n": {
+            "en": "Follow the opening scene and continue when the current mission resumes.",
+            "pt": "Acompanhe a sequência inicial e continue quando a missão atual for retomada."
+          }
+        },
+        {
+          "key": "reach-shadow-moses-helipad",
+          "title": "Reach the Shadow Moses helipad",
+          "title_i18n": {
+            "en": "Reach the Shadow Moses helipad",
+            "pt": "Chegar ao heliporto de Shadow Moses"
+          },
+          "description": "Survey the snow-covered approach and collect useful supplies before entering the facility.",
+          "description_i18n": {
+            "en": "Survey the snow-covered approach and collect useful supplies before entering the facility.",
+            "pt": "Observe a aproximação coberta de neve e recolha suprimentos úteis antes de entrar na instalação."
+          }
+        },
+        {
+          "key": "cross-tank-hangar",
+          "title": "Cross the tank hangar",
+          "title_i18n": {
+            "en": "Cross the tank hangar",
+            "pt": "Atravessar o hangar de tanques"
+          },
+          "description": "Watch the small security units and use quiet movement through the familiar interior.",
+          "description_i18n": {
+            "en": "Watch the small security units and use quiet movement through the familiar interior.",
+            "pt": "Observe as unidades de segurança pequenas e avance silenciosamente pelo interior conhecido."
+          }
+        },
+        {
+          "key": "cross-shadow-moses-canyon",
+          "title": "Cross the canyon",
+          "title_i18n": {
+            "en": "Cross the canyon",
+            "pt": "Atravessar o cânion"
+          },
+          "description": "Inspect the open route before exposing Snake and avoid unnecessary combat with heavy enemies.",
+          "description_i18n": {
+            "en": "Inspect the open route before exposing Snake and avoid unnecessary combat with heavy enemies.",
+            "pt": "Examine a rota aberta antes de expor Snake e evite combates desnecessários com inimigos pesados."
+          }
+        },
+        {
+          "key": "enter-warhead-storage",
+          "title": "Enter the warhead storage building",
+          "title_i18n": {
+            "en": "Enter the warhead storage building",
+            "pt": "Entrar no depósito de ogivas"
+          },
+          "description": "Follow the objective through the interior and check available terminals and equipment.",
+          "description_i18n": {
+            "en": "Follow the objective through the interior and check available terminals and equipment.",
+            "pt": "Siga o objetivo pelo interior e confira terminais e equipamentos disponíveis."
+          }
+        },
+        {
+          "key": "support-mk-three-access",
+          "title": "Support Mk. III's access work",
+          "title_i18n": {
+            "en": "Support Mk. III's access work",
+            "pt": "Apoiar o acesso do Mk. III"
+          },
+          "description": "Protect the operation while following Otacon's instructions, then continue through the opened route.",
+          "description_i18n": {
+            "en": "Protect the operation while following Otacon's instructions, then continue through the opened route.",
+            "pt": "Proteja a operação seguindo as instruções de Otacon e continue pelo caminho liberado."
+          }
+        }
+      ]
+    },
+    {
+      "key": "act-four-snowfield-and-wolf",
+      "title": "Act 4: the snowfield encounter",
+      "title_i18n": {
+        "en": "Act 4: the snowfield encounter",
+        "pt": "Ato 4: o confronto no campo de neve"
+      },
+      "items": [
+        {
+          "key": "cross-industrial-interior",
+          "title": "Cross the industrial interior",
+          "title_i18n": {
+            "en": "Cross the industrial interior",
+            "pt": "Atravessar o interior industrial"
+          },
+          "description": "Move through the furnace and casting areas, checking security units before entering open spaces.",
+          "description_i18n": {
+            "en": "Move through the furnace and casting areas, checking security units before entering open spaces.",
+            "pt": "Avance pelas áreas de fornos e fundição, observando a segurança antes de entrar em espaços abertos."
+          }
+        },
+        {
+          "key": "reach-snowfield-arena",
+          "title": "Reach the snowfield arena",
+          "title_i18n": {
+            "en": "Reach the snowfield arena",
+            "pt": "Chegar à arena no campo de neve"
+          },
+          "description": "Prepare a scoped weapon and suitable ammunition before committing to the next encounter.",
+          "description_i18n": {
+            "en": "Prepare a scoped weapon and suitable ammunition before committing to the next encounter.",
+            "pt": "Prepare uma arma com mira e munição adequada antes de entrar no próximo confronto."
+          }
+        },
+        {
+          "key": "track-crying-wolf",
+          "title": "Track Crying Wolf in the snow",
+          "title_i18n": {
+            "en": "Track Crying Wolf in the snow",
+            "pt": "Rastrear Crying Wolf na neve"
+          },
+          "description": "Use reconnaissance equipment and cover to locate the opponent while avoiding surrounding patrols.",
+          "description_i18n": {
+            "en": "Use reconnaissance equipment and cover to locate the opponent while avoiding surrounding patrols.",
+            "pt": "Use reconhecimento e cobertura para localizar a adversária enquanto evita patrulhas ao redor."
+          },
+          "details": "Use Solid Eye to search through the snow and keep cover between Snake and the surrounding Haven Troopers. Listen for movement and wait for Wolf to expose the operator while preparing a shot. Fire during that opening, then relocate before the reply instead of shooting continuously into the armor.\n\nCheck the wind direction: if it flows from Snake toward Wolf, it can carry his scent to her. Reposition or wait for it to change rather than trusting the same hiding place indefinitely. Manage nearby patrols quietly so they do not interrupt each aiming attempt. For the collectible doll, use nonlethal damage to exhaust the armored form's stamina, then check behind Snake when the Beauty phase begins. Tranquilizing only the Beauty phase does not replace that requirement.",
+          "details_i18n": {
+            "en": "Use Solid Eye to search through the snow and keep cover between Snake and the surrounding Haven Troopers. Listen for movement and wait for Wolf to expose the operator while preparing a shot. Fire during that opening, then relocate before the reply instead of shooting continuously into the armor.\n\nCheck the wind direction: if it flows from Snake toward Wolf, it can carry his scent to her. Reposition or wait for it to change rather than trusting the same hiding place indefinitely. Manage nearby patrols quietly so they do not interrupt each aiming attempt. For the collectible doll, use nonlethal damage to exhaust the armored form's stamina, then check behind Snake when the Beauty phase begins. Tranquilizing only the Beauty phase does not replace that requirement.",
+            "pt": "Use Solid Eye para procurar na neve e mantenha cobertura entre Snake e as Haven Troopers ao redor. Escute os movimentos e espere Wolf expor a operadora ao preparar um disparo. Atire nessa abertura e mude de posição antes da resposta, sem disparar continuamente contra a armadura.\n\nConfira o vento: se ele soprar de Snake em direção a Wolf, pode levar o cheiro até ela. Mude de posição ou espere a direção mudar, sem confiar indefinidamente no mesmo esconderijo. Controle as patrulhas em silêncio para não interromperem cada tentativa de mira. Para obter a figura, esgote o vigor da forma com armadura usando dano não letal e procure atrás de Snake quando Beauty começar. Tranquilizar apenas Beauty não substitui esse requisito."
+          }
+        },
+        {
+          "key": "handle-snowfield-patrols",
+          "title": "Manage the surrounding patrols",
+          "title_i18n": {
+            "en": "Manage the surrounding patrols",
+            "pt": "Controlar as patrulhas ao redor"
+          },
+          "description": "Clear immediate threats quietly or evade them so they do not interrupt every aiming opportunity.",
+          "description_i18n": {
+            "en": "Clear immediate threats quietly or evade them so they do not interrupt every aiming opportunity.",
+            "pt": "Neutralize ameaças imediatas em silêncio ou evite-as para não interromperem todas as chances de mirar."
+          }
+        },
+        {
+          "key": "complete-wolf-phases",
+          "title": "Complete both snowfield battle phases",
+          "title_i18n": {
+            "en": "Complete both snowfield battle phases",
+            "pt": "Concluir as duas fases da batalha na neve"
+          },
+          "description": "Maintain your chosen combat approach and inspect the arena for earned rewards before progressing.",
+          "description_i18n": {
+            "en": "Maintain your chosen combat approach and inspect the arena for earned rewards before progressing.",
+            "pt": "Mantenha a abordagem de combate escolhida e procure recompensas obtidas antes de avançar."
+          }
+        },
+        {
+          "key": "reach-underground-base",
+          "title": "Reach the underground base",
+          "title_i18n": {
+            "en": "Reach the underground base",
+            "pt": "Chegar à base subterrânea"
+          },
+          "description": "Follow the newly available route and restock before entering the next major confrontation.",
+          "description_i18n": {
+            "en": "Follow the newly available route and restock before entering the next major confrontation.",
+            "pt": "Siga o caminho liberado e reabasteça-se antes do próximo confronto importante."
+          }
+        }
+      ]
+    },
+    {
+      "key": "act-four-underground-and-rex",
+      "title": "Act 4: the underground escape",
+      "title_i18n": {
+        "en": "Act 4: the underground escape",
+        "pt": "Ato 4: a fuga subterrânea"
+      },
+      "items": [
+        {
+          "key": "face-underground-opponent",
+          "title": "Face the underground opponent",
+          "title_i18n": {
+            "en": "Face the underground opponent",
+            "pt": "Enfrentar o adversário subterrâneo"
+          },
+          "description": "Prepare for the encounter inside the base and check your available support equipment before approaching.",
+          "description_i18n": {
+            "en": "Prepare for the encounter inside the base and check your available support equipment before approaching.",
+            "pt": "Prepare-se para o encontro na base e confira os equipamentos de apoio disponíveis antes de se aproximar."
+          }
+        },
+        {
+          "key": "resolve-vamp-encounter",
+          "title": "Resolve the Vamp encounter",
+          "title_i18n": {
+            "en": "Resolve the Vamp encounter",
+            "pt": "Resolver o confronto com Vamp"
+          },
+          "description": "Observe the opponent's recovery behavior and consult Details if ordinary attacks do not end the encounter.",
+          "description_i18n": {
+            "en": "Observe the opponent's recovery behavior and consult Details if ordinary attacks do not end the encounter.",
+            "pt": "Observe como o adversário se recupera e consulte os Detalhes se ataques comuns não encerrarem o confronto."
+          },
+          "details": "Ordinary damage brings Vamp down but does not by itself stop his recovery. Once you have reduced his bar and he begins getting back up, put the weapon away, select the Syringe and approach from behind for a CQC restraint. Use the displayed item action while holding him to administer it.\n\nTrying to inject from a distance or while he is still actively attacking will not complete this step. If the hold fails, create another opening and retry.",
+          "details_i18n": {
+            "en": "Ordinary damage brings Vamp down but does not by itself stop his recovery. Once you have reduced his bar and he begins getting back up, put the weapon away, select the Syringe and approach from behind for a CQC restraint. Use the displayed item action while holding him to administer it.\n\nTrying to inject from a distance or while he is still actively attacking will not complete this step. If the hold fails, create another opening and retry.",
+            "pt": "Dano comum derruba Vamp, mas não impede sozinho a recuperação. Depois de reduzir sua barra e quando ele começar a levantar, guarde a arma, selecione a Seringa e aproxime-se por trás para agarrá-lo com CQC. Use a ação de item indicada enquanto o segura para aplicar a injeção.\n\nTentar injetar de longe ou enquanto ele ainda ataca não conclui a etapa. Se o agarrão falhar, crie outra abertura e tente novamente."
+          }
+        },
+        {
+          "key": "support-underground-defense",
+          "title": "Support the underground defense",
+          "title_i18n": {
+            "en": "Support the underground defense",
+            "pt": "Apoiar a defesa subterrânea"
+          },
+          "description": "Handle the mechanical threats assigned to Snake while the other fight continues.",
+          "description_i18n": {
+            "en": "Handle the mechanical threats assigned to Snake while the other fight continues.",
+            "pt": "Enfrente as ameaças mecânicas atribuídas a Snake enquanto a outra luta continua."
+          }
+        },
+        {
+          "key": "board-metal-gear-rex",
+          "title": "Board Metal Gear REX",
+          "title_i18n": {
+            "en": "Board Metal Gear REX",
+            "pt": "Entrar em Metal Gear REX"
+          },
+          "description": "Follow the boarding sequence and learn the displayed movement and weapon controls.",
+          "description_i18n": {
+            "en": "Follow the boarding sequence and learn the displayed movement and weapon controls.",
+            "pt": "Acompanhe o embarque e aprenda os controles de movimento e armas exibidos."
+          }
+        },
+        {
+          "key": "escape-rex-corridors",
+          "title": "Escape the facility in REX",
+          "title_i18n": {
+            "en": "Escape the facility in REX",
+            "pt": "Escapar da instalação em REX"
+          },
+          "description": "Follow the exit route and remove obstacles without stopping unnecessarily under enemy fire.",
+          "description_i18n": {
+            "en": "Follow the exit route and remove obstacles without stopping unnecessarily under enemy fire.",
+            "pt": "Siga a rota de saída e remova obstáculos sem parar desnecessariamente sob disparos."
+          }
+        },
+        {
+          "key": "win-rex-ray-duel",
+          "title": "Win the REX versus RAY duel",
+          "title_i18n": {
+            "en": "Win the REX versus RAY duel",
+            "pt": "Vencer o duelo de REX contra RAY"
+          },
+          "description": "Use the machine's available movement and attack options; adapt to distance rather than relying on one weapon.",
+          "description_i18n": {
+            "en": "Use the machine's available movement and attack options; adapt to distance rather than relying on one weapon.",
+            "pt": "Use as opções de movimento e ataque da máquina; adapte-se à distância em vez de depender de uma arma só."
+          },
+          "details": "Use REX's boost to change distance quickly instead of walking under sustained fire. At close range, use the available physical attacks to interrupt RAY and create a follow-up opportunity. At longer range, use the displayed ranged weapon options and move again before the enemy can maintain a clear shot.\n\nDo not tunnel-vision on the reticle: check the machines' relative positions and avoid staying against arena edges where movement is restricted. This is a vehicle duel with its own controls; Snake's normal weapon inventory is not the solution. Learn the on-screen control legend and alternate movement with attacks rather than holding one firing position.",
+          "details_i18n": {
+            "en": "Use REX's boost to change distance quickly instead of walking under sustained fire. At close range, use the available physical attacks to interrupt RAY and create a follow-up opportunity. At longer range, use the displayed ranged weapon options and move again before the enemy can maintain a clear shot.\n\nDo not tunnel-vision on the reticle: check the machines' relative positions and avoid staying against arena edges where movement is restricted. This is a vehicle duel with its own controls; Snake's normal weapon inventory is not the solution. Learn the on-screen control legend and alternate movement with attacks rather than holding one firing position.",
+            "pt": "Use o impulso de REX para mudar de distância rapidamente, sem caminhar sob fogo contínuo. De perto, use os ataques físicos disponíveis para interromper RAY e criar uma oportunidade de sequência. De longe, use as armas exibidas e volte a se mover antes de o inimigo manter uma linha de tiro livre.\n\nNão se concentre apenas na mira: confira a posição das máquinas e evite ficar nas bordas, onde o movimento é limitado. É um duelo de veículos com controles próprios; o inventário normal de Snake não é a solução. Aprenda os comandos na tela e alterne movimento e ataques, sem manter uma posição fixa."
+          }
+        },
+        {
+          "key": "finish-twin-suns",
+          "title": "Finish Twin Suns",
+          "title_i18n": {
+            "en": "Finish Twin Suns",
+            "pt": "Concluir Twin Suns"
+          },
+          "description": "Complete the escape and act-ending scenes, then save before the final deployment.",
+          "description_i18n": {
+            "en": "Complete the escape and act-ending scenes, then save before the final deployment.",
+            "pt": "Conclua a fuga e as cenas finais do ato e salve antes da última missão."
+          }
+        }
+      ]
+    },
+    {
+      "key": "act-five-outer-haven",
+      "title": "Act 5: Outer Haven infiltration",
+      "title_i18n": {
+        "en": "Act 5: Outer Haven infiltration",
+        "pt": "Ato 5: infiltração em Outer Haven"
+      },
+      "items": [
+        {
+          "key": "review-final-briefing",
+          "title": "Review the final briefing",
+          "title_i18n": {
+            "en": "Review the final briefing",
+            "pt": "Revisar as últimas instruções"
+          },
+          "description": "Check ammunition, support items and the final mission objective before deployment.",
+          "description_i18n": {
+            "en": "Check ammunition, support items and the final mission objective before deployment.",
+            "pt": "Confira munição, itens de apoio e o objetivo final antes de partir."
+          }
+        },
+        {
+          "key": "land-outer-haven",
+          "title": "Land on Outer Haven",
+          "title_i18n": {
+            "en": "Land on Outer Haven",
+            "pt": "Desembarcar em Outer Haven"
+          },
+          "description": "Survey the deck from cover and identify the route toward the interior.",
+          "description_i18n": {
+            "en": "Survey the deck from cover and identify the route toward the interior.",
+            "pt": "Observe o convés da cobertura e identifique a rota até o interior."
+          }
+        },
+        {
+          "key": "pass-deck-patrols",
+          "title": "Pass the deck patrols",
+          "title_i18n": {
+            "en": "Pass the deck patrols",
+            "pt": "Passar pelas patrulhas do convés"
+          },
+          "description": "Move between cover and avoid being pinned between Haven Troopers and heavy security.",
+          "description_i18n": {
+            "en": "Move between cover and avoid being pinned between Haven Troopers and heavy security.",
+            "pt": "Avance entre coberturas e evite ficar preso entre Haven Troopers e a segurança pesada."
+          }
+        },
+        {
+          "key": "reach-interior-hatch",
+          "title": "Reach the interior access hatch",
+          "title_i18n": {
+            "en": "Reach the interior access hatch",
+            "pt": "Chegar à escotilha de acesso interno"
+          },
+          "description": "Wait for a safe opening to operate the access point instead of standing exposed while enemies are firing.",
+          "description_i18n": {
+            "en": "Wait for a safe opening to operate the access point instead of standing exposed while enemies are firing.",
+            "pt": "Espere uma abertura segura para operar o acesso, sem permanecer exposto durante os disparos."
+          }
+        },
+        {
+          "key": "advance-ship-interior",
+          "title": "Advance through the ship interior",
+          "title_i18n": {
+            "en": "Advance through the ship interior",
+            "pt": "Avançar pelo interior do navio"
+          },
+          "description": "Follow the mission route and preserve supplies for the remaining encounters.",
+          "description_i18n": {
+            "en": "Follow the mission route and preserve supplies for the remaining encounters.",
+            "pt": "Siga a rota da missão e preserve suprimentos para os confrontos restantes."
+          }
+        },
+        {
+          "key": "reach-command-room",
+          "title": "Reach the command-room encounter",
+          "title_i18n": {
+            "en": "Reach the command-room encounter",
+            "pt": "Chegar ao confronto na sala de comando"
+          },
+          "description": "Prepare before entering the next arena and pay attention to the equipment available for unusual problems.",
+          "description_i18n": {
+            "en": "Prepare before entering the next arena and pay attention to the equipment available for unusual problems.",
+            "pt": "Prepare-se antes de entrar na arena e observe os equipamentos disponíveis para situações incomuns."
+          }
+        }
+      ]
+    },
+    {
+      "key": "act-five-screaming-mantis",
+      "title": "Act 5: the command-room battle",
+      "title_i18n": {
+        "en": "Act 5: the command-room battle",
+        "pt": "Ato 5: a batalha na sala de comando"
+      },
+      "items": [
+        {
+          "key": "assess-mantis-arena",
+          "title": "Assess the command-room threat",
+          "title_i18n": {
+            "en": "Assess the command-room threat",
+            "pt": "Avaliar a ameaça na sala de comando"
+          },
+          "description": "Observe the opponent and surrounding characters before firing; avoid treating every moving figure as a valid target.",
+          "description_i18n": {
+            "en": "Observe the opponent and surrounding characters before firing; avoid treating every moving figure as a valid target.",
+            "pt": "Observe a adversária e as pessoas ao redor antes de atirar; nem toda figura em movimento é um alvo válido."
+          }
+        },
+        {
+          "key": "break-mantis-control",
+          "title": "Overcome the control interference",
+          "title_i18n": {
+            "en": "Overcome the control interference",
+            "pt": "Superar a interferência de controle"
+          },
+          "description": "If aiming or attacking behaves unexpectedly, pause to examine your equipment and the encounter's clues.",
+          "description_i18n": {
+            "en": "If aiming or attacking behaves unexpectedly, pause to examine your equipment and the encounter's clues.",
+            "pt": "Se a mira ou os ataques se comportarem de forma estranha, pare para examinar os equipamentos e pistas do encontro."
+          }
+        },
+        {
+          "key": "resolve-screaming-mantis",
+          "title": "Resolve Screaming Mantis's defense",
+          "title_i18n": {
+            "en": "Resolve Screaming Mantis's defense",
+            "pt": "Resolver a defesa de Screaming Mantis"
+          },
+          "description": "Use the encounter's special equipment interactions; the optional Details explain the full solution.",
+          "description_i18n": {
+            "en": "Use the encounter's special equipment interactions; the optional Details explain the full solution.",
+            "pt": "Use as interações especiais de equipamento; os Detalhes opcionais explicam a solução completa."
+          },
+          "details": "First use the Syringe on Snake to break the interference affecting him. Aim manually at the red Mantis Doll held by the boss rather than spending ammunition on her protected body. When the doll falls, collect it and equip it as a usable weapon. Target the boss with it and follow the displayed movement or shake action after the hit.\n\nThe Mantis Doll controls living targets; the Sorrow Doll concerns dead targets and is not the required boss-finishing tool. Both are different from the small Screaming Mantis collectible figure. Avoid killing controlled allies while creating an opening, and inspect the arena before finishing the Beauty phase if collecting the figure.",
+          "details_i18n": {
+            "en": "First use the Syringe on Snake to break the interference affecting him. Aim manually at the red Mantis Doll held by the boss rather than spending ammunition on her protected body. When the doll falls, collect it and equip it as a usable weapon. Target the boss with it and follow the displayed movement or shake action after the hit.\n\nThe Mantis Doll controls living targets; the Sorrow Doll concerns dead targets and is not the required boss-finishing tool. Both are different from the small Screaming Mantis collectible figure. Avoid killing controlled allies while creating an opening, and inspect the arena before finishing the Beauty phase if collecting the figure.",
+            "pt": "Primeiro use a Seringa no próprio Snake para interromper a interferência que o afeta. Mire manualmente no boneco Mantis vermelho segurado pela chefe, sem gastar munição no corpo protegido. Quando o boneco cair, recolha-o e equipe-o como arma utilizável. Acerte a chefe com ele e siga o comando de movimento ou sacudida exibido após o acerto.\n\nO boneco Mantis controla alvos vivos; o Sorrow atua sobre mortos e não é a ferramenta necessária para terminar a luta. Ambos são diferentes da figura colecionável Screaming Mantis. Evite matar aliados controlados ao criar uma abertura e examine a arena antes de concluir Beauty se estiver coletando a figura."
+          }
+        },
+        {
+          "key": "finish-screaming-beauty",
+          "title": "Complete the follow-up encounter",
+          "title_i18n": {
+            "en": "Complete the follow-up encounter",
+            "pt": "Concluir o confronto seguinte"
+          },
+          "description": "Keep a safe distance and finish using the combat approach chosen for this run.",
+          "description_i18n": {
+            "en": "Keep a safe distance and finish using the combat approach chosen for this run.",
+            "pt": "Mantenha distância segura e termine com a abordagem de combate escolhida para esta campanha."
+          }
+        },
+        {
+          "key": "inspect-command-room-rewards",
+          "title": "Inspect the command-room rewards",
+          "title_i18n": {
+            "en": "Inspect the command-room rewards",
+            "pt": "Examinar as recompensas da sala de comando"
+          },
+          "description": "Check the arena before leaving, keeping usable special items distinct from collectible figures.",
+          "description_i18n": {
+            "en": "Check the arena before leaving, keeping usable special items distinct from collectible figures.",
+            "pt": "Examine a arena antes de sair, distinguindo itens especiais utilizáveis das figuras colecionáveis."
+          }
+        }
+      ]
+    },
+    {
+      "key": "act-five-final-push",
+      "title": "Act 5: the final push and ending",
+      "title_i18n": {
+        "en": "Act 5: the final push and ending",
+        "pt": "Ato 5: o avanço final e o encerramento"
+      },
+      "items": [
+        {
+          "key": "reach-final-corridor",
+          "title": "Reach the final corridor",
+          "title_i18n": {
+            "en": "Reach the final corridor",
+            "pt": "Chegar ao último corredor"
+          },
+          "description": "Continue along the remaining route and follow the team's instructions.",
+          "description_i18n": {
+            "en": "Continue along the remaining route and follow the team's instructions.",
+            "pt": "Continue pelo caminho restante e siga as instruções da equipe."
+          }
+        },
+        {
+          "key": "cross-microwave-corridor",
+          "title": "Cross the hazardous corridor",
+          "title_i18n": {
+            "en": "Cross the hazardous corridor",
+            "pt": "Atravessar o corredor perigoso"
+          },
+          "description": "Follow the on-screen movement and action prompts through the entire sequence.",
+          "description_i18n": {
+            "en": "Follow the on-screen movement and action prompts through the entire sequence.",
+            "pt": "Siga os comandos de movimento e ação exibidos durante toda a sequência."
+          },
+          "details": "Keep following the movement prompts as Snake's condition deteriorates, then repeatedly press the indicated action button when the sequence requires it. On the original PS3 controls this is the Triangle prompt. Continue responding until the game clearly advances; a slow crawl or apparent collapse does not mean the input sequence has ended.\n\nWatch Snake's part of the split-screen without assuming the other panels are interactive targets. The important task is maintaining the required input through the corridor, not opening the weapon menu or finding an alternate route. If the attempt fails, retry from the available checkpoint and begin the repeated input promptly.",
+          "details_i18n": {
+            "en": "Keep following the movement prompts as Snake's condition deteriorates, then repeatedly press the indicated action button when the sequence requires it. On the original PS3 controls this is the Triangle prompt. Continue responding until the game clearly advances; a slow crawl or apparent collapse does not mean the input sequence has ended.\n\nWatch Snake's part of the split-screen without assuming the other panels are interactive targets. The important task is maintaining the required input through the corridor, not opening the weapon menu or finding an alternate route. If the attempt fails, retry from the available checkpoint and begin the repeated input promptly.",
+            "pt": "Continue seguindo os comandos de movimento enquanto a condição de Snake piora e aperte repetidamente a ação indicada quando a sequência exigir. Nos controles originais do PS3, aparece o comando Triângulo. Continue até o jogo avançar claramente; rastejar devagar ou aparentar desabar não significa que a sequência de comandos terminou.\n\nObserve a parte de Snake na tela dividida sem presumir que os outros painéis sejam alvos interativos. O importante é manter o comando exigido durante o corredor, não abrir o menu de armas ou buscar outro caminho. Se falhar, retome pelo checkpoint disponível e comece prontamente a repetição do comando."
+          }
+        },
+        {
+          "key": "complete-final-system-objective",
+          "title": "Complete the final system objective",
+          "title_i18n": {
+            "en": "Complete the final system objective",
+            "pt": "Concluir o último objetivo do sistema"
+          },
+          "description": "Stay with the sequence until the operation completes, then watch the transition to the final confrontation.",
+          "description_i18n": {
+            "en": "Stay with the sequence until the operation completes, then watch the transition to the final confrontation.",
+            "pt": "Acompanhe a sequência até a operação terminar e veja a transição ao último confronto."
+          }
+        },
+        {
+          "key": "win-final-duel",
+          "title": "Win the final duel",
+          "title_i18n": {
+            "en": "Win the final duel",
+            "pt": "Vencer o último duelo"
+          },
+          "description": "Adapt to each combat phase, using guard, spacing and the displayed close-combat actions.",
+          "description_i18n": {
+            "en": "Adapt to each combat phase, using guard, spacing and the displayed close-combat actions.",
+            "pt": "Adapte-se a cada fase, usando defesa, distância e as ações de combate próximo exibidas."
+          }
+        },
+        {
+          "key": "watch-ending-epilogue",
+          "title": "Watch the ending and epilogue",
+          "title_i18n": {
+            "en": "Watch the ending and epilogue",
+            "pt": "Assistir ao final e ao epílogo"
+          },
+          "description": "Continue through the credits and remaining scenes without assuming the first closing sequence is the last.",
+          "description_i18n": {
+            "en": "Continue through the credits and remaining scenes without assuming the first closing sequence is the last.",
+            "pt": "Veja os créditos e as cenas restantes sem presumir que a primeira sequência de encerramento seja a última."
+          }
+        },
+        {
+          "key": "save-completed-game",
+          "title": "Save the completed-game data",
+          "title_i18n": {
+            "en": "Save the completed-game data",
+            "pt": "Salvar os dados da campanha concluída"
+          },
+          "description": "Review the results and save clear data when prompted so compatible replay progress can be retained.",
+          "description_i18n": {
+            "en": "Review the results and save clear data when prompted so compatible replay progress can be retained.",
+            "pt": "Confira os resultados e salve a conclusão quando solicitado para preservar o progresso compatível nas repetições."
+          }
+        }
+      ]
+    },
+    {
+      "key": "selected-personal-challenges",
+      "title": "Selected optional personal challenges",
+      "title_i18n": {
+        "en": "Selected optional personal challenges",
+        "pt": "Desafios pessoais opcionais selecionados"
+      },
+      "items": [
+        {
+          "key": "cross-area-without-alert",
+          "title": "Cross a patrol area without an alert",
+          "title_i18n": {
+            "en": "Cross a patrol area without an alert",
+            "pt": "Atravessar uma área patrulhada sem alerta"
+          },
+          "description": "Choose one normal infiltration section and reach the exit unseen; this local goal excludes scripted battles.",
+          "description_i18n": {
+            "en": "Choose one normal infiltration section and reach the exit unseen; this local goal excludes scripted battles.",
+            "pt": "Escolha um trecho comum de infiltração e alcance a saída sem ser visto; esta meta local exclui batalhas obrigatórias."
+          }
+        },
+        {
+          "key": "practice-nonlethal-hold-up",
+          "title": "Perform a controlled nonlethal hold-up",
+          "title_i18n": {
+            "en": "Perform a controlled nonlethal hold-up",
+            "pt": "Render um guarda sem matá-lo"
+          },
+          "description": "Choose an isolated soldier, secure the situation and leave without using lethal attacks.",
+          "description_i18n": {
+            "en": "Choose an isolated soldier, secure the situation and leave without using lethal attacks.",
+            "pt": "Escolha um soldado isolado, controle a situação e saia sem usar ataques letais."
+          }
+        },
+        {
+          "key": "use-mk-two-reconnaissance",
+          "title": "Scout a route with Mk. II or Mk. III",
+          "title_i18n": {
+            "en": "Scout a route with Mk. II or Mk. III",
+            "pt": "Reconhecer uma rota com Mk. II ou Mk. III"
+          },
+          "description": "Inspect a guarded passage remotely before moving Snake into it; recover safely when the reconnaissance is complete.",
+          "description_i18n": {
+            "en": "Inspect a guarded passage remotely before moving Snake into it; recover safely when the reconnaissance is complete.",
+            "pt": "Examine remotamente uma passagem vigiada antes de levar Snake até ela; encerre o reconhecimento em segurança."
+          }
+        },
+        {
+          "key": "configure-drebin-attachment",
+          "title": "Test a Drebin weapon attachment",
+          "title_i18n": {
+            "en": "Test a Drebin weapon attachment",
+            "pt": "Testar um acessório de arma de Drebin"
+          },
+          "description": "Buy an appropriate attachment for an available weapon and compare its practical handling before choosing a loadout.",
+          "description_i18n": {
+            "en": "Buy an appropriate attachment for an available weapon and compare its practical handling before choosing a loadout.",
+            "pt": "Compre um acessório adequado para uma arma disponível e compare seu comportamento antes de escolher o equipamento."
+          }
+        },
+        {
+          "key": "complete-nonlethal-beauty",
+          "title": "Complete a Beauty phase nonlethally",
+          "title_i18n": {
+            "en": "Complete a Beauty phase nonlethally",
+            "pt": "Concluir uma fase Beauty sem matar"
+          },
+          "description": "Use tranquilizer ammunition during one follow-up boss phase and inspect the resulting FaceCamo reward.",
+          "description_i18n": {
+            "en": "Use tranquilizer ammunition during one follow-up boss phase and inspect the resulting FaceCamo reward.",
+            "pt": "Use munição tranquilizante numa fase seguinte de chefe e confira a FaceCamo recebida."
+          }
+        },
+        {
+          "key": "review-completion-results",
+          "title": "Review results before planning a replay",
+          "title_i18n": {
+            "en": "Review results before planning a replay",
+            "pt": "Revisar os resultados antes de planejar uma repetição"
+          },
+          "description": "Record the emblem and statistics from a completed run, then choose one improvement rather than assuming every collectible fits one playthrough.",
+          "description_i18n": {
+            "en": "Record the emblem and statistics from a completed run, then choose one improvement rather than assuming every collectible fits one playthrough.",
+            "pt": "Anote o emblema e as estatísticas da conclusão e escolha uma melhoria, sem presumir que todos os colecionáveis cabem numa campanha só."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "aggregate-collection-goals",
+      "title": "Optional aggregate collection goals",
+      "title_i18n": {
+        "en": "Optional aggregate collection goals",
+        "pt": "Metas opcionais conjuntas de coleção"
+      },
+      "items": [
+        {
+          "key": "collect-five-battle-dolls",
+          "title": "Collect the five battle dolls",
+          "title_i18n": {
+            "en": "Collect the five battle dolls",
+            "pt": "Obter as cinco figuras de combate"
+          },
+          "description": "Track the Haven Trooper reward and four armored-boss rewards separately; detailed locations are outside this aggregate goal.",
+          "description_i18n": {
+            "en": "Track the Haven Trooper reward and four armored-boss rewards separately; detailed locations are outside this aggregate goal.",
+            "pt": "Acompanhe a recompensa das Haven Troopers e as quatro recompensas dos chefes com armadura separadamente; esta meta conjunta não enumera localizações."
+          }
+        },
+        {
+          "key": "collect-ipod-tracks",
+          "title": "Complete the required iPod track collection",
+          "title_i18n": {
+            "en": "Complete the required iPod track collection",
+            "pt": "Completar a coleção exigida de músicas do iPod"
+          },
+          "description": "Track exploration and emblem rewards across compatible replays; PS3 password-exclusive tracks are excluded from the associated trophy.",
+          "description_i18n": {
+            "en": "Track exploration and emblem rewards across compatible replays; PS3 password-exclusive tracks are excluded from the associated trophy.",
+            "pt": "Acompanhe recompensas de exploração e emblemas nas repetições compatíveis; músicas exclusivas de senha do PS3 não contam para o troféu correspondente."
+          }
+        },
+        {
+          "key": "collect-weapon-catalog",
+          "title": "Complete the required weapon collection",
+          "title_i18n": {
+            "en": "Complete the required weapon collection",
+            "pt": "Completar a coleção exigida de armas"
+          },
+          "description": "Track pickups, Drebin purchases and unlocks across replays; password-exclusive weapons are outside the associated PS3 trophy requirement.",
+          "description_i18n": {
+            "en": "Track pickups, Drebin purchases and unlocks across replays; password-exclusive weapons are outside the associated PS3 trophy requirement.",
+            "pt": "Acompanhe itens encontrados, compras de Drebin e desbloqueios nas repetições; armas exclusivas de senha ficam fora do requisito do troféu de PS3."
+          }
+        },
+        {
+          "key": "collect-ten-facecamos",
+          "title": "Collect ten qualifying FaceCamo types",
+          "title_i18n": {
+            "en": "Collect ten qualifying FaceCamo types",
+            "pt": "Obter dez tipos válidos de FaceCamo"
+          },
+          "description": "Combine story, briefing and boss rewards; password-obtained types do not count toward the related PS3 trophy.",
+          "description_i18n": {
+            "en": "Combine story, briefing and boss rewards; password-obtained types do not count toward the related PS3 trophy.",
+            "pt": "Combine recompensas de história, instruções e chefes; tipos obtidos por senha não contam para o troféu relacionado no PS3."
+          }
+        },
+        {
+          "key": "collect-forty-emblems",
+          "title": "Long-term goal: collect all forty emblems",
+          "title_i18n": {
+            "en": "Long-term goal: collect all forty emblems",
+            "pt": "Meta de longo prazo: obter os quarenta emblemas"
+          },
+          "description": "Use separate replay plans for incompatible rank requirements; this aggregate milestone is not a full emblem-condition guide.",
+          "description_i18n": {
+            "en": "Use separate replay plans for incompatible rank requirements; this aggregate milestone is not a full emblem-condition guide.",
+            "pt": "Planeje repetições separadas para requisitos incompatíveis de classificação; esta meta conjunta não é um guia completo das condições de cada emblema."
+          }
+        }
+      ],
+      "kind": "collectible"
+    }
+  ],
+  "trophies": [
+    {
+      "key": "the-legendary-hero",
+      "title": "The Legendary Hero",
+      "title_i18n": {
+        "en": "The Legendary Hero",
+        "pt": "The Legendary Hero"
+      },
+      "description": "Earn all other trophies in the PS3 list.",
+      "description_i18n": {
+        "en": "Earn all other trophies in the PS3 list.",
+        "pt": "Obtenha todos os outros troféus da lista de PS3."
+      },
+      "tier": "platinum"
+    },
+    {
+      "key": "liquid-sun",
+      "title": "Liquid Sun",
+      "title_i18n": {
+        "en": "Liquid Sun",
+        "pt": "Liquid Sun"
+      },
+      "description": "Finish Act 1 in the Middle East.",
+      "description_i18n": {
+        "en": "Finish Act 1 in the Middle East.",
+        "pt": "Termine o Ato 1 no Oriente Médio."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "solid-sun",
+      "title": "Solid Sun",
+      "title_i18n": {
+        "en": "Solid Sun",
+        "pt": "Solid Sun"
+      },
+      "description": "Finish Act 2 in South America.",
+      "description_i18n": {
+        "en": "Finish Act 2 in South America.",
+        "pt": "Termine o Ato 2 na América do Sul."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "third-sun",
+      "title": "Third Sun",
+      "title_i18n": {
+        "en": "Third Sun",
+        "pt": "Third Sun"
+      },
+      "description": "Finish Act 3 in Eastern Europe.",
+      "description_i18n": {
+        "en": "Finish Act 3 in Eastern Europe.",
+        "pt": "Termine o Ato 3 na Europa Oriental."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "twin-suns",
+      "title": "Twin Suns",
+      "title_i18n": {
+        "en": "Twin Suns",
+        "pt": "Twin Suns"
+      },
+      "description": "Finish Act 4 at Shadow Moses.",
+      "description_i18n": {
+        "en": "Finish Act 4 at Shadow Moses.",
+        "pt": "Termine o Ato 4 em Shadow Moses."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "old-sun",
+      "title": "Old Sun",
+      "title_i18n": {
+        "en": "Old Sun",
+        "pt": "Old Sun"
+      },
+      "description": "Finish Act 5 and the main campaign.",
+      "description_i18n": {
+        "en": "Finish Act 5 and the main campaign.",
+        "pt": "Termine o Ato 5 e a campanha principal."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "you-enjoy-all-the-killing",
+      "title": "You enjoy all the killing, that's why.",
+      "title_i18n": {
+        "en": "You enjoy all the killing, that's why.",
+        "pt": "You enjoy all the killing, that's why."
+      },
+      "description": "Keep defeating enemies in one area until Snake experiences the required vomiting reaction.",
+      "description_i18n": {
+        "en": "Keep defeating enemies in one area until Snake experiences the required vomiting reaction.",
+        "pt": "Continue derrotando inimigos numa área até Snake apresentar a reação de vômito exigida."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "laughing-octopus-doll",
+      "title": "Laughing Octopus Doll",
+      "title_i18n": {
+        "en": "Laughing Octopus Doll",
+        "pt": "Laughing Octopus Doll"
+      },
+      "description": "Exhaust Laughing Octopus's armored-form stamina with nonlethal attacks, then collect the doll during the Beauty phase.",
+      "description_i18n": {
+        "en": "Exhaust Laughing Octopus's armored-form stamina with nonlethal attacks, then collect the doll during the Beauty phase.",
+        "pt": "Esgote o vigor da forma com armadura de Laughing Octopus usando ataques não letais e pegue a figura durante a fase Beauty."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "frog-soldier-doll",
+      "title": "Frog Soldier Doll",
+      "title_i18n": {
+        "en": "Frog Soldier Doll",
+        "pt": "Frog Soldier Doll"
+      },
+      "description": "Complete the Act 1 Haven Trooper assault nonlethally and collect the Frog Soldier Doll at the palace exit.",
+      "description_i18n": {
+        "en": "Complete the Act 1 Haven Trooper assault nonlethally and collect the Frog Soldier Doll at the palace exit.",
+        "pt": "Conclua sem matar o ataque das Haven Troopers no Ato 1 e pegue a figura Frog Soldier na saída do palácio."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "raging-raven-doll",
+      "title": "Raging Raven Doll",
+      "title_i18n": {
+        "en": "Raging Raven Doll",
+        "pt": "Raging Raven Doll"
+      },
+      "description": "Defeat Raging Raven's armored form by stamina depletion, then collect the doll on the tower's upper level.",
+      "description_i18n": {
+        "en": "Defeat Raging Raven's armored form by stamina depletion, then collect the doll on the tower's upper level.",
+        "pt": "Derrote a forma com armadura de Raging Raven esgotando o vigor e pegue a figura no andar superior da torre."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "crying-wolf-doll",
+      "title": "Crying Wolf Doll",
+      "title_i18n": {
+        "en": "Crying Wolf Doll",
+        "pt": "Crying Wolf Doll"
+      },
+      "description": "Defeat Crying Wolf's armored form with nonlethal damage and collect the figure when the Beauty phase starts.",
+      "description_i18n": {
+        "en": "Defeat Crying Wolf's armored form with nonlethal damage and collect the figure when the Beauty phase starts.",
+        "pt": "Derrote a forma com armadura de Crying Wolf com dano não letal e pegue a figura quando a fase Beauty começar."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "screaming-mantis-doll",
+      "title": "Screaming Mantis Doll",
+      "title_i18n": {
+        "en": "Screaming Mantis Doll",
+        "pt": "Screaming Mantis Doll"
+      },
+      "description": "Complete the armored encounter using its required doll technique, then collect the small Screaming Mantis figure before leaving the Beauty encounter.",
+      "description_i18n": {
+        "en": "Complete the armored encounter using its required doll technique, then collect the small Screaming Mantis figure before leaving the Beauty encounter.",
+        "pt": "Conclua o encontro com armadura usando a técnica exigida dos bonecos e pegue a pequena figura Screaming Mantis antes de sair do encontro Beauty."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "divine-wind",
+      "title": "Divine Wind",
+      "title_i18n": {
+        "en": "Divine Wind",
+        "pt": "Divine Wind"
+      },
+      "description": "Use the Tanegashima outdoors until its special wind effect activates.",
+      "description_i18n": {
+        "en": "Use the Tanegashima outdoors until its special wind effect activates.",
+        "pt": "Use a Tanegashima ao ar livre até ativar o efeito especial de vento."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "handle-with-caution",
+      "title": "Handle with Caution",
+      "title_i18n": {
+        "en": "Handle with Caution",
+        "pt": "Handle with Caution"
+      },
+      "description": "Use the statue disguise interaction in Act 1 until Snake breaks the statue's protruding part.",
+      "description_i18n": {
+        "en": "Use the statue disguise interaction in Act 1 until Snake breaks the statue's protruding part.",
+        "pt": "Use a interação de disfarce na estátua do Ato 1 até Snake quebrar a parte saliente dela."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "hands-up",
+      "title": "Hands Up!",
+      "title_i18n": {
+        "en": "Hands Up!",
+        "pt": "Hands Up!"
+      },
+      "description": "Hold up a soldier and complete the body-search interaction.",
+      "description_i18n": {
+        "en": "Hold up a soldier and complete the body-search interaction.",
+        "pt": "Renda um soldado e conclua a interação de revista corporal."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "flashback-mania",
+      "title": "Flashback Mania",
+      "title_i18n": {
+        "en": "Flashback Mania",
+        "pt": "Flashback Mania"
+      },
+      "description": "Activate every required cutscene flashback when its prompt appears; track missed prompts with separate saves.",
+      "description_i18n": {
+        "en": "Activate every required cutscene flashback when its prompt appears; track missed prompts with separate saves.",
+        "pt": "Ative todos os flashbacks obrigatórios das cenas quando aparecer o comando; acompanhe os perdidos com salvamentos separados."
+      },
+      "tier": "gold"
+    },
+    {
+      "key": "sunlight",
+      "title": "SUNLIGHT!",
+      "title_i18n": {
+        "en": "SUNLIGHT!",
+        "pt": "SUNLIGHT!"
+      },
+      "description": "Collect the five qualifying nonlethal battle dolls and finish the game to receive the Solar Gun.",
+      "description_i18n": {
+        "en": "Collect the five qualifying nonlethal battle dolls and finish the game to receive the Solar Gun.",
+        "pt": "Pegue as cinco figuras válidas de encontros não letais e termine o jogo para receber a Solar Gun."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "sounds-of-the-battlefield",
+      "title": "Sounds of the Battlefield",
+      "title_i18n": {
+        "en": "Sounds of the Battlefield",
+        "pt": "Sounds of the Battlefield"
+      },
+      "description": "Obtain all trophy-required iPod tracks, including emblem rewards; PS3 password-only tracks are excluded.",
+      "description_i18n": {
+        "en": "Obtain all trophy-required iPod tracks, including emblem rewards; PS3 password-only tracks are excluded.",
+        "pt": "Obtenha todas as músicas exigidas do iPod, incluindo recompensas de emblemas; as exclusivas de senha do PS3 ficam excluídas."
+      },
+      "tier": "gold"
+    },
+    {
+      "key": "i-just-dont-fear-death",
+      "title": "I Just Don't Fear Death",
+      "title_i18n": {
+        "en": "I Just Don't Fear Death",
+        "pt": "I Just Don't Fear Death"
+      },
+      "description": "After obtaining Corpse Camo, let an ALERT end while Snake is wearing it.",
+      "description_i18n": {
+        "en": "After obtaining Corpse Camo, let an ALERT end while Snake is wearing it.",
+        "pt": "Depois de obter Corpse Camo, deixe um ALERT terminar enquanto Snake a estiver vestindo."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "expert-on-weapons",
+      "title": "I am THE expert on weapons",
+      "title_i18n": {
+        "en": "I am THE expert on weapons",
+        "pt": "I am THE expert on weapons"
+      },
+      "description": "Obtain every weapon required by the PS3 trophy, excluding password-only weapons.",
+      "description_i18n": {
+        "en": "Obtain every weapon required by the PS3 trophy, excluding password-only weapons.",
+        "pt": "Obtenha todas as armas exigidas pelo troféu de PS3, excluindo as exclusivas de senha."
+      },
+      "tier": "gold"
+    },
+    {
+      "key": "infinite-ammo",
+      "title": "Infinite ammo.",
+      "title_i18n": {
+        "en": "Infinite ammo.",
+        "pt": "Infinite ammo."
+      },
+      "description": "Obtain the Bandana through its no-kill completion reward or Drebin's purchase option.",
+      "description_i18n": {
+        "en": "Obtain the Bandana through its no-kill completion reward or Drebin's purchase option.",
+        "pt": "Obtenha a Bandana pela recompensa de conclusão sem mortes ou pela opção de compra de Drebin."
+      },
+      "tier": "gold"
+    },
+    {
+      "key": "stealth-camouflage",
+      "title": "Stealth Camouflage",
+      "title_i18n": {
+        "en": "Stealth Camouflage",
+        "pt": "Stealth Camouflage"
+      },
+      "description": "Obtain Stealth Camouflage through its no-alert completion reward or Drebin's purchase option.",
+      "description_i18n": {
+        "en": "Obtain Stealth Camouflage through its no-alert completion reward or Drebin's purchase option.",
+        "pt": "Obtenha Stealth Camouflage pela conclusão sem alertas ou pela opção de compra de Drebin."
+      },
+      "tier": "gold"
+    },
+    {
+      "key": "ghost-photography-addict",
+      "title": "Ghost Photography Addict",
+      "title_i18n": {
+        "en": "Ghost Photography Addict",
+        "pt": "Ghost Photography Addict"
+      },
+      "description": "Use the Camera to photograph at least five ghosts on Shadow Moses.",
+      "description_i18n": {
+        "en": "Use the Camera to photograph at least five ghosts on Shadow Moses.",
+        "pt": "Use a Câmera para fotografar pelo menos cinco fantasmas em Shadow Moses."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "facecamo-addict",
+      "title": "FaceCamo Addict",
+      "title_i18n": {
+        "en": "FaceCamo Addict",
+        "pt": "FaceCamo Addict"
+      },
+      "description": "Obtain at least ten qualifying FaceCamo types; password-obtained types do not count.",
+      "description_i18n": {
+        "en": "Obtain at least ten qualifying FaceCamo types; password-obtained types do not count.",
+        "pt": "Obtenha pelo menos dez tipos válidos de FaceCamo; os obtidos por senha não contam."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "can-you-feel-my-power-now",
+      "title": "Can you feel my power now!!!?",
+      "title_i18n": {
+        "en": "Can you feel my power now!!!?",
+        "pt": "Can you feel my power now!!!?"
+      },
+      "description": "Use the usable Mantis Doll or Sorrow Doll to take control of an enemy soldier.",
+      "description_i18n": {
+        "en": "Use the usable Mantis Doll or Sorrow Doll to take control of an enemy soldier.",
+        "pt": "Use o boneco Mantis ou Sorrow utilizável para controlar um soldado inimigo."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "emotion-control",
+      "title": "Emotion Control",
+      "title_i18n": {
+        "en": "Emotion Control",
+        "pt": "Emotion Control"
+      },
+      "description": "Make an enemy react to an Emotive Magazine; special Emotion ammunition is not the requirement.",
+      "description_i18n": {
+        "en": "Make an enemy react to an Emotive Magazine; special Emotion ammunition is not the requirement.",
+        "pt": "Faça um inimigo reagir a uma Emotive Magazine; munição especial de Emoção não é o requisito."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "hurt-me-more",
+      "title": "Hurt me more!",
+      "title_i18n": {
+        "en": "Hurt me more!",
+        "pt": "Hurt me more!"
+      },
+      "description": "Use Mk. II or Mk. III to deliver an electric shock to an enemy soldier.",
+      "description_i18n": {
+        "en": "Use Mk. II or Mk. III to deliver an electric shock to an enemy soldier.",
+        "pt": "Use Mk. II ou Mk. III para dar um choque elétrico num soldado inimigo."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "drum-can-addict",
+      "title": "Drum Can Addict",
+      "title_i18n": {
+        "en": "Drum Can Addict",
+        "pt": "Drum Can Addict"
+      },
+      "description": "Roll the Drum Can into a soldier hard enough to send him flying.",
+      "description_i18n": {
+        "en": "Roll the Drum Can into a soldier hard enough to send him flying.",
+        "pt": "Role o Drum Can contra um soldado com força suficiente para lançá-lo."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "crop-circle",
+      "title": "Crop Circle",
+      "title_i18n": {
+        "en": "Crop Circle",
+        "pt": "Crop Circle"
+      },
+      "description": "Find the flattened crop-circle area in Act 2 and stay there until the unusual voice event occurs.",
+      "description_i18n": {
+        "en": "Find the flattened crop-circle area in Act 2 and stay there until the unusual voice event occurs.",
+        "pt": "Encontre a área de vegetação achatada do círculo no Ato 2 e permaneça até acontecer o evento da voz incomum."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "are-you-an-otaku-too",
+      "title": "Are you an Otaku too?",
+      "title_i18n": {
+        "en": "Are you an Otaku too?",
+        "pt": "Are you an Otaku too?"
+      },
+      "description": "Examine every required model poster in Act 2's laboratory.",
+      "description_i18n": {
+        "en": "Examine every required model poster in Act 2's laboratory.",
+        "pt": "Examine todos os pôsteres de modelos exigidos no laboratório do Ato 2."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "youre-pretty-good",
+      "title": "You're pretty good.",
+      "title_i18n": {
+        "en": "You're pretty good.",
+        "pt": "You're pretty good."
+      },
+      "description": "During the appropriate phase of the final duel, let Ocelot's hold continue until the kiss animation occurs.",
+      "description_i18n": {
+        "en": "During the appropriate phase of the final duel, let Ocelot's hold continue until the kiss animation occurs.",
+        "pt": "Na fase adequada do último duelo, deixe o agarrão de Ocelot continuar até acontecer a animação do beijo."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "that-tune-is-his-mind-control-music",
+      "title": "That Tune Is His Mind Control Music",
+      "title_i18n": {
+        "en": "That Tune Is His Mind Control Music",
+        "pt": "That Tune Is His Mind Control Music"
+      },
+      "description": "Reach a Beauty encounter's white-room sequence and play Oishii Two-han Seikatsu on the iPod to trigger the dance.",
+      "description_i18n": {
+        "en": "Reach a Beauty encounter's white-room sequence and play Oishii Two-han Seikatsu on the iPod to trigger the dance.",
+        "pt": "Chegue à sequência da sala branca num encontro Beauty e toque Oishii Two-han Seikatsu no iPod para iniciar a dança."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "overhead-view-just-like-old-times",
+      "title": "Overhead view -- just like old times...",
+      "title_i18n": {
+        "en": "Overhead view -- just like old times...",
+        "pt": "Overhead view -- just like old times..."
+      },
+      "description": "At the Shadow Moses helipad, adjust the camera to recreate the overhead view.",
+      "description_i18n": {
+        "en": "At the Shadow Moses helipad, adjust the camera to recreate the overhead view.",
+        "pt": "No heliporto de Shadow Moses, ajuste a câmera para recriar a visão de cima."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "liquid",
+      "title": "LIQUID!",
+      "title_i18n": {
+        "en": "LIQUID!",
+        "pt": "LIQUID!"
+      },
+      "description": "While piloting REX in its duel, use the Triangle action to make Snake call out.",
+      "description_i18n": {
+        "en": "While piloting REX in its duel, use the Triangle action to make Snake call out.",
+        "pt": "Enquanto pilota REX no duelo, use a ação Triângulo para Snake gritar."
+      },
+      "tier": "bronze"
+    }
+  ],
+  "hltb_id": "5916",
+  "hltb_main_hours": 18,
+  "hltb_main_extra_hours": 21,
+  "hltb_completionist_hours": 38
+}

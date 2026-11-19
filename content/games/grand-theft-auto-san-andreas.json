@@ -1,0 +1,2554 @@
+{
+  "slug": "grand-theft-auto-san-andreas",
+  "title": "Grand Theft Auto: San Andreas",
+  "title_i18n": {
+    "en": "Grand Theft Auto: San Andreas",
+    "pt": "Grand Theft Auto: San Andreas"
+  },
+  "platform": "PlayStation 2",
+  "cover_url": "/covers/grand-theft-auto-san-andreas.png",
+  "created_by": "dd5c4bf0-85ea-4986-9c04-b37e8c986150",
+  "categories": [
+    {
+      "key": "los-santos-homecoming",
+      "title": "Los Santos: homecoming",
+      "title_i18n": {
+        "en": "Los Santos: homecoming",
+        "pt": "Los Santos: volta para casa"
+      },
+      "items": [
+        {
+          "key": "begin-original-ps2-campaign",
+          "title": "Begin the original PS2 campaign",
+          "title_i18n": {
+            "en": "Begin the original PS2 campaign",
+            "pt": "Iniciar a campanha original de PS2"
+          },
+          "description": "Use the 2004 original controls and saving; later mobile-port and remaster conveniences are not assumed.",
+          "description_i18n": {
+            "en": "Use the 2004 original controls and saving; later mobile-port and remaster conveniences are not assumed.",
+            "pt": "Use os controles e o salvamento originais de 2004; não são pressupostas facilidades do port mobile nem do remaster."
+          }
+        },
+        {
+          "key": "learn-food-fitness-and-saving",
+          "title": "Learn food, fitness and saving",
+          "title_i18n": {
+            "en": "Learn food, fitness and saving",
+            "pt": "Aprender alimentação, condicionamento e salvamento"
+          },
+          "description": "Manage health and stamina, practice the controls and save regularly between missions.",
+          "description_i18n": {
+            "en": "Manage health and stamina, practice the controls and save regularly between missions.",
+            "pt": "Cuide da saúde e da resistência, pratique os controles e salve frequentemente entre missões."
+          }
+        },
+        {
+          "key": "in-the-beginning",
+          "title": "Complete In The Beginning",
+          "title_i18n": {
+            "en": "Complete In The Beginning",
+            "pt": "Concluir In The Beginning"
+          },
+          "description": "Follow the opening and reach the neighborhood.",
+          "description_i18n": {
+            "en": "Follow the opening and reach the neighborhood.",
+            "pt": "Acompanhe a abertura e chegue ao bairro."
+          }
+        },
+        {
+          "key": "big-smoke",
+          "title": "Complete Big Smoke",
+          "title_i18n": {
+            "en": "Complete Big Smoke",
+            "pt": "Concluir Big Smoke"
+          },
+          "description": "Visit the family home and follow the reunion.",
+          "description_i18n": {
+            "en": "Visit the family home and follow the reunion.",
+            "pt": "Visite a casa da família e acompanhe o reencontro."
+          }
+        },
+        {
+          "key": "sweet-kendl",
+          "title": "Complete Sweet & Kendl",
+          "title_i18n": {
+            "en": "Complete Sweet & Kendl",
+            "pt": "Concluir Sweet & Kendl"
+          },
+          "description": "Stay with the bicycle group and reach safety.",
+          "description_i18n": {
+            "en": "Stay with the bicycle group and reach safety.",
+            "pt": "Acompanhe o grupo de bicicletas e alcance a segurança."
+          }
+        },
+        {
+          "key": "ryder",
+          "title": "Complete Ryder",
+          "title_i18n": {
+            "en": "Complete Ryder",
+            "pt": "Concluir Ryder"
+          },
+          "description": "Follow the neighborhood stops and return home.",
+          "description_i18n": {
+            "en": "Follow the neighborhood stops and return home.",
+            "pt": "Siga as paradas pelo bairro e volte para casa."
+          }
+        },
+        {
+          "key": "tagging-up-turf",
+          "title": "Complete Tagging Up Turf",
+          "title_i18n": {
+            "en": "Complete Tagging Up Turf",
+            "pt": "Concluir Tagging Up Turf"
+          },
+          "description": "Follow Sweet and complete the marked tagging tutorial.",
+          "description_i18n": {
+            "en": "Follow Sweet and complete the marked tagging tutorial.",
+            "pt": "Siga Sweet e conclua o tutorial dos grafites marcados."
+          }
+        },
+        {
+          "key": "cleaning-the-hood",
+          "title": "Complete Cleaning The Hood",
+          "title_i18n": {
+            "en": "Complete Cleaning The Hood",
+            "pt": "Concluir Cleaning The Hood"
+          },
+          "description": "Complete the neighborhood operation with Ryder.",
+          "description_i18n": {
+            "en": "Complete the neighborhood operation with Ryder.",
+            "pt": "Conclua a operação no bairro com Ryder."
+          }
+        },
+        {
+          "key": "drive-thru",
+          "title": "Complete Drive-Thru",
+          "title_i18n": {
+            "en": "Complete Drive-Thru",
+            "pt": "Concluir Drive-Thru"
+          },
+          "description": "Follow the meal stop and respond to the moving threat.",
+          "description_i18n": {
+            "en": "Follow the meal stop and respond to the moving threat.",
+            "pt": "Acompanhe a parada para comer e responda à ameaça em movimento."
+          }
+        },
+        {
+          "key": "nines-and-ak-s",
+          "title": "Complete Nines And AK's",
+          "title_i18n": {
+            "en": "Complete Nines And AK's",
+            "pt": "Concluir Nines And AK's"
+          },
+          "description": "Complete the weapon practice and clothing introduction.",
+          "description_i18n": {
+            "en": "Complete the weapon practice and clothing introduction.",
+            "pt": "Conclua a prática com armas e a apresentação das roupas."
+          }
+        },
+        {
+          "key": "drive-by",
+          "title": "Complete Drive-By",
+          "title_i18n": {
+            "en": "Complete Drive-By",
+            "pt": "Concluir Drive-By"
+          },
+          "description": "Handle the requested vehicle and finish the marked targets.",
+          "description_i18n": {
+            "en": "Handle the requested vehicle and finish the marked targets.",
+            "pt": "Conduza o veículo solicitado e termine os alvos marcados."
+          }
+        },
+        {
+          "key": "sweet-s-girl",
+          "title": "Complete Sweet's Girl",
+          "title_i18n": {
+            "en": "Complete Sweet's Girl",
+            "pt": "Concluir Sweet's Girl"
+          },
+          "description": "Reach the urgent pickup and return with the passengers.",
+          "description_i18n": {
+            "en": "Reach the urgent pickup and return with the passengers.",
+            "pt": "Alcance a busca urgente e volte com os passageiros."
+          }
+        },
+        {
+          "key": "cesar-vialpando",
+          "title": "Complete Cesar Vialpando",
+          "title_i18n": {
+            "en": "Complete Cesar Vialpando",
+            "pt": "Concluir Cesar Vialpando"
+          },
+          "description": "Follow the lowrider preparation and rhythm challenge.",
+          "description_i18n": {
+            "en": "Follow the lowrider preparation and rhythm challenge.",
+            "pt": "Siga a preparação do lowrider e o desafio de ritmo."
+          }
+        },
+        {
+          "key": "high-stakes-low-rider",
+          "title": "Complete High Stakes, Low-Rider",
+          "title_i18n": {
+            "en": "Complete High Stakes, Low-Rider",
+            "pt": "Concluir High Stakes, Low-Rider"
+          },
+          "description": "Win the countryside-bound lowrider race.",
+          "description_i18n": {
+            "en": "Win the countryside-bound lowrider race.",
+            "pt": "Vença a corrida de lowriders rumo ao interior."
+          }
+        }
+      ]
+    },
+    {
+      "key": "los-santos-ryder-smoke-and-loc",
+      "title": "Los Santos: Ryder, Smoke and Loc",
+      "title_i18n": {
+        "en": "Los Santos: Ryder, Smoke and Loc",
+        "pt": "Los Santos: Ryder, Smoke e Loc"
+      },
+      "items": [
+        {
+          "key": "home-invasion",
+          "title": "Complete Home Invasion",
+          "title_i18n": {
+            "en": "Complete Home Invasion",
+            "pt": "Concluir Home Invasion"
+          },
+          "description": "Complete the timed house operation and return the loaded vehicle.",
+          "description_i18n": {
+            "en": "Complete the timed house operation and return the loaded vehicle.",
+            "pt": "Conclua a operação cronometrada na casa e devolva o veículo carregado."
+          }
+        },
+        {
+          "key": "catalyst",
+          "title": "Complete Catalyst",
+          "title_i18n": {
+            "en": "Complete Catalyst",
+            "pt": "Concluir Catalyst"
+          },
+          "description": "Complete the train-side operation and follow-up cargo task.",
+          "description_i18n": {
+            "en": "Complete the train-side operation and follow-up cargo task.",
+            "pt": "Conclua a operação junto ao trem e a tarefa seguinte de carga."
+          }
+        },
+        {
+          "key": "robbing-uncle-sam",
+          "title": "Complete Robbing Uncle Sam",
+          "title_i18n": {
+            "en": "Complete Robbing Uncle Sam",
+            "pt": "Concluir Robbing Uncle Sam"
+          },
+          "description": "Load the requested cargo while protecting your partner.",
+          "description_i18n": {
+            "en": "Load the requested cargo while protecting your partner.",
+            "pt": "Carregue a carga solicitada protegendo seu parceiro."
+          },
+          "details": "After opening the depot, use the forklift to load the marked crates while watching Ryder's health. Guards keep approaching, so step away from loading to help him before his health becomes critical. Position the truck and forklift so you can line up with a crate without repeated reversing. Finish the requested load, get back in the truck and complete the escape. Do not treat the cargo count as permission to leave Ryder exposed while you search for the last crate.",
+          "details_i18n": {
+            "en": "After opening the depot, use the forklift to load the marked crates while watching Ryder's health. Guards keep approaching, so step away from loading to help him before his health becomes critical. Position the truck and forklift so you can line up with a crate without repeated reversing. Finish the requested load, get back in the truck and complete the escape. Do not treat the cargo count as permission to leave Ryder exposed while you search for the last crate.",
+            "pt": "Após abrir o depósito, use a empilhadeira para carregar as caixas marcadas acompanhando a saúde de Ryder. Os guardas continuam chegando; interrompa a carga para ajudá-lo antes que a situação fique crítica. Posicione o caminhão e a empilhadeira para alinhar as caixas sem manobras repetidas de ré. Termine a carga solicitada, volte ao caminhão e conclua a fuga. O contador de carga não é motivo para deixar Ryder exposto enquanto procura a última caixa."
+          }
+        },
+        {
+          "key": "og-loc",
+          "title": "Complete OG Loc",
+          "title_i18n": {
+            "en": "Complete OG Loc",
+            "pt": "Concluir OG Loc"
+          },
+          "description": "Follow the pickup and complete the pursuit.",
+          "description_i18n": {
+            "en": "Follow the pickup and complete the pursuit.",
+            "pt": "Siga a busca e conclua a perseguição."
+          }
+        },
+        {
+          "key": "running-dog",
+          "title": "Complete Running Dog",
+          "title_i18n": {
+            "en": "Complete Running Dog",
+            "pt": "Concluir Running Dog"
+          },
+          "description": "Keep up with the marked suspect and finish the chase.",
+          "description_i18n": {
+            "en": "Keep up with the marked suspect and finish the chase.",
+            "pt": "Acompanhe o suspeito marcado e termine a perseguição."
+          }
+        },
+        {
+          "key": "wrong-side-of-the-tracks",
+          "title": "Complete Wrong Side Of The Tracks",
+          "title_i18n": {
+            "en": "Complete Wrong Side Of The Tracks",
+            "pt": "Concluir Wrong Side Of The Tracks"
+          },
+          "description": "Keep your passenger in position during the train pursuit.",
+          "description_i18n": {
+            "en": "Keep your passenger in position during the train pursuit.",
+            "pt": "Mantenha seu passageiro bem posicionado durante a perseguição ao trem."
+          },
+          "details": "Keep the Sanchez to the train's right with enough sideways distance for Big Smoke to shoot up at the roof. Riding immediately beside the carriage lets its side block his shots. Match the train rather than racing far ahead, and move around trackside obstacles without cutting under an oncoming train. Give Smoke a steady firing angle after each turn. The target gunmen must be dealt with before the escape boundary; reaching the end of the route alongside the train is not enough.",
+          "details_i18n": {
+            "en": "Keep the Sanchez to the train's right with enough sideways distance for Big Smoke to shoot up at the roof. Riding immediately beside the carriage lets its side block his shots. Match the train rather than racing far ahead, and move around trackside obstacles without cutting under an oncoming train. Give Smoke a steady firing angle after each turn. The target gunmen must be dealt with before the escape boundary; reaching the end of the route alongside the train is not enough.",
+            "pt": "Mantenha a Sanchez à direita do trem, com distância lateral suficiente para Big Smoke atirar no teto. Rodar colado ao vagão faz a lateral bloquear os disparos dele. Acompanhe o trem sem avançar demais e contorne obstáculos sem entrar na frente de outro trem. Dê a Smoke um ângulo estável após cada curva. Os atiradores precisam ser resolvidos antes do limite de fuga; apenas chegar ao fim da rota ao lado do trem não basta."
+          }
+        },
+        {
+          "key": "just-business",
+          "title": "Complete Just Business",
+          "title_i18n": {
+            "en": "Complete Just Business",
+            "pt": "Concluir Just Business"
+          },
+          "description": "Support Big Smoke through both parts of the escape.",
+          "description_i18n": {
+            "en": "Support Big Smoke through both parts of the escape.",
+            "pt": "Apoie Big Smoke nas duas partes da fuga."
+          }
+        },
+        {
+          "key": "life-s-a-beach",
+          "title": "Complete Life's A Beach",
+          "title_i18n": {
+            "en": "Complete Life's A Beach",
+            "pt": "Concluir Life's A Beach"
+          },
+          "description": "Pass the beach-party challenge and complete the vehicle delivery.",
+          "description_i18n": {
+            "en": "Pass the beach-party challenge and complete the vehicle delivery.",
+            "pt": "Passe no desafio da festa na praia e conclua a entrega do veículo."
+          }
+        },
+        {
+          "key": "madd-dogg-s-rhymes",
+          "title": "Complete Madd Dogg's Rhymes",
+          "title_i18n": {
+            "en": "Complete Madd Dogg's Rhymes",
+            "pt": "Concluir Madd Dogg's Rhymes"
+          },
+          "description": "Follow the guarded interior route and recover the requested item.",
+          "description_i18n": {
+            "en": "Follow the guarded interior route and recover the requested item.",
+            "pt": "Siga a rota pelo interior vigiado e recupere o item solicitado."
+          }
+        },
+        {
+          "key": "management-issues",
+          "title": "Complete Management Issues",
+          "title_i18n": {
+            "en": "Complete Management Issues",
+            "pt": "Concluir Management Issues"
+          },
+          "description": "Respect the vehicle and appearance conditions through the pickup.",
+          "description_i18n": {
+            "en": "Respect the vehicle and appearance conditions through the pickup.",
+            "pt": "Respeite as condições de veículo e aparência durante a busca."
+          }
+        },
+        {
+          "key": "house-party",
+          "title": "Complete House Party",
+          "title_i18n": {
+            "en": "Complete House Party",
+            "pt": "Concluir House Party"
+          },
+          "description": "Respond to the attack and protect the neighborhood.",
+          "description_i18n": {
+            "en": "Respond to the attack and protect the neighborhood.",
+            "pt": "Responda ao ataque e proteja o bairro."
+          }
+        }
+      ]
+    },
+    {
+      "key": "los-santos-crash-and-departure",
+      "title": "Los Santos: C.R.A.S.H. and departure",
+      "title_i18n": {
+        "en": "Los Santos: C.R.A.S.H. and departure",
+        "pt": "Los Santos: C.R.A.S.H. e partida"
+      },
+      "items": [
+        {
+          "key": "burning-desire",
+          "title": "Complete Burning Desire",
+          "title_i18n": {
+            "en": "Complete Burning Desire",
+            "pt": "Concluir Burning Desire"
+          },
+          "description": "Finish the marked operation and respond to the rescue objective.",
+          "description_i18n": {
+            "en": "Finish the marked operation and respond to the rescue objective.",
+            "pt": "Conclua a operação marcada e responda ao objetivo de resgate."
+          }
+        },
+        {
+          "key": "gray-imports",
+          "title": "Complete Gray Imports",
+          "title_i18n": {
+            "en": "Complete Gray Imports",
+            "pt": "Concluir Gray Imports"
+          },
+          "description": "Enter the guarded deal and complete the target pursuit.",
+          "description_i18n": {
+            "en": "Enter the guarded deal and complete the target pursuit.",
+            "pt": "Entre na negociação vigiada e conclua a perseguição ao alvo."
+          }
+        },
+        {
+          "key": "doberman",
+          "title": "Complete Doberman",
+          "title_i18n": {
+            "en": "Complete Doberman",
+            "pt": "Concluir Doberman"
+          },
+          "description": "Follow the gang-war introduction and resolve the marked target.",
+          "description_i18n": {
+            "en": "Follow the gang-war introduction and resolve the marked target.",
+            "pt": "Siga a introdução à guerra de gangues e resolva o alvo marcado."
+          }
+        },
+        {
+          "key": "los-sepulcros",
+          "title": "Complete Los Sepulcros",
+          "title_i18n": {
+            "en": "Complete Los Sepulcros",
+            "pt": "Concluir Los Sepulcros"
+          },
+          "description": "Bring the group and complete the cemetery operation.",
+          "description_i18n": {
+            "en": "Bring the group and complete the cemetery operation.",
+            "pt": "Leve o grupo e conclua a operação no cemitério."
+          }
+        },
+        {
+          "key": "reuniting-the-families",
+          "title": "Complete Reuniting The Families",
+          "title_i18n": {
+            "en": "Complete Reuniting The Families",
+            "pt": "Concluir Reuniting The Families"
+          },
+          "description": "Complete the rescue and extended escape.",
+          "description_i18n": {
+            "en": "Complete the rescue and extended escape.",
+            "pt": "Conclua o resgate e a fuga prolongada."
+          }
+        },
+        {
+          "key": "the-green-sabre",
+          "title": "Complete The Green Sabre",
+          "title_i18n": {
+            "en": "Complete The Green Sabre",
+            "pt": "Concluir The Green Sabre"
+          },
+          "description": "Follow the changed meeting instructions and reach the urgent destination.",
+          "description_i18n": {
+            "en": "Follow the changed meeting instructions and reach the urgent destination.",
+            "pt": "Siga as instruções alteradas do encontro e alcance o destino urgente."
+          }
+        }
+      ]
+    },
+    {
+      "key": "badlands-and-catalina",
+      "title": "Badlands: Catalina and The Truth",
+      "title_i18n": {
+        "en": "Badlands: Catalina and The Truth",
+        "pt": "Badlands: Catalina e The Truth"
+      },
+      "items": [
+        {
+          "key": "badlands",
+          "title": "Complete Badlands",
+          "title_i18n": {
+            "en": "Complete Badlands",
+            "pt": "Concluir Badlands"
+          },
+          "description": "Track the marked target and bring back the required proof.",
+          "description_i18n": {
+            "en": "Track the marked target and bring back the required proof.",
+            "pt": "Acompanhe o alvo marcado e traga a comprovação exigida."
+          }
+        },
+        {
+          "key": "first-date",
+          "title": "Complete First Date",
+          "title_i18n": {
+            "en": "Complete First Date",
+            "pt": "Concluir First Date"
+          },
+          "description": "Meet Catalina and choose the first robbery location.",
+          "description_i18n": {
+            "en": "Meet Catalina and choose the first robbery location.",
+            "pt": "Encontre Catalina e escolha o primeiro local de roubo."
+          },
+          "details": "Catalina offers four robbery locations, and you can choose their order. This checklist presents a workable sequence, not a forced order for every player. Complete Tanker Commander, Local Liquor Store, Against All Odds and Small Town Bank; the introductory relationship scenes do not replace those four jobs. Follow the calls and The Truth's farm strand between visits when they become available. These campaign robberies are different from the optional nighttime Burglary vehicle activity.",
+          "details_i18n": {
+            "en": "Catalina offers four robbery locations, and you can choose their order. This checklist presents a workable sequence, not a forced order for every player. Complete Tanker Commander, Local Liquor Store, Against All Odds and Small Town Bank; the introductory relationship scenes do not replace those four jobs. Follow the calls and The Truth's farm strand between visits when they become available. These campaign robberies are different from the optional nighttime Burglary vehicle activity.",
+            "pt": "Catalina oferece quatro locais de roubo, cuja ordem pode ser escolhida. Este guia apresenta uma sequência viável, não uma ordem obrigatória para todos. Conclua Tanker Commander, Local Liquor Store, Against All Odds e Small Town Bank; as cenas de relacionamento não substituem esses quatro trabalhos. Acompanhe as ligações e a sequência da fazenda de The Truth entre as visitas quando ficarem disponíveis. Esses roubos da campanha são diferentes da atividade noturna opcional Burglary."
+          }
+        },
+        {
+          "key": "tanker-commander",
+          "title": "Complete Tanker Commander",
+          "title_i18n": {
+            "en": "Complete Tanker Commander",
+            "pt": "Concluir Tanker Commander"
+          },
+          "description": "Complete the tanker recovery and delivery.",
+          "description_i18n": {
+            "en": "Complete the tanker recovery and delivery.",
+            "pt": "Conclua a recuperação e a entrega do caminhão-tanque."
+          }
+        },
+        {
+          "key": "body-harvest",
+          "title": "Complete Body Harvest",
+          "title_i18n": {
+            "en": "Complete Body Harvest",
+            "pt": "Concluir Body Harvest"
+          },
+          "description": "Recover the requested farm vehicle and deliver it intact.",
+          "description_i18n": {
+            "en": "Recover the requested farm vehicle and deliver it intact.",
+            "pt": "Recupere o veículo agrícola solicitado e entregue-o intacto."
+          }
+        },
+        {
+          "key": "king-in-exile",
+          "title": "Complete King In Exile",
+          "title_i18n": {
+            "en": "Complete King In Exile",
+            "pt": "Concluir King In Exile"
+          },
+          "description": "Attend the countryside meeting and follow the next contact.",
+          "description_i18n": {
+            "en": "Attend the countryside meeting and follow the next contact.",
+            "pt": "Participe do encontro no interior e acompanhe o próximo contato."
+          }
+        },
+        {
+          "key": "first-base",
+          "title": "Complete First Base",
+          "title_i18n": {
+            "en": "Complete First Base",
+            "pt": "Concluir First Base"
+          },
+          "description": "Continue Catalina's introductory scene before another job.",
+          "description_i18n": {
+            "en": "Continue Catalina's introductory scene before another job.",
+            "pt": "Acompanhe a cena inicial de Catalina antes de outro trabalho."
+          }
+        },
+        {
+          "key": "local-liquor-store",
+          "title": "Complete Local Liquor Store",
+          "title_i18n": {
+            "en": "Complete Local Liquor Store",
+            "pt": "Concluir Local Liquor Store"
+          },
+          "description": "Complete the moving robbery and recover the requested proceeds.",
+          "description_i18n": {
+            "en": "Complete the moving robbery and recover the requested proceeds.",
+            "pt": "Conclua o roubo em movimento e recupere o produto solicitado."
+          }
+        },
+        {
+          "key": "gone-courting",
+          "title": "Complete Gone Courting",
+          "title_i18n": {
+            "en": "Complete Gone Courting",
+            "pt": "Concluir Gone Courting"
+          },
+          "description": "Meet Catalina before continuing the robbery strand.",
+          "description_i18n": {
+            "en": "Meet Catalina before continuing the robbery strand.",
+            "pt": "Encontre Catalina antes de continuar a sequência de roubos."
+          }
+        },
+        {
+          "key": "against-all-odds",
+          "title": "Complete Against All Odds",
+          "title_i18n": {
+            "en": "Complete Against All Odds",
+            "pt": "Concluir Against All Odds"
+          },
+          "description": "Follow the betting-shop operation and escape.",
+          "description_i18n": {
+            "en": "Follow the betting-shop operation and escape.",
+            "pt": "Siga a operação na casa de apostas e a fuga."
+          }
+        },
+        {
+          "key": "made-in-heaven",
+          "title": "Complete Made In Heaven",
+          "title_i18n": {
+            "en": "Complete Made In Heaven",
+            "pt": "Concluir Made In Heaven"
+          },
+          "description": "Follow the next meeting before the remaining robbery.",
+          "description_i18n": {
+            "en": "Follow the next meeting before the remaining robbery.",
+            "pt": "Acompanhe o próximo encontro antes do roubo restante."
+          }
+        },
+        {
+          "key": "small-town-bank",
+          "title": "Complete Small Town Bank",
+          "title_i18n": {
+            "en": "Complete Small Town Bank",
+            "pt": "Concluir Small Town Bank"
+          },
+          "description": "Complete the bank operation and protect the getaway.",
+          "description_i18n": {
+            "en": "Complete the bank operation and protect the getaway.",
+            "pt": "Conclua a operação no banco e proteja a fuga."
+          }
+        },
+        {
+          "key": "wu-zi-mu",
+          "title": "Complete Wu Zi Mu",
+          "title_i18n": {
+            "en": "Complete Wu Zi Mu",
+            "pt": "Concluir Wu Zi Mu"
+          },
+          "description": "Win the countryside checkpoint race.",
+          "description_i18n": {
+            "en": "Win the countryside checkpoint race.",
+            "pt": "Vença a corrida de checkpoints no interior."
+          }
+        },
+        {
+          "key": "farewell-my-love",
+          "title": "Complete Farewell, My Love...",
+          "title_i18n": {
+            "en": "Complete Farewell, My Love...",
+            "pt": "Concluir Farewell, My Love..."
+          },
+          "description": "Win the follow-up race and follow its handover.",
+          "description_i18n": {
+            "en": "Win the follow-up race and follow its handover.",
+            "pt": "Vença a corrida seguinte e acompanhe a entrega."
+          }
+        },
+        {
+          "key": "are-you-going-to-san-fierro",
+          "title": "Complete Are You Going To San Fierro?",
+          "title_i18n": {
+            "en": "Complete Are You Going To San Fierro?",
+            "pt": "Concluir Are You Going To San Fierro?"
+          },
+          "description": "Complete The Truth's farm operation and make the journey onward.",
+          "description_i18n": {
+            "en": "Complete The Truth's farm operation and make the journey onward.",
+            "pt": "Conclua a operação na fazenda de The Truth e siga viagem."
+          }
+        }
+      ]
+    },
+    {
+      "key": "san-fierro-garage-and-syndicate",
+      "title": "San Fierro: garage and syndicate",
+      "title_i18n": {
+        "en": "San Fierro: garage and syndicate",
+        "pt": "San Fierro: oficina e sindicato"
+      },
+      "items": [
+        {
+          "key": "wear-flowers-in-your-hair",
+          "title": "Complete Wear Flowers In Your Hair",
+          "title_i18n": {
+            "en": "Complete Wear Flowers In Your Hair",
+            "pt": "Concluir Wear Flowers In Your Hair"
+          },
+          "description": "Recruit the garage contacts and return to Doherty.",
+          "description_i18n": {
+            "en": "Recruit the garage contacts and return to Doherty.",
+            "pt": "Recrute os contatos da oficina e volte a Doherty."
+          }
+        },
+        {
+          "key": "555-we-tip",
+          "title": "Complete 555 We Tip",
+          "title_i18n": {
+            "en": "Complete 555 We Tip",
+            "pt": "Concluir 555 We Tip"
+          },
+          "description": "Follow the disguise and vehicle-handling instructions.",
+          "description_i18n": {
+            "en": "Follow the disguise and vehicle-handling instructions.",
+            "pt": "Siga as instruções de disfarce e condução do veículo."
+          },
+          "details": "Obtain the valet outfit and wait for the indicated car at the hotel. Take that specific vehicle to your garage for the planted material, then return it to the hotel parking position within the limit. Drive carefully: damage can force an extra repair stop and consume the return window. Keep the disguise stage controlled rather than starting an unrelated fight at the entrance. Completing the assignment unlocks the separate valet activity; that later five-level job is not completed automatically here.",
+          "details_i18n": {
+            "en": "Obtain the valet outfit and wait for the indicated car at the hotel. Take that specific vehicle to your garage for the planted material, then return it to the hotel parking position within the limit. Drive carefully: damage can force an extra repair stop and consume the return window. Keep the disguise stage controlled rather than starting an unrelated fight at the entrance. Completing the assignment unlocks the separate valet activity; that later five-level job is not completed automatically here.",
+            "pt": "Obtenha o uniforme de manobrista e aguarde o carro indicado no hotel. Leve aquele veículo específico à sua oficina para receber o material e devolva-o à vaga do hotel dentro do prazo. Dirija com cuidado: danos podem exigir uma parada extra para reparos e consumir o tempo do retorno. Controle a etapa de disfarce, sem iniciar uma briga alheia ao trabalho na entrada. A conclusão libera a atividade separada de manobrista; esse trabalho posterior de cinco níveis não fica concluído automaticamente aqui."
+          }
+        },
+        {
+          "key": "deconstruction",
+          "title": "Complete Deconstruction",
+          "title_i18n": {
+            "en": "Complete Deconstruction",
+            "pt": "Concluir Deconstruction"
+          },
+          "description": "Complete the construction-site operation.",
+          "description_i18n": {
+            "en": "Complete the construction-site operation.",
+            "pt": "Conclua a operação no canteiro de obras."
+          }
+        },
+        {
+          "key": "photo-opportunity",
+          "title": "Complete Photo Opportunity",
+          "title_i18n": {
+            "en": "Complete Photo Opportunity",
+            "pt": "Concluir Photo Opportunity"
+          },
+          "description": "Reach the observation point and record the required subjects.",
+          "description_i18n": {
+            "en": "Reach the observation point and record the required subjects.",
+            "pt": "Alcance o ponto de observação e registre as pessoas exigidas."
+          },
+          "details": "Reach the rooftop observation position with Cesar and use the camera zoom to frame each required face clearly. Wait for the arrivals and photograph the person rather than the car or a wide shot of the building. Follow Cesar's prompts and the changing targets; one successful photo does not finish the meeting. If a subject is too small in the frame, zoom in before taking another shot instead of spending the entire sequence on distant photographs.",
+          "details_i18n": {
+            "en": "Reach the rooftop observation position with Cesar and use the camera zoom to frame each required face clearly. Wait for the arrivals and photograph the person rather than the car or a wide shot of the building. Follow Cesar's prompts and the changing targets; one successful photo does not finish the meeting. If a subject is too small in the frame, zoom in before taking another shot instead of spending the entire sequence on distant photographs.",
+            "pt": "Alcance a posição de observação na cobertura com Cesar e use o zoom da câmera para enquadrar claramente cada rosto exigido. Aguarde as chegadas e fotografe a pessoa, não o carro nem uma visão ampla do prédio. Siga as orientações de Cesar e as mudanças de alvo; uma foto válida não conclui o encontro. Se a pessoa estiver pequena no enquadramento, aproxime com o zoom antes de fotografar novamente, sem gastar toda a sequência em imagens distantes."
+          }
+        },
+        {
+          "key": "jizzy",
+          "title": "Complete Jizzy",
+          "title_i18n": {
+            "en": "Complete Jizzy",
+            "pt": "Concluir Jizzy"
+          },
+          "description": "Complete the successive customer and recovery assignments.",
+          "description_i18n": {
+            "en": "Complete the successive customer and recovery assignments.",
+            "pt": "Conclua os trabalhos sucessivos de clientes e recuperação."
+          }
+        },
+        {
+          "key": "t-bone-mendez",
+          "title": "Complete T-Bone Mendez",
+          "title_i18n": {
+            "en": "Complete T-Bone Mendez",
+            "pt": "Concluir T-Bone Mendez"
+          },
+          "description": "Recover the marked cargo from the moving targets.",
+          "description_i18n": {
+            "en": "Recover the marked cargo from the moving targets.",
+            "pt": "Recupere a carga marcada dos alvos em movimento."
+          }
+        },
+        {
+          "key": "mike-toreno",
+          "title": "Complete Mike Toreno",
+          "title_i18n": {
+            "en": "Complete Mike Toreno",
+            "pt": "Concluir Mike Toreno"
+          },
+          "description": "Follow the search indicators and complete the extraction.",
+          "description_i18n": {
+            "en": "Follow the search indicators and complete the extraction.",
+            "pt": "Siga os indicadores de busca e conclua o resgate."
+          }
+        },
+        {
+          "key": "outrider",
+          "title": "Complete Outrider",
+          "title_i18n": {
+            "en": "Complete Outrider",
+            "pt": "Concluir Outrider"
+          },
+          "description": "Protect the transport route through the roadblocks.",
+          "description_i18n": {
+            "en": "Protect the transport route through the roadblocks.",
+            "pt": "Proteja a rota de transporte pelos bloqueios."
+          }
+        },
+        {
+          "key": "snail-trail",
+          "title": "Complete Snail Trail",
+          "title_i18n": {
+            "en": "Complete Snail Trail",
+            "pt": "Concluir Snail Trail"
+          },
+          "description": "Follow the suspect discreetly through changing transport stages.",
+          "description_i18n": {
+            "en": "Follow the suspect discreetly through changing transport stages.",
+            "pt": "Siga o suspeito discretamente nas mudanças de transporte."
+          }
+        },
+        {
+          "key": "ice-cold-killa",
+          "title": "Complete Ice Cold Killa",
+          "title_i18n": {
+            "en": "Complete Ice Cold Killa",
+            "pt": "Concluir Ice Cold Killa"
+          },
+          "description": "Find the contact's access route and complete the pursuit.",
+          "description_i18n": {
+            "en": "Find the contact's access route and complete the pursuit.",
+            "pt": "Encontre o acesso ao contato e conclua a perseguição."
+          }
+        },
+        {
+          "key": "pier-69",
+          "title": "Complete Pier 69",
+          "title_i18n": {
+            "en": "Complete Pier 69",
+            "pt": "Concluir Pier 69"
+          },
+          "description": "Support the approach and finish the marked targets.",
+          "description_i18n": {
+            "en": "Support the approach and finish the marked targets.",
+            "pt": "Apoie a aproximação e conclua os alvos marcados."
+          }
+        },
+        {
+          "key": "toreno-s-last-flight",
+          "title": "Complete Toreno's Last Flight",
+          "title_i18n": {
+            "en": "Complete Toreno's Last Flight",
+            "pt": "Concluir Toreno's Last Flight"
+          },
+          "description": "Intercept the marked aircraft and finish the operation.",
+          "description_i18n": {
+            "en": "Intercept the marked aircraft and finish the operation.",
+            "pt": "Intercepte a aeronave marcada e conclua a operação."
+          }
+        }
+      ]
+    },
+    {
+      "key": "san-fierro-woozie-and-factory",
+      "title": "San Fierro: Woozie and the factory",
+      "title_i18n": {
+        "en": "San Fierro: Woozie and the factory",
+        "pt": "San Fierro: Woozie e a fábrica"
+      },
+      "items": [
+        {
+          "key": "mountain-cloud-boys",
+          "title": "Complete Mountain Cloud Boys",
+          "title_i18n": {
+            "en": "Complete Mountain Cloud Boys",
+            "pt": "Concluir Mountain Cloud Boys"
+          },
+          "description": "Escort Woozie and complete the return safely.",
+          "description_i18n": {
+            "en": "Escort Woozie and complete the return safely.",
+            "pt": "Escolte Woozie e conclua o retorno em segurança."
+          }
+        },
+        {
+          "key": "ran-fa-li",
+          "title": "Complete Ran Fa Li",
+          "title_i18n": {
+            "en": "Complete Ran Fa Li",
+            "pt": "Concluir Ran Fa Li"
+          },
+          "description": "Recover the requested airport vehicle and protect the delivery.",
+          "description_i18n": {
+            "en": "Recover the requested airport vehicle and protect the delivery.",
+            "pt": "Recupere o veículo solicitado no aeroporto e proteja a entrega."
+          }
+        },
+        {
+          "key": "lure",
+          "title": "Complete Lure",
+          "title_i18n": {
+            "en": "Complete Lure",
+            "pt": "Concluir Lure"
+          },
+          "description": "Complete the decoy drive without compromising the mission vehicle.",
+          "description_i18n": {
+            "en": "Complete the decoy drive without compromising the mission vehicle.",
+            "pt": "Conclua a viagem de distração sem comprometer o veículo da missão."
+          }
+        },
+        {
+          "key": "amphibious-assault",
+          "title": "Complete Amphibious Assault",
+          "title_i18n": {
+            "en": "Complete Amphibious Assault",
+            "pt": "Concluir Amphibious Assault"
+          },
+          "description": "Prepare for the water approach and complete the ship operation.",
+          "description_i18n": {
+            "en": "Prepare for the water approach and complete the ship operation.",
+            "pt": "Prepare-se para a aproximação pela água e conclua a operação no navio."
+          },
+          "details": "If Woozie rejects the mission for insufficient underwater ability, train by diving and surfacing before the breath meter empties, then return when he accepts your improved stat. Do not rely on contradictory percentage thresholds from old guides. The mission is available at night, from 20:00 to 06:00. During the approach, use underwater movement to avoid patrols, surface in safe gaps and watch the breath meter. Keep enough health for the shipboard section instead of exhausting yourself before boarding.",
+          "details_i18n": {
+            "en": "If Woozie rejects the mission for insufficient underwater ability, train by diving and surfacing before the breath meter empties, then return when he accepts your improved stat. Do not rely on contradictory percentage thresholds from old guides. The mission is available at night, from 20:00 to 06:00. During the approach, use underwater movement to avoid patrols, surface in safe gaps and watch the breath meter. Keep enough health for the shipboard section instead of exhausting yourself before boarding.",
+            "pt": "Se Woozie recusar a missão por capacidade subaquática insuficiente, treine mergulhando e voltando à superfície antes de esvaziar o fôlego; retorne quando ele aceitar o atributo melhorado. Não dependa de percentuais contraditórios dos guias antigos. A missão fica disponível à noite, das 20:00 às 06:00. Na aproximação, avance submerso para evitar patrulhas, respire em intervalos seguros e acompanhe o medidor. Preserve saúde para a etapa no navio, sem se esgotar antes de embarcar."
+          }
+        },
+        {
+          "key": "the-da-nang-thang",
+          "title": "Complete The Da Nang Thang",
+          "title_i18n": {
+            "en": "Complete The Da Nang Thang",
+            "pt": "Concluir The Da Nang Thang"
+          },
+          "description": "Complete the shipboard rescue through the final confrontation.",
+          "description_i18n": {
+            "en": "Complete the shipboard rescue through the final confrontation.",
+            "pt": "Conclua o resgate no navio até o confronto final."
+          }
+        },
+        {
+          "key": "yay-ka-boom-boom",
+          "title": "Complete Yay Ka-Boom-Boom",
+          "title_i18n": {
+            "en": "Complete Yay Ka-Boom-Boom",
+            "pt": "Concluir Yay Ka-Boom-Boom"
+          },
+          "description": "Complete the factory operation and escape the compound.",
+          "description_i18n": {
+            "en": "Complete the factory operation and escape the compound.",
+            "pt": "Conclua a operação na fábrica e escape do pátio."
+          },
+          "details": "Take the prepared car into the factory and follow the marked interior path before arming it. Remove nearby defenders so they cannot trap you beside the blast. Once the device is active, leave promptly rather than continuing to fight inside. The original exit becomes blocked during the escape, so follow the alternate route and use the available vehicle to clear the wall jump. Keep enough room to approach the ramp straight; abandoning the escape after the explosion does not complete the mission.",
+          "details_i18n": {
+            "en": "Take the prepared car into the factory and follow the marked interior path before arming it. Remove nearby defenders so they cannot trap you beside the blast. Once the device is active, leave promptly rather than continuing to fight inside. The original exit becomes blocked during the escape, so follow the alternate route and use the available vehicle to clear the wall jump. Keep enough room to approach the ramp straight; abandoning the escape after the explosion does not complete the mission.",
+            "pt": "Leve o carro preparado à fábrica e siga o caminho interno marcado antes de armá-lo. Elimine os defensores próximos para não ficar preso junto à explosão. Com o dispositivo ativo, saia prontamente em vez de continuar combatendo lá dentro. A saída original fica bloqueada na fuga; siga a rota alternativa e use o veículo disponível para saltar o muro. Deixe espaço para se aproximar da rampa em linha reta; abandonar a fuga após a explosão não conclui a missão."
+          }
+        }
+      ]
+    },
+    {
+      "key": "desert-toreno-and-flight-school",
+      "title": "Desert: Toreno and flight school",
+      "title_i18n": {
+        "en": "Desert: Toreno and flight school",
+        "pt": "Deserto: Toreno e escola de voo"
+      },
+      "items": [
+        {
+          "key": "monster",
+          "title": "Complete Monster",
+          "title_i18n": {
+            "en": "Complete Monster",
+            "pt": "Concluir Monster"
+          },
+          "description": "Complete the Monster Truck checkpoint course.",
+          "description_i18n": {
+            "en": "Complete the Monster Truck checkpoint course.",
+            "pt": "Conclua o percurso de checkpoints com o Monster Truck."
+          }
+        },
+        {
+          "key": "highjack",
+          "title": "Complete Highjack",
+          "title_i18n": {
+            "en": "Complete Highjack",
+            "pt": "Concluir Highjack"
+          },
+          "description": "Bring Cesar alongside the target and complete the vehicle recovery.",
+          "description_i18n": {
+            "en": "Bring Cesar alongside the target and complete the vehicle recovery.",
+            "pt": "Leve Cesar ao lado do alvo e conclua a recuperação do veículo."
+          }
+        },
+        {
+          "key": "interdiction",
+          "title": "Complete Interdiction",
+          "title_i18n": {
+            "en": "Complete Interdiction",
+            "pt": "Concluir Interdiction"
+          },
+          "description": "Protect the marked aircraft and recover its cargo.",
+          "description_i18n": {
+            "en": "Protect the marked aircraft and recover its cargo.",
+            "pt": "Proteja a aeronave marcada e recupere sua carga."
+          }
+        },
+        {
+          "key": "verdant-meadows",
+          "title": "Complete Verdant Meadows",
+          "title_i18n": {
+            "en": "Complete Verdant Meadows",
+            "pt": "Concluir Verdant Meadows"
+          },
+          "description": "Purchase the requested airfield and establish the new base.",
+          "description_i18n": {
+            "en": "Purchase the requested airfield and establish the new base.",
+            "pt": "Compre o aeródromo solicitado e estabeleça a nova base."
+          }
+        },
+        {
+          "key": "learning-to-fly",
+          "title": "Complete Learning To Fly",
+          "title_i18n": {
+            "en": "Complete Learning To Fly",
+            "pt": "Concluir Learning To Fly"
+          },
+          "description": "Pass all required flight-school tests with at least bronze.",
+          "description_i18n": {
+            "en": "Pass all required flight-school tests with at least bronze.",
+            "pt": "Passe em todos os testes exigidos da escola de voo com pelo menos bronze."
+          },
+          "details": "The airfield purchase and flight school are campaign progression, unlike the optional driving, bike and boat schools. Pass all ten flying tests with at least bronze, which begins at seventy percent. Retry the current test rather than replaying the entire school after a mistake. Use small pitch and banking adjustments, retract landing gear when instructed and align well before a landing marker. Damage and poor positioning reduce scores, so a controlled finish can be more useful than an aggressive fast approach. Gold medals are not needed to continue the story.",
+          "details_i18n": {
+            "en": "The airfield purchase and flight school are campaign progression, unlike the optional driving, bike and boat schools. Pass all ten flying tests with at least bronze, which begins at seventy percent. Retry the current test rather than replaying the entire school after a mistake. Use small pitch and banking adjustments, retract landing gear when instructed and align well before a landing marker. Damage and poor positioning reduce scores, so a controlled finish can be more useful than an aggressive fast approach. Gold medals are not needed to continue the story.",
+            "pt": "A compra do aeródromo e a escola de voo fazem parte da campanha, diferentemente das escolas opcionais de carros, motos e barcos. Passe nos dez testes de voo com pelo menos bronze, que começa em setenta por cento. Repita o teste atual em vez de refazer a escola inteira após um erro. Faça pequenos ajustes de inclinação, recolha o trem de pouso quando solicitado e alinhe cedo com a marcação de pouso. Danos e posicionamento ruim reduzem a nota; uma conclusão controlada pode valer mais que uma aproximação rápida e agressiva. Ouro não é necessário para continuar a história."
+          }
+        }
+      ]
+    },
+    {
+      "key": "desert-airstrip-operations",
+      "title": "Desert: airstrip operations",
+      "title_i18n": {
+        "en": "Desert: airstrip operations",
+        "pt": "Deserto: operações do aeródromo"
+      },
+      "items": [
+        {
+          "key": "n-o-e",
+          "title": "Complete N.O.E.",
+          "title_i18n": {
+            "en": "Complete N.O.E.",
+            "pt": "Concluir N.O.E."
+          },
+          "description": "Complete the low-level flight and return safely.",
+          "description_i18n": {
+            "en": "Complete the low-level flight and return safely.",
+            "pt": "Conclua o voo em baixa altitude e volte em segurança."
+          },
+          "details": "The radar-height meter measures exposure, not simply whether the plane is touching a checkpoint. Keep low on both the outward and return legs, using open water or broad terrain where possible instead of weaving through tall trees. Plan the approach to the delivery marker before turning inland. If radar attention rises, descend safely rather than diving into obstacles. The mission still requires a controlled landing back at the airfield after the delivery; do not stop once the cargo has been dropped.",
+          "details_i18n": {
+            "en": "The radar-height meter measures exposure, not simply whether the plane is touching a checkpoint. Keep low on both the outward and return legs, using open water or broad terrain where possible instead of weaving through tall trees. Plan the approach to the delivery marker before turning inland. If radar attention rises, descend safely rather than diving into obstacles. The mission still requires a controlled landing back at the airfield after the delivery; do not stop once the cargo has been dropped.",
+            "pt": "O medidor de altura do radar acompanha sua exposição, não apenas o contato com um checkpoint. Voe baixo na ida e na volta, preferindo água aberta ou terreno amplo em vez de serpentear entre árvores altas. Planeje a aproximação à entrega antes de virar para o interior. Se a atenção do radar aumentar, desça com segurança, sem mergulhar contra obstáculos. Após a entrega ainda é preciso pousar de forma controlada no aeródromo; não pare quando a carga tiver sido lançada."
+          }
+        },
+        {
+          "key": "stowaway",
+          "title": "Complete Stowaway",
+          "title_i18n": {
+            "en": "Complete Stowaway",
+            "pt": "Concluir Stowaway"
+          },
+          "description": "Complete the aircraft boarding and escape operation.",
+          "description_i18n": {
+            "en": "Complete the aircraft boarding and escape operation.",
+            "pt": "Conclua a operação de embarque na aeronave e fuga."
+          },
+          "details": "Accelerate along the runway and approach the cargo ramp while avoiding the falling obstacles. Once aboard, avoid shooting near the explosive cargo: use close-range attacks while working toward the objective. Collect the necessary escape equipment and place the charge as instructed. After planting the charge, jump out through the rear ramp; open the parachute with enough altitude for a safe landing. Getting onto the plane is only the first half of the mission.",
+          "details_i18n": {
+            "en": "Accelerate along the runway and approach the cargo ramp while avoiding the falling obstacles. Once aboard, avoid shooting near the explosive cargo: use close-range attacks while working toward the objective. Collect the necessary escape equipment and place the charge as instructed. After planting the charge, jump out through the rear ramp; open the parachute with enough altitude for a safe landing. Getting onto the plane is only the first half of the mission.",
+            "pt": "Acelere pela pista e aproxime-se da rampa de carga evitando os obstáculos que caem. Depois de embarcar, evite tiros perto da carga explosiva: use ataques próximos enquanto avança ao objetivo. Recolha o equipamento necessário para escapar e coloque a carga conforme a instrução. Depois de plantar a carga, salte pela rampa traseira e abra o paraquedas com altitude suficiente para pousar com segurança. Entrar no avião é apenas a primeira metade da missão."
+          }
+        },
+        {
+          "key": "black-project",
+          "title": "Complete Black Project",
+          "title_i18n": {
+            "en": "Complete Black Project",
+            "pt": "Concluir Black Project"
+          },
+          "description": "Reach the research objective and complete the extraction.",
+          "description_i18n": {
+            "en": "Reach the research objective and complete the extraction.",
+            "pt": "Alcance o objetivo de pesquisa e conclua a extração."
+          },
+          "details": "Begin at night and reach the research entrance before the 05:30 deadline. Watch the searchlight sweeps; shooting too many lights or remaining exposed can lock the obvious entrance. If that happens, follow the alternative ventilation access rather than restarting immediately. Inside, clear the route carefully, use the control room to disable exterior defenses and obtain the keycard needed for the launch bay. Descend to the objective, then use the Jetpack to leave vertically and reach The Truth's marked drop-off.",
+          "details_i18n": {
+            "en": "Begin at night and reach the research entrance before the 05:30 deadline. Watch the searchlight sweeps; shooting too many lights or remaining exposed can lock the obvious entrance. If that happens, follow the alternative ventilation access rather than restarting immediately. Inside, clear the route carefully, use the control room to disable exterior defenses and obtain the keycard needed for the launch bay. Descend to the objective, then use the Jetpack to leave vertically and reach The Truth's marked drop-off.",
+            "pt": "Comece à noite e alcance a entrada da pesquisa antes do prazo de 05:30. Observe os movimentos dos holofotes; destruir luzes demais ou ficar exposto pode bloquear a entrada óbvia. Nesse caso, siga o acesso alternativo de ventilação em vez de reiniciar imediatamente. Lá dentro, avance com cuidado, use a sala de controle para desativar defesas externas e obtenha o cartão exigido para a área de lançamento. Desça ao objetivo, use o Jetpack para sair verticalmente e alcance o ponto de entrega marcado de The Truth."
+          }
+        },
+        {
+          "key": "green-goo",
+          "title": "Complete Green Goo",
+          "title_i18n": {
+            "en": "Complete Green Goo",
+            "pt": "Concluir Green Goo"
+          },
+          "description": "Recover the requested train cargo and return to The Truth.",
+          "description_i18n": {
+            "en": "Recover the requested train cargo and return to The Truth.",
+            "pt": "Recupere a carga solicitada no trem e volte a The Truth."
+          }
+        }
+      ]
+    },
+    {
+      "key": "las-venturas-casino-and-crash",
+      "title": "Las Venturas: casino and C.R.A.S.H.",
+      "title_i18n": {
+        "en": "Las Venturas: casino and C.R.A.S.H.",
+        "pt": "Las Venturas: cassino e C.R.A.S.H."
+      },
+      "items": [
+        {
+          "key": "fender-ketchup",
+          "title": "Complete Fender Ketchup",
+          "title_i18n": {
+            "en": "Complete Fender Ketchup",
+            "pt": "Concluir Fender Ketchup"
+          },
+          "description": "Complete Woozie's vehicle-based interrogation assignment.",
+          "description_i18n": {
+            "en": "Complete Woozie's vehicle-based interrogation assignment.",
+            "pt": "Conclua o trabalho de interrogatório no veículo para Woozie."
+          }
+        },
+        {
+          "key": "explosive-situation",
+          "title": "Complete Explosive Situation",
+          "title_i18n": {
+            "en": "Complete Explosive Situation",
+            "pt": "Concluir Explosive Situation"
+          },
+          "description": "Recover the requested supplies and finish the quarry escape.",
+          "description_i18n": {
+            "en": "Recover the requested supplies and finish the quarry escape.",
+            "pt": "Recupere os suprimentos solicitados e conclua a fuga da pedreira."
+          }
+        },
+        {
+          "key": "you-ve-had-your-chips",
+          "title": "Complete You've Had Your Chips",
+          "title_i18n": {
+            "en": "Complete You've Had Your Chips",
+            "pt": "Concluir You've Had Your Chips"
+          },
+          "description": "Resolve the factory objectives and leave safely.",
+          "description_i18n": {
+            "en": "Resolve the factory objectives and leave safely.",
+            "pt": "Resolva os objetivos na fábrica e saia em segurança."
+          }
+        },
+        {
+          "key": "don-peyote",
+          "title": "Complete Don Peyote",
+          "title_i18n": {
+            "en": "Complete Don Peyote",
+            "pt": "Concluir Don Peyote"
+          },
+          "description": "Find the missing contacts and complete their return.",
+          "description_i18n": {
+            "en": "Find the missing contacts and complete their return.",
+            "pt": "Encontre os contatos desaparecidos e conclua seu retorno."
+          }
+        },
+        {
+          "key": "intensive-care",
+          "title": "Complete Intensive Care",
+          "title_i18n": {
+            "en": "Complete Intensive Care",
+            "pt": "Concluir Intensive Care"
+          },
+          "description": "Find the correct emergency vehicle and deliver the passenger.",
+          "description_i18n": {
+            "en": "Find the correct emergency vehicle and deliver the passenger.",
+            "pt": "Encontre o veículo de emergência correto e entregue o passageiro."
+          }
+        },
+        {
+          "key": "misappropriation",
+          "title": "Complete Misappropriation",
+          "title_i18n": {
+            "en": "Complete Misappropriation",
+            "pt": "Concluir Misappropriation"
+          },
+          "description": "Recover the dossier and follow the moving target if necessary.",
+          "description_i18n": {
+            "en": "Recover the dossier and follow the moving target if necessary.",
+            "pt": "Recupere o dossiê e siga o alvo em movimento se necessário."
+          }
+        },
+        {
+          "key": "the-meat-business",
+          "title": "Complete The Meat Business",
+          "title_i18n": {
+            "en": "Complete The Meat Business",
+            "pt": "Concluir The Meat Business"
+          },
+          "description": "Protect Rosenberg through the interior escape.",
+          "description_i18n": {
+            "en": "Protect Rosenberg through the interior escape.",
+            "pt": "Proteja Rosenberg durante a fuga pelo interior."
+          }
+        },
+        {
+          "key": "fish-in-a-barrel",
+          "title": "Complete Fish In A Barrel",
+          "title_i18n": {
+            "en": "Complete Fish In A Barrel",
+            "pt": "Concluir Fish In A Barrel"
+          },
+          "description": "Attend the casino story meeting.",
+          "description_i18n": {
+            "en": "Attend the casino story meeting.",
+            "pt": "Participe do encontro da história no cassino."
+          }
+        },
+        {
+          "key": "madd-dogg",
+          "title": "Complete Madd Dogg",
+          "title_i18n": {
+            "en": "Complete Madd Dogg",
+            "pt": "Concluir Madd Dogg"
+          },
+          "description": "Respond to the rescue and complete the transport.",
+          "description_i18n": {
+            "en": "Respond to the rescue and complete the transport.",
+            "pt": "Responda ao resgate e conclua o transporte."
+          }
+        },
+        {
+          "key": "freefall",
+          "title": "Complete Freefall",
+          "title_i18n": {
+            "en": "Complete Freefall",
+            "pt": "Concluir Freefall"
+          },
+          "description": "Complete the airborne interception and return landing.",
+          "description_i18n": {
+            "en": "Complete the airborne interception and return landing.",
+            "pt": "Conclua a interceptação aérea e o pouso de retorno."
+          },
+          "details": "Gain altitude while heading toward the incoming aircraft. The supplied Dodo is too slow for a long chase from far behind, so use the approach to intercept near its flight path, then turn into the position behind it. Enter the marked corona with controlled alignment instead of repeatedly diving across the target. Complete the cabin section, take control of the other aircraft and return for a safe landing. Do not assume reaching the air-interception marker finishes the mission.",
+          "details_i18n": {
+            "en": "Gain altitude while heading toward the incoming aircraft. The supplied Dodo is too slow for a long chase from far behind, so use the approach to intercept near its flight path, then turn into the position behind it. Enter the marked corona with controlled alignment instead of repeatedly diving across the target. Complete the cabin section, take control of the other aircraft and return for a safe landing. Do not assume reaching the air-interception marker finishes the mission.",
+            "pt": "Ganhe altitude ao seguir na direção da aeronave que se aproxima. O Dodo fornecido é lento demais para uma perseguição longa começando muito atrás; use a aproximação para interceptar perto da rota dela e vire para a posição traseira. Entre na marcação com alinhamento controlado, sem cruzar o alvo repetidamente em mergulhos. Conclua a etapa na cabine, assuma o controle da outra aeronave e volte para pousar com segurança. Alcançar a marcação da interceptação aérea não encerra a missão."
+          }
+        },
+        {
+          "key": "high-noon",
+          "title": "Complete High Noon",
+          "title_i18n": {
+            "en": "Complete High Noon",
+            "pt": "Concluir High Noon"
+          },
+          "description": "Follow the desert confrontation through the pursuit.",
+          "description_i18n": {
+            "en": "Follow the desert confrontation through the pursuit.",
+            "pt": "Acompanhe o confronto no deserto até a perseguição."
+          }
+        },
+        {
+          "key": "saint-mark-s-bistro",
+          "title": "Complete Saint Mark's Bistro",
+          "title_i18n": {
+            "en": "Complete Saint Mark's Bistro",
+            "pt": "Concluir Saint Mark's Bistro"
+          },
+          "description": "Complete the overseas operation and fly back.",
+          "description_i18n": {
+            "en": "Complete the overseas operation and fly back.",
+            "pt": "Conclua a operação fora do estado e volte de avião."
+          }
+        }
+      ]
+    },
+    {
+      "key": "return-to-los-santos",
+      "title": "Return to Los Santos",
+      "title_i18n": {
+        "en": "Return to Los Santos",
+        "pt": "Retorno a Los Santos"
+      },
+      "items": [
+        {
+          "key": "a-home-in-the-hills",
+          "title": "Complete A Home In The Hills",
+          "title_i18n": {
+            "en": "Complete A Home In The Hills",
+            "pt": "Concluir A Home In The Hills"
+          },
+          "description": "Support the mansion assault and complete the recovery.",
+          "description_i18n": {
+            "en": "Support the mansion assault and complete the recovery.",
+            "pt": "Apoie o ataque à mansão e conclua a recuperação."
+          }
+        },
+        {
+          "key": "vertical-bird",
+          "title": "Complete Vertical Bird",
+          "title_i18n": {
+            "en": "Complete Vertical Bird",
+            "pt": "Concluir Vertical Bird"
+          },
+          "description": "Complete the military-aircraft operation and return to the airfield.",
+          "description_i18n": {
+            "en": "Complete the military-aircraft operation and return to the airfield.",
+            "pt": "Conclua a operação com a aeronave militar e retorne ao aeródromo."
+          },
+          "details": "Enter the carrier discreetly and disable its SAM defenses from the control room before stealing a Hydra. Once airborne, distinguish hover control from forward-flight mode: leaving the nozzles in the wrong position makes the jet feel inexplicably slow. Deal with the pursuing fighters, then use target lock and clear firing angles on the marked boats. Return to Verdant Meadows and switch back to a controlled landing approach. Finish the hangar handover rather than abandoning the jet after destroying the targets.",
+          "details_i18n": {
+            "en": "Enter the carrier discreetly and disable its SAM defenses from the control room before stealing a Hydra. Once airborne, distinguish hover control from forward-flight mode: leaving the nozzles in the wrong position makes the jet feel inexplicably slow. Deal with the pursuing fighters, then use target lock and clear firing angles on the marked boats. Return to Verdant Meadows and switch back to a controlled landing approach. Finish the hangar handover rather than abandoning the jet after destroying the targets.",
+            "pt": "Entre discretamente no porta-aviões e desative as defesas SAM na sala de controle antes de roubar um Hydra. Ao decolar, diferencie o controle de pairar do modo de voo para a frente: deixar os bocais na posição errada faz o jato parecer inexplicavelmente lento. Resolva os caças perseguidores e use a trava de alvo com ângulos livres nos barcos marcados. Volte a Verdant Meadows e prepare uma aproximação controlada de pouso. Termine a entrega no hangar, sem abandonar o jato após destruir os alvos."
+          }
+        },
+        {
+          "key": "home-coming",
+          "title": "Complete Home Coming",
+          "title_i18n": {
+            "en": "Complete Home Coming",
+            "pt": "Concluir Home Coming"
+          },
+          "description": "Follow the pickup and neighborhood recovery.",
+          "description_i18n": {
+            "en": "Follow the pickup and neighborhood recovery.",
+            "pt": "Siga a busca e a recuperação do bairro."
+          }
+        },
+        {
+          "key": "cut-throat-business",
+          "title": "Complete Cut Throat Business",
+          "title_i18n": {
+            "en": "Complete Cut Throat Business",
+            "pt": "Concluir Cut Throat Business"
+          },
+          "description": "Follow the extended pursuit through its vehicle changes.",
+          "description_i18n": {
+            "en": "Follow the extended pursuit through its vehicle changes.",
+            "pt": "Siga a perseguição prolongada nas trocas de veículos."
+          }
+        },
+        {
+          "key": "beat-down-on-b-dup",
+          "title": "Complete Beat Down On B Dup",
+          "title_i18n": {
+            "en": "Complete Beat Down On B Dup",
+            "pt": "Concluir Beat Down On B Dup"
+          },
+          "description": "Complete Sweet's investigation and confrontation.",
+          "description_i18n": {
+            "en": "Complete Sweet's investigation and confrontation.",
+            "pt": "Conclua a investigação e o confronto de Sweet."
+          }
+        },
+        {
+          "key": "grove-4-life",
+          "title": "Complete Grove 4 Life",
+          "title_i18n": {
+            "en": "Complete Grove 4 Life",
+            "pt": "Concluir Grove 4 Life"
+          },
+          "description": "Complete the requested neighborhood takeovers.",
+          "description_i18n": {
+            "en": "Complete the requested neighborhood takeovers.",
+            "pt": "Conclua as tomadas de bairros solicitadas."
+          }
+        },
+        {
+          "key": "riot",
+          "title": "Complete Riot",
+          "title_i18n": {
+            "en": "Complete Riot",
+            "pt": "Concluir Riot"
+          },
+          "description": "Attend the story meeting and return through the unrest.",
+          "description_i18n": {
+            "en": "Attend the story meeting and return through the unrest.",
+            "pt": "Participe do encontro da história e volte durante os distúrbios."
+          }
+        },
+        {
+          "key": "los-desperados",
+          "title": "Complete Los Desperados",
+          "title_i18n": {
+            "en": "Complete Los Desperados",
+            "pt": "Concluir Los Desperados"
+          },
+          "description": "Recruit support and help Cesar recover the area.",
+          "description_i18n": {
+            "en": "Recruit support and help Cesar recover the area.",
+            "pt": "Recrute apoio e ajude Cesar a recuperar a área."
+          }
+        },
+        {
+          "key": "unlock-end-of-line-territory",
+          "title": "Meet the final territory requirement",
+          "title_i18n": {
+            "en": "Meet the final territory requirement",
+            "pt": "Cumprir o requisito final de territórios"
+          },
+          "description": "After the late story jobs, control at least thirty-five percent of gang territories for the finale call.",
+          "description_i18n": {
+            "en": "After the late story jobs, control at least thirty-five percent of gang territories for the finale call.",
+            "pt": "Após os trabalhos finais da história, controle pelo menos trinta e cinco por cento dos territórios de gangues para a ligação do final."
+          },
+          "details": "After Los Desperados and the late return-to-Los-Santos strand, build Grove Street control to at least thirty-five percent of gang territories. Check the gang statistics and continue taking enemy areas until Sweet's finale call arrives. You do not need every territory or a particular percentage of the geographical map. Start a gang war in the relevant enemy area and survive its waves; random fighting outside a valid territory does not replace a takeover. Full territorial control is an optional mastery goal, not a separate native 100% requirement.",
+          "details_i18n": {
+            "en": "After Los Desperados and the late return-to-Los-Santos strand, build Grove Street control to at least thirty-five percent of gang territories. Check the gang statistics and continue taking enemy areas until Sweet's finale call arrives. You do not need every territory or a particular percentage of the geographical map. Start a gang war in the relevant enemy area and survive its waves; random fighting outside a valid territory does not replace a takeover. Full territorial control is an optional mastery goal, not a separate native 100% requirement.",
+            "pt": "Após Los Desperados e a sequência final do retorno a Los Santos, aumente o controle da Grove Street para pelo menos trinta e cinco por cento dos territórios de gangues. Confira as estatísticas e continue tomando áreas inimigas até chegar a ligação final de Sweet. Não é preciso dominar tudo nem uma porcentagem específica da área geográfica do mapa. Inicie a guerra na área inimiga válida e sobreviva às ondas; combater aleatoriamente fora dela não substitui uma tomada. Domínio territorial completo é uma meta opcional, não uma exigência separada de 100%."
+          }
+        },
+        {
+          "key": "end-of-the-line",
+          "title": "Complete End Of The Line",
+          "title_i18n": {
+            "en": "Complete End Of The Line",
+            "pt": "Concluir End Of The Line"
+          },
+          "description": "Complete every phase of the final operation.",
+          "description_i18n": {
+            "en": "Complete every phase of the final operation.",
+            "pt": "Conclua todas as fases da operação final."
+          },
+          "details": "Save before starting and bring strong weapons, full armor and plenty of ammunition. Use the supplied armored vehicle to enter the compound, then clear each interior floor without rushing into overlapping fire. Follow the boss phase and collect the extinguisher for the burning escape; the Firefighter reward can help but is not mandatory. In the later pursuit, focus on staying beneath the hanging ally when instructed, then switch to the shooting role and prioritize immediate threats to the vehicle. Surviving only the building does not finish the finale.",
+          "details_i18n": {
+            "en": "Save before starting and bring strong weapons, full armor and plenty of ammunition. Use the supplied armored vehicle to enter the compound, then clear each interior floor without rushing into overlapping fire. Follow the boss phase and collect the extinguisher for the burning escape; the Firefighter reward can help but is not mandatory. In the later pursuit, focus on staying beneath the hanging ally when instructed, then switch to the shooting role and prioritize immediate threats to the vehicle. Surviving only the building does not finish the finale.",
+            "pt": "Salve antes de começar e leve armas fortes, colete completo e bastante munição. Use o blindado fornecido para entrar no prédio e limpe cada andar sem correr para fogo cruzado. Acompanhe a fase do chefe e recolha o extintor para a fuga em chamas; a recompensa de Firefighter ajuda, mas não é obrigatória. Na perseguição posterior, mantenha-se sob o aliado pendurado quando solicitado, mude depois ao papel de atirador e priorize ameaças imediatas ao veículo. Sobreviver apenas ao prédio não encerra o final."
+          }
+        }
+      ]
+    },
+    {
+      "key": "optional-zero-rc-shop",
+      "title": "Optional: Zero RC shop",
+      "title_i18n": {
+        "en": "Optional: Zero RC shop",
+        "pt": "Opcional: loja de controle remoto de Zero"
+      },
+      "items": [
+        {
+          "key": "purchase-zero-rc-shop",
+          "title": "Purchase Zero RC",
+          "title_i18n": {
+            "en": "Purchase Zero RC",
+            "pt": "Comprar Zero RC"
+          },
+          "description": "Buy the San Fierro shop for its optional missions; these are required for 100%, not the ending.",
+          "description_i18n": {
+            "en": "Buy the San Fierro shop for its optional missions; these are required for 100%, not the ending.",
+            "pt": "Compre a loja de San Fierro para suas missões opcionais; elas são exigidas para 100%, não para o final."
+          }
+        },
+        {
+          "key": "air-raid",
+          "title": "Complete Air Raid",
+          "title_i18n": {
+            "en": "Complete Air Raid",
+            "pt": "Concluir Air Raid"
+          },
+          "description": "Defend the transmitters through the full attack.",
+          "description_i18n": {
+            "en": "Defend the transmitters through the full attack.",
+            "pt": "Defenda os transmissores durante todo o ataque."
+          }
+        },
+        {
+          "key": "supply-lines",
+          "title": "Complete Supply Lines...",
+          "title_i18n": {
+            "en": "Complete Supply Lines...",
+            "pt": "Concluir Supply Lines..."
+          },
+          "description": "Complete the courier targets and bring the remote aircraft back.",
+          "description_i18n": {
+            "en": "Complete the courier targets and bring the remote aircraft back.",
+            "pt": "Conclua os alvos de entregadores e traga a aeronave remota de volta."
+          },
+          "details": "This is optional for the ending but required for 100%. Early original PS2 copies consume the RC plane's fuel as time passes even when gliding, unlike later revisions that allow throttle-based fuel savings. Do not rely on a later-version coasting trick as a guaranteed solution. Plan an efficient sweep of all five courier targets, line up controlled firing passes and reserve enough fuel for the return to Zero's roof. Destroying the last courier without getting back does not complete the job.",
+          "details_i18n": {
+            "en": "This is optional for the ending but required for 100%. Early original PS2 copies consume the RC plane's fuel as time passes even when gliding, unlike later revisions that allow throttle-based fuel savings. Do not rely on a later-version coasting trick as a guaranteed solution. Plan an efficient sweep of all five courier targets, line up controlled firing passes and reserve enough fuel for the return to Zero's roof. Destroying the last courier without getting back does not complete the job.",
+            "pt": "Esta missão é opcional para o final, mas exigida para 100%. As primeiras cópias originais de PS2 consomem combustível do avião remoto com a passagem do tempo mesmo ao planar, diferentemente de revisões posteriores que permitem economizar pelo acelerador. Não dependa de uma técnica de planar de outra versão como solução garantida. Planeje uma busca eficiente dos cinco entregadores, alinhe passagens controladas de tiro e reserve combustível para voltar ao teto de Zero. Destruir o último entregador sem retornar não conclui o trabalho."
+          }
+        },
+        {
+          "key": "new-model-army",
+          "title": "Complete New Model Army",
+          "title_i18n": {
+            "en": "Complete New Model Army",
+            "pt": "Concluir New Model Army"
+          },
+          "description": "Support Zero's vehicle through the miniature battlefield.",
+          "description_i18n": {
+            "en": "Support Zero's vehicle through the miniature battlefield.",
+            "pt": "Apoie o veículo de Zero pelo campo de batalha em miniatura."
+          },
+          "details": "Use the remote helicopter's magnet to clear barrels from Zero's route and place bridge pieces across the gaps. Do not spend the opening minutes moving unrelated scenery while his vehicle remains blocked. When enemy tanks threaten the route, collect a bomb and remove the obstruction before returning to bridge work. Keep checking where Zero's vehicle actually is; your next useful action is the obstacle ahead of him, not necessarily the closest pickup to your helicopter. Finish the escort to the opposing base.",
+          "details_i18n": {
+            "en": "Use the remote helicopter's magnet to clear barrels from Zero's route and place bridge pieces across the gaps. Do not spend the opening minutes moving unrelated scenery while his vehicle remains blocked. When enemy tanks threaten the route, collect a bomb and remove the obstruction before returning to bridge work. Keep checking where Zero's vehicle actually is; your next useful action is the obstacle ahead of him, not necessarily the closest pickup to your helicopter. Finish the escort to the opposing base.",
+            "pt": "Use o ímã do helicóptero remoto para tirar barris do caminho de Zero e colocar peças de ponte nos vãos. Não desperdice o início movendo objetos sem relação enquanto o veículo dele continua bloqueado. Quando tanques inimigos ameaçarem a rota, pegue uma bomba e remova a ameaça antes de voltar às pontes. Confira onde o veículo de Zero está: sua próxima ação útil é resolver o obstáculo à frente dele, não necessariamente buscar o item mais próximo do helicóptero. Termine a escolta até a base adversária."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "optional-driving-school-and-wang-cars",
+      "title": "Optional: driving school and Wang Cars",
+      "title_i18n": {
+        "en": "Optional: driving school and Wang Cars",
+        "pt": "Opcional: autoescola e Wang Cars"
+      },
+      "items": [
+        {
+          "key": "back-to-school",
+          "title": "Complete Back To School",
+          "title_i18n": {
+            "en": "Complete Back To School",
+            "pt": "Concluir Back To School"
+          },
+          "description": "Pass the San Fierro driving-school tests with at least bronze.",
+          "description_i18n": {
+            "en": "Pass the San Fierro driving-school tests with at least bronze.",
+            "pt": "Passe nos testes da autoescola de San Fierro com pelo menos bronze."
+          }
+        },
+        {
+          "key": "purchase-wang-cars",
+          "title": "Purchase Wang Cars",
+          "title_i18n": {
+            "en": "Purchase Wang Cars",
+            "pt": "Comprar Wang Cars"
+          },
+          "description": "Finish driving school and Yay Ka-Boom-Boom, follow the call and purchase the dealership.",
+          "description_i18n": {
+            "en": "Finish driving school and Yay Ka-Boom-Boom, follow the call and purchase the dealership.",
+            "pt": "Termine a autoescola e Yay Ka-Boom-Boom, siga a ligação e compre a concessionária."
+          }
+        },
+        {
+          "key": "zeroing-in",
+          "title": "Complete Zeroing In",
+          "title_i18n": {
+            "en": "Complete Zeroing In",
+            "pt": "Concluir Zeroing In"
+          },
+          "description": "Track the requested car and complete the delivery.",
+          "description_i18n": {
+            "en": "Track the requested car and complete the delivery.",
+            "pt": "Acompanhe o carro solicitado e conclua a entrega."
+          }
+        },
+        {
+          "key": "test-drive",
+          "title": "Complete Test Drive",
+          "title_i18n": {
+            "en": "Complete Test Drive",
+            "pt": "Concluir Test Drive"
+          },
+          "description": "Stay with Cesar through the vehicle test and return.",
+          "description_i18n": {
+            "en": "Stay with Cesar through the vehicle test and return.",
+            "pt": "Acompanhe Cesar no teste dos veículos e no retorno."
+          }
+        },
+        {
+          "key": "customs-fast-track",
+          "title": "Complete Customs Fast Track",
+          "title_i18n": {
+            "en": "Complete Customs Fast Track",
+            "pt": "Concluir Customs Fast Track"
+          },
+          "description": "Use the dock equipment to recover the correct vehicle.",
+          "description_i18n": {
+            "en": "Use the dock equipment to recover the correct vehicle.",
+            "pt": "Use o equipamento do cais para recuperar o veículo correto."
+          }
+        },
+        {
+          "key": "puncture-wounds",
+          "title": "Complete Puncture Wounds",
+          "title_i18n": {
+            "en": "Complete Puncture Wounds",
+            "pt": "Concluir Puncture Wounds"
+          },
+          "description": "Complete the vehicle interception and delivery.",
+          "description_i18n": {
+            "en": "Complete the vehicle interception and delivery.",
+            "pt": "Conclua a interceptação e a entrega do veículo."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "optional-caligulas-casino-heist",
+      "title": "Optional: Caligula's casino heist",
+      "title_i18n": {
+        "en": "Optional: Caligula's casino heist",
+        "pt": "Opcional: assalto ao cassino Caligula's"
+      },
+      "items": [
+        {
+          "key": "architectural-espionage",
+          "title": "Complete Architectural Espionage",
+          "title_i18n": {
+            "en": "Complete Architectural Espionage",
+            "pt": "Concluir Architectural Espionage"
+          },
+          "description": "Obtain the requested building information and leave the area.",
+          "description_i18n": {
+            "en": "Obtain the requested building information and leave the area.",
+            "pt": "Obtenha as informações solicitadas do prédio e saia da área."
+          }
+        },
+        {
+          "key": "key-to-her-heart",
+          "title": "Complete Key To Her Heart",
+          "title_i18n": {
+            "en": "Complete Key To Her Heart",
+            "pt": "Concluir Key To Her Heart"
+          },
+          "description": "Follow the target discreetly and establish the required access opportunity.",
+          "description_i18n": {
+            "en": "Follow the target discreetly and establish the required access opportunity.",
+            "pt": "Siga o alvo discretamente e estabeleça a oportunidade de acesso exigida."
+          }
+        },
+        {
+          "key": "dam-and-blast",
+          "title": "Complete Dam And Blast",
+          "title_i18n": {
+            "en": "Complete Dam And Blast",
+            "pt": "Concluir Dam And Blast"
+          },
+          "description": "Complete the dam infiltration and sabotage operation.",
+          "description_i18n": {
+            "en": "Complete the dam infiltration and sabotage operation.",
+            "pt": "Conclua a infiltração e a sabotagem na represa."
+          }
+        },
+        {
+          "key": "cop-wheels",
+          "title": "Complete Cop Wheels",
+          "title_i18n": {
+            "en": "Complete Cop Wheels",
+            "pt": "Concluir Cop Wheels"
+          },
+          "description": "Recover and deliver every requested police motorcycle.",
+          "description_i18n": {
+            "en": "Recover and deliver every requested police motorcycle.",
+            "pt": "Recupere e entregue todas as motos policiais solicitadas."
+          }
+        },
+        {
+          "key": "up-up-and-away",
+          "title": "Complete Up, Up And Away!",
+          "title_i18n": {
+            "en": "Complete Up, Up And Away!",
+            "pt": "Concluir Up, Up And Away!"
+          },
+          "description": "Complete the lifting operation and deliver the requested equipment.",
+          "description_i18n": {
+            "en": "Complete the lifting operation and deliver the requested equipment.",
+            "pt": "Conclua a operação de içamento e entregue o equipamento solicitado."
+          }
+        },
+        {
+          "key": "breaking-the-bank-at-caligula-s",
+          "title": "Complete Breaking The Bank At Caligula's",
+          "title_i18n": {
+            "en": "Complete Breaking The Bank At Caligula's",
+            "pt": "Concluir Breaking The Bank At Caligula's"
+          },
+          "description": "Complete the optional heist through the final extraction.",
+          "description_i18n": {
+            "en": "Complete the optional heist through the final extraction.",
+            "pt": "Conclua o assalto opcional até a extração final."
+          },
+          "details": "The optional heist finale needs the preparation strand through Up, Up And Away!, the main-story Saint Mark's Bistro and Millie's keycard. After Key To Her Heart, continue the relationship opportunity and follow the calls until the card can be collected; completing the introductory tail alone does not supply it. During the heist, open access for the crew within the timer, then destroy the backup generators when instructed so the vault team can proceed. Complete the escape and final rendezvous. This entire heist strand can be postponed beyond the main ending, although 100% still requires it.",
+          "details_i18n": {
+            "en": "The optional heist finale needs the preparation strand through Up, Up And Away!, the main-story Saint Mark's Bistro and Millie's keycard. After Key To Her Heart, continue the relationship opportunity and follow the calls until the card can be collected; completing the introductory tail alone does not supply it. During the heist, open access for the crew within the timer, then destroy the backup generators when instructed so the vault team can proceed. Complete the escape and final rendezvous. This entire heist strand can be postponed beyond the main ending, although 100% still requires it.",
+            "pt": "O final do assalto opcional exige os preparativos até Up, Up And Away!, Saint Mark's Bistro da história principal e o cartão de Millie. Após Key To Her Heart, continue a oportunidade de relacionamento e acompanhe as ligações até poder recolher o cartão; terminar apenas a perseguição inicial não o fornece. Durante o assalto, abra o acesso da equipe dentro do prazo e destrua os geradores de reserva quando solicitado para liberar o avanço até o cofre. Conclua a fuga e o encontro final. Toda essa sequência pode ficar para depois do final principal, embora ainda seja exigida para 100%."
+          }
+        }
+      ],
+      "kind": "side"
+    },
+    {
+      "key": "optional-services-and-assets",
+      "title": "Optional services and asset work",
+      "title_i18n": {
+        "en": "Optional services and asset work",
+        "pt": "Serviços opcionais e trabalhos de negócios"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "complete-paramedic-level-twelve",
+          "title": "Complete Paramedic level twelve",
+          "title_i18n": {
+            "en": "Complete Paramedic level twelve",
+            "pt": "Concluir o nível doze de Paramedic"
+          },
+          "description": "Finish all twelve levels in one active ambulance run.",
+          "description_i18n": {
+            "en": "Finish all twelve levels in one active ambulance run.",
+            "pt": "Conclua os doze níveis em uma tentativa ativa de ambulância."
+          },
+          "details": "Finish all twelve levels during one active attempt. The ambulance holds three patients, so later levels require several planned trips to the hospital. Stop early beside a patient rather than striking them, and avoid leaving or overturning the ambulance. Angel Pine offers short journeys and relatively little traffic, making it a useful location after the countryside opens. This convenience is optional: the same level-twelve objective can be completed elsewhere. Save before starting a long run and verify the reward after the final delivery.",
+          "details_i18n": {
+            "en": "Finish all twelve levels during one active attempt. The ambulance holds three patients, so later levels require several planned trips to the hospital. Stop early beside a patient rather than striking them, and avoid leaving or overturning the ambulance. Angel Pine offers short journeys and relatively little traffic, making it a useful location after the countryside opens. This convenience is optional: the same level-twelve objective can be completed elsewhere. Save before starting a long run and verify the reward after the final delivery.",
+            "pt": "Termine os doze níveis na mesma tentativa ativa. A ambulância leva três pacientes; os níveis posteriores exigem várias viagens planejadas ao hospital. Pare cedo ao lado dos pacientes para não atingi-los e evite sair da ambulância ou capotá-la. Angel Pine oferece trajetos curtos e pouco trânsito, sendo um local útil após liberar o interior. Essa facilidade é opcional: a mesma meta do nível doze pode ser cumprida em outros lugares. Salve antes de uma tentativa longa e confira a recompensa após a última entrega."
+          }
+        },
+        {
+          "key": "complete-firefighter-level-twelve",
+          "title": "Complete Firefighter level twelve",
+          "title_i18n": {
+            "en": "Complete Firefighter level twelve",
+            "pt": "Concluir o nível doze de Firefighter"
+          },
+          "description": "Finish level twelve and extinguish the required people as well as their vehicles.",
+          "description_i18n": {
+            "en": "Finish level twelve and extinguish the required people as well as their vehicles.",
+            "pt": "Termine o nível doze e apague as pessoas exigidas, além dos veículos."
+          }
+        },
+        {
+          "key": "complete-vigilante-level-twelve",
+          "title": "Complete Vigilante level twelve",
+          "title_i18n": {
+            "en": "Complete Vigilante level twelve",
+            "pt": "Concluir o nível doze de Vigilante"
+          },
+          "description": "Finish twelve consecutive levels using a qualifying law-enforcement vehicle.",
+          "description_i18n": {
+            "en": "Finish twelve consecutive levels using a qualifying law-enforcement vehicle.",
+            "pt": "Conclua doze níveis consecutivos usando um veículo válido das forças de segurança."
+          }
+        },
+        {
+          "key": "complete-fifty-taxi-fares",
+          "title": "Complete fifty taxi fares",
+          "title_i18n": {
+            "en": "Complete fifty taxi fares",
+            "pt": "Concluir cinquenta corridas de táxi"
+          },
+          "description": "This is a cumulative total, not Vice City's hundred-fare target.",
+          "description_i18n": {
+            "en": "This is a cumulative total, not Vice City's hundred-fare target.",
+            "pt": "Este total é cumulativo, não a meta de cem corridas de Vice City."
+          }
+        },
+        {
+          "key": "complete-pimping-level-ten",
+          "title": "Complete Pimping level ten",
+          "title_i18n": {
+            "en": "Complete Pimping level ten",
+            "pt": "Concluir o nível dez de Pimping"
+          },
+          "description": "Use a Broadway and finish the ten-level passenger-work activity.",
+          "description_i18n": {
+            "en": "Use a Broadway and finish the ten-level passenger-work activity.",
+            "pt": "Use um Broadway e conclua a atividade de passageiros de dez níveis."
+          }
+        },
+        {
+          "key": "complete-freight-train-level-two",
+          "title": "Complete Freight Train level two",
+          "title_i18n": {
+            "en": "Complete Freight Train level two",
+            "pt": "Concluir o nível dois de Freight Train"
+          },
+          "description": "Complete both freight-delivery levels after the state routes are available.",
+          "description_i18n": {
+            "en": "Complete both freight-delivery levels after the state routes are available.",
+            "pt": "Conclua os dois níveis de entregas ferroviárias após liberar as rotas do estado."
+          },
+          "details": "Use a driveable freight locomotive once the state rail network is open. Watch both speed and the distance to the next station; begin braking well before the stop rather than applying the brake at the marker. Excessive speed can derail the train, and overshooting wastes the delivery window while reversing. Learn the station spacing during the first level and carry that rhythm into the second. This goal is the train activity, not a requirement to complete every unrelated mission involving a train.",
+          "details_i18n": {
+            "en": "Use a driveable freight locomotive once the state rail network is open. Watch both speed and the distance to the next station; begin braking well before the stop rather than applying the brake at the marker. Excessive speed can derail the train, and overshooting wastes the delivery window while reversing. Learn the station spacing during the first level and carry that rhythm into the second. This goal is the train activity, not a requirement to complete every unrelated mission involving a train.",
+            "pt": "Use uma locomotiva de carga dirigível após liberar a rede ferroviária do estado. Observe a velocidade e a distância à próxima estação; comece a frear bem antes da parada, não sobre a marcação. Velocidade excessiva pode descarrilar o trem, e passar do ponto desperdiça o prazo ao voltar de ré. Aprenda os intervalos entre estações no primeiro nível e mantenha esse ritmo no segundo. Esta meta é a atividade ferroviária, não a conclusão de toda missão sem relação que envolva um trem."
+          }
+        },
+        {
+          "key": "complete-valet-level-five",
+          "title": "Complete Valet Parking level five",
+          "title_i18n": {
+            "en": "Complete Valet Parking level five",
+            "pt": "Concluir o nível cinco de Valet Parking"
+          },
+          "description": "Use the valet uniform after 555 We Tip and finish the hotel's parking activity.",
+          "description_i18n": {
+            "en": "Use the valet uniform after 555 We Tip and finish the hotel's parking activity.",
+            "pt": "Use o uniforme de manobrista após 555 We Tip e conclua a atividade de estacionamento do hotel."
+          }
+        },
+        {
+          "key": "complete-roboi-courier",
+          "title": "Complete Roboi's Food Mart courier work",
+          "title_i18n": {
+            "en": "Complete Roboi's Food Mart courier work",
+            "pt": "Concluir as entregas de Roboi's Food Mart"
+          },
+          "description": "Finish all four courier levels in Los Santos.",
+          "description_i18n": {
+            "en": "Finish all four courier levels in Los Santos.",
+            "pt": "Conclua os quatro níveis de entregas em Los Santos."
+          }
+        },
+        {
+          "key": "complete-hippy-shopper-courier",
+          "title": "Complete Hippy Shopper courier work",
+          "title_i18n": {
+            "en": "Complete Hippy Shopper courier work",
+            "pt": "Concluir as entregas de Hippy Shopper"
+          },
+          "description": "Finish all four courier levels in San Fierro.",
+          "description_i18n": {
+            "en": "Finish all four courier levels in San Fierro.",
+            "pt": "Conclua os quatro níveis de entregas em San Fierro."
+          }
+        },
+        {
+          "key": "complete-burger-shot-courier",
+          "title": "Complete Burger Shot courier work",
+          "title_i18n": {
+            "en": "Complete Burger Shot courier work",
+            "pt": "Concluir as entregas de Burger Shot"
+          },
+          "description": "Finish all four courier levels in Las Venturas.",
+          "description_i18n": {
+            "en": "Finish all four courier levels in Las Venturas.",
+            "pt": "Conclua os quatro níveis de entregas em Las Venturas."
+          }
+        },
+        {
+          "key": "complete-eight-trucking-jobs",
+          "title": "Complete all eight Trucking jobs",
+          "title_i18n": {
+            "en": "Complete all eight Trucking jobs",
+            "pt": "Concluir os oito trabalhos de Trucking"
+          },
+          "description": "Return to RS Haul for the full sequence as the required regions become available.",
+          "description_i18n": {
+            "en": "Return to RS Haul for the full sequence as the required regions become available.",
+            "pt": "Volte a RS Haul para a sequência completa conforme as regiões exigidas forem liberadas."
+          }
+        },
+        {
+          "key": "complete-seven-quarry-jobs",
+          "title": "Complete all seven Quarry jobs",
+          "title_i18n": {
+            "en": "Complete all seven Quarry jobs",
+            "pt": "Concluir os sete trabalhos da pedreira"
+          },
+          "description": "Return after Explosive Situation and finish the complete quarry sequence.",
+          "description_i18n": {
+            "en": "Return after Explosive Situation and finish the complete quarry sequence.",
+            "pt": "Volte após Explosive Situation e termine a sequência completa da pedreira."
+          }
+        },
+        {
+          "key": "optional-burglary-cash-goal",
+          "title": "Optional: earn $10,000 from Burglary",
+          "title_i18n": {
+            "en": "Optional: earn $10,000 from Burglary",
+            "pt": "Opcional: ganhar $10.000 com Burglary"
+          },
+          "description": "This nighttime activity is optional even for native 100%; do not confuse it with Catalina's required robberies.",
+          "description_i18n": {
+            "en": "This nighttime activity is optional even for native 100%; do not confuse it with Catalina's required robberies.",
+            "pt": "Essa atividade noturna é opcional até para 100%; não a confunda com os roubos obrigatórios de Catalina."
+          }
+        }
+      ]
+    },
+    {
+      "key": "optional-schools-gyms-and-challenges",
+      "title": "Optional schools, gyms and challenges",
+      "title_i18n": {
+        "en": "Optional schools, gyms and challenges",
+        "pt": "Escolas, academias e desafios opcionais"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "complete-boat-school-bronze",
+          "title": "Earn bronze throughout Boat School",
+          "title_i18n": {
+            "en": "Earn bronze throughout Boat School",
+            "pt": "Obter bronze em toda a escola de barcos"
+          },
+          "description": "Pass every Tierra Robada boat test for the 100% school goal.",
+          "description_i18n": {
+            "en": "Pass every Tierra Robada boat test for the 100% school goal.",
+            "pt": "Passe em todos os testes de barco em Tierra Robada para a meta de escolas de 100%."
+          }
+        },
+        {
+          "key": "complete-bike-school-bronze",
+          "title": "Earn bronze throughout Bike School",
+          "title_i18n": {
+            "en": "Earn bronze throughout Bike School",
+            "pt": "Obter bronze em toda a escola de motos"
+          },
+          "description": "Pass every Las Venturas motorcycle test; gold medals are optional.",
+          "description_i18n": {
+            "en": "Pass every Las Venturas motorcycle test; gold medals are optional.",
+            "pt": "Passe em todos os testes de moto de Las Venturas; medalhas de ouro são opcionais."
+          }
+        },
+        {
+          "key": "learn-los-santos-boxing",
+          "title": "Learn the Los Santos gym moves",
+          "title_i18n": {
+            "en": "Learn the Los Santos gym moves",
+            "pt": "Aprender os golpes da academia de Los Santos"
+          },
+          "description": "Meet the trainer's condition and win the training bout.",
+          "description_i18n": {
+            "en": "Meet the trainer's condition and win the training bout.",
+            "pt": "Cumpra a condição do treinador e vença a luta de treinamento."
+          }
+        },
+        {
+          "key": "learn-san-fierro-martial-arts",
+          "title": "Learn the San Fierro gym moves",
+          "title_i18n": {
+            "en": "Learn the San Fierro gym moves",
+            "pt": "Aprender os golpes da academia de San Fierro"
+          },
+          "description": "Complete this gym's separate fighting-style lesson.",
+          "description_i18n": {
+            "en": "Complete this gym's separate fighting-style lesson.",
+            "pt": "Conclua a aula separada de estilo de luta desta academia."
+          }
+        },
+        {
+          "key": "learn-las-venturas-kickboxing",
+          "title": "Learn the Las Venturas gym moves",
+          "title_i18n": {
+            "en": "Learn the Las Venturas gym moves",
+            "pt": "Aprender os golpes da academia de Las Venturas"
+          },
+          "description": "Finish the third city's separate fighting-style lesson.",
+          "description_i18n": {
+            "en": "Finish the third city's separate fighting-style lesson.",
+            "pt": "Termine a aula separada de estilo de luta da terceira cidade."
+          }
+        },
+        {
+          "key": "complete-bmx-challenge",
+          "title": "Complete the BMX Challenge",
+          "title_i18n": {
+            "en": "Complete the BMX Challenge",
+            "pt": "Concluir o BMX Challenge"
+          },
+          "description": "Prepare sufficient cycling ability and complete the Glen Park checkpoint course.",
+          "description_i18n": {
+            "en": "Prepare sufficient cycling ability and complete the Glen Park checkpoint course.",
+            "pt": "Prepare habilidade suficiente de ciclismo e conclua o percurso de checkpoints de Glen Park."
+          }
+        },
+        {
+          "key": "complete-nrg-five-hundred-challenge",
+          "title": "Complete the NRG-500 Challenge",
+          "title_i18n": {
+            "en": "Complete the NRG-500 Challenge",
+            "pt": "Concluir o NRG-500 Challenge"
+          },
+          "description": "Use the dock motorcycle and finish the timed checkpoint course.",
+          "description_i18n": {
+            "en": "Use the dock motorcycle and finish the timed checkpoint course.",
+            "pt": "Use a moto do cais e termine o percurso cronometrado de checkpoints."
+          }
+        },
+        {
+          "key": "complete-chiliad-scotch-bonnet",
+          "title": "Win the Scotch Bonnet Yellow Route",
+          "title_i18n": {
+            "en": "Win the Scotch Bonnet Yellow Route",
+            "pt": "Vencer a Scotch Bonnet Yellow Route"
+          },
+          "description": "Complete the first Mount Chiliad bicycle race.",
+          "description_i18n": {
+            "en": "Complete the first Mount Chiliad bicycle race.",
+            "pt": "Conclua a primeira corrida de bicicleta do Mount Chiliad."
+          }
+        },
+        {
+          "key": "complete-chiliad-birdseye",
+          "title": "Win the Birdseye Winder route",
+          "title_i18n": {
+            "en": "Win the Birdseye Winder route",
+            "pt": "Vencer a rota Birdseye Winder"
+          },
+          "description": "Complete the second Mount Chiliad bicycle race.",
+          "description_i18n": {
+            "en": "Complete the second Mount Chiliad bicycle race.",
+            "pt": "Conclua a segunda corrida de bicicleta do Mount Chiliad."
+          }
+        },
+        {
+          "key": "complete-chiliad-cobra",
+          "title": "Win the Cobra Run",
+          "title_i18n": {
+            "en": "Win the Cobra Run",
+            "pt": "Vencer a Cobra Run"
+          },
+          "description": "Complete the third Mount Chiliad bicycle race.",
+          "description_i18n": {
+            "en": "Complete the third Mount Chiliad bicycle race.",
+            "pt": "Conclua a terceira corrida de bicicleta do Mount Chiliad."
+          }
+        },
+        {
+          "key": "complete-pistol-range",
+          "title": "Complete the Pistol range challenge",
+          "title_i18n": {
+            "en": "Complete the Pistol range challenge",
+            "pt": "Concluir o desafio de pistola do estande"
+          },
+          "description": "Pass all rounds for this weapon category.",
+          "description_i18n": {
+            "en": "Pass all rounds for this weapon category.",
+            "pt": "Passe em todas as rodadas desta categoria de arma."
+          }
+        },
+        {
+          "key": "complete-smg-range",
+          "title": "Complete the SMG range challenge",
+          "title_i18n": {
+            "en": "Complete the SMG range challenge",
+            "pt": "Concluir o desafio de SMG do estande"
+          },
+          "description": "Finish the submachine-gun category separately.",
+          "description_i18n": {
+            "en": "Finish the submachine-gun category separately.",
+            "pt": "Termine a categoria de submetralhadora separadamente."
+          }
+        },
+        {
+          "key": "complete-shotgun-range",
+          "title": "Complete the Shotgun range challenge",
+          "title_i18n": {
+            "en": "Complete the Shotgun range challenge",
+            "pt": "Concluir o desafio de escopeta do estande"
+          },
+          "description": "Finish all rounds for the shotgun category.",
+          "description_i18n": {
+            "en": "Finish all rounds for the shotgun category.",
+            "pt": "Termine todas as rodadas da categoria de escopeta."
+          }
+        },
+        {
+          "key": "complete-ak-range",
+          "title": "Complete the AK-47 range challenge",
+          "title_i18n": {
+            "en": "Complete the AK-47 range challenge",
+            "pt": "Concluir o desafio de AK-47 do estande"
+          },
+          "description": "Complete the final required weapon category.",
+          "description_i18n": {
+            "en": "Complete the final required weapon category.",
+            "pt": "Conclua a última categoria de arma exigida."
+          }
+        }
+      ]
+    },
+    {
+      "key": "optional-tournaments-and-stadiums",
+      "title": "Optional tournaments and stadiums",
+      "title_i18n": {
+        "en": "Optional tournaments and stadiums",
+        "pt": "Torneios e estádios opcionais"
+      },
+      "kind": "side",
+      "items": [
+        {
+          "key": "tournament-little-loop",
+          "title": "Win Little Loop",
+          "title_i18n": {
+            "en": "Win Little Loop",
+            "pt": "Vencer Little Loop"
+          },
+          "description": "Win this Los Santos tournament race using its provided vehicle.",
+          "description_i18n": {
+            "en": "Win this Los Santos tournament race using its provided vehicle.",
+            "pt": "Vença esta corrida do torneio de Los Santos com o veículo fornecido."
+          },
+          "details": "These are the twenty-two additional tournament events beyond the three races credited by campaign progress. Lowrider Race, Badlands A and Badlands B correspond to the earlier story races and do not need another victory for 100%. Win the sixteen additional ground races listed here, while the six Las Venturas Airport routes only need to be completed. Check each tournament board for its own recorded result rather than treating one overall race win as the whole group. Finish the required story and driving-school access before expecting every board to be available.",
+          "details_i18n": {
+            "en": "These are the twenty-two additional tournament events beyond the three races credited by campaign progress. Lowrider Race, Badlands A and Badlands B correspond to the earlier story races and do not need another victory for 100%. Win the sixteen additional ground races listed here, while the six Las Venturas Airport routes only need to be completed. Check each tournament board for its own recorded result rather than treating one overall race win as the whole group. Finish the required story and driving-school access before expecting every board to be available.",
+            "pt": "Estas são as vinte e duas provas adicionais dos torneios, além das três corridas creditadas pela campanha. Lowrider Race, Badlands A e Badlands B correspondem às corridas anteriores da história e não precisam de outra vitória para 100%. Vença as dezesseis corridas terrestres adicionais listadas aqui; as seis rotas do aeroporto de Las Venturas só precisam ser concluídas. Confira o resultado próprio de cada prova no quadro, sem tratar uma vitória como o grupo inteiro. Cumpra o acesso exigido pela história e pela autoescola antes de esperar todos os quadros disponíveis."
+          }
+        },
+        {
+          "key": "tournament-backroad-wanderer",
+          "title": "Win Backroad Wanderer",
+          "title_i18n": {
+            "en": "Win Backroad Wanderer",
+            "pt": "Vencer Backroad Wanderer"
+          },
+          "description": "Win this Los Santos tournament race using its provided vehicle.",
+          "description_i18n": {
+            "en": "Win this Los Santos tournament race using its provided vehicle.",
+            "pt": "Vença esta corrida do torneio de Los Santos com o veículo fornecido."
+          }
+        },
+        {
+          "key": "tournament-city-circuit",
+          "title": "Win City Circuit",
+          "title_i18n": {
+            "en": "Win City Circuit",
+            "pt": "Vencer City Circuit"
+          },
+          "description": "Win this Los Santos tournament race using its provided vehicle.",
+          "description_i18n": {
+            "en": "Win this Los Santos tournament race using its provided vehicle.",
+            "pt": "Vença esta corrida do torneio de Los Santos com o veículo fornecido."
+          }
+        },
+        {
+          "key": "tournament-vinewood",
+          "title": "Win Vinewood",
+          "title_i18n": {
+            "en": "Win Vinewood",
+            "pt": "Vencer Vinewood"
+          },
+          "description": "Win this Los Santos tournament race using its provided vehicle.",
+          "description_i18n": {
+            "en": "Win this Los Santos tournament race using its provided vehicle.",
+            "pt": "Vença esta corrida do torneio de Los Santos com o veículo fornecido."
+          }
+        },
+        {
+          "key": "tournament-freeway",
+          "title": "Win Freeway",
+          "title_i18n": {
+            "en": "Win Freeway",
+            "pt": "Vencer Freeway"
+          },
+          "description": "Win this Los Santos tournament race using its provided vehicle.",
+          "description_i18n": {
+            "en": "Win this Los Santos tournament race using its provided vehicle.",
+            "pt": "Vença esta corrida do torneio de Los Santos com o veículo fornecido."
+          }
+        },
+        {
+          "key": "tournament-into-the-country",
+          "title": "Win Into The Country",
+          "title_i18n": {
+            "en": "Win Into The Country",
+            "pt": "Vencer Into The Country"
+          },
+          "description": "Win this Los Santos tournament race using its provided vehicle.",
+          "description_i18n": {
+            "en": "Win this Los Santos tournament race using its provided vehicle.",
+            "pt": "Vença esta corrida do torneio de Los Santos com o veículo fornecido."
+          }
+        },
+        {
+          "key": "tournament-dirtbike-danger",
+          "title": "Win Dirtbike Danger",
+          "title_i18n": {
+            "en": "Win Dirtbike Danger",
+            "pt": "Vencer Dirtbike Danger"
+          },
+          "description": "Win this San Fierro tournament race using its provided vehicle.",
+          "description_i18n": {
+            "en": "Win this San Fierro tournament race using its provided vehicle.",
+            "pt": "Vença esta corrida do torneio de San Fierro com o veículo fornecido."
+          }
+        },
+        {
+          "key": "tournament-bandito-county",
+          "title": "Win Bandito County",
+          "title_i18n": {
+            "en": "Win Bandito County",
+            "pt": "Vencer Bandito County"
+          },
+          "description": "Win this San Fierro tournament race using its provided vehicle.",
+          "description_i18n": {
+            "en": "Win this San Fierro tournament race using its provided vehicle.",
+            "pt": "Vença esta corrida do torneio de San Fierro com o veículo fornecido."
+          }
+        },
+        {
+          "key": "tournament-go-go-karting",
+          "title": "Win Go-Go Karting",
+          "title_i18n": {
+            "en": "Win Go-Go Karting",
+            "pt": "Vencer Go-Go Karting"
+          },
+          "description": "Win this San Fierro tournament race using its provided vehicle.",
+          "description_i18n": {
+            "en": "Win this San Fierro tournament race using its provided vehicle.",
+            "pt": "Vença esta corrida do torneio de San Fierro com o veículo fornecido."
+          }
+        },
+        {
+          "key": "tournament-san-fierro-fastlane",
+          "title": "Win San Fierro Fastlane",
+          "title_i18n": {
+            "en": "Win San Fierro Fastlane",
+            "pt": "Vencer San Fierro Fastlane"
+          },
+          "description": "Win this San Fierro tournament race using its provided vehicle.",
+          "description_i18n": {
+            "en": "Win this San Fierro tournament race using its provided vehicle.",
+            "pt": "Vença esta corrida do torneio de San Fierro com o veículo fornecido."
+          }
+        },
+        {
+          "key": "tournament-san-fierro-hills",
+          "title": "Win San Fierro Hills",
+          "title_i18n": {
+            "en": "Win San Fierro Hills",
+            "pt": "Vencer San Fierro Hills"
+          },
+          "description": "Win this San Fierro tournament race using its provided vehicle.",
+          "description_i18n": {
+            "en": "Win this San Fierro tournament race using its provided vehicle.",
+            "pt": "Vença esta corrida do torneio de San Fierro com o veículo fornecido."
+          }
+        },
+        {
+          "key": "tournament-country-endurance",
+          "title": "Win Country Endurance",
+          "title_i18n": {
+            "en": "Win Country Endurance",
+            "pt": "Vencer Country Endurance"
+          },
+          "description": "Win this San Fierro tournament race using its provided vehicle.",
+          "description_i18n": {
+            "en": "Win this San Fierro tournament race using its provided vehicle.",
+            "pt": "Vença esta corrida do torneio de San Fierro com o veículo fornecido."
+          }
+        },
+        {
+          "key": "tournament-sf-to-lv",
+          "title": "Win SF to LV",
+          "title_i18n": {
+            "en": "Win SF to LV",
+            "pt": "Vencer SF to LV"
+          },
+          "description": "Win this Las Venturas tournament race using its provided vehicle.",
+          "description_i18n": {
+            "en": "Win this Las Venturas tournament race using its provided vehicle.",
+            "pt": "Vença esta corrida do torneio de Las Venturas com o veículo fornecido."
+          }
+        },
+        {
+          "key": "tournament-dam-rider",
+          "title": "Win Dam Rider",
+          "title_i18n": {
+            "en": "Win Dam Rider",
+            "pt": "Vencer Dam Rider"
+          },
+          "description": "Win this Las Venturas tournament race using its provided vehicle.",
+          "description_i18n": {
+            "en": "Win this Las Venturas tournament race using its provided vehicle.",
+            "pt": "Vença esta corrida do torneio de Las Venturas com o veículo fornecido."
+          }
+        },
+        {
+          "key": "tournament-desert-tricks",
+          "title": "Win Desert Tricks",
+          "title_i18n": {
+            "en": "Win Desert Tricks",
+            "pt": "Vencer Desert Tricks"
+          },
+          "description": "Win this Las Venturas tournament race using its provided vehicle.",
+          "description_i18n": {
+            "en": "Win this Las Venturas tournament race using its provided vehicle.",
+            "pt": "Vença esta corrida do torneio de Las Venturas com o veículo fornecido."
+          }
+        },
+        {
+          "key": "tournament-lv-ringroad",
+          "title": "Win LV Ringroad",
+          "title_i18n": {
+            "en": "Win LV Ringroad",
+            "pt": "Vencer LV Ringroad"
+          },
+          "description": "Win this Las Venturas tournament race using its provided vehicle.",
+          "description_i18n": {
+            "en": "Win this Las Venturas tournament race using its provided vehicle.",
+            "pt": "Vença esta corrida do torneio de Las Venturas com o veículo fornecido."
+          }
+        },
+        {
+          "key": "tournament-world-war-aces",
+          "title": "Complete World War Aces",
+          "title_i18n": {
+            "en": "Complete World War Aces",
+            "pt": "Concluir World War Aces"
+          },
+          "description": "Finish this Las Venturas Airport time trial; a first-place result is not required.",
+          "description_i18n": {
+            "en": "Finish this Las Venturas Airport time trial; a first-place result is not required.",
+            "pt": "Conclua esta prova de tempo no aeroporto de Las Venturas; não é exigido primeiro lugar."
+          }
+        },
+        {
+          "key": "tournament-barnstorming",
+          "title": "Complete Barnstorming",
+          "title_i18n": {
+            "en": "Complete Barnstorming",
+            "pt": "Concluir Barnstorming"
+          },
+          "description": "Finish this Las Venturas Airport time trial; a first-place result is not required.",
+          "description_i18n": {
+            "en": "Finish this Las Venturas Airport time trial; a first-place result is not required.",
+            "pt": "Conclua esta prova de tempo no aeroporto de Las Venturas; não é exigido primeiro lugar."
+          }
+        },
+        {
+          "key": "tournament-military-service",
+          "title": "Complete Military Service",
+          "title_i18n": {
+            "en": "Complete Military Service",
+            "pt": "Concluir Military Service"
+          },
+          "description": "Finish this Las Venturas Airport time trial; a first-place result is not required.",
+          "description_i18n": {
+            "en": "Finish this Las Venturas Airport time trial; a first-place result is not required.",
+            "pt": "Conclua esta prova de tempo no aeroporto de Las Venturas; não é exigido primeiro lugar."
+          }
+        },
+        {
+          "key": "tournament-chopper-checkpoint",
+          "title": "Complete Chopper Checkpoint",
+          "title_i18n": {
+            "en": "Complete Chopper Checkpoint",
+            "pt": "Concluir Chopper Checkpoint"
+          },
+          "description": "Finish this Las Venturas Airport time trial; a first-place result is not required.",
+          "description_i18n": {
+            "en": "Finish this Las Venturas Airport time trial; a first-place result is not required.",
+            "pt": "Conclua esta prova de tempo no aeroporto de Las Venturas; não é exigido primeiro lugar."
+          }
+        },
+        {
+          "key": "tournament-whirly-bird-waypoint",
+          "title": "Complete Whirly Bird Waypoint",
+          "title_i18n": {
+            "en": "Complete Whirly Bird Waypoint",
+            "pt": "Concluir Whirly Bird Waypoint"
+          },
+          "description": "Finish this Las Venturas Airport time trial; a first-place result is not required.",
+          "description_i18n": {
+            "en": "Finish this Las Venturas Airport time trial; a first-place result is not required.",
+            "pt": "Conclua esta prova de tempo no aeroporto de Las Venturas; não é exigido primeiro lugar."
+          }
+        },
+        {
+          "key": "tournament-heli-hell",
+          "title": "Complete Heli Hell",
+          "title_i18n": {
+            "en": "Complete Heli Hell",
+            "pt": "Concluir Heli Hell"
+          },
+          "description": "Finish this Las Venturas Airport time trial; a first-place result is not required.",
+          "description_i18n": {
+            "en": "Finish this Las Venturas Airport time trial; a first-place result is not required.",
+            "pt": "Conclua esta prova de tempo no aeroporto de Las Venturas; não é exigido primeiro lugar."
+          }
+        },
+        {
+          "key": "complete-eight-track",
+          "title": "Win 8-Track",
+          "title_i18n": {
+            "en": "Win 8-Track",
+            "pt": "Vencer 8-Track"
+          },
+          "description": "Complete the Los Santos stadium race with the required result.",
+          "description_i18n": {
+            "en": "Complete the Los Santos stadium race with the required result.",
+            "pt": "Conclua a corrida do estádio de Los Santos com o resultado exigido."
+          }
+        },
+        {
+          "key": "complete-blood-bowl",
+          "title": "Complete Blood Bowl",
+          "title_i18n": {
+            "en": "Complete Blood Bowl",
+            "pt": "Concluir Blood Bowl"
+          },
+          "description": "Finish the San Fierro stadium survival objective.",
+          "description_i18n": {
+            "en": "Finish the San Fierro stadium survival objective.",
+            "pt": "Termine o objetivo de sobrevivência do estádio de San Fierro."
+          }
+        },
+        {
+          "key": "complete-dirt-track",
+          "title": "Win Dirt Track",
+          "title_i18n": {
+            "en": "Win Dirt Track",
+            "pt": "Vencer Dirt Track"
+          },
+          "description": "Visit the Las Venturas stadium on a day offering the motorcycle race.",
+          "description_i18n": {
+            "en": "Visit the Las Venturas stadium on a day offering the motorcycle race.",
+            "pt": "Visite o estádio de Las Venturas em um dia com a corrida de motos."
+          }
+        },
+        {
+          "key": "complete-kickstart",
+          "title": "Complete Kickstart",
+          "title_i18n": {
+            "en": "Complete Kickstart",
+            "pt": "Concluir Kickstart"
+          },
+          "description": "Return on the alternate stadium schedule and pass the obstacle event.",
+          "description_i18n": {
+            "en": "Return on the alternate stadium schedule and pass the obstacle event.",
+            "pt": "Volte na programação alternativa do estádio e passe no evento de obstáculos."
+          }
+        }
+      ]
+    },
+    {
+      "key": "aggregate-collections-and-completion",
+      "title": "Aggregate collections and 100% review",
+      "title_i18n": {
+        "en": "Aggregate collections and 100% review",
+        "pt": "Coleções agregadas e revisão de 100%"
+      },
+      "kind": "collectible",
+      "items": [
+        {
+          "key": "spray-one-hundred-tags",
+          "title": "Spray all one hundred gang tags",
+          "title_i18n": {
+            "en": "Spray all one hundred gang tags",
+            "pt": "Pintar os cem grafites de gangues"
+          },
+          "description": "Use a separate Los Santos location checklist and finish each spray completely.",
+          "description_i18n": {
+            "en": "Use a separate Los Santos location checklist and finish each spray completely.",
+            "pt": "Use uma lista separada de locais de Los Santos e termine completamente cada pintura."
+          }
+        },
+        {
+          "key": "photograph-fifty-snapshots",
+          "title": "Photograph all fifty snapshots",
+          "title_i18n": {
+            "en": "Photograph all fifty snapshots",
+            "pt": "Fotografar os cinquenta snapshots"
+          },
+          "description": "Track San Fierro's marked photo opportunities with the camera; ordinary photos do not replace them.",
+          "description_i18n": {
+            "en": "Track San Fierro's marked photo opportunities with the camera; ordinary photos do not replace them.",
+            "pt": "Registre as oportunidades fotográficas marcadas de San Fierro com a câmera; fotos comuns não as substituem."
+          }
+        },
+        {
+          "key": "collect-fifty-horseshoes",
+          "title": "Collect all fifty horseshoes",
+          "title_i18n": {
+            "en": "Collect all fifty horseshoes",
+            "pt": "Coletar as cinquenta ferraduras"
+          },
+          "description": "Use a separate Las Venturas checklist for rooftop and ground-level pickups.",
+          "description_i18n": {
+            "en": "Use a separate Las Venturas checklist for rooftop and ground-level pickups.",
+            "pt": "Use uma lista separada de Las Venturas para itens nas coberturas e no chão."
+          }
+        },
+        {
+          "key": "collect-fifty-oysters",
+          "title": "Collect all fifty oysters",
+          "title_i18n": {
+            "en": "Collect all fifty oysters",
+            "pt": "Coletar as cinquenta ostras"
+          },
+          "description": "Track the state-wide underwater pickups separately from ordinary swimming.",
+          "description_i18n": {
+            "en": "Track the state-wide underwater pickups separately from ordinary swimming.",
+            "pt": "Registre os itens submersos por todo o estado separadamente da natação comum."
+          }
+        },
+        {
+          "key": "complete-export-list-one",
+          "title": "Complete export list one",
+          "title_i18n": {
+            "en": "Complete export list one",
+            "pt": "Concluir a primeira lista de exportação"
+          },
+          "description": "After Customs Fast Track, deliver all ten models on the current Easter Basin board.",
+          "description_i18n": {
+            "en": "After Customs Fast Track, deliver all ten models on the current Easter Basin board.",
+            "pt": "Após Customs Fast Track, entregue os dez modelos do quadro atual de Easter Basin."
+          },
+          "details": "Customs Fast Track unlocks the Easter Basin export board. Deliver only models on the current ten-vehicle list and use its crossed-off entries to track progress; completing a list unlocks the next one. Bring each vehicle to the ship's delivery position, using the dock crane when needed. Damage reduces the payment, so a careful route or repair before delivery is worthwhile. The 100% goal is thirty exported vehicles across three lists; buying every available import is not required.",
+          "details_i18n": {
+            "en": "Customs Fast Track unlocks the Easter Basin export board. Deliver only models on the current ten-vehicle list and use its crossed-off entries to track progress; completing a list unlocks the next one. Bring each vehicle to the ship's delivery position, using the dock crane when needed. Damage reduces the payment, so a careful route or repair before delivery is worthwhile. The 100% goal is thirty exported vehicles across three lists; buying every available import is not required.",
+            "pt": "Customs Fast Track libera o quadro de exportações em Easter Basin. Entregue apenas modelos da lista atual de dez veículos e acompanhe os itens riscados; concluir uma lista libera a próxima. Leve cada veículo à posição de entrega no navio, usando o guindaste do cais quando necessário. Danos reduzem o pagamento, então vale usar uma rota cuidadosa ou reparar antes da entrega. A meta de 100% são trinta veículos exportados em três listas; comprar todas as importações disponíveis não é necessário."
+          }
+        },
+        {
+          "key": "complete-export-list-two",
+          "title": "Complete export list two",
+          "title_i18n": {
+            "en": "Complete export list two",
+            "pt": "Concluir a segunda lista de exportação"
+          },
+          "description": "Deliver the second board's ten models and verify each crossed-off entry.",
+          "description_i18n": {
+            "en": "Deliver the second board's ten models and verify each crossed-off entry.",
+            "pt": "Entregue os dez modelos do segundo quadro e confira cada item riscado."
+          }
+        },
+        {
+          "key": "complete-export-list-three",
+          "title": "Complete export list three",
+          "title_i18n": {
+            "en": "Complete export list three",
+            "pt": "Concluir a terceira lista de exportação"
+          },
+          "description": "Finish the final ten models for thirty exports across three lists.",
+          "description_i18n": {
+            "en": "Finish the final ten models for thirty exports across three lists.",
+            "pt": "Termine os últimos dez modelos para somar trinta exportações em três listas."
+          }
+        },
+        {
+          "key": "purchase-all-required-properties",
+          "title": "Purchase all required properties",
+          "title_i18n": {
+            "en": "Purchase all required properties",
+            "pt": "Comprar todas as propriedades exigidas"
+          },
+          "description": "For 100%, buy twenty-nine safehouses plus Zero, Wang Cars and Verdant Meadows: thirty-two purchases.",
+          "description_i18n": {
+            "en": "For 100%, buy twenty-nine safehouses plus Zero, Wang Cars and Verdant Meadows: thirty-two purchases.",
+            "pt": "Para 100%, compre vinte e nove esconderijos mais Zero, Wang Cars e Verdant Meadows: trinta e duas compras."
+          }
+        },
+        {
+          "key": "optional-seventy-unique-jumps",
+          "title": "Optional: complete seventy Unique Stunt Jumps",
+          "title_i18n": {
+            "en": "Optional: complete seventy Unique Stunt Jumps",
+            "pt": "Opcional: concluir setenta Unique Stunt Jumps"
+          },
+          "description": "These are extra mastery goals and are not required for native 100% completion.",
+          "description_i18n": {
+            "en": "These are extra mastery goals and are not required for native 100% completion.",
+            "pt": "Essas são metas extras de domínio e não são exigidas para a conclusão nativa de 100%."
+          }
+        },
+        {
+          "key": "verify-native-one-hundred-percent",
+          "title": "Verify native 100% completion",
+          "title_i18n": {
+            "en": "Verify native 100% completion",
+            "pt": "Verificar a conclusão nativa de 100%"
+          },
+          "description": "Confirm required missions, activities, schools, gym styles, properties and collections in the game statistics; the original PS2 release has no native trophies.",
+          "description_i18n": {
+            "en": "Confirm required missions, activities, schools, gym styles, properties and collections in the game statistics; the original PS2 release has no native trophies.",
+            "pt": "Confirme missões, atividades, escolas, estilos de luta, propriedades e coleções exigidos nas estatísticas do jogo; a edição original de PS2 não possui troféus nativos."
+          }
+        }
+      ]
+    }
+  ],
+  "trophies": [],
+  "hltb_id": "4073",
+  "hltb_main_hours": 30,
+  "hltb_main_extra_hours": 44,
+  "hltb_completionist_hours": 69
+}
