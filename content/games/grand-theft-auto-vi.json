@@ -1,0 +1,788 @@
+{
+  "slug": "grand-theft-auto-vi",
+  "title": "Grand Theft Auto VI",
+  "title_i18n": {
+    "en": "Grand Theft Auto VI",
+    "pt": "Grand Theft Auto VI"
+  },
+  "platform": "PlayStation 5",
+  "cover_url": "/covers/grand-theft-auto-vi.png",
+  "created_by": "dd5c4bf0-85ea-4986-9c04-b37e8c986150",
+  "categories": [],
+  "trophies": [
+    {
+      "key": "trophy-vice-got-a-price",
+      "title": "Vice Got a Price!",
+      "title_i18n": {
+        "en": "Vice Got a Price!",
+        "pt": "Vice Got a Price!"
+      },
+      "description": "Congratulations! You're a Leonida Legend.",
+      "description_i18n": {
+        "en": "Congratulations! You're a Leonida Legend.",
+        "pt": "Parabéns! Você é uma lenda de Leonida."
+      },
+      "tier": "platinum"
+    },
+    {
+      "key": "trophy-a-long-road",
+      "title": "A Long Road",
+      "title_i18n": {
+        "en": "A Long Road",
+        "pt": "A Long Road"
+      },
+      "description": "Attain 100% Completion.",
+      "description_i18n": {
+        "en": "Attain 100% Completion.",
+        "pt": "Alcance 100% de conclusão."
+      },
+      "tier": "gold"
+    },
+    {
+      "key": "trophy-you-gotta-know-when-to-get-off",
+      "title": "You Gotta Know When to Get Off",
+      "title_i18n": {
+        "en": "You Gotta Know When to Get Off",
+        "pt": "You Gotta Know When to Get Off"
+      },
+      "description": "Complete Chapter 5.",
+      "description_i18n": {
+        "en": "Complete Chapter 5.",
+        "pt": "Complete o Capítulo 5."
+      },
+      "tier": "gold"
+    },
+    {
+      "key": "trophy-cunning-stunts",
+      "title": "Cunning Stunts",
+      "title_i18n": {
+        "en": "Cunning Stunts",
+        "pt": "Cunning Stunts"
+      },
+      "description": "Complete 250 Stunts.",
+      "description_i18n": {
+        "en": "Complete 250 Stunts.",
+        "pt": "Complete 250 manobras."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "trophy-the-shootist",
+      "title": "The Shootist",
+      "title_i18n": {
+        "en": "The Shootist",
+        "pt": "The Shootist"
+      },
+      "description": "Earn a gold medal in all Shooting Range challenges.",
+      "description_i18n": {
+        "en": "Earn a gold medal in all Shooting Range challenges.",
+        "pt": "Conquiste a medalha de ouro em todos os desafios do estande de tiro."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "trophy-strangers-and-freaks",
+      "title": "Strangers & Freaks",
+      "title_i18n": {
+        "en": "Strangers & Freaks",
+        "pt": "Strangers & Freaks"
+      },
+      "description": "Complete 8 mission strands for strangers across the state of Leonida.",
+      "description_i18n": {
+        "en": "Complete 8 mission strands for strangers across the state of Leonida.",
+        "pt": "Complete 8 sequências de missões para estranhos pelo estado de Leonida."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "trophy-dont-touch-my-deck",
+      "title": "Don't Touch My Deck",
+      "title_i18n": {
+        "en": "Don't Touch My Deck",
+        "pt": "Don't Touch My Deck"
+      },
+      "description": "Complete 3 Collectible Card sets.",
+      "description_i18n": {
+        "en": "Complete 3 Collectible Card sets.",
+        "pt": "Complete 3 coleções de cartas colecionáveis."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "trophy-you-wainker",
+      "title": "You WAiNKer!",
+      "title_i18n": {
+        "en": "You WAiNKer!",
+        "pt": "You WAiNKer!"
+      },
+      "description": "WAiNK It at 100 locations.",
+      "description_i18n": {
+        "en": "WAiNK It at 100 locations.",
+        "pt": "Faça o WAiNK It em 100 locais."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "trophy-maximum-withdrawal",
+      "title": "Maximum Withdrawal",
+      "title_i18n": {
+        "en": "Maximum Withdrawal",
+        "pt": "Maximum Withdrawal"
+      },
+      "description": "Rob 5 Bank Vaults and escape.",
+      "description_i18n": {
+        "en": "Rob 5 Bank Vaults and escape.",
+        "pt": "Roube 5 cofres de banco e escape."
+      },
+      "tier": "silver"
+    },
+    {
+      "key": "trophy-master-of-none",
+      "title": "Master of None",
+      "title_i18n": {
+        "en": "Master of None",
+        "pt": "Master of None"
+      },
+      "description": "Try each type of activity once.",
+      "description_i18n": {
+        "en": "Try each type of activity once.",
+        "pt": "Experimente cada tipo de atividade pelo menos uma vez."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-top-fun",
+      "title": "Top Fun",
+      "title_i18n": {
+        "en": "Top Fun",
+        "pt": "Top Fun"
+      },
+      "description": "Win a Top Fun Drone Race at every location.",
+      "description_i18n": {
+        "en": "Win a Top Fun Drone Race at every location.",
+        "pt": "Vença uma corrida de drones Top Fun em cada local."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-earn-cash-not-kudos",
+      "title": "Earn Cash, Not Kudos",
+      "title_i18n": {
+        "en": "Earn Cash, Not Kudos",
+        "pt": "Earn Cash, Not Kudos"
+      },
+      "description": "Win 20 different races.",
+      "description_i18n": {
+        "en": "Win 20 different races.",
+        "pt": "Vença 20 corridas diferentes."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-baited-my-tackle",
+      "title": "Baited My Tackle",
+      "title_i18n": {
+        "en": "Baited My Tackle",
+        "pt": "Baited My Tackle"
+      },
+      "description": "Beat Cal in a fishing challenge.",
+      "description_i18n": {
+        "en": "Beat Cal in a fishing challenge.",
+        "pt": "Vença Cal em um desafio de pesca."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-stick-fiddler",
+      "title": "Stick Fiddler",
+      "title_i18n": {
+        "en": "Stick Fiddler",
+        "pt": "Stick Fiddler"
+      },
+      "description": "Complete an arcade game.",
+      "description_i18n": {
+        "en": "Complete an arcade game.",
+        "pt": "Complete um jogo de arcade."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-positive-mental-attitude",
+      "title": "Positive Mental Attitude",
+      "title_i18n": {
+        "en": "Positive Mental Attitude",
+        "pt": "Positive Mental Attitude"
+      },
+      "description": "Meditate at every spot across Leonida.",
+      "description_i18n": {
+        "en": "Meditate at every spot across Leonida.",
+        "pt": "Medite em todos os pontos de meditação de Leonida."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-one-last-thing",
+      "title": "One Last Thing",
+      "title_i18n": {
+        "en": "One Last Thing",
+        "pt": "One Last Thing"
+      },
+      "description": "Complete 50 Challenges.",
+      "description_i18n": {
+        "en": "Complete 50 Challenges.",
+        "pt": "Complete 50 desafios."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-hot-together",
+      "title": "Hot Together",
+      "title_i18n": {
+        "en": "Hot Together",
+        "pt": "Hot Together"
+      },
+      "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+      "description_i18n": {
+        "en": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+        "pt": "Perca um nível de procurado de 4 estrelas com seu parceiro e escape da polícia."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-retail-therapy",
+      "title": "Retail Therapy",
+      "title_i18n": {
+        "en": "Retail Therapy",
+        "pt": "Retail Therapy"
+      },
+      "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+      "description_i18n": {
+        "en": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+        "pt": "Roube 3 lojas seguidas com seu parceiro sem perder o nível de procurado."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-whip-it-good",
+      "title": "Whip It Good",
+      "title_i18n": {
+        "en": "Whip It Good",
+        "pt": "Whip It Good"
+      },
+      "description": "Discover 100 vehicles.",
+      "description_i18n": {
+        "en": "Discover 100 vehicles.",
+        "pt": "Descubra 100 veículos."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-gunslinger",
+      "title": "Gunslinger",
+      "title_i18n": {
+        "en": "Gunslinger",
+        "pt": "Gunslinger"
+      },
+      "description": "Take down 5 enemies in a single use of Combat Focus.",
+      "description_i18n": {
+        "en": "Take down 5 enemies in a single use of Combat Focus.",
+        "pt": "Derrube 5 inimigos em um único uso do Foco de Combate."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-sneakthief",
+      "title": "Sneakthief",
+      "title_i18n": {
+        "en": "Sneakthief",
+        "pt": "Sneakthief"
+      },
+      "description": "Rob a jewelry store without being detected.",
+      "description_i18n": {
+        "en": "Rob a jewelry store without being detected.",
+        "pt": "Roube uma joalheria sem ser detectado."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-a-classic-blitz-play",
+      "title": "A Classic Blitz Play",
+      "title_i18n": {
+        "en": "A Classic Blitz Play",
+        "pt": "A Classic Blitz Play"
+      },
+      "description": "Rob an Armored Truck and escape.",
+      "description_i18n": {
+        "en": "Rob an Armored Truck and escape.",
+        "pt": "Roube um carro-forte e escape."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-the-goodtime-state",
+      "title": "The Goodtime State",
+      "title_i18n": {
+        "en": "The Goodtime State",
+        "pt": "The Goodtime State"
+      },
+      "description": "Explore all of Leonida.",
+      "description_i18n": {
+        "en": "Explore all of Leonida.",
+        "pt": "Explore todo o estado de Leonida."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-pest-control",
+      "title": "Pest Control",
+      "title_i18n": {
+        "en": "Pest Control",
+        "pt": "Pest Control"
+      },
+      "description": "Rob an Illegal Operation belonging to each gang.",
+      "description_i18n": {
+        "en": "Rob an Illegal Operation belonging to each gang.",
+        "pt": "Roube uma operação ilegal de cada gangue."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-dime-on-the-dollar",
+      "title": "Dime on the Dollar",
+      "title_i18n": {
+        "en": "Dime on the Dollar",
+        "pt": "Dime on the Dollar"
+      },
+      "description": "Earn $250,000 laundering Marked Bills through your contacts.",
+      "description_i18n": {
+        "en": "Earn $250,000 laundering Marked Bills through your contacts.",
+        "pt": "Ganhe US$ 250.000 lavando Notas Marcadas através dos seus contatos."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-treat-yo-self",
+      "title": "Treat Yo Self",
+      "title_i18n": {
+        "en": "Treat Yo Self",
+        "pt": "Treat Yo Self"
+      },
+      "description": "Spend $100,000 across all shops.",
+      "description_i18n": {
+        "en": "Spend $100,000 across all shops.",
+        "pt": "Gaste US$ 100.000 em todas as lojas."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-little-boxes",
+      "title": "Little Boxes",
+      "title_i18n": {
+        "en": "Little Boxes",
+        "pt": "Little Boxes"
+      },
+      "description": "Purchase all garage properties.",
+      "description_i18n": {
+        "en": "Purchase all garage properties.",
+        "pt": "Compre todas as garagens disponíveis."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-on-the-spot",
+      "title": "On the Spot",
+      "title_i18n": {
+        "en": "On the Spot",
+        "pt": "On the Spot"
+      },
+      "description": "Register 10 vehicles to the Scooter Bros app.",
+      "description_i18n": {
+        "en": "Register 10 vehicles to the Scooter Bros app.",
+        "pt": "Registre 10 veículos no aplicativo Scooter Bros."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-just-like-paradise",
+      "title": "Just Like Paradise",
+      "title_i18n": {
+        "en": "Just Like Paradise",
+        "pt": "Just Like Paradise"
+      },
+      "description": "Complete Gone Fishing.",
+      "description_i18n": {
+        "en": "Complete Gone Fishing.",
+        "pt": "Complete \"Gone Fishing\"."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-paradise-lost",
+      "title": "Paradise Lost",
+      "title_i18n": {
+        "en": "Paradise Lost",
+        "pt": "Paradise Lost"
+      },
+      "description": "Complete Chapter 1.",
+      "description_i18n": {
+        "en": "Complete Chapter 1.",
+        "pt": "Complete o Capítulo 1."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-ts-ass-drug-money",
+      "title": "T**s Ass Drug Money",
+      "title_i18n": {
+        "en": "T**s Ass Drug Money",
+        "pt": "T**s Ass Drug Money"
+      },
+      "description": "Complete Chapter 2.",
+      "description_i18n": {
+        "en": "Complete Chapter 2.",
+        "pt": "Complete o Capítulo 2."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-vice-city-baby",
+      "title": "Vice City, Baby!",
+      "title_i18n": {
+        "en": "Vice City, Baby!",
+        "pt": "Vice City, Baby!"
+      },
+      "description": "Complete Chapter 3.",
+      "description_i18n": {
+        "en": "Complete Chapter 3.",
+        "pt": "Complete o Capítulo 3."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-top-of-the-world-ma",
+      "title": "Top Of The World, Ma",
+      "title_i18n": {
+        "en": "Top Of The World, Ma",
+        "pt": "Top Of The World, Ma"
+      },
+      "description": "Complete Chapter 4.",
+      "description_i18n": {
+        "en": "Complete Chapter 4.",
+        "pt": "Complete o Capítulo 4."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-trust",
+      "title": "Trust",
+      "title_i18n": {
+        "en": "Trust",
+        "pt": "Trust"
+      },
+      "description": "Complete Breakfast Run.",
+      "description_i18n": {
+        "en": "Complete Breakfast Run.",
+        "pt": "Complete \"Breakfast Run\"."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-break-the-bank",
+      "title": "Break the Bank",
+      "title_i18n": {
+        "en": "Break the Bank",
+        "pt": "Break the Bank"
+      },
+      "description": "Complete The Cartel Heist.",
+      "description_i18n": {
+        "en": "Complete The Cartel Heist.",
+        "pt": "Complete \"The Cartel Heist\"."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-family-matters",
+      "title": "Family Matters",
+      "title_i18n": {
+        "en": "Family Matters",
+        "pt": "Family Matters"
+      },
+      "description": "Complete Child's Play.",
+      "description_i18n": {
+        "en": "Complete Child's Play.",
+        "pt": "Complete \"Child's Play\"."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-dwnfall",
+      "title": "DWNFALL",
+      "title_i18n": {
+        "en": "DWNFALL",
+        "pt": "DWNFALL"
+      },
+      "description": "Complete Headliners.",
+      "description_i18n": {
+        "en": "Complete Headliners.",
+        "pt": "Complete \"Headliners\"."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-hi-jacked",
+      "title": "Hi-Jacked",
+      "title_i18n": {
+        "en": "Hi-Jacked",
+        "pt": "Hi-Jacked"
+      },
+      "description": "Complete VCIA Takedown.",
+      "description_i18n": {
+        "en": "Complete VCIA Takedown.",
+        "pt": "Complete \"VCIA Takedown\"."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-snow-storm",
+      "title": "Snow Storm",
+      "title_i18n": {
+        "en": "Snow Storm",
+        "pt": "Snow Storm"
+      },
+      "description": "Complete Operation Savage Glory.",
+      "description_i18n": {
+        "en": "Complete Operation Savage Glory.",
+        "pt": "Complete a \"Operation Savage Glory\"."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-road-to-rehabilitation",
+      "title": "Road to Rehabilitation",
+      "title_i18n": {
+        "en": "Road to Rehabilitation",
+        "pt": "Road to Rehabilitation"
+      },
+      "description": "Complete the final mission for Andy.",
+      "description_i18n": {
+        "en": "Complete the final mission for Andy.",
+        "pt": "Complete a missão final de Andy."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-this-was-no-boat-accident",
+      "title": "This Was No Boat Accident",
+      "title_i18n": {
+        "en": "This Was No Boat Accident",
+        "pt": "This Was No Boat Accident"
+      },
+      "description": "Complete the final mission for Kenton.",
+      "description_i18n": {
+        "en": "Complete the final mission for Kenton.",
+        "pt": "Complete a missão final de Kenton."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-the-lone-rider",
+      "title": "The Lone Rider",
+      "title_i18n": {
+        "en": "The Lone Rider",
+        "pt": "The Lone Rider"
+      },
+      "description": "Complete the final mission for Billy.",
+      "description_i18n": {
+        "en": "Complete the final mission for Billy.",
+        "pt": "Complete a missão final de Billy."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-supply-and-demand",
+      "title": "Supply & Demand",
+      "title_i18n": {
+        "en": "Supply & Demand",
+        "pt": "Supply & Demand"
+      },
+      "description": "Complete the final mission for Randy.",
+      "description_i18n": {
+        "en": "Complete the final mission for Randy.",
+        "pt": "Complete a missão final de Randy."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-spin-on-this",
+      "title": "Spin On This!",
+      "title_i18n": {
+        "en": "Spin On This!",
+        "pt": "Spin On This!"
+      },
+      "description": "Complete the final mission for Tyrone.",
+      "description_i18n": {
+        "en": "Complete the final mission for Tyrone.",
+        "pt": "Complete a missão final de Tyrone."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-fair-game",
+      "title": "Fair Game",
+      "title_i18n": {
+        "en": "Fair Game",
+        "pt": "Fair Game"
+      },
+      "description": "Hunt a unique animal for Bret.",
+      "description_i18n": {
+        "en": "Hunt a unique animal for Bret.",
+        "pt": "Cace um animal único para Bret."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-catch-me-if-you-can",
+      "title": "Catch Me If You Can",
+      "title_i18n": {
+        "en": "Catch Me If You Can",
+        "pt": "Catch Me If You Can"
+      },
+      "description": "Make an unscheduled departure at VCIA.",
+      "description_i18n": {
+        "en": "Make an unscheduled departure at VCIA.",
+        "pt": "Faça uma saída não programada do VCIA."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-challenging-tank",
+      "title": "Challenging Tank",
+      "title_i18n": {
+        "en": "Challenging Tank",
+        "pt": "Challenging Tank"
+      },
+      "description": "Kinda hot in these Rhinos.",
+      "description_i18n": {
+        "en": "Kinda hot in these Rhinos.",
+        "pt": "Meio quente aqui dentro desses tanques Rhino."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-in-the-beginning",
+      "title": "In The Beginning…",
+      "title_i18n": {
+        "en": "In The Beginning…",
+        "pt": "In The Beginning…"
+      },
+      "description": "Enjoy a cocktail with a view on Ocean Beach.",
+      "description_i18n": {
+        "en": "Enjoy a cocktail with a view on Ocean Beach.",
+        "pt": "Aproveite um coquetel com vista em Ocean Beach."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-capital-offense",
+      "title": "Capital Offense",
+      "title_i18n": {
+        "en": "Capital Offense",
+        "pt": "Capital Offense"
+      },
+      "description": "Smash your way out of a vehicle showroom in classic style.",
+      "description_i18n": {
+        "en": "Smash your way out of a vehicle showroom in classic style.",
+        "pt": "Abra caminho à força para fora de uma concessionária, em grande estilo clássico."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-lets-go-bowling",
+      "title": "Let's Go Bowling",
+      "title_i18n": {
+        "en": "Let's Go Bowling",
+        "pt": "Let's Go Bowling"
+      },
+      "description": "Follow-through at the Kolt & Associates' bowling alley.",
+      "description_i18n": {
+        "en": "Follow-through at the Kolt & Associates' bowling alley.",
+        "pt": "Finalize a jogada no boliche da Kolt & Associates."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-personal-best",
+      "title": "Personal Best",
+      "title_i18n": {
+        "en": "Personal Best",
+        "pt": "Personal Best"
+      },
+      "description": "A partnership with mass appeal.",
+      "description_i18n": {
+        "en": "A partnership with mass appeal.",
+        "pt": "Uma parceria de apelo popular."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-actions-speak-louder",
+      "title": "Actions Speak Louder",
+      "title_i18n": {
+        "en": "Actions Speak Louder",
+        "pt": "Actions Speak Louder"
+      },
+      "description": "Choices made (for better or worse).",
+      "description_i18n": {
+        "en": "Choices made (for better or worse).",
+        "pt": "Escolhas feitas (para o bem ou para o mal)."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-bad-luck-i-guess",
+      "title": "Bad Luck, I Guess",
+      "title_i18n": {
+        "en": "Bad Luck, I Guess",
+        "pt": "Bad Luck, I Guess"
+      },
+      "description": "Second time's the charm.",
+      "description_i18n": {
+        "en": "Second time's the charm.",
+        "pt": "Da segunda vez é que é a boa."
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-the-truth-is-out-there",
+      "title": "The Truth Is Out There",
+      "title_i18n": {
+        "en": "The Truth Is Out There",
+        "pt": "The Truth Is Out There"
+      },
+      "description": "What the hell just happened?",
+      "description_i18n": {
+        "en": "What the hell just happened?",
+        "pt": "Que diabos acabou de acontecer?"
+      },
+      "tier": "bronze"
+    },
+    {
+      "key": "trophy-ten-pin",
+      "title": "Ten Pin",
+      "title_i18n": {
+        "en": "Ten Pin",
+        "pt": "Ten Pin"
+      },
+      "description": "Bowl 'em over with a melee drive-by.",
+      "description_i18n": {
+        "en": "Bowl 'em over with a melee drive-by.",
+        "pt": "Derrube todo mundo com um ataque corpo a corpo sobre rodas."
+      },
+      "tier": "bronze"
+    }
+  ],
+  "hltb_id": "104609",
+  "hltb_main_hours": 63,
+  "hltb_main_extra_hours": 86,
+  "hltb_completionist_hours": null
+}
